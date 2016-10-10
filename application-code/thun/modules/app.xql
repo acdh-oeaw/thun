@@ -5,11 +5,31 @@ declare namespace functx = 'http://www.functx.com';
 import module namespace templates="http://exist-db.org/xquery/templates" ;
 import module namespace config="http://www.digital-archiv.at/ns/thun/config" at "config.xqm";
 import module namespace kwic = "http://exist-db.org/xquery/kwic" at "resource:org/exist/xquery/lib/kwic.xql";
+
+ declare function functx:escape-for-regex
+  ( $arg as xs:string? )  as xs:string {
+
+   replace($arg,
+           '(\.|\[|\]|\\|\||\-|\^|\$|\?|\*|\+|\{|\}|\(|\))','\\$1')
+ } ;
+
 declare function functx:substring-after-last
   ( $arg as xs:string? ,
     $delim as xs:string )  as xs:string {
     replace ($arg,concat('^.*',$delim),'')
  };
+ 
+ declare function functx:substring-before-last
+  ( $arg as xs:string? ,
+    $delim as xs:string )  as xs:string {
+
+   if (matches($arg, functx:escape-for-regex($delim)))
+   then replace($arg,
+            concat('^(.*)', functx:escape-for-regex($delim),'.*'),
+            '$1')
+   else ''
+ } ;
+
 
 
 (:~
@@ -90,11 +110,32 @@ declare function app:listPers($node as node(), $model as map(*)) {
  : creates a basic table of content derived from the documents stored in '/data/editions'
  :)
 declare function app:toc($node as node(), $model as map(*)) {
-    for $doc in collection(concat($config:app-root, '/data/editions/'))//tei:TEI
+    for $title in collection(concat($config:app-root, '/data/editions/'))//tei:TEI
+    let $sender := fn:normalize-space($title//tei:persName[@role=contains($title//tei:persName/@role,'sender') and 1]/text())
+        let $sender_nn := if(fn:exists($title//tei:persName[@role=contains($title//tei:persName/@role,'sender') and 1]/text()))
+                            then concat(functx:substring-after-last($sender,' '), ", ")
+                            else "ohne Absender"
+        let $sender_vn := functx:substring-before-last($sender,' ')
+        let $empfänger := fn:normalize-space($title//tei:persName[@role=contains($title//tei:persName/@role,'recipient') and 1]/text())
+        let $empfänger_nn := if(fn:exists($title//tei:persName[@role=contains($title//tei:persName/@role,'recipient') and 1]/text()))
+                                then concat(functx:substring-after-last($empfänger,' '), ", ")
+                                else "ohne Empfänger"
+        let $empfänger_vn := functx:substring-before-last($empfänger,' ')
+        let $wo := if(fn:exists($title//tei:title/tei:placeName[2]/text()))
+                     then concat($title//tei:title/tei:placeName[1]/text()," und ", $title//tei:title/tei:placeName[2]/text())
+                     else $title//tei:title/tei:placeName[1]/text()
+        let $wann := data($title//tei:date/@when)[1]
+        let $zitat := $title//tei:msIdentifier
         return
-        <li>
-            <a href="{app:hrefToDoc($doc)}">{app:getDocName($doc)}</a>
-        </li>   
+        <tr>
+           <td>{$sender_nn}{$sender_vn}</td>
+           <td>{$empfänger_nn}{$empfänger_vn}</td>
+           <td align="center">{$wo}</td>
+           <td align="center"><abbr title="{$zitat}">{$wann}</abbr></td>
+            <td>
+                <a href="{app:hrefToDoc($title)}">{app:getDocName($title)}</a>
+            </td>
+        </tr>   
 };
 
 (:~
