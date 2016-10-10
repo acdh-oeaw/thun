@@ -208,6 +208,30 @@
                 <xsl:value-of select="."/>
             </xsl:element>
         </strong>
+    </xsl:template>
+    <xsl:template match="tei:persName[@key]">
+        <strong>
+            <xsl:element name="a">
+                <xsl:attribute name="class">reference</xsl:attribute>
+                <xsl:attribute name="data-type">listperson.xml</xsl:attribute>
+                <xsl:attribute name="data-key">
+                    <xsl:value-of select="@key"/>
+                </xsl:attribute>
+                <xsl:value-of select="."/>
+            </xsl:element>
+        </strong>
+    </xsl:template>
+    <xsl:template match="tei:placeName[@key]">
+        <strong>
+            <xsl:element name="a">
+                <xsl:attribute name="class">reference</xsl:attribute>
+                <xsl:attribute name="data-type">listplace.xml</xsl:attribute>
+                <xsl:attribute name="data-key">
+                    <xsl:value-of select="@key"/>
+                </xsl:attribute>
+                <xsl:value-of select="."/>
+            </xsl:element>
+        </strong>
     </xsl:template><!-- additions -->
     <xsl:template match="tei:add">
         <xsl:element name="span">
