@@ -6,6 +6,13 @@ import module namespace templates="http://exist-db.org/xquery/templates" ;
 import module namespace config="http://www.digital-archiv.at/ns/thun/config" at "config.xqm";
 import module namespace kwic = "http://exist-db.org/xquery/kwic" at "resource:org/exist/xquery/lib/kwic.xql";
 
+declare function functx:contains-case-insensitive
+  ( $arg as xs:string? ,
+    $substring as xs:string )  as xs:boolean? {
+
+   contains(upper-case($arg), upper-case($substring))
+ } ;
+
  declare function functx:escape-for-regex
   ( $arg as xs:string? )  as xs:string {
 
@@ -84,17 +91,18 @@ let $href := concat('show.html','?document=', app:getDocName($node))
  };
 
 (:~
- : fetches all documents which contain the searched person
+ : fetches all documents which contain the searched person or place
  :)
-declare function app:listPers_hits($node as node(), $model as map(*), $searchkey as xs:string?, $path as xs:string?)
+declare function app:indexSearch_hits($node as node(), $model as map(*), $searchkey as xs:string?, $path as xs:string?)
 {
-    for $hit in collection(concat($config:app-root, '/data/editions/'))//tei:TEI[.//tei:persName[@key=$searchkey] |.//tei:rs[@ref=concat("#",$searchkey)] |.//tei:rs[@key=contains(./@key,$searchkey)]]
+    for $hit in collection(concat($config:app-root, '/data/editions/'))//tei:TEI[.//tei:placeName[functx:contains-case-insensitive(./text(), $searchkey)] | .//tei:placeName[@key=$searchkey] | .//tei:persName[@key=$searchkey]]
     let $doc := document-uri(root($hit)) 
     return
     <li>
         <a href="{app:hrefToDoc($hit)}">{app:getDocName($hit)}</a>
     </li> 
  };
+ 
  
 (:~
  : creates a basic person-index derived from the  '/data/indices/listperson.xml'
@@ -104,6 +112,16 @@ declare function app:listPers($node as node(), $model as map(*)) {
     for $person in doc(concat($config:app-root, '/data/indices/listperson.xml'))//tei:listPerson/tei:person
         return
         <li><a href="{concat($hitHtml,data($person/@xml:id))}">{$person/tei:persName}</a></li>
+};
+
+(:~
+ : creates a basic place-index derived from the  '/data/indices/listplace.xml'
+ :)
+declare function app:listPlace($node as node(), $model as map(*)) {
+    let $hitHtml := "hits.html?searchkey="
+    for $place in doc(concat($config:app-root, '/data/indices/listplace.xml'))//tei:listPlace/tei:place
+        return
+        <li><a href="{concat($hitHtml,data($place/@xml:id))}">{$place/tei:placeName}</a></li>
 };
 
 (:~
