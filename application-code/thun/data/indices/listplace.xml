@@ -1,0 +1,3073 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0        http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ortsverzeichnis</title>
+                <respStmt>
+                    <resp>providing the content</resp>
+                    <name>Christof Aichner</name>
+                    <name>Tanja Kraler</name>
+                </respStmt>
+                <respStmt>
+                    <resp>converted to XML encoding</resp>
+                    <name>Peter Andorfer</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <date>2016-10</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Ortsverzeichnis der Thun-Korrespondenz</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="index_places">
+                <listPlace>
+                    <place xml:id="debrezin">
+                        <placeName type="pref">Debrezin</placeName>
+                        <placeName type="alt">Debrecziner</placeName>
+                        <placeName type="alt">Debreczin</placeName>
+                    </place>
+                    <place xml:id="esztergom">
+                        <placeName type="pref">Esztergom</placeName>
+                        <placeName type="alt">Gran</placeName>
+                        <placeName type="alt">Graner</placeName>
+                        <placeName type="alt">Esztergomer</placeName>
+                    </place>
+                    <place xml:id="pressburg">
+                        <placeName type="pref">Pressburg</placeName>
+                        <placeName type="alt">Preßburg</placeName>
+                        <placeName type="alt">Preßburger</placeName>
+                        <placeName type="alt">Pressburger</placeName>
+                        <placeName type="alt">Preßburgs</placeName>
+                        <placeName type="alt">hiesigen</placeName>
+                        <placeName type="alt">Presburger</placeName>
+                        <placeName type="alt">Presburg</placeName>
+                    </place>
+                    <place xml:id="wien">
+                        <placeName type="pref">Wien</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und
+                        Residenzstadt</placeName>
+                        <placeName type="alt">Haupt-
+                        und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt
+                        Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Wien</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">o. O.
+                        [Wien]</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                    </place>
+                    <place xml:id="berlin">
+                        <placeName type="pref">Berlin</placeName>
+                        <placeName type="alt">Berlin</placeName>
+                        <placeName type="alt">Berlino</placeName>
+                    </place>
+                    <place xml:id="münchen">
+                        <placeName type="pref">München</placeName>
+                    </place>
+                    <place xml:id="paris">
+                        <placeName type="pref">Paris</placeName>
+                        <placeName type="alt">Paris</placeName>
+                        <placeName type="alt">Pariser</placeName>
+                    </place>
+                    <place xml:id="prag">
+                        <placeName type="pref">Prag</placeName>
+                        <placeName type="alt">Praze</placeName>
+                        <placeName type="alt">Prager</placeName>
+                        <placeName type="alt">Prag</placeName>
+                        <placeName type="alt">o.
+                        O. [Prag]</placeName>
+                        <placeName type="alt">Prags</placeName>
+                        <placeName type="alt">Prahy</placeName>
+                    </place>
+                    <place xml:id="memmingen">
+                        <placeName type="pref">Memmingen</placeName>
+                        <placeName type="alt">Meiningen</placeName>
+                    </place>
+                    <place xml:id="kassel">
+                        <placeName type="pref">Kassel</placeName>
+                        <placeName type="alt">Cassel</placeName>
+                    </place>
+                    <place xml:id="jesberg">
+                        <placeName type="pref">Jesberg</placeName>
+                    </place>
+                    <place xml:id="schwerin">
+                        <placeName type="pref">Schwerin</placeName>
+                    </place>
+                    <place xml:id="ansbach">
+                        <placeName type="pref">Ansbach</placeName>
+                    </place>
+                    <place xml:id="speyer">
+                        <placeName type="pref">Speyer</placeName>
+                    </place>
+                    <place xml:id="muenchen">
+                        <placeName type="pref">Muenchen</placeName>
+                        <placeName type="alt">München</placeName>
+                        <placeName type="alt">Münchner</placeName>
+                    </place>
+                    <place xml:id="karlsruhe">
+                        <placeName type="pref">Karlsruhe</placeName>
+                        <placeName type="alt">Carlsruhe</placeName>
+                        <placeName type="alt">dahier</placeName>
+                    </place>
+                    <place xml:id="wiesbaden">
+                        <placeName type="pref">Wiesbaden</placeName>
+                    </place>
+                    <place xml:id="semlin">
+                        <placeName type="pref">Semlin</placeName>
+                    </place>
+                    <place xml:id="kuveždin">
+                        <placeName type="pref">Kuveždin</placeName>
+                    </place>
+                    <place xml:id="szenttamás">
+                        <placeName type="pref">Szenttamás</placeName>
+                    </place>
+                    <place xml:id="werschetz">
+                        <placeName type="pref">Werschetz</placeName>
+                    </place>
+                    <place xml:id="hermannstadt">
+                        <placeName type="pref">Hermannstadt</placeName>
+                        <placeName type="alt">Hermannstadt</placeName>
+                        <placeName type="alt">Hermannstädter</placeName>
+                        <placeName type="alt">Hermanstadt</placeName>
+                    </place>
+                    <place xml:id="czahor">
+                        <placeName type="pref">Czahor</placeName>
+                    </place>
+                    <place xml:id="czernowitz">
+                        <placeName type="pref">Czernowitz</placeName>
+                        <placeName type="alt">Czernovitz</placeName>
+                        <placeName type="alt">Czernowitz</placeName>
+                        <placeName type="alt">Cernovic</placeName>
+                        <placeName type="alt">Czernowitzer</placeName>
+                    </place>
+                    <place xml:id="ober-vicow">
+                        <placeName type="pref">Ober-vicow</placeName>
+                    </place>
+                    <place xml:id="gloggnitz">
+                        <placeName type="pref">Gloggnitz</placeName>
+                    </place>
+                    <place xml:id="wartenstein">
+                        <placeName type="pref">Wartenstein</placeName>
+                    </place>
+                    <place xml:id="kreisberg">
+                        <placeName type="pref">Kreisberg</placeName>
+                    </place>
+                    <place xml:id="stuppach">
+                        <placeName type="pref">Stuppach</placeName>
+                    </place>
+                    <place xml:id="pottschach">
+                        <placeName type="pref">Pottschach</placeName>
+                    </place>
+                    <place xml:id="schottwien">
+                        <placeName type="pref">Schottwien</placeName>
+                    </place>
+                    <place xml:id="kranichberg">
+                        <placeName type="pref">Kranichberg</placeName>
+                    </place>
+                    <place xml:id="enzenreith">
+                        <placeName type="pref">Enzenreith</placeName>
+                    </place>
+                    <place xml:id="otterthal">
+                        <placeName type="pref">Otterthal</placeName>
+                    </place>
+                    <place xml:id="stuppachgraben">
+                        <placeName type="pref">Stuppachgraben</placeName>
+                    </place>
+                    <place xml:id="schlögelmühl">
+                        <placeName type="pref">Schlögelmühl</placeName>
+                    </place>
+                    <place xml:id="beierbach">
+                        <placeName type="pref">Beierbach</placeName>
+                    </place>
+                    <place xml:id="göttschach">
+                        <placeName type="pref">Göttschach</placeName>
+                    </place>
+                    <place xml:id="grünsting">
+                        <placeName type="pref">Grünsting</placeName>
+                    </place>
+                    <place xml:id="galatz">
+                        <placeName type="pref">Galatz</placeName>
+                    </place>
+                    <place xml:id="konstantinopel">
+                        <placeName type="pref">Konstantinopel</placeName>
+                        <placeName type="alt">Constantinopel</placeName>
+                    </place>
+                    <place xml:id="karlowitz">
+                        <placeName type="pref">Karlowitz</placeName>
+                        <placeName type="alt">Carlovitzer</placeName>
+                        <placeName type="alt">Carlovicz</placeName>
+                        <placeName type="alt">Karlowicer</placeName>
+                    </place>
+                    <place xml:id="bad-ems">
+                        <placeName type="pref">Bad-ems</placeName>
+                        <placeName type="alt">Bad Ems</placeName>
+                        <placeName type="alt">[Bad] Ems</placeName>
+                    </place>
+                    <place xml:id="komitat-neutra">
+                        <placeName type="pref">Komitat-neutra</placeName>
+                        <placeName type="alt">Neutraer</placeName>
+                        <placeName type="alt">Comitat de Neutra</placeName>
+                        <placeName type="alt">Comitate de Neutra</placeName>
+                        <placeName type="alt">Neutra</placeName>
+                    </place>
+                    <place xml:id="graz">
+                        <placeName type="pref">Graz</placeName>
+                        <placeName type="alt">Gratz</placeName>
+                        <placeName type="alt">Grätzer</placeName>
+                        <placeName type="alt">Graez</placeName>
+                        <placeName type="alt">Grätz</placeName>
+                        <placeName type="alt">Graz</placeName>
+                    </place>
+                    <place xml:id="salzburg">
+                        <placeName type="pref">Salzburg</placeName>
+                        <placeName type="alt">Salzburger</placeName>
+                    </place>
+                    <place xml:id="hallein">
+                        <placeName type="pref">Hallein</placeName>
+                        <placeName type="alt">Halleiner</placeName>
+                    </place>
+                    <place xml:id="innsbruck">
+                        <placeName type="pref">Innsbruck</placeName>
+                        <placeName type="alt">Inspruk</placeName>
+                        <placeName type="alt">Insbruck</placeName>
+                        <placeName type="alt">Insprucker</placeName>
+                        <placeName type="alt">Innsbruck</placeName>
+                        <placeName type="alt">hier</placeName>
+                        <placeName type="alt">Inspruck</placeName>
+                    </place>
+                    <place xml:id="olmuetz">
+                        <placeName type="pref">Olmuetz</placeName>
+                        <placeName type="alt">Olmütz</placeName>
+                        <placeName type="alt">Olmützer</placeName>
+                        <placeName type="alt">Olmüz</placeName>
+                        <placeName type="alt">Ollmütz</placeName>
+                    </place>
+                    <place xml:id="triest">
+                        <placeName type="pref">Triest</placeName>
+                        <placeName type="alt">Triest</placeName>
+                        <placeName type="alt">Trieste</placeName>
+                        <placeName type="alt">Triests</placeName>
+                    </place>
+                    <place xml:id="neustadt">
+                        <placeName type="pref">Neustadt</placeName>
+                    </place>
+                    <place xml:id="ofen">
+                        <placeName type="pref">Ofen</placeName>
+                        <placeName type="alt">Ofner</placeName>
+                        <placeName type="alt">Ofen</placeName>
+                    </place>
+                    <place xml:id="agram">
+                        <placeName type="pref">Agram</placeName>
+                        <placeName type="alt">Agramer</placeName>
+                        <placeName type="alt">Agrams</placeName>
+                    </place>
+                    <place xml:id="weybridge">
+                        <placeName type="pref">Weybridge</placeName>
+                    </place>
+                    <place xml:id="tetschen">
+                        <placeName type="pref">Tetschen</placeName>
+                    </place>
+                    <place xml:id="verona">
+                        <placeName type="pref">Verona</placeName>
+                    </place>
+                    <place xml:id="mailand">
+                        <placeName type="pref">Mailand</placeName>
+                        <placeName type="alt">Mailands</placeName>
+                        <placeName type="alt">Mailand</placeName>
+                        <placeName type="alt">Milano</placeName>
+                        <placeName type="alt">questa Città</placeName>
+                        <placeName type="alt">Mailand’s</placeName>
+                    </place>
+                    <place xml:id="pavia">
+                        <placeName type="pref">Pavia</placeName>
+                    </place>
+                    <place xml:id="rom">
+                        <placeName type="pref">Rom</placeName>
+                        <placeName type="alt">Rom</placeName>
+                        <placeName type="alt">Roms</placeName>
+                        <placeName type="alt">Rome</placeName>
+                    </place>
+                    <place xml:id="rovigo">
+                        <placeName type="pref">Rovigo</placeName>
+                    </place>
+                    <place xml:id="kronstadt">
+                        <placeName type="pref">Kronstadt</placeName>
+                        <placeName type="alt">Kronstädter</placeName>
+                    </place>
+                    <place xml:id="schaessburg">
+                        <placeName type="pref">Schaessburg</placeName>
+                        <placeName type="alt">Schäßburg</placeName>
+                        <placeName type="alt">Schäßburger</placeName>
+                    </place>
+                    <place xml:id="mediasch">
+                        <placeName type="pref">Mediasch</placeName>
+                    </place>
+                    <place xml:id="polotsk">
+                        <placeName type="pref">Polotsk</placeName>
+                    </place>
+                    <place xml:id="muehlbach">
+                        <placeName type="pref">Muehlbach</placeName>
+                        <placeName type="alt">Mühlbach</placeName>
+                    </place>
+                    <place xml:id="bistritz">
+                        <placeName type="pref">Bistritz</placeName>
+                    </place>
+                    <place xml:id="klausenburg">
+                        <placeName type="pref">Klausenburg</placeName>
+                        <placeName type="alt">Clausenburg</placeName>
+                    </place>
+                    <place xml:id="csik-somlyo">
+                        <placeName type="pref">Csik-somlyo</placeName>
+                        <placeName type="alt">Csik Somlyo</placeName>
+                    </place>
+                    <place xml:id="blasendorf">
+                        <placeName type="pref">Blasendorf</placeName>
+                    </place>
+                    <place xml:id="marosvásárhely">
+                        <placeName type="pref">Marosvásárhely</placeName>
+                    </place>
+                    <place xml:id="székelyudvarhely">
+                        <placeName type="pref">Székelyudvarhely</placeName>
+                    </place>
+                    <place xml:id="tchorda">
+                        <placeName type="pref">Tchorda</placeName>
+                    </place>
+                    <place xml:id="biala">
+                        <placeName type="pref">Biala</placeName>
+                    </place>
+                    <place xml:id="kremsier">
+                        <placeName type="pref">Kremsier</placeName>
+                    </place>
+                    <place xml:id="raab">
+                        <placeName type="pref">Raab</placeName>
+                        <placeName type="alt">Raaber</placeName>
+                    </place>
+                    <place xml:id="pest">
+                        <placeName type="pref">Pest</placeName>
+                        <placeName type="alt">Pesther</placeName>
+                        <placeName type="alt">Pesth</placeName>
+                        <placeName type="alt">Pester</placeName>
+                        <placeName type="alt">Pest</placeName>
+                    </place>
+                    <place xml:id="trient">
+                        <placeName type="pref">Trient</placeName>
+                        <placeName type="alt">Trienter</placeName>
+                        <placeName type="alt">Trento</placeName>
+                        <placeName type="alt">Trientiner</placeName>
+                        <placeName type="alt">Trient.</placeName>
+                    </place>
+                    <place xml:id="alba-iulia">
+                        <placeName type="pref">Alba-iulia</placeName>
+                    </place>
+                    <place xml:id="lugos">
+                        <placeName type="pref">Lugos</placeName>
+                    </place>
+                    <place xml:id="szamosujvár">
+                        <placeName type="pref">Szamosujvár</placeName>
+                    </place>
+                    <place xml:id="zips">
+                        <placeName type="pref">Zips</placeName>
+                        <placeName type="alt">Zipser</placeName>
+                    </place>
+                    <place xml:id="lemberg">
+                        <placeName type="pref">Lemberg</placeName>
+                        <placeName type="alt">Lemberger</placeName>
+                        <placeName type="alt">Lembergs</placeName>
+                        <placeName type="alt">Lemberg</placeName>
+                    </place>
+                    <place xml:id="przemysl">
+                        <placeName type="pref">Przemysl</placeName>
+                        <placeName type="alt">Przemyśl</placeName>
+                        <placeName type="alt">Peremyschl</placeName>
+                        <placeName type="alt">Peremyszler</placeName>
+                        <placeName type="alt">Przemysler</placeName>
+                    </place>
+                    <place xml:id="gran">
+                        <placeName type="pref">Gran</placeName>
+                    </place>
+                    <place xml:id="fuenfkirchen">
+                        <placeName type="pref">Fuenfkirchen</placeName>
+                        <placeName type="alt">Fünfkirchen</placeName>
+                        <placeName type="alt">Fünfkirchner</placeName>
+                    </place>
+                    <place xml:id="erlau">
+                        <placeName type="pref">Erlau</placeName>
+                    </place>
+                    <place xml:id="augsburg">
+                        <placeName type="pref">Augsburg</placeName>
+                    </place>
+                    <place xml:id="reindorf">
+                        <placeName type="pref">Reindorf</placeName>
+                        <placeName type="alt">Reindorfer</placeName>
+                    </place>
+                    <place xml:id="fuenfhaus">
+                        <placeName type="pref">Fuenfhaus</placeName>
+                        <placeName type="alt">Fünfhaus</placeName>
+                    </place>
+                    <place xml:id="sechshaus">
+                        <placeName type="pref">Sechshaus</placeName>
+                    </place>
+                    <place xml:id="huetteldorf">
+                        <placeName type="pref">Huetteldorf</placeName>
+                        <placeName type="alt">Hütteldorf</placeName>
+                    </place>
+                    <place xml:id="baumgarten">
+                        <placeName type="pref">Baumgarten</placeName>
+                    </place>
+                    <place xml:id="hetzendorf">
+                        <placeName type="pref">Hetzendorf</placeName>
+                    </place>
+                    <place xml:id="neulerchenfeld">
+                        <placeName type="pref">Neulerchenfeld</placeName>
+                        <placeName type="alt">Neulerchenfelder</placeName>
+                    </place>
+                    <place xml:id="ottakring">
+                        <placeName type="pref">Ottakring</placeName>
+                    </place>
+                    <place xml:id="hernals">
+                        <placeName type="pref">Hernals</placeName>
+                        <placeName type="alt">Hernalser</placeName>
+                    </place>
+                    <place xml:id="klosterneuburg">
+                        <placeName type="pref">Klosterneuburg</placeName>
+                    </place>
+                    <place xml:id="dornbach">
+                        <placeName type="pref">Dornbach</placeName>
+                    </place>
+                    <place xml:id="untermeidling">
+                        <placeName type="pref">Untermeidling</placeName>
+                    </place>
+                    <place xml:id="gaudenzdorf">
+                        <placeName type="pref">Gaudenzdorf</placeName>
+                    </place>
+                    <place xml:id="zwoelfaxing">
+                        <placeName type="pref">Zwoelfaxing</placeName>
+                        <placeName type="alt">Zwölfaxing</placeName>
+                    </place>
+                    <place xml:id="untermarkersdorf">
+                        <placeName type="pref">Untermarkersdorf</placeName>
+                    </place>
+                    <place xml:id="schramberg-in-württemberg">
+                        <placeName type="pref">Schramberg-in-württemberg</placeName>
+                    </place>
+                    <place xml:id="frankfurt">
+                        <placeName type="pref">Frankfurt</placeName>
+                        <placeName type="alt">Francoforte</placeName>
+                        <placeName type="alt">Francfurt</placeName>
+                        <placeName type="alt">Francfurt a.
+                            M.</placeName>
+                        <placeName type="alt">Frankfurt am Main</placeName>
+                        <placeName type="alt">Frankfurt a. M.</placeName>
+                    </place>
+                    <place xml:id="limburg">
+                        <placeName type="pref">Limburg</placeName>
+                    </place>
+                    <place xml:id="bochnia">
+                        <placeName type="pref">Bochnia</placeName>
+                    </place>
+                    <place xml:id="zara">
+                        <placeName type="pref">Zara</placeName>
+                    </place>
+                    <place xml:id="görz">
+                        <placeName type="pref">Görz</placeName>
+                    </place>
+                    <place xml:id="krakau">
+                        <placeName type="pref">Krakau</placeName>
+                        <placeName type="alt">Krakauer</placeName>
+                        <placeName type="alt">hiesigen</placeName>
+                        <placeName type="alt">jener Stadt</placeName>
+                        <placeName type="alt">Krakau’s</placeName>
+                        <placeName type="alt">Krakau</placeName>
+                    </place>
+                    <place xml:id="pag">
+                        <placeName type="pref">Pag</placeName>
+                        <placeName type="alt">Pag</placeName>
+                        <placeName type="alt">Pago</placeName>
+                    </place>
+                    <place xml:id="novaglia">
+                        <placeName type="pref">Novaglia</placeName>
+                    </place>
+                    <place xml:id="bad-ischl">
+                        <placeName type="pref">Bad-ischl</placeName>
+                        <placeName type="alt">Ischl</placeName>
+                    </place>
+                    <place xml:id="krk">
+                        <placeName type="pref">Krk</placeName>
+                    </place>
+                    <place xml:id="frankfurt-a-m-">
+                        <placeName type="pref">Frankfurt-a-m-</placeName>
+                    </place>
+                    <place xml:id="mainz">
+                        <placeName type="pref">Mainz</placeName>
+                    </place>
+                    <place xml:id="seligenstadt">
+                        <placeName type="pref">Seligenstadt</placeName>
+                    </place>
+                    <place xml:id="gießen">
+                        <placeName type="pref">Gießen</placeName>
+                    </place>
+                    <place xml:id="o-o-">
+                        <placeName type="pref">O-o-</placeName>
+                    </place>
+                    <place xml:id="breslau">
+                        <placeName type="pref">Breslau</placeName>
+                        <placeName type="alt">Breslau</placeName>
+                        <placeName type="alt">Breslauer</placeName>
+                    </place>
+                    <place xml:id="brünn">
+                        <placeName type="pref">Brünn</placeName>
+                    </place>
+                    <place xml:id="januševec">
+                        <placeName type="pref">Januševec</placeName>
+                    </place>
+                    <place xml:id="temeswar">
+                        <placeName type="pref">Temeswar</placeName>
+                        <placeName type="alt">Temesvar</placeName>
+                        <placeName type="alt">Temeschwar</placeName>
+                    </place>
+                    <place xml:id="csanad">
+                        <placeName type="pref">Csanad</placeName>
+                        <placeName type="alt">Csanader</placeName>
+                    </place>
+                    <place xml:id="kaschau">
+                        <placeName type="pref">Kaschau</placeName>
+                        <placeName type="alt">Kaschauer</placeName>
+                    </place>
+                    <place xml:id="neupanat">
+                        <placeName type="pref">Neupanat</placeName>
+                        <placeName type="alt">Neupanater</placeName>
+                    </place>
+                    <place xml:id="universitaet-wien">
+                        <placeName type="pref">Universitaet-wien</placeName>
+                        <placeName type="alt">Wien</placeName>
+                    </place>
+                    <place xml:id="o-o-neuhaus">
+                        <placeName type="pref">O-o-neuhaus</placeName>
+                    </place>
+                    <place xml:id="neuhaus">
+                        <placeName type="pref">Neuhaus</placeName>
+                    </place>
+                    <place xml:id="rab">
+                        <placeName type="pref">Rab</placeName>
+                    </place>
+                    <place xml:id="ala">
+                        <placeName type="pref">Ala</placeName>
+                    </place>
+                    <place xml:id="trento">
+                        <placeName type="pref">Trento</placeName>
+                    </place>
+                    <place xml:id="trient-">
+                        <placeName type="pref">Trient-</placeName>
+                    </place>
+                    <place xml:id="rovereto">
+                        <placeName type="pref">Rovereto</placeName>
+                        <placeName type="alt">Roveredo</placeName>
+                    </place>
+                    <place xml:id="biertan">
+                        <placeName type="pref">Biertan</placeName>
+                    </place>
+                    <place xml:id="nagy-enyed">
+                        <placeName type="pref">Nagy-enyed</placeName>
+                    </place>
+                    <place xml:id="ratibor">
+                        <placeName type="pref">Ratibor</placeName>
+                    </place>
+                    <place xml:id="leobschuetz">
+                        <placeName type="pref">Leobschuetz</placeName>
+                        <placeName type="alt">L[eobschütz]</placeName>
+                    </place>
+                    <place xml:id="erfurt">
+                        <placeName type="pref">Erfurt</placeName>
+                    </place>
+                    <place xml:id="hadamar">
+                        <placeName type="pref">Hadamar</placeName>
+                    </place>
+                    <place xml:id="trauchburg">
+                        <placeName type="pref">Trauchburg</placeName>
+                    </place>
+                    <place xml:id="koeln">
+                        <placeName type="pref">Koeln</placeName>
+                        <placeName type="alt">Cöln</placeName>
+                        <placeName type="alt">Colonia</placeName>
+                    </place>
+                    <place xml:id="ostrowo">
+                        <placeName type="pref">Ostrowo</placeName>
+                    </place>
+                    <place xml:id="glogau">
+                        <placeName type="pref">Glogau</placeName>
+                    </place>
+                    <place xml:id="neisse">
+                        <placeName type="pref">Neisse</placeName>
+                        <placeName type="alt">Neiße</placeName>
+                    </place>
+                    <place xml:id="neuss">
+                        <placeName type="pref">Neuss</placeName>
+                        <placeName type="alt">Neuß</placeName>
+                    </place>
+                    <place xml:id="muenster">
+                        <placeName type="pref">Muenster</placeName>
+                        <placeName type="alt">Münster</placeName>
+                        <placeName type="alt">Munster</placeName>
+                    </place>
+                    <place xml:id="emmerich">
+                        <placeName type="pref">Emmerich</placeName>
+                    </place>
+                    <place xml:id="koenigsberg">
+                        <placeName type="pref">Koenigsberg</placeName>
+                        <placeName type="alt">Königsberg</placeName>
+                    </place>
+                    <place xml:id="trier">
+                        <placeName type="pref">Trier</placeName>
+                        <placeName type="alt">Trierer</placeName>
+                    </place>
+                    <place xml:id="bonn">
+                        <placeName type="pref">Bonn</placeName>
+                        <placeName type="alt">Bonna</placeName>
+                    </place>
+                    <place xml:id="frankenstein">
+                        <placeName type="pref">Frankenstein</placeName>
+                    </place>
+                    <place xml:id="glatz">
+                        <placeName type="pref">Glatz</placeName>
+                    </place>
+                    <place xml:id="johannesberg-bei-jauernig">
+                        <placeName type="pref">Johannesberg-bei-jauernig</placeName>
+                    </place>
+                    <place xml:id="koblenz">
+                        <placeName type="pref">Koblenz</placeName>
+                        <placeName type="alt">Coblenz</placeName>
+                    </place>
+                    <place xml:id="bautzen">
+                        <placeName type="pref">Bautzen</placeName>
+                        <placeName type="alt">Budissin
+                        [Bautzen]</placeName>
+                        <placeName type="alt">Budussin
+                        [Bautzen]</placeName>
+                    </place>
+                    <place xml:id="görlitz">
+                        <placeName type="pref">Görlitz</placeName>
+                    </place>
+                    <place xml:id="budussin">
+                        <placeName type="pref">Budussin</placeName>
+                    </place>
+                    <place xml:id="dresden">
+                        <placeName type="pref">Dresden</placeName>
+                    </place>
+                    <place xml:id="laukow">
+                        <placeName type="pref">Laukow</placeName>
+                    </place>
+                    <place xml:id="wuerzburg">
+                        <placeName type="pref">Wuerzburg</placeName>
+                        <placeName type="alt">Würzburger</placeName>
+                        <placeName type="alt">Würzburg</placeName>
+                    </place>
+                    <place xml:id="budissin">
+                        <placeName type="pref">Budissin</placeName>
+                    </place>
+                    <place xml:id="tübingen">
+                        <placeName type="pref">Tübingen</placeName>
+                    </place>
+                    <place xml:id="rottweil">
+                        <placeName type="pref">Rottweil</placeName>
+                        <placeName type="alt">Rotweil</placeName>
+                    </place>
+                    <place xml:id="wuerttemberg">
+                        <placeName type="pref">Wuerttemberg</placeName>
+                        <placeName type="alt">Würtemberg</placeName>
+                    </place>
+                    <place xml:id="leipzig">
+                        <placeName type="pref">Leipzig</placeName>
+                    </place>
+                    <place xml:id="würzburg">
+                        <placeName type="pref">Würzburg</placeName>
+                    </place>
+                    <place xml:id="jaworzno">
+                        <placeName type="pref">Jaworzno</placeName>
+                    </place>
+                    <place xml:id="stanislau">
+                        <placeName type="pref">Stanislau</placeName>
+                    </place>
+                    <place xml:id="sandez">
+                        <placeName type="pref">Sandez</placeName>
+                    </place>
+                    <place xml:id="jaslo">
+                        <placeName type="pref">Jaslo</placeName>
+                        <placeName type="alt">Jasloer</placeName>
+                    </place>
+                    <place xml:id="rzeszów">
+                        <placeName type="pref">Rzeszów</placeName>
+                    </place>
+                    <place xml:id="tarnow">
+                        <placeName type="pref">Tarnow</placeName>
+                        <placeName type="alt">Tarnower</placeName>
+                    </place>
+                    <place xml:id="pilsen">
+                        <placeName type="pref">Pilsen</placeName>
+                        <placeName type="alt">Pilsner</placeName>
+                    </place>
+                    <place xml:id="eger">
+                        <placeName type="pref">Eger</placeName>
+                        <placeName type="alt">Egener</placeName>
+                        <placeName type="alt">Egerer</placeName>
+                        <placeName type="alt">Erlau</placeName>
+                        <placeName type="alt">Erlauer</placeName>
+                    </place>
+                    <place xml:id="goerkau">
+                        <placeName type="pref">Goerkau</placeName>
+                        <placeName type="alt">Görgau</placeName>
+                        <placeName type="alt">Görkau</placeName>
+                    </place>
+                    <place xml:id="waizna">
+                        <placeName type="pref">Waizna</placeName>
+                    </place>
+                    <place xml:id="rád">
+                        <placeName type="pref">Rád</placeName>
+                    </place>
+                    <place xml:id="komitat-neograd">
+                        <placeName type="pref">Komitat-neograd</placeName>
+                        <placeName type="alt">Neograder Comitate</placeName>
+                        <placeName type="alt">Neograd</placeName>
+                        <placeName type="alt">Neorgrad</placeName>
+                    </place>
+                    <place xml:id="oberufer">
+                        <placeName type="pref">Oberufer</placeName>
+                    </place>
+                    <place xml:id="engerau">
+                        <placeName type="pref">Engerau</placeName>
+                    </place>
+                    <place xml:id="vezekény">
+                        <placeName type="pref">Vezekény</placeName>
+                    </place>
+                    <place xml:id="farád">
+                        <placeName type="pref">Farád</placeName>
+                    </place>
+                    <place xml:id="komitat-wieselburg">
+                        <placeName type="pref">Komitat-wieselburg</placeName>
+                        <placeName type="alt">Wieselburger Comitate</placeName>
+                        <placeName type="alt">Wieselburger</placeName>
+                    </place>
+                    <place xml:id="oedenburg">
+                        <placeName type="pref">Oedenburg</placeName>
+                        <placeName type="alt">Ödenburger</placeName>
+                        <placeName type="alt">Ödenburg</placeName>
+                        <placeName type="alt">Oedenburger</placeName>
+                    </place>
+                    <place xml:id="komitat-oedenburg">
+                        <placeName type="pref">Komitat-oedenburg</placeName>
+                        <placeName type="alt">Ödenburger
+                        Comitate</placeName>
+                        <placeName type="alt">Oedenburger</placeName>
+                    </place>
+                    <place xml:id="komitat-eisenburg">
+                        <placeName type="pref">Komitat-eisenburg</placeName>
+                        <placeName type="alt">Eisenburger Comitate</placeName>
+                        <placeName type="alt">Eisenburger</placeName>
+                    </place>
+                    <place xml:id="zala-istvand">
+                        <placeName type="pref">Zala-istvand</placeName>
+                    </place>
+                    <place xml:id="puszta-szent-laszlo">
+                        <placeName type="pref">Puszta-szent-laszlo</placeName>
+                    </place>
+                    <place xml:id="komitat-zala">
+                        <placeName type="pref">Komitat-zala</placeName>
+                        <placeName type="alt">Zalaer Comitate</placeName>
+                        <placeName type="alt">Zalaer
+                        Comitate</placeName>
+                        <placeName type="alt">Zalader</placeName>
+                        <placeName type="alt">Salader</placeName>
+                    </place>
+                    <place xml:id="galsa">
+                        <placeName type="pref">Galsa</placeName>
+                    </place>
+                    <place xml:id="komitat-veszprem">
+                        <placeName type="pref">Komitat-veszprem</placeName>
+                        <placeName type="alt">Weßprimer Comitate</placeName>
+                    </place>
+                    <place xml:id="leiben">
+                        <placeName type="pref">Leiben</placeName>
+                    </place>
+                    <place xml:id="komitat-raab">
+                        <placeName type="pref">Komitat-raab</placeName>
+                        <placeName type="alt">Raaber
+                        Comitate</placeName>
+                        <placeName type="alt">Raaber Comitate</placeName>
+                    </place>
+                    <place xml:id="szepetnek">
+                        <placeName type="pref">Szepetnek</placeName>
+                    </place>
+                    <place xml:id="komitat-suemeg">
+                        <placeName type="pref">Komitat-suemeg</placeName>
+                        <placeName type="alt">Schimegher
+                        Comitate</placeName>
+                        <placeName type="alt">Schimegh</placeName>
+                        <placeName type="alt">Sümegher</placeName>
+                    </place>
+                    <place xml:id="legrad">
+                        <placeName type="pref">Legrad</placeName>
+                    </place>
+                    <place xml:id="ervatien">
+                        <placeName type="pref">Ervatien</placeName>
+                    </place>
+                    <place xml:id="eperies">
+                        <placeName type="pref">Eperies</placeName>
+                        <placeName type="alt">Eperieser</placeName>
+                        <placeName type="alt">Prešov</placeName>
+                    </place>
+                    <place xml:id="komitat-saros">
+                        <placeName type="pref">Komitat-saros</placeName>
+                        <placeName type="alt">Saròs</placeName>
+                        <placeName type="alt">Sáros</placeName>
+                        <placeName type="alt">Saros</placeName>
+                        <placeName type="alt">Saroser</placeName>
+                        <placeName type="alt">Komitate
+                        Saros</placeName>
+                    </place>
+                    <place xml:id="komitat-abauj-torna">
+                        <placeName type="pref">Komitat-abauj-torna</placeName>
+                        <placeName type="alt">Abauj-Torna</placeName>
+                        <placeName type="alt">Abaujer Comitate</placeName>
+                        <placeName type="alt">Abenj</placeName>
+                        <placeName type="alt">Tornaer</placeName>
+                        <placeName type="alt">Abjaner und Tornaer Comitat</placeName>
+                        <placeName type="alt">Abauj</placeName>
+                    </place>
+                    <place xml:id="komitat-zips">
+                        <placeName type="pref">Komitat-zips</placeName>
+                        <placeName type="alt">Zips</placeName>
+                        <placeName type="alt">Zipser Comitate</placeName>
+                        <placeName type="alt">Zipser</placeName>
+                    </place>
+                    <place xml:id="komitat-goemoer">
+                        <placeName type="pref">Komitat-goemoer</placeName>
+                        <placeName type="alt">Gömörer Comitat</placeName>
+                        <placeName type="alt">Gomör</placeName>
+                        <placeName type="alt">Gömörer</placeName>
+                        <placeName type="alt">Gömör</placeName>
+                    </place>
+                    <place xml:id="komitat-semplin">
+                        <placeName type="pref">Komitat-semplin</placeName>
+                        <placeName type="alt">Zemplin</placeName>
+                        <placeName type="alt">Zempliner Comitate</placeName>
+                        <placeName type="alt">Zempliner Comitats</placeName>
+                        <placeName type="alt">Zempliner</placeName>
+                        <placeName type="alt">Komitate
+                        Zemplin</placeName>
+                    </place>
+                    <place xml:id="komitat-bereg-ugocsa">
+                        <placeName type="pref">Komitat-bereg-ugocsa</placeName>
+                        <placeName type="alt">Beregh-Usocsa</placeName>
+                        <placeName type="alt">Beregh</placeName>
+                        <placeName type="alt">Bereger</placeName>
+                    </place>
+                    <place xml:id="szarvas">
+                        <placeName type="pref">Szarvas</placeName>
+                        <placeName type="alt">Szarvaser</placeName>
+                    </place>
+                    <place xml:id="nagy-bánya">
+                        <placeName type="pref">Nagy-bánya</placeName>
+                    </place>
+                    <place xml:id="nagy-károly">
+                        <placeName type="pref">Nagy-károly</placeName>
+                    </place>
+                    <place xml:id="komitat-szatmar">
+                        <placeName type="pref">Komitat-szatmar</placeName>
+                        <placeName type="alt">Szathmaner</placeName>
+                        <placeName type="alt">Szathmarer</placeName>
+                        <placeName type="alt">Szathmarer Komitate</placeName>
+                    </place>
+                    <place xml:id="grosswardein">
+                        <placeName type="pref">Grosswardein</placeName>
+                        <placeName type="alt">Gr[oß]Wardein</placeName>
+                        <placeName type="alt">Großwardeiner</placeName>
+                        <placeName type="alt">Gr[oß]wardeiner</placeName>
+                        <placeName type="alt">Großwardein</placeName>
+                        <placeName type="alt">G[roßwardein]</placeName>
+                        <placeName type="alt">Groß-Wardein</placeName>
+                        <placeName type="alt">Groß-Wardeiner</placeName>
+                    </place>
+                    <place xml:id="komitat-bihar">
+                        <placeName type="pref">Komitat-bihar</placeName>
+                        <placeName type="alt">Süd-Biharer
+                        Comitate</placeName>
+                        <placeName type="alt">Biharer Comitate</placeName>
+                        <placeName type="alt">Bihar</placeName>
+                    </place>
+                    <place xml:id="nyiregyháza">
+                        <placeName type="pref">Nyiregyháza</placeName>
+                    </place>
+                    <place xml:id="komitat-szabolcs">
+                        <placeName type="pref">Komitat-szabolcs</placeName>
+                        <placeName type="alt">Szaboltscher Comitate</placeName>
+                        <placeName type="alt">Szabolcser Comitat</placeName>
+                        <placeName type="alt">Szabolcz</placeName>
+                        <placeName type="alt">Szabolder</placeName>
+                        <placeName type="alt">Szabolther
+                        Komitat</placeName>
+                    </place>
+                    <place xml:id="nagy-szent-miklos">
+                        <placeName type="pref">Nagy-szent-miklos</placeName>
+                    </place>
+                    <place xml:id="tiszaföldvár">
+                        <placeName type="pref">Tiszaföldvár</placeName>
+                    </place>
+                    <place xml:id="szentes">
+                        <placeName type="pref">Szentes</placeName>
+                    </place>
+                    <place xml:id="hodmezovasarhely">
+                        <placeName type="pref">Hodmezovasarhely</placeName>
+                        <placeName type="alt">Hódmezővásárhely</placeName>
+                        <placeName type="alt">Hódmezövásárhely</placeName>
+                        <placeName type="alt">Holdmezö-Vásárhely</placeName>
+                    </place>
+                    <place xml:id="arnoth">
+                        <placeName type="pref">Arnoth</placeName>
+                    </place>
+                    <place xml:id="kaza">
+                        <placeName type="pref">Kaza</placeName>
+                    </place>
+                    <place xml:id="miskolc">
+                        <placeName type="pref">Miskolc</placeName>
+                        <placeName type="alt">Miskolcz</placeName>
+                        <placeName type="alt">Miskolczer</placeName>
+                    </place>
+                    <place xml:id="fancsal">
+                        <placeName type="pref">Fancsal</placeName>
+                    </place>
+                    <place xml:id="szánto">
+                        <placeName type="pref">Szánto</placeName>
+                    </place>
+                    <place xml:id="vecse">
+                        <placeName type="pref">Vecse</placeName>
+                    </place>
+                    <place xml:id="tállya">
+                        <placeName type="pref">Tállya</placeName>
+                    </place>
+                    <place xml:id="tokaj">
+                        <placeName type="pref">Tokaj</placeName>
+                    </place>
+                    <place xml:id="vrbas">
+                        <placeName type="pref">Vrbas</placeName>
+                        <placeName type="alt">Neu-Verbaßer</placeName>
+                        <placeName type="alt">Neuverbaster</placeName>
+                    </place>
+                    <place xml:id="kosd">
+                        <placeName type="pref">Kosd</placeName>
+                    </place>
+                    <place xml:id="boeny">
+                        <placeName type="pref">Boeny</placeName>
+                        <placeName type="alt">Böny</placeName>
+                    </place>
+                    <place xml:id="szombathely">
+                        <placeName type="pref">Szombathely</placeName>
+                    </place>
+                    <place xml:id="o-szoeny">
+                        <placeName type="pref">O-szoeny</placeName>
+                        <placeName type="alt">O-Szöny</placeName>
+                    </place>
+                    <place xml:id="komitat-komorn">
+                        <placeName type="pref">Komitat-komorn</placeName>
+                        <placeName type="alt">Komorner Comitate</placeName>
+                        <placeName type="alt">Komoer</placeName>
+                        <placeName type="alt">Komorner
+                        Komitat</placeName>
+                    </place>
+                    <place xml:id="déva-vanya">
+                        <placeName type="pref">Déva-vanya</placeName>
+                    </place>
+                    <place xml:id="komitat-bekes">
+                        <placeName type="pref">Komitat-bekes</placeName>
+                        <placeName type="alt">Békéser Comitate</placeName>
+                    </place>
+                    <place xml:id="komorn">
+                        <placeName type="pref">Komorn</placeName>
+                        <placeName type="alt">Komorner</placeName>
+                    </place>
+                    <place xml:id="pilismarót">
+                        <placeName type="pref">Pilismarót</placeName>
+                    </place>
+                    <place xml:id="doemoes">
+                        <placeName type="pref">Doemoes</placeName>
+                        <placeName type="alt">Dömös</placeName>
+                    </place>
+                    <place xml:id="komitat-gran">
+                        <placeName type="pref">Komitat-gran</placeName>
+                        <placeName type="alt">Graner Comitate</placeName>
+                        <placeName type="alt">Gran</placeName>
+                        <placeName type="alt">Graner</placeName>
+                    </place>
+                    <place xml:id="papa">
+                        <placeName type="pref">Papa</placeName>
+                        <placeName type="alt">Papaer</placeName>
+                    </place>
+                    <place xml:id="battyan">
+                        <placeName type="pref">Battyan</placeName>
+                    </place>
+                    <place xml:id="bodajk">
+                        <placeName type="pref">Bodajk</placeName>
+                    </place>
+                    <place xml:id="csákterény">
+                        <placeName type="pref">Csákterény</placeName>
+                    </place>
+                    <place xml:id="csoesz">
+                        <placeName type="pref">Csoesz</placeName>
+                        <placeName type="alt">Csösz</placeName>
+                    </place>
+                    <place xml:id="egres">
+                        <placeName type="pref">Egres</placeName>
+                    </place>
+                    <place xml:id="stuhlweissenburg">
+                        <placeName type="pref">Stuhlweissenburg</placeName>
+                        <placeName type="alt">Sz[ékes] Fejervár</placeName>
+                    </place>
+                    <place xml:id="fuele">
+                        <placeName type="pref">Fuele</placeName>
+                        <placeName type="alt">Füle</placeName>
+                    </place>
+                    <place xml:id="káloz">
+                        <placeName type="pref">Káloz</placeName>
+                    </place>
+                    <place xml:id="keresztes">
+                        <placeName type="pref">Keresztes</placeName>
+                    </place>
+                    <place xml:id="kis-keszi">
+                        <placeName type="pref">Kis-keszi</placeName>
+                    </place>
+                    <place xml:id="ladány">
+                        <placeName type="pref">Ladány</placeName>
+                    </place>
+                    <place xml:id="mór">
+                        <placeName type="pref">Mór</placeName>
+                    </place>
+                    <place xml:id="polgárdi">
+                        <placeName type="pref">Polgárdi</placeName>
+                    </place>
+                    <place xml:id="szent-mihály">
+                        <placeName type="pref">Szent-mihály</placeName>
+                    </place>
+                    <place xml:id="sopornya">
+                        <placeName type="pref">Sopornya</placeName>
+                    </place>
+                    <place xml:id="tácz">
+                        <placeName type="pref">Tácz</placeName>
+                    </place>
+                    <place xml:id="komitat-stuhlweissenburg">
+                        <placeName type="pref">Komitat-stuhlweissenburg</placeName>
+                        <placeName type="alt">Stuhlweißenburger Comitate</placeName>
+                        <placeName type="alt">Stuhlweißenburger
+                        Comitate</placeName>
+                        <placeName type="alt">Stuhlweißenburg</placeName>
+                    </place>
+                    <place xml:id="csor">
+                        <placeName type="pref">Csor</placeName>
+                    </place>
+                    <place xml:id="csurgo">
+                        <placeName type="pref">Csurgo</placeName>
+                    </place>
+                    <place xml:id="inota">
+                        <placeName type="pref">Inota</placeName>
+                    </place>
+                    <place xml:id="iszka">
+                        <placeName type="pref">Iszka</placeName>
+                    </place>
+                    <place xml:id="szent-gyoergy">
+                        <placeName type="pref">Szent-gyoergy</placeName>
+                        <placeName type="alt">Sz[ent]
+                        György</placeName>
+                    </place>
+                    <place xml:id="moha">
+                        <placeName type="pref">Moha</placeName>
+                    </place>
+                    <place xml:id="czecze">
+                        <placeName type="pref">Czecze</placeName>
+                    </place>
+                    <place xml:id="sarospatak">
+                        <placeName type="pref">Sarospatak</placeName>
+                        <placeName type="alt">Sárospataker</placeName>
+                    </place>
+                    <place xml:id="komitat-borsod">
+                        <placeName type="pref">Komitat-borsod</placeName>
+                        <placeName type="alt">Borsoder Comitat</placeName>
+                        <placeName type="alt">Borsoder</placeName>
+                    </place>
+                    <place xml:id="maklar">
+                        <placeName type="pref">Maklar</placeName>
+                    </place>
+                    <place xml:id="poroszlo">
+                        <placeName type="pref">Poroszlo</placeName>
+                    </place>
+                    <place xml:id="tiszanána">
+                        <placeName type="pref">Tiszanána</placeName>
+                    </place>
+                    <place xml:id="heves">
+                        <placeName type="pref">Heves</placeName>
+                    </place>
+                    <place xml:id="tenk">
+                        <placeName type="pref">Tenk</placeName>
+                    </place>
+                    <place xml:id="szarasboe">
+                        <placeName type="pref">Szarasboe</placeName>
+                        <placeName type="alt">Szárasbö</placeName>
+                    </place>
+                    <place xml:id="halász">
+                        <placeName type="pref">Halász</placeName>
+                    </place>
+                    <place xml:id="cserekoez">
+                        <placeName type="pref">Cserekoez</placeName>
+                        <placeName type="alt">Csereköz</placeName>
+                    </place>
+                    <place xml:id="komitat-heves">
+                        <placeName type="pref">Komitat-heves</placeName>
+                        <placeName type="alt">Hevescher Comitate</placeName>
+                    </place>
+                    <place xml:id="kenezloe">
+                        <placeName type="pref">Kenezloe</placeName>
+                        <placeName type="alt">Kenézlö</placeName>
+                    </place>
+                    <place xml:id="viss">
+                        <placeName type="pref">Viss</placeName>
+                    </place>
+                    <place xml:id="báj">
+                        <placeName type="pref">Báj</placeName>
+                    </place>
+                    <place xml:id="csobáj">
+                        <placeName type="pref">Csobáj</placeName>
+                    </place>
+                    <place xml:id="taktakencz">
+                        <placeName type="pref">Taktakencz</placeName>
+                    </place>
+                    <place xml:id="tiszaladány">
+                        <placeName type="pref">Tiszaladány</placeName>
+                    </place>
+                    <place xml:id="prügy">
+                        <placeName type="pref">Prügy</placeName>
+                    </place>
+                    <place xml:id="neu-szivacz">
+                        <placeName type="pref">Neu-szivacz</placeName>
+                        <placeName type="alt">Neu-Sziváczer</placeName>
+                    </place>
+                    <place xml:id="babarcz">
+                        <placeName type="pref">Babarcz</placeName>
+                    </place>
+                    <place xml:id="béllye">
+                        <placeName type="pref">Béllye</placeName>
+                    </place>
+                    <place xml:id="csuza">
+                        <placeName type="pref">Csuza</placeName>
+                    </place>
+                    <place xml:id="darocz">
+                        <placeName type="pref">Darocz</placeName>
+                    </place>
+                    <place xml:id="hercegszoelloes">
+                        <placeName type="pref">Hercegszoelloes</placeName>
+                        <placeName type="alt">Hercegszöllös</placeName>
+                    </place>
+                    <place xml:id="karancs">
+                        <placeName type="pref">Karancs</placeName>
+                    </place>
+                    <place xml:id="keoe">
+                        <placeName type="pref">Keoe</placeName>
+                        <placeName type="alt">Keö</placeName>
+                    </place>
+                    <place xml:id="koelked">
+                        <placeName type="pref">Koelked</placeName>
+                        <placeName type="alt">Kölked</placeName>
+                    </place>
+                    <place xml:id="kopács">
+                        <placeName type="pref">Kopács</placeName>
+                    </place>
+                    <place xml:id="lasko">
+                        <placeName type="pref">Lasko</placeName>
+                    </place>
+                    <place xml:id="mohács">
+                        <placeName type="pref">Mohács</placeName>
+                    </place>
+                    <place xml:id="voeroesmart">
+                        <placeName type="pref">Voeroesmart</placeName>
+                        <placeName type="alt">Vörösmart</placeName>
+                    </place>
+                    <place xml:id="komitat-baranya">
+                        <placeName type="pref">Komitat-baranya</placeName>
+                        <placeName type="alt">Baranyáer Comitate</placeName>
+                        <placeName type="alt">Baranyer</placeName>
+                    </place>
+                    <place xml:id="haraszti">
+                        <placeName type="pref">Haraszti</placeName>
+                    </place>
+                    <place xml:id="korogy">
+                        <placeName type="pref">Korogy</placeName>
+                    </place>
+                    <place xml:id="rétfalu">
+                        <placeName type="pref">Rétfalu</placeName>
+                    </place>
+                    <place xml:id="szent-lászlo">
+                        <placeName type="pref">Szent-lászlo</placeName>
+                    </place>
+                    <place xml:id="debelliacsa">
+                        <placeName type="pref">Debelliacsa</placeName>
+                    </place>
+                    <place xml:id="ittebe">
+                        <placeName type="pref">Ittebe</placeName>
+                    </place>
+                    <place xml:id="klopodia">
+                        <placeName type="pref">Klopodia</placeName>
+                    </place>
+                    <place xml:id="liebling">
+                        <placeName type="pref">Liebling</placeName>
+                    </place>
+                    <place xml:id="rittberg">
+                        <placeName type="pref">Rittberg</placeName>
+                    </place>
+                    <place xml:id="temesvár">
+                        <placeName type="pref">Temesvár</placeName>
+                    </place>
+                    <place xml:id="komitat-csongrad">
+                        <placeName type="pref">Komitat-csongrad</placeName>
+                        <placeName type="alt">Csongrader
+                        Comitate</placeName>
+                    </place>
+                    <place xml:id="samson">
+                        <placeName type="pref">Samson</placeName>
+                    </place>
+                    <place xml:id="komitat-tolna">
+                        <placeName type="pref">Komitat-tolna</placeName>
+                        <placeName type="alt">Tolna</placeName>
+                    </place>
+                    <place xml:id="zadar">
+                        <placeName type="pref">Zadar</placeName>
+                        <placeName type="alt">Zara</placeName>
+                    </place>
+                    <place xml:id="duesseldorf">
+                        <placeName type="pref">Duesseldorf</placeName>
+                        <placeName type="alt">Düsseldorf</placeName>
+                    </place>
+                    <place xml:id="venedig">
+                        <placeName type="pref">Venedig</placeName>
+                        <placeName type="alt">Venedig</placeName>
+                        <placeName type="alt">Venedigs</placeName>
+                    </place>
+                    <place xml:id="eisenach">
+                        <placeName type="pref">Eisenach</placeName>
+                    </place>
+                    <place xml:id="göttingen">
+                        <placeName type="pref">Göttingen</placeName>
+                    </place>
+                    <place xml:id="deutschlands">
+                        <placeName type="pref">Deutschlands</placeName>
+                    </place>
+                    <place xml:id="rolduc">
+                        <placeName type="pref">Rolduc</placeName>
+                    </place>
+                    <place xml:id="neapel">
+                        <placeName type="pref">Neapel</placeName>
+                        <placeName type="alt">Naples</placeName>
+                        <placeName type="alt">Neapel</placeName>
+                        <placeName type="alt">Neapels</placeName>
+                    </place>
+                    <place xml:id="kiel">
+                        <placeName type="pref">Kiel</placeName>
+                    </place>
+                    <place xml:id="heidelberg">
+                        <placeName type="pref">Heidelberg</placeName>
+                    </place>
+                    <place xml:id="jena">
+                        <placeName type="pref">Jena</placeName>
+                    </place>
+                    <place xml:id="dorpat">
+                        <placeName type="pref">Dorpat</placeName>
+                    </place>
+                    <place xml:id="stresa">
+                        <placeName type="pref">Stresa</placeName>
+                    </place>
+                    <place xml:id="florenz">
+                        <placeName type="pref">Florenz</placeName>
+                    </place>
+                    <place xml:id="brescia">
+                        <placeName type="pref">Brescia</placeName>
+                    </place>
+                    <place xml:id="mantua">
+                        <placeName type="pref">Mantua</placeName>
+                    </place>
+                    <place xml:id="genua">
+                        <placeName type="pref">Genua</placeName>
+                    </place>
+                    <place xml:id="ravenna">
+                        <placeName type="pref">Ravenna</placeName>
+                    </place>
+                    <place xml:id="modena">
+                        <placeName type="pref">Modena</placeName>
+                    </place>
+                    <place xml:id="bologna">
+                        <placeName type="pref">Bologna</placeName>
+                    </place>
+                    <place xml:id="spalato">
+                        <placeName type="pref">Spalato</placeName>
+                        <placeName type="alt">Sp[alato]</placeName>
+                        <placeName type="alt">Spalatro</placeName>
+                    </place>
+                    <place xml:id="salona">
+                        <placeName type="pref">Salona</placeName>
+                    </place>
+                    <place xml:id="herkulaneum">
+                        <placeName type="pref">Herkulaneum</placeName>
+                    </place>
+                    <place xml:id="pompeji">
+                        <placeName type="pref">Pompeji</placeName>
+                        <placeName type="alt">Pompeji</placeName>
+                        <placeName type="alt">Pompei</placeName>
+                    </place>
+                    <place xml:id="ragusa">
+                        <placeName type="pref">Ragusa</placeName>
+                    </place>
+                    <place xml:id="großwardein">
+                        <placeName type="pref">Großwardein</placeName>
+                    </place>
+                    <place xml:id="ödenburg">
+                        <placeName type="pref">Ödenburg</placeName>
+                    </place>
+                    <place xml:id="neu-verbaß">
+                        <placeName type="pref">Neu-verbaß</placeName>
+                    </place>
+                    <place xml:id="comorn">
+                        <placeName type="pref">Comorn</placeName>
+                    </place>
+                    <place xml:id="brixen">
+                        <placeName type="pref">Brixen</placeName>
+                    </place>
+                    <place xml:id="wilten">
+                        <placeName type="pref">Wilten</placeName>
+                    </place>
+                    <place xml:id="stams">
+                        <placeName type="pref">Stams</placeName>
+                    </place>
+                    <place xml:id="neustift">
+                        <placeName type="pref">Neustift</placeName>
+                    </place>
+                    <place xml:id="fiecht">
+                        <placeName type="pref">Fiecht</placeName>
+                    </place>
+                    <place xml:id="marienberg">
+                        <placeName type="pref">Marienberg</placeName>
+                    </place>
+                    <place xml:id="innichen">
+                        <placeName type="pref">Innichen</placeName>
+                    </place>
+                    <place xml:id="arco">
+                        <placeName type="pref">Arco</placeName>
+                        <placeName type="alt">Arko</placeName>
+                    </place>
+                    <place xml:id="roveredo">
+                        <placeName type="pref">Roveredo</placeName>
+                    </place>
+                    <place xml:id="bozen">
+                        <placeName type="pref">Bozen</placeName>
+                        <placeName type="alt">Botzen</placeName>
+                    </place>
+                    <place xml:id="gries">
+                        <placeName type="pref">Gries</placeName>
+                    </place>
+                    <place xml:id="meran">
+                        <placeName type="pref">Meran</placeName>
+                    </place>
+                    <place xml:id="hall">
+                        <placeName type="pref">Hall</placeName>
+                    </place>
+                    <place xml:id="rattenberg">
+                        <placeName type="pref">Rattenberg</placeName>
+                    </place>
+                    <place xml:id="kitzbühel">
+                        <placeName type="pref">Kitzbühel</placeName>
+                    </place>
+                    <place xml:id="kufstein">
+                        <placeName type="pref">Kufstein</placeName>
+                    </place>
+                    <place xml:id="sterzing">
+                        <placeName type="pref">Sterzing</placeName>
+                    </place>
+                    <place xml:id="klausen">
+                        <placeName type="pref">Klausen</placeName>
+                    </place>
+                    <place xml:id="bruneck">
+                        <placeName type="pref">Bruneck</placeName>
+                    </place>
+                    <place xml:id="lienz">
+                        <placeName type="pref">Lienz</placeName>
+                    </place>
+                    <place xml:id="glurns">
+                        <placeName type="pref">Glurns</placeName>
+                    </place>
+                    <place xml:id="vils">
+                        <placeName type="pref">Vils</placeName>
+                    </place>
+                    <place xml:id="schwaz">
+                        <placeName type="pref">Schwaz</placeName>
+                    </place>
+                    <place xml:id="imst">
+                        <placeName type="pref">Imst</placeName>
+                    </place>
+                    <place xml:id="reutte">
+                        <placeName type="pref">Reutte</placeName>
+                    </place>
+                    <place xml:id="riva">
+                        <placeName type="pref">Riva</placeName>
+                    </place>
+                    <place xml:id="pergine">
+                        <placeName type="pref">Pergine</placeName>
+                    </place>
+                    <place xml:id="levico">
+                        <placeName type="pref">Levico</placeName>
+                        <placeName type="alt">Leviko</placeName>
+                    </place>
+                    <place xml:id="borgo">
+                        <placeName type="pref">Borgo</placeName>
+                    </place>
+                    <place xml:id="lavis">
+                        <placeName type="pref">Lavis</placeName>
+                    </place>
+                    <place xml:id="cles">
+                        <placeName type="pref">Cles</placeName>
+                    </place>
+                    <place xml:id="fondo">
+                        <placeName type="pref">Fondo</placeName>
+                    </place>
+                    <place xml:id="regensburg">
+                        <placeName type="pref">Regensburg</placeName>
+                    </place>
+                    <place xml:id="bruenn">
+                        <placeName type="pref">Bruenn</placeName>
+                        <placeName type="alt">Brünn</placeName>
+                        <placeName type="alt">Brünner</placeName>
+                    </place>
+                    <place xml:id="villach">
+                        <placeName type="pref">Villach</placeName>
+                    </place>
+                    <place xml:id="feldkirch">
+                        <placeName type="pref">Feldkirch</placeName>
+                    </place>
+                    <place xml:id="köln">
+                        <placeName type="pref">Köln</placeName>
+                    </place>
+                    <place xml:id="treviso">
+                        <placeName type="pref">Treviso</placeName>
+                    </place>
+                    <place xml:id="padua">
+                        <placeName type="pref">Padua</placeName>
+                        <placeName type="alt">Città</placeName>
+                    </place>
+                    <place xml:id="cittadella">
+                        <placeName type="pref">Cittadella</placeName>
+                    </place>
+                    <place xml:id="lichtensteig">
+                        <placeName type="pref">Lichtensteig</placeName>
+                    </place>
+                    <place xml:id="maros-vásárhely">
+                        <placeName type="pref">Maros-vásárhely</placeName>
+                    </place>
+                    <place xml:id="o-o-innsbruck">
+                        <placeName type="pref">O-o-innsbruck</placeName>
+                    </place>
+                    <place xml:id="münster">
+                        <placeName type="pref">Münster</placeName>
+                    </place>
+                    <place xml:id="paderborn">
+                        <placeName type="pref">Paderborn</placeName>
+                    </place>
+                    <place xml:id="goettingen">
+                        <placeName type="pref">Goettingen</placeName>
+                        <placeName type="alt">Göttinger</placeName>
+                        <placeName type="alt">Göttingen</placeName>
+                    </place>
+                    <place xml:id="braunsberg">
+                        <placeName type="pref">Braunsberg</placeName>
+                    </place>
+                    <place xml:id="syrakus">
+                        <placeName type="pref">Syrakus</placeName>
+                        <placeName type="alt">Syracus</placeName>
+                    </place>
+                    <place xml:id="pisa">
+                        <placeName type="pref">Pisa</placeName>
+                    </place>
+                    <place xml:id="palermo">
+                        <placeName type="pref">Palermo</placeName>
+                    </place>
+                    <place xml:id="hildburghausen">
+                        <placeName type="pref">Hildburghausen</placeName>
+                    </place>
+                    <place xml:id="santa-maria-dell-anima">
+                        <placeName type="pref">Santa-maria-dell-anima</placeName>
+                    </place>
+                    <place xml:id="vatikan">
+                        <placeName type="pref">Vatikan</placeName>
+                        <placeName type="alt">Vatican</placeName>
+                    </place>
+                    <place xml:id="schloß-johannesberg">
+                        <placeName type="pref">Schloß-johannesberg</placeName>
+                    </place>
+                    <place xml:id="teschen">
+                        <placeName type="pref">Teschen</placeName>
+                        <placeName type="alt">Teschens</placeName>
+                    </place>
+                    <place xml:id="friedeck">
+                        <placeName type="pref">Friedeck</placeName>
+                    </place>
+                    <place xml:id="karvin">
+                        <placeName type="pref">Karvin</placeName>
+                    </place>
+                    <place xml:id="freistadt">
+                        <placeName type="pref">Freistadt</placeName>
+                    </place>
+                    <place xml:id="freiwaldau">
+                        <placeName type="pref">Freiwaldau</placeName>
+                    </place>
+                    <place xml:id="olmütz">
+                        <placeName type="pref">Olmütz</placeName>
+                    </place>
+                    <place xml:id="schloss-johannesberg">
+                        <placeName type="pref">Schloss-johannesberg</placeName>
+                    </place>
+                    <place xml:id="johannesberg">
+                        <placeName type="pref">Johannesberg</placeName>
+                    </place>
+                    <place xml:id="zuckmantel">
+                        <placeName type="pref">Zuckmantel</placeName>
+                    </place>
+                    <place xml:id="holstein">
+                        <placeName type="pref">Holstein</placeName>
+                    </place>
+                    <place xml:id="freiburg-im-breisgau">
+                        <placeName type="pref">Freiburg-im-breisgau</placeName>
+                        <placeName type="alt">Freiburg i.
+                        B.</placeName>
+                        <placeName type="alt">Freiburg im Breisgau</placeName>
+                    </place>
+                    <place xml:id="mannheim">
+                        <placeName type="pref">Mannheim</placeName>
+                    </place>
+                    <place xml:id="universitaet-freiburg">
+                        <placeName type="pref">Universitaet-freiburg</placeName>
+                        <placeName type="alt">hiesigen
+                        Universität</placeName>
+                    </place>
+                    <place xml:id="milano">
+                        <placeName type="pref">Milano</placeName>
+                    </place>
+                    <place xml:id="pontevico">
+                        <placeName type="pref">Pontevico</placeName>
+                    </place>
+                    <place xml:id="liblin">
+                        <placeName type="pref">Liblin</placeName>
+                    </place>
+                    <place xml:id="liebstein">
+                        <placeName type="pref">Liebstein</placeName>
+                    </place>
+                    <place xml:id="bujesil">
+                        <placeName type="pref">Bujesil</placeName>
+                    </place>
+                    <place xml:id="wrch">
+                        <placeName type="pref">Wrch</placeName>
+                    </place>
+                    <place xml:id="lhotka">
+                        <placeName type="pref">Lhotka</placeName>
+                    </place>
+                    <place xml:id="kockow">
+                        <placeName type="pref">Kockow</placeName>
+                    </place>
+                    <place xml:id="rakolaus">
+                        <placeName type="pref">Rakolaus</placeName>
+                    </place>
+                    <place xml:id="rohy">
+                        <placeName type="pref">Rohy</placeName>
+                    </place>
+                    <place xml:id="kraschau">
+                        <placeName type="pref">Kraschau</placeName>
+                    </place>
+                    <place xml:id="brodeslad">
+                        <placeName type="pref">Brodeslad</placeName>
+                    </place>
+                    <place xml:id="kozojed">
+                        <placeName type="pref">Kozojed</placeName>
+                    </place>
+                    <place xml:id="borek">
+                        <placeName type="pref">Borek</placeName>
+                    </place>
+                    <place xml:id="vsehrdy">
+                        <placeName type="pref">Vsehrdy</placeName>
+                        <placeName type="alt">Všehrdy</placeName>
+                    </place>
+                    <place xml:id="lednitz">
+                        <placeName type="pref">Lednitz</placeName>
+                    </place>
+                    <place xml:id="unterhradischt">
+                        <placeName type="pref">Unterhradischt</placeName>
+                    </place>
+                    <place xml:id="plass">
+                        <placeName type="pref">Plass</placeName>
+                        <placeName type="alt">Plaß</placeName>
+                    </place>
+                    <place xml:id="kralowitz">
+                        <placeName type="pref">Kralowitz</placeName>
+                    </place>
+                    <place xml:id="ober-und-unterliblin">
+                        <placeName type="pref">Ober-und-unterliblin</placeName>
+                        <placeName type="alt">Ober- und Unterliblin</placeName>
+                    </place>
+                    <place xml:id="kotzkow">
+                        <placeName type="pref">Kotzkow</placeName>
+                    </place>
+                    <place xml:id="rovinj">
+                        <placeName type="pref">Rovinj</placeName>
+                    </place>
+                    <place xml:id="pago">
+                        <placeName type="pref">Pago</placeName>
+                    </place>
+                    <place xml:id="lattugna">
+                        <placeName type="pref">Lattugna</placeName>
+                    </place>
+                    <place xml:id="vodizze">
+                        <placeName type="pref">Vodizze</placeName>
+                    </place>
+                    <place xml:id="kiew">
+                        <placeName type="pref">Kiew</placeName>
+                    </place>
+                    <place xml:id="vendig">
+                        <placeName type="pref">Vendig</placeName>
+                    </place>
+                    <place xml:id="koethen">
+                        <placeName type="pref">Koethen</placeName>
+                        <placeName type="alt">Köthen</placeName>
+                    </place>
+                    <place xml:id="schoenbrunn">
+                        <placeName type="pref">Schoenbrunn</placeName>
+                        <placeName type="alt">Schönbrunn</placeName>
+                    </place>
+                    <place xml:id="waitzen">
+                        <placeName type="pref">Waitzen</placeName>
+                        <placeName type="alt">Waitzner</placeName>
+                    </place>
+                    <place xml:id="leitmeritz">
+                        <placeName type="pref">Leitmeritz</placeName>
+                        <placeName type="alt">Leitmeritzer</placeName>
+                    </place>
+                    <place xml:id="budweis">
+                        <placeName type="pref">Budweis</placeName>
+                        <placeName type="alt">Budweiser</placeName>
+                    </place>
+                    <place xml:id="goerz">
+                        <placeName type="pref">Goerz</placeName>
+                        <placeName type="alt">Görz</placeName>
+                    </place>
+                    <place xml:id="martinsberg">
+                        <placeName type="pref">Martinsberg</placeName>
+                    </place>
+                    <place xml:id="neutra">
+                        <placeName type="pref">Neutra</placeName>
+                    </place>
+                    <place xml:id="marienschein">
+                        <placeName type="pref">Marienschein</placeName>
+                    </place>
+                    <place xml:id="freienberg-bei-linz">
+                        <placeName type="pref">Freienberg-bei-linz</placeName>
+                    </place>
+                    <place xml:id="castagnavizza">
+                        <placeName type="pref">Castagnavizza</placeName>
+                    </place>
+                    <place xml:id="laibach">
+                        <placeName type="pref">Laibach</placeName>
+                        <placeName type="alt">Laibach</placeName>
+                    </place>
+                    <place xml:id="castagnavizza-bei-görz">
+                        <placeName type="pref">Castagnavizza-bei-görz</placeName>
+                    </place>
+                    <place xml:id="linz">
+                        <placeName type="pref">Linz</placeName>
+                        <placeName type="alt">Linzer</placeName>
+                        <placeName type="alt">Linz</placeName>
+                    </place>
+                    <place xml:id="capodistria">
+                        <placeName type="pref">Capodistria</placeName>
+                    </place>
+                    <place xml:id="reichenberg">
+                        <placeName type="pref">Reichenberg</placeName>
+                    </place>
+                    <place xml:id="jungbunzlau">
+                        <placeName type="pref">Jungbunzlau</placeName>
+                    </place>
+                    <place xml:id="komotau">
+                        <placeName type="pref">Komotau</placeName>
+                    </place>
+                    <place xml:id="joachimsthal">
+                        <placeName type="pref">Joachimsthal</placeName>
+                    </place>
+                    <place xml:id="chrudim">
+                        <placeName type="pref">Chrudim</placeName>
+                    </place>
+                    <place xml:id="znaim">
+                        <placeName type="pref">Znaim</placeName>
+                    </place>
+                    <place xml:id="korneuburg">
+                        <placeName type="pref">Korneuburg</placeName>
+                    </place>
+                    <place xml:id="wiener-neustadt">
+                        <placeName type="pref">Wiener-neustadt</placeName>
+                    </place>
+                    <place xml:id="bregenz">
+                        <placeName type="pref">Bregenz</placeName>
+                    </place>
+                    <place xml:id="marburg">
+                        <placeName type="pref">Marburg</placeName>
+                    </place>
+                    <place xml:id="cilli">
+                        <placeName type="pref">Cilli</placeName>
+                    </place>
+                    <place xml:id="idria">
+                        <placeName type="pref">Idria</placeName>
+                    </place>
+                    <place xml:id="veglia">
+                        <placeName type="pref">Veglia</placeName>
+                    </place>
+                    <place xml:id="lusin-piccolo">
+                        <placeName type="pref">Lusin-piccolo</placeName>
+                    </place>
+                    <place xml:id="rovigno">
+                        <placeName type="pref">Rovigno</placeName>
+                    </place>
+                    <place xml:id="celje">
+                        <placeName type="pref">Celje</placeName>
+                    </place>
+                    <place xml:id="maribor">
+                        <placeName type="pref">Maribor</placeName>
+                    </place>
+                    <place xml:id="troppau">
+                        <placeName type="pref">Troppau</placeName>
+                    </place>
+                    <place xml:id="opava">
+                        <placeName type="pref">Opava</placeName>
+                    </place>
+                    <place xml:id="gratz">
+                        <placeName type="pref">Gratz</placeName>
+                    </place>
+                    <place xml:id="stuttgart">
+                        <placeName type="pref">Stuttgart</placeName>
+                    </place>
+                    <place xml:id="bad-gastein">
+                        <placeName type="pref">Bad-gastein</placeName>
+                        <placeName type="alt">Gastein</placeName>
+                    </place>
+                    <place xml:id="hagenau">
+                        <placeName type="pref">Hagenau</placeName>
+                    </place>
+                    <place xml:id="hrádek">
+                        <placeName type="pref">Hrádek</placeName>
+                    </place>
+                    <place xml:id="steger">
+                        <placeName type="pref">Steger</placeName>
+                    </place>
+                    <place xml:id="koeniggraetz">
+                        <placeName type="pref">Koeniggraetz</placeName>
+                        <placeName type="alt">Königgrätz</placeName>
+                        <placeName type="alt">Königgraz</placeName>
+                    </place>
+                    <place xml:id="lofer">
+                        <placeName type="pref">Lofer</placeName>
+                    </place>
+                    <place xml:id="radstadt">
+                        <placeName type="pref">Radstadt</placeName>
+                    </place>
+                    <place xml:id="teisendorf">
+                        <placeName type="pref">Teisendorf</placeName>
+                    </place>
+                    <place xml:id="landshut">
+                        <placeName type="pref">Landshut</placeName>
+                    </place>
+                    <place xml:id="eichstaett">
+                        <placeName type="pref">Eichstaett</placeName>
+                        <placeName type="alt">Eichstätt</placeName>
+                    </place>
+                    <place xml:id="gotha">
+                        <placeName type="pref">Gotha</placeName>
+                    </place>
+                    <place xml:id="wartenberg">
+                        <placeName type="pref">Wartenberg</placeName>
+                    </place>
+                    <place xml:id="varazdin">
+                        <placeName type="pref">Varazdin</placeName>
+                        <placeName type="alt">Warasdin</placeName>
+                    </place>
+                    <place xml:id="smeczna">
+                        <placeName type="pref">Smeczna</placeName>
+                    </place>
+                    <place xml:id="ostende">
+                        <placeName type="pref">Ostende</placeName>
+                    </place>
+                    <place xml:id="stanislawow">
+                        <placeName type="pref">Stanislawow</placeName>
+                    </place>
+                    <place xml:id="suczawa">
+                        <placeName type="pref">Suczawa</placeName>
+                    </place>
+                    <place xml:id="asch">
+                        <placeName type="pref">Asch</placeName>
+                        <placeName type="alt">Ascher</placeName>
+                    </place>
+                    <place xml:id="blasendorf-blaj">
+                        <placeName type="pref">Blasendorf-blaj</placeName>
+                    </place>
+                    <place xml:id="udvarhely">
+                        <placeName type="pref">Udvarhely</placeName>
+                    </place>
+                    <place xml:id="fogaras">
+                        <placeName type="pref">Fogaras</placeName>
+                    </place>
+                    <place xml:id="karlsburg">
+                        <placeName type="pref">Karlsburg</placeName>
+                    </place>
+                    <place xml:id="retteg">
+                        <placeName type="pref">Retteg</placeName>
+                    </place>
+                    <place xml:id="debrecen">
+                        <placeName type="pref">Debrecen</placeName>
+                    </place>
+                    <place xml:id="zilah">
+                        <placeName type="pref">Zilah</placeName>
+                    </place>
+                    <place xml:id="oesterreich">
+                        <placeName type="pref">Oesterreich</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                    </place>
+                    <place xml:id="roms">
+                        <placeName type="pref">Roms</placeName>
+                    </place>
+                    <place xml:id="marosvaserhely">
+                        <placeName type="pref">Marosvaserhely</placeName>
+                    </place>
+                    <place xml:id="dees">
+                        <placeName type="pref">Dees</placeName>
+                    </place>
+                    <place xml:id="utscha">
+                        <placeName type="pref">Utscha</placeName>
+                    </place>
+                    <place xml:id="bamberg">
+                        <placeName type="pref">Bamberg</placeName>
+                    </place>
+                    <place xml:id="osmolice">
+                        <placeName type="pref">Osmolice</placeName>
+                    </place>
+                    <place xml:id="lublin">
+                        <placeName type="pref">Lublin</placeName>
+                    </place>
+                    <place xml:id="sonneberg-bei-coburg">
+                        <placeName type="pref">Sonneberg-bei-coburg</placeName>
+                    </place>
+                    <place xml:id="schlinig">
+                        <placeName type="pref">Schlinig</placeName>
+                    </place>
+                    <place xml:id="baja">
+                        <placeName type="pref">Baja</placeName>
+                    </place>
+                    <place xml:id="theresiopel">
+                        <placeName type="pref">Theresiopel</placeName>
+                    </place>
+                    <place xml:id="bezdan">
+                        <placeName type="pref">Bezdan</placeName>
+                    </place>
+                    <place xml:id="peterwardein">
+                        <placeName type="pref">Peterwardein</placeName>
+                        <placeName type="alt">Peterwardeiner</placeName>
+                    </place>
+                    <place xml:id="temescher-banat">
+                        <placeName type="pref">Temescher-banat</placeName>
+                        <placeName type="alt">Banater</placeName>
+                    </place>
+                    <place xml:id="pančero">
+                        <placeName type="pref">Pančero</placeName>
+                    </place>
+                    <place xml:id="weisskirchen">
+                        <placeName type="pref">Weisskirchen</placeName>
+                        <placeName type="alt">Weißkirchen</placeName>
+                    </place>
+                    <place xml:id="rastatt">
+                        <placeName type="pref">Rastatt</placeName>
+                    </place>
+                    <place xml:id="erlangen">
+                        <placeName type="pref">Erlangen</placeName>
+                    </place>
+                    <place xml:id="jicin">
+                        <placeName type="pref">Jicin</placeName>
+                        <placeName type="alt">Jicjner</placeName>
+                    </place>
+                    <place xml:id="raudnitz">
+                        <placeName type="pref">Raudnitz</placeName>
+                    </place>
+                    <place xml:id="luzern">
+                        <placeName type="pref">Luzern</placeName>
+                        <placeName type="alt">Lucern</placeName>
+                    </place>
+                    <place xml:id="uhřínově">
+                        <placeName type="pref">Uhřínově</placeName>
+                    </place>
+                    <place xml:id="velké-meziříčí">
+                        <placeName type="pref">Velké-meziříčí</placeName>
+                    </place>
+                    <place xml:id="komjath">
+                        <placeName type="pref">Komjath</placeName>
+                    </place>
+                    <place xml:id="tyrnau">
+                        <placeName type="pref">Tyrnau</placeName>
+                        <placeName type="alt">Tirnau</placeName>
+                        <placeName type="alt">Tyrnauer</placeName>
+                    </place>
+                    <place xml:id="verebely">
+                        <placeName type="pref">Verebely</placeName>
+                    </place>
+                    <place xml:id="istvanfalva">
+                        <placeName type="pref">Istvanfalva</placeName>
+                    </place>
+                    <place xml:id="huenfeld">
+                        <placeName type="pref">Huenfeld</placeName>
+                        <placeName type="alt">Hünfeld</placeName>
+                    </place>
+                    <place xml:id="zagreb">
+                        <placeName type="pref">Zagreb</placeName>
+                    </place>
+                    <place xml:id="possegg">
+                        <placeName type="pref">Possegg</placeName>
+                    </place>
+                    <place xml:id="voelkermarkt">
+                        <placeName type="pref">Voelkermarkt</placeName>
+                        <placeName type="alt">Völkermarkt</placeName>
+                    </place>
+                    <place xml:id="hannover">
+                        <placeName type="pref">Hannover</placeName>
+                        <placeName type="alt">Hanoversche</placeName>
+                    </place>
+                    <place xml:id="weimar">
+                        <placeName type="pref">Weimar</placeName>
+                        <placeName type="alt">Weimar</placeName>
+                    </place>
+                    <place xml:id="eisenstadt">
+                        <placeName type="pref">Eisenstadt</placeName>
+                    </place>
+                    <place xml:id="szilágysomlyó">
+                        <placeName type="pref">Szilágysomlyó</placeName>
+                    </place>
+                    <place xml:id="fulda">
+                        <placeName type="pref">Fulda</placeName>
+                    </place>
+                    <place xml:id="dreis">
+                        <placeName type="pref">Dreis</placeName>
+                    </place>
+                    <place xml:id="hanau">
+                        <placeName type="pref">Hanau</placeName>
+                    </place>
+                    <place xml:id="hamburg">
+                        <placeName type="pref">Hamburg</placeName>
+                    </place>
+                    <place xml:id="coquimbo">
+                        <placeName type="pref">Coquimbo</placeName>
+                    </place>
+                    <place xml:id="moskau">
+                        <placeName type="pref">Moskau</placeName>
+                    </place>
+                    <place xml:id="warschau">
+                        <placeName type="pref">Warschau</placeName>
+                    </place>
+                    <place xml:id="wierzenica">
+                        <placeName type="pref">Wierzenica</placeName>
+                    </place>
+                    <place xml:id="posen">
+                        <placeName type="pref">Posen</placeName>
+                        <placeName type="alt">Posnania</placeName>
+                        <placeName type="alt">Posen’schen</placeName>
+                    </place>
+                    <place xml:id="kolocsa">
+                        <placeName type="pref">Kolocsa</placeName>
+                    </place>
+                    <place xml:id="csanád">
+                        <placeName type="pref">Csanád</placeName>
+                    </place>
+                    <place xml:id="washington">
+                        <placeName type="pref">Washington</placeName>
+                    </place>
+                    <place xml:id="london">
+                        <placeName type="pref">London</placeName>
+                        <placeName type="alt">London</placeName>
+                    </place>
+                    <place xml:id="nikolsburg">
+                        <placeName type="pref">Nikolsburg</placeName>
+                        <placeName type="alt">Nikolsburger</placeName>
+                    </place>
+                    <place xml:id="liebenau">
+                        <placeName type="pref">Liebenau</placeName>
+                    </place>
+                    <place xml:id="tabor">
+                        <placeName type="pref">Tabor</placeName>
+                    </place>
+                    <place xml:id="wodnian">
+                        <placeName type="pref">Wodnian</placeName>
+                    </place>
+                    <place xml:id="pisek">
+                        <placeName type="pref">Pisek</placeName>
+                    </place>
+                    <place xml:id="přibram">
+                        <placeName type="pref">Přibram</placeName>
+                    </place>
+                    <place xml:id="plan">
+                        <placeName type="pref">Plan</placeName>
+                    </place>
+                    <place xml:id="steinschönau">
+                        <placeName type="pref">Steinschönau</placeName>
+                    </place>
+                    <place xml:id="vyšehrad">
+                        <placeName type="pref">Vyšehrad</placeName>
+                    </place>
+                    <place xml:id="udine">
+                        <placeName type="pref">Udine</placeName>
+                    </place>
+                    <place xml:id="bergamo">
+                        <placeName type="pref">Bergamo</placeName>
+                    </place>
+                    <place xml:id="como">
+                        <placeName type="pref">Como</placeName>
+                    </place>
+                    <place xml:id="crema">
+                        <placeName type="pref">Crema</placeName>
+                    </place>
+                    <place xml:id="cremona">
+                        <placeName type="pref">Cremona</placeName>
+                    </place>
+                    <place xml:id="lodi">
+                        <placeName type="pref">Lodi</placeName>
+                    </place>
+                    <place xml:id="adria">
+                        <placeName type="pref">Adria</placeName>
+                    </place>
+                    <place xml:id="ceneda">
+                        <placeName type="pref">Ceneda</placeName>
+                    </place>
+                    <place xml:id="chioggia">
+                        <placeName type="pref">Chioggia</placeName>
+                    </place>
+                    <place xml:id="vicenza">
+                        <placeName type="pref">Vicenza</placeName>
+                    </place>
+                    <place xml:id="belluno">
+                        <placeName type="pref">Belluno</placeName>
+                    </place>
+                    <place xml:id="feltre">
+                        <placeName type="pref">Feltre</placeName>
+                    </place>
+                    <place xml:id="concordia">
+                        <placeName type="pref">Concordia</placeName>
+                    </place>
+                    <place xml:id="pompéi">
+                        <placeName type="pref">Pompéi</placeName>
+                    </place>
+                    <place xml:id="parma">
+                        <placeName type="pref">Parma</placeName>
+                        <placeName type="alt">Parme</placeName>
+                    </place>
+                    <place xml:id="portici">
+                        <placeName type="pref">Portici</placeName>
+                    </place>
+                    <place xml:id="st-petersburg">
+                        <placeName type="pref">St-petersburg</placeName>
+                    </place>
+                    <place xml:id="turin">
+                        <placeName type="pref">Turin</placeName>
+                    </place>
+                    <place xml:id="madrid">
+                        <placeName type="pref">Madrid</placeName>
+                    </place>
+                    <place xml:id="rome">
+                        <placeName type="pref">Rome</placeName>
+                    </place>
+                    <place xml:id="nagykoeroes">
+                        <placeName type="pref">Nagykoeroes</placeName>
+                        <placeName type="alt">Köröser</placeName>
+                        <placeName type="alt">Körös</placeName>
+                        <placeName type="alt">N[agy] Körös</placeName>
+                    </place>
+                    <place xml:id="sárospatak">
+                        <placeName type="pref">Sárospatak</placeName>
+                    </place>
+                    <place xml:id="kecskemét">
+                        <placeName type="pref">Kecskemét</placeName>
+                    </place>
+                    <place xml:id="kisujszállás">
+                        <placeName type="pref">Kisujszállás</placeName>
+                    </place>
+                    <place xml:id="karcag">
+                        <placeName type="pref">Karcag</placeName>
+                    </place>
+                    <place xml:id="aszód">
+                        <placeName type="pref">Aszód</placeName>
+                    </place>
+                    <place xml:id="kecskemet">
+                        <placeName type="pref">Kecskemet</placeName>
+                        <placeName type="alt">Kecskeméter</placeName>
+                    </place>
+                    <place xml:id="czegléd">
+                        <placeName type="pref">Czegléd</placeName>
+                    </place>
+                    <place xml:id="halas">
+                        <placeName type="pref">Halas</placeName>
+                    </place>
+                    <place xml:id="gyoenk">
+                        <placeName type="pref">Gyoenk</placeName>
+                        <placeName type="alt">Gyönk</placeName>
+                    </place>
+                    <place xml:id="pest-ofen">
+                        <placeName type="pref">Pest-ofen</placeName>
+                    </place>
+                    <place xml:id="kremsmuenster">
+                        <placeName type="pref">Kremsmuenster</placeName>
+                        <placeName type="alt">Kremsmünster</placeName>
+                    </place>
+                    <place xml:id="hermannseifen">
+                        <placeName type="pref">Hermannseifen</placeName>
+                    </place>
+                    <place xml:id="loeffingen">
+                        <placeName type="pref">Loeffingen</placeName>
+                        <placeName type="alt">Löffingen</placeName>
+                    </place>
+                    <place xml:id="mittenwald">
+                        <placeName type="pref">Mittenwald</placeName>
+                    </place>
+                    <place xml:id="hildesheim">
+                        <placeName type="pref">Hildesheim</placeName>
+                    </place>
+                    <place xml:id="dueren">
+                        <placeName type="pref">Dueren</placeName>
+                        <placeName type="alt">Duren</placeName>
+                    </place>
+                    <place xml:id="preßburg">
+                        <placeName type="pref">Preßburg</placeName>
+                    </place>
+                    <place xml:id="mattersdorf">
+                        <placeName type="pref">Mattersdorf</placeName>
+                    </place>
+                    <place xml:id="pullendorf">
+                        <placeName type="pref">Pullendorf</placeName>
+                    </place>
+                    <place xml:id="ungarisch-altenburg">
+                        <placeName type="pref">Ungarisch-altenburg</placeName>
+                        <placeName type="alt">Ungarisch-Altenburger</placeName>
+                    </place>
+                    <place xml:id="neusiedl-am-see">
+                        <placeName type="pref">Neusiedl-am-see</placeName>
+                        <placeName type="alt">Neusidl am See</placeName>
+                    </place>
+                    <place xml:id="huens">
+                        <placeName type="pref">Huens</placeName>
+                        <placeName type="alt">Hüns</placeName>
+                    </place>
+                    <place xml:id="ossnitz">
+                        <placeName type="pref">Ossnitz</placeName>
+                        <placeName type="alt">Oßnitz</placeName>
+                    </place>
+                    <place xml:id="guessing">
+                        <placeName type="pref">Guessing</placeName>
+                        <placeName type="alt">Güßing</placeName>
+                    </place>
+                    <place xml:id="oberwarth">
+                        <placeName type="pref">Oberwarth</placeName>
+                    </place>
+                    <place xml:id="pecsvard">
+                        <placeName type="pref">Pecsvard</placeName>
+                    </place>
+                    <place xml:id="mohacs">
+                        <placeName type="pref">Mohacs</placeName>
+                        <placeName type="alt">Mohac</placeName>
+                    </place>
+                    <place xml:id="bonghás">
+                        <placeName type="pref">Bonghás</placeName>
+                    </place>
+                    <place xml:id="tamasi">
+                        <placeName type="pref">Tamasi</placeName>
+                    </place>
+                    <place xml:id="leutschau">
+                        <placeName type="pref">Leutschau</placeName>
+                        <placeName type="alt">Leutschauer</placeName>
+                    </place>
+                    <place xml:id="bartfeld">
+                        <placeName type="pref">Bartfeld</placeName>
+                    </place>
+                    <place xml:id="beregszasz">
+                        <placeName type="pref">Beregszasz</placeName>
+                    </place>
+                    <place xml:id="alsóverecke">
+                        <placeName type="pref">Alsóverecke</placeName>
+                    </place>
+                    <place xml:id="munkatschewe">
+                        <placeName type="pref">Munkatschewe</placeName>
+                    </place>
+                    <place xml:id="nagy-berezna">
+                        <placeName type="pref">Nagy-berezna</placeName>
+                    </place>
+                    <place xml:id="tiba">
+                        <placeName type="pref">Tiba</placeName>
+                    </place>
+                    <place xml:id="homonna">
+                        <placeName type="pref">Homonna</placeName>
+                    </place>
+                    <place xml:id="papina">
+                        <placeName type="pref">Papina</placeName>
+                    </place>
+                    <place xml:id="sztropko">
+                        <placeName type="pref">Sztropko</placeName>
+                    </place>
+                    <place xml:id="galszecs">
+                        <placeName type="pref">Galszecs</placeName>
+                    </place>
+                    <place xml:id="varanno">
+                        <placeName type="pref">Varanno</placeName>
+                    </place>
+                    <place xml:id="nagy-mihály">
+                        <placeName type="pref">Nagy-mihály</placeName>
+                    </place>
+                    <place xml:id="nagy-roecze">
+                        <placeName type="pref">Nagy-roecze</placeName>
+                        <placeName type="alt">Nagy-Röcze</placeName>
+                    </place>
+                    <place xml:id="rima-brezo">
+                        <placeName type="pref">Rima-brezo</placeName>
+                    </place>
+                    <place xml:id="torna">
+                        <placeName type="pref">Torna</placeName>
+                    </place>
+                    <place xml:id="szikszo">
+                        <placeName type="pref">Szikszo</placeName>
+                    </place>
+                    <place xml:id="szanto">
+                        <placeName type="pref">Szanto</placeName>
+                    </place>
+                    <place xml:id="kaczony">
+                        <placeName type="pref">Kaczony</placeName>
+                    </place>
+                    <place xml:id="halmi">
+                        <placeName type="pref">Halmi</placeName>
+                    </place>
+                    <place xml:id="kis-almas">
+                        <placeName type="pref">Kis-almas</placeName>
+                    </place>
+                    <place xml:id="tornallya">
+                        <placeName type="pref">Tornallya</placeName>
+                    </place>
+                    <place xml:id="nagy-kapos">
+                        <placeName type="pref">Nagy-kapos</placeName>
+                    </place>
+                    <place xml:id="szerencz">
+                        <placeName type="pref">Szerencz</placeName>
+                    </place>
+                    <place xml:id="tokay">
+                        <placeName type="pref">Tokay</placeName>
+                    </place>
+                    <place xml:id="kiraly-helmecz">
+                        <placeName type="pref">Kiraly-helmecz</placeName>
+                    </place>
+                    <place xml:id="myslie">
+                        <placeName type="pref">Myslie</placeName>
+                    </place>
+                    <place xml:id="szepsi">
+                        <placeName type="pref">Szepsi</placeName>
+                    </place>
+                    <place xml:id="nagy-szoelloes">
+                        <placeName type="pref">Nagy-szoelloes</placeName>
+                        <placeName type="alt">Nagy-Szöllös</placeName>
+                    </place>
+                    <place xml:id="rosenau">
+                        <placeName type="pref">Rosenau</placeName>
+                    </place>
+                    <place xml:id="marmaros-szigeth">
+                        <placeName type="pref">Marmaros-szigeth</placeName>
+                        <placeName type="alt">M[armaros] Szigeth</placeName>
+                    </place>
+                    <place xml:id="saros-patak">
+                        <placeName type="pref">Saros-patak</placeName>
+                    </place>
+                    <place xml:id="rouen">
+                        <placeName type="pref">Rouen</placeName>
+                    </place>
+                    <place xml:id="freiburg">
+                        <placeName type="pref">Freiburg</placeName>
+                    </place>
+                    <place xml:id="holleschau">
+                        <placeName type="pref">Holleschau</placeName>
+                        <placeName type="alt">Holleschauer</placeName>
+                    </place>
+                    <place xml:id="bad-homburg">
+                        <placeName type="pref">Bad-homburg</placeName>
+                        <placeName type="alt">Homburg vor der
+                        Höhe</placeName>
+                    </place>
+                    <place xml:id="boppard-am-rhein">
+                        <placeName type="pref">Boppard-am-rhein</placeName>
+                    </place>
+                    <place xml:id="boulogne-sur-mer">
+                        <placeName type="pref">Boulogne-sur-mer</placeName>
+                        <placeName type="alt">Boulogne sur mer</placeName>
+                    </place>
+                    <place xml:id="cattaro">
+                        <placeName type="pref">Cattaro</placeName>
+                    </place>
+                    <place xml:id="sebenico">
+                        <placeName type="pref">Sebenico</placeName>
+                    </place>
+                    <place xml:id="trau">
+                        <placeName type="pref">Trau</placeName>
+                    </place>
+                    <place xml:id="makarska">
+                        <placeName type="pref">Makarska</placeName>
+                    </place>
+                    <place xml:id="lesina">
+                        <placeName type="pref">Lesina</placeName>
+                    </place>
+                    <place xml:id="eurzola">
+                        <placeName type="pref">Eurzola</placeName>
+                    </place>
+                    <place xml:id="goito">
+                        <placeName type="pref">Goito</placeName>
+                    </place>
+                    <place xml:id="marseille">
+                        <placeName type="pref">Marseille</placeName>
+                    </place>
+                    <place xml:id="kaiserstadt">
+                        <placeName type="pref">Kaiserstadt</placeName>
+                    </place>
+                    <place xml:id="aigen">
+                        <placeName type="pref">Aigen</placeName>
+                        <placeName type="alt">Aigen bei
+                        Salzburg</placeName>
+                        <placeName type="alt">Wien</placeName>
+                    </place>
+                    <place xml:id="aachen">
+                        <placeName type="pref">Aachen</placeName>
+                    </place>
+                    <place xml:id="gumpendorf">
+                        <placeName type="pref">Gumpendorf</placeName>
+                        <placeName type="alt">Gumpendf.</placeName>
+                    </place>
+                    <place xml:id="königgrätz">
+                        <placeName type="pref">Königgrätz</placeName>
+                    </place>
+                    <place xml:id="nove-mesto-nad-metuji">
+                        <placeName type="pref">Nove-mesto-nad-metuji</placeName>
+                        <placeName type="alt">Neustadt [Nové Město nad
+                        Metují]</placeName>
+                        <placeName type="alt">Novém Městě nad
+                        Metují</placeName>
+                    </place>
+                    <place xml:id="diakovar">
+                        <placeName type="pref">Diakovar</placeName>
+                    </place>
+                    <place xml:id="jajce">
+                        <placeName type="pref">Jajce</placeName>
+                    </place>
+                    <place xml:id="banja-luka">
+                        <placeName type="pref">Banja-luka</placeName>
+                    </place>
+                    <place xml:id="tešanj">
+                        <placeName type="pref">Tešanj</placeName>
+                    </place>
+                    <place xml:id="torgau">
+                        <placeName type="pref">Torgau</placeName>
+                    </place>
+                    <place xml:id="kremenez">
+                        <placeName type="pref">Kremenez</placeName>
+                        <placeName type="alt">Krzemieniec</placeName>
+                    </place>
+                    <place xml:id="stettin">
+                        <placeName type="pref">Stettin</placeName>
+                    </place>
+                    <place xml:id="veszprem">
+                        <placeName type="pref">Veszprem</placeName>
+                        <placeName type="alt">Veszprém</placeName>
+                        <placeName type="alt">Weszprim</placeName>
+                    </place>
+                    <place xml:id="graz-sekau">
+                        <placeName type="pref">Graz-sekau</placeName>
+                    </place>
+                    <place xml:id="semmering">
+                        <placeName type="pref">Semmering</placeName>
+                    </place>
+                    <place xml:id="pettau">
+                        <placeName type="pref">Pettau</placeName>
+                    </place>
+                    <place xml:id="friedau">
+                        <placeName type="pref">Friedau</placeName>
+                    </place>
+                    <place xml:id="luttenberg">
+                        <placeName type="pref">Luttenberg</placeName>
+                    </place>
+                    <place xml:id="radkersburg">
+                        <placeName type="pref">Radkersburg</placeName>
+                    </place>
+                    <place xml:id="straden">
+                        <placeName type="pref">Straden</placeName>
+                    </place>
+                    <place xml:id="riegersburg">
+                        <placeName type="pref">Riegersburg</placeName>
+                    </place>
+                    <place xml:id="eisbach">
+                        <placeName type="pref">Eisbach</placeName>
+                    </place>
+                    <place xml:id="o-o-wien">
+                        <placeName type="pref">O-o-wien</placeName>
+                    </place>
+                    <place xml:id="wiens">
+                        <placeName type="pref">Wiens</placeName>
+                    </place>
+                    <place xml:id="schellenberg">
+                        <placeName type="pref">Schellenberg</placeName>
+                    </place>
+                    <place xml:id="drožditz">
+                        <placeName type="pref">Drožditz</placeName>
+                    </place>
+                    <place xml:id="pardubitz">
+                        <placeName type="pref">Pardubitz</placeName>
+                        <placeName type="alt">Pardubitzer Bezirks</placeName>
+                        <placeName type="alt">Pardubitzer</placeName>
+                    </place>
+                    <place xml:id="bohdanetsch">
+                        <placeName type="pref">Bohdanetsch</placeName>
+                    </place>
+                    <place xml:id="hrochowteinitz">
+                        <placeName type="pref">Hrochowteinitz</placeName>
+                    </place>
+                    <place xml:id="oberjeleni">
+                        <placeName type="pref">Oberjeleni</placeName>
+                        <placeName type="alt">Oberjelleni</placeName>
+                    </place>
+                    <place xml:id="hostowitz">
+                        <placeName type="pref">Hostowitz</placeName>
+                    </place>
+                    <place xml:id="budetz">
+                        <placeName type="pref">Budetz</placeName>
+                    </place>
+                    <place xml:id="gložan">
+                        <placeName type="pref">Gložan</placeName>
+                    </place>
+                    <place xml:id="stari-vrbas">
+                        <placeName type="pref">Stari-vrbas</placeName>
+                    </place>
+                    <place xml:id="risran">
+                        <placeName type="pref">Risran</placeName>
+                    </place>
+                    <place xml:id="novi-sad">
+                        <placeName type="pref">Novi-sad</placeName>
+                    </place>
+                    <place xml:id="kulpin">
+                        <placeName type="pref">Kulpin</placeName>
+                    </place>
+                    <place xml:id="bački-jarak">
+                        <placeName type="pref">Bački-jarak</placeName>
+                    </place>
+                    <place xml:id="nove-šove">
+                        <placeName type="pref">Nove-šove</placeName>
+                    </place>
+                    <place xml:id="schilbesch">
+                        <placeName type="pref">Schilbesch</placeName>
+                    </place>
+                    <place xml:id="bački-maglić">
+                        <placeName type="pref">Bački-maglić</placeName>
+                    </place>
+                    <place xml:id="engelszell">
+                        <placeName type="pref">Engelszell</placeName>
+                    </place>
+                    <place xml:id="passau">
+                        <placeName type="pref">Passau</placeName>
+                    </place>
+                    <place xml:id="mondsee">
+                        <placeName type="pref">Mondsee</placeName>
+                    </place>
+                    <place xml:id="lambach">
+                        <placeName type="pref">Lambach</placeName>
+                        <placeName type="alt">Lambacher</placeName>
+                    </place>
+                    <place xml:id="metten">
+                        <placeName type="pref">Metten</placeName>
+                    </place>
+                    <place xml:id="neusatz">
+                        <placeName type="pref">Neusatz</placeName>
+                    </place>
+                    <place xml:id="esseg">
+                        <placeName type="pref">Esseg</placeName>
+                    </place>
+                    <place xml:id="akademie-der-bildenden-kuenste">
+                        <placeName type="pref">Akademie-der-bildenden-kuenste</placeName>
+                        <placeName type="alt">Akademie</placeName>
+                    </place>
+                    <place xml:id="sydney">
+                        <placeName type="pref">Sydney</placeName>
+                    </place>
+                    <place xml:id="trincomalee">
+                        <placeName type="pref">Trincomalee</placeName>
+                        <placeName type="alt">Trincomalli</placeName>
+                    </place>
+                    <place xml:id="batticaloa">
+                        <placeName type="pref">Batticaloa</placeName>
+                    </place>
+                    <place xml:id="newera-ellia">
+                        <placeName type="pref">Newera-ellia</placeName>
+                    </place>
+                    <place xml:id="point-galle">
+                        <placeName type="pref">Point-galle</placeName>
+                    </place>
+                    <place xml:id="adams-peak">
+                        <placeName type="pref">Adams-peak</placeName>
+                        <placeName type="alt">Adamspick</placeName>
+                    </place>
+                    <place xml:id="belligam">
+                        <placeName type="pref">Belligam</placeName>
+                    </place>
+                    <place xml:id="melbourne">
+                        <placeName type="pref">Melbourne</placeName>
+                    </place>
+                    <place xml:id="port-jackson">
+                        <placeName type="pref">Port-jackson</placeName>
+                    </place>
+                    <place xml:id="valparaiso">
+                        <placeName type="pref">Valparaiso</placeName>
+                    </place>
+                    <place xml:id="callao">
+                        <placeName type="pref">Callao</placeName>
+                    </place>
+                    <place xml:id="guayaquil">
+                        <placeName type="pref">Guayaquil</placeName>
+                        <placeName type="alt">Guajaquil</placeName>
+                    </place>
+                    <place xml:id="quito">
+                        <placeName type="pref">Quito</placeName>
+                    </place>
+                    <place xml:id="cilly">
+                        <placeName type="pref">Cilly</placeName>
+                    </place>
+                    <place xml:id="brüssel">
+                        <placeName type="pref">Brüssel</placeName>
+                    </place>
+                    <place xml:id="byzanz">
+                        <placeName type="pref">Byzanz</placeName>
+                    </place>
+                    <place xml:id="bedburg">
+                        <placeName type="pref">Bedburg</placeName>
+                    </place>
+                    <place xml:id="karlsbad">
+                        <placeName type="pref">Karlsbad</placeName>
+                        <placeName type="alt">Carlsbad</placeName>
+                        <placeName type="alt">Karlsbad</placeName>
+                    </place>
+                    <place xml:id="krems">
+                        <placeName type="pref">Krems</placeName>
+                    </place>
+                    <place xml:id="siena">
+                        <placeName type="pref">Siena</placeName>
+                    </place>
+                    <place xml:id="lucca">
+                        <placeName type="pref">Lucca</placeName>
+                    </place>
+                    <place xml:id="arezzo">
+                        <placeName type="pref">Arezzo</placeName>
+                    </place>
+                    <place xml:id="ferrara">
+                        <placeName type="pref">Ferrara</placeName>
+                    </place>
+                    <place xml:id="viterbo">
+                        <placeName type="pref">Viterbo</placeName>
+                    </place>
+                    <place xml:id="civitavecchia">
+                        <placeName type="pref">Civitavecchia</placeName>
+                    </place>
+                    <place xml:id="herculanum">
+                        <placeName type="pref">Herculanum</placeName>
+                    </place>
+                    <place xml:id="ancona">
+                        <placeName type="pref">Ancona</placeName>
+                    </place>
+                    <place xml:id="pornóapáti">
+                        <placeName type="pref">Pornóapáti</placeName>
+                    </place>
+                    <place xml:id="sparta">
+                        <placeName type="pref">Sparta</placeName>
+                    </place>
+                    <place xml:id="athen">
+                        <placeName type="pref">Athen</placeName>
+                    </place>
+                    <place xml:id="tyrus">
+                        <placeName type="pref">Tyrus</placeName>
+                    </place>
+                    <place xml:id="solin">
+                        <placeName type="pref">Solin</placeName>
+                        <placeName type="alt">Salona</placeName>
+                    </place>
+                    <place xml:id="labor">
+                        <placeName type="pref">Labor</placeName>
+                    </place>
+                    <place xml:id="otranto">
+                        <placeName type="pref">Otranto</placeName>
+                    </place>
+                    <place xml:id="san-michele">
+                        <placeName type="pref">San-michele</placeName>
+                        <placeName type="alt">Sanmicheli</placeName>
+                    </place>
+                    <place xml:id="pola">
+                        <placeName type="pref">Pola</placeName>
+                    </place>
+                    <place xml:id="sainte-menehould">
+                        <placeName type="pref">Sainte-menehould</placeName>
+                    </place>
+                    <place xml:id="pugnolo">
+                        <placeName type="pref">Pugnolo</placeName>
+                    </place>
+                    <place xml:id="sospiro">
+                        <placeName type="pref">Sospiro</placeName>
+                    </place>
+                    <place xml:id="vydrany">
+                        <placeName type="pref">Vydrany</placeName>
+                    </place>
+                    <place xml:id="palota">
+                        <placeName type="pref">Palota</placeName>
+                    </place>
+                    <place xml:id="đakovo">
+                        <placeName type="pref">Đakovo</placeName>
+                    </place>
+                    <place xml:id="wolfenbuettel">
+                        <placeName type="pref">Wolfenbuettel</placeName>
+                        <placeName type="alt">Wolfenbüttel</placeName>
+                    </place>
+                    <place xml:id="goslar">
+                        <placeName type="pref">Goslar</placeName>
+                    </place>
+                    <place xml:id="vác">
+                        <placeName type="pref">Vác</placeName>
+                    </place>
+                    <place xml:id="eszék">
+                        <placeName type="pref">Eszék</placeName>
+                    </place>
+                    <place xml:id="osijek">
+                        <placeName type="pref">Osijek</placeName>
+                    </place>
+                    <place xml:id="przemyśl">
+                        <placeName type="pref">Przemyśl</placeName>
+                    </place>
+                    <place xml:id="nymburk">
+                        <placeName type="pref">Nymburk</placeName>
+                    </place>
+                    <place xml:id="marienbad">
+                        <placeName type="pref">Marienbad</placeName>
+                    </place>
+                    <place xml:id="gastein">
+                        <placeName type="pref">Gastein</placeName>
+                    </place>
+                    <place xml:id="hietzing">
+                        <placeName type="pref">Hietzing</placeName>
+                    </place>
+                    <place xml:id="lungern">
+                        <placeName type="pref">Lungern</placeName>
+                    </place>
+                    <place xml:id="buczacz">
+                        <placeName type="pref">Buczacz</placeName>
+                    </place>
+                    <place xml:id="krechów">
+                        <placeName type="pref">Krechów</placeName>
+                    </place>
+                    <place xml:id="koniuchi">
+                        <placeName type="pref">Koniuchi</placeName>
+                    </place>
+                    <place xml:id="brzezany">
+                        <placeName type="pref">Brzezany</placeName>
+                        <placeName type="alt">Brzezaner Kreise</placeName>
+                    </place>
+                    <place xml:id="zolkiew">
+                        <placeName type="pref">Zolkiew</placeName>
+                        <placeName type="alt">Zolkiewer</placeName>
+                    </place>
+                    <place xml:id="sambor">
+                        <placeName type="pref">Sambor</placeName>
+                    </place>
+                    <place xml:id="galizien">
+                        <placeName type="pref">Galizien</placeName>
+                        <placeName type="alt">Galicien</placeName>
+                    </place>
+                    <place xml:id="baden">
+                        <placeName type="pref">Baden</placeName>
+                        <placeName type="alt">Baden</placeName>
+                    </place>
+                    <place xml:id="reichenau">
+                        <placeName type="pref">Reichenau</placeName>
+                    </place>
+                    <place xml:id="peruc">
+                        <placeName type="pref">Peruc</placeName>
+                    </place>
+                    <place xml:id="baumgartenberg">
+                        <placeName type="pref">Baumgartenberg</placeName>
+                    </place>
+                    <place xml:id="smečno">
+                        <placeName type="pref">Smečno</placeName>
+                    </place>
+                    <place xml:id="interlaken">
+                        <placeName type="pref">Interlaken</placeName>
+                    </place>
+                    <place xml:id="thun">
+                        <placeName type="pref">Thun</placeName>
+                    </place>
+                    <place xml:id="gemmi">
+                        <placeName type="pref">Gemmi</placeName>
+                    </place>
+                    <place xml:id="chamonix">
+                        <placeName type="pref">Chamonix</placeName>
+                        <placeName type="alt">Chamonny</placeName>
+                    </place>
+                    <place xml:id="zürich">
+                        <placeName type="pref">Zürich</placeName>
+                    </place>
+                    <place xml:id="warasdin">
+                        <placeName type="pref">Warasdin</placeName>
+                    </place>
+                    <place xml:id="essek">
+                        <placeName type="pref">Essek</placeName>
+                    </place>
+                    <place xml:id="rinteln">
+                        <placeName type="pref">Rinteln</placeName>
+                    </place>
+                    <place xml:id="castelfondo">
+                        <placeName type="pref">Castelfondo</placeName>
+                    </place>
+                    <place xml:id="lombardei">
+                        <placeName type="pref">Lombardei</placeName>
+                    </place>
+                    <place xml:id="raeckelwitz">
+                        <placeName type="pref">Raeckelwitz</placeName>
+                        <placeName type="alt">Räckelwitz</placeName>
+                    </place>
+                    <place xml:id="basel">
+                        <placeName type="pref">Basel</placeName>
+                        <placeName type="alt">Basler</placeName>
+                    </place>
+                    <place xml:id="altranstaedt">
+                        <placeName type="pref">Altranstaedt</placeName>
+                        <placeName type="alt">Altranstädter</placeName>
+                    </place>
+                    <place xml:id="kozmin">
+                        <placeName type="pref">Kozmin</placeName>
+                    </place>
+                    <place xml:id="sendomir">
+                        <placeName type="pref">Sendomir</placeName>
+                    </place>
+                    <place xml:id="wegrow">
+                        <placeName type="pref">Wegrow</placeName>
+                    </place>
+                    <place xml:id="horn">
+                        <placeName type="pref">Horn</placeName>
+                    </place>
+                    <place xml:id="wittenberg">
+                        <placeName type="pref">Wittenberg</placeName>
+                    </place>
+                    <place xml:id="rakos">
+                        <placeName type="pref">Rakos</placeName>
+                        <placeName type="alt">Rakoscher</placeName>
+                    </place>
+                    <place xml:id="silein">
+                        <placeName type="pref">Silein</placeName>
+                    </place>
+                    <place xml:id="kirchdrauf">
+                        <placeName type="pref">Kirchdrauf</placeName>
+                        <placeName type="alt">Kirchtrauf</placeName>
+                        <placeName type="alt">Kirchdraufer</placeName>
+                    </place>
+                    <place xml:id="semptau">
+                        <placeName type="pref">Semptau</placeName>
+                        <placeName type="alt">Semptauer</placeName>
+                    </place>
+                    <place xml:id="komjat">
+                        <placeName type="pref">Komjat</placeName>
+                    </place>
+                    <place xml:id="satu-mare">
+                        <placeName type="pref">Satu-mare</placeName>
+                    </place>
+                    <place xml:id="rosenberg">
+                        <placeName type="pref">Rosenberg</placeName>
+                    </place>
+                    <place xml:id="erdoed">
+                        <placeName type="pref">Erdoed</placeName>
+                        <placeName type="alt">Erdöd</placeName>
+                    </place>
+                    <place xml:id="torda">
+                        <placeName type="pref">Torda</placeName>
+                        <placeName type="alt">Tordaer</placeName>
+                    </place>
+                    <place xml:id="medias">
+                        <placeName type="pref">Medias</placeName>
+                    </place>
+                    <place xml:id="grossenyed">
+                        <placeName type="pref">Grossenyed</placeName>
+                        <placeName type="alt">Groß-Enyed</placeName>
+                    </place>
+                    <place xml:id="worms">
+                        <placeName type="pref">Worms</placeName>
+                    </place>
+                    <place xml:id="konstanz">
+                        <placeName type="pref">Konstanz</placeName>
+                        <placeName type="alt">Costnizer</placeName>
+                    </place>
+                    <place xml:id="aschaffenburg">
+                        <placeName type="pref">Aschaffenburg</placeName>
+                        <placeName type="alt">Aschaffenburger</placeName>
+                    </place>
+                    <place xml:id="bourges">
+                        <placeName type="pref">Bourges</placeName>
+                    </place>
+                    <place xml:id="fontainebleau">
+                        <placeName type="pref">Fontainebleau</placeName>
+                    </place>
+                    <place xml:id="luebeck">
+                        <placeName type="pref">Luebeck</placeName>
+                        <placeName type="alt">Lübek</placeName>
+                    </place>
+                    <place xml:id="bremen">
+                        <placeName type="pref">Bremen</placeName>
+                    </place>
+                    <place xml:id="st-gallen">
+                        <placeName type="pref">St-gallen</placeName>
+                    </place>
+                    <place xml:id="aargau">
+                        <placeName type="pref">Aargau</placeName>
+                    </place>
+                    <place xml:id="thurgau">
+                        <placeName type="pref">Thurgau</placeName>
+                        <placeName type="alt">Thürgau</placeName>
+                    </place>
+                    <place xml:id="laucha">
+                        <placeName type="pref">Laucha</placeName>
+                    </place>
+                    <place xml:id="pressnitz">
+                        <placeName type="pref">Pressnitz</placeName>
+                        <placeName type="alt">Preßnitz</placeName>
+                    </place>
+                    <place xml:id="bruessel">
+                        <placeName type="pref">Bruessel</placeName>
+                        <placeName type="alt">Brüssel</placeName>
+                    </place>
+                    <place xml:id="amsterdam">
+                        <placeName type="pref">Amsterdam</placeName>
+                    </place>
+                    <place xml:id="haag">
+                        <placeName type="pref">Haag</placeName>
+                    </place>
+                    <place xml:id="kopenhagen">
+                        <placeName type="pref">Kopenhagen</placeName>
+                        <placeName type="alt">Copenhagen</placeName>
+                    </place>
+                    <place xml:id="rechnitz">
+                        <placeName type="pref">Rechnitz</placeName>
+                    </place>
+                    <place xml:id="bries">
+                        <placeName type="pref">Bries</placeName>
+                    </place>
+                    <place xml:id="debreczin">
+                        <placeName type="pref">Debreczin</placeName>
+                    </place>
+                    <place xml:id="fuered">
+                        <placeName type="pref">Fuered</placeName>
+                        <placeName type="alt">Füred</placeName>
+                    </place>
+                    <place xml:id="sjaogoemoer">
+                        <placeName type="pref">Sjaogoemoer</placeName>
+                        <placeName type="alt">Sajógömör</placeName>
+                    </place>
+                    <place xml:id="wanowitz">
+                        <placeName type="pref">Wanowitz</placeName>
+                    </place>
+                    <place xml:id="komitat-trentschin">
+                        <placeName type="pref">Komitat-trentschin</placeName>
+                        <placeName type="alt">Trentsin</placeName>
+                        <placeName type="alt">Tretsin</placeName>
+                    </place>
+                    <place xml:id="komitat-turz">
+                        <placeName type="pref">Komitat-turz</placeName>
+                        <placeName type="alt">Turotz</placeName>
+                        <placeName type="alt">Turocz</placeName>
+                    </place>
+                    <place xml:id="komitat-arwa">
+                        <placeName type="pref">Komitat-arwa</placeName>
+                        <placeName type="alt">Arva</placeName>
+                    </place>
+                    <place xml:id="komitat-liptau">
+                        <placeName type="pref">Komitat-liptau</placeName>
+                        <placeName type="alt">Liptau</placeName>
+                    </place>
+                    <place xml:id="komitat-sohl">
+                        <placeName type="pref">Komitat-sohl</placeName>
+                        <placeName type="alt">Sohl</placeName>
+                    </place>
+                    <place xml:id="komitat-pressburg">
+                        <placeName type="pref">Komitat-pressburg</placeName>
+                        <placeName type="alt">Preßburg</placeName>
+                        <placeName type="alt">Komitate
+                        Preßburg</placeName>
+                    </place>
+                    <place xml:id="komitat-bars">
+                        <placeName type="pref">Komitat-bars</placeName>
+                        <placeName type="alt">Bars</placeName>
+                    </place>
+                    <place xml:id="komitat-hont">
+                        <placeName type="pref">Komitat-hont</placeName>
+                        <placeName type="alt">Honth</placeName>
+                        <placeName type="alt">Hont</placeName>
+                    </place>
+                    <place xml:id="komitat-ung">
+                        <placeName type="pref">Komitat-ung</placeName>
+                        <placeName type="alt">Ungvàr</placeName>
+                        <placeName type="alt">Ungvarer</placeName>
+                        <placeName type="alt">Ungvar</placeName>
+                    </place>
+                    <place xml:id="komitat-maramaros">
+                        <placeName type="pref">Komitat-maramaros</placeName>
+                        <placeName type="alt">Marmaros</placeName>
+                        <placeName type="alt">Marmarsher
+                        Komitat</placeName>
+                        <placeName type="alt">Marmeroser Comitat</placeName>
+                        <placeName type="alt">Marmarosser</placeName>
+                    </place>
+                    <place xml:id="komitat-ugocsa">
+                        <placeName type="pref">Komitat-ugocsa</placeName>
+                        <placeName type="alt">Ugocsa</placeName>
+                    </place>
+                    <place xml:id="zay-ugrotz">
+                        <placeName type="pref">Zay-ugrotz</placeName>
+                    </place>
+                    <place xml:id="schemnitz">
+                        <placeName type="pref">Schemnitz</placeName>
+                    </place>
+                    <place xml:id="uj-verbász">
+                        <placeName type="pref">Uj-verbász</placeName>
+                    </place>
+                    <place xml:id="pápa">
+                        <placeName type="pref">Pápa</placeName>
+                    </place>
+                    <place xml:id="mukatschewe">
+                        <placeName type="pref">Mukatschewe</placeName>
+                    </place>
+                    <place xml:id="lundenburg">
+                        <placeName type="pref">Lundenburg</placeName>
+                    </place>
+                    <place xml:id="iglau">
+                        <placeName type="pref">Iglau</placeName>
+                        <placeName type="alt">Iglauer</placeName>
+                    </place>
+                    <place xml:id="magdeburg">
+                        <placeName type="pref">Magdeburg</placeName>
+                    </place>
+                    <place xml:id="falkenstein">
+                        <placeName type="pref">Falkenstein</placeName>
+                        <placeName type="alt">Falkensteiner</placeName>
+                    </place>
+                    <place xml:id="dohna">
+                        <placeName type="pref">Dohna</placeName>
+                        <placeName type="alt">Dohnasche</placeName>
+                    </place>
+                    <place xml:id="jaegerndorf">
+                        <placeName type="pref">Jaegerndorf</placeName>
+                        <placeName type="alt">Jägerndorf</placeName>
+                    </place>
+                    <place xml:id="hvar">
+                        <placeName type="pref">Hvar</placeName>
+                    </place>
+                    <place xml:id="žolkiew">
+                        <placeName type="pref">Žolkiew</placeName>
+                    </place>
+                    <place xml:id="baden-baden">
+                        <placeName type="pref">Baden-baden</placeName>
+                    </place>
+                    <place xml:id="achen">
+                        <placeName type="pref">Achen</placeName>
+                    </place>
+                    <place xml:id="badenweiler">
+                        <placeName type="pref">Badenweiler</placeName>
+                    </place>
+                    <place xml:id="karstadt">
+                        <placeName type="pref">Karstadt</placeName>
+                    </place>
+                    <place xml:id="offenburg">
+                        <placeName type="pref">Offenburg</placeName>
+                    </place>
+                    <place xml:id="elberfeld">
+                        <placeName type="pref">Elberfeld</placeName>
+                    </place>
+                    <place xml:id="lubań">
+                        <placeName type="pref">Lubań</placeName>
+                    </place>
+                    <place xml:id="legnica">
+                        <placeName type="pref">Legnica</placeName>
+                    </place>
+                    <place xml:id="bennisch">
+                        <placeName type="pref">Bennisch</placeName>
+                    </place>
+                    <place xml:id="freudenthal">
+                        <placeName type="pref">Freudenthal</placeName>
+                    </place>
+                    <place xml:id="rzeszow">
+                        <placeName type="pref">Rzeszow</placeName>
+                    </place>
+                    <place xml:id="riegel">
+                        <placeName type="pref">Riegel</placeName>
+                    </place>
+                    <place xml:id="telezí">
+                        <placeName type="pref">Telezí</placeName>
+                    </place>
+                    <place xml:id="slaupnitz">
+                        <placeName type="pref">Slaupnitz</placeName>
+                    </place>
+                    <place xml:id="brunnersdorf">
+                        <placeName type="pref">Brunnersdorf</placeName>
+                    </place>
+                    <place xml:id="kralup">
+                        <placeName type="pref">Kralup</placeName>
+                    </place>
+                    <place xml:id="kralupy-nad-vlatavou">
+                        <placeName type="pref">Kralupy-nad-vlatavou</placeName>
+                    </place>
+                    <place xml:id="kaaden">
+                        <placeName type="pref">Kaaden</placeName>
+                        <placeName type="alt">Kaadner
+                        Bezirk</placeName>
+                    </place>
+                    <place xml:id="schloss-ivano">
+                        <placeName type="pref">Schloss-ivano</placeName>
+                        <placeName type="alt">Schloss Ivano</placeName>
+                    </place>
+                    <place xml:id="kadaň">
+                        <placeName type="pref">Kadaň</placeName>
+                    </place>
+                    <place xml:id="zsigra">
+                        <placeName type="pref">Zsigra</placeName>
+                    </place>
+                    <place xml:id="petrócz">
+                        <placeName type="pref">Petrócz</placeName>
+                    </place>
+                    <place xml:id="chwalbogowo">
+                        <placeName type="pref">Chwalbogowo</placeName>
+                    </place>
+                </listPlace>
+            </div>
+        </body>
+    </text>
+</TEI>
