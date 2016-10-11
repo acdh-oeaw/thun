@@ -10,26 +10,49 @@
                             <span class="fa fa-times"/>
                         </button>
                         <h4 class="modal-title">
-                            <xsl:element name="a">
-                                <xsl:attribute name="href">
-                                    <xsl:value-of select="//tei:person[@xml:id=$entiyID]/tei:persName/@ref"/>
-                                </xsl:attribute>
-                                <xsl:value-of select="//tei:person[@xml:id=$entiyID]"/>
-                            </xsl:element>
+                            <xsl:value-of select="//tei:person[@xml:id=$entiyID]//tei:forename"/>&#160; 
+                            <xsl:value-of select="//tei:person[@xml:id=$entiyID]//tei:surname"/>
                         </h4>
                     </div>
                     <div class="modal-body">
                         <table class="table table-boardered table-hover">
-                            <xsl:for-each select="//tei:person[@xml:id=$entiyID]/*[text()]">
-                                <tr>
-                                    <th>
-                                        <xsl:value-of select="name(.)"/>
-                                    </th>
-                                    <td>
-                                        <xsl:value-of select="./text()"/>
-                                    </td>
-                                </tr>
-                            </xsl:for-each>
+                            <tr>
+                                <th>Lebensdaten</th>
+                                <td>
+                                    <xsl:value-of select="//tei:person[@xml:id=$entiyID]//tei:p[1]"/>
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>Biographisches</th>
+                                <td>
+                                    <xsl:value-of select="//tei:person[@xml:id=$entiyID]//tei:p[2]"/>
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>GND</th>
+                                <td>
+                                    <xsl:choose>
+                                        <xsl:when test="starts-with(.//tei:person[@xml:id=$entiyID]//tei:p[3], 'http')">
+                                            <a>
+                                                <xsl:attribute name="href">
+                                                    <xsl:value-of select=".//tei:person[@xml:id=$entiyID]//tei:p[3]"/>
+                                                </xsl:attribute>
+                                                <xsl:attribute name="target">_blank</xsl:attribute>
+                                                <xsl:value-of select=".//tei:person[@xml:id=$entiyID]//tei:p[3]"/>
+                                            </a>
+                                        </xsl:when>
+                                        <xsl:otherwise>
+                                            kein passender GND-Eintrag
+                                        </xsl:otherwise>
+                                    </xsl:choose>
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>sonstiges</th>
+                                <td>
+                                    <xsl:value-of select="//tei:person[@xml:id=$entiyID]//tei:p[4]"/>
+                                </td>
+                            </tr>
                         </table>
                     </div>
                     <div class="modal-footer">

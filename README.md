@@ -14,3 +14,11 @@ The actual data, the XML/TEI encoded transcripts of the correspondence is not pa
 4. Click on **Upload** and
 4. select the `thun\application-code\thun\build\thun-1.0.xar` 
 
+### Geo Referencing 
+
+In the XML/TEI encoded transcripts place like entities were tagged as `<tei:placeName>` and assigned with an `@key` attribute containing a normalized version of the place's name. 
+These tagged places were transformed into an index document `thun\application-code\thun\data\indices\listplace.xml` with the help of the xQuery script `thun\application-code\thun\tryouts\crateIndex.xql`.
+The entries in this list were then geo referenced with the help of the [Datasheet Editor](https://geobrowser.de.dariah.eu/edit/) provided by [DARIAH-DE](https://de.dariah.eu/). The enriched data can be found in `thun\georeference\data\thun_places_georeferenced_geobrowser.csv` (or inspected [here](https://geobrowser.de.dariah.eu/?csv1=https://geobrowser.de.dariah.eu/storage/405907)). With the help of a ipython notebook script (´thun\georeference\enrich_listplace.ipynb`) the data from the .csv is merged with `listplace.xml`. 
+
+
+

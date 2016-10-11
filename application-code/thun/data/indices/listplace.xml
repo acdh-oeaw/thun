@@ -21,6 +21,9 @@
                 <p>Ortsverzeichnis der Thun-Korrespondenz</p>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+        </encodingDesc>
     </teiHeader>
     <text>
         <body>
@@ -36,6 +39,10 @@
                         <placeName type="alt">Gran</placeName>
                         <placeName type="alt">Graner</placeName>
                         <placeName type="alt">Esztergomer</placeName>
+                        <location>
+                            <geo decls="#WGS">18,7 47,7667</geo>
+                        </location>
+                        <idno type="getty">7010539.0</idno>
                     </place>
                     <place xml:id="pressburg">
                         <placeName type="pref">Pressburg</placeName>
@@ -46,6 +53,10 @@
                         <placeName type="alt">hiesigen</placeName>
                         <placeName type="alt">Presburger</placeName>
                         <placeName type="alt">Presburg</placeName>
+                        <location>
+                            <geo decls="#WGS">17,1667 48,1667</geo>
+                        </location>
+                        <idno type="getty">7006465.0</idno>
                     </place>
                     <place xml:id="wien">
                         <placeName type="pref">Wien</placeName>
@@ -74,19 +85,35 @@
                         <placeName type="alt">Vienne</placeName>
                         <placeName type="alt">Kaiserhauptstadt</placeName>
                         <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#WGS">16,3667 48,2167</geo>
+                        </location>
+                        <idno type="getty">7003321.0</idno>
                     </place>
                     <place xml:id="berlin">
                         <placeName type="pref">Berlin</placeName>
                         <placeName type="alt">Berlin</placeName>
                         <placeName type="alt">Berlino</placeName>
+                        <location>
+                            <geo decls="#WGS">13,4167 52,5333</geo>
+                        </location>
+                        <idno type="getty">7003712.0</idno>
                     </place>
                     <place xml:id="münchen">
                         <placeName type="pref">München</placeName>
+                        <location>
+                            <geo decls="#WGS">11,5833 48,1333</geo>
+                        </location>
+                        <idno type="getty">7004333.0</idno>
                     </place>
                     <place xml:id="paris">
                         <placeName type="pref">Paris</placeName>
                         <placeName type="alt">Paris</placeName>
                         <placeName type="alt">Pariser</placeName>
+                        <location>
+                            <geo decls="#WGS">2,3333 48,8667</geo>
+                        </location>
+                        <idno type="getty">7008038.0</idno>
                     </place>
                     <place xml:id="prag">
                         <placeName type="pref">Prag</placeName>
@@ -97,26 +124,50 @@
                         O. [Prag]</placeName>
                         <placeName type="alt">Prags</placeName>
                         <placeName type="alt">Prahy</placeName>
+                        <location>
+                            <geo decls="#WGS">14,4333 50,1</geo>
+                        </location>
+                        <idno type="getty">7006464.0</idno>
                     </place>
                     <place xml:id="memmingen">
                         <placeName type="pref">Memmingen</placeName>
                         <placeName type="alt">Meiningen</placeName>
+                        <location>
+                            <geo decls="#WGS">10,1833 47,9833</geo>
+                        </location>
+                        <idno type="getty">7012598.0</idno>
                     </place>
                     <place xml:id="kassel">
                         <placeName type="pref">Kassel</placeName>
                         <placeName type="alt">Cassel</placeName>
+                        <location>
+                            <geo decls="#WGS">9,3333 51,1667</geo>
+                        </location>
+                        <idno type="getty">7005941.0</idno>
                     </place>
                     <place xml:id="jesberg">
                         <placeName type="pref">Jesberg</placeName>
                     </place>
                     <place xml:id="schwerin">
                         <placeName type="pref">Schwerin</placeName>
+                        <location>
+                            <geo decls="#WGS">11,4167 53,6667</geo>
+                        </location>
+                        <idno type="getty">7004716.0</idno>
                     </place>
                     <place xml:id="ansbach">
                         <placeName type="pref">Ansbach</placeName>
+                        <location>
+                            <geo decls="#WGS">10,55 49,3</geo>
+                        </location>
+                        <idno type="getty">7004459.0</idno>
                     </place>
                     <place xml:id="speyer">
                         <placeName type="pref">Speyer</placeName>
+                        <location>
+                            <geo decls="#WGS">8,4333 49,3167</geo>
+                        </location>
+                        <idno type="getty">7012341.0</idno>
                     </place>
                     <place xml:id="muenchen">
                         <placeName type="pref">Muenchen</placeName>
@@ -127,9 +178,17 @@
                         <placeName type="pref">Karlsruhe</placeName>
                         <placeName type="alt">Carlsruhe</placeName>
                         <placeName type="alt">dahier</placeName>
+                        <location>
+                            <geo decls="#WGS">8,5 48,5</geo>
+                        </location>
+                        <idno type="getty">1003175.0</idno>
                     </place>
                     <place xml:id="wiesbaden">
                         <placeName type="pref">Wiesbaden</placeName>
+                        <location>
+                            <geo decls="#WGS">8,2333 50,0833</geo>
+                        </location>
+                        <idno type="getty">7004432.0</idno>
                     </place>
                     <place xml:id="semlin">
                         <placeName type="pref">Semlin</placeName>
@@ -148,6 +207,10 @@
                         <placeName type="alt">Hermannstadt</placeName>
                         <placeName type="alt">Hermannstädter</placeName>
                         <placeName type="alt">Hermanstadt</placeName>
+                        <location>
+                            <geo decls="#WGS">24,15 45,7667</geo>
+                        </location>
+                        <idno type="getty">7004269.0</idno>
                     </place>
                     <place xml:id="czahor">
                         <placeName type="pref">Czahor</placeName>
@@ -158,12 +221,20 @@
                         <placeName type="alt">Czernowitz</placeName>
                         <placeName type="alt">Cernovic</placeName>
                         <placeName type="alt">Czernowitzer</placeName>
+                        <location>
+                            <geo decls="#WGS">25,9333 48,3</geo>
+                        </location>
+                        <idno type="getty">7017981.0</idno>
                     </place>
                     <place xml:id="ober-vicow">
                         <placeName type="pref">Ober-vicow</placeName>
                     </place>
                     <place xml:id="gloggnitz">
                         <placeName type="pref">Gloggnitz</placeName>
+                        <location>
+                            <geo decls="#WGS">15,95 47,6833</geo>
+                        </location>
+                        <idno type="getty">1025580.0</idno>
                     </place>
                     <place xml:id="wartenstein">
                         <placeName type="pref">Wartenstein</placeName>
@@ -173,6 +244,10 @@
                     </place>
                     <place xml:id="stuppach">
                         <placeName type="pref">Stuppach</placeName>
+                        <location>
+                            <geo decls="#WGS">9,75 49,45</geo>
+                        </location>
+                        <idno type="getty">7005186.0</idno>
                     </place>
                     <place xml:id="pottschach">
                         <placeName type="pref">Pottschach</placeName>
@@ -206,10 +281,18 @@
                     </place>
                     <place xml:id="galatz">
                         <placeName type="pref">Galatz</placeName>
+                        <location>
+                            <geo decls="#WGS">28,0333 45,45</geo>
+                        </location>
+                        <idno type="getty">1050135.0</idno>
                     </place>
                     <place xml:id="konstantinopel">
                         <placeName type="pref">Konstantinopel</placeName>
                         <placeName type="alt">Constantinopel</placeName>
+                        <location>
+                            <geo decls="#WGS">28,95 41,0333</geo>
+                        </location>
+                        <idno type="getty">7002473.0</idno>
                     </place>
                     <place xml:id="karlowitz">
                         <placeName type="pref">Karlowitz</placeName>
@@ -236,14 +319,26 @@
                         <placeName type="alt">Graez</placeName>
                         <placeName type="alt">Grätz</placeName>
                         <placeName type="alt">Graz</placeName>
+                        <location>
+                            <geo decls="#WGS">15,3667 47,0833</geo>
+                        </location>
+                        <idno type="getty">7003097.0</idno>
                     </place>
                     <place xml:id="salzburg">
                         <placeName type="pref">Salzburg</placeName>
                         <placeName type="alt">Salzburger</placeName>
+                        <location>
+                            <geo decls="#WGS">13,05 47,8</geo>
+                        </location>
+                        <idno type="getty">7003256.0</idno>
                     </place>
                     <place xml:id="hallein">
                         <placeName type="pref">Hallein</placeName>
                         <placeName type="alt">Halleiner</placeName>
+                        <location>
+                            <geo decls="#WGS">13,1 47,6833</geo>
+                        </location>
+                        <idno type="getty">7003258.0</idno>
                     </place>
                     <place xml:id="innsbruck">
                         <placeName type="pref">Innsbruck</placeName>
@@ -253,6 +348,10 @@
                         <placeName type="alt">Innsbruck</placeName>
                         <placeName type="alt">hier</placeName>
                         <placeName type="alt">Inspruck</placeName>
+                        <location>
+                            <geo decls="#WGS">11,4 47,2667</geo>
+                        </location>
+                        <idno type="getty">7003249.0</idno>
                     </place>
                     <place xml:id="olmuetz">
                         <placeName type="pref">Olmuetz</placeName>
@@ -266,9 +365,17 @@
                         <placeName type="alt">Triest</placeName>
                         <placeName type="alt">Trieste</placeName>
                         <placeName type="alt">Triests</placeName>
+                        <location>
+                            <geo decls="#WGS">13,7833 45,65</geo>
+                        </location>
+                        <idno type="getty">7005539.0</idno>
                     </place>
                     <place xml:id="neustadt">
                         <placeName type="pref">Neustadt</placeName>
+                        <location>
+                            <geo decls="#WGS">8,7833 53,0667</geo>
+                        </location>
+                        <idno type="getty">1005183.0</idno>
                     </place>
                     <place xml:id="ofen">
                         <placeName type="pref">Ofen</placeName>
@@ -279,15 +386,31 @@
                         <placeName type="pref">Agram</placeName>
                         <placeName type="alt">Agramer</placeName>
                         <placeName type="alt">Agrams</placeName>
+                        <location>
+                            <geo decls="#WGS">15,9667 45,8</geo>
+                        </location>
+                        <idno type="getty">7015558.0</idno>
                     </place>
                     <place xml:id="weybridge">
                         <placeName type="pref">Weybridge</placeName>
+                        <location>
+                            <geo decls="#WGS">-0,4667 51,3667</geo>
+                        </location>
+                        <idno type="getty">7011738.0</idno>
                     </place>
                     <place xml:id="tetschen">
                         <placeName type="pref">Tetschen</placeName>
+                        <location>
+                            <geo decls="#WGS">14,25 50,8</geo>
+                        </location>
+                        <idno type="getty">7011435.0</idno>
                     </place>
                     <place xml:id="verona">
                         <placeName type="pref">Verona</placeName>
+                        <location>
+                            <geo decls="#WGS">11,0333 45,4167</geo>
+                        </location>
+                        <idno type="getty">7003007.0</idno>
                     </place>
                     <place xml:id="mailand">
                         <placeName type="pref">Mailand</placeName>
@@ -296,9 +419,17 @@
                         <placeName type="alt">Milano</placeName>
                         <placeName type="alt">questa Città</placeName>
                         <placeName type="alt">Mailand’s</placeName>
+                        <location>
+                            <geo decls="#WGS">9,2 45,4667</geo>
+                        </location>
+                        <idno type="getty">7005903.0</idno>
                     </place>
                     <place xml:id="pavia">
                         <placeName type="pref">Pavia</placeName>
+                        <location>
+                            <geo decls="#WGS">9,1333 45,1167</geo>
+                        </location>
+                        <idno type="getty">7003151.0</idno>
                     </place>
                     <place xml:id="rom">
                         <placeName type="pref">Rom</placeName>
@@ -308,10 +439,18 @@
                     </place>
                     <place xml:id="rovigo">
                         <placeName type="pref">Rovigo</placeName>
+                        <location>
+                            <geo decls="#WGS">11,7833 45,0667</geo>
+                        </location>
+                        <idno type="getty">7003271.0</idno>
                     </place>
                     <place xml:id="kronstadt">
                         <placeName type="pref">Kronstadt</placeName>
                         <placeName type="alt">Kronstädter</placeName>
+                        <location>
+                            <geo decls="#WGS">25,5833 45,65</geo>
+                        </location>
+                        <idno type="getty">7004272.0</idno>
                     </place>
                     <place xml:id="schaessburg">
                         <placeName type="pref">Schaessburg</placeName>
@@ -323,6 +462,10 @@
                     </place>
                     <place xml:id="polotsk">
                         <placeName type="pref">Polotsk</placeName>
+                        <location>
+                            <geo decls="#WGS">28,813 55,485</geo>
+                        </location>
+                        <idno type="getty">7013482.0</idno>
                     </place>
                     <place xml:id="muehlbach">
                         <placeName type="pref">Muehlbach</placeName>
@@ -330,10 +473,18 @@
                     </place>
                     <place xml:id="bistritz">
                         <placeName type="pref">Bistritz</placeName>
+                        <location>
+                            <geo decls="#WGS">24,5 47,1333</geo>
+                        </location>
+                        <idno type="getty">7004078.0</idno>
                     </place>
                     <place xml:id="klausenburg">
                         <placeName type="pref">Klausenburg</placeName>
                         <placeName type="alt">Clausenburg</placeName>
+                        <location>
+                            <geo decls="#WGS">23,6167 46,7833</geo>
+                        </location>
+                        <idno type="getty">7003934.0</idno>
                     </place>
                     <place xml:id="csik-somlyo">
                         <placeName type="pref">Csik-somlyo</placeName>
@@ -344,6 +495,10 @@
                     </place>
                     <place xml:id="marosvásárhely">
                         <placeName type="pref">Marosvásárhely</placeName>
+                        <location>
+                            <geo decls="#WGS">24,5667 46,55</geo>
+                        </location>
+                        <idno type="getty">7004769.0</idno>
                     </place>
                     <place xml:id="székelyudvarhely">
                         <placeName type="pref">Székelyudvarhely</placeName>
@@ -356,10 +511,18 @@
                     </place>
                     <place xml:id="kremsier">
                         <placeName type="pref">Kremsier</placeName>
+                        <location>
+                            <geo decls="#WGS">17,45 49,3167</geo>
+                        </location>
+                        <idno type="getty">7011637.0</idno>
                     </place>
                     <place xml:id="raab">
                         <placeName type="pref">Raab</placeName>
                         <placeName type="alt">Raaber</placeName>
+                        <location>
+                            <geo decls="#WGS">13,65 48,3667</geo>
+                        </location>
+                        <idno type="getty">1025973.0</idno>
                     </place>
                     <place xml:id="pest">
                         <placeName type="pref">Pest</placeName>
@@ -367,6 +530,10 @@
                         <placeName type="alt">Pesth</placeName>
                         <placeName type="alt">Pester</placeName>
                         <placeName type="alt">Pest</placeName>
+                        <location>
+                            <geo decls="#WGS">19,0833 47,5</geo>
+                        </location>
+                        <idno type="getty">7010546.0</idno>
                     </place>
                     <place xml:id="trient">
                         <placeName type="pref">Trient</placeName>
@@ -374,12 +541,20 @@
                         <placeName type="alt">Trento</placeName>
                         <placeName type="alt">Trientiner</placeName>
                         <placeName type="alt">Trient.</placeName>
+                        <location>
+                            <geo decls="#WGS">11,133 46,066</geo>
+                        </location>
+                        <idno type="getty">7005128.0</idno>
                     </place>
                     <place xml:id="alba-iulia">
                         <placeName type="pref">Alba-iulia</placeName>
                     </place>
                     <place xml:id="lugos">
                         <placeName type="pref">Lugos</placeName>
+                        <location>
+                            <geo decls="#WGS">21,9 45,6833</geo>
+                        </location>
+                        <idno type="getty">1050174.0</idno>
                     </place>
                     <place xml:id="szamosujvár">
                         <placeName type="pref">Szamosujvár</placeName>
@@ -393,6 +568,10 @@
                         <placeName type="alt">Lemberger</placeName>
                         <placeName type="alt">Lembergs</placeName>
                         <placeName type="alt">Lemberg</placeName>
+                        <location>
+                            <geo decls="#WGS">nan nan</geo>
+                        </location>
+                        <idno type="getty">1105382.0</idno>
                     </place>
                     <place xml:id="przemysl">
                         <placeName type="pref">Przemysl</placeName>
@@ -403,6 +582,10 @@
                     </place>
                     <place xml:id="gran">
                         <placeName type="pref">Gran</placeName>
+                        <location>
+                            <geo decls="#WGS">10,5667 60,3667</geo>
+                        </location>
+                        <idno type="getty">4004496.0</idno>
                     </place>
                     <place xml:id="fuenfkirchen">
                         <placeName type="pref">Fuenfkirchen</placeName>
@@ -411,9 +594,17 @@
                     </place>
                     <place xml:id="erlau">
                         <placeName type="pref">Erlau</placeName>
+                        <location>
+                            <geo decls="#WGS">20,4667 47,8833</geo>
+                        </location>
+                        <idno type="getty">7010471.0</idno>
                     </place>
                     <place xml:id="augsburg">
                         <placeName type="pref">Augsburg</placeName>
+                        <location>
+                            <geo decls="#WGS">10,9 48,35</geo>
+                        </location>
+                        <idno type="getty">7004324.0</idno>
                     </place>
                     <place xml:id="reindorf">
                         <placeName type="pref">Reindorf</placeName>
@@ -435,6 +626,10 @@
                     </place>
                     <place xml:id="hetzendorf">
                         <placeName type="pref">Hetzendorf</placeName>
+                        <location>
+                            <geo decls="#WGS">16,3 48,1667</geo>
+                        </location>
+                        <idno type="getty">1004649.0</idno>
                     </place>
                     <place xml:id="neulerchenfeld">
                         <placeName type="pref">Neulerchenfeld</placeName>
@@ -442,16 +637,32 @@
                     </place>
                     <place xml:id="ottakring">
                         <placeName type="pref">Ottakring</placeName>
+                        <location>
+                            <geo decls="#WGS">16,3167 48,2</geo>
+                        </location>
+                        <idno type="getty">1005287.0</idno>
                     </place>
                     <place xml:id="hernals">
                         <placeName type="pref">Hernals</placeName>
                         <placeName type="alt">Hernalser</placeName>
+                        <location>
+                            <geo decls="#WGS">16,3333 48,2167</geo>
+                        </location>
+                        <idno type="getty">1004647.0</idno>
                     </place>
                     <place xml:id="klosterneuburg">
                         <placeName type="pref">Klosterneuburg</placeName>
+                        <location>
+                            <geo decls="#WGS">16,3333 48,3167</geo>
+                        </location>
+                        <idno type="getty">7003187.0</idno>
                     </place>
                     <place xml:id="dornbach">
                         <placeName type="pref">Dornbach</placeName>
+                        <location>
+                            <geo decls="#WGS">16,3 48,2333</geo>
+                        </location>
+                        <idno type="getty">1004374.0</idno>
                     </place>
                     <place xml:id="untermeidling">
                         <placeName type="pref">Untermeidling</placeName>
@@ -477,18 +688,38 @@
                             M.</placeName>
                         <placeName type="alt">Frankfurt am Main</placeName>
                         <placeName type="alt">Frankfurt a. M.</placeName>
+                        <location>
+                            <geo decls="#WGS">13,75 52,5</geo>
+                        </location>
+                        <idno type="getty">7003723.0</idno>
                     </place>
                     <place xml:id="limburg">
                         <placeName type="pref">Limburg</placeName>
+                        <location>
+                            <geo decls="#WGS">5,4167 51,3333</geo>
+                        </location>
+                        <idno type="getty">6003428.0</idno>
                     </place>
                     <place xml:id="bochnia">
                         <placeName type="pref">Bochnia</placeName>
+                        <location>
+                            <geo decls="#WGS">20,4167 49,9833</geo>
+                        </location>
+                        <idno type="getty">1048934.0</idno>
                     </place>
                     <place xml:id="zara">
                         <placeName type="pref">Zara</placeName>
+                        <location>
+                            <geo decls="#WGS">15,2333 44,1167</geo>
+                        </location>
+                        <idno type="getty">7015549.0</idno>
                     </place>
                     <place xml:id="görz">
                         <placeName type="pref">Görz</placeName>
+                        <location>
+                            <geo decls="#WGS">13,6333 45,95</geo>
+                        </location>
+                        <idno type="getty">7005526.0</idno>
                     </place>
                     <place xml:id="krakau">
                         <placeName type="pref">Krakau</placeName>
@@ -497,11 +728,19 @@
                         <placeName type="alt">jener Stadt</placeName>
                         <placeName type="alt">Krakau’s</placeName>
                         <placeName type="alt">Krakau</placeName>
+                        <location>
+                            <geo decls="#WGS">19,9167 50,05</geo>
+                        </location>
+                        <idno type="getty">7007652.0</idno>
                     </place>
                     <place xml:id="pag">
                         <placeName type="pref">Pag</placeName>
                         <placeName type="alt">Pag</placeName>
                         <placeName type="alt">Pago</placeName>
+                        <location>
+                            <geo decls="#WGS">15 44,5</geo>
+                        </location>
+                        <idno type="getty">1008494.0</idno>
                     </place>
                     <place xml:id="novaglia">
                         <placeName type="pref">Novaglia</placeName>
@@ -512,18 +751,34 @@
                     </place>
                     <place xml:id="krk">
                         <placeName type="pref">Krk</placeName>
+                        <location>
+                            <geo decls="#WGS">14,5667 45,0333</geo>
+                        </location>
+                        <idno type="getty">7015516.0</idno>
                     </place>
                     <place xml:id="frankfurt-a-m-">
                         <placeName type="pref">Frankfurt-a-m-</placeName>
                     </place>
                     <place xml:id="mainz">
                         <placeName type="pref">Mainz</placeName>
+                        <location>
+                            <geo decls="#WGS">11,9667 47,8333</geo>
+                        </location>
+                        <idno type="getty">7017990.0</idno>
                     </place>
                     <place xml:id="seligenstadt">
                         <placeName type="pref">Seligenstadt</placeName>
+                        <location>
+                            <geo decls="#WGS">8,9667 50,0333</geo>
+                        </location>
+                        <idno type="getty">4010301.0</idno>
                     </place>
                     <place xml:id="gießen">
                         <placeName type="pref">Gießen</placeName>
+                        <location>
+                            <geo decls="#WGS">8,7 50,5833</geo>
+                        </location>
+                        <idno type="getty">7004429.0</idno>
                     </place>
                     <place xml:id="o-o-">
                         <placeName type="pref">O-o-</placeName>
@@ -532,9 +787,17 @@
                         <placeName type="pref">Breslau</placeName>
                         <placeName type="alt">Breslau</placeName>
                         <placeName type="alt">Breslauer</placeName>
+                        <location>
+                            <geo decls="#WGS">17 51,1</geo>
+                        </location>
+                        <idno type="getty">7007601.0</idno>
                     </place>
                     <place xml:id="brünn">
                         <placeName type="pref">Brünn</placeName>
+                        <location>
+                            <geo decls="#WGS">16,6667 49,2167</geo>
+                        </location>
+                        <idno type="getty">7011840.0</idno>
                     </place>
                     <place xml:id="januševec">
                         <placeName type="pref">Januševec</placeName>
@@ -551,6 +814,10 @@
                     <place xml:id="kaschau">
                         <placeName type="pref">Kaschau</placeName>
                         <placeName type="alt">Kaschauer</placeName>
+                        <location>
+                            <geo decls="#WGS">21,25 48,7333</geo>
+                        </location>
+                        <idno type="getty">7011529.0</idno>
                     </place>
                     <place xml:id="neupanat">
                         <placeName type="pref">Neupanat</placeName>
@@ -565,15 +832,27 @@
                     </place>
                     <place xml:id="neuhaus">
                         <placeName type="pref">Neuhaus</placeName>
+                        <location>
+                            <geo decls="#WGS">8,5667 47,8</geo>
+                        </location>
+                        <idno type="getty">1040453.0</idno>
                     </place>
                     <place xml:id="rab">
                         <placeName type="pref">Rab</placeName>
+                        <location>
+                            <geo decls="#WGS">14,7667 44,75</geo>
+                        </location>
+                        <idno type="getty">1065214.0</idno>
                     </place>
                     <place xml:id="ala">
                         <placeName type="pref">Ala</placeName>
                     </place>
                     <place xml:id="trento">
                         <placeName type="pref">Trento</placeName>
+                        <location>
+                            <geo decls="#WGS">11,1167 46,1333</geo>
+                        </location>
+                        <idno type="getty">7003158.0</idno>
                     </place>
                     <place xml:id="trient-">
                         <placeName type="pref">Trient-</placeName>
@@ -581,15 +860,27 @@
                     <place xml:id="rovereto">
                         <placeName type="pref">Rovereto</placeName>
                         <placeName type="alt">Roveredo</placeName>
+                        <location>
+                            <geo decls="#WGS">11,05 45,8833</geo>
+                        </location>
+                        <idno type="getty">7005447.0</idno>
                     </place>
                     <place xml:id="biertan">
                         <placeName type="pref">Biertan</placeName>
+                        <location>
+                            <geo decls="#WGS">24,5167 46,1333</geo>
+                        </location>
+                        <idno type="getty">4001508.0</idno>
                     </place>
                     <place xml:id="nagy-enyed">
                         <placeName type="pref">Nagy-enyed</placeName>
                     </place>
                     <place xml:id="ratibor">
                         <placeName type="pref">Ratibor</placeName>
+                        <location>
+                            <geo decls="#WGS">18,1667 50,0833</geo>
+                        </location>
+                        <idno type="getty">1049401.0</idno>
                     </place>
                     <place xml:id="leobschuetz">
                         <placeName type="pref">Leobschuetz</placeName>
@@ -597,9 +888,17 @@
                     </place>
                     <place xml:id="erfurt">
                         <placeName type="pref">Erfurt</placeName>
+                        <location>
+                            <geo decls="#WGS">11,05 50,9667</geo>
+                        </location>
+                        <idno type="getty">7024031.0</idno>
                     </place>
                     <place xml:id="hadamar">
                         <placeName type="pref">Hadamar</placeName>
+                        <location>
+                            <geo decls="#WGS">8,0667 50,45</geo>
+                        </location>
+                        <idno type="getty">7012485.0</idno>
                     </place>
                     <place xml:id="trauchburg">
                         <placeName type="pref">Trauchburg</placeName>
@@ -614,22 +913,42 @@
                     </place>
                     <place xml:id="glogau">
                         <placeName type="pref">Glogau</placeName>
+                        <location>
+                            <geo decls="#WGS">21,9667 50,15</geo>
+                        </location>
+                        <idno type="getty">1049039.0</idno>
                     </place>
                     <place xml:id="neisse">
                         <placeName type="pref">Neisse</placeName>
                         <placeName type="alt">Neiße</placeName>
+                        <location>
+                            <geo decls="#WGS">14,75 52</geo>
+                        </location>
+                        <idno type="getty">7007914.0</idno>
                     </place>
                     <place xml:id="neuss">
                         <placeName type="pref">Neuss</placeName>
                         <placeName type="alt">Neuß</placeName>
+                        <location>
+                            <geo decls="#WGS">6,6833 51,2</geo>
+                        </location>
+                        <idno type="getty">7004978.0</idno>
                     </place>
                     <place xml:id="muenster">
                         <placeName type="pref">Muenster</placeName>
                         <placeName type="alt">Münster</placeName>
                         <placeName type="alt">Munster</placeName>
+                        <location>
+                            <geo decls="#WGS">-84,3667 40,3833</geo>
+                        </location>
+                        <idno type="getty">2080805.0</idno>
                     </place>
                     <place xml:id="emmerich">
                         <placeName type="pref">Emmerich</placeName>
+                        <location>
+                            <geo decls="#WGS">6,2667 51,8167</geo>
+                        </location>
+                        <idno type="getty">7005163.0</idno>
                     </place>
                     <place xml:id="koenigsberg">
                         <placeName type="pref">Koenigsberg</placeName>
@@ -638,16 +957,32 @@
                     <place xml:id="trier">
                         <placeName type="pref">Trier</placeName>
                         <placeName type="alt">Trierer</placeName>
+                        <location>
+                            <geo decls="#WGS">6,5833 50</geo>
+                        </location>
+                        <idno type="getty">7004451.0</idno>
                     </place>
                     <place xml:id="bonn">
                         <placeName type="pref">Bonn</placeName>
                         <placeName type="alt">Bonna</placeName>
+                        <location>
+                            <geo decls="#WGS">7,1 50,7333</geo>
+                        </location>
+                        <idno type="getty">7005090.0</idno>
                     </place>
                     <place xml:id="frankenstein">
                         <placeName type="pref">Frankenstein</placeName>
+                        <location>
+                            <geo decls="#WGS">16,8167 50,6</geo>
+                        </location>
+                        <idno type="getty">1049622.0</idno>
                     </place>
                     <place xml:id="glatz">
                         <placeName type="pref">Glatz</placeName>
+                        <location>
+                            <geo decls="#WGS">16,6667 50,4667</geo>
+                        </location>
+                        <idno type="getty">7007687.0</idno>
                     </place>
                     <place xml:id="johannesberg-bei-jauernig">
                         <placeName type="pref">Johannesberg-bei-jauernig</placeName>
@@ -655,6 +990,10 @@
                     <place xml:id="koblenz">
                         <placeName type="pref">Koblenz</placeName>
                         <placeName type="alt">Coblenz</placeName>
+                        <location>
+                            <geo decls="#WGS">8,2333 47,6167</geo>
+                        </location>
+                        <idno type="getty">7007549.0</idno>
                     </place>
                     <place xml:id="bautzen">
                         <placeName type="pref">Bautzen</placeName>
@@ -662,15 +1001,27 @@
                         [Bautzen]</placeName>
                         <placeName type="alt">Budussin
                         [Bautzen]</placeName>
+                        <location>
+                            <geo decls="#WGS">14,4833 51,1833</geo>
+                        </location>
+                        <idno type="getty">7012305.0</idno>
                     </place>
                     <place xml:id="görlitz">
                         <placeName type="pref">Görlitz</placeName>
+                        <location>
+                            <geo decls="#WGS">15 51,15</geo>
+                        </location>
+                        <idno type="getty">7012813.0</idno>
                     </place>
                     <place xml:id="budussin">
                         <placeName type="pref">Budussin</placeName>
                     </place>
                     <place xml:id="dresden">
                         <placeName type="pref">Dresden</placeName>
+                        <location>
+                            <geo decls="#WGS">13,75 51,05</geo>
+                        </location>
+                        <idno type="getty">7004455.0</idno>
                     </place>
                     <place xml:id="laukow">
                         <placeName type="pref">Laukow</placeName>
@@ -682,13 +1033,25 @@
                     </place>
                     <place xml:id="budissin">
                         <placeName type="pref">Budissin</placeName>
+                        <location>
+                            <geo decls="#WGS">14,4833 51,1833</geo>
+                        </location>
+                        <idno type="getty">7012305.0</idno>
                     </place>
                     <place xml:id="tübingen">
                         <placeName type="pref">Tübingen</placeName>
+                        <location>
+                            <geo decls="#WGS">9,75 48,5</geo>
+                        </location>
+                        <idno type="getty">1003267.0</idno>
                     </place>
                     <place xml:id="rottweil">
                         <placeName type="pref">Rottweil</placeName>
                         <placeName type="alt">Rotweil</placeName>
+                        <location>
+                            <geo decls="#WGS">8,6167 48,1667</geo>
+                        </location>
+                        <idno type="getty">7012685.0</idno>
                     </place>
                     <place xml:id="wuerttemberg">
                         <placeName type="pref">Wuerttemberg</placeName>
@@ -696,9 +1059,17 @@
                     </place>
                     <place xml:id="leipzig">
                         <placeName type="pref">Leipzig</placeName>
+                        <location>
+                            <geo decls="#WGS">12,4167 51,3333</geo>
+                        </location>
+                        <idno type="getty">7012329.0</idno>
                     </place>
                     <place xml:id="würzburg">
                         <placeName type="pref">Würzburg</placeName>
+                        <location>
+                            <geo decls="#WGS">9,9333 49,8</geo>
+                        </location>
+                        <idno type="getty">7004335.0</idno>
                     </place>
                     <place xml:id="jaworzno">
                         <placeName type="pref">Jaworzno</placeName>
@@ -715,14 +1086,26 @@
                     </place>
                     <place xml:id="rzeszów">
                         <placeName type="pref">Rzeszów</placeName>
+                        <location>
+                            <geo decls="#WGS">22 50,0667</geo>
+                        </location>
+                        <idno type="getty">7007791.0</idno>
                     </place>
                     <place xml:id="tarnow">
                         <placeName type="pref">Tarnow</placeName>
                         <placeName type="alt">Tarnower</placeName>
+                        <location>
+                            <geo decls="#WGS">20,9833 50,0167</geo>
+                        </location>
+                        <idno type="getty">7003387.0</idno>
                     </place>
                     <place xml:id="pilsen">
                         <placeName type="pref">Pilsen</placeName>
                         <placeName type="alt">Pilsner</placeName>
+                        <location>
+                            <geo decls="#WGS">13,4167 49,75</geo>
+                        </location>
+                        <idno type="getty">7011723.0</idno>
                     </place>
                     <place xml:id="eger">
                         <placeName type="pref">Eger</placeName>
@@ -730,6 +1113,10 @@
                         <placeName type="alt">Egerer</placeName>
                         <placeName type="alt">Erlau</placeName>
                         <placeName type="alt">Erlauer</placeName>
+                        <location>
+                            <geo decls="#WGS">nan nan</geo>
+                        </location>
+                        <idno type="getty">1123667.0</idno>
                     </place>
                     <place xml:id="goerkau">
                         <placeName type="pref">Goerkau</placeName>
@@ -882,6 +1269,10 @@
                     <place xml:id="szarvas">
                         <placeName type="pref">Szarvas</placeName>
                         <placeName type="alt">Szarvaser</placeName>
+                        <location>
+                            <geo decls="#WGS">20,5833 46,85</geo>
+                        </location>
+                        <idno type="getty">7010515.0</idno>
                     </place>
                     <place xml:id="nagy-bánya">
                         <placeName type="pref">Nagy-bánya</placeName>
@@ -904,6 +1295,10 @@
                         <placeName type="alt">G[roßwardein]</placeName>
                         <placeName type="alt">Groß-Wardein</placeName>
                         <placeName type="alt">Groß-Wardeiner</placeName>
+                        <location>
+                            <geo decls="#WGS">21,9167 47,05</geo>
+                        </location>
+                        <idno type="getty">7009161.0</idno>
                     </place>
                     <place xml:id="komitat-bihar">
                         <placeName type="pref">Komitat-bihar</placeName>
@@ -929,9 +1324,17 @@
                     </place>
                     <place xml:id="tiszaföldvár">
                         <placeName type="pref">Tiszaföldvár</placeName>
+                        <location>
+                            <geo decls="#WGS">20,1833 46,9667</geo>
+                        </location>
+                        <idno type="getty">1042490.0</idno>
                     </place>
                     <place xml:id="szentes">
                         <placeName type="pref">Szentes</placeName>
+                        <location>
+                            <geo decls="#WGS">20,2833 46,6667</geo>
+                        </location>
+                        <idno type="getty">7010529.0</idno>
                     </place>
                     <place xml:id="hodmezovasarhely">
                         <placeName type="pref">Hodmezovasarhely</placeName>
@@ -949,6 +1352,10 @@
                         <placeName type="pref">Miskolc</placeName>
                         <placeName type="alt">Miskolcz</placeName>
                         <placeName type="alt">Miskolczer</placeName>
+                        <location>
+                            <geo decls="#WGS">20,7833 48,1167</geo>
+                        </location>
+                        <idno type="getty">7010491.0</idno>
                     </place>
                     <place xml:id="fancsal">
                         <placeName type="pref">Fancsal</placeName>
@@ -964,11 +1371,19 @@
                     </place>
                     <place xml:id="tokaj">
                         <placeName type="pref">Tokaj</placeName>
+                        <location>
+                            <geo decls="#WGS">nan nan</geo>
+                        </location>
+                        <idno type="getty">1130916.0</idno>
                     </place>
                     <place xml:id="vrbas">
                         <placeName type="pref">Vrbas</placeName>
                         <placeName type="alt">Neu-Verbaßer</placeName>
                         <placeName type="alt">Neuverbaster</placeName>
+                        <location>
+                            <geo decls="#WGS">17,5 45,0833</geo>
+                        </location>
+                        <idno type="getty">1131545.0</idno>
                     </place>
                     <place xml:id="kosd">
                         <placeName type="pref">Kosd</placeName>
@@ -979,6 +1394,10 @@
                     </place>
                     <place xml:id="szombathely">
                         <placeName type="pref">Szombathely</placeName>
+                        <location>
+                            <geo decls="#WGS">16,6333 47,2333</geo>
+                        </location>
+                        <idno type="getty">7010521.0</idno>
                     </place>
                     <place xml:id="o-szoeny">
                         <placeName type="pref">O-szoeny</placeName>
@@ -1001,6 +1420,10 @@
                     <place xml:id="komorn">
                         <placeName type="pref">Komorn</placeName>
                         <placeName type="alt">Komorner</placeName>
+                        <location>
+                            <geo decls="#WGS">18,0833 47,7667</geo>
+                        </location>
+                        <idno type="getty">1027286.0</idno>
                     </place>
                     <place xml:id="pilismarót">
                         <placeName type="pref">Pilismarót</placeName>
@@ -1018,6 +1441,10 @@
                     <place xml:id="papa">
                         <placeName type="pref">Papa</placeName>
                         <placeName type="alt">Papaer</placeName>
+                        <location>
+                            <geo decls="#WGS">-155,8667 19,2</geo>
+                        </location>
+                        <idno type="getty">2025196.0</idno>
                     </place>
                     <place xml:id="battyan">
                         <placeName type="pref">Battyan</placeName>
@@ -1038,6 +1465,10 @@
                     <place xml:id="stuhlweissenburg">
                         <placeName type="pref">Stuhlweissenburg</placeName>
                         <placeName type="alt">Sz[ékes] Fejervár</placeName>
+                        <location>
+                            <geo decls="#WGS">18,7833 47,1667</geo>
+                        </location>
+                        <idno type="getty">7024662.0</idno>
                     </place>
                     <place xml:id="fuele">
                         <placeName type="pref">Fuele</placeName>
@@ -1057,6 +1488,10 @@
                     </place>
                     <place xml:id="mór">
                         <placeName type="pref">Mór</placeName>
+                        <location>
+                            <geo decls="#WGS">18,2 47,3833</geo>
+                        </location>
+                        <idno type="getty">1042395.0</idno>
                     </place>
                     <place xml:id="polgárdi">
                         <placeName type="pref">Polgárdi</placeName>
@@ -1120,6 +1555,10 @@
                     </place>
                     <place xml:id="heves">
                         <placeName type="pref">Heves</placeName>
+                        <location>
+                            <geo decls="#WGS">20,2833 47,6</geo>
+                        </location>
+                        <idno type="getty">1042352.0</idno>
                     </place>
                     <place xml:id="tenk">
                         <placeName type="pref">Tenk</placeName>
@@ -1200,6 +1639,10 @@
                     </place>
                     <place xml:id="mohács">
                         <placeName type="pref">Mohács</placeName>
+                        <location>
+                            <geo decls="#WGS">18,6667 46</geo>
+                        </location>
+                        <idno type="getty">7010493.0</idno>
                     </place>
                     <place xml:id="voeroesmart">
                         <placeName type="pref">Voeroesmart</placeName>
@@ -1239,6 +1682,10 @@
                     </place>
                     <place xml:id="temesvár">
                         <placeName type="pref">Temesvár</placeName>
+                        <location>
+                            <geo decls="#WGS">21,25 45,75</geo>
+                        </location>
+                        <idno type="getty">7003943.0</idno>
                     </place>
                     <place xml:id="komitat-csongrad">
                         <placeName type="pref">Komitat-csongrad</placeName>
@@ -1247,6 +1694,10 @@
                     </place>
                     <place xml:id="samson">
                         <placeName type="pref">Samson</placeName>
+                        <location>
+                            <geo decls="#WGS">nan nan</geo>
+                        </location>
+                        <idno type="getty">7011371.0</idno>
                     </place>
                     <place xml:id="komitat-tolna">
                         <placeName type="pref">Komitat-tolna</placeName>
@@ -1255,6 +1706,10 @@
                     <place xml:id="zadar">
                         <placeName type="pref">Zadar</placeName>
                         <placeName type="alt">Zara</placeName>
+                        <location>
+                            <geo decls="#WGS">15,2333 44,1167</geo>
+                        </location>
+                        <idno type="getty">7015549.0</idno>
                     </place>
                     <place xml:id="duesseldorf">
                         <placeName type="pref">Duesseldorf</placeName>
@@ -1264,12 +1719,24 @@
                         <placeName type="pref">Venedig</placeName>
                         <placeName type="alt">Venedig</placeName>
                         <placeName type="alt">Venedigs</placeName>
+                        <location>
+                            <geo decls="#WGS">12,5667 45,5833</geo>
+                        </location>
+                        <idno type="getty">7003006.0</idno>
                     </place>
                     <place xml:id="eisenach">
                         <placeName type="pref">Eisenach</placeName>
+                        <location>
+                            <geo decls="#WGS">10,3167 50,9833</geo>
+                        </location>
+                        <idno type="getty">7005969.0</idno>
                     </place>
                     <place xml:id="göttingen">
                         <placeName type="pref">Göttingen</placeName>
+                        <location>
+                            <geo decls="#WGS">9,95 51,5333</geo>
+                        </location>
+                        <idno type="getty">7005246.0</idno>
                     </place>
                     <place xml:id="deutschlands">
                         <placeName type="pref">Deutschlands</placeName>
@@ -1282,50 +1749,110 @@
                         <placeName type="alt">Naples</placeName>
                         <placeName type="alt">Neapel</placeName>
                         <placeName type="alt">Neapels</placeName>
+                        <location>
+                            <geo decls="#WGS">14,25 40,8333</geo>
+                        </location>
+                        <idno type="getty">7004474.0</idno>
                     </place>
                     <place xml:id="kiel">
                         <placeName type="pref">Kiel</placeName>
+                        <location>
+                            <geo decls="#WGS">10,1333 54,3333</geo>
+                        </location>
+                        <idno type="getty">7004457.0</idno>
                     </place>
                     <place xml:id="heidelberg">
                         <placeName type="pref">Heidelberg</placeName>
+                        <location>
+                            <geo decls="#WGS">8,7 49,4167</geo>
+                        </location>
+                        <idno type="getty">7005177.0</idno>
                     </place>
                     <place xml:id="jena">
                         <placeName type="pref">Jena</placeName>
+                        <location>
+                            <geo decls="#WGS">11,5833 50,9333</geo>
+                        </location>
+                        <idno type="getty">7005973.0</idno>
                     </place>
                     <place xml:id="dorpat">
                         <placeName type="pref">Dorpat</placeName>
+                        <location>
+                            <geo decls="#WGS">26,745 58,366</geo>
+                        </location>
+                        <idno type="getty">7006624.0</idno>
                     </place>
                     <place xml:id="stresa">
                         <placeName type="pref">Stresa</placeName>
+                        <location>
+                            <geo decls="#WGS">8,5333 45,8833</geo>
+                        </location>
+                        <idno type="getty">7005657.0</idno>
                     </place>
                     <place xml:id="florenz">
                         <placeName type="pref">Florenz</placeName>
+                        <location>
+                            <geo decls="#WGS">11,25 43,783</geo>
+                        </location>
+                        <idno type="getty">7000457.0</idno>
                     </place>
                     <place xml:id="brescia">
                         <placeName type="pref">Brescia</placeName>
+                        <location>
+                            <geo decls="#WGS">10,2167 45,55</geo>
+                        </location>
+                        <idno type="getty">7005764.0</idno>
                     </place>
                     <place xml:id="mantua">
                         <placeName type="pref">Mantua</placeName>
+                        <location>
+                            <geo decls="#WGS">10,7833 45,1667</geo>
+                        </location>
+                        <idno type="getty">7005880.0</idno>
                     </place>
                     <place xml:id="genua">
                         <placeName type="pref">Genua</placeName>
+                        <location>
+                            <geo decls="#WGS">8,95 44,4167</geo>
+                        </location>
+                        <idno type="getty">7008546.0</idno>
                     </place>
                     <place xml:id="ravenna">
                         <placeName type="pref">Ravenna</placeName>
+                        <location>
+                            <geo decls="#WGS">11,9833 44,4167</geo>
+                        </location>
+                        <idno type="getty">7003133.0</idno>
                     </place>
                     <place xml:id="modena">
                         <placeName type="pref">Modena</placeName>
+                        <location>
+                            <geo decls="#WGS">10,9 44,5</geo>
+                        </location>
+                        <idno type="getty">7004597.0</idno>
                     </place>
                     <place xml:id="bologna">
                         <placeName type="pref">Bologna</placeName>
+                        <location>
+                            <geo decls="#WGS">11,3333 44,5</geo>
+                        </location>
+                        <idno type="getty">7004847.0</idno>
                     </place>
                     <place xml:id="spalato">
                         <placeName type="pref">Spalato</placeName>
                         <placeName type="alt">Sp[alato]</placeName>
                         <placeName type="alt">Spalatro</placeName>
+                        <location>
+                            <geo decls="#WGS">16,4667 43,5167</geo>
+                        </location>
+                        <idno type="getty">7015546.0</idno>
                     </place>
                     <place xml:id="salona">
                         <placeName type="pref">Salona</placeName>
+                        <location>
+                            <geo decls="#WGS">16,5 43,55</geo>
+                        </location>
+                        <idno type="getty">7017320.0</idno>
                     </place>
                     <place xml:id="herkulaneum">
                         <placeName type="pref">Herkulaneum</placeName>
@@ -1337,98 +1864,210 @@
                     </place>
                     <place xml:id="ragusa">
                         <placeName type="pref">Ragusa</placeName>
+                        <location>
+                            <geo decls="#WGS">18,1167 42,6667</geo>
+                        </location>
+                        <idno type="getty">7015500.0</idno>
                     </place>
                     <place xml:id="großwardein">
                         <placeName type="pref">Großwardein</placeName>
                     </place>
                     <place xml:id="ödenburg">
                         <placeName type="pref">Ödenburg</placeName>
+                        <location>
+                            <geo decls="#WGS">16,5833 47,6667</geo>
+                        </location>
+                        <idno type="getty">7010514.0</idno>
                     </place>
                     <place xml:id="neu-verbaß">
                         <placeName type="pref">Neu-verbaß</placeName>
                     </place>
                     <place xml:id="comorn">
                         <placeName type="pref">Comorn</placeName>
+                        <location>
+                            <geo decls="#WGS">-77,2167 38,2667</geo>
+                        </location>
+                        <idno type="getty">2111302.0</idno>
                     </place>
                     <place xml:id="brixen">
                         <placeName type="pref">Brixen</placeName>
+                        <location>
+                            <geo decls="#WGS">11,6667 46,7167</geo>
+                        </location>
+                        <idno type="getty">7005433.0</idno>
                     </place>
                     <place xml:id="wilten">
                         <placeName type="pref">Wilten</placeName>
+                        <location>
+                            <geo decls="#WGS">11,423 47,25</geo>
+                        </location>
+                        <idno type="getty">7031464.0</idno>
                     </place>
                     <place xml:id="stams">
                         <placeName type="pref">Stams</placeName>
+                        <location>
+                            <geo decls="#WGS">10,9833 47,2667</geo>
+                        </location>
+                        <idno type="getty">7003252.0</idno>
                     </place>
                     <place xml:id="neustift">
                         <placeName type="pref">Neustift</placeName>
+                        <location>
+                            <geo decls="#WGS">11,65 46,7333</geo>
+                        </location>
+                        <idno type="getty">7015813.0</idno>
                     </place>
                     <place xml:id="fiecht">
                         <placeName type="pref">Fiecht</placeName>
                     </place>
                     <place xml:id="marienberg">
                         <placeName type="pref">Marienberg</placeName>
+                        <location>
+                            <geo decls="#WGS">13,1833 50,6333</geo>
+                        </location>
+                        <idno type="getty">1037268.0</idno>
                     </place>
                     <place xml:id="innichen">
                         <placeName type="pref">Innichen</placeName>
+                        <location>
+                            <geo decls="#WGS">12,2667 46,7333</geo>
+                        </location>
+                        <idno type="getty">7005435.0</idno>
                     </place>
                     <place xml:id="arco">
                         <placeName type="pref">Arco</placeName>
                         <placeName type="alt">Arko</placeName>
+                        <location>
+                            <geo decls="#WGS">10,8833 45,9167</geo>
+                        </location>
+                        <idno type="getty">1043264.0</idno>
                     </place>
                     <place xml:id="roveredo">
                         <placeName type="pref">Roveredo</placeName>
+                        <location>
+                            <geo decls="#WGS">9,15 56,2333</geo>
+                        </location>
+                        <idno type="getty">1064344.0</idno>
                     </place>
                     <place xml:id="bozen">
                         <placeName type="pref">Bozen</placeName>
                         <placeName type="alt">Botzen</placeName>
+                        <location>
+                            <geo decls="#WGS">11,3667 46,5167</geo>
+                        </location>
+                        <idno type="getty">7004967.0</idno>
                     </place>
                     <place xml:id="gries">
                         <placeName type="pref">Gries</placeName>
+                        <location>
+                            <geo decls="#WGS">nan nan</geo>
+                        </location>
+                        <idno type="getty">4004583.0</idno>
                     </place>
                     <place xml:id="meran">
                         <placeName type="pref">Meran</placeName>
+                        <location>
+                            <geo decls="#WGS">11,15 46,6667</geo>
+                        </location>
+                        <idno type="getty">7005432.0</idno>
                     </place>
                     <place xml:id="hall">
                         <placeName type="pref">Hall</placeName>
+                        <location>
+                            <geo decls="#WGS">-97,05 37,3333</geo>
+                        </location>
+                        <idno type="getty">2274361.0</idno>
                     </place>
                     <place xml:id="rattenberg">
                         <placeName type="pref">Rattenberg</placeName>
+                        <location>
+                            <geo decls="#WGS">nan nan</geo>
+                        </location>
+                        <idno type="getty">4009124.0</idno>
                     </place>
                     <place xml:id="kitzbühel">
                         <placeName type="pref">Kitzbühel</placeName>
+                        <location>
+                            <geo decls="#WGS">12,3833 47,45</geo>
+                        </location>
+                        <idno type="getty">7003244.0</idno>
                     </place>
                     <place xml:id="kufstein">
                         <placeName type="pref">Kufstein</placeName>
+                        <location>
+                            <geo decls="#WGS">12,1833 47,6</geo>
+                        </location>
+                        <idno type="getty">7016924.0</idno>
                     </place>
                     <place xml:id="sterzing">
                         <placeName type="pref">Sterzing</placeName>
+                        <location>
+                            <geo decls="#WGS">11,4333 46,9</geo>
+                        </location>
+                        <idno type="getty">7005434.0</idno>
                     </place>
                     <place xml:id="klausen">
                         <placeName type="pref">Klausen</placeName>
+                        <location>
+                            <geo decls="#WGS">11,5667 46,6333</geo>
+                        </location>
+                        <idno type="getty">1044226.0</idno>
                     </place>
                     <place xml:id="bruneck">
                         <placeName type="pref">Bruneck</placeName>
+                        <location>
+                            <geo decls="#WGS">11,9333 46,8</geo>
+                        </location>
+                        <idno type="getty">7005436.0</idno>
                     </place>
                     <place xml:id="lienz">
                         <placeName type="pref">Lienz</placeName>
+                        <location>
+                            <geo decls="#WGS">12,8333 46,85</geo>
+                        </location>
+                        <idno type="getty">7005620.0</idno>
                     </place>
                     <place xml:id="glurns">
                         <placeName type="pref">Glurns</placeName>
+                        <location>
+                            <geo decls="#WGS">10,55 46,6667</geo>
+                        </location>
+                        <idno type="getty">1044837.0</idno>
                     </place>
                     <place xml:id="vils">
                         <placeName type="pref">Vils</placeName>
+                        <location>
+                            <geo decls="#WGS">13,1833 48,6333</geo>
+                        </location>
+                        <idno type="getty">1131481.0</idno>
                     </place>
                     <place xml:id="schwaz">
                         <placeName type="pref">Schwaz</placeName>
+                        <location>
+                            <geo decls="#WGS">11,7333 47,35</geo>
+                        </location>
+                        <idno type="getty">7003247.0</idno>
                     </place>
                     <place xml:id="imst">
                         <placeName type="pref">Imst</placeName>
+                        <location>
+                            <geo decls="#WGS">10,75 47,2333</geo>
+                        </location>
+                        <idno type="getty">7003250.0</idno>
                     </place>
                     <place xml:id="reutte">
                         <placeName type="pref">Reutte</placeName>
+                        <location>
+                            <geo decls="#WGS">10,7333 47,5</geo>
+                        </location>
+                        <idno type="getty">7003253.0</idno>
                     </place>
                     <place xml:id="riva">
                         <placeName type="pref">Riva</placeName>
+                        <location>
+                            <geo decls="#WGS">-76,5667 38,95</geo>
+                        </location>
+                        <idno type="getty">2048469.0</idno>
                     </place>
                     <place xml:id="pergine">
                         <placeName type="pref">Pergine</placeName>
@@ -1436,21 +2075,45 @@
                     <place xml:id="levico">
                         <placeName type="pref">Levico</placeName>
                         <placeName type="alt">Leviko</placeName>
+                        <location>
+                            <geo decls="#WGS">11,3 46,0167</geo>
+                        </location>
+                        <idno type="getty">1045078.0</idno>
                     </place>
                     <place xml:id="borgo">
                         <placeName type="pref">Borgo</placeName>
+                        <location>
+                            <geo decls="#WGS">nan nan</geo>
+                        </location>
+                        <idno type="getty">7005703.0</idno>
                     </place>
                     <place xml:id="lavis">
                         <placeName type="pref">Lavis</placeName>
+                        <location>
+                            <geo decls="#WGS">11,1167 46,1333</geo>
+                        </location>
+                        <idno type="getty">1045046.0</idno>
                     </place>
                     <place xml:id="cles">
                         <placeName type="pref">Cles</placeName>
+                        <location>
+                            <geo decls="#WGS">11,0333 46,3667</geo>
+                        </location>
+                        <idno type="getty">1044294.0</idno>
                     </place>
                     <place xml:id="fondo">
                         <placeName type="pref">Fondo</placeName>
+                        <location>
+                            <geo decls="#WGS">11,1333 46,4333</geo>
+                        </location>
+                        <idno type="getty">1044644.0</idno>
                     </place>
                     <place xml:id="regensburg">
                         <placeName type="pref">Regensburg</placeName>
+                        <location>
+                            <geo decls="#WGS">12,1 49,0167</geo>
+                        </location>
+                        <idno type="getty">7013496.0</idno>
                     </place>
                     <place xml:id="bruenn">
                         <placeName type="pref">Bruenn</placeName>
@@ -1459,25 +2122,53 @@
                     </place>
                     <place xml:id="villach">
                         <placeName type="pref">Villach</placeName>
+                        <location>
+                            <geo decls="#WGS">13,85 46,6167</geo>
+                        </location>
+                        <idno type="getty">7003232.0</idno>
                     </place>
                     <place xml:id="feldkirch">
                         <placeName type="pref">Feldkirch</placeName>
+                        <location>
+                            <geo decls="#WGS">9,6333 47,25</geo>
+                        </location>
+                        <idno type="getty">7003119.0</idno>
                     </place>
                     <place xml:id="köln">
                         <placeName type="pref">Köln</placeName>
+                        <location>
+                            <geo decls="#WGS">6,95 50,9333</geo>
+                        </location>
+                        <idno type="getty">7004446.0</idno>
                     </place>
                     <place xml:id="treviso">
                         <placeName type="pref">Treviso</placeName>
+                        <location>
+                            <geo decls="#WGS">12,25 45,6667</geo>
+                        </location>
+                        <idno type="getty">7003297.0</idno>
                     </place>
                     <place xml:id="padua">
                         <placeName type="pref">Padua</placeName>
                         <placeName type="alt">Città</placeName>
+                        <location>
+                            <geo decls="#WGS">11,8833 45,4167</geo>
+                        </location>
+                        <idno type="getty">7003085.0</idno>
                     </place>
                     <place xml:id="cittadella">
                         <placeName type="pref">Cittadella</placeName>
+                        <location>
+                            <geo decls="#WGS">11,8 45,65</geo>
+                        </location>
+                        <idno type="getty">7003101.0</idno>
                     </place>
                     <place xml:id="lichtensteig">
                         <placeName type="pref">Lichtensteig</placeName>
+                        <location>
+                            <geo decls="#WGS">9,1 47,3333</geo>
+                        </location>
+                        <idno type="getty">1064197.0</idno>
                     </place>
                     <place xml:id="maros-vásárhely">
                         <placeName type="pref">Maros-vásárhely</placeName>
@@ -1487,9 +2178,17 @@
                     </place>
                     <place xml:id="münster">
                         <placeName type="pref">Münster</placeName>
+                        <location>
+                            <geo decls="#WGS">7,3833 47,3</geo>
+                        </location>
+                        <idno type="getty">7007416.0</idno>
                     </place>
                     <place xml:id="paderborn">
                         <placeName type="pref">Paderborn</placeName>
+                        <location>
+                            <geo decls="#WGS">8,7333 51,7167</geo>
+                        </location>
+                        <idno type="getty">7005101.0</idno>
                     </place>
                     <place xml:id="goettingen">
                         <placeName type="pref">Goettingen</placeName>
@@ -1498,6 +2197,10 @@
                     </place>
                     <place xml:id="braunsberg">
                         <placeName type="pref">Braunsberg</placeName>
+                        <location>
+                            <geo decls="#WGS">19,8333 54,4</geo>
+                        </location>
+                        <idno type="getty">7007598.0</idno>
                     </place>
                     <place xml:id="syrakus">
                         <placeName type="pref">Syrakus</placeName>
@@ -1505,12 +2208,24 @@
                     </place>
                     <place xml:id="pisa">
                         <placeName type="pref">Pisa</placeName>
+                        <location>
+                            <geo decls="#WGS">nan nan</geo>
+                        </location>
+                        <idno type="getty">1108174.0</idno>
                     </place>
                     <place xml:id="palermo">
                         <placeName type="pref">Palermo</placeName>
+                        <location>
+                            <geo decls="#WGS">13,3833 38,1333</geo>
+                        </location>
+                        <idno type="getty">7003928.0</idno>
                     </place>
                     <place xml:id="hildburghausen">
                         <placeName type="pref">Hildburghausen</placeName>
+                        <location>
+                            <geo decls="#WGS">10,75 50,4167</geo>
+                        </location>
+                        <idno type="getty">1036943.0</idno>
                     </place>
                     <place xml:id="santa-maria-dell-anima">
                         <placeName type="pref">Santa-maria-dell-anima</placeName>
@@ -1518,6 +2233,10 @@
                     <place xml:id="vatikan">
                         <placeName type="pref">Vatikan</placeName>
                         <placeName type="alt">Vatican</placeName>
+                        <location>
+                            <geo decls="#WGS">12,45 41,9</geo>
+                        </location>
+                        <idno type="getty">7001168.0</idno>
                     </place>
                     <place xml:id="schloß-johannesberg">
                         <placeName type="pref">Schloß-johannesberg</placeName>
@@ -1525,6 +2244,10 @@
                     <place xml:id="teschen">
                         <placeName type="pref">Teschen</placeName>
                         <placeName type="alt">Teschens</placeName>
+                        <location>
+                            <geo decls="#WGS">nan nan</geo>
+                        </location>
+                        <idno type="getty">6005897.0</idno>
                     </place>
                     <place xml:id="friedeck">
                         <placeName type="pref">Friedeck</placeName>
@@ -1534,24 +2257,44 @@
                     </place>
                     <place xml:id="freistadt">
                         <placeName type="pref">Freistadt</placeName>
+                        <location>
+                            <geo decls="#WGS">15,6 51,75</geo>
+                        </location>
+                        <idno type="getty">1049149.0</idno>
                     </place>
                     <place xml:id="freiwaldau">
                         <placeName type="pref">Freiwaldau</placeName>
+                        <location>
+                            <geo decls="#WGS">15,1 51,4333</geo>
+                        </location>
+                        <idno type="getty">1049065.0</idno>
                     </place>
                     <place xml:id="olmütz">
                         <placeName type="pref">Olmütz</placeName>
+                        <location>
+                            <geo decls="#WGS">17,25 49,6333</geo>
+                        </location>
+                        <idno type="getty">7011841.0</idno>
                     </place>
                     <place xml:id="schloss-johannesberg">
                         <placeName type="pref">Schloss-johannesberg</placeName>
                     </place>
                     <place xml:id="johannesberg">
                         <placeName type="pref">Johannesberg</placeName>
+                        <location>
+                            <geo decls="#WGS">-113,7 33,7167</geo>
+                        </location>
+                        <idno type="getty">2398679.0</idno>
                     </place>
                     <place xml:id="zuckmantel">
                         <placeName type="pref">Zuckmantel</placeName>
                     </place>
                     <place xml:id="holstein">
                         <placeName type="pref">Holstein</placeName>
+                        <location>
+                            <geo decls="#WGS">nan nan</geo>
+                        </location>
+                        <idno type="getty">7003679.0</idno>
                     </place>
                     <place xml:id="freiburg-im-breisgau">
                         <placeName type="pref">Freiburg-im-breisgau</placeName>
@@ -1561,6 +2304,10 @@
                     </place>
                     <place xml:id="mannheim">
                         <placeName type="pref">Mannheim</placeName>
+                        <location>
+                            <geo decls="#WGS">8,4667 49,5</geo>
+                        </location>
+                        <idno type="getty">7005179.0</idno>
                     </place>
                     <place xml:id="universitaet-freiburg">
                         <placeName type="pref">Universitaet-freiburg</placeName>
@@ -1569,9 +2316,17 @@
                     </place>
                     <place xml:id="milano">
                         <placeName type="pref">Milano</placeName>
+                        <location>
+                            <geo decls="#WGS">9,5 45,5</geo>
+                        </location>
+                        <idno type="getty">7003150.0</idno>
                     </place>
                     <place xml:id="pontevico">
                         <placeName type="pref">Pontevico</placeName>
+                        <location>
+                            <geo decls="#WGS">10,1 45,2667</geo>
+                        </location>
+                        <idno type="getty">1046121.0</idno>
                     </place>
                     <place xml:id="liblin">
                         <placeName type="pref">Liblin</placeName>
@@ -1622,6 +2377,10 @@
                     <place xml:id="plass">
                         <placeName type="pref">Plass</placeName>
                         <placeName type="alt">Plaß</placeName>
+                        <location>
+                            <geo decls="#WGS">13,4 49,9333</geo>
+                        </location>
+                        <idno type="getty">7011725.0</idno>
                     </place>
                     <place xml:id="kralowitz">
                         <placeName type="pref">Kralowitz</placeName>
@@ -1635,6 +2394,10 @@
                     </place>
                     <place xml:id="rovinj">
                         <placeName type="pref">Rovinj</placeName>
+                        <location>
+                            <geo decls="#WGS">13,6667 45,0833</geo>
+                        </location>
+                        <idno type="getty">7015531.0</idno>
                     </place>
                     <place xml:id="pago">
                         <placeName type="pref">Pago</placeName>
@@ -1647,6 +2410,10 @@
                     </place>
                     <place xml:id="kiew">
                         <placeName type="pref">Kiew</placeName>
+                        <location>
+                            <geo decls="#WGS">30,5167 50,4333</geo>
+                        </location>
+                        <idno type="getty">7010171.0</idno>
                     </place>
                     <place xml:id="vendig">
                         <placeName type="pref">Vendig</placeName>
@@ -1658,18 +2425,34 @@
                     <place xml:id="schoenbrunn">
                         <placeName type="pref">Schoenbrunn</placeName>
                         <placeName type="alt">Schönbrunn</placeName>
+                        <location>
+                            <geo decls="#WGS">-81,4 40,45</geo>
+                        </location>
+                        <idno type="getty">2081785.0</idno>
                     </place>
                     <place xml:id="waitzen">
                         <placeName type="pref">Waitzen</placeName>
                         <placeName type="alt">Waitzner</placeName>
+                        <location>
+                            <geo decls="#WGS">19,1333 47,7667</geo>
+                        </location>
+                        <idno type="getty">7010526.0</idno>
                     </place>
                     <place xml:id="leitmeritz">
                         <placeName type="pref">Leitmeritz</placeName>
                         <placeName type="alt">Leitmeritzer</placeName>
+                        <location>
+                            <geo decls="#WGS">14,1667 50,55</geo>
+                        </location>
+                        <idno type="getty">7011695.0</idno>
                     </place>
                     <place xml:id="budweis">
                         <placeName type="pref">Budweis</placeName>
                         <placeName type="alt">Budweiser</placeName>
+                        <location>
+                            <geo decls="#WGS">14,4833 48,9667</geo>
+                        </location>
+                        <idno type="getty">7011338.0</idno>
                     </place>
                     <place xml:id="goerz">
                         <placeName type="pref">Goerz</placeName>
@@ -1677,9 +2460,17 @@
                     </place>
                     <place xml:id="martinsberg">
                         <placeName type="pref">Martinsberg</placeName>
+                        <location>
+                            <geo decls="#WGS">15,1667 48,3833</geo>
+                        </location>
+                        <idno type="getty">1025831.0</idno>
                     </place>
                     <place xml:id="neutra">
                         <placeName type="pref">Neutra</placeName>
+                        <location>
+                            <geo decls="#WGS">18,0667 48,3167</geo>
+                        </location>
+                        <idno type="getty">7011715.0</idno>
                     </place>
                     <place xml:id="marienschein">
                         <placeName type="pref">Marienschein</placeName>
@@ -1693,6 +2484,10 @@
                     <place xml:id="laibach">
                         <placeName type="pref">Laibach</placeName>
                         <placeName type="alt">Laibach</placeName>
+                        <location>
+                            <geo decls="#WGS">14,5 46,0667</geo>
+                        </location>
+                        <idno type="getty">7012986.0</idno>
                     </place>
                     <place xml:id="castagnavizza-bei-görz">
                         <placeName type="pref">Castagnavizza-bei-görz</placeName>
@@ -1701,48 +2496,100 @@
                         <placeName type="pref">Linz</placeName>
                         <placeName type="alt">Linzer</placeName>
                         <placeName type="alt">Linz</placeName>
+                        <location>
+                            <geo decls="#WGS">7,2833 50,5667</geo>
+                        </location>
+                        <idno type="getty">1040137.0</idno>
                     </place>
                     <place xml:id="capodistria">
                         <placeName type="pref">Capodistria</placeName>
+                        <location>
+                            <geo decls="#WGS">13,7333 45,5167</geo>
+                        </location>
+                        <idno type="getty">7012983.0</idno>
                     </place>
                     <place xml:id="reichenberg">
                         <placeName type="pref">Reichenberg</placeName>
+                        <location>
+                            <geo decls="#WGS">15,0833 50,8</geo>
+                        </location>
+                        <idno type="getty">7011694.0</idno>
                     </place>
                     <place xml:id="jungbunzlau">
                         <placeName type="pref">Jungbunzlau</placeName>
+                        <location>
+                            <geo decls="#WGS">14,9167 50,4333</geo>
+                        </location>
+                        <idno type="getty">7011710.0</idno>
                     </place>
                     <place xml:id="komotau">
                         <placeName type="pref">Komotau</placeName>
+                        <location>
+                            <geo decls="#WGS">13,4333 50,45</geo>
+                        </location>
+                        <idno type="getty">1027132.0</idno>
                     </place>
                     <place xml:id="joachimsthal">
                         <placeName type="pref">Joachimsthal</placeName>
+                        <location>
+                            <geo decls="#WGS">13,7667 52,9667</geo>
+                        </location>
+                        <idno type="getty">1037007.0</idno>
                     </place>
                     <place xml:id="chrudim">
                         <placeName type="pref">Chrudim</placeName>
+                        <location>
+                            <geo decls="#WGS">15,7833 49,95</geo>
+                        </location>
+                        <idno type="getty">1027136.0</idno>
                     </place>
                     <place xml:id="znaim">
                         <placeName type="pref">Znaim</placeName>
+                        <location>
+                            <geo decls="#WGS">16,0667 48,8667</geo>
+                        </location>
+                        <idno type="getty">7011825.0</idno>
                     </place>
                     <place xml:id="korneuburg">
                         <placeName type="pref">Korneuburg</placeName>
+                        <location>
+                            <geo decls="#WGS">16,3333 48,3667</geo>
+                        </location>
+                        <idno type="getty">1025737.0</idno>
                     </place>
                     <place xml:id="wiener-neustadt">
                         <placeName type="pref">Wiener-neustadt</placeName>
                     </place>
                     <place xml:id="bregenz">
                         <placeName type="pref">Bregenz</placeName>
+                        <location>
+                            <geo decls="#WGS">9,7667 47,5167</geo>
+                        </location>
+                        <idno type="getty">7003116.0</idno>
                     </place>
                     <place xml:id="marburg">
                         <placeName type="pref">Marburg</placeName>
+                        <location>
+                            <geo decls="#WGS">8,7667 50,8167</geo>
+                        </location>
+                        <idno type="getty">7012330.0</idno>
                     </place>
                     <place xml:id="cilli">
                         <placeName type="pref">Cilli</placeName>
                     </place>
                     <place xml:id="idria">
                         <placeName type="pref">Idria</placeName>
+                        <location>
+                            <geo decls="#WGS">-120,6667 36,4167</geo>
+                        </location>
+                        <idno type="getty">2011854.0</idno>
                     </place>
                     <place xml:id="veglia">
                         <placeName type="pref">Veglia</placeName>
+                        <location>
+                            <geo decls="#WGS">14,5667 45,0333</geo>
+                        </location>
+                        <idno type="getty">7015516.0</idno>
                     </place>
                     <place xml:id="lusin-piccolo">
                         <placeName type="pref">Lusin-piccolo</placeName>
@@ -1752,21 +2599,45 @@
                     </place>
                     <place xml:id="celje">
                         <placeName type="pref">Celje</placeName>
+                        <location>
+                            <geo decls="#WGS">15,2667 46,25</geo>
+                        </location>
+                        <idno type="getty">1064961.0</idno>
                     </place>
                     <place xml:id="maribor">
                         <placeName type="pref">Maribor</placeName>
+                        <location>
+                            <geo decls="#WGS">15,6667 46,55</geo>
+                        </location>
+                        <idno type="getty">7012987.0</idno>
                     </place>
                     <place xml:id="troppau">
                         <placeName type="pref">Troppau</placeName>
+                        <location>
+                            <geo decls="#WGS">17,9167 49,9667</geo>
+                        </location>
+                        <idno type="getty">7011718.0</idno>
                     </place>
                     <place xml:id="opava">
                         <placeName type="pref">Opava</placeName>
+                        <location>
+                            <geo decls="#WGS">18,25 49,8333</geo>
+                        </location>
+                        <idno type="getty">1128122.0</idno>
                     </place>
                     <place xml:id="gratz">
                         <placeName type="pref">Gratz</placeName>
+                        <location>
+                            <geo decls="#WGS">15,3667 47,0833</geo>
+                        </location>
+                        <idno type="getty">7003097.0</idno>
                     </place>
                     <place xml:id="stuttgart">
                         <placeName type="pref">Stuttgart</placeName>
+                        <location>
+                            <geo decls="#WGS">9,3333 48,6667</geo>
+                        </location>
+                        <idno type="getty">1003262.0</idno>
                     </place>
                     <place xml:id="bad-gastein">
                         <placeName type="pref">Bad-gastein</placeName>
@@ -1774,12 +2645,24 @@
                     </place>
                     <place xml:id="hagenau">
                         <placeName type="pref">Hagenau</placeName>
+                        <location>
+                            <geo decls="#WGS">7,7833 48,8167</geo>
+                        </location>
+                        <idno type="getty">7008077.0</idno>
                     </place>
                     <place xml:id="hrádek">
                         <placeName type="pref">Hrádek</placeName>
+                        <location>
+                            <geo decls="#WGS">16,2833 48,7833</geo>
+                        </location>
+                        <idno type="getty">7011480.0</idno>
                     </place>
                     <place xml:id="steger">
                         <placeName type="pref">Steger</placeName>
+                        <location>
+                            <geo decls="#WGS">-87,6333 41,4667</geo>
+                        </location>
+                        <idno type="getty">2030266.0</idno>
                     </place>
                     <place xml:id="koeniggraetz">
                         <placeName type="pref">Koeniggraetz</placeName>
@@ -1788,15 +2671,31 @@
                     </place>
                     <place xml:id="lofer">
                         <placeName type="pref">Lofer</placeName>
+                        <location>
+                            <geo decls="#WGS">12,7 47,6</geo>
+                        </location>
+                        <idno type="getty">1025797.0</idno>
                     </place>
                     <place xml:id="radstadt">
                         <placeName type="pref">Radstadt</placeName>
+                        <location>
+                            <geo decls="#WGS">13,4667 47,3833</geo>
+                        </location>
+                        <idno type="getty">1025977.0</idno>
                     </place>
                     <place xml:id="teisendorf">
                         <placeName type="pref">Teisendorf</placeName>
+                        <location>
+                            <geo decls="#WGS">12,8333 47,8333</geo>
+                        </location>
+                        <idno type="getty">1041394.0</idno>
                     </place>
                     <place xml:id="landshut">
                         <placeName type="pref">Landshut</placeName>
+                        <location>
+                            <geo decls="#WGS">12,1667 48,5167</geo>
+                        </location>
+                        <idno type="getty">7004414.0</idno>
                     </place>
                     <place xml:id="eichstaett">
                         <placeName type="pref">Eichstaett</placeName>
@@ -1804,9 +2703,17 @@
                     </place>
                     <place xml:id="gotha">
                         <placeName type="pref">Gotha</placeName>
+                        <location>
+                            <geo decls="#WGS">10,7167 50,95</geo>
+                        </location>
+                        <idno type="getty">7005938.0</idno>
                     </place>
                     <place xml:id="wartenberg">
                         <placeName type="pref">Wartenberg</placeName>
+                        <location>
+                            <geo decls="#WGS">13,5167 52,5667</geo>
+                        </location>
+                        <idno type="getty">1005877.0</idno>
                     </place>
                     <place xml:id="varazdin">
                         <placeName type="pref">Varazdin</placeName>
@@ -1817,16 +2724,28 @@
                     </place>
                     <place xml:id="ostende">
                         <placeName type="pref">Ostende</placeName>
+                        <location>
+                            <geo decls="#WGS">2,9167 51,2167</geo>
+                        </location>
+                        <idno type="getty">7007967.0</idno>
                     </place>
                     <place xml:id="stanislawow">
                         <placeName type="pref">Stanislawow</placeName>
                     </place>
                     <place xml:id="suczawa">
                         <placeName type="pref">Suczawa</placeName>
+                        <location>
+                            <geo decls="#WGS">26,3 47,6167</geo>
+                        </location>
+                        <idno type="getty">7009125.0</idno>
                     </place>
                     <place xml:id="asch">
                         <placeName type="pref">Asch</placeName>
                         <placeName type="alt">Ascher</placeName>
+                        <location>
+                            <geo decls="#WGS">10,8333 47,95</geo>
+                        </location>
+                        <idno type="getty">1038241.0</idno>
                     </place>
                     <place xml:id="blasendorf-blaj">
                         <placeName type="pref">Blasendorf-blaj</placeName>
@@ -1839,19 +2758,35 @@
                     </place>
                     <place xml:id="karlsburg">
                         <placeName type="pref">Karlsburg</placeName>
+                        <location>
+                            <geo decls="#WGS">23,55 46,0667</geo>
+                        </location>
+                        <idno type="getty">7004080.0</idno>
                     </place>
                     <place xml:id="retteg">
                         <placeName type="pref">Retteg</placeName>
                     </place>
                     <place xml:id="debrecen">
                         <placeName type="pref">Debrecen</placeName>
+                        <location>
+                            <geo decls="#WGS">21,6167 47,5</geo>
+                        </location>
+                        <idno type="getty">7010469.0</idno>
                     </place>
                     <place xml:id="zilah">
                         <placeName type="pref">Zilah</placeName>
+                        <location>
+                            <geo decls="#WGS">23,05 47,1833</geo>
+                        </location>
+                        <idno type="getty">1050342.0</idno>
                     </place>
                     <place xml:id="oesterreich">
                         <placeName type="pref">Oesterreich</placeName>
                         <placeName type="alt">Österreichs</placeName>
+                        <location>
+                            <geo decls="#WGS">13,3333 47,3333</geo>
+                        </location>
+                        <idno type="getty">1000062.0</idno>
                     </place>
                     <place xml:id="roms">
                         <placeName type="pref">Roms</placeName>
@@ -1861,18 +2796,30 @@
                     </place>
                     <place xml:id="dees">
                         <placeName type="pref">Dees</placeName>
+                        <location>
+                            <geo decls="#WGS">-88,3333 30,55</geo>
+                        </location>
+                        <idno type="getty">2282835.0</idno>
                     </place>
                     <place xml:id="utscha">
                         <placeName type="pref">Utscha</placeName>
                     </place>
                     <place xml:id="bamberg">
                         <placeName type="pref">Bamberg</placeName>
+                        <location>
+                            <geo decls="#WGS">10,9 49,9</geo>
+                        </location>
+                        <idno type="getty">7004325.0</idno>
                     </place>
                     <place xml:id="osmolice">
                         <placeName type="pref">Osmolice</placeName>
                     </place>
                     <place xml:id="lublin">
                         <placeName type="pref">Lublin</placeName>
+                        <location>
+                            <geo decls="#WGS">22,5167 51,3</geo>
+                        </location>
+                        <idno type="getty">7007732.0</idno>
                     </place>
                     <place xml:id="sonneberg-bei-coburg">
                         <placeName type="pref">Sonneberg-bei-coburg</placeName>
@@ -1882,6 +2829,10 @@
                     </place>
                     <place xml:id="baja">
                         <placeName type="pref">Baja</placeName>
+                        <location>
+                            <geo decls="#WGS">18,9667 46,1833</geo>
+                        </location>
+                        <idno type="getty">7010467.0</idno>
                     </place>
                     <place xml:id="theresiopel">
                         <placeName type="pref">Theresiopel</placeName>
@@ -1892,6 +2843,10 @@
                     <place xml:id="peterwardein">
                         <placeName type="pref">Peterwardein</placeName>
                         <placeName type="alt">Peterwardeiner</placeName>
+                        <location>
+                            <geo decls="#WGS">21,4167 45,25</geo>
+                        </location>
+                        <idno type="getty">7015646.0</idno>
                     </place>
                     <place xml:id="temescher-banat">
                         <placeName type="pref">Temescher-banat</placeName>
@@ -1903,12 +2858,24 @@
                     <place xml:id="weisskirchen">
                         <placeName type="pref">Weisskirchen</placeName>
                         <placeName type="alt">Weißkirchen</placeName>
+                        <location>
+                            <geo decls="#WGS">6,8167 49,5667</geo>
+                        </location>
+                        <idno type="getty">6006458.0</idno>
                     </place>
                     <place xml:id="rastatt">
                         <placeName type="pref">Rastatt</placeName>
+                        <location>
+                            <geo decls="#WGS">8,2 48,85</geo>
+                        </location>
+                        <idno type="getty">7012661.0</idno>
                     </place>
                     <place xml:id="erlangen">
                         <placeName type="pref">Erlangen</placeName>
+                        <location>
+                            <geo decls="#WGS">11,0333 49,6</geo>
+                        </location>
+                        <idno type="getty">7004332.0</idno>
                     </place>
                     <place xml:id="jicin">
                         <placeName type="pref">Jicin</placeName>
@@ -1920,6 +2887,10 @@
                     <place xml:id="luzern">
                         <placeName type="pref">Luzern</placeName>
                         <placeName type="alt">Lucern</placeName>
+                        <location>
+                            <geo decls="#WGS">8,2833 47,05</geo>
+                        </location>
+                        <idno type="getty">7007280.0</idno>
                     </place>
                     <place xml:id="uhřínově">
                         <placeName type="pref">Uhřínově</placeName>
@@ -1934,6 +2905,10 @@
                         <placeName type="pref">Tyrnau</placeName>
                         <placeName type="alt">Tirnau</placeName>
                         <placeName type="alt">Tyrnauer</placeName>
+                        <location>
+                            <geo decls="#WGS">17,5833 48,3833</geo>
+                        </location>
+                        <idno type="getty">7011810.0</idno>
                     </place>
                     <place xml:id="verebely">
                         <placeName type="pref">Verebely</placeName>
@@ -1947,6 +2922,10 @@
                     </place>
                     <place xml:id="zagreb">
                         <placeName type="pref">Zagreb</placeName>
+                        <location>
+                            <geo decls="#WGS">15,9667 45,8</geo>
+                        </location>
+                        <idno type="getty">7015558.0</idno>
                     </place>
                     <place xml:id="possegg">
                         <placeName type="pref">Possegg</placeName>
@@ -1958,37 +2937,73 @@
                     <place xml:id="hannover">
                         <placeName type="pref">Hannover</placeName>
                         <placeName type="alt">Hanoversche</placeName>
+                        <location>
+                            <geo decls="#WGS">9,7333 52,4</geo>
+                        </location>
+                        <idno type="getty">7013260.0</idno>
                     </place>
                     <place xml:id="weimar">
                         <placeName type="pref">Weimar</placeName>
                         <placeName type="alt">Weimar</placeName>
+                        <location>
+                            <geo decls="#WGS">11,3167 50,9833</geo>
+                        </location>
+                        <idno type="getty">7012886.0</idno>
                     </place>
                     <place xml:id="eisenstadt">
                         <placeName type="pref">Eisenstadt</placeName>
+                        <location>
+                            <geo decls="#WGS">16,5333 47,8333</geo>
+                        </location>
+                        <idno type="getty">7003056.0</idno>
                     </place>
                     <place xml:id="szilágysomlyó">
                         <placeName type="pref">Szilágysomlyó</placeName>
                     </place>
                     <place xml:id="fulda">
                         <placeName type="pref">Fulda</placeName>
+                        <location>
+                            <geo decls="#WGS">nan nan</geo>
+                        </location>
+                        <idno type="getty">1124040.0</idno>
                     </place>
                     <place xml:id="dreis">
                         <placeName type="pref">Dreis</placeName>
                     </place>
                     <place xml:id="hanau">
                         <placeName type="pref">Hanau</placeName>
+                        <location>
+                            <geo decls="#WGS">8,9333 50,1333</geo>
+                        </location>
+                        <idno type="getty">7005295.0</idno>
                     </place>
                     <place xml:id="hamburg">
                         <placeName type="pref">Hamburg</placeName>
+                        <location>
+                            <geo decls="#WGS">10 53,5833</geo>
+                        </location>
+                        <idno type="getty">7003673.0</idno>
                     </place>
                     <place xml:id="coquimbo">
                         <placeName type="pref">Coquimbo</placeName>
+                        <location>
+                            <geo decls="#WGS">-71,4167 -29,95</geo>
+                        </location>
+                        <idno type="getty">1023430.0</idno>
                     </place>
                     <place xml:id="moskau">
                         <placeName type="pref">Moskau</placeName>
+                        <location>
+                            <geo decls="#WGS">37,7 55,75</geo>
+                        </location>
+                        <idno type="getty">7012974.0</idno>
                     </place>
                     <place xml:id="warschau">
                         <placeName type="pref">Warschau</placeName>
+                        <location>
+                            <geo decls="#WGS">21 52,25</geo>
+                        </location>
+                        <idno type="getty">7007833.0</idno>
                     </place>
                     <place xml:id="wierzenica">
                         <placeName type="pref">Wierzenica</placeName>
@@ -1997,6 +3012,10 @@
                         <placeName type="pref">Posen</placeName>
                         <placeName type="alt">Posnania</placeName>
                         <placeName type="alt">Posen’schen</placeName>
+                        <location>
+                            <geo decls="#WGS">16,8833 52,4167</geo>
+                        </location>
+                        <idno type="getty">7007756.0</idno>
                     </place>
                     <place xml:id="kolocsa">
                         <placeName type="pref">Kolocsa</placeName>
@@ -2006,26 +3025,50 @@
                     </place>
                     <place xml:id="washington">
                         <placeName type="pref">Washington</placeName>
+                        <location>
+                            <geo decls="#WGS">-1,5167 54,9</geo>
+                        </location>
+                        <idno type="getty">1031011.0</idno>
                     </place>
                     <place xml:id="london">
                         <placeName type="pref">London</placeName>
                         <placeName type="alt">London</placeName>
+                        <location>
+                            <geo decls="#WGS">-0,1667 51,5</geo>
+                        </location>
+                        <idno type="getty">7011781.0</idno>
                     </place>
                     <place xml:id="nikolsburg">
                         <placeName type="pref">Nikolsburg</placeName>
                         <placeName type="alt">Nikolsburger</placeName>
+                        <location>
+                            <geo decls="#WGS">16,6333 48,8</geo>
+                        </location>
+                        <idno type="getty">7011708.0</idno>
                     </place>
                     <place xml:id="liebenau">
                         <placeName type="pref">Liebenau</placeName>
+                        <location>
+                            <geo decls="#WGS">9,1 52,6167</geo>
+                        </location>
+                        <idno type="getty">7005473.0</idno>
                     </place>
                     <place xml:id="tabor">
                         <placeName type="pref">Tabor</placeName>
+                        <location>
+                            <geo decls="#WGS">-81,3667 40,5167</geo>
+                        </location>
+                        <idno type="getty">2527472.0</idno>
                     </place>
                     <place xml:id="wodnian">
                         <placeName type="pref">Wodnian</placeName>
                     </place>
                     <place xml:id="pisek">
                         <placeName type="pref">Pisek</placeName>
+                        <location>
+                            <geo decls="#WGS">-96,5667 29,9167</geo>
+                        </location>
+                        <idno type="getty">2586050.0</idno>
                     </place>
                     <place xml:id="přibram">
                         <placeName type="pref">Přibram</placeName>
@@ -2035,48 +3078,108 @@
                     </place>
                     <place xml:id="steinschönau">
                         <placeName type="pref">Steinschönau</placeName>
+                        <location>
+                            <geo decls="#WGS">14,4833 50,7667</geo>
+                        </location>
+                        <idno type="getty">7011510.0</idno>
                     </place>
                     <place xml:id="vyšehrad">
                         <placeName type="pref">Vyšehrad</placeName>
+                        <location>
+                            <geo decls="#WGS">14,45 50,0167</geo>
+                        </location>
+                        <idno type="getty">1005858.0</idno>
                     </place>
                     <place xml:id="udine">
                         <placeName type="pref">Udine</placeName>
+                        <location>
+                            <geo decls="#WGS">13 46,1667</geo>
+                        </location>
+                        <idno type="getty">1003506.0</idno>
                     </place>
                     <place xml:id="bergamo">
                         <placeName type="pref">Bergamo</placeName>
+                        <location>
+                            <geo decls="#WGS">9,6667 45,7</geo>
+                        </location>
+                        <idno type="getty">7005025.0</idno>
                     </place>
                     <place xml:id="como">
                         <placeName type="pref">Como</placeName>
+                        <location>
+                            <geo decls="#WGS">9,0833 45,8</geo>
+                        </location>
+                        <idno type="getty">7005851.0</idno>
                     </place>
                     <place xml:id="crema">
                         <placeName type="pref">Crema</placeName>
+                        <location>
+                            <geo decls="#WGS">9,6833 45,3667</geo>
+                        </location>
+                        <idno type="getty">7005874.0</idno>
                     </place>
                     <place xml:id="cremona">
                         <placeName type="pref">Cremona</placeName>
+                        <location>
+                            <geo decls="#WGS">10,0167 45,1333</geo>
+                        </location>
+                        <idno type="getty">7005868.0</idno>
                     </place>
                     <place xml:id="lodi">
                         <placeName type="pref">Lodi</placeName>
+                        <location>
+                            <geo decls="#WGS">9,5 45,3167</geo>
+                        </location>
+                        <idno type="getty">7006011.0</idno>
                     </place>
                     <place xml:id="adria">
                         <placeName type="pref">Adria</placeName>
+                        <location>
+                            <geo decls="#WGS">16 43</geo>
+                        </location>
+                        <idno type="getty">7016532.0</idno>
                     </place>
                     <place xml:id="ceneda">
                         <placeName type="pref">Ceneda</placeName>
+                        <location>
+                            <geo decls="#WGS">12,3 45,9833</geo>
+                        </location>
+                        <idno type="getty">7003315.0</idno>
                     </place>
                     <place xml:id="chioggia">
                         <placeName type="pref">Chioggia</placeName>
+                        <location>
+                            <geo decls="#WGS">12,2833 45,2167</geo>
+                        </location>
+                        <idno type="getty">7003037.0</idno>
                     </place>
                     <place xml:id="vicenza">
                         <placeName type="pref">Vicenza</placeName>
+                        <location>
+                            <geo decls="#WGS">11,45 45,6667</geo>
+                        </location>
+                        <idno type="getty">7003008.0</idno>
                     </place>
                     <place xml:id="belluno">
                         <placeName type="pref">Belluno</placeName>
+                        <location>
+                            <geo decls="#WGS">12,2167 46,1333</geo>
+                        </location>
+                        <idno type="getty">7003325.0</idno>
                     </place>
                     <place xml:id="feltre">
                         <placeName type="pref">Feltre</placeName>
+                        <location>
+                            <geo decls="#WGS">11,9 46,0167</geo>
+                        </location>
+                        <idno type="getty">7003331.0</idno>
                     </place>
                     <place xml:id="concordia">
                         <placeName type="pref">Concordia</placeName>
+                        <location>
+                            <geo decls="#WGS">-89,5667 35,3667</geo>
+                        </location>
+                        <idno type="getty">2098076.0</idno>
                     </place>
                     <place xml:id="pompéi">
                         <placeName type="pref">Pompéi</placeName>
@@ -2084,21 +3187,41 @@
                     <place xml:id="parma">
                         <placeName type="pref">Parma</placeName>
                         <placeName type="alt">Parme</placeName>
+                        <location>
+                            <geo decls="#WGS">10,0833 44,7</geo>
+                        </location>
+                        <idno type="getty">7003131.0</idno>
                     </place>
                     <place xml:id="portici">
                         <placeName type="pref">Portici</placeName>
+                        <location>
+                            <geo decls="#WGS">14,3333 40,8167</geo>
+                        </location>
+                        <idno type="getty">7006841.0</idno>
                     </place>
                     <place xml:id="st-petersburg">
                         <placeName type="pref">St-petersburg</placeName>
                     </place>
                     <place xml:id="turin">
                         <placeName type="pref">Turin</placeName>
+                        <location>
+                            <geo decls="#WGS">7,6667 45,0667</geo>
+                        </location>
+                        <idno type="getty">7005688.0</idno>
                     </place>
                     <place xml:id="madrid">
                         <placeName type="pref">Madrid</placeName>
+                        <location>
+                            <geo decls="#WGS">-3,6833 40,4</geo>
+                        </location>
+                        <idno type="getty">7010420.0</idno>
                     </place>
                     <place xml:id="rome">
                         <placeName type="pref">Rome</placeName>
+                        <location>
+                            <geo decls="#WGS">12,5 41,8833</geo>
+                        </location>
+                        <idno type="getty">7000874.0</idno>
                     </place>
                     <place xml:id="nagykoeroes">
                         <placeName type="pref">Nagykoeroes</placeName>
@@ -2108,18 +3231,34 @@
                     </place>
                     <place xml:id="sárospatak">
                         <placeName type="pref">Sárospatak</placeName>
+                        <location>
+                            <geo decls="#WGS">21,5 48,3167</geo>
+                        </location>
+                        <idno type="getty">7010509.0</idno>
                     </place>
                     <place xml:id="kecskemét">
                         <placeName type="pref">Kecskemét</placeName>
+                        <location>
+                            <geo decls="#WGS">19,7167 46,9333</geo>
+                        </location>
+                        <idno type="getty">7010482.0</idno>
                     </place>
                     <place xml:id="kisujszállás">
                         <placeName type="pref">Kisujszállás</placeName>
                     </place>
                     <place xml:id="karcag">
                         <placeName type="pref">Karcag</placeName>
+                        <location>
+                            <geo decls="#WGS">20,8833 47,3167</geo>
+                        </location>
+                        <idno type="getty">1042367.0</idno>
                     </place>
                     <place xml:id="aszód">
                         <placeName type="pref">Aszód</placeName>
+                        <location>
+                            <geo decls="#WGS">19,45 47,6667</geo>
+                        </location>
+                        <idno type="getty">1042276.0</idno>
                     </place>
                     <place xml:id="kecskemet">
                         <placeName type="pref">Kecskemet</placeName>
@@ -2130,6 +3269,10 @@
                     </place>
                     <place xml:id="halas">
                         <placeName type="pref">Halas</placeName>
+                        <location>
+                            <geo decls="#WGS">19,4833 46,4333</geo>
+                        </location>
+                        <idno type="getty">7010485.0</idno>
                     </place>
                     <place xml:id="gyoenk">
                         <placeName type="pref">Gyoenk</placeName>
@@ -2151,9 +3294,17 @@
                     </place>
                     <place xml:id="mittenwald">
                         <placeName type="pref">Mittenwald</placeName>
+                        <location>
+                            <geo decls="#WGS">11,2833 47,45</geo>
+                        </location>
+                        <idno type="getty">7004702.0</idno>
                     </place>
                     <place xml:id="hildesheim">
                         <placeName type="pref">Hildesheim</placeName>
+                        <location>
+                            <geo decls="#WGS">9,9667 52,15</geo>
+                        </location>
+                        <idno type="getty">7005248.0</idno>
                     </place>
                     <place xml:id="dueren">
                         <placeName type="pref">Dueren</placeName>
@@ -2207,6 +3358,10 @@
                     <place xml:id="leutschau">
                         <placeName type="pref">Leutschau</placeName>
                         <placeName type="alt">Leutschauer</placeName>
+                        <location>
+                            <geo decls="#WGS">20,5833 49,0167</geo>
+                        </location>
+                        <idno type="getty">7011691.0</idno>
                     </place>
                     <place xml:id="bartfeld">
                         <placeName type="pref">Bartfeld</placeName>
@@ -2225,6 +3380,10 @@
                     </place>
                     <place xml:id="tiba">
                         <placeName type="pref">Tiba</placeName>
+                        <location>
+                            <geo decls="#WGS">140,1167 35,6333</geo>
+                        </location>
+                        <idno type="getty">7004243.0</idno>
                     </place>
                     <place xml:id="homonna">
                         <placeName type="pref">Homonna</placeName>
@@ -2253,6 +3412,10 @@
                     </place>
                     <place xml:id="torna">
                         <placeName type="pref">Torna</placeName>
+                        <location>
+                            <geo decls="#WGS">44,2 68,0333</geo>
+                        </location>
+                        <idno type="getty">1060405.0</idno>
                     </place>
                     <place xml:id="szikszo">
                         <placeName type="pref">Szikszo</placeName>
@@ -2280,6 +3443,10 @@
                     </place>
                     <place xml:id="tokay">
                         <placeName type="pref">Tokay</placeName>
+                        <location>
+                            <geo decls="#WGS">-119,35 36,55</geo>
+                        </location>
+                        <idno type="getty">2723822.0</idno>
                     </place>
                     <place xml:id="kiraly-helmecz">
                         <placeName type="pref">Kiraly-helmecz</placeName>
@@ -2296,6 +3463,10 @@
                     </place>
                     <place xml:id="rosenau">
                         <placeName type="pref">Rosenau</placeName>
+                        <location>
+                            <geo decls="#WGS">nan nan</geo>
+                        </location>
+                        <idno type="getty">4009429.0</idno>
                     </place>
                     <place xml:id="marmaros-szigeth">
                         <placeName type="pref">Marmaros-szigeth</placeName>
@@ -2306,9 +3477,17 @@
                     </place>
                     <place xml:id="rouen">
                         <placeName type="pref">Rouen</placeName>
+                        <location>
+                            <geo decls="#WGS">1,0833 49,4333</geo>
+                        </location>
+                        <idno type="getty">7008929.0</idno>
                     </place>
                     <place xml:id="freiburg">
                         <placeName type="pref">Freiburg</placeName>
+                        <location>
+                            <geo decls="#WGS">7,85 48</geo>
+                        </location>
+                        <idno type="getty">1003143.0</idno>
                     </place>
                     <place xml:id="holleschau">
                         <placeName type="pref">Holleschau</placeName>
@@ -2328,27 +3507,55 @@
                     </place>
                     <place xml:id="cattaro">
                         <placeName type="pref">Cattaro</placeName>
+                        <location>
+                            <geo decls="#WGS">18,7667 42,45</geo>
+                        </location>
+                        <idno type="getty">7015404.0</idno>
                     </place>
                     <place xml:id="sebenico">
                         <placeName type="pref">Sebenico</placeName>
+                        <location>
+                            <geo decls="#WGS">15,9167 43,75</geo>
+                        </location>
+                        <idno type="getty">7015447.0</idno>
                     </place>
                     <place xml:id="trau">
                         <placeName type="pref">Trau</placeName>
+                        <location>
+                            <geo decls="#WGS">16,25 43,5333</geo>
+                        </location>
+                        <idno type="getty">7015545.0</idno>
                     </place>
                     <place xml:id="makarska">
                         <placeName type="pref">Makarska</placeName>
+                        <location>
+                            <geo decls="#WGS">17,0167 43,3167</geo>
+                        </location>
+                        <idno type="getty">7015543.0</idno>
                     </place>
                     <place xml:id="lesina">
                         <placeName type="pref">Lesina</placeName>
+                        <location>
+                            <geo decls="#WGS">15,3667 41,8667</geo>
+                        </location>
+                        <idno type="getty">1045071.0</idno>
                     </place>
                     <place xml:id="eurzola">
                         <placeName type="pref">Eurzola</placeName>
                     </place>
                     <place xml:id="goito">
                         <placeName type="pref">Goito</placeName>
+                        <location>
+                            <geo decls="#WGS">10,6667 45,2667</geo>
+                        </location>
+                        <idno type="getty">7005896.0</idno>
                     </place>
                     <place xml:id="marseille">
                         <placeName type="pref">Marseille</placeName>
+                        <location>
+                            <geo decls="#WGS">5,3667 43,3</geo>
+                        </location>
+                        <idno type="getty">7008781.0</idno>
                     </place>
                     <place xml:id="kaiserstadt">
                         <placeName type="pref">Kaiserstadt</placeName>
@@ -2358,9 +3565,17 @@
                         <placeName type="alt">Aigen bei
                         Salzburg</placeName>
                         <placeName type="alt">Wien</placeName>
+                        <location>
+                            <geo decls="#WGS">13,9833 48,65</geo>
+                        </location>
+                        <idno type="getty">1025385.0</idno>
                     </place>
                     <place xml:id="aachen">
                         <placeName type="pref">Aachen</placeName>
+                        <location>
+                            <geo decls="#WGS">6,1 50,7667</geo>
+                        </location>
+                        <idno type="getty">7004799.0</idno>
                     </place>
                     <place xml:id="gumpendorf">
                         <placeName type="pref">Gumpendorf</placeName>
@@ -2368,6 +3583,10 @@
                     </place>
                     <place xml:id="königgrätz">
                         <placeName type="pref">Königgrätz</placeName>
+                        <location>
+                            <geo decls="#WGS">15,8333 50,2167</geo>
+                        </location>
+                        <idno type="getty">7012051.0</idno>
                     </place>
                     <place xml:id="nove-mesto-nad-metuji">
                         <placeName type="pref">Nove-mesto-nad-metuji</placeName>
@@ -2381,15 +3600,27 @@
                     </place>
                     <place xml:id="jajce">
                         <placeName type="pref">Jajce</placeName>
+                        <location>
+                            <geo decls="#WGS">17,2667 44,3333</geo>
+                        </location>
+                        <idno type="getty">7015541.0</idno>
                     </place>
                     <place xml:id="banja-luka">
                         <placeName type="pref">Banja-luka</placeName>
                     </place>
                     <place xml:id="tešanj">
                         <placeName type="pref">Tešanj</placeName>
+                        <location>
+                            <geo decls="#WGS">17,9833 44,6167</geo>
+                        </location>
+                        <idno type="getty">1065281.0</idno>
                     </place>
                     <place xml:id="torgau">
                         <placeName type="pref">Torgau</placeName>
+                        <location>
+                            <geo decls="#WGS">13 51,5667</geo>
+                        </location>
+                        <idno type="getty">7012881.0</idno>
                     </place>
                     <place xml:id="kremenez">
                         <placeName type="pref">Kremenez</placeName>
@@ -2397,6 +3628,10 @@
                     </place>
                     <place xml:id="stettin">
                         <placeName type="pref">Stettin</placeName>
+                        <location>
+                            <geo decls="#WGS">14,5333 53,4167</geo>
+                        </location>
+                        <idno type="getty">7007809.0</idno>
                     </place>
                     <place xml:id="veszprem">
                         <placeName type="pref">Veszprem</placeName>
@@ -2408,9 +3643,17 @@
                     </place>
                     <place xml:id="semmering">
                         <placeName type="pref">Semmering</placeName>
+                        <location>
+                            <geo decls="#WGS">15,8333 47,6333</geo>
+                        </location>
+                        <idno type="getty">7003185.0</idno>
                     </place>
                     <place xml:id="pettau">
                         <placeName type="pref">Pettau</placeName>
+                        <location>
+                            <geo decls="#WGS">15,85 46,45</geo>
+                        </location>
+                        <idno type="getty">7012989.0</idno>
                     </place>
                     <place xml:id="friedau">
                         <placeName type="pref">Friedau</placeName>
@@ -2426,9 +3669,17 @@
                     </place>
                     <place xml:id="riegersburg">
                         <placeName type="pref">Riegersburg</placeName>
+                        <location>
+                            <geo decls="#WGS">15,95 47,0167</geo>
+                        </location>
+                        <idno type="getty">7003102.0</idno>
                     </place>
                     <place xml:id="eisbach">
                         <placeName type="pref">Eisbach</placeName>
+                        <location>
+                            <geo decls="#WGS">nan nan</geo>
+                        </location>
+                        <idno type="getty">1123674.0</idno>
                     </place>
                     <place xml:id="o-o-wien">
                         <placeName type="pref">O-o-wien</placeName>
@@ -2438,6 +3689,10 @@
                     </place>
                     <place xml:id="schellenberg">
                         <placeName type="pref">Schellenberg</placeName>
+                        <location>
+                            <geo decls="#WGS">9,542 47,233</geo>
+                        </location>
+                        <idno type="getty">7032085.0</idno>
                     </place>
                     <place xml:id="drožditz">
                         <placeName type="pref">Drožditz</placeName>
@@ -2495,22 +3750,46 @@
                     </place>
                     <place xml:id="passau">
                         <placeName type="pref">Passau</placeName>
+                        <location>
+                            <geo decls="#WGS">13,4667 48,5833</geo>
+                        </location>
+                        <idno type="getty">7004407.0</idno>
                     </place>
                     <place xml:id="mondsee">
                         <placeName type="pref">Mondsee</placeName>
+                        <location>
+                            <geo decls="#WGS">13,35 47,8667</geo>
+                        </location>
+                        <idno type="getty">7003277.0</idno>
                     </place>
                     <place xml:id="lambach">
                         <placeName type="pref">Lambach</placeName>
                         <placeName type="alt">Lambacher</placeName>
+                        <location>
+                            <geo decls="#WGS">13,8667 48,1</geo>
+                        </location>
+                        <idno type="getty">7003278.0</idno>
                     </place>
                     <place xml:id="metten">
                         <placeName type="pref">Metten</placeName>
+                        <location>
+                            <geo decls="#WGS">12,9333 48,8667</geo>
+                        </location>
+                        <idno type="getty">7004403.0</idno>
                     </place>
                     <place xml:id="neusatz">
                         <placeName type="pref">Neusatz</placeName>
+                        <location>
+                            <geo decls="#WGS">19,85 45,25</geo>
+                        </location>
+                        <idno type="getty">7015328.0</idno>
                     </place>
                     <place xml:id="esseg">
                         <placeName type="pref">Esseg</placeName>
+                        <location>
+                            <geo decls="#WGS">18,6833 45,55</geo>
+                        </location>
+                        <idno type="getty">7015337.0</idno>
                     </place>
                     <place xml:id="akademie-der-bildenden-kuenste">
                         <placeName type="pref">Akademie-der-bildenden-kuenste</placeName>
@@ -2518,13 +3797,25 @@
                     </place>
                     <place xml:id="sydney">
                         <placeName type="pref">Sydney</placeName>
+                        <location>
+                            <geo decls="#WGS">-112,5667 33,3667</geo>
+                        </location>
+                        <idno type="getty">2006594.0</idno>
                     </place>
                     <place xml:id="trincomalee">
                         <placeName type="pref">Trincomalee</placeName>
                         <placeName type="alt">Trincomalli</placeName>
+                        <location>
+                            <geo decls="#WGS">81,2167 8,5667</geo>
+                        </location>
+                        <idno type="getty">7002519.0</idno>
                     </place>
                     <place xml:id="batticaloa">
                         <placeName type="pref">Batticaloa</placeName>
+                        <location>
+                            <geo decls="#WGS">81,7 7,7167</geo>
+                        </location>
+                        <idno type="getty">1066450.0</idno>
                     </place>
                     <place xml:id="newera-ellia">
                         <placeName type="pref">Newera-ellia</placeName>
@@ -2541,88 +3832,172 @@
                     </place>
                     <place xml:id="melbourne">
                         <placeName type="pref">Melbourne</placeName>
+                        <location>
+                            <geo decls="#WGS">-1,4167 52,8167</geo>
+                        </location>
+                        <idno type="getty">7010685.0</idno>
                     </place>
                     <place xml:id="port-jackson">
                         <placeName type="pref">Port-jackson</placeName>
                     </place>
                     <place xml:id="valparaiso">
                         <placeName type="pref">Valparaiso</placeName>
+                        <location>
+                            <geo decls="#WGS">-101,2 37,3167</geo>
+                        </location>
+                        <idno type="getty">2036831.0</idno>
                     </place>
                     <place xml:id="callao">
                         <placeName type="pref">Callao</placeName>
+                        <location>
+                            <geo decls="#WGS">-92,6167 39,75</geo>
+                        </location>
+                        <idno type="getty">2058231.0</idno>
                     </place>
                     <place xml:id="guayaquil">
                         <placeName type="pref">Guayaquil</placeName>
                         <placeName type="alt">Guajaquil</placeName>
+                        <location>
+                            <geo decls="#WGS">-79,9 -2,2167</geo>
+                        </location>
+                        <idno type="getty">7004715.0</idno>
                     </place>
                     <place xml:id="quito">
                         <placeName type="pref">Quito</placeName>
+                        <location>
+                            <geo decls="#WGS">-77,5 -2</geo>
+                        </location>
+                        <idno type="getty">1000051.0</idno>
                     </place>
                     <place xml:id="cilly">
                         <placeName type="pref">Cilly</placeName>
                     </place>
                     <place xml:id="brüssel">
                         <placeName type="pref">Brüssel</placeName>
+                        <location>
+                            <geo decls="#WGS">4,3333 50,8333</geo>
+                        </location>
+                        <idno type="getty">7007868.0</idno>
                     </place>
                     <place xml:id="byzanz">
                         <placeName type="pref">Byzanz</placeName>
                     </place>
                     <place xml:id="bedburg">
                         <placeName type="pref">Bedburg</placeName>
+                        <location>
+                            <geo decls="#WGS">8,3333 51</geo>
+                        </location>
+                        <idno type="getty">1136878.0</idno>
                     </place>
                     <place xml:id="karlsbad">
                         <placeName type="pref">Karlsbad</placeName>
                         <placeName type="alt">Carlsbad</placeName>
                         <placeName type="alt">Karlsbad</placeName>
+                        <location>
+                            <geo decls="#WGS">12,8667 50,2167</geo>
+                        </location>
+                        <idno type="getty">7011521.0</idno>
                     </place>
                     <place xml:id="krems">
                         <placeName type="pref">Krems</placeName>
+                        <location>
+                            <geo decls="#WGS">14,3167 48,2333</geo>
+                        </location>
+                        <idno type="getty">1125746.0</idno>
                     </place>
                     <place xml:id="siena">
                         <placeName type="pref">Siena</placeName>
+                        <location>
+                            <geo decls="#WGS">11,3167 43,3167</geo>
+                        </location>
+                        <idno type="getty">7011179.0</idno>
                     </place>
                     <place xml:id="lucca">
                         <placeName type="pref">Lucca</placeName>
+                        <location>
+                            <geo decls="#WGS">10,2167 43,8333</geo>
+                        </location>
+                        <idno type="getty">7006076.0</idno>
                     </place>
                     <place xml:id="arezzo">
                         <placeName type="pref">Arezzo</placeName>
+                        <location>
+                            <geo decls="#WGS">11,8833 43,4167</geo>
+                        </location>
+                        <idno type="getty">7006072.0</idno>
                     </place>
                     <place xml:id="ferrara">
                         <placeName type="pref">Ferrara</placeName>
+                        <location>
+                            <geo decls="#WGS">11,8333 44,8</geo>
+                        </location>
+                        <idno type="getty">7003128.0</idno>
                     </place>
                     <place xml:id="viterbo">
                         <placeName type="pref">Viterbo</placeName>
+                        <location>
+                            <geo decls="#WGS">12,0833 42,4167</geo>
+                        </location>
+                        <idno type="getty">7003139.0</idno>
                     </place>
                     <place xml:id="civitavecchia">
                         <placeName type="pref">Civitavecchia</placeName>
+                        <location>
+                            <geo decls="#WGS">11,7833 42,0833</geo>
+                        </location>
+                        <idno type="getty">7007035.0</idno>
                     </place>
                     <place xml:id="herculanum">
                         <placeName type="pref">Herculanum</placeName>
                     </place>
                     <place xml:id="ancona">
                         <placeName type="pref">Ancona</placeName>
+                        <location>
+                            <geo decls="#WGS">13,5167 43,6167</geo>
+                        </location>
+                        <idno type="getty">7003980.0</idno>
                     </place>
                     <place xml:id="pornóapáti">
                         <placeName type="pref">Pornóapáti</placeName>
                     </place>
                     <place xml:id="sparta">
                         <placeName type="pref">Sparta</placeName>
+                        <location>
+                            <geo decls="#WGS">22,4167 37,0833</geo>
+                        </location>
+                        <idno type="getty">7011065.0</idno>
                     </place>
                     <place xml:id="athen">
                         <placeName type="pref">Athen</placeName>
+                        <location>
+                            <geo decls="#WGS">23,7333 38</geo>
+                        </location>
+                        <idno type="getty">7001393.0</idno>
                     </place>
                     <place xml:id="tyrus">
                         <placeName type="pref">Tyrus</placeName>
+                        <location>
+                            <geo decls="#WGS">nan nan</geo>
+                        </location>
+                        <idno type="getty">5003214.0</idno>
                     </place>
                     <place xml:id="solin">
                         <placeName type="pref">Solin</placeName>
                         <placeName type="alt">Salona</placeName>
+                        <location>
+                            <geo decls="#WGS">16,5 43,55</geo>
+                        </location>
+                        <idno type="getty">7017320.0</idno>
                     </place>
                     <place xml:id="labor">
                         <placeName type="pref">Labor</placeName>
                     </place>
                     <place xml:id="otranto">
                         <placeName type="pref">Otranto</placeName>
+                        <location>
+                            <geo decls="#WGS">18,5 40,1333</geo>
+                        </location>
+                        <idno type="getty">7004093.0</idno>
                     </place>
                     <place xml:id="san-michele">
                         <placeName type="pref">San-michele</placeName>
@@ -2630,6 +4005,10 @@
                     </place>
                     <place xml:id="pola">
                         <placeName type="pref">Pola</placeName>
+                        <location>
+                            <geo decls="#WGS">-3,7167 50,25</geo>
+                        </location>
+                        <idno type="getty">7025696.0</idno>
                     </place>
                     <place xml:id="sainte-menehould">
                         <placeName type="pref">Sainte-menehould</placeName>
@@ -2655,33 +4034,73 @@
                     </place>
                     <place xml:id="goslar">
                         <placeName type="pref">Goslar</placeName>
+                        <location>
+                            <geo decls="#WGS">10,4167 51,9167</geo>
+                        </location>
+                        <idno type="getty">7005630.0</idno>
                     </place>
                     <place xml:id="vác">
                         <placeName type="pref">Vác</placeName>
+                        <location>
+                            <geo decls="#WGS">19,1333 47,7667</geo>
+                        </location>
+                        <idno type="getty">7010526.0</idno>
                     </place>
                     <place xml:id="eszék">
                         <placeName type="pref">Eszék</placeName>
+                        <location>
+                            <geo decls="#WGS">18,6833 45,55</geo>
+                        </location>
+                        <idno type="getty">7015337.0</idno>
                     </place>
                     <place xml:id="osijek">
                         <placeName type="pref">Osijek</placeName>
+                        <location>
+                            <geo decls="#WGS">18,6833 45,55</geo>
+                        </location>
+                        <idno type="getty">7015337.0</idno>
                     </place>
                     <place xml:id="przemyśl">
                         <placeName type="pref">Przemyśl</placeName>
+                        <location>
+                            <geo decls="#WGS">22,7833 49,7833</geo>
+                        </location>
+                        <idno type="getty">7003385.0</idno>
                     </place>
                     <place xml:id="nymburk">
                         <placeName type="pref">Nymburk</placeName>
+                        <location>
+                            <geo decls="#WGS">15 50,2</geo>
+                        </location>
+                        <idno type="getty">1027432.0</idno>
                     </place>
                     <place xml:id="marienbad">
                         <placeName type="pref">Marienbad</placeName>
+                        <location>
+                            <geo decls="#WGS">12,75 49,8</geo>
+                        </location>
+                        <idno type="getty">1027370.0</idno>
                     </place>
                     <place xml:id="gastein">
                         <placeName type="pref">Gastein</placeName>
+                        <location>
+                            <geo decls="#WGS">13,15 47,1167</geo>
+                        </location>
+                        <idno type="getty">1025441.0</idno>
                     </place>
                     <place xml:id="hietzing">
                         <placeName type="pref">Hietzing</placeName>
+                        <location>
+                            <geo decls="#WGS">16,3 48,1833</geo>
+                        </location>
+                        <idno type="getty">1004652.0</idno>
                     </place>
                     <place xml:id="lungern">
                         <placeName type="pref">Lungern</placeName>
+                        <location>
+                            <geo decls="#WGS">8,1667 46,8</geo>
+                        </location>
+                        <idno type="getty">1064205.0</idno>
                     </place>
                     <place xml:id="buczacz">
                         <placeName type="pref">Buczacz</placeName>
@@ -2702,32 +4121,64 @@
                     </place>
                     <place xml:id="sambor">
                         <placeName type="pref">Sambor</placeName>
+                        <location>
+                            <geo decls="#WGS">23,1667 49,5167</geo>
+                        </location>
+                        <idno type="getty">1059156.0</idno>
                     </place>
                     <place xml:id="galizien">
                         <placeName type="pref">Galizien</placeName>
                         <placeName type="alt">Galicien</placeName>
+                        <location>
+                            <geo decls="#WGS">22 49</geo>
+                        </location>
+                        <idno type="getty">7002787.0</idno>
                     </place>
                     <place xml:id="baden">
                         <placeName type="pref">Baden</placeName>
                         <placeName type="alt">Baden</placeName>
+                        <location>
+                            <geo decls="#WGS">nan nan</geo>
+                        </location>
+                        <idno type="getty">1064172.0</idno>
                     </place>
                     <place xml:id="reichenau">
                         <placeName type="pref">Reichenau</placeName>
+                        <location>
+                            <geo decls="#WGS">14,95 50,4167</geo>
+                        </location>
+                        <idno type="getty">1048937.0</idno>
                     </place>
                     <place xml:id="peruc">
                         <placeName type="pref">Peruc</placeName>
+                        <location>
+                            <geo decls="#WGS">13,9667 50,3333</geo>
+                        </location>
+                        <idno type="getty">1027464.0</idno>
                     </place>
                     <place xml:id="baumgartenberg">
                         <placeName type="pref">Baumgartenberg</placeName>
                     </place>
                     <place xml:id="smečno">
                         <placeName type="pref">Smečno</placeName>
+                        <location>
+                            <geo decls="#WGS">14,05 50,1833</geo>
+                        </location>
+                        <idno type="getty">1027531.0</idno>
                     </place>
                     <place xml:id="interlaken">
                         <placeName type="pref">Interlaken</placeName>
+                        <location>
+                            <geo decls="#WGS">7,8667 46,7</geo>
+                        </location>
+                        <idno type="getty">7007377.0</idno>
                     </place>
                     <place xml:id="thun">
                         <placeName type="pref">Thun</placeName>
+                        <location>
+                            <geo decls="#WGS">7,6333 46,7667</geo>
+                        </location>
+                        <idno type="getty">7007485.0</idno>
                     </place>
                     <place xml:id="gemmi">
                         <placeName type="pref">Gemmi</placeName>
@@ -2738,21 +4189,41 @@
                     </place>
                     <place xml:id="zürich">
                         <placeName type="pref">Zürich</placeName>
+                        <location>
+                            <geo decls="#WGS">8,55 47,3833</geo>
+                        </location>
+                        <idno type="getty">7003765.0</idno>
                     </place>
                     <place xml:id="warasdin">
                         <placeName type="pref">Warasdin</placeName>
+                        <location>
+                            <geo decls="#WGS">16,35 46,3</geo>
+                        </location>
+                        <idno type="getty">1065312.0</idno>
                     </place>
                     <place xml:id="essek">
                         <placeName type="pref">Essek</placeName>
                     </place>
                     <place xml:id="rinteln">
                         <placeName type="pref">Rinteln</placeName>
+                        <location>
+                            <geo decls="#WGS">9,0667 52,1833</geo>
+                        </location>
+                        <idno type="getty">1040922.0</idno>
                     </place>
                     <place xml:id="castelfondo">
                         <placeName type="pref">Castelfondo</placeName>
+                        <location>
+                            <geo decls="#WGS">11,1167 46,45</geo>
+                        </location>
+                        <idno type="getty">1044010.0</idno>
                     </place>
                     <place xml:id="lombardei">
                         <placeName type="pref">Lombardei</placeName>
+                        <location>
+                            <geo decls="#WGS">9,5 45,6667</geo>
+                        </location>
+                        <idno type="getty">7003237.0</idno>
                     </place>
                     <place xml:id="raeckelwitz">
                         <placeName type="pref">Raeckelwitz</placeName>
@@ -2761,6 +4232,10 @@
                     <place xml:id="basel">
                         <placeName type="pref">Basel</placeName>
                         <placeName type="alt">Basler</placeName>
+                        <location>
+                            <geo decls="#WGS">7,6 47,55</geo>
+                        </location>
+                        <idno type="getty">7007269.0</idno>
                     </place>
                     <place xml:id="altranstaedt">
                         <placeName type="pref">Altranstaedt</placeName>
@@ -2777,9 +4252,17 @@
                     </place>
                     <place xml:id="horn">
                         <placeName type="pref">Horn</placeName>
+                        <location>
+                            <geo decls="#WGS">8,95 51,8667</geo>
+                        </location>
+                        <idno type="getty">7005301.0</idno>
                     </place>
                     <place xml:id="wittenberg">
                         <placeName type="pref">Wittenberg</placeName>
+                        <location>
+                            <geo decls="#WGS">12,65 51,8833</geo>
+                        </location>
+                        <idno type="getty">7012349.0</idno>
                     </place>
                     <place xml:id="rakos">
                         <placeName type="pref">Rakos</placeName>
@@ -2792,6 +4275,10 @@
                         <placeName type="pref">Kirchdrauf</placeName>
                         <placeName type="alt">Kirchtrauf</placeName>
                         <placeName type="alt">Kirchdraufer</placeName>
+                        <location>
+                            <geo decls="#WGS">20,7833 49</geo>
+                        </location>
+                        <idno type="getty">4010681.0</idno>
                     </place>
                     <place xml:id="semptau">
                         <placeName type="pref">Semptau</placeName>
@@ -2805,6 +4292,10 @@
                     </place>
                     <place xml:id="rosenberg">
                         <placeName type="pref">Rosenberg</placeName>
+                        <location>
+                            <geo decls="#WGS">18,4333 50,85</geo>
+                        </location>
+                        <idno type="getty">7007750.0</idno>
                     </place>
                     <place xml:id="erdoed">
                         <placeName type="pref">Erdoed</placeName>
@@ -2813,6 +4304,10 @@
                     <place xml:id="torda">
                         <placeName type="pref">Torda</placeName>
                         <placeName type="alt">Tordaer</placeName>
+                        <location>
+                            <geo decls="#WGS">23,8333 46,5833</geo>
+                        </location>
+                        <idno type="getty">7005773.0</idno>
                     </place>
                     <place xml:id="medias">
                         <placeName type="pref">Medias</placeName>
@@ -2823,20 +4318,40 @@
                     </place>
                     <place xml:id="worms">
                         <placeName type="pref">Worms</placeName>
+                        <location>
+                            <geo decls="#WGS">8,35 49,6333</geo>
+                        </location>
+                        <idno type="getty">7005108.0</idno>
                     </place>
                     <place xml:id="konstanz">
                         <placeName type="pref">Konstanz</placeName>
                         <placeName type="alt">Costnizer</placeName>
+                        <location>
+                            <geo decls="#WGS">9,1667 47,6667</geo>
+                        </location>
+                        <idno type="getty">7005174.0</idno>
                     </place>
                     <place xml:id="aschaffenburg">
                         <placeName type="pref">Aschaffenburg</placeName>
                         <placeName type="alt">Aschaffenburger</placeName>
+                        <location>
+                            <geo decls="#WGS">9,15 49,9833</geo>
+                        </location>
+                        <idno type="getty">7004322.0</idno>
                     </place>
                     <place xml:id="bourges">
                         <placeName type="pref">Bourges</placeName>
+                        <location>
+                            <geo decls="#WGS">2,3833 47,0833</geo>
+                        </location>
+                        <idno type="getty">7017415.0</idno>
                     </place>
                     <place xml:id="fontainebleau">
                         <placeName type="pref">Fontainebleau</placeName>
+                        <location>
+                            <geo decls="#WGS">2,7 48,4</geo>
+                        </location>
+                        <idno type="getty">7008005.0</idno>
                     </place>
                     <place xml:id="luebeck">
                         <placeName type="pref">Luebeck</placeName>
@@ -2844,19 +4359,35 @@
                     </place>
                     <place xml:id="bremen">
                         <placeName type="pref">Bremen</placeName>
+                        <location>
+                            <geo decls="#WGS">8,8 53,0833</geo>
+                        </location>
+                        <idno type="getty">7005286.0</idno>
                     </place>
                     <place xml:id="st-gallen">
                         <placeName type="pref">St-gallen</placeName>
                     </place>
                     <place xml:id="aargau">
                         <placeName type="pref">Aargau</placeName>
+                        <location>
+                            <geo decls="#WGS">8,1667 47,5</geo>
+                        </location>
+                        <idno type="getty">7003739.0</idno>
                     </place>
                     <place xml:id="thurgau">
                         <placeName type="pref">Thurgau</placeName>
                         <placeName type="alt">Thürgau</placeName>
+                        <location>
+                            <geo decls="#WGS">9 47,5833</geo>
+                        </location>
+                        <idno type="getty">7003759.0</idno>
                     </place>
                     <place xml:id="laucha">
                         <placeName type="pref">Laucha</placeName>
+                        <location>
+                            <geo decls="#WGS">11,6667 51,2333</geo>
+                        </location>
+                        <idno type="getty">1037171.0</idno>
                     </place>
                     <place xml:id="pressnitz">
                         <placeName type="pref">Pressnitz</placeName>
@@ -2868,19 +4399,39 @@
                     </place>
                     <place xml:id="amsterdam">
                         <placeName type="pref">Amsterdam</placeName>
+                        <location>
+                            <geo decls="#WGS">4,9 52,35</geo>
+                        </location>
+                        <idno type="getty">7006952.0</idno>
                     </place>
                     <place xml:id="haag">
                         <placeName type="pref">Haag</placeName>
+                        <location>
+                            <geo decls="#WGS">14,5667 48,1167</geo>
+                        </location>
+                        <idno type="getty">1025631.0</idno>
                     </place>
                     <place xml:id="kopenhagen">
                         <placeName type="pref">Kopenhagen</placeName>
                         <placeName type="alt">Copenhagen</placeName>
+                        <location>
+                            <geo decls="#WGS">12,5667 55,7167</geo>
+                        </location>
+                        <idno type="getty">7003474.0</idno>
                     </place>
                     <place xml:id="rechnitz">
                         <placeName type="pref">Rechnitz</placeName>
+                        <location>
+                            <geo decls="#WGS">16,4333 47,3167</geo>
+                        </location>
+                        <idno type="getty">1025991.0</idno>
                     </place>
                     <place xml:id="bries">
                         <placeName type="pref">Bries</placeName>
+                        <location>
+                            <geo decls="#WGS">15 50,4</geo>
+                        </location>
+                        <idno type="getty">4001045.0</idno>
                     </place>
                     <place xml:id="debreczin">
                         <placeName type="pref">Debreczin</placeName>
@@ -2956,33 +4507,61 @@
                     </place>
                     <place xml:id="schemnitz">
                         <placeName type="pref">Schemnitz</placeName>
+                        <location>
+                            <geo decls="#WGS">18,8333 48,4833</geo>
+                        </location>
+                        <idno type="getty">7011354.0</idno>
                     </place>
                     <place xml:id="uj-verbász">
                         <placeName type="pref">Uj-verbász</placeName>
                     </place>
                     <place xml:id="pápa">
                         <placeName type="pref">Pápa</placeName>
+                        <location>
+                            <geo decls="#WGS">17,4667 47,3333</geo>
+                        </location>
+                        <idno type="getty">7010504.0</idno>
                     </place>
                     <place xml:id="mukatschewe">
                         <placeName type="pref">Mukatschewe</placeName>
                     </place>
                     <place xml:id="lundenburg">
                         <placeName type="pref">Lundenburg</placeName>
+                        <location>
+                            <geo decls="#WGS">-0,1667 51,5</geo>
+                        </location>
+                        <idno type="getty">7011781.0</idno>
                     </place>
                     <place xml:id="iglau">
                         <placeName type="pref">Iglau</placeName>
                         <placeName type="alt">Iglauer</placeName>
+                        <location>
+                            <geo decls="#WGS">15,5667 49,4</geo>
+                        </location>
+                        <idno type="getty">7011504.0</idno>
                     </place>
                     <place xml:id="magdeburg">
                         <placeName type="pref">Magdeburg</placeName>
+                        <location>
+                            <geo decls="#WGS">11,6167 52,1333</geo>
+                        </location>
+                        <idno type="getty">7004456.0</idno>
                     </place>
                     <place xml:id="falkenstein">
                         <placeName type="pref">Falkenstein</placeName>
                         <placeName type="alt">Falkensteiner</placeName>
+                        <location>
+                            <geo decls="#WGS">12,3667 50,4833</geo>
+                        </location>
+                        <idno type="getty">1036684.0</idno>
                     </place>
                     <place xml:id="dohna">
                         <placeName type="pref">Dohna</placeName>
                         <placeName type="alt">Dohnasche</placeName>
+                        <location>
+                            <geo decls="#WGS">13,8667 50,95</geo>
+                        </location>
+                        <idno type="getty">1036614.0</idno>
                     </place>
                     <place xml:id="jaegerndorf">
                         <placeName type="pref">Jaegerndorf</placeName>
@@ -2990,6 +4569,10 @@
                     </place>
                     <place xml:id="hvar">
                         <placeName type="pref">Hvar</placeName>
+                        <location>
+                            <geo decls="#WGS">16,4667 43,1833</geo>
+                        </location>
+                        <idno type="getty">7015484.0</idno>
                     </place>
                     <place xml:id="žolkiew">
                         <placeName type="pref">Žolkiew</placeName>
@@ -3002,33 +4585,61 @@
                     </place>
                     <place xml:id="badenweiler">
                         <placeName type="pref">Badenweiler</placeName>
+                        <location>
+                            <geo decls="#WGS">7,6833 47,8</geo>
+                        </location>
+                        <idno type="getty">7012380.0</idno>
                     </place>
                     <place xml:id="karstadt">
                         <placeName type="pref">Karstadt</placeName>
                     </place>
                     <place xml:id="offenburg">
                         <placeName type="pref">Offenburg</placeName>
+                        <location>
+                            <geo decls="#WGS">7,95 48,4833</geo>
+                        </location>
+                        <idno type="getty">7012635.0</idno>
                     </place>
                     <place xml:id="elberfeld">
                         <placeName type="pref">Elberfeld</placeName>
+                        <location>
+                            <geo decls="#WGS">7,1333 51,2667</geo>
+                        </location>
+                        <idno type="getty">1004421.0</idno>
                     </place>
                     <place xml:id="lubań">
                         <placeName type="pref">Lubań</placeName>
+                        <location>
+                            <geo decls="#WGS">15,2833 51,1167</geo>
+                        </location>
+                        <idno type="getty">1049215.0</idno>
                     </place>
                     <place xml:id="legnica">
                         <placeName type="pref">Legnica</placeName>
+                        <location>
+                            <geo decls="#WGS">16,1667 51,2</geo>
+                        </location>
+                        <idno type="getty">7007726.0</idno>
                     </place>
                     <place xml:id="bennisch">
                         <placeName type="pref">Bennisch</placeName>
                     </place>
                     <place xml:id="freudenthal">
                         <placeName type="pref">Freudenthal</placeName>
+                        <location>
+                            <geo decls="#WGS">17,45 50</geo>
+                        </location>
+                        <idno type="getty">7011429.0</idno>
                     </place>
                     <place xml:id="rzeszow">
                         <placeName type="pref">Rzeszow</placeName>
                     </place>
                     <place xml:id="riegel">
                         <placeName type="pref">Riegel</placeName>
+                        <location>
+                            <geo decls="#WGS">7,75 48,15</geo>
+                        </location>
+                        <idno type="getty">1040912.0</idno>
                     </place>
                     <place xml:id="telezí">
                         <placeName type="pref">Telezí</placeName>
@@ -3049,6 +4660,10 @@
                         <placeName type="pref">Kaaden</placeName>
                         <placeName type="alt">Kaadner
                         Bezirk</placeName>
+                        <location>
+                            <geo decls="#WGS">13,2667 50,4</geo>
+                        </location>
+                        <idno type="getty">7011508.0</idno>
                     </place>
                     <place xml:id="schloss-ivano">
                         <placeName type="pref">Schloss-ivano</placeName>
@@ -3056,6 +4671,10 @@
                     </place>
                     <place xml:id="kadaň">
                         <placeName type="pref">Kadaň</placeName>
+                        <location>
+                            <geo decls="#WGS">13,2667 50,4</geo>
+                        </location>
+                        <idno type="getty">7011508.0</idno>
                     </place>
                     <place xml:id="zsigra">
                         <placeName type="pref">Zsigra</placeName>

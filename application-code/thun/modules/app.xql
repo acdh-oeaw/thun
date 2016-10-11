@@ -121,7 +121,12 @@ declare function app:listPlace($node as node(), $model as map(*)) {
     let $hitHtml := "hits.html?searchkey="
     for $place in doc(concat($config:app-root, '/data/indices/listplace.xml'))//tei:listPlace/tei:place
         return
-        <li><a href="{concat($hitHtml,data($place/@xml:id))}">{$place/tei:placeName}</a></li>
+        <tr>
+            <td><a href="{concat($hitHtml,data($place/@xml:id))}">{$place/tei:placeName[@type="pref"]}</a></td>
+            <td>{for $altName in $place//tei:placeName[@type="alt"] return <li>{$altName}</li>}</td>
+            <td>{$place//tei:idno}</td>
+            <td>{$place//tei:geo}</td>
+        </tr>
 };
 
 (:~

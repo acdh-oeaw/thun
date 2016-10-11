@@ -10,26 +10,37 @@
                             <span class="fa fa-times"/>
                         </button>
                         <h4 class="modal-title">
-                            <xsl:element name="a">
-                                <xsl:attribute name="href">
-                                    <xsl:value-of select="//tei:place[@xml:id=$entiyID]/tei:placeName/@ref"/>
-                                </xsl:attribute>
-                                <xsl:value-of select="//tei:place[@xml:id=$entiyID]/tei:placeName[1]/text()"/>
-                            </xsl:element>
+                            <xsl:value-of select="//tei:place[@xml:id=$entiyID]/tei:placeName[@type='pref']"/>
                         </h4>
                     </div>
                     <div class="modal-body">
                         <table class="table table-boardered table-hover">
-                            <xsl:for-each select="//tei:place[@xml:id=$entiyID]/*[text()]">
-                                <tr>
-                                    <th>
-                                        <xsl:value-of select="name(.)"/>
-                                    </th>
-                                    <td>
-                                        <xsl:value-of select="./text()"/>
-                                    </td>
-                                </tr>
-                            </xsl:for-each>
+                            <tr>
+                                <th>Alternative Schreibweisen</th>
+                                <td>
+                                    <xsl:for-each select="//tei:place[@xml:id=$entiyID]//tei:placeName[@type='alt']">
+                                        <li>
+                                            <xsl:value-of select="."/>
+                                        </li>
+                                    </xsl:for-each>
+                                </td>
+                            </tr>
+                            <xsl:choose>
+                                <xsl:when test=".//tei:place[@xml:id=$entiyID]//tei:location">
+                                    <tr>
+                                        <th>GPS-Coordinates</th>
+                                        <td>
+                                            <xsl:value-of select=".//tei:place[@xml:id=$entiyID]//tei:location"/>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Getty-ID</th>
+                                        <td>
+                                            <xsl:value-of select=".//tei:place[@xml:id=$entiyID]//tei:idno"/>
+                                        </td>
+                                    </tr>
+                                </xsl:when>
+                            </xsl:choose>
                         </table>
                     </div>
                     <div class="modal-footer">
