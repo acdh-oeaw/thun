@@ -20,10 +20,9 @@
                 </small>
             </h1>
             <button id="visualize" type="button" class="btn btn-primary btn-lg">Visualize!</button>
-            <a class="btn btn-primary" href="./places.html" role="button" style="float: right;">Reset</a>
         </div>
         <div class="panel-body">
-            <div id="mapid"/>
+            <div id="parentMap"/>
             <table class="table table-striped table-condensed table-hover">
                 <thead>
                     <tr>
@@ -46,48 +45,6 @@
         </div>
     </div>
     <script>
-        $( "#visualize" ).click(function() {
-            $( "#mapid").css("height", "500px");
-            var map = L.map('mapid').setView([48.69096, 9.14062], 5); 
-            L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
-            attribution: 'Map data &lt;a href="http://openstreetmap.org"&gt;OpenStreetMap&lt;/a&gt; contributors, &lt;a href="http://creativecommons.org/licenses/by-sa/2.0/"&gt;CC-BY-SA&lt;/a&gt;, Imagery © &lt;a href="http://mapbox.com"&gt;Mapbox&lt;/a&gt;',
-            maxZoom: 18,
-            id: 'mapbox.light',
-            accessToken: 'pk.eyJ1Ijoic2VubmllcmVyIiwiYSI6ImNpbHk1YWV0bDAwZnB2dW01d2l1Y3phdmkifQ.OljQLEhqeAygai2y6VoSwQ'
-            }).addTo(map);
-            
-            var rows = $("tr:visible").has( "geo" );
-            
-            places = []
-            rows.each(function (index, value) {
-                var place_name = $(value).find('a').first().text().trim();
-                var coordinates = ($(value).find('geo').first().text().trim()).split(' ');
-                var lng_value = parseFloat((coordinates[1]).replace(',', '.'));
-                var lat_value = parseFloat((coordinates[0]).replace(',', '.'));
-                var getty_id = $(value).find('idno').first().text().trim();
-                var place = {
-                    orig_name : place_name,
-                    lng : lng_value,
-                    lat : lat_value,
-                    getty :getty_id
-                };
-                places.push(place);
-            });
-            var markerClusters = L.markerClusterGroup();
-            $(places).each(function (index, value){
-                if (value.lng)
-                    {
-                        var popup = value.orig_name
-                        var m = L.marker( [value.lng, value.lat] ).bindPopup( popup );
-                        markerClusters.addLayer( m );
-                       }
-                });
-                map.addLayer( markerClusters );
-                console.log(places);
-                console.log($(".leaflet-marker-icon leaflet-zoom-animated leaflet-interactive").length);
-            });
-          </script>
-    <script>
         $( document ).ready(function() {
             $("td input").bind("keyup", function(e) {
                 var all_rows = $("tr").length -2;
@@ -97,8 +54,48 @@
                 $('#filtered').text(filtered_rows);
                 $('#all').text(all_rows);
                 $('#searchstring').text("'"+searchstring+"' kommt "+filtered_rows.length+ "mal vor.");
+                
+                $("#mapid").remove()
+                $("#parentMap").append("&lt;div id='mapid'&gt;&lt;/div&gt;");
+                $( "#mapid").css("height", "500px");
+                var map = L.map('mapid').setView([48.69096, 9.14062], 5); 
+                L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+                attribution: 'Map data &lt;a href="http://openstreetmap.org"&gt;OpenStreetMap&lt;/a&gt; contributors, &lt;a href="http://creativecommons.org/licenses/by-sa/2.0/"&gt;CC-BY-SA&lt;/a&gt;, Imagery © &lt;a href="http://mapbox.com"&gt;Mapbox&lt;/a&gt;',
+                maxZoom: 18,
+                id: 'mapbox.light',
+                accessToken: 'pk.eyJ1Ijoic2VubmllcmVyIiwiYSI6ImNpbHk1YWV0bDAwZnB2dW01d2l1Y3phdmkifQ.OljQLEhqeAygai2y6VoSwQ'
+                }).addTo(map);
+                
+                var rows = $("tr:visible").has( "geo" );
+                
+                places = []
+                rows.each(function (index, value) {
+                var place_name = $(value).find('a').first().text().trim();
+                var coordinates = ($(value).find('geo').first().text().trim()).split(' ');
+                var lng_value = parseFloat((coordinates[1]).replace(',', '.'));
+                var lat_value = parseFloat((coordinates[0]).replace(',', '.'));
+                var getty_id = $(value).find('idno').first().text().trim();
+                var place = {
+                orig_name : place_name,
+                lng : lng_value,
+                lat : lat_value,
+                getty :getty_id
+                };
+                places.push(place);
+                });
+                var markerClusters = L.markerClusterGroup();
+                $(places).each(function (index, value){
+                if (value.lng)
+                {
+                var popup = value.orig_name
+                var m = L.marker( [value.lng, value.lat] ).bindPopup( popup );
+                markerClusters.addLayer( m );
+                }
+                });
+                map.addLayer( markerClusters );
+                console.log(places);
+                console.log($(".leaflet-marker-icon leaflet-zoom-animated leaflet-interactive").length);
             });
          });
-
-    </script>
+ </script>
 </div>
