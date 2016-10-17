@@ -8,11 +8,16 @@
     <script src="$app-root/resources/js/leaflet/leaflet.js"/>
     <link rel="stylesheet" href="$app-root/resources/js/leaflet/leaflet.css"/>
     <link rel="stylesheet" type="text/css" href="$app-root/resources/js/leaflet/MarkerCluster.css"/>
-    <link rel="stylesheet" type="text/css" href="$app-root/resources/js/leaflet/MarkerCluster.Default.css"/>
+    <link rel="stylesheet" type="text/css" href="$app-root/resources/js/leaflet/MarkerCluster.Default.css"/><!-- history.js -->
+    <script src="$app-root/resources/js/historyjs/jquery.history.js"/><!-- history.js END-->
     <script type="text/javascript" src="$app-root/resources/js/leaflet/markercluster_not_official.js"/>
-    <script> $(function() { $("table").tablesorter({ theme : "bootstrap", widthFixed: false,
-        headerTemplate : '{content} {icon}', widgets : [ "uitheme", "filter", "zebra" ], filter_cssFilter: "form-control", }) }); 
-    </script>
+    <script> $(function() { 
+            $("table").tablesorter(
+                { theme : "bootstrap", widthFixed: false,
+                headerTemplate : '{content} {icon}', widgets : [ "uitheme", "filter", "zebra" ], filter_cssFilter: "form-control"}
+               );
+        }); 
+    </script><!--     https://mottie.github.io/tablesorter/docs/index.html#api Event: tablesorter-initialized-->
     <div class="panel panel-default">
         <div class="panel-heading" style="text-align:center;">
             <h1>Orte <br/>
@@ -46,6 +51,14 @@
     </div>
     <script>
         $( document ).ready(function() {
+        
+            var fetched_param = decodeURIComponent($.urlParam("place"));
+
+            if (fetched_param != "null"){
+                
+               $.tablesorter.setFilters( $('table'), [ fetched_param], true );
+               $('table').trigger('search', true);
+            }
             $("td input").bind("keyup", function(e) {
                 var all_rows = $("tr").length -2;
                 var col_id = $(this).parent().attr('data-column');
@@ -94,7 +107,7 @@
                 });
                 map.addLayer( markerClusters );
                 console.log(places);
-                console.log($(".leaflet-marker-icon leaflet-zoom-animated leaflet-interactive").length);
+                History.pushState({searchstring: "place"}, "looking for "+searchstring, "?place="+searchstring);   
             });
          });
  </script>
