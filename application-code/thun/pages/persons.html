@@ -15,7 +15,8 @@
     </script>
     <div class="panel panel-default">
         <div class="panel-heading" style="text-align:center;">
-            <h1>Personen<br/>
+            <h1>
+                <span id="amount"/> Personen<br/>
                 <small>
                     <span id="searchstring"/>
                 </small>
@@ -42,6 +43,8 @@
     </div>
     <script>
         $( document ).ready(function() {
+            var all_rows = $("tr").slice( 2 ) ;
+            $('#amount').text(all_rows.length);
         
             var fetched_param = decodeURIComponent($.urlParam("person"));
 

@@ -20,7 +20,8 @@
     </script><!--     https://mottie.github.io/tablesorter/docs/index.html#api Event: tablesorter-initialized-->
     <div class="panel panel-default">
         <div class="panel-heading" style="text-align:center;">
-            <h1>Orte <br/>
+            <h1>
+                <span id="amount"/> Orte <br/>
                 <small>
                     <span id="searchstring"/>
                 </small>
@@ -51,6 +52,8 @@
     </div>
     <script>
         $( document ).ready(function() {
+        var all_rows = $("tr").slice( 2 ) ;
+            $('#amount').text(all_rows.length);
         
             var fetched_param = decodeURIComponent($.urlParam("place"));
 
