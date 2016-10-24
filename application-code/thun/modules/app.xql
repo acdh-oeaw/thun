@@ -95,7 +95,8 @@ let $href := concat('show.html','?document=', app:getDocName($node))
  :)
 declare function app:indexSearch_hits($node as node(), $model as map(*), $searchkey as xs:string?, $path as xs:string?)
 {
-    for $hit in collection(concat($config:app-root, '/data/editions/'))//tei:TEI[.//tei:placeName[functx:contains-case-insensitive(./text(), $searchkey)] | .//tei:placeName[@key=$searchkey] | .//tei:persName[@key=$searchkey]]
+    for $hit in collection(concat($config:app-root, '/data/editions/'))//tei:TEI[.//tei:placeName[functx:contains-case-insensitive(./text(), $searchkey)] 
+    | .//tei:placeName[@key=$searchkey] | .//tei:persName[@key=$searchkey] | .//tei:term[text()=$searchkey]]
     let $doc := document-uri(root($hit)) 
     return
     <li>
@@ -137,13 +138,28 @@ declare function app:listPlace($node as node(), $model as map(*)) {
     for $place in doc(concat($config:app-root, '/data/indices/listplace.xml'))//tei:listPlace/tei:place
         return
         <tr>
-            <td><a href="{concat($hitHtml,data($place/@xml:id))}">{$place/tei:placeName[@type="pref"]}</a></td>
+            <td>
+                <a href="{concat($hitHtml,data($place/@xml:id))}">{$place/tei:placeName[@type="pref"]}</a>
+            </td>
             <td>{for $altName in $place//tei:placeName[@type="alt"] return <li>{$altName}</li>}</td>
             <td>{$place//tei:idno}</td>
             <td>{$place//tei:geo}</td>
         </tr>
 };
-
+(:~
+ : creates a basic term-index derived from the all documents stored in collection'/data/editions'
+ :)
+declare function app:listTerms($node as node(), $model as map(*)) {
+    let $hitHtml := "hits.html?searchkey="
+    for $term in distinct-values(collection(concat($config:app-root, '/data/editions/'))//tei:term)
+    order by $term
+    return
+        <tr>
+            <td>
+                <a href="{concat($hitHtml,data($term))}">{$term}</a>
+            </td>
+        </tr>
+ };
 (:~
  : creates a basic table of content derived from the documents stored in '/data/editions'
  :)
