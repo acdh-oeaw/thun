@@ -184,7 +184,17 @@ declare function app:listTerms($node as node(), $model as map(*)) {
  : creates a basic table of content derived from the documents stored in '/data/editions'
  :)
 declare function app:toc($node as node(), $model as map(*)) {
-    for $title in collection(concat($config:app-root, '/data/editions/'))//tei:TEI
+
+    let $bestand := request:get-parameter("bestand", "")
+    let $docs := if ($bestand = "nachlass")
+        then 
+            collection(concat($config:app-root, '/data/editions/'))[contains(.//tei:repository, 'Linie Tetschen, Nachlass Leo')]
+        else if ($bestand = "gesamt")
+        then 
+            collection(concat($config:app-root, '/data/editions/'))//tei:TEI
+        else 
+            collection(concat($config:app-root, '/data/editions/'))[not(contains(.//tei:repository, 'Linie Tetschen, Nachlass Leo'))]
+    for $title in $docs
     let $sender := fn:normalize-space($title//tei:persName[@role=contains($title//tei:persName/@role,'sender') and 1]/text())
         let $sender_nn := if(fn:exists($title//tei:persName[@role=contains($title//tei:persName/@role,'sender') and 1]/text()))
                             then concat(functx:substring-after-last($sender,' '), ", ")

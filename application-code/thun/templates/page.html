@@ -34,25 +34,30 @@
             <div class="navbar-collapse collapse" id="navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li class="dropdown" id="about">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Menu</a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Bestände</a>
                         <ul class="dropdown-menu">
                             <li>
-                                <a href="index.html">Home</a>
+                                <a href="toc.html?bestand=nachlass">Nachlass Leo Thun</a>
                             </li>
                             <li>
-                                <a href="toc.html">Table of Content</a>
+                                <a href="toc.html?bestand=autographen">Autographen Leo Thun / Briefe aus anderen Archiven</a>
                             </li>
                             <li>
-                                <a href="persons.html">Persons</a>
+                                <a href="toc.html?bestand=gesamt">Gesamter Bestand</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Register</a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a href="persons.html">Personen</a>
                             </li>
                             <li>
-                                <a href="places.html">Places</a>
+                                <a href="places.html">Orte</a>
                             </li>
                             <li>
                                 <a href="terms.html">Schlagworte</a>
-                            </li>
-                            <li>
-                                <a href="../data/editions">API</a>
                             </li>
                         </ul>
                     </li>
@@ -61,9 +66,9 @@
                     <form method="get" action="ft_search.html" class="navbar-form" id="pageform">
                         <div class="form-group">
                             <div class="input-group">
-                                <input type="text" class="form-control" name="searchexpr" placeholder="search in all inventories" pattern=".{3,}" required="" title="3 characters minimum"/>
+                                <input type="text" class="form-control" name="searchexpr" placeholder="Volltextsuche" pattern=".{3,}" required="" title="3 characters minimum"/>
                             </div>
-                            <button type="submit" class="btn btn-primary">search</button>
+                            <button type="submit" class="btn btn-primary">Suche</button>
                         </div>
                     </form>
                 </div>
