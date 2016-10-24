@@ -98,7 +98,7 @@
                                     Transkription und Kodierung
                                 </th>
                                 <td>
-                                    Dieses dokument wurde von Christof Aichner und Tanja Kraler transkribiert und nach XML/TEI kodiert.
+                                    Dieses Dokument wurde von <a href="https://www.uibk.ac.at/geschichte-ethnologie/mitarbeiterinnen/projekt/aichner-christof/">Christof Aichner</a> und <a href="http://thun-korrespondenz.uibk.ac.at/?page_id=38">Tanja Kraler</a> transkribiert und nach XML/TEI kodiert.
                                 </td>
                             </tr>
                             <xsl:if test="//tei:titleStmt/tei:respStmt">
@@ -121,7 +121,7 @@
                                 </th>
                                 <td align="center">
                                     <a href="https://creativecommons.org/licenses/by-sa/4.0/" class="navlink" target="_blank">
-                                        <img src="../resources/img/by-sa.png" alt="eXist-db" width="25%"/>
+                                        <img src="../resources/img/by-sa.png" alt="eXist-db" width="10%"/>
                                     </a>
                                 </td>
                             </tr>
