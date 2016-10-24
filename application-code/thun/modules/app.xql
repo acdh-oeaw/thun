@@ -95,14 +95,34 @@ let $href := concat('show.html','?document=', app:getDocName($node))
  :)
 declare function app:indexSearch_hits($node as node(), $model as map(*), $searchkey as xs:string?, $path as xs:string?)
 {
-    for $hit in collection(concat($config:app-root, '/data/editions/'))//tei:TEI[.//tei:placeName[functx:contains-case-insensitive(./text(), $searchkey)] 
+    for $title in collection(concat($config:app-root, '/data/editions/'))//tei:TEI[.//tei:placeName[functx:contains-case-insensitive(./text(), $searchkey)] 
     | .//tei:placeName[@key=$searchkey] | .//tei:persName[@key=$searchkey] | .//tei:term[text()=$searchkey]]
-    let $doc := document-uri(root($hit)) 
-    return
-    <li>
-        <a href="{app:hrefToDoc($hit)}">{app:getDocName($hit)}</a>
-    </li> 
- };
+    let $sender := fn:normalize-space($title//tei:persName[@role=contains($title//tei:persName/@role,'sender') and 1]/text())
+        let $sender_nn := if(fn:exists($title//tei:persName[@role=contains($title//tei:persName/@role,'sender') and 1]/text()))
+                            then concat(functx:substring-after-last($sender,' '), ", ")
+                            else "ohne Absender"
+        let $sender_vn := functx:substring-before-last($sender,' ')
+        let $empfänger := fn:normalize-space($title//tei:persName[@role=contains($title//tei:persName/@role,'recipient') and 1]/text())
+        let $empfänger_nn := if(fn:exists($title//tei:persName[@role=contains($title//tei:persName/@role,'recipient') and 1]/text()))
+                                then concat(functx:substring-after-last($empfänger,' '), ", ")
+                                else "ohne Empfänger"
+        let $empfänger_vn := functx:substring-before-last($empfänger,' ')
+        let $wo := if(fn:exists($title//tei:title/tei:placeName[2]/text()))
+                     then concat($title//tei:title/tei:placeName[1]/text()," und ", $title//tei:title/tei:placeName[2]/text())
+                     else $title//tei:title/tei:placeName[1]/text()
+        let $wann := data($title//tei:date/@when)[1]
+        let $zitat := $title//tei:msIdentifier
+        return
+        <tr>
+           <td>{$sender_nn}{$sender_vn}</td>
+           <td>{$empfänger_nn}{$empfänger_vn}</td>
+           <td align="center">{$wo}</td>
+           <td align="center"><abbr title="{$zitat}">{$wann}</abbr></td>
+            <td>
+                <a href="{app:hrefToDoc($title)}">{app:getDocName($title)}</a>
+            </td>
+        </tr>   
+};
  
  
 (:~

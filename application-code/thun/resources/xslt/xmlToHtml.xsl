@@ -9,7 +9,7 @@
         <div class="page-header">
             <h2 align="center">
                 <xsl:for-each select="//tei:fileDesc/tei:titleStmt/tei:title">
-                    <xsl:value-of select="."/>
+                    <xsl:apply-templates/>
                     <br/>
                 </xsl:for-each>
             </h2>
@@ -119,48 +119,39 @@
                 </h3>
             </div>
             <div class="panel-body">
-                <div class="row">
-                    <div class="col-md-4">
-                        <h4>
-                            Navigation
-                        </h4>
-                        <xsl:element name="ul">
-                            <xsl:for-each select="//tei:body//tei:head">
-                                <xsl:element name="li">
-                                    <xsl:element name="a">
-                                        <xsl:attribute name="href">
-                                            <xsl:text>#text_</xsl:text>
-                                            <xsl:value-of select="."/>
-                                        </xsl:attribute>
-                                        <xsl:attribute name="id">
-                                            <xsl:text>nav_</xsl:text>
-                                            <xsl:value-of select="."/>
-                                        </xsl:attribute>
-                                        <xsl:value-of select="."/>
-                                    </xsl:element>
-                                </xsl:element>
-                            </xsl:for-each>
+                <xsl:element name="ul">
+                    <xsl:for-each select="//tei:body//tei:head">
+                        <xsl:element name="li">
+                            <xsl:element name="a">
+                                <xsl:attribute name="href">
+                                    <xsl:text>#text_</xsl:text>
+                                    <xsl:value-of select="."/>
+                                </xsl:attribute>
+                                <xsl:attribute name="id">
+                                    <xsl:text>nav_</xsl:text>
+                                    <xsl:value-of select="."/>
+                                </xsl:attribute>
+                                <xsl:value-of select="."/>
+                            </xsl:element>
                         </xsl:element>
-                    </div>
-                    <div class="col-md-8" id="transcribed_text">
-                        <h3>
-                            <xsl:apply-templates select="//tei:div[@type='titelblatt']"/>
-                        </h3>
-                        <p>
-                            <xsl:choose>
-                                <xsl:when test="//tei:div[@type='text']">
-                                    <xsl:apply-templates select="//tei:div[@type='text']"/>
-                                </xsl:when>
-                                <xsl:when test="//tei:div[@type='transcript']">
-                                    <xsl:apply-templates select="//tei:div[@type='transcript']"/>
-                                </xsl:when>
-                                <xsl:otherwise>
-                                    <xsl:apply-templates select="//tei:body"/>
-                                </xsl:otherwise>
-                            </xsl:choose>
-                        </p>
-                    </div>
-                </div>
+                    </xsl:for-each>
+                </xsl:element>
+                <h3>
+                    <xsl:apply-templates select="//tei:div[@type='titelblatt']"/>
+                </h3>
+                <p>
+                    <xsl:choose>
+                        <xsl:when test="//tei:div[@type='text']">
+                            <xsl:apply-templates select="//tei:div[@type='text']"/>
+                        </xsl:when>
+                        <xsl:when test="//tei:div[@type='transcript']">
+                            <xsl:apply-templates select="//tei:div[@type='transcript']"/>
+                        </xsl:when>
+                        <xsl:otherwise>
+                            <xsl:apply-templates select="//tei:body"/>
+                        </xsl:otherwise>
+                    </xsl:choose>
+                </p>
             </div>
             <script type="text/javascript">
                 // creates a link to the xml version of the current docuemnt available via eXist-db's REST-API
