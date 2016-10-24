@@ -26,7 +26,7 @@
                         <tbody>
                             <tr>
                                 <th>
-                                    <abbr title="tei:titleStmt/tei:title">Title</abbr>
+                                    <abbr title="tei:titleStmt/tei:title">Dokument</abbr>
                                 </th>
                                 <td>
                                     <xsl:for-each select="//tei:fileDesc/tei:titleStmt/tei:title">
@@ -38,7 +38,7 @@
                             <xsl:if test="//tei:msIdentifier">
                                 <tr>
                                     <th>
-                                        <abbr title="//tei:msIdentifie">Identifier</abbr>
+                                        <abbr title="//tei:msIdentifie">Signatur</abbr>
                                     </th>
                                     <td>
                                         <xsl:for-each select="//tei:msIdentifier/child::*">
@@ -56,13 +56,33 @@
                             <xsl:if test="//tei:msContents">
                                 <tr>
                                     <th>
-                                        <abbr title="//tei:msContents">Description</abbr>
+                                        <abbr title="//tei:msContents">Regest</abbr>
                                     </th>
                                     <td>
                                         <xsl:apply-templates select="//tei:msContents"/>
                                     </td>
                                 </tr>
                             </xsl:if>
+                            <tr>
+                                <th>Schlagwörter</th>
+                                <td>
+                                    <ul>
+                                        <xsl:for-each select="//tei:term">
+                                            <li>
+                                                <a>
+                                                    <xsl:attribute name="href">
+                                                        <xsl:value-of select="concat('hits.html?searchkey=',.)"/>
+                                                    </xsl:attribute>
+                                                    <xsl:attribute name="title">
+                                                        <xsl:value-of select="concat('Andere Dokumente mit dem Schlagwort: ',.)"/>
+                                                    </xsl:attribute>
+                                                    <xsl:value-of select="."/>
+                                                </a>
+                                            </li>
+                                        </xsl:for-each>
+                                    </ul>
+                                </td>
+                            </tr>
                             <xsl:if test="//tei:supportDesc/tei:extent">
                                 <tr>
                                     <th>
@@ -73,6 +93,14 @@
                                     </td>
                                 </tr>
                             </xsl:if>
+                            <tr>
+                                <th>
+                                    Transkription und Kodierung
+                                </th>
+                                <td>
+                                    Dieses dokument wurde von Christof Aichner und Tanja Kraler transkribiert und nach XML/TEI kodiert.
+                                </td>
+                            </tr>
                             <xsl:if test="//tei:titleStmt/tei:respStmt">
                                 <tr>
                                     <th>
@@ -91,13 +119,10 @@
                                 <th>
                                     <abbr title="//tei:availability//tei:p[1]">License</abbr>
                                 </th>
-                                <td>
-                                    <xsl:element name="a">
-                                        <xsl:attribute name="href">
-                                            <xsl:apply-templates select="//tei:licence/@target"/>
-                                        </xsl:attribute>
-                                        <xsl:apply-templates select="//tei:availability//tei:p[1]"/>
-                                    </xsl:element>
+                                <td align="center">
+                                    <a href="https://creativecommons.org/licenses/by-sa/4.0/" class="navlink" target="_blank">
+                                        <img src="../resources/img/by-sa.png" alt="eXist-db" width="25%"/>
+                                    </a>
                                 </td>
                             </tr>
                         </tbody>
@@ -153,6 +178,30 @@
                     </xsl:choose>
                 </p>
             </div>
+            <div class="panel-footer">
+                <p style="text-align:center;">
+                    <xsl:for-each select="tei:TEI/tei:text/tei:body//tei:note">
+                        <div class="footnotes">
+                            <xsl:element name="a">
+                                <xsl:attribute name="name">
+                                    <xsl:text>fn</xsl:text>
+                                    <xsl:number level="any" format="1" count="tei:note"/>
+                                </xsl:attribute>
+                                <a>
+                                    <xsl:attribute name="href">
+                                        <xsl:text>#fna_</xsl:text>
+                                        <xsl:number level="any" format="1" count="tei:note"/>
+                                    </xsl:attribute>
+                                    <span style="font-size:7pt;vertical-align:super;">
+                                        <xsl:number level="any" format="1" count="tei:note"/>
+                                    </span>
+                                </a>
+                            </xsl:element>
+                            <xsl:apply-templates/>
+                        </div>
+                    </xsl:for-each>
+                </p>
+            </div>
             <script type="text/javascript">
                 // creates a link to the xml version of the current docuemnt available via eXist-db's REST-API
                 var params={};
@@ -174,7 +223,96 @@
     #####################
     ###  Formatierung ###
     #####################
---><!-- resp -->
+-->
+    <xsl:template match="tei:term">
+        <span/>
+    </xsl:template>
+    <xsl:template match="tei:hi">
+        <xsl:choose>
+            <xsl:when test="@rend='ul'">
+                <u>
+                    <xsl:apply-templates/>
+                </u>
+            </xsl:when>
+            <xsl:when test="@rend='italic'">
+                <i>
+                    <xsl:apply-templates/>
+                </i>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:apply-templates/>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:template><!--    footnotes -->
+    <xsl:template match="tei:note">
+        <xsl:element name="a">
+            <xsl:attribute name="name">
+                <xsl:text>fna_</xsl:text>
+                <xsl:number level="any" format="1" count="tei:note"/>
+            </xsl:attribute>
+            <xsl:attribute name="href">
+                <xsl:text>#fn</xsl:text>
+                <xsl:number level="any" format="1" count="tei:note"/>
+            </xsl:attribute>
+            <xsl:attribute name="title">
+                <xsl:value-of select="normalize-space(.)"/>
+            </xsl:attribute>
+            <span style="font-size:7pt;vertical-align:super;">
+                <xsl:number level="any" format="1" count="tei:note"/>
+            </span>
+        </xsl:element>
+    </xsl:template>
+    <xsl:template match="tei:div">
+        <xsl:choose>
+            <xsl:when test="@type='regest'">
+                <div>
+                    <xsl:attribute name="class">
+                        <text>regest</text>
+                    </xsl:attribute>
+                    <xsl:apply-templates/>
+                </div>
+            </xsl:when><!-- transcript -->
+            <xsl:when test="@type='transcript'">
+                <div>
+                    <xsl:attribute name="class">
+                        <text>transcript</text>
+                    </xsl:attribute>
+                    <xsl:apply-templates/>
+                </div>
+            </xsl:when><!-- Anlagen/Beilagen  -->
+            <xsl:when test="@xml:id">
+                <xsl:element name="div">
+                    <xsl:attribute name="id">
+                        <xsl:value-of select="@xml:id"/>
+                    </xsl:attribute>
+                    <xsl:apply-templates/>
+                </xsl:element>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:apply-templates/>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:template><!-- Verweise auf andere Dokumente   -->
+    <xsl:template match="tei:ref">
+        <xsl:choose>
+            <xsl:when test="@target[ends-with(.,'.xml')]">
+                <xsl:element name="a">
+                    <xsl:attribute name="href">
+                       show.html?ref=<xsl:value-of select="tokenize(./@target, '/')[4]"/>
+                    </xsl:attribute>
+                    <xsl:value-of select="."/>
+                </xsl:element>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:element name="a">
+                    <xsl:attribute name="href">
+                        <xsl:value-of select="@target"/>
+                    </xsl:attribute>
+                    <xsl:value-of select="."/>
+                </xsl:element>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:template><!-- resp -->
     <xsl:template match="tei:respStmt/tei:resp">
         <xsl:apply-templates/>&#160;
     </xsl:template>
@@ -213,6 +351,18 @@
         </strong>
     </xsl:template>
     <xsl:template match="tei:placeName[@key]">
+        <strong>
+            <xsl:element name="a">
+                <xsl:attribute name="class">reference</xsl:attribute>
+                <xsl:attribute name="data-type">listplace.xml</xsl:attribute>
+                <xsl:attribute name="data-key">
+                    <xsl:value-of select="@key"/>
+                </xsl:attribute>
+                <xsl:value-of select="."/>
+            </xsl:element>
+        </strong>
+    </xsl:template>
+    <xsl:template match="tei:region[@key] | tei:country[@key]">
         <strong>
             <xsl:element name="a">
                 <xsl:attribute name="class">reference</xsl:attribute>
