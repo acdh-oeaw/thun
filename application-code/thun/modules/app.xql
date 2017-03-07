@@ -95,7 +95,7 @@ let $href := concat('show.html','?document=', app:getDocName($node))
  :)
 declare function app:indexSearch_hits($node as node(), $model as map(*), $searchkey as xs:string?, $path as xs:string?)
 {
-    for $title in collection(concat($config:app-root, '/data/editions/'))//tei:TEI[.//tei:placeName[functx:contains-case-insensitive(./text(), $searchkey)] 
+    for $title in collection(concat($config:app-root, '/data/editions/'))//tei:TEI[.//tei:placeName[functx:contains-case-insensitive(./text()[1], $searchkey)] 
     | .//tei:placeName[@key=$searchkey] | .//tei:persName[@key=$searchkey] | .//tei:term[text()=$searchkey]]
     let $hits := if (count(root($title)//*[@key=$searchkey]) = 0) then 1 else count(root($title)//*[@key=$searchkey])
     let $snippet := 
@@ -106,12 +106,12 @@ declare function app:indexSearch_hits($node as node(), $model as map(*), $search
             <p>... {$before} <strong><a href="{app:hrefToDoc($title)}"> {$person/text()}</a></strong> {$after}...<br/></p>
     
     
-    let $sender := fn:normalize-space($title//tei:persName[@role=contains($title//tei:persName/@role,'sender') and 1]/text())
+    let $sender := fn:normalize-space($title//tei:persName[@role=contains($title//tei:persName/@role,'sender') and 1]/text()[1])
     let $sender_nn := if(fn:exists($title//tei:persName[@role=contains($title//tei:persName/@role,'sender') and 1]/text()))
                             then concat(functx:substring-after-last($sender,' '), ", ")
                             else "ohne Absender"
     let $sender_vn := functx:substring-before-last($sender,' ')
-    let $empfänger := fn:normalize-space($title//tei:persName[@role=contains($title//tei:persName/@role,'recipient') and 1]/text())
+    let $empfänger := fn:normalize-space($title//tei:persName[@role=contains($title//tei:persName/@role,'recipient') and 1]/text()[1])
     let $empfänger_nn := if(fn:exists($title//tei:persName[@role=contains($title//tei:persName/@role,'recipient') and 1]/text()))
                                 then concat(functx:substring-after-last($empfänger,' '), ", ")
                                 else "ohne Empfänger"
@@ -204,12 +204,12 @@ declare function app:toc($node as node(), $model as map(*)) {
         else 
             collection(concat($config:app-root, '/data/editions/'))[not(contains(.//tei:repository, 'Linie Tetschen, Nachlass Leo'))]
     for $title in $docs
-    let $sender := fn:normalize-space($title//tei:persName[@role=contains($title//tei:persName/@role,'sender') and 1]/text())
+    let $sender := fn:normalize-space($title//tei:persName[@role=contains($title//tei:persName/@role,'sender') and 1]/text()[1])
         let $sender_nn := if(fn:exists($title//tei:persName[@role=contains($title//tei:persName/@role,'sender') and 1]/text()))
                             then concat(functx:substring-after-last($sender,' '), ", ")
                             else "ohne Absender"
         let $sender_vn := functx:substring-before-last($sender,' ')
-        let $empfänger := fn:normalize-space($title//tei:persName[@role=contains($title//tei:persName/@role,'recipient') and 1]/text())
+        let $empfänger := fn:normalize-space($title//tei:persName[@role=contains($title//tei:persName/@role,'recipient') and 1]/text()[1])
         let $empfänger_nn := if(fn:exists($title//tei:persName[@role=contains($title//tei:persName/@role,'recipient') and 1]/text()))
                                 then concat(functx:substring-after-last($empfänger,' '), ", ")
                                 else "ohne Empfänger"
