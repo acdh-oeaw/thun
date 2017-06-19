@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Gutachten von <persName key="krombholz-anton">Anton Krombholz</persName> zu §
+                <title>Gutachten von <rs type="person" ref="krombholz-anton" key="krombholz-anton">Anton Krombholz</rs> zu §
                     8 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des
                         Konkordats<lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1856-08-15">15.
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1856-08-15">15.
                         August 1856</date>
                 </title>
             </titleStmt>
@@ -51,7 +50,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -62,16 +61,16 @@
                     <term>Schulaufsicht</term>
                 </index>
                 <p>VIII.<lb/>
-                    <persName key="franz-joseph">Seine Majestät</persName> haben mit
+                    <rs type="person" ref="franz-joseph" key="franz-joseph">Seine Majestät</rs> haben mit
                     gewohntem Scharfblicke erkannt, wie wichtig es sei, daß die katholische
                     Volksschule unter kirchlicher Leitung stehe. Schon früher war dies im größten
                     Theile des Reiches der Fall; durch das Konkordat ist es nicht nur bestätigt,
                     sondern auch auf alle Länder des Kaiserthums ausgedehnt worden. Bei Ausführung
                     dieser Bestimmung handelt es sich vor allem um die Art und Weise, in welcher die
-                    Regierung <persName key="franz-joseph">Seiner Majestät</persName> künftighin auf
+                    Regierung <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät</rs> künftighin auf
                     die Leitung und Beaufsichtigung der Volksschule Einfluß nehmen werde. Mit
                     Rücksicht auf das diesfällige Recht der Staatsgewalt ist es im Konkordate
-                    ausgesprochen, daß <persName key="franz-joseph">Seine Majestät</persName> auch
+                    ausgesprochen, daß <rs type="person" ref="franz-joseph" key="franz-joseph">Seine Majestät</rs> auch
                     in der Folge den Diöcesanschulenoberaufseher auf den Vorschlag des Bischofes
                     ernennen werde. Was die Districtsschulaufseher betrifft, so wird es am
                     entsprechendsten sein, wenn der Bischof denselben ernennt, aber stets Männer zu
@@ -187,7 +186,7 @@
                     das Recht, den Trivialschullehrern das Anstellungsdekret auf Grund einer
                     vorschriftsmäßig erlangten und vorgelegten Präsentation zu erfolgen; allein auch
                     in solchen Kronländern, in welchen die politische Schulverfassung nicht in Kraft
-                    stand, z. B. in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country>, stellten die Ordinariate gar häufig
+                    stand, z. B. in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, stellten die Ordinariate gar häufig
                     Schullehrer an. Überdies wird bloß von Schullehrern gesprochen, ohne daß ein
                     Unterschied zwischen Haupt- und Trivialschullehrern gemacht wird. Nach der
                     politischen Schulverfassung gehört aber bloß die Anstellung der

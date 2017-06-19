@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="farina-giovanni-antonio" role="sender:kleriker">Giovanni
-                        Antonio Farina</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="farina-giovanni-antonio" key="farina-giovanni-antonio" role="sender:kleriker">Giovanni
+                        Antonio Farina</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_9fa41ec12d99720833b10d3a9ab6a5cb">Treviso</placeName>,
+                    <rs type="place" subtype="place" ref="#place_9fa41ec12d99720833b10d3a9ab6a5cb">Treviso</rs>,
                         <date when="1854-12-20">20. Dezember 1854</date>
                 </title>
             </titleStmt>
@@ -35,7 +34,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

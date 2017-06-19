@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Gesprächsnotiz von Leo Thun<lb/>
-                    <placeName ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</placeName>, <date when="1855">[1855]</date>
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, <date when="1855">[1855]</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -44,7 +43,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -56,34 +55,34 @@
                     <term>Neoabsolutismus</term>
                 </index>
                 <p>Anfangs 1855</p>
-                <p>1. <persName key="buol-schauenstein-karl-ferdinand">Graf Buol</persName> hat
+                <p>1. <rs type="person" ref="buol-schauenstein-karl-ferdinand" key="buol-schauenstein-karl-ferdinand">Graf Buol</rs> hat
                     gesprächsweise geäußert:<lb/>Kommt es zum Krieg so ist es mir viel lieber
-                        <country key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</country> hält nicht mit uns.<lb/>Ein Krieg
-                    mit <country key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</country> gegen <country key="russland" ref="#place_5c0704d47c0a58a0922e25b5b9b66b27">Russland</country> ist für uns eine große Verlegenheit. Hält hingegen
-                        <country key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</country> mit <country key="russland" ref="#place_5c0704d47c0a58a0922e25b5b9b66b27">Russland</country>, so führen wir mit <country ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</country> Krieg
-                    gegen <country key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</country>. Dann nehmen wir <region key="schlesien" ref="#place_555f6fe9ebdd56123400b9e628944934">Schlesien</region>, <country key="sachsen" ref="#place_ebfc6cb966060a8a33e603c0859ac410">Sachsen</country>
+                        <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> hält nicht mit uns.<lb/>Ein Krieg
+                    mit <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> gegen <rs type="place" subtype="country" key="russland" ref="#place_5c0704d47c0a58a0922e25b5b9b66b27">Russland</rs> ist für uns eine große Verlegenheit. Hält hingegen
+                        <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> mit <rs type="place" subtype="country" key="russland" ref="#place_5c0704d47c0a58a0922e25b5b9b66b27">Russland</rs>, so führen wir mit <rs type="place" subtype="country" ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</rs> Krieg
+                    gegen <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs>. Dann nehmen wir <rs type="place" subtype="region" key="schlesien" ref="#place_555f6fe9ebdd56123400b9e628944934">Schlesien</rs>, <rs type="place" subtype="country" key="sachsen" ref="#place_ebfc6cb966060a8a33e603c0859ac410">Sachsen</rs>
                     wird wieder hergestellt, und wir haben einmal Ruhe in
-                        <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country>, um den Preis mag immerhin <country key="frankreich" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreich</country> die <region key="rheinlande" ref="#place_cd8abe99d876b304a69f6b4c882f41da">Rheinlande</region> nehmen. Was liegt uns daran ob sie deutsch oder
+                        <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs>, um den Preis mag immerhin <rs type="place" subtype="country" key="frankreich" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreich</rs> die <rs type="place" subtype="region" key="rheinlande" ref="#place_cd8abe99d876b304a69f6b4c882f41da">Rheinlande</rs> nehmen. Was liegt uns daran ob sie deutsch oder
                     französisch seien.</p>
-                <p>2. Es ist Jemand aus <placeName ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</placeName> zu <persName key="stein-lorenz">Prof. Stein</persName> gekommen, um ihm mitzutheilen:<lb/>Er ist ein sehr
-                    reicher Mann in <placeName ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</placeName>, der 1/2 Million daran setzen will,
-                    um in <placeName ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</placeName> ein deutsches Organ zu schaffen, welches die
-                    enge Allianz <country key="frankreich" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreichs</country> mit Österreich
+                <p>2. Es ist Jemand aus <rs type="place" subtype="place" ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</rs> zu <rs type="person" ref="stein-lorenz" key="stein-lorenz">Prof. Stein</rs> gekommen, um ihm mitzutheilen:<lb/>Er ist ein sehr
+                    reicher Mann in <rs type="place" subtype="place" ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</rs>, der 1/2 Million daran setzen will,
+                    um in <rs type="place" subtype="place" ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</rs> ein deutsches Organ zu schaffen, welches die
+                    enge Allianz <rs type="place" subtype="country" key="frankreich" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreichs</rs> mit Österreich
                     vertreten soll. Dazu sollen die besten deutschen Federn gewonnen werden, um
                     jeden Preis den sie haben wollen. Auf das Geld kommt es gar nicht an. Er both
-                    dem <persName key="stein-lorenz">Prof. Stein</persName> die Stelle eines
-                    Redakteurs an, und fügte bei: <country key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</country> benimmt
-                    sich so, daß <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> alle Ursache hat
+                    dem <rs type="person" ref="stein-lorenz" key="stein-lorenz">Prof. Stein</rs> die Stelle eines
+                    Redakteurs an, und fügte bei: <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> benimmt
+                    sich so, daß <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> alle Ursache hat
                     mit ihm sehr unzufrieden zu sein. Der nächste Konflikt in Europa führt
-                    wahrscheinlich zu einem Kriege von <country key="frankreich" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreich</country> mit <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country>
-                    gegen <country key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</country>. Dann mag <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> seinen Theil nehmen, wir nehmen die
-                        <region key="rheinlande" ref="#place_cd8abe99d876b304a69f6b4c882f41da">Rheinprovinzen</region>; ihnen muß <country key="belgien" ref="#place_f79ffe9e826a19f9f6a446c90e21c4e3">Belgien</country> folgen, und ebenso
-                        <country ref="#place_67eb2b8d0aab60ec69666532ff9527c9">Holland</country>.</p>
+                    wahrscheinlich zu einem Kriege von <rs type="place" subtype="country" key="frankreich" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreich</rs> mit <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>
+                    gegen <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs>. Dann mag <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> seinen Theil nehmen, wir nehmen die
+                        <rs type="place" subtype="region" key="rheinlande" ref="#place_cd8abe99d876b304a69f6b4c882f41da">Rheinprovinzen</rs>; ihnen muß <rs type="place" subtype="country" key="belgien" ref="#place_f79ffe9e826a19f9f6a446c90e21c4e3">Belgien</rs> folgen, und ebenso
+                        <rs type="place" subtype="country" ref="#place_67eb2b8d0aab60ec69666532ff9527c9">Holland</rs>.</p>
                 <p>
-                    <persName key="stein-lorenz">Stein</persName> sagte mir dazu: und haben die
-                    Franzosen das erreicht, so werden sie zu <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> sagen: jetzt hat unsere Allianz ein Ende, wir haben
+                    <rs type="person" ref="stein-lorenz" key="stein-lorenz">Stein</rs> sagte mir dazu: und haben die
+                    Franzosen das erreicht, so werden sie zu <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> sagen: jetzt hat unsere Allianz ein Ende, wir haben
                     was wir brauchen, jetzt sieh du zu, und nimm dir was du willst; – der Norden von
-                        <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country> ist dann aber unter französischem Einfluße.
+                        <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> ist dann aber unter französischem Einfluße.
                 </p>
             </div>
         </body>

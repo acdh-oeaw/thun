@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="rudigier-franz-joseph" role="sender:kleriker">Franz
-                        Rudigier</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="rudigier-franz-joseph" key="rudigier-franz-joseph" role="sender:kleriker">Franz
+                        Rudigier</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_443befbacdaa99c161dd11495b82b99b">Linz</placeName>, <date when="1859-03-31">31. März 1859</date>
+                    <rs type="place" subtype="place" ref="#place_443befbacdaa99c161dd11495b82b99b">Linz</rs>, <date when="1859-03-31">31. März 1859</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -33,7 +32,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -44,17 +43,17 @@
                 </index>
                 <p>Hochgeborner Graf!<lb/>Hochverehrtester Herr Minister!</p>
                 <p>Als ich das letzte Mahl die Ehre hatte, Eurer Excellenz aufzuwarten, haben
-                    Hochdieselben der weitern Entwicklung der <placeName key="lambach" ref="#place_5dbeb093dbe8e51cab45bae7d9ca4b96">Lambacher</placeName> Angelegenheit mit einiger Besorgnis entgegengesehen.
+                    Hochdieselben der weitern Entwicklung der <rs type="place" subtype="place" key="lambach" ref="#place_5dbeb093dbe8e51cab45bae7d9ca4b96">Lambacher</rs> Angelegenheit mit einiger Besorgnis entgegengesehen.
                     Ich glaube daher Eurer Excellenz einen Trost zu bereiten, wenn ich Hochderselben
                     mittheile, daß am 17. dieses Monats die Einführung und Benediktion des neuen
-                    Abtes <persName key="hagn-theoderich">Theoderich Hagn</persName> zu
-                        <placeName ref="#place_89f2d16e5c08e4f697272f049c6f0b4b">Lambach</placeName> in der besten Ordnung vor sich gegangen ist.
+                    Abtes <rs type="person" ref="hagn-theoderich" key="hagn-theoderich">Theoderich Hagn</rs> zu
+                        <rs type="place" subtype="place" ref="#place_89f2d16e5c08e4f697272f049c6f0b4b">Lambach</rs> in der besten Ordnung vor sich gegangen ist.
                     Auch die alten Mitglieder des Stiftes haben bei diesen Feierlichkeiten eine ganz
                     anständige Haltung bewiesen und bei dem Festessen in die allgemeine Heiterkeit
                     eingestimmt. Das Volk hat an dem kirchlichen Theile des Festes großen Antheil
                     genommen und äußert jetzt bereits, sicherem Vernehmen nach, große Zufriedenheit
                     über die neue Ordnung. Die Liebenswürdigkeit der aus
-                        <placeName ref="#place_b42731b5da8a6e9c9d412d284b692f4f">Metten</placeName> gekommenen Mitbrüder und die Freundlichkeit
+                        <rs type="place" subtype="place" ref="#place_b42731b5da8a6e9c9d412d284b692f4f">Metten</rs> gekommenen Mitbrüder und die Freundlichkeit
                     des Abtes wird auch von den alten Conventualen bis jetzt anerkannt.<lb/>Mit
                     allem diesem ist zwar noch nicht ein gutes Ende der Lambacher Sache gegeben,
                     aber doch der Anfang eines solchen; und ich hoffe zu Gott, das gute Ende werde

@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="phillips-george" role="sender:gelehrter">George
-                        Phillips</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="phillips-george" key="phillips-george" role="sender:gelehrter">George
+                        Phillips</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName key="aigen" ref="#place_b6ee3fa99572ecc6e1f16c5b18a3ebb6">Wien</placeName>, <date when="1858-11-24">24. November 1858</date>
+                    <rs type="place" subtype="place" key="aigen" ref="#place_b6ee3fa99572ecc6e1f16c5b18a3ebb6">Wien</rs>, <date when="1858-11-24">24. November 1858</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -40,7 +39,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -104,8 +103,8 @@
                     alles menschliche Wissen zurückzuführen, der auch, Gott sei Dank, sich noch ganz
                     fähig fühlt und mit Freuden bereit wäre, ein Mehreres zu leisten, es gewiß nicht
                     so sehr verübeln, wenn er es schwer empfände, sich hier in
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, nachdem er in <placeName ref="#place_ee1611b61f5688e70c12b40684dbb395">Berlin</placeName> und
-                        <placeName key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</placeName> von Freund und Feind anerkannt
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, nachdem er in <rs type="place" subtype="place" ref="#place_ee1611b61f5688e70c12b40684dbb395">Berlin</rs> und
+                        <rs type="place" subtype="place" key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs> von Freund und Feind anerkannt
                     war, die mühsam auf dem Gebiete der Wissenschaft errungene Stellung vernichten
                     lassen zu müssen. Allein diese persönliche Seite ist das aller Geringste, was
                     mir Leid verursacht; es ist vielmehr der Beitrag, den die gute Sache in meiner –

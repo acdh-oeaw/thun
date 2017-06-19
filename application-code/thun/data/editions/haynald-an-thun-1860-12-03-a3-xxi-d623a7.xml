@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="haynald-lajos" role="sender:kleriker">Lajos Haynald</persName>
-                    an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="haynald-lajos" key="haynald-lajos" role="sender:kleriker">Lajos Haynald</rs>
+                    an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_14fde9ff1bc88b6a4b3884b69424d59f">Karlsburg [Alba Iulia]</placeName>, <date when="1860-12-03">3. Dezember 1860</date>
+                    <rs type="place" subtype="place" ref="#place_14fde9ff1bc88b6a4b3884b69424d59f">Karlsburg [Alba Iulia]</rs>, <date when="1860-12-03">3. Dezember 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -39,7 +38,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="rechberg-rothenloewen-bernhard" role="recipient">Bernhard
-                        Rechberg-Rothenlöwen</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="rechberg-rothenloewen-bernhard" key="rechberg-rothenloewen-bernhard" role="recipient">Bernhard
+                        Rechberg-Rothenlöwen</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1855-12-26">26. Dezember 1855</date>
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1855-12-26">26. Dezember 1855</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -40,7 +39,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -53,7 +52,7 @@
                 <p>Wien 26. Dezember 1855</p>
                 <p>Hochgeborner Graf!</p>
                 <p>Seit einigen Jahren lehrt an der <orgName key="universitaet-goettingen">Göttinger
-                        Universität</orgName> als Privatdozent der Österreicher <persName key="roessler-emil">Dr. Rößler</persName>. Er hat sich schon vor dem Jahre
+                        Universität</orgName> als Privatdozent der Österreicher <rs type="person" ref="roessler-emil" key="roessler-emil">Dr. Rößler</rs>. Er hat sich schon vor dem Jahre
                         <date when="1848">1848</date> in Österreich mit rechtshistorischen
                     Forschungen abgegeben, war in jenem Jahre Deputierter bei dem Frankfurter
                     Parlament und als solcher einer der 4 Österreicher, welche für die Wahl des
@@ -64,25 +63,25 @@
                     Gotha'schen Partei gestanden und dürfte dem Einfluße der wissenschaftlichen
                     Männer dieser Partei auch noch nicht entrückt sein. Er liest in Göttingen
                     Rechtsgeschichte und deutsches Recht, soll sich einen guten Namen gegründet
-                    haben und ist mir kürzlich auf indirektem Wege sogar durch <persName key="savigny-friedrich-carl">Savigny</persName> empfohlen worden. Nachdem er
+                    haben und ist mir kürzlich auf indirektem Wege sogar durch <rs type="person" ref="savigny-friedrich-carl" key="savigny-friedrich-carl">Savigny</rs> empfohlen worden. Nachdem er
                     gleichwohl im Auslande eine Anstellung bisher nicht erlangt hat, so wünscht er
-                    begreiflicher Weise angelegentlich wieder in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> angestellt zu werden und sein Wunsch wird von
-                    zahlreichen Freunden in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country>
+                    begreiflicher Weise angelegentlich wieder in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> angestellt zu werden und sein Wunsch wird von
+                    zahlreichen Freunden in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>
                     getheilt, die in ihm einen der ersten vaterländischen Vertreter
                     rechtshistorischer Studien erblicken. Ich sehe mich durch diese Umstände
-                    gezwungen, die Frage in Erwägung zu ziehen, ob seine Anstellung in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> zulässig sei. Sie hängt zunächst von
+                    gezwungen, die Frage in Erwägung zu ziehen, ob seine Anstellung in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> zulässig sei. Sie hängt zunächst von
                     den beiden Vorfragen ab, welches Gewicht noch gegenwärtig seiner erwähnten
                     Theilnahme an der Abstimmung über die Kaiserfrage beizumessen sei, und in wie
                     weit etwa zu besorgen stehe, daß er noch gegenwärtig den wissenschaftlichen
-                    Richtungen der Gotha'er Partei angehöre und in diesem Sinne in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> wirken würde, wozu das Lehrfach der
+                    Richtungen der Gotha'er Partei angehöre und in diesem Sinne in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> wirken würde, wozu das Lehrfach der
                     deutschen Reichs- und Rechtsgeschichte allerdings mehr als jedes andere
                     Gelegenheit bietet. Eurer Exzellenz wird es nicht an Gelegenheit fehlen, über
                     diese Fragen im vertraulichen Wege in so weit verläßliche Auskunft einzuholen,
-                    als solches überhaupt möglich ist: Männer der Wissenschaft, welche in <country key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschland</country> leben, die wissenschaftlichen
+                    als solches überhaupt möglich ist: Männer der Wissenschaft, welche in <rs type="place" subtype="country" key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschland</rs> leben, die wissenschaftlichen
                     Bewegungen mit sorgfältigem Auge beobachten, selbst aber mit aufrichtiger
                     Überzeugung auf dem richtigen Standpunkte stehen, sind allein befähigt, über
                     solche Fragen Aufschluß zu geben. Einen solchen Mann haben Eure Exzellenz in der
-                    Person des <persName key="linde-justin">Staatsrathes Linde</persName> an Ihrer
+                    Person des <rs type="person" ref="linde-justin" key="linde-justin">Staatsrathes Linde</rs> an Ihrer
                     Seite, welcher mir bereits manchen wichtigen Dienst ähnlicher Art geleistet hat
                     und Euer Exzellenz werden ohne Zweifel noch mit manchem ebenso verlässlichen und
                     wohlunterrichteten Manne in Berührung stehen. Deßhalb habe ich die Ehre, Eure
@@ -92,7 +91,7 @@
                     Euer Exzellenz zu ersuchen, das beiliegende Schreiben<note xml:id="note_1">
                         <ref target="thun/thun-korrespondenz/Bundesarchiv_Koblenz/thun-an-linde_1855-12-26_CA1130.xml">Leo Thun an Justin Linde. Wien, 26. Dezember 1855.</ref> Der Brief
                         findet sich im Nachlass von Justin Linde im Bundesarchiv in Koblenz, Sign. N
-                        1759, 51.</note>, in welchem ich die Gefälligkeit des <persName key="linde-justin">Staatsrathes Linde</persName> noch in einer anderen
+                        1759, 51.</note>, in welchem ich die Gefälligkeit des <rs type="person" ref="linde-justin" key="linde-justin">Staatsrathes Linde</rs> noch in einer anderen
                     Angelegenheit in Anspruch nehme, demselben zukommen zu lassen zu
                     wollen.<lb/>Genehmigen Euer Exzellenz den Ausdruck der ausgezeichnetsten
                     Hochachtung, mit welcher ich die Ehre habe zu sein</p>

@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Das Lehrerkollegium des Gymnasiums in Marburg [Maribor] an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                <title>Das Lehrerkollegium des Gymnasiums in Marburg [Maribor] an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_5d32722eb37746f42ea031ac604e15aa">Marburg [Maribor]</placeName>, <date when="1860-10-28">28. Oktober 1860</date>
+                    <rs type="place" subtype="place" ref="#place_5d32722eb37746f42ea031ac604e15aa">Marburg [Maribor]</rs>, <date when="1860-10-28">28. Oktober 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -36,7 +35,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -46,17 +45,17 @@
                     <term>Entlassung Thuns</term>
                 </index>
                 <p>Euer Excellenz!</p>
-                <p> Das hoffnungsvolle Aufblühen eines regen wissenschaftlichen Lebens in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</country> neugestalteten Mittelschulen; die
+                <p> Das hoffnungsvolle Aufblühen eines regen wissenschaftlichen Lebens in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> neugestalteten Mittelschulen; die
                     Heranbildung eines für seinen Beruf tüchtig vorgeschulten, in seiner Wirksamkeit
                     allseitig kräftig unterstützten Gymnasiallehrerstandes, die sorglichste
                     Förderung der der Schule und ihren Vertretern im Interesse des Staatswohles
                     gebührenden Anerkennung – das sind zunächst die Momente, die der Lehrkörper des
                     k.k. Marburger Gymnasiums, gleichgesinnt mit allen dankbareren Standesgenossen,
                     in dem Augenblicke sich vergegenwärtigte, als demselben die neuesten weit
-                    reichenden allerhöchsten Reformentschließungen <persName key="franz-joseph">Seiner Majestät</persName> zur Kenntnis kamen.<lb/>Möge es den
+                    reichenden allerhöchsten Reformentschließungen <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät</rs> zur Kenntnis kamen.<lb/>Möge es den
                     ehrfurchtsvoll Unterzeichneten gestattet sein, diesem Gefühle dankbarer
                     Würdigung der hohen Verdienste Eurer Excellenz um die Pflege vaterländischer
-                    sittlich intellektueller Bildung, deren <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</country> Geschichte in spätern Jahren noch treu gedenken wird,
+                    sittlich intellektueller Bildung, deren <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> Geschichte in spätern Jahren noch treu gedenken wird,
                     in diesen Zeilen wahrhaften Ausdruck zu geben.</p>
                 <p>Adolph Lang<lb/>k.k. Gymnasialdirektor</p>
                 <p>Dr. Rudolf Puff<lb/>Franz Sperka<lb/>Georg Mathiaschitsch Religionslehrer<lb/>Dr.

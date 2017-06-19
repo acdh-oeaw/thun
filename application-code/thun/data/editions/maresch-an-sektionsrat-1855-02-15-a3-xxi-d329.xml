@@ -1,16 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="maresch-johann" role="sender:kleriker">Johann
-                        Maresch</persName> an <persName role="recipient">Unbekannt</persName>
+                    <rs type="person" ref="maresch-johann" key="maresch-johann" role="sender:kleriker">Johann
+                        Maresch</rs> an <rs type="person" ref="" role="recipient">Unbekannt</rs>
                     <note xml:id="note_1">Die Anrede als "Hochwürdiger Herr Sektionsrat" legt nahe,
                         dass es sich bei dem Adressaten entweder um Johann Simor oder Anton
                         Krombholz handelt.</note>
                     <lb/>
-                    <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, <date when="1855-02-15">15. Februar 1855</date>
+                    <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1855-02-15">15. Februar 1855</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -48,7 +47,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -73,12 +72,12 @@
                     der Gymnasien wie die der Real- und Volksschulen zu Beiräthen des
                     Schulreferenten herabgesunken, welche derselbe hören kann, aber nicht muß,
                     zuweilen auch nicht hört und künftig gänzlich ignorieren wird. Heute beschwerte
-                    sich <persName key="effenberger-franz-ferdinand">Effenberger</persName> gegen
+                    sich <rs type="person" ref="effenberger-franz-ferdinand" key="effenberger-franz-ferdinand">Effenberger</rs> gegen
                     mich, daß wichtige Verordnungen an die Gymnasialdirekzionen ergehen, von denen
                     er erst aus den Konferenzprotokollen Kunde erhält, daß Schüler aus den Anstalten
                     ausgeschlossen werden, ohne daß der Referent um die Zustimmung des Inspektors
-                    sich kümmert, weßhalb <persName key="effenberger-franz-ferdinand">Effenberger</persName> allen Muth verliere. Ich kann das Gleiche berichten.
-                    Der älteste Lehrer in <placeName ref="#place_0b6cbdf7ad2928078f1600a3e8979485">Plan</placeName> erhielt das silberne
+                    sich kümmert, weßhalb <rs type="person" ref="effenberger-franz-ferdinand" key="effenberger-franz-ferdinand">Effenberger</rs> allen Muth verliere. Ich kann das Gleiche berichten.
+                    Der älteste Lehrer in <rs type="place" subtype="place" ref="#place_0b6cbdf7ad2928078f1600a3e8979485">Plan</rs> erhielt das silberne
                     Verdienstkreuz, ohne daß ich über seine Verdienste befragt ward, der Katechet
                     für die Czeslauer Hauptschule wurde auf diesen Posten angestellt, ohne daß ich
                     mein Votum abzugeben veranlaßt ward, Privatinstitute werden bewilligt, ohne daß
@@ -87,7 +86,7 @@
                     Kurz, wir sind nur noch der Schatten der früheren Schulräthe, und bald werden
                     wir unwissender in dem sein was im Departement vorgeht, als die Konzipisten und
                     Konzeptsadjunkten, welche bei uns arbeiten.<lb/>Wie man uns anderweitig achtet
-                    geht daraus hervor, daß <persName key="zeithammer-gregor">Zeithammer</persName>
+                    geht daraus hervor, daß <rs type="person" ref="zeithammer-gregor" key="zeithammer-gregor">Zeithammer</rs>
                     und ich ein gemeinsames Bureau haben, wodurch besonders bei Besuchen einer den
                     anderen stört, und die Parteien nicht wenig genirt sind, welche mit uns zu
                     sprechen haben. Keine Tafel besagt, wo ein Schulrath zu finden, nur für die
@@ -138,18 +137,18 @@
                     werden in den Unterrealschulen für Konturzeichnungen gute Dienste leisten, an
                     den Oberrealschulen aber zu Ausführungen in verschiedener Manier benutzt
                     werden.<lb/>Herzlichen Dank für die 500 fr zur Anstellung eines Zeichnenlehrers
-                    in <placeName ref="#place_5ba859b0a99686e9c549527406f68474">Steinschönau</placeName> [Kamenický Šenov]. Schon ist der Grund zu
-                    einem kleinen Fonde dadurch gelegt, daß Herr <persName key="hofmann-wilhelm">Hofmann</persName>, Glasraffineur und Glashändler in
-                        <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, den ich bei allen Schritten für
-                        <placeName ref="#place_5ba859b0a99686e9c549527406f68474">Steinschönau</placeName> theils berieth, theils von dem Geschehen
+                    in <rs type="place" subtype="place" ref="#place_5ba859b0a99686e9c549527406f68474">Steinschönau</rs> [Kamenický Šenov]. Schon ist der Grund zu
+                    einem kleinen Fonde dadurch gelegt, daß Herr <rs type="person" ref="hofmann-wilhelm" key="hofmann-wilhelm">Hofmann</rs>, Glasraffineur und Glashändler in
+                        <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, den ich bei allen Schritten für
+                        <rs type="place" subtype="place" ref="#place_5ba859b0a99686e9c549527406f68474">Steinschönau</rs> theils berieth, theils von dem Geschehen
                     verständigte, zu den bereits auf Zeichnungen für Steinschönau jüngst gewidmeten
                     Betrage von 100 fr einen weiteren Betrag von 400 fr widmete. Daß ich durch diese
                     Gabe erfreut, bereits den Vikär und Ortsseelsorger davon in Kenntnis setzte und
-                    aufforderte für Bildung des Fondes in <placeName ref="#place_5ba859b0a99686e9c549527406f68474">Steinschönau</placeName> um so
+                    aufforderte für Bildung des Fondes in <rs type="place" subtype="place" ref="#place_5ba859b0a99686e9c549527406f68474">Steinschönau</rs> um so
                     mehr thätig zu sein, als selbst ein Prager Bürger solche Opfer bringt, versteht
                     sich von selbst. Sobald die Sammlung in Steinschönau vollendet ist, werde ich
                     einen Bericht darüber für den Schulboten einsenden. Bereits hat man in
-                        <placeName ref="#place_5ba859b0a99686e9c549527406f68474">Steinschönau</placeName> erklärt die 500 fr von <persName key="hofmann-wilhelm">Hoffmann</persName> ungeschmälert zu erhalten und die
+                        <rs type="place" subtype="place" ref="#place_5ba859b0a99686e9c549527406f68474">Steinschönau</rs> erklärt die 500 fr von <rs type="person" ref="hofmann-wilhelm" key="hofmann-wilhelm">Hoffmann</rs> ungeschmälert zu erhalten und die
                     bereits beigeschafften Zeichnungsvorlagen aus Gemeindemitteln zu bezahlen.
                     Wieder ein Samenkörnlein des Guten in unserem lieben Heimathslande.<lb/>Für
                     heute genug. Leben Sie wohl. Meine gute Mutter meldet ihren Handkuß. In aller

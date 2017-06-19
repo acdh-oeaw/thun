@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="maassen-friedrich" role="sender:gelehrter">Friedrich
-                        Maassen</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="maassen-friedrich" key="maassen-friedrich" role="sender:gelehrter">Friedrich
+                        Maassen</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</placeName>, <date when="1860-01-22">22. Januar 1860</date>
+                    <rs type="place" subtype="place" ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</rs>, <date when="1860-01-22">22. Januar 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -40,7 +39,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -52,22 +51,22 @@
                     <term>Römisches Recht</term>
                 </index>
                 <p>Eure Excellenz!</p>
-                <p>Nachdem ich jetzt bereits länger als ein Vierteljahr in <placeName key="paris" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</placeName> mich aufgehalten und während dieser Zeit ohne
+                <p>Nachdem ich jetzt bereits länger als ein Vierteljahr in <rs type="place" subtype="place" key="paris" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs> mich aufgehalten und während dieser Zeit ohne
                     Unterbrechung mit Recherchen auf der hiesigen kaiserlichen Bibliothek mich
                     beschäftigt habe, bitte ich um die hohe Erlaubnis, über die Ergebnisse meiner
                     bisherigen Nachforschungen ehrerbietigst Bericht abstatten zu dürfen.
                     Hochdieselben haben mein Unternehmen mit soviel Huld begleitet, es mit so
                     besondrer Gunst gefördert, ja, ich kann mit Recht sagen, erst möglich gemacht,
                     daß ich zu hoffen wage, Hochdieselben werden meinen Bericht nicht ungnädig
-                    aufnehmen.<lb/>Statt, wie ursprünglich mein Plan war, zuerst nach <placeName key="bruessel" ref="#place_7279949b987b1b373468947f87fe6753">Brüssel</placeName> zu gehen, entschloß ich mich noch kurz
-                    vor meiner Abreise, ohne Aufenthalt direct nach <placeName key="paris" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</placeName> mich zu begeben und erst auf dem Rückwege in <placeName key="bruessel" ref="#place_7279949b987b1b373468947f87fe6753">Brüssel</placeName> zu verweilen. Was ich über die hiesigen
+                    aufnehmen.<lb/>Statt, wie ursprünglich mein Plan war, zuerst nach <rs type="place" subtype="place" key="bruessel" ref="#place_7279949b987b1b373468947f87fe6753">Brüssel</rs> zu gehen, entschloß ich mich noch kurz
+                    vor meiner Abreise, ohne Aufenthalt direct nach <rs type="place" subtype="place" key="paris" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs> mich zu begeben und erst auf dem Rückwege in <rs type="place" subtype="place" key="bruessel" ref="#place_7279949b987b1b373468947f87fe6753">Brüssel</rs> zu verweilen. Was ich über die hiesigen
                     canonistischen Manuscripte aus dem um die Mitte des vorigen Jahrhunderts
                     gedruckten Katalog und aus verschiedenen Nachrichten über die seit der
                     Revolution zugewachsenen Fonds erfahren hatte, ließ mich erwarten, daß meine
                     Ausbeute hier eine sehr große sein werde. Es erschien mir daher bei nochmaliger
                     Überlegung rathsam, erst dann minder bedeutende Punkte aufzusuchen, wenn ich in
-                        <placeName ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</placeName> fertig sei.<lb/>Meine Erwartungen über das, was
-                    ich in <placeName ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</placeName> finden würde, waren groß; aber sie sind
+                        <rs type="place" subtype="place" ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</rs> fertig sei.<lb/>Meine Erwartungen über das, was
+                    ich in <rs type="place" subtype="place" ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</rs> finden würde, waren groß; aber sie sind
                     durch das, was ich wirklich gefunden habe, weit übertroffen.<lb/>Es wäre mir
                     unmöglich Eurer Excellenz ein Resumé meiner hiesigen Erhebungen zu geben, ohne
                     zuvor meinen ehrerbietigsten und tiefsten Dank auszusprechen für die ausnehmende
@@ -75,39 +74,39 @@
                     größten Theil ungehobenen literarischen Schätze für meinen Zweck fruchtbar zu
                     machen.<lb/>Was die Quellen betrifft, so fanden sich zunächst drei bisher
                     unbekannte Decretalensammlungen des 12. Jahrhunderts – eine aus dem alten Fonds
-                    der Königlichen Bibliothek, die zweite aus <placeName ref="#place_248c9c4827338eebedb24d27d4d13e56">Compiegne</placeName>, die
-                    dritte aus <placeName ref="#place_34ba6e4340cdd43a867175fb3e8d4f2d">St. Germain</placeName> –, die über die Genesis der ersten
+                    der Königlichen Bibliothek, die zweite aus <rs type="place" subtype="place" ref="#place_248c9c4827338eebedb24d27d4d13e56">Compiegne</rs>, die
+                    dritte aus <rs type="place" subtype="place" ref="#place_34ba6e4340cdd43a867175fb3e8d4f2d">St. Germain</rs> –, die über die Genesis der ersten
                     von der Schule recipirten, das Muster aller spätern bildenden Sammlung ein
                     vollkommen neues Licht verbreiten. Es läßt sich zeigen, daß die drei bisher
                     bekannten Sammlungen – von denen die eine in den großen Collectionen der
-                    Concilien, die andre nach einer <placeName key="kassel" ref="#place_806119540e45af1f044b7a827623d25f">Kasselschen</placeName>
-                    Handschrift in <persName key="boehmer-justus">Böhmers</persName> Corpus juris
-                    canonici abgedruckt, die dritte aber durch <persName key="richter-emil">Richter</persName> in einer Leipziger Handschrift entdeckt ist –,
+                    Concilien, die andre nach einer <rs type="place" subtype="place" key="kassel" ref="#place_806119540e45af1f044b7a827623d25f">Kasselschen</rs>
+                    Handschrift in <rs type="person" ref="boehmer-justus" key="boehmer-justus">Böhmers</rs> Corpus juris
+                    canonici abgedruckt, die dritte aber durch <rs type="person" ref="richter-emil" key="richter-emil">Richter</rs> in einer Leipziger Handschrift entdeckt ist –,
                     wesentlich nur Seitenäste sind, während durch zwei von diesen unmittelbar der
                     Stoff in die Compilatio prima geleitet wurde. Ferner fand sich in dem Fonds
-                    Bouchier die Sammlung <persName key="bernhard-compostela">Bernhards von
-                        Compostella</persName> von Decretalen Innocenz III., die bisher nur nach
-                    einer ziemlich ungenauen Beschreibung einer Londoner Handschrift durch <persName key="theiner-augustin">Theiner</persName> bekannt war. Mit Hülfe dieser vier
-                    Handschriften, einer in <placeName ref="#place_ea6515eca27ae68c06c82e8cc2a6d318">Salzburg</placeName> von mir aufgefundenen
-                    der verloren geglaubten Sammlung des <persName>Alanus</persName> und zwei
+                    Bouchier die Sammlung <rs type="person" ref="bernhard-compostela" key="bernhard-compostela">Bernhards von
+                        Compostella</rs> von Decretalen Innocenz III., die bisher nur nach
+                    einer ziemlich ungenauen Beschreibung einer Londoner Handschrift durch <rs type="person" ref="theiner-augustin" key="theiner-augustin">Theiner</rs> bekannt war. Mit Hülfe dieser vier
+                    Handschriften, einer in <rs type="place" subtype="place" ref="#place_ea6515eca27ae68c06c82e8cc2a6d318">Salzburg</rs> von mir aufgefundenen
+                    der verloren geglaubten Sammlung des <rs type="person" ref="">Alanus</rs> und zwei
                     Fuldaischen Manuscripten, von denen ich durch Güte die Beschreibung des
-                    verstorbenen <persName key="bickell-wilhelm">Bickell</persName> besitze, wird es
+                    verstorbenen <rs type="person" ref="bickell-wilhelm" key="bickell-wilhelm">Bickell</rs> besitze, wird es
                     nun möglich, eine <hi rend="ul">vollständige</hi> Geschichte der
-                    Quellensammlungen von <persName key="gratian">Gratians</persName> Decret bis zu
-                    der 1234 erschienenen Sammlung <persName key="gregor-IX">Gregors IX.</persName>
+                    Quellensammlungen von <rs type="person" ref="gratian" key="gratian">Gratians</rs> Decret bis zu
+                    der 1234 erschienenen Sammlung <rs type="person" ref="gregor-IX" key="gregor-IX">Gregors IX.</rs>
                     zu geben.<lb/>Für die Geschichte der zwischen die letztgenannte Sammlung und den
-                    liber sextus <persName key="bonifaz-VIII">Bonifacius des VIII.</persName>
+                    liber sextus <rs type="person" ref="bonifaz-VIII" key="bonifaz-VIII">Bonifacius des VIII.</rs>
                     fallenden Decretalen, namentlich über die Art und Weise, wie man sie selbständig
                     sammelte oder aber der Gregorianischen Sammlung einzuverleiben suchte, habe ich
                     ebenfalls interessante Aufschlüsse gefunden. Für die Clementinen und
-                    Extravaganten hat schon früher <persName key="bickell-wilhelm">Bickell</persName> die hiesige Bibliothek benutzt. Es fanden sich aber auch
-                    für die Geschichte dieser Sammlungen in Manuscripten, die zu <persName key="bickell-wilhelm">Bickell</persName>’s Zeit noch nicht katalogisirt
+                    Extravaganten hat schon früher <rs type="person" ref="bickell-wilhelm" key="bickell-wilhelm">Bickell</rs> die hiesige Bibliothek benutzt. Es fanden sich aber auch
+                    für die Geschichte dieser Sammlungen in Manuscripten, die zu <rs type="person" ref="bickell-wilhelm" key="bickell-wilhelm">Bickell</rs>’s Zeit noch nicht katalogisirt
                     waren, neue, erhebliche Gesichtspunkte.<lb/>Was die Literatur des canonischen
                     Rechts betrifft, so ist die Ausbeute sehr groß. Es ist keine für meinen Zweck in
                     Betracht kommende Periode, die hier nicht in ihren bedeutendern und minder
-                    bedeutenden Schriftstellern reich vertreten wäre. Die Literatur von <persName key="gratian">Gratians</persName> Decret, die Literatur der
-                    Decretalensammlungen von dem Breviarium <persName key="bernhard-pavia">Bernhards
-                        von Pavia</persName> bis zu den letzten Extravaganten, die systematischen
+                    bedeutenden Schriftstellern reich vertreten wäre. Die Literatur von <rs type="person" ref="gratian" key="gratian">Gratians</rs> Decret, die Literatur der
+                    Decretalensammlungen von dem Breviarium <rs type="person" ref="bernhard-pavia" key="bernhard-pavia">Bernhards
+                        von Pavia</rs> bis zu den letzten Extravaganten, die systematischen
                     Arbeiten über das canonische Recht im Ganzen, wie die Tractate über einzelne
                     Materien, den Proceß, das Eherecht usw. sind in großer Fülle vorhanden und was
                     die Arbeit so ersprießlich macht, meistens dasselbe Werk in mehreren Exemplaren,
@@ -121,9 +120,9 @@
                     Notizen in ihnen, wäre unmöglich gewesen. Ich habe mir für ein näheres Studium
                     vorzugsweise solche Werke gewählt, von denen ich mit Wahrscheinlichkeit keine
                     Exemplare auf österreichischen und deutschen Bibliotheken finde. Neben anderm
-                    ist mir der handschriftliche Nachlaß des ausgezeichneten Gelehrten <persName key="baluze-etienne">Baluze</persName>, in dem mir durch die Gefälligkeit
+                    ist mir der handschriftliche Nachlaß des ausgezeichneten Gelehrten <rs type="person" ref="baluze-etienne" key="baluze-etienne">Baluze</rs>, in dem mir durch die Gefälligkeit
                     eines Angestellten der Bibliothek das für mich erhebliche, namentlich eine
-                    vollständig vorbereitete neue Ausgabe der Briefe <persName key="stephan-tournai">Stephans von Tournai</persName> mit Noten, nachgewiesen wurde, sehr zu
+                    vollständig vorbereitete neue Ausgabe der Briefe <rs type="person" ref="stephan-tournai" key="stephan-tournai">Stephans von Tournai</rs> mit Noten, nachgewiesen wurde, sehr zu
                     Statten gekommen.<lb/>Was mir jetzt noch bleibt, sind die vorgratianischen
                     Canonensammlungen, soweit sie für meinen Zweck Bedeutung haben. Es handelt sich
                     vor allen Dingen um die vermittelnden Sammlungen, mit denen sich der erste,
@@ -133,9 +132,9 @@
                     dieser letzte kleinere Theil meiner hiesigen Arbeit nach Wunsch ausfällt, was
                     ich nicht bezweifle, so habe ich daher allen Grund von dem Ergebnis meines
                     hiesigen Aufenthalts in ausgezeichnetem Maaße befriedigt zu sein.<lb/>Die
-                    Hauptpunkte, die mir nach <placeName ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</placeName> noch bleiben, sind
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> und einige der bedeutendsten italienischen
-                    Sammlungen. Ohne in <placeName ref="#place_7014d0181914fb4722b90a49d53f5471">Bologna</placeName> gewesen zu sein, könnte ich
+                    Hauptpunkte, die mir nach <rs type="place" subtype="place" ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</rs> noch bleiben, sind
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> und einige der bedeutendsten italienischen
+                    Sammlungen. Ohne in <rs type="place" subtype="place" ref="#place_7014d0181914fb4722b90a49d53f5471">Bologna</rs> gewesen zu sein, könnte ich
                     nicht mit der genügenden Sicherheit behaupten, daß mir nichts Wesentliches
                     entgangen sei.<lb/>Damit wäre der erste, schwierigere Theil des Unternehmens,
                     das Suchen der Handschriften, beendigt.<lb/>Die zweite, nicht minder wichtige
@@ -149,19 +148,19 @@
                     Excellenz zu Gnaden, wenn ich vor dem Schlusse meines ehrerbietigsten Schreibens
                     noch einen Punkt berühre, der lediglich meine Person angeht. Ich habe schon
                     früher Eurer Excellenz gehorsamst vorzutragen mir erlaubt, wie ungünstig das
-                        <placeName key="innsbruck" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbrucker</placeName> Klima auf meine
+                        <rs type="place" subtype="place" key="innsbruck" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbrucker</rs> Klima auf meine
                     Gesundheit einwirkt. Statt abzunehmen hat das Übel zugenommen. Nicht ohne ernste
                     Sorge sehe ich einem erneuerten längern Aufenthalt in
-                        <placeName ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</placeName> entgegen. Ich würde alle andern
+                        <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs> entgegen. Ich würde alle andern
                     Belästigungen des dortigen Klimas, häufigen mitunter sehr heftigen Kopfschmerz,
                     schlechten durch Beängstigung gestörten Schlaf minder hoch anschlagen, wenn
                     nicht unter den durch das Klima bewirkten Congestionen auch meine Augen litten.
                     Das aber ist ein Punkt, der mich entschieden beunruhigt. Ich habe hier in
-                        <placeName ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</placeName> viel mehr gearbeitet, als während des letzten
-                    Sommers in <placeName ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</placeName> und doch sind meine Augen merklich
+                        <rs type="place" subtype="place" ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</rs> viel mehr gearbeitet, als während des letzten
+                    Sommers in <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs> und doch sind meine Augen merklich
                     besser, namentlich frei von jeder schmerzhaften Empfindung. Kopfschmerz habe ich
                     noch nicht ein einziges "Mal" gehabt. Bevor ich nach
-                        <placeName ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</placeName> kam, waren mir Kopfschmerzen eine
+                        <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs> kam, waren mir Kopfschmerzen eine
                     unbekannte Sache.<lb/>Daß es lediglich das Interesse meiner Gesundheit und nicht
                     etwa das der Verbesserung meiner finanziellen Lage ist – so sehr ich Grund habe
                     die letztre zu wünschen –, was mich eine Versetzung von <orgName key="universitaet-innsbruck">Innsbruck</orgName> wünschen läßt, wird Eurer
@@ -170,14 +169,14 @@
                     ist. Ich würde Hochdenselben zu großem Danke mich verpflichtet fühlen, wenn mir
                     eine Professur an einer mit <orgName key="universitaet-innsbruck">Innsbruck</orgName> vollkommen gleichgestellten Universität, z. B. <orgName key="universitaet-graz">Gratz</orgName>, übertagen würde.<lb/>Im Interesse
                     meiner Bitte darf ich nicht unerwähnt lassen, daß der Privatdocent der
-                    juristischen Facultät in <orgName key="universitaet-innsbruck">Innsbruck</orgName> Dr. <persName key="tewes-heinrich-august">Tewes</persName> als tüchtiger und strebsamer junger Gelehrter von guten
+                    juristischen Facultät in <orgName key="universitaet-innsbruck">Innsbruck</orgName> Dr. <rs type="person" ref="tewes-heinrich-august" key="tewes-heinrich-august">Tewes</rs> als tüchtiger und strebsamer junger Gelehrter von guten
                     Grundsätzen und Sitten sich empfiehlt. Er liest in diesem Semester Institutionen
                     vor 36 Hörern; wie ich vernehme, mit großem Beifall. Er schreibt mir, daß er
                     gegenwärtig mit einer Publication beschäftigt sei. Ich bin der Überzeugung, daß
                     den Bedürfnissen der <orgName key="universitaet-innsbruck">Innsbrucker
-                        Universität</orgName> durch Professor <persName key="theser-ernst">Theser</persName> und Dr. <persName key="tewes-heinrich-august">Tewes</persName> bezüglich des römischen Rechts vollkommen genügt
+                        Universität</orgName> durch Professor <rs type="person" ref="theser-ernst" key="theser-ernst">Theser</rs> und Dr. <rs type="person" ref="tewes-heinrich-august" key="tewes-heinrich-august">Tewes</rs> bezüglich des römischen Rechts vollkommen genügt
                     ist.<lb/>Verzeihen Eure Excellenz, daß ich Hoch Sie mit den Angelegenheiten
-                    meiner Person selbst von <placeName ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</placeName> aus nicht verschone. Aber
+                    meiner Person selbst von <rs type="place" subtype="place" ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</rs> aus nicht verschone. Aber
                     es liegt ein Fall der Noth für mich vor.<lb/>Indem ich noch einmal um Erlaubnis
                     bitte, Hochdenselben meinen gehorsamsten und innigsten Dank ausdrücken zu
                     dürfen, verharre ich in unbegränzter Hochachtung und ausgezeichnetem Respect

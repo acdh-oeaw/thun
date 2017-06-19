@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="steger-joseph" role="sender:kleriker">Joseph Steger</persName>
+                    <rs type="person" ref="steger-joseph" key="steger-joseph" role="sender:kleriker">Joseph Steger</rs>
                     an einen unbekannten Adressaten<note xml:id="note_1">Ein möglicher Adressat ist
                         der Priester Joseph Fessler, Professor an der Universität Wien. Steger hatte
                         bei Fessler am Brixner Diözesanseminar studiert. Fessler stand mit Thun
@@ -13,7 +12,7 @@
                         Hinweis auf einen sonstigen Briefkontakt mit Joseph
                         Steger.</note>
                     <lb/>
-                    <placeName ref="#place_fd3ebb9f41f9f036dba5791051bc5749">Marburg</placeName>, <date when="1860-07-25">25. Juli 1860</date>
+                    <rs type="place" subtype="place" ref="#place_fd3ebb9f41f9f036dba5791051bc5749">Marburg</rs>, <date when="1860-07-25">25. Juli 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -50,7 +49,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -65,7 +64,7 @@
                     sich leider erwahrt, die Befürchtung nämlich, daß die nazionale Agitation von
                     ein, zwei slovenischen Mitgliedern unseres Lehrkörpers früher oder später auch
                     offen zu Tage treten werde.<lb/>Durch Zufall kam mir zur Kenntnis, daß in der
-                    der slovenischen Zeitschrift „Noviće“, in <placeName ref="#place_4c08517eb5fb97b0e860b2e0b82d5f05">Laibach</placeName>
+                    der slovenischen Zeitschrift „Noviće“, in <rs type="place" subtype="place" ref="#place_4c08517eb5fb97b0e860b2e0b82d5f05">Laibach</rs>
                     erscheinend, Anklagen der schweresten Art gegen die deutschen Mitglieder des
                     Lehrkörpers vorkommen, ein Kollege konnte sich die betreffenden Nummern
                     benannter Zeitschrift (Nr. 28 und 29, des 11. und 28. Juli)<note xml:id="note_2">Der zweite Teil des Aufsatzes erschien nicht am 28. Juli, sondern am 18.
@@ -74,8 +73,8 @@
                             in rokodelske novice (11.07.1860), Jahrgang 18, Nr. 28, S. 219–220</ref>
                         und in: <ref target="http://www.dlib.si/?URN=URN:NBN:SI:DOC-ZR5TNGJ0">Kmetijske in rokodelske novice (18.07.1860), Jahrgang 18, Nr. 29, S.
                             227–229</ref>.</note> nebst einer wörtlich genauen Übersetzung
-                    verschaffen. Der Aufsatz ist von einem <persName key="raic-bozidar">slovenischen
-                        Mitgliede unseres Lehrkörpers, Weltpriester hiesiger Diözese</persName>,
+                    verschaffen. Der Aufsatz ist von einem <rs type="person" ref="raic-bozidar" key="raic-bozidar">slovenischen
+                        Mitgliede unseres Lehrkörpers, Weltpriester hiesiger Diözese</rs>,
                     unterzeichnet und enthält nebst allgemein gehaltenen Klagen gegen die Regierung
                     wegen ihres Germanisirens und Aussendens deutscher „Apostel der Kultur“, nebst
                     einzelnen Ausfällen gegen die hiesige Gymnasialdirektion noch folgende spezielle
@@ -85,7 +84,7 @@
                     wenn ein Schüler in seiner Muttersprache tüchtiges geleistet, habe man ihn
                     gerade deshalb in anderen Gegenständen herabgedrückt. Der Aufsatz ist
                     überschrieben: „Das Slovenenthum und die Mittelschulen in
-                        <placeName ref="#place_fd3ebb9f41f9f036dba5791051bc5749">Marburg</placeName>“.<lb/>Ich berieth mich nun mit dem Kollegen,
+                        <rs type="place" subtype="place" ref="#place_fd3ebb9f41f9f036dba5791051bc5749">Marburg</rs>“.<lb/>Ich berieth mich nun mit dem Kollegen,
                     was da zu thun sei.<lb/>Aus zwei Gründen glaubten wir die Sache nicht mit
                     Stillschweigen hinnehmen zu dürfen. Erstens sahen wir in dem Aufsatze einen
                     Angriff auf unsere Ehrenhaftigkeit und Gerechtigkeit, die wir treu dem Gewissen
@@ -124,17 +123,17 @@
                     Auftritten zwischen deutschen und slovenischen Schülern gekommen.<lb/>Ich für
                     meine Person kann mich nicht des Gedankens erwähren, daß in der ganzen Sache
                     Methode ist und daß der Verfasser des Artikels sicheren Rücken zu haben glauben
-                    muß. <country ref="#place_389962c9dec540ab28d04517e82c3996">Italien</country> und <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> mahnen zu sehr an
+                    muß. <rs type="place" subtype="country" ref="#place_389962c9dec540ab28d04517e82c3996">Italien</rs> und <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> mahnen zu sehr an
                     das Gebet: Domine, salvum fac imperatorem nostrum! Schon vier Wochen vor dieser
-                    Affaire habe ich und <persName key="biohl">Biehl</persName> nach
-                        <placeName ref="#place_ea6515eca27ae68c06c82e8cc2a6d318">Salzburg</placeName> kompetirt, allein bei der jetzigen Sachlage
+                    Affaire habe ich und <rs type="person" ref="biohl" key="biohl">Biehl</rs> nach
+                        <rs type="place" subtype="place" ref="#place_ea6515eca27ae68c06c82e8cc2a6d318">Salzburg</rs> kompetirt, allein bei der jetzigen Sachlage
                     kann ich mir keine Hoffnung machen wegzukommen.<lb/>Mich Ihrer ferneren
                     Freundschaft und Güte empfohlen bleibe ich</p>
                 <p>Euer Hochwürden</p>
                 <p>dankschuldigster Schüler<lb/>Joseph Steger</p>
                 <p>Marburg, 28.7.[18]60</p>
-                <p>Empfehlungen an <persName key="biegeleben-ludwig">Biegeleben</persName> und
-                        <persName key="buol-von-berenberg-franz">Boul</persName> [Buol]</p>
+                <p>Empfehlungen an <rs type="person" ref="biegeleben-ludwig" key="biegeleben-ludwig">Biegeleben</rs> und
+                        <rs type="person" ref="buol-von-berenberg-franz" key="buol-von-berenberg-franz">Boul</rs> [Buol]</p>
             </div>
         </body>
     </text>

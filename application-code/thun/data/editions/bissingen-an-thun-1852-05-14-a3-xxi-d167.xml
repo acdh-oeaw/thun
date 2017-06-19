@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="bissingen-cajetan" role="sender:beamter">Cajetan
-                        Bissingen</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="bissingen-cajetan" key="bissingen-cajetan" role="sender:beamter">Cajetan
+                        Bissingen</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1852-05-14">14. Mai 1852</date>
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1852-05-14">14. Mai 1852</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -40,7 +39,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -55,7 +54,7 @@
                     gegenwärtig in den Gymnasien auf das pädagogische Moment zu wenig Werth gelegt,
                     die <hi rend="ul">Erziehung</hi> der jungen, großentheils noch dem Knabenalter
                     angehörigen Leute außer Acht gelegt werde.<lb/>Einen traurigen Beleg hiefür
-                    bietet mir eine soeben aus <placeName ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</placeName> aus verläßlicher
+                    bietet mir eine soeben aus <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs> aus verläßlicher
                     Hand erhaltene Mittheilung.<lb/>In der fünften Klasse wird Livius mit den
                     Schülern vorgenommen, leider aber ohne irgendeine Ausscheidung des Stoffes.
                     Wahrscheinlich glaubt der betreffende Gymnasiallehrer, sich zu buchstäblich an

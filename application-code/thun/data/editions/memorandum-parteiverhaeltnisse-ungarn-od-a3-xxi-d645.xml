@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -57,7 +56,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -147,7 +146,7 @@
                         verlor gegenüber der rastlosen Thätigkeit der Opposition immer mehr Terrain,
                         und wenngleich die einsichtsvolleren Männer recht wohl fühlten, welche
                         Absichten sich unter dem, jede Rücksicht für die übrigen Volksstämme
-                            <country key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarns</country> und für den Verband mit der
+                            <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarns</rs> und für den Verband mit der
                         Monarchie hintansetzenden Eifer für die magyarische Nationalität verbergen
                         mögen, so war ihr Widerstand doch viel zu schwach, um den entfesselten
                         Leidenschaften einen wirksamen Damm entgegenzustellen.<lb/>Die Schwäche der
@@ -156,10 +155,10 @@
                         verkannte die Größe der drohenden Gefahr und glaubte, daß auch unter den so
                         sehr geänderten Verhältnissen die autonome Abgeschlossenheit der ungarischen
                         Verfassung, das beinahe anarchische Gebahren vieler Komitate und die
-                        Kraftlosigkeit aller Regierungsorgane in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> möglich
+                        Kraftlosigkeit aller Regierungsorgane in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> möglich
                         sei, ohne das Land in den Abgrund der Revolution zu stürzen.<lb/>Die
                         Bewegung wurde noch mehr beschleunigt, als intelligente Männer wie Graf
-                            <persName key="szechenyi-stephan">Szechényi</persName> einerseits
+                            <rs type="person" ref="szechenyi-stephan" key="szechenyi-stephan">Szechényi</rs> einerseits
                         Reformen im liberalen Sinne durchzuführen, andererseits aber die Opposition
                         zu bekämpfen, zugleich aber in angeblich konservativem Sinne die
                         Nationalitätsbewegung zu leiten versuchten.<lb/>Es entstand auf diese Art
@@ -175,18 +174,18 @@
                         Aussicht auf derlei Konzessionen wahrscheinlich zu machen, bemühte man sich
                         glauben zu machen, daß die gegenwärtigen Institutionen keineswegs aus der
                         durch die reiflichste Prüfung der Verhältnisse und Bedürfnisse begründeten
-                        Überzeugungen <persName key="franz-joseph">Seiner Majestät des
-                            Kaisers</persName> hervorgegangen, sondern lediglich ein in der Sphäre
+                        Überzeugungen <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät des
+                            Kaisers</rs> hervorgegangen, sondern lediglich ein in der Sphäre
                         des Ministeriums entworfenes und nur dort gewünschtes System sind, welches
                         mit einer Veränderung in den Personen von selbst fallen werde.<lb/>Es ist
                         nicht zu läugnen, daß diese Ansicht sehr verbreitet war und durch jene
-                        Altkonservativen, welche in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> Verbindungen haben,
+                        Altkonservativen, welche in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> Verbindungen haben,
                         fortwährend genährt wurde.<lb/>Obgleich die konsequente Durchführung der
                         Landesorganisation und Gesetzgebung jedem Unbefangenen der klarste Beweis
                         sein konnte, daß die Regierung sich auf der mit vollster Überzeugung von der
                         unbedingten Nothwendigkeit eingeschlagenen Bahn nicht beirren lassen werde,
-                        so wurde doch die Allerhöchste Rundreise <persName key="franz-joseph">Seiner
-                            Majestät des Kaisers</persName> im vorigen Jahr als ein geeigneter Anlaß
+                        so wurde doch die Allerhöchste Rundreise <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner
+                            Majestät des Kaisers</rs> im vorigen Jahr als ein geeigneter Anlaß
                         angesehen, eine Agitation zur Kundgebung der sogenannten Wünsche des Landes
                         hervorzurufen.<lb/>Man suchte allenthalben Petitionen um Einführung der
                         ungarischen Geschäftssprache, Änderungen respektive Erleichterungen im
@@ -195,11 +194,11 @@
                         hervorzurufen<lb/>Das allerhöchste Handschreiben vom 9. September vorigen
                             Jahres<note xml:id="note_2">Abgedruckt in: Wiener Zeitung, vom
                             11.09.1857, Nr. 207, S. 2535. </note> sprach den allerhöchsten Willen
-                            <persName key="franz-joseph">Seiner Majestät</persName>, an den
+                            <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät</rs>, an den
                         bisherigen Regierungsgrundsätzen unverbrüchlich festzuhalten, mit voller
                         Klarheit aus und gab der Aufrechthaltung und Befestigung der gegenwärtigen
                         Institutionen eine neue bedeutungsvolle Bürgschaft.<lb/>Hiedurch ist die
-                        politische Umgestaltung <country key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarns</country>
+                        politische Umgestaltung <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarns</rs>
                         gewissermaßen zum Abschlusse gelangt, und es läßt sich nicht verkennen, daß
                         auch in den Partei-Gruppierungen manche Veränderungen stattgefunden haben,
                         welche sich insbesondere in dem Streben nach einer möglichst
@@ -265,7 +264,7 @@
                         Regierung wieder hergestellt würde.<lb/>Ich glaube von der Bezeichnung von
                         Namen Umgang nehmen zu könne, weil eine eigentliche leitende Persönlichkeit
                         in diesem Verwaltungsgebiet nicht vorhanden ist, und die Partei-Impulse von
-                            <placeName ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</placeName> und <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> gegeben
+                            <rs type="place" subtype="place" ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</rs> und <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> gegeben
                         werden.<lb/>2. Die <hi rend="ul">demokratische</hi> Partei, welche in ihren
                         Tendenzen mit den radikalen des Jahres 1848 und mit den Umsturzmännern
                         anderer Länder im Wesentlichen übereinstimmt.<lb/>Sie strebt nach der
@@ -292,7 +291,7 @@
                         voraussagen, daß die altkonservative Parthei vollständig überflügelt und ein
                         dem Jahre 1848 analoger Verlauf und Ausgang stattfinden würde.<lb/>In
                         neuester Zeit ist eine größere Aufregung bei beiden Parteien bemerkbar, was
-                        den Vorgängen in <country ref="#place_389962c9dec540ab28d04517e82c3996">Italien</country>, auf die auch die ungarischen
+                        den Vorgängen in <rs type="place" subtype="country" ref="#place_389962c9dec540ab28d04517e82c3996">Italien</rs>, auf die auch die ungarischen
                         Mißvergnügten ihre Augen richten, zuzuschreiben ist, und diese innere
                         Aufregung zeigt sich besonders in einer sehr reservierten, zum Theil
                         schroffen Haltung der Altkonservativen gegenüber aller

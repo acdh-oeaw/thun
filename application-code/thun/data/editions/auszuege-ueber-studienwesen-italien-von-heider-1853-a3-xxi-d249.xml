@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Abschriften von Auszügen aus verschiedenen Memoranden zum Studienwesen in
-                    Italien, zusammengestellt von <persName key="heider-gustav" role="sender:beamter">Gustav Heider</persName>
+                    Italien, zusammengestellt von <rs type="person" ref="heider-gustav" key="heider-gustav" role="sender:beamter">Gustav Heider</rs>
                     <lb/>o. O., [<date when="1853">1853</date>]</title>
             </titleStmt>
             <publicationStmt>
@@ -79,11 +78,11 @@
                         <p>Unter der Signatur sind Abschriften von Auszügen aus acht verschiedenen
                             Memoranden zusammengefasst:<lb/>
                             <ref target="#D249_1">Auszug aus einem
-                                Promemoria über Schulen von <persName key="bonifacio-di-canossa">Bonifacio di Canossa</persName>.</ref>
+                                Promemoria über Schulen von <rs type="person" ref="bonifacio-di-canossa" key="bonifacio-di-canossa">Bonifacio di Canossa</rs>.</ref>
                             <lb/>
                             <ref target="#D249_2">Bemerkungen über den Gymnasiallehrplan von
-                                    <persName key="odescalchi-antonio">Antonio
-                                Odescalchi</persName>.</ref>
+                                    <rs type="person" ref="odescalchi-antonio" key="odescalchi-antonio">Antonio
+                                Odescalchi</rs>.</ref>
                             <lb/>
                             <ref target="#D249_3">Bemerkungen
                                 über den Gymnasiallehrplan, o. A.</ref>
@@ -92,23 +91,23 @@
                                 Gegenstände.</ref>
                             <lb/>
                             <ref target="#D249_5">Vorschläge zur
-                                Abänderung des Gymnasiallehrplans von <persName key="borroni-luigi">Luigi Borroni</persName>.</ref>
+                                Abänderung des Gymnasiallehrplans von <rs type="person" ref="borroni-luigi" key="borroni-luigi">Luigi Borroni</rs>.</ref>
                             <lb/>
                             <ref target="#D249_6">Gedanken über Reformen in den höheren Universitätsstudien in
                                 Lombardo-Venetien von Luigi Borroni.</ref>
                             <lb/>
                             <ref target="#D249_7">Auszug aus einem Memorandum über den öffentlichen Unterricht in
-                                Lombardo-Venetien von <persName key="corali-antonio">Antonio
-                                    Corali</persName>.</ref>
+                                Lombardo-Venetien von <rs type="person" ref="corali-antonio" key="corali-antonio">Antonio
+                                    Corali</rs>.</ref>
                             <lb/>
                             <ref target="#D249_8">Auszug aus
-                                einem Memorandum über Realschulen von <persName key="baraldi-pietro">Pietro Baraldi</persName>.</ref>
+                                einem Memorandum über Realschulen von <rs type="person" ref="baraldi-pietro" key="baraldi-pietro">Pietro Baraldi</rs>.</ref>
                         </p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -123,15 +122,15 @@
                     <term>Universität Padua</term>
                     <term>Reform</term>
                 </index>
-                <p>Auszüge über das Studienwesen in <country ref="#place_389962c9dec540ab28d04517e82c3996">Italien</country> von <persName key="heider-gustav">Heider</persName>
+                <p>Auszüge über das Studienwesen in <rs type="place" subtype="country" ref="#place_389962c9dec540ab28d04517e82c3996">Italien</rs> von <rs type="person" ref="heider-gustav" key="heider-gustav">Heider</rs>
                 </p>
                 <p/>
                 <div xml:id="D249_1">
                     <p>
-                        <hi rend="ul">Promemoria über die Schulen von <persName key="bonifacio-di-canossa">Bonifacio di Canossa</persName>
+                        <hi rend="ul">Promemoria über die Schulen von <rs type="person" ref="bonifacio-di-canossa" key="bonifacio-di-canossa">Bonifacio di Canossa</rs>
                         </hi>
                         <note xml:id="note_1">Anmerkung Thuns: jetzt geheimer Rath in
-                                <placeName ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</placeName>, ultramontan, ganz korrekt,
+                                <rs type="place" subtype="place" ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</rs>, ultramontan, ganz korrekt,
                             [?].</note>
                     </p>
                     <p>Die öffentlichen Stadt- und Landschulen entsprechen wenig ihrer Einrichtung.
@@ -147,7 +146,7 @@
                         festzusetzen, welcher mehr auf dem religiösen Gefühle und der Anhänglichkeit
                         an die Regierung basirt ist.<lb/>Die <hi rend="ul">Überwachung der Schulen
                             müßte den Bischöfen</hi> anheimgegeben werden und für den <hi rend="ul">Unterricht verschiedene geistliche Orden</hi> verwendet
-                        werden.<lb/>Wenn in <placeName ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</placeName> das Militärkommando die
+                        werden.<lb/>Wenn in <rs type="place" subtype="place" ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</rs> das Militärkommando die
                         Kirche und den Convent des hl. Sebastian abtreten und die Comunalschulen den
                         Jesuiten übertragen würde, würde vielen der berührten Nachtheile vorgebeugt
                         werden und es erwüchse für die Comune eine Ersparnis, da diese für 6
@@ -162,11 +161,11 @@
                 <div xml:id="D249_2">
                     <p/>
                     <p>
-                        <hi rend="ul">Bemerkungen über den neuen Gymnasialplan von <persName key="odescalchi-antonio">A[ntonio]
-                        Odescalchi</persName>
+                        <hi rend="ul">Bemerkungen über den neuen Gymnasialplan von <rs type="person" ref="odescalchi-antonio" key="odescalchi-antonio">A[ntonio]
+                        Odescalchi</rs>
                         </hi>
                         <lb/>Direktor am Lycealgymnasium S. Alessandro zu
-                            <placeName ref="#place_ab21db0a2aa2e84be73932be6063b033">Mailand</placeName>
+                            <rs type="place" subtype="place" ref="#place_ab21db0a2aa2e84be73932be6063b033">Mailand</rs>
                     </p>
                     <p>1. Wenn auch die Nothwendigkeit eines näheren Zusammenhanges zwischen den <hi rend="ul">Gymnasien</hi> und <hi rend="ul">Lyceen</hi> bestand, so
                         wiederstrebt die <hi rend="ul">vollständige Verschmelzung</hi> beider den
@@ -196,7 +195,7 @@
                         es, wenn die <hi rend="ul">Philosophie</hi> auf 2 wöchentliche Stunden in
                         der achten Classe beschränkt würde, und zwar mit Ausschluß der
                         Moralphilosophie. Die Lehrkanzel der Philosophie war in
-                            <country ref="#place_389962c9dec540ab28d04517e82c3996">Italien</country> von jeher die Einleitung zu den höheren
+                            <rs type="place" subtype="country" ref="#place_389962c9dec540ab28d04517e82c3996">Italien</rs> von jeher die Einleitung zu den höheren
                         Studien und wird als ein Mittel der Erziehung des Jünglings und der
                         Heranreifung seiner Denkkräfte auch von den Eltern betrachtet. Die Eltern
                         selbst erheben deshalb schon die Klage, daß der neue Lehrplan so viel
@@ -211,7 +210,7 @@
                         vorbereiten und andauernd reden, daher sie nur mit der größten Anstrengung
                         und endlichen Abspannung 15–20 wöchentliche Vorlesestunden halten
                         können.<lb/>In den früheren Lyceen hatte jeder Professor nur 7–10 Stunden
-                        wöchentlich; und wenige Menschen, wenigstens in <country ref="#place_389962c9dec540ab28d04517e82c3996">Italien</country>,
+                        wöchentlich; und wenige Menschen, wenigstens in <rs type="place" subtype="country" ref="#place_389962c9dec540ab28d04517e82c3996">Italien</rs>,
                         können die geistige und körperliche Anstrengung eines täglichen drei- und
                         vierstündigen Unterrichtes aushalten. In den unteren Schulen gewähren die
                         instruktiven Demonstrationen und die kleinen Übungen dem Lehrer Zeit, Geist
@@ -276,7 +275,7 @@
                         Mannes allerdings nothwendig, allein die Frage ist, ob eine Methode, die
                         eines nach dem andern lehrt, oder eine, welche alles gleichzeitig lehrt,
                         vorzuziehen sei. Die Erfahrung der Gymnasien und Liceen in
-                            <country ref="#place_389962c9dec540ab28d04517e82c3996">Italien</country> spricht für die erstere Methode.<lb/>8. Es
+                            <rs type="place" subtype="country" ref="#place_389962c9dec540ab28d04517e82c3996">Italien</rs> spricht für die erstere Methode.<lb/>8. Es
                         giebt im Unterrichte zwei unläugbare Erfahrungen. Die eine ist, daß das
                         vollständige Erlernen der beiden Sprachen, der lateinischen und
                         italienischen, das Verständnis ihrer Classiker und die Aneignung der
@@ -296,7 +295,7 @@
                         bestem Willen hinter seinem Ziele zurückleiben, welches der
                         Gymnasiallehrplan vorzeichnet; denn es ist nicht möglich, daß ein Lehrer,
                         der mit so vielen Schülern zu thun hat, einem jeden hinreichende Obsorge
-                        widme. Die Geschichte des Gymnasialunterrichts in <country ref="#place_389962c9dec540ab28d04517e82c3996">Italien</country>
+                        widme. Die Geschichte des Gymnasialunterrichts in <rs type="place" subtype="country" ref="#place_389962c9dec540ab28d04517e82c3996">Italien</rs>
                         giebt gewichtige Anhaltspunkte. Zuerst gab es wenig Unterrichtsgegenstände
                         und viele Ferien. Hiebei bewahrten die Schüler die Liebe zum Lernen und
                         benützten theilweise auch die freie Zeit für ihre Fortbildung. Alles dies
@@ -357,9 +356,9 @@
                     <p/>
                     <p>
                         <hi rend="ul">Vorschlag zu einigen Abänderungen des Gymnasiallehrplanes für
-                            die italienischen Gymnasien von <persName key="borroni-luigi">Luigi
-                                Borroni</persName>, Provinzialdelegat der Provinz
-                                <placeName ref="#place_180ab0761158b959facf0feae6115c4e">Pavia</placeName>
+                            die italienischen Gymnasien von <rs type="person" ref="borroni-luigi" key="borroni-luigi">Luigi
+                                Borroni</rs>, Provinzialdelegat der Provinz
+                                <rs type="place" subtype="place" ref="#place_180ab0761158b959facf0feae6115c4e">Pavia</rs>
                         </hi>
                         <note xml:id="note_5">Anmerkung Thuns: Schrift[?] v. Rector der Universität
                             Pavia[?].</note>
@@ -440,9 +439,9 @@
                         Klasse:<lb/>Geschichte des Mittelalters und moderne Geografie, im
                         Zusammenhange mit der Staatengeschichte, insbesondere Oesterreichs<lb/>4.
                         Klasse:<lb/>Fortsetzung hievon.<lb/>5. Klasse:<lb/>Übersicht der alten
-                        Geschichte von <country key="aegypten" ref="#place_842e26ab3b54376d93e22b403f3f9728">Ägypten</country>,
-                            <country ref="#place_685f853b2ad1158b32f42cac11ebdc5c">Karthago</country>, <country ref="#place_ae54a5c026f31ada088992587d92cb3a">China</country> und vorzüglich von
-                            <country ref="#place_9bbe5cef5dacc0b4666c2a1d1a8b5615">Griechenland</country> und <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName> mit der
+                        Geschichte von <rs type="place" subtype="country" key="aegypten" ref="#place_842e26ab3b54376d93e22b403f3f9728">Ägypten</rs>,
+                            <rs type="place" subtype="country" ref="#place_685f853b2ad1158b32f42cac11ebdc5c">Karthago</rs>, <rs type="place" subtype="country" ref="#place_ae54a5c026f31ada088992587d92cb3a">China</rs> und vorzüglich von
+                            <rs type="place" subtype="country" ref="#place_9bbe5cef5dacc0b4666c2a1d1a8b5615">Griechenland</rs> und <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs> mit der
                         Geografie der behandelten Länder<lb/>6. Klasse:<lb/>Fortsetzung, zugleich
                         mit der Archäologie und Kulturgeschichte der Staaten des Alterthums.<lb/>7.
                         Klasse:<lb/>Übersicht der mittelalterlichen und modernen Geschichte, der
@@ -487,8 +486,8 @@
                         Inponderabilien – ihre Phänomene, insbesondere Wärme und Elektrizität<lb/>5.
                         Klasse: 4 Stunden wöchentlich<lb/>Zoologie in weiterer Ausführung.<lb/>6.
                         Klasse: 4 Stunden wöchentlich<lb/>Mineralogie – Botanik – Allgemeines über
-                        Vegetabilien, Sistem des <persName key="linne-carl">Linné</persName> und
-                        natürliche Methode von <persName key="jussieu-antoine-laurent">Jussieu</persName>.<lb/>7. Klasse: 5 Stunden
+                        Vegetabilien, Sistem des <rs type="person" ref="linne-carl" key="linne-carl">Linné</rs> und
+                        natürliche Methode von <rs type="person" ref="jussieu-antoine-laurent" key="jussieu-antoine-laurent">Jussieu</rs>.<lb/>7. Klasse: 5 Stunden
                         wöchentlich<lb/>Sistematische Fisik in ganzem Umfange und nach der in Liceen
                         gebräuchlichen Methode.<lb/>8. Klasse: 5 Stunden<lb/>Fortsetzung der
                         Physik</p>
@@ -502,8 +501,8 @@
                     <p/>
                     <p>
                         <hi rend="ul">Gedanken über einige wesentliche Reformen in den höheren
-                            Universitätsstudien des <country key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">Lombardo-Venetianischen Königreichs</country>.<lb/>Von <persName key="borroni-luigi">Luigi Borroni</persName> Provinzialdelegat der
-                            Provinz <placeName ref="#place_180ab0761158b959facf0feae6115c4e">Pavia</placeName>
+                            Universitätsstudien des <rs type="place" subtype="country" key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">Lombardo-Venetianischen Königreichs</rs>.<lb/>Von <rs type="person" ref="borroni-luigi" key="borroni-luigi">Luigi Borroni</rs> Provinzialdelegat der
+                            Provinz <rs type="place" subtype="place" ref="#place_180ab0761158b959facf0feae6115c4e">Pavia</rs>
                         </hi>
                     </p>
                     <p>A. Allgemeine Betrachtungen</p>
@@ -681,12 +680,12 @@
                         verbunden und möge dabei bleiben. Es verlangt wenige Modifikationen,
                         vielleicht nur eine Vervollkommnung nach der praktischen Seite hin. Auch das
                         mathematische Studium für Architekten und Ingenieure ist in
-                            <country ref="#place_389962c9dec540ab28d04517e82c3996">Italien</country> bei der Universität und es sind daraus
+                            <rs type="place" subtype="country" ref="#place_389962c9dec540ab28d04517e82c3996">Italien</rs> bei der Universität und es sind daraus
                         ausgezeichnete Ingenieure hervorgegangen. Es wäre schade, dieses abzutrennen
                         und in einer besonderen polytechnischen Schule zu vereinigen, wie dies
-                        anderwärts der Fall ist. Auch die Comission in <placeName ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</placeName>
+                        anderwärts der Fall ist. Auch die Comission in <rs type="place" subtype="place" ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</rs>
                         sprach sich einstimmig für diese Belassung aus, wie dies aus dem von
-                            <persName key="ambrosoli-franz">Ambrosoli</persName> veröffentlichten
+                            <rs type="person" ref="ambrosoli-franz" key="ambrosoli-franz">Ambrosoli</rs> veröffentlichten
                         Aktenmemorandum ersichtlich ist.</p>
                     <p>V. Medicinisch-chirurgisches Studium<lb/>In diesem Theile schienen
                         nachfolgende Betrachtungen erfüllenswerth:<lb/>1. Die Lehrkanzel des
@@ -716,7 +715,7 @@
                         der Universität und durch das Aufgeben der Lehrkanzel der Veterinärkunde
                         gedeckt.</p>
                     <p>VI. Farmaceutisches Studium<lb/>Dieses ist gegenwärtig in
-                            <country ref="#place_389962c9dec540ab28d04517e82c3996">Italien</country> sehr herabgekommen, vorzüglich durch den
+                            <rs type="place" subtype="country" ref="#place_389962c9dec540ab28d04517e82c3996">Italien</rs> sehr herabgekommen, vorzüglich durch den
                         mangelhaften Universitätsunterricht. Zur Verbesserung desselben dienen
                         folgende Vorschläge:<lb/>1. Auch der Farmaceut hat das ganze Gymnasial- und
                         Lycealstudium zurückzulegen.<lb/>2. Die praktischen Jahre, gegenwärtig 8,
@@ -818,14 +817,14 @@
                 <div xml:id="D249_7">
                     <p/>
                     <p>
-                        <hi rend="ul">Über den öffentlichen Unterricht im <country key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">Lombardo-Venetianischen
-                                Königreiche</country>
+                        <hi rend="ul">Über den öffentlichen Unterricht im <rs type="place" subtype="country" key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">Lombardo-Venetianischen
+                                Königreiche</rs>
                         </hi>
                         <note xml:id="note_6">Anmerkung Thuns am
-                            oberen Blattrand: <persName key="mozart-joseph">Mozart</persName>.</note>
-                        <lb/>Auszug aus einem Memorandum des <persName key="corali-antonio">
+                            oberen Blattrand: <rs type="person" ref="mozart-joseph" key="mozart-joseph">Mozart</rs>.</note>
+                        <lb/>Auszug aus einem Memorandum des <rs type="person" ref="corali-antonio" key="corali-antonio">
                             <hi rend="ul">Antonio Corali</hi>
-                        </persName>
+                        </rs>
                         <note xml:id="note_7">Anmerkung Thuns: Podestà zu Verona [?].</note>
                     </p>
                     <p>Der neue Gymnasiallehrplan hat so große Gebrechen an sich, daß er den
@@ -840,7 +839,7 @@
                         Studiensistem, mit Beseitigung seiner Mängel dadurch, daß die Kluft zwischen
                         den Gymnasien und Lizeen getilgt werde, indem auch in erstern die
                         vorzüglichsten Resultate der Wissenschaft eingeführt werden.<lb/>Das
-                        Comunalgymnasium von <placeName ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</placeName> ist ein sehr altes
+                        Comunalgymnasium von <rs type="place" subtype="place" ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</rs> ist ein sehr altes
                         Institut, der Bevölkerung sehr werth und der Lehrkörper erfreut sich des
                         öffentlichen Vertrauens im hohen Grade, so daß es bei weitem mehr Schüler
                         zählt als das öffentliche Gymnasium.<lb/>Der Comunalrath hat in seiner
@@ -861,8 +860,8 @@
                         <note xml:id="note_8">Anmerkung Thuns am oberen Blattrand: Beachtenswerth –
                             Vorschlag zu erstatten.</note>
                         <lb/>
-                        <hi rend="ul">Von Dr. <persName key="baraldi-pietro">P[ietro] Baraldi</persName>, Direktor der
-                            technischen Schule zu <placeName ref="#place_ab21db0a2aa2e84be73932be6063b033">Mailand</placeName>
+                        <hi rend="ul">Von Dr. <rs type="person" ref="baraldi-pietro" key="baraldi-pietro">P[ietro] Baraldi</rs>, Direktor der
+                            technischen Schule zu <rs type="place" subtype="place" ref="#place_ab21db0a2aa2e84be73932be6063b033">Mailand</rs>
                         </hi>
                     </p>
                     <p>Die Umwandlung der technischen Schule in eine Oberrealschule erfolgte durch

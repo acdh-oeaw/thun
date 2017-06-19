@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="helfert-joseph-alexander" role="recipient">Joseph Alexander
-                        Helfert</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="helfert-joseph-alexander" key="helfert-joseph-alexander" role="recipient">Joseph Alexander
+                        Helfert</rs>
                     <lb/>o. O., <date when="1852-02-08">o. D. [8. Februar
                         1852]</date>
                     <note>Das Datum ist am oberen Blattrand vermerkt. Der im Brief
@@ -32,7 +31,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

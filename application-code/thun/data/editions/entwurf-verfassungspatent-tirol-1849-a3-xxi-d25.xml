@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--  -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><!--  --><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -74,8 +72,8 @@
                                 Kultusministers</ref>
                             <lb/>
                             <ref target="#D25_4">Beilage 7:
-                                Bemerkungen von <persName key="wolkenstein-leopold">Leopold
-                                    Wolkenstein</persName> zum Verfassungsentwurf Tirols, von Thun
+                                Bemerkungen von <rs type="person" ref="wolkenstein-leopold" key="wolkenstein-leopold">Leopold
+                                    Wolkenstein</rs> zum Verfassungsentwurf Tirols, von Thun
                                 zusammengefasst</ref>
                         </p>
                         <p>
@@ -90,7 +88,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="draft"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -106,74 +104,74 @@
                         Thuns am Anfang des Entwurfes</note>
                 </p>
                 <p>Verfaßungspatent</p>
-                <p>Wir <persName key="franz-joseph">Franz Joseph</persName> von Gottes Gnaden,
-                    Kaiser von <country ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</country> etc. etc. etc.</p>
+                <p>Wir <rs type="person" ref="franz-joseph" key="franz-joseph">Franz Joseph</rs> von Gottes Gnaden,
+                    Kaiser von <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs> etc. etc. etc.</p>
                 <p>In Anerkennung der treuen und kräftigen Stütze, die Unsere in Gott ruhenden
-                    Vorfahren an den Ständen Unserer gefürsteten Grafschaft <region ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</region>
+                    Vorfahren an den Ständen Unserer gefürsteten Grafschaft <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs>
                     seit nahe an 500 Jahren jederzeit und vorzüglich bei den schwersten und
                     drangvollsten Ereignissen gefunden haben und mit Rücksicht auf die eifrige
-                    Fürsorge, welche die Stände <region key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tirols</region> für das wahre
-                    Wohl <region key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">dieses Landes</region> und die Förderung seiner
+                    Fürsorge, welche die Stände <rs type="place" subtype="region" key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tirols</rs> für das wahre
+                    Wohl <rs type="place" subtype="region" key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">dieses Landes</rs> und die Förderung seiner
                     Interessen getragen haben, finden Wir Uns bestimmt, die verfaßungsmäßige
-                    Vertretung <region key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">des Landes</region> wieder herzustellen und
+                    Vertretung <rs type="place" subtype="region" key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">des Landes</rs> wieder herzustellen und
                     &lt;zu dem Ende nach Vernehmung Unserer Minister und Anhörung Unseres
                     Reichsraths zu erlassen wie folgt:&gt;<note xml:id="note_2">Korrektur aus: erlassen
                         hiezu nachstehende Bestimmungen.<lb/>mit Bleistift: [?]
-                            <region ref="#place_6c26d83c5622aa697d39a9ca0aaff52b">Vorarlberg</region> [?] von <region key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tyrol</region>
+                            <rs type="place" subtype="region" ref="#place_6c26d83c5622aa697d39a9ca0aaff52b">Vorarlberg</rs> [?] von <rs type="place" subtype="region" key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tyrol</rs>
                         verschiedenen Beschaffenheit der sozialen [?] seiner Bevölkerung und der in
                         eigenthümlichen Interessen eine abgesonderte Vertretung derselben erheischt,
                         so behalten Wir Uns vor in dieser Beziehung besondere Bestimmungen zu
                         treffen.</note>
                     <lb/>§ 1. Unsere gefürstete Grafschaft
-                        <region ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</region>
+                        <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs>
                     <note xml:id="note_3">mit Bleistift: nebst
-                            <region ref="#place_6c26d83c5622aa697d39a9ca0aaff52b">Vorarlberg</region>
-                    </note>bildet im <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">österreichischen Staatsverbande</country> ein innerhalb seiner
-                    gegenwärtigen Grenzmarken untheilbares Land.<lb/>§ 2. Dieselbe<note xml:id="note_4">mit Bleistift: Unsere gefürstete Grafschaft <region key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tyrol</region> mit Ausschluß von
-                        <region ref="#place_6c26d83c5622aa697d39a9ca0aaff52b">Vorarlberg</region>
+                            <rs type="place" subtype="region" ref="#place_6c26d83c5622aa697d39a9ca0aaff52b">Vorarlberg</rs>
+                    </note>bildet im <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">österreichischen Staatsverbande</rs> ein innerhalb seiner
+                    gegenwärtigen Grenzmarken untheilbares Land.<lb/>§ 2. Dieselbe<note xml:id="note_4">mit Bleistift: Unsere gefürstete Grafschaft <rs type="place" subtype="region" key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tyrol</rs> mit Ausschluß von
+                        <rs type="place" subtype="region" ref="#place_6c26d83c5622aa697d39a9ca0aaff52b">Vorarlberg</rs>
                     </note>wird durch die vier Stände, nemlich den
                     Prälaten, den Adelstand, den Bürger und Bauernstand auf dem Landtage
                     vertreten.<lb/>§ 3. Der Landtag hat aus 56 Mitgliedern und zwar 14 aus jedem
                     Stande zu bestehen.<lb/>§ 4. Der Prälatenstand wird vertreten:<lb/>1. durch den
-                    Fürstbischof von <placeName ref="#place_34f36b9454115e3b99acdf7913509e12">Trient</placeName> oder seinen Delegaten,<lb/>2.
-                    durch den Fürstbischof von <placeName ref="#place_478686b5e2ebec6de738cf25710e7108">Brixen</placeName> oder seinen
+                    Fürstbischof von <rs type="place" subtype="place" ref="#place_34f36b9454115e3b99acdf7913509e12">Trient</rs> oder seinen Delegaten,<lb/>2.
+                    durch den Fürstbischof von <rs type="place" subtype="place" ref="#place_478686b5e2ebec6de738cf25710e7108">Brixen</rs> oder seinen
                     Delegaten,<lb/>3. durch einen Delegaten des Fürstbischofs von
-                        <placeName ref="#place_ea6515eca27ae68c06c82e8cc2a6d318">Salzburg</placeName> aus den Pfarrern des tirolischen
+                        <rs type="place" subtype="place" ref="#place_ea6515eca27ae68c06c82e8cc2a6d318">Salzburg</rs> aus den Pfarrern des tirolischen
                     Diözesenantheiles,<lb/>4. durch das Domkapitel von
-                    <placeName ref="#place_34f36b9454115e3b99acdf7913509e12">Trient</placeName>,<lb/>5. durch das Domkapitel von
-                        <placeName ref="#place_478686b5e2ebec6de738cf25710e7108">Brixen</placeName>,<lb/>6. durch den Abt von
-                        <placeName ref="#place_a9e7d20b2da57e43fd68b658f5ea477d">Wilten</placeName>,<lb/>7. durch den Abt von
-                        <placeName ref="#place_ad1fcb632002560ec75f19327065e467">Stams</placeName>,<lb/>8. durch den Probst von
-                        <placeName ref="#place_3cd12a15f599840b0400eb546f5793f2">Neustift</placeName>,<lb/>9. durch den Abt von
-                        <placeName ref="#place_0f28f87ed21cbe638982f7a2c303ad46">Fiecht</placeName>,<lb/>10. durch den Abt von
-                        <placeName ref="#place_776af3d8966c4f90cc4f1437604e5d80">Marienberg</placeName>,<lb/>11. durch den Probst von
-                        <placeName ref="#place_2781d78cf5bdbb757c7c275e91694387">Innichen</placeName>,<lb/>12. durch den Probst von
-                        <placeName ref="#place_3759c8464ee4c9a3bc2a2833ecb4a535">Arco</placeName>,<lb/>13. durch den Arciprete von
-                        <placeName ref="#place_1a4c5876794d67effbce260a3f8c449d">Roveredo</placeName>,<note xml:id="note_5">mit Bleistift: aus 14
+                    <rs type="place" subtype="place" ref="#place_34f36b9454115e3b99acdf7913509e12">Trient</rs>,<lb/>5. durch das Domkapitel von
+                        <rs type="place" subtype="place" ref="#place_478686b5e2ebec6de738cf25710e7108">Brixen</rs>,<lb/>6. durch den Abt von
+                        <rs type="place" subtype="place" ref="#place_a9e7d20b2da57e43fd68b658f5ea477d">Wilten</rs>,<lb/>7. durch den Abt von
+                        <rs type="place" subtype="place" ref="#place_ad1fcb632002560ec75f19327065e467">Stams</rs>,<lb/>8. durch den Probst von
+                        <rs type="place" subtype="place" ref="#place_3cd12a15f599840b0400eb546f5793f2">Neustift</rs>,<lb/>9. durch den Abt von
+                        <rs type="place" subtype="place" ref="#place_0f28f87ed21cbe638982f7a2c303ad46">Fiecht</rs>,<lb/>10. durch den Abt von
+                        <rs type="place" subtype="place" ref="#place_776af3d8966c4f90cc4f1437604e5d80">Marienberg</rs>,<lb/>11. durch den Probst von
+                        <rs type="place" subtype="place" ref="#place_2781d78cf5bdbb757c7c275e91694387">Innichen</rs>,<lb/>12. durch den Probst von
+                        <rs type="place" subtype="place" ref="#place_3759c8464ee4c9a3bc2a2833ecb4a535">Arco</rs>,<lb/>13. durch den Arciprete von
+                        <rs type="place" subtype="place" ref="#place_1a4c5876794d67effbce260a3f8c449d">Roveredo</rs>,<note xml:id="note_5">mit Bleistift: aus 14
                         4 Welschtyroler</note>
                     <lb/>14. durch den Probst von
-                        <placeName ref="#place_3859ff9074d497ed0cb3c08be85996ad">Bozen</placeName>, den Prior von <placeName ref="#place_7580f5f486c19fc6b5b0dec742ca1949">Gries</placeName> und
+                        <rs type="place" subtype="place" ref="#place_3859ff9074d497ed0cb3c08be85996ad">Bozen</rs>, den Prior von <rs type="place" subtype="place" ref="#place_7580f5f486c19fc6b5b0dec742ca1949">Gries</rs> und
                     den Landcomenthur des deutschen Ordens, welche sich über die Art der gemeinsamen
                     Vertretung wechselseitig zu verständigen haben.<lb/>§ 5. Der Adelstand wird
                     vertreten durch 14 Abgeordnete, welche aus dem immatrikulirten im Lande
                     begüterten Adel in der Weise gewählt werden, daß hievon 8 auf den deutschen und
                     6 auf den italienischen Landestheil entfallen.<lb/>§ 6. Die Vertretung des
                     Bürgerstandes besteht aus 6 Abgeordneten der Städte
-                        <placeName ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</placeName>, <placeName ref="#place_3859ff9074d497ed0cb3c08be85996ad">Bozen</placeName>,
-                        <placeName ref="#place_834e1bca2cb7d2238249e70860ed8ae8">Meran</placeName>, <placeName ref="#place_75002fe48442a02a55971f48cebbe3e4">Hall</placeName>,
-                        <placeName ref="#place_315d421b9b58cdf1a1fa4cf25e9e80d1">Rattenberg</placeName>, <placeName ref="#place_1f677c99e6107ea20540f650293adf9b">Kitzbühel</placeName>,
-                        <placeName ref="#place_7c7a6bca9c2979ea2bd6510f15ee2cc7">Kufstein</placeName>, <placeName ref="#place_88efeb2b7acfb455f327a86818da75f6">Sterzing</placeName>,
-                        <placeName ref="#place_478686b5e2ebec6de738cf25710e7108">Brixen</placeName>, <placeName ref="#place_a828b1d5b90cb042fa9b608a374f8fb1">Klausen</placeName>,
-                        <placeName ref="#place_d638cd7d14166fe5189912d158fd557b">Bruneck</placeName>, <placeName ref="#place_4d20f079bfe1a95d5595e8064393ab40">Lienz</placeName>,
-                        <placeName ref="#place_321c94cd31f1ea1c03d5abf68bed32be">Glurns</placeName> und <placeName ref="#place_c795b6d7a8a0ed049dc33bf44272ab39">Vils</placeName>; ferners der
-                    Märkte: <placeName ref="#place_fb304904e47de2eca0f44779a05fab4e">Schwaz</placeName>, <placeName ref="#place_63153a873b287afcf4a6418d812be951">Imst</placeName>,
-                        <placeName ref="#place_86fb371c3226628c38a00c85b3560d7e">Reutte</placeName>; dann aus 5 Abgeordneten der Städte
-                        <placeName ref="#place_34f36b9454115e3b99acdf7913509e12">Trient</placeName>, <placeName ref="#place_1a4c5876794d67effbce260a3f8c449d">Roveredo</placeName>,
-                        <placeName ref="#place_84465f5d4faee0a7e284c0f3878b528a">Riva</placeName>, <placeName key="arco" ref="#place_99b3a2abb4050d5bef6da28efdc9552f">Arko</placeName> und
-                        <placeName ref="#place_5c3bb83961c60315165392ebd7410e6f">Ala</placeName>; ferners der Märkte:
-                        <placeName ref="#place_6b2c5c4a1960cb332c9be9ee3abf450c">Pergine</placeName>, <placeName key="levico" ref="#place_ae89004a5cb8e07a9a099b1fcf87b6aa">Leviko</placeName>,
-                        <placeName ref="#place_a736a3ca909e94df53de0d2bf7fec40c">Borgo</placeName>, <placeName ref="#place_c14c843590b723310e024a354c5a5929">Lavis</placeName>,
-                        <placeName ref="#place_53eda3d01e8560c49da346baa2680892">Cles</placeName> und <placeName ref="#place_8fff1c32b468ddb7ab0c8a88fc824124">Fondo</placeName>, endlich aus 2
+                        <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs>, <rs type="place" subtype="place" ref="#place_3859ff9074d497ed0cb3c08be85996ad">Bozen</rs>,
+                        <rs type="place" subtype="place" ref="#place_834e1bca2cb7d2238249e70860ed8ae8">Meran</rs>, <rs type="place" subtype="place" ref="#place_75002fe48442a02a55971f48cebbe3e4">Hall</rs>,
+                        <rs type="place" subtype="place" ref="#place_315d421b9b58cdf1a1fa4cf25e9e80d1">Rattenberg</rs>, <rs type="place" subtype="place" ref="#place_1f677c99e6107ea20540f650293adf9b">Kitzbühel</rs>,
+                        <rs type="place" subtype="place" ref="#place_7c7a6bca9c2979ea2bd6510f15ee2cc7">Kufstein</rs>, <rs type="place" subtype="place" ref="#place_88efeb2b7acfb455f327a86818da75f6">Sterzing</rs>,
+                        <rs type="place" subtype="place" ref="#place_478686b5e2ebec6de738cf25710e7108">Brixen</rs>, <rs type="place" subtype="place" ref="#place_a828b1d5b90cb042fa9b608a374f8fb1">Klausen</rs>,
+                        <rs type="place" subtype="place" ref="#place_d638cd7d14166fe5189912d158fd557b">Bruneck</rs>, <rs type="place" subtype="place" ref="#place_4d20f079bfe1a95d5595e8064393ab40">Lienz</rs>,
+                        <rs type="place" subtype="place" ref="#place_321c94cd31f1ea1c03d5abf68bed32be">Glurns</rs> und <rs type="place" subtype="place" ref="#place_c795b6d7a8a0ed049dc33bf44272ab39">Vils</rs>; ferners der
+                    Märkte: <rs type="place" subtype="place" ref="#place_fb304904e47de2eca0f44779a05fab4e">Schwaz</rs>, <rs type="place" subtype="place" ref="#place_63153a873b287afcf4a6418d812be951">Imst</rs>,
+                        <rs type="place" subtype="place" ref="#place_86fb371c3226628c38a00c85b3560d7e">Reutte</rs>; dann aus 5 Abgeordneten der Städte
+                        <rs type="place" subtype="place" ref="#place_34f36b9454115e3b99acdf7913509e12">Trient</rs>, <rs type="place" subtype="place" ref="#place_1a4c5876794d67effbce260a3f8c449d">Roveredo</rs>,
+                        <rs type="place" subtype="place" ref="#place_84465f5d4faee0a7e284c0f3878b528a">Riva</rs>, <rs type="place" subtype="place" key="arco" ref="#place_99b3a2abb4050d5bef6da28efdc9552f">Arko</rs> und
+                        <rs type="place" subtype="place" ref="#place_5c3bb83961c60315165392ebd7410e6f">Ala</rs>; ferners der Märkte:
+                        <rs type="place" subtype="place" ref="#place_6b2c5c4a1960cb332c9be9ee3abf450c">Pergine</rs>, <rs type="place" subtype="place" key="levico" ref="#place_ae89004a5cb8e07a9a099b1fcf87b6aa">Leviko</rs>,
+                        <rs type="place" subtype="place" ref="#place_a736a3ca909e94df53de0d2bf7fec40c">Borgo</rs>, <rs type="place" subtype="place" ref="#place_c14c843590b723310e024a354c5a5929">Lavis</rs>,
+                        <rs type="place" subtype="place" ref="#place_53eda3d01e8560c49da346baa2680892">Cles</rs> und <rs type="place" subtype="place" ref="#place_8fff1c32b468ddb7ab0c8a88fc824124">Fondo</rs>, endlich aus 2
                     Abgeordneten der in Deutschtirol bestehenden Organe des Handels und Gewerbe und
                     aus 1 Abgeordneten des hiefür im italienischen Landestheile bestehenden
                     Organes.<lb/>§ 7. Die Vertretung des Bauernstandes besteht aus 14 Abgeordneten
@@ -182,7 +180,7 @@
                     Bauernstande ist aus der der Wahlordnung angehängten Tabelle zu entnehmen.<lb/>§
                     8. Die Stellvertreter der Äbte und des Landcomenthurs werden von dieser selbst
                     namhaft gemacht, jene der 3 Pröbste und des Archiprete von
-                        <placeName ref="#place_1a4c5876794d67effbce260a3f8c449d">Roveredo</placeName> vom Fürstbischofe über Einvernehmen des
+                        <rs type="place" subtype="place" ref="#place_1a4c5876794d67effbce260a3f8c449d">Roveredo</rs> vom Fürstbischofe über Einvernehmen des
                     betreffenden Probstes oder Arciprete.<lb/>Für die Abgeordneten des 2., 3. und 4.
                     Standes sind gleichzeitig mit ihrer Wahl auf die Wahlen ihrer Stellvertreter
                     vorzunehmen.<lb/>§ 9. Als Landtagsmitglieder können nur österreichische
@@ -235,17 +233,17 @@
                     wahre Wohl Unserer Unterthanen zu fördern. Die Stände haben die Pflicht, Uns
                     darin treu zu unterstützen und Uns die Erfüllung dieser Aufgabe nach Kräften zu
                     erleichtern.<lb/>Darum gestatten Wir ihnen sich in allen die Wohlfahrt und
-                    Bedürfnisse <region key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">des Landes</region> betreffenden Gegenständen
+                    Bedürfnisse <rs type="place" subtype="region" key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">des Landes</rs> betreffenden Gegenständen
                     vertrauensvoll an Uns zu wenden.<note xml:id="note_12">mit Bleistift:
-                    [?]</note>Uns die Wünsche <region key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">des Landes</region> nach ihrem
+                    [?]</note>Uns die Wünsche <rs type="place" subtype="region" key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">des Landes</rs> nach ihrem
                     besten Wissen und Gewissen vorzutragen und ihre Anträge entweder unmittelbar
                     oder nach ihrem Ermessen im Wege Unserer Behörden an Uns gelangen zu
                     lassen.<lb/>§ 18. Wir weisen ferner dem Landtage folgende Rechte und Befugnisse
                     zu:<lb/>a. Über die allgemeinen gesetzlichen Anordnungen und Einrichtungen in
-                    Beziehung auf ihre besondere Rückwirkung auf das Wohl <region key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">dieses
-                        Landes</region> zu berathen und Anträge an Uns zu stellen.<note xml:id="note_13">mit Bleistift: [?] auch nachträglich</note>
+                    Beziehung auf ihre besondere Rückwirkung auf das Wohl <rs type="place" subtype="region" key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">dieses
+                        Landes</rs> zu berathen und Anträge an Uns zu stellen.<note xml:id="note_13">mit Bleistift: [?] auch nachträglich</note>
                     <lb/>b. Zu allen
-                    Gesetzen, die Wir in Absicht auf die besonderen Verhältnisse <region key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">dieses Landes</region> zu erlassen gesonnen sind, den Beirath zu
+                    Gesetzen, die Wir in Absicht auf die besonderen Verhältnisse <rs type="place" subtype="region" key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">dieses Landes</rs> zu erlassen gesonnen sind, den Beirath zu
                     üben.<lb/>c. Über besondere Landesangelegenheiten zu berathen und Beschlüsse zu
                     fassen, welche Beschlüsse, wenn sie Neuerungen oder Abweichungen von bestehenden
                     Gesetzen &lt;oder landesfürstlichen Vorschriften&gt; enthalten, zu Unserer
@@ -262,7 +260,7 @@
                     Einrichtungen.<lb/>Die altverfassungsmäßige Mitwirkung bei der
                     Landesvertheidigung, die Leitung des damit zusammenhängenden Schießstandwesens
                     sowie die Aufsicht über die für diese Zwecke bestimmten Waffenvorräthe.<lb/>Die
-                    Maßregeln zur leichteren Erfüllung jener Leistungen, welche <region key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">dem Lande</region> wegen Verpflegung und der Bequartirung des Heeres und
+                    Maßregeln zur leichteren Erfüllung jener Leistungen, welche <rs type="place" subtype="region" key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">dem Lande</rs> wegen Verpflegung und der Bequartirung des Heeres und
                     wegen der Vorspann obliegen.<lb/>d. Mit dem landschaftlichen Vermögen
                     selbstständig zu gebahren und die Landes&lt;fonde, zu denen auch der
                     Grundentlastungsfond gehört&gt; sowie die der Landschaft unterstehenden Fonde
@@ -319,7 +317,7 @@
                     <p>
                         <hi rend="ul">Wahlordnung</hi>
                         <lb/>für die Stände der gefürsteten Grafschaft
-                            <region ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</region>
+                            <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs>
                     </p>
                     <p>
                         <hi rend="ul">Wahlbefähigung</hi>:<lb/>§ 1. Um an den Wahlen für den Landtag
@@ -330,11 +328,11 @@
                         erforderlich.<lb/>§ 2. Besondere Erfordernisse sind:<lb/>
                         <hi rend="ul">Für
                             den Adelstand</hi>,<lb/>daß jeder Wähler und Gewählte der tirolischen
-                        Adelsmatrikel angehöre, einen Grundbesitz in <region ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</region> habe,
+                        Adelsmatrikel angehöre, einen Grundbesitz in <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs> habe,
                         von welchem wenigstens 25 fl ÖW jährlich an landefürstlicher Grundsteuer zu
                         entrichten sind,<note xml:id="note_18">Streichung: oder welcher einen
                             nachweisbaren Besitz im Werthe von 5000 fl ÖW hat</note>und daß der
-                        Gewählte seit wenigstens einem Jahre in <region ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</region> wohnhaft
+                        Gewählte seit wenigstens einem Jahre in <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs> wohnhaft
                             sei.<lb/>
                         <hi rend="ul">Für den Bürgerstand</hi>,<lb/>daß jeder
                             Gewählte<note xml:id="note_19">Streichung: Wähler oder</note>einer Stadt
@@ -378,9 +376,9 @@
                         die Zahl der Abgeordneten nach der angehängten Tabelle so vertheilt, daß in
                         jedem Wahlbezirke Ein Abgeordneter zu wählen ist. Die Wahl geschieht in zwei
                         Abstufungen, nämlich: zuerst die der Wahlmänner und dann jene der
-                        Abgeordneten.<lb/>§ 5. In den Städten <placeName ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</placeName>,
-                            <placeName ref="#place_3859ff9074d497ed0cb3c08be85996ad">Bozen</placeName>, <placeName ref="#place_34f36b9454115e3b99acdf7913509e12">Trient</placeName> und
-                            <placeName ref="#place_1a4c5876794d67effbce260a3f8c449d">Roveredo</placeName> ist für je 500 Einwohner, in den übrigen
+                        Abgeordneten.<lb/>§ 5. In den Städten <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs>,
+                            <rs type="place" subtype="place" ref="#place_3859ff9074d497ed0cb3c08be85996ad">Bozen</rs>, <rs type="place" subtype="place" ref="#place_34f36b9454115e3b99acdf7913509e12">Trient</rs> und
+                            <rs type="place" subtype="place" ref="#place_1a4c5876794d67effbce260a3f8c449d">Roveredo</rs> ist für je 500 Einwohner, in den übrigen
                         Städten und in den dem 3. Stande einverleibten Märkten aber für je 300
                         Einwohner Ein Wahlmann zu ernennen.<lb/>Für den 4. Stand wählt jede Gemeinde
                         für je 1000 Einwohner Einen Wahlmann, wobei ein durch 1000 nicht mehr
@@ -449,13 +447,13 @@
                 </div>
                 <div xml:id="D25_2" type="enclosure">
                     <p>Geschäftsordnung für den Landtag der gefürsteten Grafschaft
-                            <region ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</region>
+                            <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs>
                     </p>
                     <p>1. Für den ersten Landtag, und zwar bis zur Ernennung des Landeshauptmanns,
                         läßt das ständische Präsidium die Vorarbeiten, welche für den Zusammentritt
                         des Landtages nöthig sind, besorgen.<lb/>2. Die Eröffnung des Landtages
-                        erfolgt jedesmal nach den von <persName key="franz-joseph">Seiner k.k.
-                            Apostolischen Majestät</persName> erlassenen Anordnungen.<lb/>3. Sobald
+                        erfolgt jedesmal nach den von <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner k.k.
+                            Apostolischen Majestät</rs> erlassenen Anordnungen.<lb/>3. Sobald
                         nach Eröffnung des Landtages die Hälfte der einberufenen Abgeordneten sich
                         eingefunden hat, ist derselbe beschlußfähig. Der erste Landtag schreitet
                         unter dem Vorsitze des Landeshauptmannes, der für dieses Mal bereits ernannt
@@ -536,7 +534,7 @@
                 </div>
                 <div xml:id="D25_3" type="enclosure">
                     <p>Votum des Kultusministers</p>
-                    <p>Für die künftige Verfassung <region key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tirols</region> liegt ein
+                    <p>Für die künftige Verfassung <rs type="place" subtype="region" key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tirols</rs> liegt ein
                         Entwurf vor, welcher von dem verstärkten Ausschusse – nicht von einer bloßen
                         Vertrauenskommission – ausgearbeitet worden. Es wird anerkannt, daß
                         derselbe, vom politischen Standpunkte betrachtet, sehr befriedigend ist.
@@ -564,7 +562,7 @@
                         vielleicht in einigen Ländern gewissen Personen, obgleich sie nicht
                         österreichische Staatsbürger sind, ihrer Stellung und ihres Besitzes wegen
                         Virilstimmen als persönliche Berechtigung einzuräumen sein werden. In
-                            <region key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tyrol</region> aber, wo das nicht der Fall ist,
+                            <rs type="place" subtype="region" key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tyrol</rs> aber, wo das nicht der Fall ist,
                         scheint mir zu Dispensen von der Staatsbürgerschaft kein Anlaß zu sein. Es
                         wäre in der That sonderbar, als einen der 14 Vertreter des einen oder andern
                         Standes Jemanden in den Landtag treten zu lassen, der es nicht einmal der
@@ -575,7 +573,7 @@
                         Entwurf für den verstärkten Landesausschuß vorbereitete, hatte eine
                         fünfjährige Funktionsdauer mit vollständiger Erneuerung nach Ablauf
                         derselben vorgeschlagen. Der Ausschuß hat in diesem Punkte sich den früheren
-                        Entwürfen des <persName key="bach-alexander">Ministers des Innern</persName>
+                        Entwürfen des <rs type="person" ref="bach-alexander" key="bach-alexander">Ministers des Innern</rs>
                         und des Reichsrathes angeschlossen, wohl in der Meinung dadurch seinen
                         Vorschlag akzeptabler zu machen. Die Ministerkonferenz war hingegen
                         einverstanden den Anlaß zu häufiger Wahlagitation zu beseitigen, der durch
@@ -588,7 +586,7 @@
                         gestellt waren. Auch ich halte diese Einrichtung nicht für zweckmäßig; darum
                         ist aber nicht nothwendig, noch scheint es mir angemessen unbedingt
                         auszusprechen, daß der Landeshauptmann gar keine landesfürstliche
-                        Dienststelle bekleiden könne.<lb/>§ 17. Der einleitende Satz ist für <region key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tyrol</region> gewiß keine wirkungslose Phrase. Welche
+                        Dienststelle bekleiden könne.<lb/>§ 17. Der einleitende Satz ist für <rs type="place" subtype="region" key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tyrol</rs> gewiß keine wirkungslose Phrase. Welche
                         Gründe könnte die Regierung haben, diesen Satz zu streichen, wo er vom Lande
                         aus gewünscht und vorgeschlagen wird? Warum Regungen einer religiösen
                         Auffassung der landesfürstlichen Autorität absichtlich zurückweisen? Man hat
@@ -644,32 +642,32 @@
                         Grundentlastungsbandes ganz zu übertragen, so läge hierin ein Grund den
                         Aerarialbeitrag zur Deckung der ständischen Erfordernisse höher zu
                         bemessen.<lb/>Zu § 1. Man hat gegen diesen § im Hinblicke auf die Zustände
-                            <country key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarns</country> Bedenken getragen. Allein wenn
+                            <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarns</rs> Bedenken getragen. Allein wenn
                         die im Verlaufe des Krieges, der zur Unterdrückung des ungarischen
                         Revolution geführt werden mußte, geschehenen Veränderungen in den Gränzen
                         des Landes aufrecht erhalten werden müssen, so wird es unvermeidlich werden,
                         sich darüber offen auszusprechen und es zu rechtfertigen. Das kann nicht
-                        hindern die Integrität <region key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tirols</region> oder eines
+                        hindern die Integrität <rs type="place" subtype="region" key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tirols</rs> oder eines
                         anderen Kronlandes anzuerkennen. Auch den Ungarn gegenüber wäre nichts
                         bedenklicher, als sich gleichsam der Auffassung schuldig zu bekennen, daß
                         fortan die Integrität der Kronländer, die eine staatsrechtliche Grundlage
                         haben, ein Gegenstand administrativer Willkühr sei.<lb/>Für
-                            <region ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</region> hat dieser mit Rücksicht auf die italienischen
+                            <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs> hat dieser mit Rücksicht auf die italienischen
                         Bestrebungen noch seine besondere Bedeutung.<lb/>Die Zusätze und Änderungen
                         in der Wahl- und Geschäftsordnung bedürfen in Hinblicke auf das Protokoll
                         der Ministerconferenz keiner weiteren Erläuterung.</p>
                 </div>
                 <div xml:id="D25_4" type="enclosure">
-                    <p>Bemerkungen von <persName key="wolkenstein-leopold">Leopold
-                            Wolkenstein</persName> über den vom verstärkten Landesausschuß
-                        bearbeiteten Entwurf der <region key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tyroler</region> Verfassung</p>
+                    <p>Bemerkungen von <rs type="person" ref="wolkenstein-leopold" key="wolkenstein-leopold">Leopold
+                            Wolkenstein</rs> über den vom verstärkten Landesausschuß
+                        bearbeiteten Entwurf der <rs type="place" subtype="region" key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tyroler</rs> Verfassung</p>
                     <!-- 216 u. 217 -->
                     <p>
                         <hi rend="ul">Motto</hi>
                         <lb/>
                         <hi rend="ul">nur nicht "schablonenmäßig und
                             breit"</hi>!</p>
-                    <p>Die Veränderung in verstärkten Ausschuß (in dem aus dem Comité nur <persName key="wolkenstein-leopold">W[olkenstein]</persName> saß) [?]; den
+                    <p>Die Veränderung in verstärkten Ausschuß (in dem aus dem Comité nur <rs type="person" ref="wolkenstein-leopold" key="wolkenstein-leopold">W[olkenstein]</rs> saß) [?]; den
                         modernen Anschauungen und höheren Ministerentwurf wieder näher.<lb/>(die
                         Bauern [?])<lb/>
                         <hi rend="ul">zu § 1-3 des [?]entwurfs</hi>
@@ -686,10 +684,10 @@
                     <p>Wird Parität der Mitglieder der Stände aufrecht erhalten, so muß für
                         gestärkte Stellung des Adels gesorgt werden.</p>
                     <p>
-                        <region ref="#place_6c26d83c5622aa697d39a9ca0aaff52b">Vorarlberg</region> ein [?], modernisirtes, utilitarisches
+                        <rs type="place" subtype="region" ref="#place_6c26d83c5622aa697d39a9ca0aaff52b">Vorarlberg</rs> ein [?], modernisirtes, utilitarisches
                         Volk.<lb/>§ 4. in verstärkten Ausschuß Konzession [?] ([?] von
-                            <placeName ref="#place_1a4c5876794d67effbce260a3f8c449d">Roveredo</placeName>) Welschtyrol zweckmäßig<lb/>§ 5.
-                            <persName key="wolkenstein-leopold">W[olkenstein]</persName> will
+                            <rs type="place" subtype="place" ref="#place_1a4c5876794d67effbce260a3f8c449d">Roveredo</rs>) Welschtyrol zweckmäßig<lb/>§ 5.
+                            <rs type="person" ref="wolkenstein-leopold" key="wolkenstein-leopold">W[olkenstein]</rs> will
                         "immatrikulirt" streichen.<lb/>Matrikel zu [?] als [?] etc.<lb/>der
                         Landesfürst [?]<lb/>(nur einzuwenden: daß Prüfung durch das [?] Organ
                         wegfiele.)<lb/>Wünschenswerth diese "Genossenschaft" von [?] zu

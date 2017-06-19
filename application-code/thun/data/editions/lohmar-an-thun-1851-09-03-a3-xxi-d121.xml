@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="lohmar-wilhelm" role="sender:gelehrter">Wilhelm
-                        Lohmar</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="lohmar-wilhelm" key="lohmar-wilhelm" role="sender:gelehrter">Wilhelm
+                        Lohmar</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_f45d358fd20dfc9437911de6e44bdc83">Trier</placeName>, <date when="1851-09-03">3. September 1851</date>
+                    <rs type="place" subtype="place" ref="#place_f45d358fd20dfc9437911de6e44bdc83">Trier</rs>, <date when="1851-09-03">3. September 1851</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -36,7 +35,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -58,7 +57,7 @@
                     neuer Zeit schon viele von ihm gesammelt. Was sich sonst noch aus der Geschichte
                     des kaiserlichen Hauses für poetische Behandlung eignet, wird von ihm und
                     einigen Freunden das Gewand der Dichtkunst erhalten. Da das Andenken an das
-                    erlauchte Haus Habsburg auch außerhalb <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oestreich</country> in vielen Herzen fortlebt, so wäre es von großem
+                    erlauchte Haus Habsburg auch außerhalb <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oestreich</rs> in vielen Herzen fortlebt, so wäre es von großem
                     Interesse nachzuforschen, ob es nicht auch in Volkliedern noch gefeiert werde.
                     Solche Lieder würden nach meiner Ansicht ein Schmuck der Sammlung sein. Aber zur
                     Anstellung solcher Forschungen fehlen dem gehorsamst Unterzeichneten Muße und

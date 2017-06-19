@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="pierre-viktor" role="sender:gelehrter">Viktor
-                        Pierre</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="pierre-viktor" key="pierre-viktor" role="sender:gelehrter">Viktor
+                        Pierre</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, <date when="1858-05-20">20. Mai 1858</date>
+                    <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1858-05-20">20. Mai 1858</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -53,7 +52,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -72,17 +71,17 @@
                     bitte ich mich damit zu entschuldigen, daß ich so objektiv als möglich zu
                     verfahren und Euer Excellenz in den Stand zu setzen wünsche die Gründe, auf
                     welche ich mein Urtheil basiere, selbst würdigen zu können.<lb/>Der
-                    Habilitationsakt <persName key="urbanski-wojciech">Urbańskis</persName> fiel in
+                    Habilitationsakt <rs type="person" ref="urbanski-wojciech" key="urbanski-wojciech">Urbańskis</rs> fiel in
                     die erste Zeit meines Wirkens an der technischen Akademie zu Lemberg, als
-                        <persName key="zawadzki-alexander">Zawadzki</persName> die Physik an der
+                        <rs type="person" ref="zawadzki-alexander" key="zawadzki-alexander">Zawadzki</rs> die Physik an der
                         <orgName key="universitaet-lemberg">Universität</orgName> vertrat, und ich
                     habe daher weder damals noch später ein competentes Urtheil über die ganze
-                    Angelegenheit vernommen. Alsbald jedoch kam ich mit <persName key="urbanski-wojciech">Urbański</persName> selbst in mehrfache Berührung,
+                    Angelegenheit vernommen. Alsbald jedoch kam ich mit <rs type="person" ref="urbanski-wojciech" key="urbanski-wojciech">Urbański</rs> selbst in mehrfache Berührung,
                     und wir sprachen oft über mathematisch-physikalische Fragen. Durch diesen
                     persönlichen Verkehr gewann ich die Überzeugung, daß der Betreffende sich sehr
                     fleißig mit mathematischer Physik befaßt, und in mehreren Zweigen sich
                     achtenswerte Kenntnisse angeeignet habe. Diese umfassen, so viel ich aus unseren
-                    Gesprächen entnehmen konnte, außer den von dem <persName key="ettinghausen-andreas">G. Reg. R. v. Ettingshausen</persName> in seinen
+                    Gesprächen entnehmen konnte, außer den von dem <rs type="person" ref="ettinghausen-andreas" key="ettinghausen-andreas">G. Reg. R. v. Ettingshausen</rs> in seinen
                     Vorträgen über höhere Physik behandelten Parthien (Gaußische Theorie der
                     Kapillarphänomene, Magnetismus, Statik und Dynamik der Elektrizität und Optik)
                     auch noch die Fourrier’sche Wärmetheorie und die neueren in die mechanische
@@ -96,10 +95,10 @@
                     deutscher Sprache abgefaßte mathematisch-physikalische Abhandlung in einem
                     Gymnasialprogramme und das erste Heft seiner eben erscheinenden mathematischen
                     Physik sind ganz abgesehen von der Frage nach dem geistigen Eigenthume
-                    lobenswerthe Redaktionen der <persName key="ettinghausen-andreas">Ettingshausen</persName>’schen Vorträge. Selbstständigkeit der Behandlung,
+                    lobenswerthe Redaktionen der <rs type="person" ref="ettinghausen-andreas" key="ettinghausen-andreas">Ettingshausen</rs>’schen Vorträge. Selbstständigkeit der Behandlung,
                     mit Ausnahme rein formeller Nebendinge, hat er indessen weder im Umgange, noch
                     in seinen mir bekannten Arbeiten entwickelt.<lb/>Was seine Verwendung als
-                    Privatdocent betrifft, so war selbe nur so lange von Bedeutung, als <persName key="zawadzki-alexander">Zawadzki</persName>, dem die mathematische Analyse
+                    Privatdocent betrifft, so war selbe nur so lange von Bedeutung, als <rs type="person" ref="zawadzki-alexander" key="zawadzki-alexander">Zawadzki</rs>, dem die mathematische Analyse
                     eine terra incognita war, neben ihm als Professor fungirte; von dem Augenblicke
                     an, als ich meine Wirksamkeit an der Universität begann, war die seine, einzig
                     und allein durch seine Starrsinnigkeit nur mehr nominell geworden. Ich hatte
@@ -113,7 +112,7 @@
                     Semester gar nicht las und überhaupt nur darum von Zeit zu Zeit im
                     Lektionskatalog auftrat, um seine Dozentenbefugnis nicht zu verlieren.
                     <lb/>Nichtsdestoweniger werde ich jedoch, auf Grundlage meiner persönlichen
-                    Überzeugung mich stets dahin aussprechen, daß <persName key="urbanski-wojciech">Urbański</persName> ganz wohl im Stande ist, eine Lehrkanzel der
+                    Überzeugung mich stets dahin aussprechen, daß <rs type="person" ref="urbanski-wojciech" key="urbanski-wojciech">Urbański</rs> ganz wohl im Stande ist, eine Lehrkanzel der
                     theoretischen (mathematischen) Physik mit Nutzen zu versehen. Ein minder
                     günstiges Urtheil muß ich über seine praktische Befähigung fällen. Nicht der
                     Umstand, daß ihm bisher die Gelegenheit zur praktischen Durchbildung fehlte,
@@ -129,7 +128,7 @@
                     Glauben fest: wer auf mathematischem Felde zu Hause sei, werde alles Übrige
                     leicht von selber treffen. Dies ist aber nach meinen, an mir selbst und an
                     meinen Schülern gemachten Erfahrungen durchaus nicht der Fall, und gerade in
-                        <region ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</region> habe ich in dieser Hinsicht wenig erfreuliche
+                        <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs> habe ich in dieser Hinsicht wenig erfreuliche
                     Erfahrungen gemacht. Bei hoher Meinung von sich selber erwiesen sich mir die
                     polnischen Kandidaten, ein paar ehrenvolle Ausnahmen abgerechnet, meistens sehr
                     unanstellig; den Hang zur Schluderei und Unsauberkeit, der leider! auch
@@ -146,24 +145,24 @@
                     sicher aufzufinden. Derlei Eigenschaften erwirbt man sich aber nicht sobald, am
                     wenigsten aber dann, wenn man bei gänzlicher Unkenntnis der Methode des
                     Experimentierens, dasselbe einfach als untergeordnete Schaustellung behandelt.
-                    Auch war es nicht bloß mir, sondern auch anderen aufgefallen, daß <persName key="urbanski-wojciech">Urbański</persName> nie das geringste Interesse
+                    Auch war es nicht bloß mir, sondern auch anderen aufgefallen, daß <rs type="person" ref="urbanski-wojciech" key="urbanski-wojciech">Urbański</rs> nie das geringste Interesse
                     zeigte, die mitunter höchst wichtigen Erscheinungen, mit welchen die neuesten
                     Forschungen den Schatz unserer Erfahrungskenntnisse bereicherten, trotz der an
                     ihn ergangenen Einladungen kennen zu lernen.<lb/>Die an der <orgName key="universitaet-lemberg">Lemberger Universität</orgName> bestehende
                     physikalische Werkstätte ist ebenfalls ein zu berücksichtigendes Institut.
                     Dasselbe wird nur dann ersprießlich wirken, wenn es unter einer völlig
-                    fachkundigen Oberleitung steht. Mechaniker <persName key="leopolder">Leopolder</persName> ist nämlich ein sehr fleißiger und tüchtiger Arbeiter,
+                    fachkundigen Oberleitung steht. Mechaniker <rs type="person" ref="leopolder" key="leopolder">Leopolder</rs> ist nämlich ein sehr fleißiger und tüchtiger Arbeiter,
                     aber nebenbei ein echtes Wienerkind, dem man zu imponiren verstehen muß, was
                     eben nur dadurch möglich ist, daß man ihm bei jeder Gelegenheit Beweise von
                     Überlegenheit auf praktischem Felde liefert.<lb/>Alle diese Umstände veranlaßten
                     mich schon damals, als es sich um die Supplirung der Lehrkanzel handelte, die
-                    Zuläßigkeit <persName key="urbanski-wojciech">Urbańskis</persName> nur
+                    Zuläßigkeit <rs type="person" ref="urbanski-wojciech" key="urbanski-wojciech">Urbańskis</rs> nur
                     bedingterweise zuzugestehen und mein Urtheil dem Professorenkollegio gegenüber
                     beiläufig in derselben Weise, wie im Voranstehenden, zu motiviren. Ich wurde
                     deßhalb von gewisser Seite lebhaft angegriffen, aber selbst meine (übrigens
                     nicht sachverständigen) Gegner konnten nicht umhin einzuräumen, daß meine
                     Darstellung der Sachlage eine würdevolle und ehrenhafte sei, und ich darf umso
-                    mehr hoffen Euer Excellenz werden in dem Endurtheile: <persName key="urbanski-wojciech">Urbański</persName> sei für die praktische
+                    mehr hoffen Euer Excellenz werden in dem Endurtheile: <rs type="person" ref="urbanski-wojciech" key="urbanski-wojciech">Urbański</rs> sei für die praktische
                     Ausbildung von Lehramtscandidaten bestimmt nicht geeignet, für jede Lehrkanzel
                     aber, bei welcher diese Richtung nicht in Frage kommt, jedenfalls
                     empfehlenswerth – nur den Ausdruck der Überzeugung und der Rücksicht auf das
@@ -175,10 +174,10 @@
                     Übersiedlungskostenbeitrages untertänigsten Dank zu sagen. Meine pekuniären
                     Verhältnisse sind durch die Übersiedlung und das dringende Bedürfnis einer
                     umfassenderen Ergänzung meiner litterarischen Hilfsmittel, zu welcher mir in
-                        <placeName ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</placeName> fast alle Gelegenheit fehlte, so äußerst
+                        <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs> fast alle Gelegenheit fehlte, so äußerst
                     beschränkt geworden, daß ich die Kosten einer Reise nach
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> nicht wohl zu erschwingen vermochte und meine
-                    Konfinierung zu <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> zur schleunigsten Beseitigung des
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> nicht wohl zu erschwingen vermochte und meine
+                    Konfinierung zu <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> zur schleunigsten Beseitigung des
                     traurigen Zustandes, in welchem ich das physikalische Museum und Laboratorium
                     auch hier vorfand, nach Möglichkeit zu benützen gezwungen war.<lb/>Indem ich es
                     wage, Euerer Excellenz Aufmerksamkeit auf den dießfälligen Bericht, welchen ich

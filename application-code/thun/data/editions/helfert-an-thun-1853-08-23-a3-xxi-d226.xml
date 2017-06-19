@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="helfert-joseph-alexander" role="sender:beamter">Joseph
-                        Alexander Helfert</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="helfert-joseph-alexander" key="helfert-joseph-alexander" role="sender:beamter">Joseph
+                        Alexander Helfert</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1853-08-23">23. August 1853</date>
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1853-08-23">23. August 1853</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -34,7 +33,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -47,11 +46,11 @@
                 </index>
                 <p>Euer Excellenz!</p>
                 <p>
-                    <persName key="galba-julius">Galba</persName> war <hi rend="ul">vor</hi> dem
+                    <rs type="person" ref="galba-julius" key="galba-julius">Galba</rs> war <hi rend="ul">vor</hi> dem
                     Jahre 1848 im öffentlichen Lehr- und Erziehungsfache angestellt, nämlich als
                     Juristenpräfect in der <orgName key="theresianische-ritterakademie">k.k.
                         Theresianischen Ritterakademie</orgName>, hat im Jahre 1848, unterm 1. und
-                    12. April vom Minister <persName key="sommaruga-franz-seraph">Sommaruga</persName> die Befugnis erhalten, öffentliche Vorträge an der
+                    12. April vom Minister <rs type="person" ref="sommaruga-franz-seraph" key="sommaruga-franz-seraph">Sommaruga</rs> die Befugnis erhalten, öffentliche Vorträge an der
                         <orgName key="universitaet-wien">Universität</orgName> über <hi rend="ul">Verfassungspolitik</hi> halten zu dürfen, welche Befugnis ihm mit
                     Ministerialerlaß vom 19. August 1850 Z. 6687 "mit Dispens von einer weitern
                     Probe seiner Befähigung" über die warme Befürwortung des Professorencollegiums
@@ -59,30 +58,30 @@
                     ausgedehnt wurde, worauf aber schon unterm 1. December 1850 24/g.[?] ihm die
                     Befugnis entzogen wurde. Hiermit glaube ich dem diesfälligen mir hinterlassenen
                     Auftrage nachgekommen zu sein.<lb/>Was die Personalvorschläge an das Civil- und
-                    Militärgouvernement für <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> betrifft, so stellt sich die
+                    Militärgouvernement für <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> betrifft, so stellt sich die
                     Sache so, daß die Secretäre einer wie der andere sich für den Antrag unter
                     hundert Entschuldigungen bedanken und ich nehme mir daher die Freiheit, folgende
                     Namen der geneigten Beachtung zu empfehlen und mir die hohe Weisung darüber zu
                         erbitten:<lb/>
-                    <persName key="dargun-august">Dargun</persName>, der gewiß
-                    lieber nach <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> als Statthaltereirath wie nach
-                        <region ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</region> ginge und vielfache Geschäftsroutine
+                    <rs type="person" ref="dargun-august" key="dargun-august">Dargun</rs>, der gewiß
+                    lieber nach <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> als Statthaltereirath wie nach
+                        <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs> ginge und vielfache Geschäftsroutine
                         besitzt;<lb/>
-                    <persName key="strobach-friedrich">Strobach</persName>, der
-                    bereits in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> und <placeName ref="#place_a620921af9eef09d01368fb2c1a2fd88">Agram</placeName> gedient
+                    <rs type="person" ref="strobach-friedrich" key="strobach-friedrich">Strobach</rs>, der
+                    bereits in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> und <rs type="place" subtype="place" ref="#place_a620921af9eef09d01368fb2c1a2fd88">Agram</rs> gedient
                     und sich hiermit mit Rücksicht auf den Umstand, daß er mit dem Bureau des
                     stylistisch <hi rend="ul">gar nicht</hi> zu befriedigenden Referenten in jenes
                     des <hi rend="ul">kaum</hi> zu befriedigenden kam und trotzdem des letzteren
                     volle Anerkennung sich allmälig zu erringen gewußt hat, einer derartigen
                     Verantwortung kaum in geringeren Grade als Conzipist würdig und vertrauenswerth
                     darstellen dürfte; <lb/>
-                    <persName key="hermann">Hermann</persName> aus
-                        <placeName ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</placeName>, Statthaltereiconzipist, bei dem höchstens
+                    <rs type="person" ref="hermann" key="hermann">Hermann</rs> aus
+                        <rs type="place" subtype="place" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs>, Statthaltereiconzipist, bei dem höchstens
                     die noch zu kurze Dienstzeit Bedenken gegen eine so gewaltige Beförderung
                     erregen dürfte.<lb/>Ich erbitte mir die diesmal vergessene hohe Weisung
                     rücksichtlich der Briefschaften. Im Vertrauen auf die im vorigen Jahre erhaltene
-                    Ermächtigung habe ich einen von <persName key="gruenne-karl-ludwig">FML
-                        Grünne</persName> angelangten Brief eröffnet, der den Empfang des Schreibens
+                    Ermächtigung habe ich einen von <rs type="person" ref="gruenne-karl-ludwig" key="gruenne-karl-ludwig">FML
+                        Grünne</rs> angelangten Brief eröffnet, der den Empfang des Schreibens
                     Eurer Excellenz bestätigt, über den Erfolg der eingelegten Vorstellung aber noch
                     kein Prognosticon stellen zu können sich erklärt.<lb/>Mit den ergebensten
                     Wünschen für das glücklichste Gedeihen der angetretenen Badesaison erlaube ich

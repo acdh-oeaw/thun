@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -48,7 +47,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -61,21 +60,21 @@
                 </index>
                 <div>
                     <p>
-                        <persName key="thun-hohenstein-friedrich">Thun, Graf Friedrich</persName>,
+                        <rs type="person" ref="thun-hohenstein-friedrich" key="thun-hohenstein-friedrich">Thun, Graf Friedrich</rs>,
                         bzgl. <hi rend="ul">Jesuiten</hi> in <hi rend="ul">
-                            <placeName key="mailand" ref="#place_e30630933146ed8683482de23229fd6a">Mailand</placeName>
+                            <rs type="place" subtype="place" key="mailand" ref="#place_e30630933146ed8683482de23229fd6a">Mailand</rs>
                         </hi>
                     </p>
-                    <p>Der <persName key="romilli-bartolomeo">Erzbischof</persName> und mehrere
-                        Adelige von <placeName ref="#place_ab21db0a2aa2e84be73932be6063b033">Mailand</placeName> um die Schenkung an die Jesuiten
+                    <p>Der <rs type="person" ref="romilli-bartolomeo" key="romilli-bartolomeo">Erzbischof</rs> und mehrere
+                        Adelige von <rs type="place" subtype="place" ref="#place_ab21db0a2aa2e84be73932be6063b033">Mailand</rs> um die Schenkung an die Jesuiten
                         irgendeines in den Besitz der Staatsverwaltung übergangenen klösterlichen
                         Gebäudes <note xml:id="note_2">Notiz am Rand: bleibt.</note>
                     </p>
                     <p>Allerunterthänigste Auskunft</p>
-                    <p>Für die Jesuiten Gesellschaft in <placeName ref="#place_ab21db0a2aa2e84be73932be6063b033">Mailand</placeName>, welche aus
+                    <p>Für die Jesuiten Gesellschaft in <rs type="place" subtype="place" ref="#place_ab21db0a2aa2e84be73932be6063b033">Mailand</rs>, welche aus
                         einigen wenigen Mitgliedern bestehend den Gottesdienst in der Kirche S.
                         Damiano versieht, und das an dieselbe anstoßende kleinere Gebäude bewohnt,
-                        war vom <persName key="romilli-bartolomeo">Erzbischof von Mailand</persName>
+                        war vom <rs type="person" ref="romilli-bartolomeo" key="romilli-bartolomeo">Erzbischof von Mailand</rs>
                         schon zu wiederholten Malen um die Überlassung verschiedener in den Besitz
                         der Staatsverwaltung übergegangenen früher klösterlichen Gebäuden
                         eingeschritten. Sein erstes diesfälliges Majestätsgesuch hatte die Gebäude
@@ -83,7 +82,7 @@
                         Giardino wo sich gegenwärtig das Lottoamt befindet zum Gegenstand.<lb/>Laut
                         Allerhöchster Entschließung vom 19. Jänner 1853 wurde jedoch diesem Gesuche
                         wegen der Unentbehrlichkeit der erwähnten Gebäude keine Folge gegeben. Kurz
-                        darauf erneuerte der <persName key="romilli-bartolomeo">Erzbischof</persName> seine Bitte in einem dato 27. April 1853
+                        darauf erneuerte der <rs type="person" ref="romilli-bartolomeo" key="romilli-bartolomeo">Erzbischof</rs> seine Bitte in einem dato 27. April 1853
                         präsentierten der Allerhöchsten Signatur gewürdigten Majestätsgesuche, worin
                         er zum Zwecke der Ausbreitung und Vermehrung der Jesuitengesellschaft das
                         bei der Kirche S. Damiano befindliche größere Gebäude, das gegenwärtig zur
@@ -95,12 +94,12 @@
                         die umfaßendsten Räumlichkeiten in Anspruch nehmenden und dennoch nur in
                         sehr beschränkter und ungenügender Weise verwahrten Archive entbehrlich noch
                         diesfalls bei der bekannten unzulänglichen Anzahl von Staatsgebäuden in
-                            <placeName ref="#place_ab21db0a2aa2e84be73932be6063b033">Mailand</placeName> ein anderes sei es für die Archive, sei
+                            <rs type="place" subtype="place" ref="#place_ab21db0a2aa2e84be73932be6063b033">Mailand</rs> ein anderes sei es für die Archive, sei
                         es für die Jesuitengesellschaft selbst taugliches Gebäude vorhanden sei. Das
                         erzbischöfliche Bittgesuch wurde daher in Folge Allerhöchster Entschließung
                         vom 5. September 1853 abermals abgewiesen.<lb/>In neuester Zeit hat sich
                         noch der Duca Scotti in einem ohne Allerhöchster Bezeichnung an die
-                        Statthalterei in <placeName ref="#place_ab21db0a2aa2e84be73932be6063b033">Mailand</placeName> übermittelten
+                        Statthalterei in <rs type="place" subtype="place" ref="#place_ab21db0a2aa2e84be73932be6063b033">Mailand</rs> übermittelten
                         Majestätsgesuch um die Rückstellung des früher im Besitze der
                         Jesuitengesellschaft befindlichen und gegenwärtig gleichfalls zur
                         Aufbewahrung von Archiven benützten Gebäudes S. Fedele zum Behufe der
@@ -114,8 +113,8 @@
                         wiederholt wird, nicht geeignet sey, in weiterer Verhandlung gezogen zu
                         werden, und dies umsomehr als nach dem Ausweise des Prokurators der
                         Jesuitengesellschaft deren nur wenige Mitglieder in
-                            <placeName ref="#place_ab21db0a2aa2e84be73932be6063b033">Mailand</placeName> vorhanden sind, dieselben in den
-                        Provinzen Mailand und <placeName ref="#place_b2114cc02aeee3cd3f80a773ca6597de">Como</placeName> ein Grundcomplex von
+                            <rs type="place" subtype="place" ref="#place_ab21db0a2aa2e84be73932be6063b033">Mailand</rs> vorhanden sind, dieselben in den
+                        Provinzen Mailand und <rs type="place" subtype="place" ref="#place_b2114cc02aeee3cd3f80a773ca6597de">Como</rs> ein Grundcomplex von
                         10.032 pertiche mit dem Attivo von 41.320 Scudi besitzt, und daher der Hülfe
                         des Staates nicht zu bedürfen erscheint.</p>
                     <p>Friedrich Thun.</p>

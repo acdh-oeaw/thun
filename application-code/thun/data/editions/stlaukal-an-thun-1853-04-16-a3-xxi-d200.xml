@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="stlaukal-josef" role="sender:beamter">Josef
-                        Stlaukal</persName> an Leo Thun<lb/>
-                    <placeName ref="#place_e33dd70f39b25f77dfbff9da757f7f91">Vydrany</placeName>, <date when="1853-04-16">16. April 1853</date>
+                    <rs type="person" ref="stlaukal-josef" key="stlaukal-josef" role="sender:beamter">Josef
+                        Stlaukal</rs> an Leo Thun<lb/>
+                    <rs type="place" subtype="place" ref="#place_e33dd70f39b25f77dfbff9da757f7f91">Vydrany</rs>, <date when="1853-04-16">16. April 1853</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -36,7 +35,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -54,7 +53,7 @@
                     Kenntnis Euer Excellenz zu bringen und beschreibe im Vorhinein die Lage und
                     Beschaffenheit der hiesigen Gegend und der Bewohner:<lb/>Liegt diese Gegend
                     nördlicher Seits an ein hohes Waldgebirge und gränzt gegen
-                        <region ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</region> an den sogenannten Bezkied [Bezkid], der Boden
+                        <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs> an den sogenannten Bezkied [Bezkid], der Boden
                     selbst ist zu den unfruchtbaren als üppigen zu rechnen, würde bei Weitem mehr
                     eintragen, wenn der Fleiß in Anspruch genommen und das Volk ihr Vertrauen nicht
                     so viel in die Natur setzen würde, was zu Folge hat, daß bei dem geringen
@@ -62,36 +61,36 @@
                     keine Nahrung hat und dennoch wird er von der eigenen Geistlichkeit sehr
                     unterdrückt, die ihren Vortheil durch verschiedene fast abergläubische
                     Vorstellungen zu benützen weiß.<lb/>Ich erkühne mich, in dieser Beziehung ein
-                    Beispiel eines in dem Dorfe Vidrany [<placeName ref="#place_e33dd70f39b25f77dfbff9da757f7f91">Vydrany</placeName>], <placeName key="komitat-semplin" ref="#place_ebc37f7e16fe5ad58569db15cf4c0a03">Zempliner Comitats</placeName> in
-                        <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> wohnenden Geistlichen <persName key="petrassovits-andreas">Andreas Petraßovits</persName>
+                    Beispiel eines in dem Dorfe Vidrany [<rs type="place" subtype="place" ref="#place_e33dd70f39b25f77dfbff9da757f7f91">Vydrany</rs>], <rs type="place" subtype="place" key="komitat-semplin" ref="#place_ebc37f7e16fe5ad58569db15cf4c0a03">Zempliner Comitats</rs> in
+                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> wohnenden Geistlichen <rs type="person" ref="petrassovits-andreas" key="petrassovits-andreas">Andreas Petraßovits</rs>
                     anzuführen.<lb/>Dieser schon beinahe 60 Jahre alte Mann, Witwer, dessen erster
-                    Sohn <persName key="petrassovits-andreas-sohn">Andreas</persName> bei einer k.k.
-                    Regierungsbehörde in <placeName ref="#place_dd51fef1ae0877c04e8b4e19eddbabd5">Kaschau</placeName> [Košice] als Praktikant, der
-                    zweite unter dem Namen <persName key="petrassovits-anton">Anton</persName> in
-                    dem Seminarium zu <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> unterbracht ist, unterhält in
+                    Sohn <rs type="person" ref="petrassovits-andreas-sohn" key="petrassovits-andreas-sohn">Andreas</rs> bei einer k.k.
+                    Regierungsbehörde in <rs type="place" subtype="place" ref="#place_dd51fef1ae0877c04e8b4e19eddbabd5">Kaschau</rs> [Košice] als Praktikant, der
+                    zweite unter dem Namen <rs type="person" ref="petrassovits-anton" key="petrassovits-anton">Anton</rs> in
+                    dem Seminarium zu <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> unterbracht ist, unterhält in
                     seinem Hause eine Concubine, die er Wirthin nennt, welcher er freien Lauf in
                     Ausübung ihrer liederlichen Stückeln zukommen läßt, ja sogar geschehen solche
                     Fälle in seinem Hause, die er selbst als redlicher Mann zu verantworten außer
-                    Stande ist. <persName key="petrassovits-andreas">Der Hochwürdige</persName> gibt
+                    Stande ist. <rs type="person" ref="petrassovits-andreas" key="petrassovits-andreas">Der Hochwürdige</rs> gibt
                     unterdessen den Deckmantel ab und sich durch ihre verbreitenden Reden – als wenn
                     er mit ihr keinen Beischlaf hätte – vor eigenen Pfarrkindern zu entschuldigen
                     sucht, da er bei jedem zu ihm eintretenden Gast die Wirthin nöthiget zu sagen,
                     von wem sie in andern Umständen sei, was dann ohne die geringste Rücksicht auf
                     die anwesende Jugend geschieht, daß man sich als Mann mit Charakter schämen muß,
-                    den ganzen optischen Gang zuzuhören. <persName key="petrassovits-andreas">Der
-                        Geistliche</persName> selbst wohnt in einem an das Gesindezimmer anstoßenden
+                    den ganzen optischen Gang zuzuhören. <rs type="person" ref="petrassovits-andreas" key="petrassovits-andreas">Der
+                        Geistliche</rs> selbst wohnt in einem an das Gesindezimmer anstoßenden
                     zu einem Zimmer gebildeten Gemache, wohingegen seine Vorderzimmer leer stehen.
                     Die fernere Beschreibung dieser Lokalien muß der Gefertigte unterlassen, denn da
                     wo im Vorderzimmer Dienstbothen, Hornvieh, allerhand Hausthüre unterbracht sind,
                     kann unmöglich ein ordentlicher Mann, ja vielmehr ein Geistlicher als Spiegel
                     seiner Pfarrkinder existiren.<lb/>Dies ist das Bildungshaus der hiesigen Jugend,
                     weil der Pfarrer selbst mit ihrem Unterrichte beschäftigt sein soll.<lb/>Erlaubt
-                    sich der <persName key="petrassovits-andreas">Herr Pfarrer</persName> für eine
+                    sich der <rs type="person" ref="petrassovits-andreas" key="petrassovits-andreas">Herr Pfarrer</rs> für eine
                     vollzogene Trauung, die Taxe von acht Gulden Wiener Währung ohne Unterschied der
                     Klasse einzuheben, und wenn dies nicht in den Händen der Brautleute ist und
                     nicht im Vorhinein gezahlt wird, geschieht keine Einsegnung und auf diese Art
-                    die Heiratslustigen von der Laune ihres <persName key="petrassovits-andreas">Herrn Paters</persName> abhängen.<lb/>Frühere Zeiten als
-                        <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> frei war, sagten mir mehrere Leute, haben wir nur
+                    die Heiratslustigen von der Laune ihres <rs type="person" ref="petrassovits-andreas" key="petrassovits-andreas">Herrn Paters</rs> abhängen.<lb/>Frühere Zeiten als
+                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> frei war, sagten mir mehrere Leute, haben wir nur
                     3 fr WW für die Trauung dem hochwürdigen Herrn Pfarrer gezahlt, nun seit der
                     Einführung der Konventionsmünze bei uns müssen wir auch diese Gebühren in
                     Konventionsmünze entrichten. Ob daher ein Stollapatent die Vergüttung für die
@@ -99,24 +98,24 @@
                     erlauben, überlasse es jedoch dem hohen Wissen Euer Excellenz und erkühne mich,
                     die Bemerkung zu machen, daß diese Zahlung in einem so hohen Betrage eine sehr
                     drückende ist, da der hiesige Ansaße fast ein Jahr arbeiten oder ein Nutzvieh
-                    verkaufen muß, um zu der Summe zu gelangen, wohingegen für den <persName key="petrassovits-andreas">Herrn Pfarrer</persName> zu gut gesorgt, sein
+                    verkaufen muß, um zu der Summe zu gelangen, wohingegen für den <rs type="person" ref="petrassovits-andreas" key="petrassovits-andreas">Herrn Pfarrer</rs> zu gut gesorgt, sein
                     Solair aus dem Religionsfonde zu erheben oder von seinen Früchten den Gewinn zu
                     ziehen.<lb/>Bei der hier gewesenen Katastralvermessung, wie mir die Leute sagen,
-                    hat sich der <persName key="petrassovits-andreas">Herr Pfarrer</persName> mit
+                    hat sich der <rs type="person" ref="petrassovits-andreas" key="petrassovits-andreas">Herr Pfarrer</rs> mit
                     dem Ingenieur alle besten Felder nach seinem Gutdünken zuschreiben lassen und
                     abgesehen davon, daß der Pfarrgrund bedeutend größer ist als jener der
                     Gemeindeglieder, sollen auch noch die Ansaßen verbunden sein, die auf den
                     Pfarrgrund entfallende Grundsteuer zu zahlen. Die Grundsteuer ist daher für das
-                    Jahr 1851/2 noch nicht gezahlt, obwohl der <persName key="petrassovits-andreas">Herr Pfarrer</persName> den Nutzen bezogen – und so geschieht auch hier die
+                    Jahr 1851/2 noch nicht gezahlt, obwohl der <rs type="person" ref="petrassovits-andreas" key="petrassovits-andreas">Herr Pfarrer</rs> den Nutzen bezogen – und so geschieht auch hier die
                     Verkürzung des allerhöchsten Staates.<lb/>Leistet annoch jeder Ansaße zur
-                    Bearbeitung des Pfarrgrundes in Vidrany [<placeName ref="#place_e33dd70f39b25f77dfbff9da757f7f91">Vydrany</placeName>] und
-                    auch in <placeName ref="#place_4624ea785e6b50e3b15be9aa16aa501d">Palota</placeName> jährlich drei Täge entweder Zug oder
+                    Bearbeitung des Pfarrgrundes in Vidrany [<rs type="place" subtype="place" ref="#place_e33dd70f39b25f77dfbff9da757f7f91">Vydrany</rs>] und
+                    auch in <rs type="place" subtype="place" ref="#place_4624ea785e6b50e3b15be9aa16aa501d">Palota</rs> jährlich drei Täge entweder Zug oder
                     Handrobot, je nachdem der Landmann Arbeitskräfte hat – und dennoch erlaubt sich
-                    der <persName key="petrassovits-andreas">Herr Pfarrer</persName> vor Weihnachten
+                    der <rs type="person" ref="petrassovits-andreas" key="petrassovits-andreas">Herr Pfarrer</rs> vor Weihnachten
                     eine sogenannte Colenda von jeden Insaßen in einem gewißen Maße Hafer ohne
                     Wiederrede abzufordern, was auch pünktlich geschehen muß, abgesehen davon, wenn
                     der letzte Bissen dem armen Landmann entrissen wird.<lb/>Erlaubt sich der
-                        <persName key="petrassovits-andreas">Herr Pfarrer</persName> für die ihm
+                        <rs type="person" ref="petrassovits-andreas" key="petrassovits-andreas">Herr Pfarrer</rs> für die ihm
                     schuldigen Stolla- und sonstigen Gelder, Felder dem bedrückten Landmann
                     abzunehmen und auf diese Art manchen seiner Pfarrkinder in den größten Umsturz,
                     ja sogar auf den Bettelstab bringt, weil er sein Unwesen seit seines Hierseins,
@@ -127,16 +126,16 @@
                     müssen.<lb/>Jetzt besteht die österliche Beicht – die Formalien, die hiebei
                     angewendet werden, kann man nur den Bewohnern und der Geistlichkeit der Wildnis
                     zumuthen und es wäre zu wünschen, daß eine unverhoffte Visitirung in aller
-                    Beziehung bei diesem <persName key="petrassovits-andreas">Herrn
-                        Pfarrer</persName> vorgenommen und hiezu der wohlverhaltene und brave
-                    Ortsrichter <persName key="bober-johann">Johann Bober</persName> aus
-                        <placeName ref="#place_4624ea785e6b50e3b15be9aa16aa501d">Palota</placeName> zugezogen würde, da der hochwürdige Herr
-                    Bischof Gaganetz [<persName key="gaganecz-jozef">Gaganecz</persName>] in
-                        <placeName ref="#place_1d3a164e45efdad9a1b68b54bd69260c">Eperies</placeName> [Prešov], bloß auf dem Bilde steht, seinen
+                    Beziehung bei diesem <rs type="person" ref="petrassovits-andreas" key="petrassovits-andreas">Herrn
+                        Pfarrer</rs> vorgenommen und hiezu der wohlverhaltene und brave
+                    Ortsrichter <rs type="person" ref="bober-johann" key="bober-johann">Johann Bober</rs> aus
+                        <rs type="place" subtype="place" ref="#place_4624ea785e6b50e3b15be9aa16aa501d">Palota</rs> zugezogen würde, da der hochwürdige Herr
+                    Bischof Gaganetz [<rs type="person" ref="gaganecz-jozef" key="gaganecz-jozef">Gaganecz</rs>] in
+                        <rs type="place" subtype="place" ref="#place_1d3a164e45efdad9a1b68b54bd69260c">Eperies</rs> [Prešov], bloß auf dem Bilde steht, seinen
                     Bezirk aber kaum kennt, ja vielmehr visitirt, um sich doch einmal von der
                     Fortpflanzung der wahren christkatholischen Religion zu überzeugen und hie und
-                    da manche Übergriffe zu beseitigen.<lb/>Endlich mengt sich der besagte <persName key="petrassovits-andreas">Herr Pfarrer</persName> in alle politische
-                    Angelegenheiten hinein, der <persName key="bober-johann">Ortsrichter</persName>
+                    da manche Übergriffe zu beseitigen.<lb/>Endlich mengt sich der besagte <rs type="person" ref="petrassovits-andreas" key="petrassovits-andreas">Herr Pfarrer</rs> in alle politische
+                    Angelegenheiten hinein, der <rs type="person" ref="bober-johann" key="bober-johann">Ortsrichter</rs>
                     muß nur von ihm den Rath einholen, er sagt zum Beispiele, wem er will, der muß
                     Soldat werden und wem er nicht will, der mag in der Hölle sein – den wird er
                     herausreißen und retten – was einen großen Eindruck auf den hiesigen
@@ -144,8 +143,8 @@
                     und annoch andere Unbilden wären zu schreiben weitläufig, wienach der hiesige
                     Landmann in den Klauen der Geistlichkeit gehalten wird, ich habe hiebei weder
                     einen Gewinnst noch Schaden, bin weder dem noch jenem Feind, ja vielmehr lebe
-                    ich auf einem vertrauten Fuße mit dem <persName key="petrassovits-andreas">Herrn
-                        Pfarrer</persName> und beruhige mein Gewissen dadurch, wenn ich dies zur
+                    ich auf einem vertrauten Fuße mit dem <rs type="person" ref="petrassovits-andreas" key="petrassovits-andreas">Herrn
+                        Pfarrer</rs> und beruhige mein Gewissen dadurch, wenn ich dies zur
                     Kenntnis Euer Excellenz bringe, mich der Hoffnung hingebend, daß blos mein Namen
                     und Charakter für diese Eingabe gezeichnet und im Geheimen bleibt.</p>
                 <p>Mit tiefster Hochachtung</p>

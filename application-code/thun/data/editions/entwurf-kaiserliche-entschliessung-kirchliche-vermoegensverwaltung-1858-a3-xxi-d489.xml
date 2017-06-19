@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -44,7 +43,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -210,21 +209,21 @@
                     vor ihrer Einführung Meinem Minister für Cultus und Unterricht vorzulegen.&gt;<note xml:id="note_15">Hinzufügung durch fremde Hand.</note>
                     <lb/>Nachdem die
                     Durchführung dieser Angelegenheit<note xml:id="note_16">Streichung: in den
-                        Diözesen <region key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galiziens</region>.</note> zum großen Theile
+                        Diözesen <rs type="place" subtype="region" key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galiziens</rs>.</note> zum großen Theile
                     von der Voraussetzung bedingt ist, daß vorerst das Kirchenvermögen von dem
                     Pfründenvermögen geschieden werde, so ist, &lt;wo diese Sondirung noch nicht
                     stattgefunden hat&gt;<note xml:id="note_17">Hinzufügung durch fremde Hand.</note>
                     sofort hierauf zu dringen.<lb/>Bezüglich der Verwaltung des Vermögens erledigter
-                    Pfründen in dem <region key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venetianischen
-                        Königreiche</region> ist das Einvernehmen mit dem heiligen Stuhle auf
+                    Pfründen in dem <rs type="place" subtype="region" key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venetianischen
+                        Königreiche</rs> ist das Einvernehmen mit dem heiligen Stuhle auf
                     Grundlage der Bestimmungen des Mir vorgelegten Entwurfes zu pflegen. </p>
                 <div xml:id="D489_1" type="enclosure">
                     <p>ad 67/CUM ex 1858</p>
-                    <p>Entwurf der zwischen dem <persName key="pius-IX">heiligen Vater</persName>
-                        und <persName key="franz-joseph">Seiner Majestät</persName> zu
+                    <p>Entwurf der zwischen dem <rs type="person" ref="pius-IX" key="pius-IX">heiligen Vater</rs>
+                        und <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät</rs> zu
                         vereinbarenden Bestimmungen betreffend die Verwaltung der Güter des Bisthums
-                        sowie aller Pfründen zur Zeit der Erledigung im <region key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venetianischen
-                        Königreiche</region>.</p>
+                        sowie aller Pfründen zur Zeit der Erledigung im <rs type="place" subtype="region" key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venetianischen
+                        Königreiche</rs>.</p>
                     <p>Das reine Erträgnis aller erledigten weltgeistlichen Pfründen, deren
                         Einkommen nicht für eine Gesammtheit von Geistlichen, die eine gemeinsame
                         Güterverwaltung haben, bestimmt ist, wird wie bisher für diese Pfründen
@@ -250,7 +249,7 @@
                         hat bei der Übergabe der Temporalien des Bisthums sowohl an den
                         Temporalienadministrator, als an den neuen Bischof durch einen Abgeordneten
                         zu interveniren, dann die Interkalarrechnung zu prüfen und zu erledigen.
-                        <lb/>In Ansehung der bedeutenden Unterstützungen, welche <persName key="franz-joseph">Seine Majestät</persName> zu Bestreitung der
+                        <lb/>In Ansehung der bedeutenden Unterstützungen, welche <rs type="person" ref="franz-joseph" key="franz-joseph">Seine Majestät</rs> zu Bestreitung der
                         kirchlichen Bedürfnisse aus dem öffentlichen Schatze huldreich leistet, wird
                         dieser Kommission ein von der kaiserlichen Regierung ernannter Kommissär mit
                         der Berechtigung beigegeben werden, ein Veto einzulegen gegen Beschlüsse,

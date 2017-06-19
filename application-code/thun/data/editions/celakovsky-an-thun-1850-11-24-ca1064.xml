@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="celakovsky-frantisek-ladislav" role="sender">František
-                        Ladislaus Čelakovšký</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="celakovsky-frantisek-ladislav" key="celakovsky-frantisek-ladislav" role="sender">František
+                        Ladislaus Čelakovšký</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</placeName>, <date when="1850-11-24">24. November [1850]</date>
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, <date when="1850-11-24">24. November [1850]</date>
                     <note xml:id="note_1">Die
                         Datierung in das Jahr 1850 ergibt sich aus dem vorangegangenen Brief <ref target="thun/thun-korrespondenz/Tschechisches_Literaturarchiv/thun-an-celakovsky_1850-11-16_CA1058.xml">Leo Thun an František Čelakovský, 16. November
                     1850.</ref>
@@ -45,7 +44,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -75,14 +74,14 @@
                     anderer der Jugend zusagenden Dichtungsarten, die in Form, Gehalt und Diktion
                     jener gleich stünden. Daß es in meiner Absicht lag, so viel nur immer möglich,
                     alle erotischen Gedichte von der Sammlung fern zu halten, dürfte, wie ich
-                    glaube, kaum zu verkennen sein.<lb/>Obwohl das Mailied<note xml:id="note_3">Dabei handelt es sich wohl um das Gedicht "Maj" von Eugen Tupy [<persName key="tupy-eugen">Boleslav Jablonský</persName>].</note> an und für
+                    glaube, kaum zu verkennen sein.<lb/>Obwohl das Mailied<note xml:id="note_3">Dabei handelt es sich wohl um das Gedicht "Maj" von Eugen Tupy [<rs type="person" ref="tupy-eugen" key="tupy-eugen">Boleslav Jablonský</rs>].</note> an und für
                     nichts Verfängliches enthält, so sehe ich gleich wohl ein, dasselbe passe der
                     einen von mir übersehenen Strophe wegen nicht in das Lesebuch. Bei dem anderen
-                    Gedichte ließ ich mich durch die Authorität <persName key="jungmann-josef">Jungmanns</persName> irre führen, der es in ein ähnliches Lesebuch, nämlich
+                    Gedichte ließ ich mich durch die Authorität <rs type="person" ref="jungmann-josef" key="jungmann-josef">Jungmanns</rs> irre führen, der es in ein ähnliches Lesebuch, nämlich
                     seine Slovesnost <note xml:id="note_4">Vgl. <ref target="http://books.google.at/books?id=YskGAAAAQAAJ&amp;hl=de&amp;source=gbs_navlinks_s">Josef Jungmann, Slovesnost aneb Sbírka příkladů s krátkým pojednáním o
                             slohu, 1820</ref>.</note>, aufnahm. Und so wurde auch der Artikel von
-                        <persName key="caplovic-jan">Čaplowič</persName> ([?]75) in seiner Beziehung
-                    für <country key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarn</country> nicht gehörig erwogen wegen der Hast,
+                        <rs type="person" ref="caplovic-jan" key="caplovic-jan">Čaplowič</rs> ([?]75) in seiner Beziehung
+                    für <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarn</rs> nicht gehörig erwogen wegen der Hast,
                     mit welcher ich den Stoff zusammensuchen mußte, als gegen das Ende des Druckes
                     das Manuskript für die angesetzte Bogenzahl nicht ausreichte und die Zeit zum
                     Erscheinen schon zu sehr drängte.<lb/>Sollte nun in dem 1 Theile keine weitere

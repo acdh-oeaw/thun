@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="heiller-carl" role="sender:kleriker">Carl Heiller</persName>
-                    an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="heiller-carl" key="heiller-carl" role="sender:kleriker">Carl Heiller</rs>
+                    an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_71fd0aa37fd3ee1a4031223c361a00a5">Pressburg</placeName> [Bratislava], <date when="1850-06-11">11. Juni 1850</date>
+                    <rs type="place" subtype="place" ref="#place_71fd0aa37fd3ee1a4031223c361a00a5">Pressburg</rs> [Bratislava], <date when="1850-06-11">11. Juni 1850</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -59,7 +58,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -72,21 +71,21 @@
                 </index>
                 <p>Euer Excellenz!</p>
                 <p>Indem sich der unterthänig gefertigte Ausschuß auf seine <ref target="#D56_1">(hier sub a anliegende) gehorsamste Eingabe</ref> an Seine Hochgeborn des
-                    Herrn k.k. Ministerialcommißären <persName key="attems-heinrich">Grafen
-                        Attems</persName> bezieht, haltet sich derselbe für verpflichtet, diese
+                    Herrn k.k. Ministerialcommißären <rs type="person" ref="attems-heinrich" key="attems-heinrich">Grafen
+                        Attems</rs> bezieht, haltet sich derselbe für verpflichtet, diese
                     seine Eingabe nicht nur allein auch dem <orgName key="ministerium-fuer-kultus-und-unterricht">hohen Ministerium</orgName> zu
                     unterbreiten, sondern auch den<hi rend="ul"> Inhalt desselben und jene
                         Grundlagen</hi>, auf welche derselbe seinen Kirchengemeindeordnungsentwurf
-                    für die Katholiken <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburgs</placeName> basirte,
+                    für die Katholiken <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburgs</rs> basirte,
                     näher zu beleuchten und einigermaßen zu motiviren.<lb/>Euer Excellenz! Obschon
-                    die Grundrechte für <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> noch nicht veröffentlicht worden
-                    sind, doch aber! die östreichische Reichsverfassung, die auf diese von <persName key="franz-joseph">Seiner Majestät</persName> den Völkern <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreichs</country> allergnädigst gewährgeleisteten
+                    die Grundrechte für <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> noch nicht veröffentlicht worden
+                    sind, doch aber! die östreichische Reichsverfassung, die auf diese von <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät</rs> den Völkern <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreichs</rs> allergnädigst gewährgeleisteten
                     Grundrechte von 4. März vorigen Jahres beruht, im ganzen Umkreise unseres
                     Vaterlandes publicirt und vielseitig freudig aufgenommen wurde, <hi rend="ul">daher zu dem Glauben berechtigt</hi>, daß diese sowohl als jene auch für
-                        <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> volle Geltung erhalten werden und der 2. §
+                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> volle Geltung erhalten werden und der 2. §
                     vorberührter Grundrechte jeder anerkannten Kirche das Recht zusichert, „ihre
                     Angelegenheiten und zughöriges Eigenthum selbstständig zu ordnen und zu
-                    verwalten“, so glaubte die katholische Gemeinde <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburgs</placeName> als ein Glied oder Unterabtheilung der katholischen
+                    verwalten“, so glaubte die katholische Gemeinde <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburgs</rs> als ein Glied oder Unterabtheilung der katholischen
                     Kirche, nicht länger mehr zögern zu dürfen, ihre unterthänige Bitte, „<hi rend="ul">um partielle Theilhaftigmachung dieses ihrer Kirche ertheilten und
                         sonach zustehenden Rechtes</hi> hohen Orts anzubringen“, damit sie als
                     Localcultusgemeinde constituirt, jene und solch dahin bezügliche administrative
@@ -109,7 +108,7 @@
                     zum Theil diesen Andersgläubigen überdies <hi rend="ul">noch zur Last fallen
                         soll!!</hi>
                     <lb/>Es hat daher in seinen sub b anliegenden Cultus- oder <hi rend="ul">Kirchengemeindeordnungsentwurfe</hi> der unterthänig gefertigte
-                    Ausschuß, die Wünsche und die Bedürfnisse der Katholiken <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburgs</placeName> niederzulegen und zu befriedigen
+                    Ausschuß, die Wünsche und die Bedürfnisse der Katholiken <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburgs</rs> niederzulegen und zu befriedigen
                     versucht, die insbesondere sich dahin aussprachen:<lb/>1. Daß sie jene und solch
                     dahin bezügliche ihre Localkirchengemeinde betreffenden Angelegenheiten und
                     derselben angehörigen Stiftungen, Anstalten und Fonde, die bisher – <hi rend="ul">zum Theil ohne, zum Theil unter der oberaufsichtlichen Controlle
@@ -130,7 +129,7 @@
                     Beziehung ausüben dürfen; diese Protestanten aber! bey allen administrativen
                     katholischen Angelegenheiten und bei der in das Herz des Katholiken<hi rend="ul"> noch tiefer eingreifenden</hi> Besetzungen <hi rend="ul">katholischer
                         Kirchen- und Schulämter</hi> eine vollgültige Stimme bey jeder Wahl und
-                    Abstimmung besitzen“, so wünschen die Katholiken <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburgs</placeName>, daß diese augenfällige Anomalie aufgehoben und das
+                    Abstimmung besitzen“, so wünschen die Katholiken <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburgs</rs>, daß diese augenfällige Anomalie aufgehoben und das
                     katholische Patronatsrecht hiesiger Stadtcommune <hi rend="ul">auf ihren
                         Ursprung</hi> schon aus dem Grunde zurückgeführt werden möge, weil solches
                     noch von jener Zeit herrührt, als die Stadtcommune eine rein katholische war und
@@ -193,7 +192,7 @@
                         Schulwesens allererstens</hi>, aussäen zum gedeihlichen Wachsthum und für
                         <hi rend="ul">den Staat und ihre Kirche</hi> zur reichen und gesegneten
                     Ernte bringen und großziehen könnten.<lb/>Dies ist die aufrichtige Absicht und
-                        <hi rend="ul">der heißeste Wunsch</hi> der Katholiken <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburgs</placeName>!, welch beyde in aller Unterthänigkeit
+                        <hi rend="ul">der heißeste Wunsch</hi> der Katholiken <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburgs</rs>!, welch beyde in aller Unterthänigkeit
                     zu unterbreiten der gehorsamst unterzeichnete Ausschuß hiermit bemüht ist; und
                     sollte derselbe die Darstellung und die Auffassung gedachter Absicht und Wünsche
                     in seinen beykommenden Kirchengemeindeordnungsentwurfe hie und da verfehlt und
@@ -228,17 +227,17 @@
                 <p>Presburg, am 11. Juny 1850</p>
                 <div type="enclosure" xml:id="D56_1">
                     <p>Der fragliche Kirchengemeindeordnungsentwurf ist gestern schon zur
-                        Übersendung an Euer Excellenz den Hochgebornen Herrn <persName key="attems-heinrich">Grafen von Attems</persName> behändiget
+                        Übersendung an Euer Excellenz den Hochgebornen Herrn <rs type="person" ref="attems-heinrich" key="attems-heinrich">Grafen von Attems</rs> behändiget
                         worden.<lb/>Presburg, 12. Juny [1]850<lb/>Carl Heiller<lb/>Domherr und
                         Stadtpfarrer<lb/>als Präses des prov. Ausschußes der kath.
                         Kirchengemeinde</p>
                     <p>Unterthänige Bitte des provisorischen Ausschußes der katholischen
                         Kirchengemeinde Preßburgs.<lb/>An Seine Hochgeboren des Herrn k.k.
-                        Ministerialcommißaren <persName key="attems-heinrich">Heinrich Grafen von
-                            Attems</persName>
+                        Ministerialcommißaren <rs type="person" ref="attems-heinrich" key="attems-heinrich">Heinrich Grafen von
+                            Attems</rs>
                     </p>
                     <p>Euer Hochgeboren! Den Übelstand, daß alle katholischen
-                        Kirchengemeindeangelegenheiten <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburgs</placeName>, ja! ein großer Theil ihrer Stiftungen, Fonde und
+                        Kirchengemeindeangelegenheiten <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburgs</rs>, ja! ein großer Theil ihrer Stiftungen, Fonde und
                         Anstalten der Verwaltung der gemeinschaftlich politischen Stadtgemeinde
                         unterstehen, an welcher die evangelischen Glaubensgenossen mit den
                         Katholiken gleichen Antheil nehmen und bey Besetzung der katholischen
@@ -255,17 +254,17 @@
                         Kultus-, Unterrichts- und Wohlthätigkeitszwecke bestimmten Anstalten,
                         Stiftungen und Fonde, ist aber, wie jede Gesellschaft, den allgemeinen
                         Staatsgesetzen unterworfen.“<lb/>Dem zur Folge glaubte sie, auch nicht
-                        länger mehr zögern zu dürfen, in jene Rechte einzutreten, die <persName key="franz-joseph">Seine Majestät</persName> im angeführten § jeder
+                        länger mehr zögern zu dürfen, in jene Rechte einzutreten, die <rs type="person" ref="franz-joseph" key="franz-joseph">Seine Majestät</rs> im angeführten § jeder
                         Religionsgesellschaft zu gewährleisten geruhten.<lb/>Sie wagte daher an
-                        Seine Hochgeboren den Herrn k.k. Distriktsobercommißaren <persName key="cziraky-johann">Grafen von Cziraky</persName> die vertrauungsvolle
+                        Seine Hochgeboren den Herrn k.k. Distriktsobercommißaren <rs type="person" ref="cziraky-johann" key="cziraky-johann">Grafen von Cziraky</rs> die vertrauungsvolle
                         Bitte, „sich als selbstständige Kirchengemeinde im Sinne dieses 2. § der
                         Reichsverfassungsurkunde constituiren zu dürfen“.<lb/>In gerechter
                         Berücksichtigung dieser ihrer gehorsam gestellten Bitte bezeichnet
-                        anliegender Erlaß des vorbenannten Herrn <persName key="cziraky-johann">k.k.
-                            Distriktsobercommißars</persName> Zahl 1445 de dato December [1]849
+                        anliegender Erlaß des vorbenannten Herrn <rs type="person" ref="cziraky-johann" key="cziraky-johann">k.k.
+                            Distriktsobercommißars</rs> Zahl 1445 de dato December [1]849
                         zwölf Mitglieder der hiesigen katholischen Gemeinde, die mit dem Auftrage
                         betraut wurden, mit Zuziehung noch anderer 38 Vertrauensmänner unter dem
-                        Vorsitze des Hochwürdigen Herrn Domherrn und Stadtpfarrers <persName key="heiller-carl">Carl Heiller</persName> einen provisorischen Ausschuß
+                        Vorsitze des Hochwürdigen Herrn Domherrn und Stadtpfarrers <rs type="person" ref="heiller-carl" key="heiller-carl">Carl Heiller</rs> einen provisorischen Ausschuß
                         zu bilden, welcher die zur zweckmäßigen Constituirung der hiesigen
                         katholischen Kirchengemeinde geeignete <hi rend="ul">Projecte</hi>
                         auszuarbeiten und solche zu höheren und höchsten Genehmigung seiner Zeit
@@ -274,7 +273,7 @@
                         „provisorische katholische Kirchengemeindeausschuß“ hiermit die Ehre, Euer
                         Hochgeboren! die im vorgedachten hohen Auftrage ausgearbeitete
                         Kirchengemeindeordnung zur Constituirung der katholischen Kirchengemeinde
-                            <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburgs</placeName> mit der unterthänigen
+                            <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburgs</rs> mit der unterthänigen
                         Bitte zu unterbreiten, Euer Hochgeboren! wollen gütigst dieselbe zur höheren
                         und allerhöchsten Genehmigung und Bestätigung befördern.<lb/>Indem in diesem
                         seinem Entwurfe der gehorsamst unterzeichnete Ausschuß nur solche Grundsätze

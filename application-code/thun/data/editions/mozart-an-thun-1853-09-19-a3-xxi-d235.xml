@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="mozart-joseph" role="sender:beamter">Joseph Mozart</persName>
-                    an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="mozart-joseph" key="mozart-joseph" role="sender:beamter">Joseph Mozart</rs>
+                    an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, o. D. [September 1853]<note xml:id="note_1">Mozart hat den Platz für das Datum freigelassen. Die
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, o. D. [September 1853]<note xml:id="note_1">Mozart hat den Platz für das Datum freigelassen. Die
                         Datierung erschließt sich aus einem zweiten Brief Mozarts, der als <ref target="#D235_1">Beilage</ref> zu diesem im Nachlass unter derselben
                         Signatur abgelegt ist, sowie Briefe Thuns und Helferts, die diese
                         Angelegenheit betreffen. Vgl. etwa <ref target="thun/thun-korrespondenz/tetschen/helfert-an-thun_1853-09-17_A3-XXI-D233.xml">Joseph Alexander Helfert an Leo Thun. Wien, 17. September
@@ -66,7 +65,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -82,7 +81,7 @@
                 <p>Die strafende Zuschrift Euerer Excellenz vom 15. dieses Monats hat mich mit dem
                     tiefsten Schmerze erfüllt. Wie ich daraus ersehe, ist Eurer Excellenz der
                     wesentliche Umstand unbekannt, daß von der Existenz zweier verschieden lautender
-                    Exemplare des <persName key="tomek-vaclav-vladivoi">Tomekschen</persName> Buches
+                    Exemplare des <rs type="person" ref="tomek-vaclav-vladivoi" key="tomek-vaclav-vladivoi">Tomekschen</rs> Buches
                     der <orgName key="redaktion-der-zeitschrift-fuer-die-oesterreichischen-gymnasien">Redaction</orgName>
                     <hi rend="ul">auch nicht die leiseste Kunde</hi> zugekommen ist. Freilich klingt
                     dies unglaublich, allein ich habe die betreffenden Präsidialacten zu Zeugen, aus
@@ -113,16 +112,16 @@
                     wenigstens vor das <hi rend="ul">empfohlene</hi> Exemplar ein Blatt mit der
                     Aufschrift: <hi rend="ul">Schulausgabe</hi> gesetzt hätte. Daß dies nicht
                     geschehen ist, fällt der <orgName key="redaktion-der-zeitschrift-fuer-die-oesterreichischen-gymnasien">Redaction</orgName> nicht zur Last und Eure Excellenz denken zu gerecht, um
-                    von ihr das Unmögliche zu verlangen.<lb/>Die Anmerkungen zu <persName key="hoefler-karl-adolf-constantin">Höflers</persName> Kritik sind von mir
+                    von ihr das Unmögliche zu verlangen.<lb/>Die Anmerkungen zu <rs type="person" ref="hoefler-karl-adolf-constantin" key="hoefler-karl-adolf-constantin">Höflers</rs> Kritik sind von mir
                         <hi rend="ul">erst während des Druckes</hi> veranlaßt worden, wo ich sie
                     Euerer Excellenz nicht mehr mittheilen konnte. Ich habe die Verantwortung dafür
-                    ganz auf mich allein genommen, weil ich die Kritik drucken lassen <hi rend="ul">mußte</hi>, denn hätten wir nicht <persName key="hoefler-karl-adolf-constantin">Höfler</persName> vermocht sie zu
+                    ganz auf mich allein genommen, weil ich die Kritik drucken lassen <hi rend="ul">mußte</hi>, denn hätten wir nicht <rs type="person" ref="hoefler-karl-adolf-constantin" key="hoefler-karl-adolf-constantin">Höfler</rs> vermocht sie zu
                     schreiben, so hätten wir <hi rend="ul">keinen</hi> anderen bedeutenden
                     Historiker dazu bewegen können, und ich bitte meinem Worte zu glauben, daß wir
                     zwei Monate lang deshalb überall mit dem Schweiß auf der Stirne vergeblich
-                    angeklopft haben, und daß der Herr <persName key="helfert-joseph-alexander">Staatssecretär</persName> Unrecht hat, wenn er der <orgName key="redaktion-der-zeitschrift-fuer-die-oesterreichischen-gymnasien">Redaction</orgName> Gleichgiltigkeit gegen seine Person und sein Wirken
+                    angeklopft haben, und daß der Herr <rs type="person" ref="helfert-joseph-alexander" key="helfert-joseph-alexander">Staatssecretär</rs> Unrecht hat, wenn er der <orgName key="redaktion-der-zeitschrift-fuer-die-oesterreichischen-gymnasien">Redaction</orgName> Gleichgiltigkeit gegen seine Person und sein Wirken
                     zumuthet oder vorwirft. Anderseits wurde mir aber<hi rend="ul"> erst bei der
-                        Correctur</hi> klar, es sei unmöglich, die <persName key="hoefler-karl-adolf-constantin">Höflersche</persName> Kritik ohne
+                        Correctur</hi> klar, es sei unmöglich, die <rs type="person" ref="hoefler-karl-adolf-constantin" key="hoefler-karl-adolf-constantin">Höflersche</rs> Kritik ohne
                     Anmerkungen drucken zu lassen und diese Meinung hege ich noch jetzt. Wie Eure
                     Excellenz damit so unzufrieden sind, kann ich schwer begreifen; Euer Excellenz
                     sehen vielleicht, was man etwa aus den Anmerkungen folgern kann, nicht aber, was
@@ -144,13 +143,13 @@
                     <p>Wien, 19. September 1853</p>
                     <p>Eure Excellenz!</p>
                     <p>Ich habe nach Absendung meines ehrerbietigen Schreibens an Eure Excellenz ein
-                        von dem <persName key="helfert-joseph-alexander">Herrn
-                            Staatssecretär</persName> unterzeichnetes Decret erhalten, worin die
+                        von dem <rs type="person" ref="helfert-joseph-alexander" key="helfert-joseph-alexander">Herrn
+                            Staatssecretär</rs> unterzeichnetes Decret erhalten, worin die
                             <orgName key="redaktion-der-zeitschrift-fuer-die-oesterreichischen-gymnasien">Redaction</orgName> unter Reassumirung aller bereits mündlich ihr
                         gemachten Vorwürfe angewiesen wird, a) sich über ihr Benehmen zu
                         rechtfertigen, b) eine Gegenrecension ins nächste Heft einzurücken.<lb/>Was
                         die Rechtfertigung betrifft, so besteht sie im Wesentlichen in dem, was ich
-                        die Ehre hatte, Eurer Excellenz schriftlich und dem <persName key="helfert-joseph-alexander">Herr Staatssecretär</persName> mündlich
+                        die Ehre hatte, Eurer Excellenz schriftlich und dem <rs type="person" ref="helfert-joseph-alexander" key="helfert-joseph-alexander">Herr Staatssecretär</rs> mündlich
                         mitzutheilen. Ich werde es nochmals schriftlich sagen, da ich dazu
                         aufgefordert bin.<lb/>Die eigentliche Frage, wie der entstandenen
                         Angelegenheit abzuhelfen sei, ist durch die Erwiederung der Redaction nicht

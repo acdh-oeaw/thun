@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="helfert-joseph-alexander" role="sender:beamter">Joseph
-                        Alexander Helfert</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="helfert-joseph-alexander" key="helfert-joseph-alexander" role="sender:beamter">Joseph
+                        Alexander Helfert</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1853-09-29">29. September 1853</date>
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1853-09-29">29. September 1853</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -48,7 +47,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -70,12 +69,12 @@
                     Interessen des <orgName key="ministerium-fuer-kultus-und-unterricht">Ministeriums</orgName> zu verfechten mich veranlaßt fände, sehr beirren und
                     einschüchtern müßte. Ich erlaube mir daher die Bitte, mich geneigtest aus diesem
                     Zweifel ehebaldigst reißen zu wollen, indem ich nur noch beifüge, daß das später
-                    von mir eingesandte Concept einer Antikritik von <persName key="tomek-vaclav-vladivoi">Tomek</persName> selbst eine Bestimmung hatte,
+                    von mir eingesandte Concept einer Antikritik von <rs type="person" ref="tomek-vaclav-vladivoi" key="tomek-vaclav-vladivoi">Tomek</rs> selbst eine Bestimmung hatte,
                     die es jetzt in <hi rend="ul">unveränderter</hi> Form nicht wird erfüllen
                     können, daher ich es mehr nur zur Beurtheilung des einzuhaltenden Gedankenganges
-                    überhaupt geschickt habe.<lb/>Was <persName key="kink-rudolph">Kinks</persName>
+                    überhaupt geschickt habe.<lb/>Was <rs type="person" ref="kink-rudolph" key="kink-rudolph">Kinks</rs>
                     Lamento und Bitte pcto. Prüfungscommissärstelle für Realschulen betrifft, so
-                    findet solches <persName key="feil-joseph">Feil</persName>, mit dem ich darüber
+                    findet solches <rs type="person" ref="feil-joseph" key="feil-joseph">Feil</rs>, mit dem ich darüber
                     sprach, vollkommen begründet. Nach seiner Ansicht könne man füglich die gehörige
                     Verteilung <hi rend="ul">dieses</hi> Postens nur von einem Professor verlangen,
                     dessen Pflicht und Beruf es ist mit der Literatur der Wissenschaft in ganzem
@@ -83,33 +82,33 @@
                     Professor immer mehr oder weniger sei, könne nicht ausreichen und laufe Gefahr
                     und müsse fürchten, sich vor dem gewiß häufig mit der neuesten Literatur
                     vertrauten Candidaten eine unangenehme Blöße zu geben. Es wären daher, nach
-                        <persName key="feil-joseph">Feils</persName> Ansicht, für diese Stelle nur
-                    zwei Männer in Beachtung zu ziehen: nämlich – da Prof. <persName key="kaiser-johann-nepomuk">Kaiser</persName> nicht in Anschlag zu bringen
+                        <rs type="person" ref="feil-joseph" key="feil-joseph">Feils</rs> Ansicht, für diese Stelle nur
+                    zwei Männer in Beachtung zu ziehen: nämlich – da Prof. <rs type="person" ref="kaiser-johann-nepomuk" key="kaiser-johann-nepomuk">Kaiser</rs> nicht in Anschlag zu bringen
                     und wegen seiner bei jeder Gelegenheit unverhohlen geäußerten antiministeriellen
-                    Gesinnung nicht würdig ist – Prof. <persName key="jaeger-albert">Jäger</persName> und <persName key="aschbach-joseph">Aschbach</persName>.
-                    Da mir aber <persName key="jaeger-albert">Jäger</persName> vielseitig
-                    beschäftigt ist, <persName key="aschbach-joseph">Aschbach</persName> aber wohl
+                    Gesinnung nicht würdig ist – Prof. <rs type="person" ref="jaeger-albert" key="jaeger-albert">Jäger</rs> und <rs type="person" ref="aschbach-joseph" key="aschbach-joseph">Aschbach</rs>.
+                    Da mir aber <rs type="person" ref="jaeger-albert" key="jaeger-albert">Jäger</rs> vielseitig
+                    beschäftigt ist, <rs type="person" ref="aschbach-joseph" key="aschbach-joseph">Aschbach</rs> aber wohl
                     vorerst einer Orientirung in den hiesigen Verhältnissen bedürfen wird, so wäre
                     vielleicht, wie ich mir unvorgreiflich vorzuschlagen erlaube, ein derartiges
-                    Arrangement zu treffen, daß <persName key="jaeger-albert">Jäger</persName>
+                    Arrangement zu treffen, daß <rs type="person" ref="jaeger-albert" key="jaeger-albert">Jäger</rs>
                     vorläufig durch den ersten Curs die Verpflichtung übernähme (er wird jetzt durch
-                        <persName key="aschbach-joseph">Aschbachs</persName> Eintritt ohnedies in
-                    etwas erleichtert), vom zweiten Semester an aber <persName key="aschbach-joseph">Aschbach</persName> definitiv als Prüfungscommissär eintrete.<lb/>In der
+                        <rs type="person" ref="aschbach-joseph" key="aschbach-joseph">Aschbachs</rs> Eintritt ohnedies in
+                    etwas erleichtert), vom zweiten Semester an aber <rs type="person" ref="aschbach-joseph" key="aschbach-joseph">Aschbach</rs> definitiv als Prüfungscommissär eintrete.<lb/>In der
                     Bibel steht geschrieben: Es ist mehr Freude im Himmelreich über einen Sünder,
                     der Buße thut, denn über neunundneunzig Gerechte, die der Buße nicht bedürfen.
-                    Dieser Tage war <persName key="schoenherr">Schönherr</persName>, Redacteur der
-                    Oberpostamtszeitung (beiläufig gesagt, wegen des <persName key="unger-joseph">Unger</persName> betreffenden Artikels hat das Preßcomité bereits Schritte
+                    Dieser Tage war <rs type="person" ref="schoenherr" key="schoenherr">Schönherr</rs>, Redacteur der
+                    Oberpostamtszeitung (beiläufig gesagt, wegen des <rs type="person" ref="unger-joseph" key="unger-joseph">Unger</rs> betreffenden Artikels hat das Preßcomité bereits Schritte
                     gethan) bei mir, zerknirscht und gefügig; bei seiner Anwesenheit aus Anlaß des
                     Katholikenvereines habe er sich in vielem eines bessern belehrt, die Dinge aus
                     anderem Auge anzusehen gewöhnt; er sehe ein, sein Correspondent sei zu weit
-                    gegangen; über <persName key="unger-joseph">Ungers</persName> Antiredaction sei
+                    gegangen; über <rs type="person" ref="unger-joseph" key="unger-joseph">Ungers</rs> Antiredaction sei
                     er erst hier besser aufgeklärt worden; er habe bereits nach
-                        <placeName ref="#place_21dba34d74f8b1cb8d42e34579c40946">Augsburg</placeName> geschrieben, daß in seiner Abwesenheit
+                        <rs type="place" subtype="place" ref="#place_21dba34d74f8b1cb8d42e34579c40946">Augsburg</rs> geschrieben, daß in seiner Abwesenheit
                     nichts aufgenommen werde; er sei willens überhaupt jetzt bis zur Festsetzung des
                     Definitivums über österreichische Schul- und Studiensachen nichts mehr einrücken
                     zu lassen, dagegen gerne bereit, jede vom <orgName key="ministerium-fuer-kultus-und-unterricht">Ministerium</orgName> ihm
                     zukommende Aufklärung und Notiz aufzunehmen usw. Gegen dieses Versprechen gab
-                    ich ihm hinwiederum die Versicherung einstweilen jeden gegen die Zeitung (<hi rend="ul">nicht</hi> gegen Dr. <persName key="haas-georg-emanuel">Haas</persName>) zu richtenden Schritt zu unterlassen, was ich umso
+                    ich ihm hinwiederum die Versicherung einstweilen jeden gegen die Zeitung (<hi rend="ul">nicht</hi> gegen Dr. <rs type="person" ref="haas-georg-emanuel" key="haas-georg-emanuel">Haas</rs>) zu richtenden Schritt zu unterlassen, was ich umso
                     leichter thun konnte, als mir inzwischen Nachrichten von der bei der O.
                     Polizeibehörde diesfalls herrschenden Stimmung zugekommen waren.<lb/>Ich bitte
                     Eure Exzellenz um gütige Entschuldigung für das im Eingange meines Schreibens

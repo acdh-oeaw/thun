@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="kleemann-johann" role="sender:beamter">Johann
-                        Kleemann</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="kleemann-johann" key="kleemann-johann" role="sender:beamter">Johann
+                        Kleemann</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1858-06-23">23. Juni 1858</date>
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1858-06-23">23. Juni 1858</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -70,7 +69,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -148,8 +147,8 @@
                     betrachten“, aufgegeben werden will, so ist das nicht ein Aufgeben eines
                     Prinzips, sondern ein Fallenlassen einer Nebenrücksicht, und wäre es auch nicht
                     so, nun dann behaupte ich, dieses angebliche Prinzip müsse fallen. Ich
-                    appelliere an alle Erfahrungen, die <country key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</country>,
-                        <country key="bayern" ref="#place_5afc76bc69955ce317651a3dc1dbb0d6">Baiern</country> u.a. in neuester Zeit gemacht, und an
+                    appelliere an alle Erfahrungen, die <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs>,
+                        <rs type="place" subtype="country" key="bayern" ref="#place_5afc76bc69955ce317651a3dc1dbb0d6">Baiern</rs> u.a. in neuester Zeit gemacht, und an
                     die Stimmen aller pädagogischen Koryphäen, (die auch Philosophen sind) wornach
                     der Werth dieses Grundsatzes entschieden in Abrede gestellt wird. Das Gymnasium
                     hat vollauf zu thun, wenn es seinen spezifischen Zweck erreichen will; es wird
@@ -177,11 +176,11 @@
                     thut, desto mehr wird man durch den schneidenden Kontrast überrascht, der sich
                     zwischen dem ausgebauten System und dem Individuum, zwischen der Theorie und den
                     Bedingungen der Praxis vor Augen stellt. Der Altmeister der Pädagogik, der
-                    Heidelberger <persName key="schwarz-friedrich-heinrich">Schwarz</persName>,
+                    Heidelberger <rs type="person" ref="schwarz-friedrich-heinrich" key="schwarz-friedrich-heinrich">Schwarz</rs>,
                     dessen Werke jeder Lehramtskandidat, der pädagogisch lehren will, fort und fort
                     studieren sollte, und dem ich es verdanke, daß ich den Organisationsentwurf bei
                     seinem Erscheinen als einen längst ersehnten lieben Freund begrüßen konnte,
-                    derselbe <persName key="schwarz-friedrich-heinrich">Schwarz</persName> wickelt
+                    derselbe <rs type="person" ref="schwarz-friedrich-heinrich" key="schwarz-friedrich-heinrich">Schwarz</rs> wickelt
                     aus der Idee der Harmonie der Bildung konsequent für 11–13jährige Zöglinge 56
                     wöchentliche Lehrstunden heraus. Gott bewahre jedes gesunde Kind vor solcher
                     Consequenz!<lb/>5. Es ist nicht genug, die Forderung zu formulieren, was der
@@ -192,15 +191,15 @@
                     sein. Jede Ausdehnung des Unterrichtes, sei es auch ein neues Fach, sei es im
                     Bereich desselben Faches, ist bei übrigens gleichen Umständen ein Griff in die
                     Gründlichkeit desselben, also unpädagogisch, für <hi rend="ul">Charakterbildung</hi> nachtheilig. Gründlichkeit fordert Beschränkung. Das
-                    erkannte <country key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</country>, <country key="bayern" ref="#place_5afc76bc69955ce317651a3dc1dbb0d6">Baiern</country> nach mehr als 20jähriger Erfahrung, darnach ringt
-                    gegenwärtig <country ref="#place_25d84525e7f3440f0f386b91ce612895">Kurhessen</country>, <country ref="#place_c27539167ff9723b32673ddab9dcbe09">Hannover</country>. Man
+                    erkannte <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs>, <rs type="place" subtype="country" key="bayern" ref="#place_5afc76bc69955ce317651a3dc1dbb0d6">Baiern</rs> nach mehr als 20jähriger Erfahrung, darnach ringt
+                    gegenwärtig <rs type="place" subtype="country" ref="#place_25d84525e7f3440f0f386b91ce612895">Kurhessen</rs>, <rs type="place" subtype="country" ref="#place_c27539167ff9723b32673ddab9dcbe09">Hannover</rs>. Man
                     vergleiche die Erziehungsresultate in Betreff der Gründlichkeit des Wissens und
                     des Charakters bei der französischen und der englischen Nation. Die „public
                     Schools“ der letzteren betreiben Realien gar nicht. Dennoch bleibe ich bei
                     meiner im 1. und 2. Operate dargelegten Ansicht, daß der Werth der
                     Naturwissenschaften auch an Gymnasien über aller Debatte stehe und daß es zu
                     bedauern wäre, wenn sie so weit zurückgedrängt oder beseitigt würden, wie es in
-                        <country key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</country> und <country key="bayern" ref="#place_5afc76bc69955ce317651a3dc1dbb0d6">Baiern</country> in neuester Zeit geschehen. Es wird aber mit Rücksicht auf
+                        <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> und <rs type="place" subtype="country" key="bayern" ref="#place_5afc76bc69955ce317651a3dc1dbb0d6">Baiern</rs> in neuester Zeit geschehen. Es wird aber mit Rücksicht auf
                     anderes, das nothwendig ist, und auf die zu Gebote stehende Zeit ein Genügendes
                     sein, Physik bloß im Obergymnasium und die Naturgeschichte außer der 5. und 6.
                     Klasse, wenn es je sonst möglich ist, auch in der 1. und 2. Klasse zu belassen.
@@ -266,7 +265,7 @@
                     Feste Erlernung, gründliche Einübung, fertige Geübtheit ist nach der bisherigen
                     Erfahrung nicht vorhanden und kann es auch nicht sein. Wer anders behauptet,
                     will durchaus nicht sehen, was offen vor Augen liegt.<lb/>8. Es verdient nicht
-                    ein Wort der Entgegnung, (sagt Schulrath <persName key="wilhelm-andreas">Wilhelm</persName> nicht in der Zeitschrift, sondern in einem Bericht) wenn
+                    ein Wort der Entgegnung, (sagt Schulrath <rs type="person" ref="wilhelm-andreas" key="wilhelm-andreas">Wilhelm</rs> nicht in der Zeitschrift, sondern in einem Bericht) wenn
                     sich Stimmen und unter Berufung auf eine Erfahrung, die freilich auch Erfahrung
                     heißen kann [sic!], vernehmen lassen, daß das Untergymnasium genug leiste und
                     vielmehr am Obergymnasium geholfen werden müsse, d.h. daß man dem Bau auf
@@ -689,7 +688,7 @@
                     verachten, da ich in allem nur Eurer Excellenz verantwortlich bin und hierüber
                     Akten Aufschluß geben. Merkwürdig bleibt, was die Berliner „Zeit“ in ihren
                     Artikeln über die österreichische Gymnasialfrage gesagt hat, zu welchen ihr die
-                    – mir noch jetzt unbegreifliche – Veröffentlichung des Schreibens des <persName key="beckx-pierre-jean">Beks</persName> [sic, richtig Beckx] an Euer
+                    – mir noch jetzt unbegreifliche – Veröffentlichung des Schreibens des <rs type="person" ref="beckx-pierre-jean" key="beckx-pierre-jean">Beks</rs> [sic, richtig Beckx] an Euer
                     Excellenz Anlaß gegeben hat, – sie sagt beiläufig folgendes: Vergleicht man das
                     Ministerialprogramm mit der Eingabe des Jesuitengenerals, so liegt es mehr zu
                     behaupten, daß einige Punkte in beiden einander ähnlich sind und daß das
@@ -701,7 +700,7 @@
                     verfolgen. („Die Artikel der „Zeit“ sind aus dem preußischen
                     Unterrichtsministerium hervorgegangen, weil diesem die Artikel der
                     österreichischen Gymnasialzeitschrift sehr unbequem gefallen sind“, Äußerung des
-                    Prof. <persName key="bonitz-hermann">Bonitz</persName>)<lb/>Eine Sorge
+                    Prof. <rs type="person" ref="bonitz-hermann" key="bonitz-hermann">Bonitz</rs>)<lb/>Eine Sorge
                     beschleicht mich noch bei Erwägung dieser Frage. Wenn nicht alle Anzeichen
                     trügen, so dürfte es nicht lange währen, daß bei Fortdauer der jetzigen Zustände
                     die Staatsgymnasien und die ähnlichen kirchlichen Institute einander als
@@ -732,7 +731,7 @@
                     auf mich geübt. Ich blieb frei und getrennt von allen solchen Einflüssen wie ich
                     auch einsam und ferne von allen öffentlichen Berührungen nur für mein Amt und
                     meine Familie lebe und geistige Aufheiterung nur in dem geistig anregenden und
-                    vertraulichen Verkehre mit Dir. <persName key="demel-heinrich-johann">Demel</persName> und <persName key="heider-gustav">Heider</persName> als
+                    vertraulichen Verkehre mit Dir. <rs type="person" ref="demel-heinrich-johann" key="demel-heinrich-johann">Demel</rs> und <rs type="person" ref="heider-gustav" key="heider-gustav">Heider</rs> als
                     denjenigen Männern suche, deren Geist und Charakter ich achten gelernt habe. Ich
                     weiß nicht, welche Aufnahme dieses Promemoria bei Eurer Excellenz finden werde.
                     Allein aus meiner Erhebung zu Gott, in welche ich auch diese Angelegenheit

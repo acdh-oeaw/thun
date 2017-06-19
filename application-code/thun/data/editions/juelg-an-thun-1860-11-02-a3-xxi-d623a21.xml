@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="juelg-bernhard" role="sender:gelehrter">Bernhard
-                        Jülg</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="juelg-bernhard" key="juelg-bernhard" role="sender:gelehrter">Bernhard
+                        Jülg</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_fafa41f7e32d84b3a419ca848a2b0880">Krakau</placeName>, <date when="1860-11-02">2. November 1860</date>
+                    <rs type="place" subtype="place" ref="#place_fafa41f7e32d84b3a419ca848a2b0880">Krakau</rs>, <date when="1860-11-02">2. November 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -46,7 +45,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -81,11 +80,11 @@
                     aufzutreten, worin, wie ich leider gestehen muß, manche meiner deutschen
                     Collegen nicht den rechten Weg gegangen sind. Ach ich war beglückt, unter den
                     Augen Eurer Excellenz nach meinen Kräften wirken zu können an dem geistigen
-                    Aufblühen <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</country>, für dessen Größe
+                    Aufblühen <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs>, für dessen Größe
                     und Machtstellung ich mehr als manche Eingeborene begeistert bin. Ach und jetzt!
                     Mit dem Rücktritt Eurer Excellenz fühle ich den Boden unter meinen Füßen wanken,
                     es fehlt mir gleichsam die Lebensluft. Ich halte den Bestand der Philologie in
-                        <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</country>, den Bestand alles dessen,
+                        <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs>, den Bestand alles dessen,
                     was Eure Excellenz seit einem Decennium Schönes und Großes geschaffen, für
                     gefährdet. Ihr Wirken in dieser Richtung wird unsterblich in der Geschichte
                     sein!<lb/>Nur mit bangem Blicke sehe ich in die Zukunft. Abgesehen von dem Loos,
@@ -98,7 +97,7 @@
                     allein, so hätte das wenig zu bedeuten, aber mit Weib und Kindern ist eine
                     solche Lage wohl angethan den Blick zu trüben. Zwar werden auch andere in eine
                     solche Lage kommen, doch sind sie wohl meist im Lande zu Hause und können sich
-                    leichter helfen. Doch ich bin, selbst wenn ich in die ehemalige <country key="baden" ref="#place_4bafeb20cbf9d5c7c934c564ec1365ad">Heimath</country> zurückkehren wollte, durch die lange
+                    leichter helfen. Doch ich bin, selbst wenn ich in die ehemalige <rs type="place" subtype="country" key="baden" ref="#place_4bafeb20cbf9d5c7c934c564ec1365ad">Heimath</rs> zurückkehren wollte, durch die lange
                     Abwesenheit derselben völlig entfremdet, also auch in dieser Beziehung ist die
                     Aussicht trübe. Was ich bisher erübrigen konnte, habe ich alles zu
                     Bücherankäufen verwendet, um meinem Amte nach allen Richtungen zu genügen.

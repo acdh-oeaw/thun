@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Bericht über die Stimmung unter den Protestanten Ungarns<lb/>
-                    <placeName key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</placeName>, <date when="1856-12-28">28. Dezember
+                    <rs type="place" subtype="place" key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs>, <date when="1856-12-28">28. Dezember
                         1856</date>
                 </title>
             </titleStmt>
@@ -34,7 +33,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -60,10 +59,10 @@
                         Verwaltung und ihres Schulwesens. Nach allen Stimmen, die ich bisher darüber
                         vernommen habe, und nach dem Urtheile der besten Köpfe ist selbst von sonst
                         loyal gesinnten Mitgliedern dieser Gemeinden an Nachgiebigkeit nicht zu
-                        denken, und der ausgesprochene Wunsch einer großen Synode in <placeName key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</placeName> zielt mehr darauf hin, Zeit zu gewinnen,
+                        denken, und der ausgesprochene Wunsch einer großen Synode in <rs type="place" subtype="place" key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</rs> zielt mehr darauf hin, Zeit zu gewinnen,
                         ihre Argumente zu kräftigen und solche in Massen um so nachdrücklicher zu
                         vertheidigen.<lb/>Die große Empfindlichkeit, namentlich der Calviner in
-                        diesem Punkte, liegt schon in der den <country key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarn</country>
+                        diesem Punkte, liegt schon in der den <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarn</rs>
                         angebornen Leidenschaft der Selbstregierung, der sie wohl jedes Opfer zu
                         bringen fähig sind, welche zu opfern aber nur Gewalt sie zwingen kann.
                         <lb/>Man ist um so hartnäckiger in Behauptung altdocumentirter Rechte auf
@@ -75,7 +74,7 @@
                         nehmenden höher stehenden Familien, welche dem protestantischen Glauben
                         angehören als: die Teleki’s, ein Graf Řaday und andere, in ihren Tendenzen
                         genügend bekannt sind. Man erwähnt bei dieser Gelegenheit vielseitig der
-                        Zeit, wo unter <persName key="pius-III">Pius III.</persName> [sic!] ein
+                        Zeit, wo unter <rs type="person" ref="pius-III" key="pius-III">Pius III.</rs> [sic!] ein
                         Theil der ungarischen Aristokratie, der früher gleichfalls dem
                         Protestantismus angehörte, wie ein Batthyányi und selbst ein Eszterházy, zum
                         katholischen Glauben überzutreten sich bestimmen ließen.<lb/>Man ist der

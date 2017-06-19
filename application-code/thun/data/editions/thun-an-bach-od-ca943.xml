@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="bach-alexander" role="recipient">Alexander
-                        Bach</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="bach-alexander" key="bach-alexander" role="recipient">Alexander
+                        Bach</rs>
                     <lb/>
-                    <placeName ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</placeName>, <date>o. D.</date>
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, <date>o. D.</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -30,7 +29,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -38,7 +37,7 @@
                 <index>
                     <term>Presse</term>
                 </index>
-                <p>Die Redakzion der „Waage“ in <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> – bekanntlich ein
+                <p>Die Redakzion der „Waage“ in <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> – bekanntlich ein
                     kleines Blatt von entschieden – konservativer Richtung, welches das
                     unbestreitbare Verdienst hat, zuerst Muth gezeigt zu haben – ist sehr
                     schmerzlich von dem Umstand berührt, daß ihr seit einiger Zeit die

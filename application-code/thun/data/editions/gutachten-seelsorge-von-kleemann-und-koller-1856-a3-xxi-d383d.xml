@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Gutachten von <persName key="kleemann-johann">Johann Kleemann</persName> und
-                        <persName key="koller-marian">Marian Koller</persName> zu § 5 der Anträge
+                <title>Gutachten von <rs type="person" ref="kleemann-johann" key="kleemann-johann">Johann Kleemann</rs> und
+                        <rs type="person" ref="koller-marian" key="koller-marian">Marian Koller</rs> zu § 5 der Anträge
                     der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des
-                    Konkordats<lb/>o. O. [<placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>],<date when="1856"> o. D.
+                    Konkordats<lb/>o. O. [<rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>],<date when="1856"> o. D.
                         [1856]</date>
                 </title>
             </titleStmt>
@@ -50,7 +49,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -109,7 +108,7 @@
                 <p/>
                 <p>
                     <hi rend="ul">d. ad V. Die Seelsorge an Mittelschulen betreffend:</hi>
-                    <lb/>"ist die Äußerung im Einvernehmen mit Herrn Ministerialrath <persName key="koller-marian">Koller</persName> zu erstatten".</p>
+                    <lb/>"ist die Äußerung im Einvernehmen mit Herrn Ministerialrath <rs type="person" ref="koller-marian" key="koller-marian">Koller</rs> zu erstatten".</p>
                 <p>
                     <hi rend="ul">Votum</hi>:<lb/>
                     <hi rend="ul">in Betreff der
@@ -136,7 +135,7 @@
                     Verordnungen: Akt 5512 53 (Christianisierung des Unterrichtes), Akt 2756 53
                     (Verrichtung der österlichen Andacht von Seite der Lehrer in Gemeinschaft der
                     Schüler), Akt 11851 53 (Aufsichtsrecht der Bischöfe über den Unterricht an
-                    Gymnasien), Akt 7752 54 (für <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</region>.
+                    Gymnasien), Akt 7752 54 (für <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>.
                     Ausdehnung dieses Aufsichtsrechtes auch auf die Lehrer und Direktoren), dann
                     regelmäßig in den Erledigungen der Jahresberichte Genüge gethan und wird in
                     diesem Sinne bei jedem Anlaße und insbesondere bei jeder Visitation eines
@@ -151,7 +150,7 @@
                     <hi rend="ul">In Betreff der Realschulen:</hi>
                     <lb/>Dieselben Verhältnisse
                     bestehen auch an den selbständigen Realschulen. Die Realschüler haben die
-                    tägliche Schulmesse. Nur in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> findet während der
+                    tägliche Schulmesse. Nur in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> findet während der
                     Winterzeit eine Unterbrechung statt, welche durch die Lokalverhältnisse bedingt
                     ist. Schüler müssen aus großer Entfernung zur Schule kommen und oft bei sehr
                     rauher und stürmischer Witterung einen stundenlangen Weg machen. Der Besuch der

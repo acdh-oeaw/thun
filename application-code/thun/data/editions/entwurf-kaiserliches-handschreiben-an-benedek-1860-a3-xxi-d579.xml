@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Entwurf Leo Thuns für zwei kaiserliche Handschreiben an <persName key="benedek-ludwig" role="recipient:beamter">Ludwig Benedek</persName> und
-                        <persName key="thun-hohenstein-leo">an den Kultusminister</persName>
+                <title>Entwurf Leo Thuns für zwei kaiserliche Handschreiben an <rs type="person" ref="benedek-ludwig" key="benedek-ludwig" role="recipient:beamter">Ludwig Benedek</rs> und
+                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">an den Kultusminister</rs>
                     <lb/>o.
                     O., o. D. <date when="1860">[1860]</date>
                     <note xml:id="note_1">Die endgültige
@@ -50,7 +49,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -63,11 +62,11 @@
                 </index>
                 <p>An den Feldzeugmeister Ritter von Benedek</p>
                 <p>&lt;Mein letzter Vorschlag, welcher jedoch gar nicht mehr in Erwägung gezogen
-                    wurde, in dem vielmehr ein Konzept des Justizministers des <persName key="nadasdy-franz">Grafen Nádasdy</persName> von <persName key="franz-joseph">Seiner Majestät</persName> (30. April [1]860 ?) genehmigt
+                    wurde, in dem vielmehr ein Konzept des Justizministers des <rs type="person" ref="nadasdy-franz" key="nadasdy-franz">Grafen Nádasdy</rs> von <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät</rs> (30. April [1]860 ?) genehmigt
                     wurde. Thun&gt;</p>
                 <note xml:id="note_2">Eigenhändige Anmerkung Thuns am Rand.</note>
                 <p>Ich habe mich in Gnaden bewogen befunden, allen denjenigen Personen in Meinem
-                    Königreiche <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country>, welche sich bei den aus Anlaß der
+                    Königreiche <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, welche sich bei den aus Anlaß der
                     Einführung des Patents vom 1. Sept. 1859 bisher stattgefundenen bedauerlichen
                     Vorgängen auf eine solche Weise betheiliget haben, daß die Strafbehörden gegen
                     dieselben dieserwegen einzuschreiten gesetzlich verpflichtet waren, Meine volle
@@ -91,8 +90,8 @@
                     <p>Das Patent vom 1. September vorigen Jahres, durch welches Ich die seit langen
                         Jahren schwebende Verhandlung wegen Herstellung einer bestimmten Ordnung in
                         den kirchlichen Verhältnissen Meiner evangelischen Unterthanen Augsburger
-                        und helvetischen Bekenntnisses in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country>, der <country key="woiwodschaft-serbien-und-temeser-banat" ref="#place_35d1161cc45f7c1d2b14ff99f1d259a3">serbischen Wojwodschaft und
-                            dem Temeser Banate</country> sowie in <country key="kroatien-slawonien" ref="#place_6fe90dd680c4a571ed89e631ef2d48ed">Kroatien und Slavonien</country> und in der Militärgrenze unter
+                        und helvetischen Bekenntnisses in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, der <rs type="place" subtype="country" key="woiwodschaft-serbien-und-temeser-banat" ref="#place_35d1161cc45f7c1d2b14ff99f1d259a3">serbischen Wojwodschaft und
+                            dem Temeser Banate</rs> sowie in <rs type="place" subtype="country" key="kroatien-slawonien" ref="#place_6fe90dd680c4a571ed89e631ef2d48ed">Kroatien und Slavonien</rs> und in der Militärgrenze unter
                         Gewährung neuer Rechte und Begünstigungen auf gesetzlicher Grundlage zu
                         einem gedeihlichen Abschlusse zu bringen bestrebt war, sowie die zur
                         Durchführung dieses Patentes erlassenen Verordnungen, sind von einem Theile
@@ -104,8 +103,8 @@
                         Diese Verordnungen sind in Folge dessen zum Anlasse einer steigenden
                         Beunruhigung der Gemüther des Volkes gemacht worden, welche Meinen Absichten
                         durchaus widerstreitet.<lb/>Unter diesen Umständen finde Ich Mich über die
-                        von Meinem Feldzeugmeister <persName key="benedek-ludwig">Ritter von
-                            Benedek</persName> Mir gemachten Vorstellungen bewogen, diejenigen
+                        von Meinem Feldzeugmeister <rs type="person" ref="benedek-ludwig" key="benedek-ludwig">Ritter von
+                            Benedek</rs> Mir gemachten Vorstellungen bewogen, diejenigen
                         Gemeinden, Seniorate und Distrikte, welche die gegen die unverweilte
                         Durchführung obiger Anordnungen angeregten Bedenken theilen zu sollen
                         glauben, von derselben unter der Bedingung zu entheben, daß jene für sie
@@ -119,13 +118,13 @@
                         dem Ende finde Ich die Bestimmungen Meines Patentes vom 1. September vorigen
                         Jahres bezüglich der Eintheilung der Superintendenzen zu modifiziren wie
                         folgt:<lb/>1. Von den im Meinem Patente vorgezeichneten Superintendenzen
-                        Augsburger Bekenntnisses verbleiben die <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburger</placeName> und die <placeName key="vrbas" ref="#place_0501e2c4b485250398d1888c0183d808">Neu-Verbaßer</placeName> [Vrbas] aufrecht. Von der <placeName key="szarvas" ref="#place_d7f804208c8417bfc76a3b058c98a5f2">Szarvas’er</placeName> hat es sein Abkommen; den
+                        Augsburger Bekenntnisses verbleiben die <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburger</rs> und die <rs type="place" subtype="place" key="vrbas" ref="#place_0501e2c4b485250398d1888c0183d808">Neu-Verbaßer</rs> [Vrbas] aufrecht. Von der <rs type="place" subtype="place" key="szarvas" ref="#place_d7f804208c8417bfc76a3b058c98a5f2">Szarvas’er</rs> hat es sein Abkommen; den
                         Senioraten derselben ist es freigestellt, sich nach ihrem früheren Verbande
-                        der <placeName key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pester</placeName>, beziehungsweise <placeName key="eperies" ref="#place_e5853e90ec28ed86c205d8d6502aa3a9">Eperies’er</placeName> [Prešov] anzuschließen. Die
-                            <placeName key="oedenburg" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Oedenburger</placeName> [Sopron], <placeName key="eperies" ref="#place_e5853e90ec28ed86c205d8d6502aa3a9">Eperies’er</placeName> und <placeName key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pester</placeName> Superintendenzen können demgemäß vorläufig die
+                        der <rs type="place" subtype="place" key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pester</rs>, beziehungsweise <rs type="place" subtype="place" key="eperies" ref="#place_e5853e90ec28ed86c205d8d6502aa3a9">Eperies’er</rs> [Prešov] anzuschließen. Die
+                            <rs type="place" subtype="place" key="oedenburg" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Oedenburger</rs> [Sopron], <rs type="place" subtype="place" key="eperies" ref="#place_e5853e90ec28ed86c205d8d6502aa3a9">Eperies’er</rs> und <rs type="place" subtype="place" key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pester</rs> Superintendenzen können demgemäß vorläufig die
                         Grenzen der vorbestandenen jenseits der Donau, der Theißer und der
                         Bergsuperintendenz insoweit die der letzteren durch die Konstituirung der
-                            <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburger</placeName> und <placeName key="vrbas" ref="#place_0501e2c4b485250398d1888c0183d808">Neu-Verbaßer</placeName> nicht alteriert sind
+                            <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburger</rs> und <rs type="place" subtype="place" key="vrbas" ref="#place_0501e2c4b485250398d1888c0183d808">Neu-Verbaßer</rs> nicht alteriert sind
                         annehmen.<lb/>2. Von der neuen Eintheilung der helvetischen Superintendenzen
                         hat es sein Abkommen und es verbleibt demnach vorläufig bei den bisher
                         bestandenen vier Superintendenzen.<lb/>3. In den sämmtlichen

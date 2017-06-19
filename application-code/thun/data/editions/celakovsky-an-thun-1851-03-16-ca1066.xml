@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="celakovsky-frantisek-ladislav" role="sender">František
-                        Ladislaus Čelakovšký</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="celakovsky-frantisek-ladislav" key="celakovsky-frantisek-ladislav" role="sender">František
+                        Ladislaus Čelakovšký</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</placeName>, <date when="1851-03-16">16. März 1851</date>
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, <date when="1851-03-16">16. März 1851</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -51,7 +50,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -74,7 +73,7 @@
                     Ansichten und Gegengründen ein geneigtes Gehör zu schenken, da es mir durchaus
                     nicht gleichgültig sein kann, in welchem Lichte ich in dieser Beziehung vor
                     Eurer Exzellenz erscheine. In dem von mir abgeforderten und Eurer Exzellenz in
-                        <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</placeName> vorgelegten Entwurf zur Abfassung der
+                        <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> vorgelegten Entwurf zur Abfassung der
                     böhmischen Lesebücher bezeichnete ich den 3. Band ausdrücklich als einen
                     Leitfaden zur praktischen Darstellung der Litteraturgeschichte, die am
                     Obergymnasium tradiert wird, und es sollten nebenbei auch Proben der
@@ -97,12 +96,12 @@
                     rothen Faden bildet, der sich seit den ältesten Zeiten durch das Leben unsres
                     Volkes hinzieht, und wie eben dieser Mahnruf als einer der Hauptfaktoren
                     anzusehen ist, der unsere klägliche Lage Zustand [sic!] nach und nach zum
-                    Bessern führte.<lb/>Hätten die Wecker <persName key="puchmajer-antonin-jaroslav">Puchmajer</persName>, <persName key="jungmann-josef">Jungmann</persName>,
-                        <persName key="kollar-jan">Kollàr</persName> u. a. nicht mit starker Hand an
+                    Bessern führte.<lb/>Hätten die Wecker <rs type="person" ref="puchmajer-antonin-jaroslav" key="puchmajer-antonin-jaroslav">Puchmajer</rs>, <rs type="person" ref="jungmann-josef" key="jungmann-josef">Jungmann</rs>,
+                        <rs type="person" ref="kollar-jan" key="kollar-jan">Kollàr</rs> u. a. nicht mit starker Hand an
                     die Thür des Hauses gepocht, wir schliefen wahrscheinlich noch den tiefen Schlaf
                     wie zu Ende des vorigen Jahrhunderts. In dem Grade als wir reicher werden,
                     werden auch die Klagen über Armuth von selbst abnehmen; früher kaum. Es thut mir
-                    daher leid, daß vornähmlich gegen die aus <persName key="puchmajer-antonin-jaroslav">Puchmajer</persName> aufgenommenen Gedichte
+                    daher leid, daß vornähmlich gegen die aus <rs type="person" ref="puchmajer-antonin-jaroslav" key="puchmajer-antonin-jaroslav">Puchmajer</rs> aufgenommenen Gedichte
                     Bedenklichkeiten erhoben wurden, da z.B. das Gedicht Hlas Čecha 1802 (das
                     nebenbei gesagt ein Meisterstück echt böhmischer Sprache ist) durch die
                     Vergleichung unserer jetzigen Lage gegen jene vor 50 Jahren nur von einem
@@ -111,7 +110,7 @@
                     mir unerläßlich in das Lesebuch auch ein paar rhetorische Stücke aufzunehmen.
                     Unsere Litteratur ist aber so arm auf dem Gebiete der weltlichen Beredsamkeit,
                     daß ich durch die Aufzeichnung der zwei kurzen Landtagsreden aus der Noth eine
-                    Tugend machen mußte. <persName key="kollar-jan">Kollàrs</persName> Rede dagegen
+                    Tugend machen mußte. <rs type="person" ref="kollar-jan" key="kollar-jan">Kollàrs</rs> Rede dagegen
                     glaube ich noch jetzt vor dem ihr gemachten Vorwurfe schützen zu müssen, da ein
                     auf anerkannt guten Eigenschaften und wirklichen Tugenden begründetes Lob der
                     eigenen Nation nur zur Stärkung und Erhebung des Gemüthes führen kann und auch
@@ -123,12 +122,12 @@
                         1820. Vgl. hierzu auch <ref target="thun/thun-korrespondenz/Konzepte_Briefe_von_Thun/thun-an-celakovsky_1851-02-24_CA963.xml">Konzept eines Briefes von Leo Thun an Frantisek Čelakovský, 24. Februar
                             1851, AVA, MCU, Präs. 97/1851</ref>.</note> ist freilich keine
                     klassische Arbeit, aber als Aushülfe, so lange nichts Besseres da ist, immer zu
-                    brauchen. Eure Exzellenz wünschen auch die Namen <persName key="hus-jan">Hus</persName> und <persName key="zizka-jan">Zižka</persName> aus dem
+                    brauchen. Eure Exzellenz wünschen auch die Namen <rs type="person" ref="hus-jan" key="hus-jan">Hus</rs> und <rs type="person" ref="zizka-jan" key="zizka-jan">Zižka</rs> aus dem
                     Lesebuche ganz ausgeschlossen zu sehen. Doch können meines Bedünkens diese Namen
                     eben so wenig in einer und wenn auch wie immer kurzgefaßten böhmischen
                     Litteraturgeschichte als in der Weltgeschichte stillschweigend übergangen
                     werden. Die wenigsten Proben, die ich excerpirte, ja stehen, wie ich hoffe, zu
-                    der Religion in keiner Beziehung und wenn ich aus <persName key="hus-jan">Hussens</persName> Schriften kaum 4 Seiten aufnahm, so ist das Beweis
+                    der Religion in keiner Beziehung und wenn ich aus <rs type="person" ref="hus-jan" key="hus-jan">Hussens</rs> Schriften kaum 4 Seiten aufnahm, so ist das Beweis
                     genug, wie kurz ich über diese delikate Sache hinwegzukommen suchte. Eurer
                     Exzellenz kann es nicht entgangen sein, wie in unserm Jahrhundert diese Namen
                     nur dadurch bei Jung und Alt zu dem unverdienten Ansehen gelangten, weil man sie
@@ -149,14 +148,14 @@
                     Obergymnasiums zur Lectüre anempfehlen. Wenn dann um dieselbe Zeit oder einige
                     Jahre darauf unsere Jünglinge verhalten werden, sich mit römischen Klassikern
                     vertraut zu machen, was hätte man erst hier zu besorgen und welche Scenen der
-                    Verderbtheit und Unmoralität treten ihnen da vor die Augen! – <persName key="tupy-eugen">Tupy’s </persName>Gedichte sind aber so geartet, daß ich
+                    Verderbtheit und Unmoralität treten ihnen da vor die Augen! – <rs type="person" ref="tupy-eugen" key="tupy-eugen">Tupy’s </rs>Gedichte sind aber so geartet, daß ich
                     sie selbst als Vater jedem meiner Kinder in die Hand geben will, ohne den
                     mindesten Nachtheil daraus besorgen zu müssen. Auch der Vorwurf, ich hätte der
                     litterärischen Thätigkeit der Mährer und Slowaken zu wenig Rechnung getragen,
                     kann mich gar nicht treffen, da es wahrlich Niemandem mehr als eben mir recht
                     erwünscht gewesen wäre, von dieser Seite her eine reichere Ausbeute zu machen.
-                    Das Lesebuch weist noch die Namen <persName key="zierotin-karl">Žerotin</persName>, <persName key="comenius-jan-amos">Komenský</persName>,
-                        <persName key="palacky-frantisek">Palacký</persName>, <persName key="holy-prokop">Holý</persName>, <persName key="kollar-jan">Kolár</persName>, <persName key="safarik-pavel-josef">Šafařik</persName>,
+                    Das Lesebuch weist noch die Namen <rs type="person" ref="zierotin-karl" key="zierotin-karl">Žerotin</rs>, <rs type="person" ref="comenius-jan-amos" key="comenius-jan-amos">Komenský</rs>,
+                        <rs type="person" ref="palacky-frantisek" key="palacky-frantisek">Palacký</rs>, <rs type="person" ref="holy-prokop" key="holy-prokop">Holý</rs>, <rs type="person" ref="kollar-jan" key="kollar-jan">Kolár</rs>, <rs type="person" ref="safarik-pavel-josef" key="safarik-pavel-josef">Šafařik</rs>,
                     noch andere, die einen festen Fuß in unserer Litterärgeschichte gefaßt hätten
                     oder deren Arbeiten für mein Lesebuch sprachlich und fachlich paßten, habe ich
                     nicht vorgefunden und (sehe ich mich vergebens um).<lb/>Sollte es dennoch Eure

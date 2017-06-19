@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -39,7 +38,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -52,25 +51,25 @@
                 </index>
                 <div>
                     <p>Die päpstliche Instruction vom 30. April 1841 hat für die drei
-                        Kirchenprovinzen <placeName ref="#place_f07d757cdeb5acd661d89d1d54ed7e3c">Gran</placeName> [Esztergom],
-                            <placeName ref="#place_dc99ae826de653f8eda03c7b3d728ed1">Colocza</placeName> und <placeName ref="#place_ee867171f9b64c8c5bd0d84df32c0d38">Erlau</placeName> [Eger]
+                        Kirchenprovinzen <rs type="place" subtype="place" ref="#place_f07d757cdeb5acd661d89d1d54ed7e3c">Gran</rs> [Esztergom],
+                            <rs type="place" subtype="place" ref="#place_dc99ae826de653f8eda03c7b3d728ed1">Colocza</rs> und <rs type="place" subtype="place" ref="#place_ee867171f9b64c8c5bd0d84df32c0d38">Erlau</rs> [Eger]
                         in ihrem damaligen Umfange hinsichtlich der gemischten Ehen dasselbe
-                        festgesetzt, was <persName key="benedikt-XIV">Benedict XIV.</persName> am 4.
-                        November 1741 für das Gebiet der vereinigten <country ref="#place_76ff6cc9752a8ba82a9a86d4ff9245a7">Niederlande</country>
+                        festgesetzt, was <rs type="person" ref="benedikt-XIV" key="benedikt-XIV">Benedict XIV.</rs> am 4.
+                        November 1741 für das Gebiet der vereinigten <rs type="place" subtype="country" ref="#place_76ff6cc9752a8ba82a9a86d4ff9245a7">Niederlande</rs>
                         mit Einschluß des verpfändeten Maßtricht und der holländischen Besitzungen
                         in den Barrierefestungen ausgesprochen hat. Mit Berufung auf diesen Erlaß
-                        erklärte <persName key="clemens-XIII">Clemens XIII.</persName> in einem an
-                        den <persName key="frankenberg-johann-heinrich">Erzbischof von
-                            Mechelen</persName> gerichteten Schreiben vom 15. Mai 1767 ein Ehe für
-                        gültig, welche ein zu <placeName ref="#place_ce573fb3b837e6d0517b8fa5011ed041">Brüssel</placeName> ansässiger Katholik in
-                            <country ref="#place_67eb2b8d0aab60ec69666532ff9527c9">Holland</country> mit einer holländischen Protestantin ohne
+                        erklärte <rs type="person" ref="clemens-XIII" key="clemens-XIII">Clemens XIII.</rs> in einem an
+                        den <rs type="person" ref="frankenberg-johann-heinrich" key="frankenberg-johann-heinrich">Erzbischof von
+                            Mechelen</rs> gerichteten Schreiben vom 15. Mai 1767 ein Ehe für
+                        gültig, welche ein zu <rs type="place" subtype="place" ref="#place_ce573fb3b837e6d0517b8fa5011ed041">Brüssel</rs> ansässiger Katholik in
+                            <rs type="place" subtype="country" ref="#place_67eb2b8d0aab60ec69666532ff9527c9">Holland</rs> mit einer holländischen Protestantin ohne
                         Beiseyn des katholischen Pfarrers geschlossen hatte und zwar aus dem Grunde,
                         weil die holländische Protestantin hinsichtlich jeder in
-                            <country ref="#place_67eb2b8d0aab60ec69666532ff9527c9">Holland</country> zu schließenden Ehe von den Bestimmungen des
-                        Conciliums von <placeName ref="#place_34f36b9454115e3b99acdf7913509e12">Trient</placeName> ausgenommen war. Dies passt
+                            <rs type="place" subtype="country" ref="#place_67eb2b8d0aab60ec69666532ff9527c9">Holland</rs> zu schließenden Ehe von den Bestimmungen des
+                        Conciliums von <rs type="place" subtype="place" ref="#place_34f36b9454115e3b99acdf7913509e12">Trient</rs> ausgenommen war. Dies passt
                         vollkommen auf den Fall, daß eine katholische Militärperson sich in
-                            <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> mit einer protestantischen ihren Wohnsitz in
-                            <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> habenden Person ohne Beiseyn des katholischen
+                            <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> mit einer protestantischen ihren Wohnsitz in
+                            <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> habenden Person ohne Beiseyn des katholischen
                         Pfarrers verehelicht. Um so weniger kann also die Gültigkeit der Ehe im
                         umgekehrten Falle einem Zweifel unterliegen.<lb/>Wenn im Allgemeinen nun
                         ohne Beschränkung auf gewisse Länder der Grundsatz gälte, daß der
@@ -78,18 +77,18 @@
                         Kirchengesetz über die Form der Eheschließung mittheile, so müssen die
                         gemischten Ehen überall ohne Beiseyn des katholischen Pfarrers gültig
                         [sein?]: denn daß die Protestanten auch in den Ländern, wo das Concilium von
-                            <placeName ref="#place_34f36b9454115e3b99acdf7913509e12">Trient</placeName> ist kundgemacht worden, sich unter
+                            <rs type="place" subtype="place" ref="#place_34f36b9454115e3b99acdf7913509e12">Trient</rs> ist kundgemacht worden, sich unter
                         einander ohne katholische Pfarrer gültig verehelichen können, wird
-                        gegenwärtig von Niemandem angestritten. Dann hätte aber <placeName key="pius-VIII" ref="#place_1cdaaecd832919b09f5bbc1a95a2e933">Pius VIII.</placeName> den Bischöfen der preußischen
+                        gegenwärtig von Niemandem angestritten. Dann hätte aber <rs type="place" subtype="place" key="pius-VIII" ref="#place_1cdaaecd832919b09f5bbc1a95a2e933">Pius VIII.</rs> den Bischöfen der preußischen
                         Rheinlande nicht die Vollmacht ertheilen können, die gemischten Ehen, welche
                         ohne Beiseyn der katholischen Pfarrer geschlossen waren, für in der Wurzel
                         geheilt[?] zu erklären, sondern er hätte vielmehr aussprechen müssen, daß
                         diese Ehen gar keiner Convalidierung bedürftig seyen. Eben so hätte
-                            <persName key="gregor-XVI">Gregor XVI.</persName> nicht nötig gehabt für
-                            <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> im besondern auf besondere Verhältnisse
+                            <rs type="person" ref="gregor-XVI" key="gregor-XVI">Gregor XVI.</rs> nicht nötig gehabt für
+                            <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> im besondern auf besondere Verhältnisse
                         gegründete Zugeständnisse zu machen, sondern er hätte vielmehr die
                         ungarischen Bischöfe belehren müssen, daß gemischte Ehen ohne Beiseyn des
-                        katholischen Pfarrers überall und somit auch in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country>
+                        katholischen Pfarrers überall und somit auch in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>
                         gültig seyen.</p>
                 </div>
             </div>

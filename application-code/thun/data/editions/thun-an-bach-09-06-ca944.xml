@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="bach-alexander" role="recipient">Alexander
-                        Bach</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="bach-alexander" key="bach-alexander" role="recipient">Alexander
+                        Bach</rs>
                     <lb/>
-                    <placeName ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</placeName>, <date when="--09-06">6.
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, <date when="--09-06">6.
                         September [1853]</date>
                     <note xml:id="note_1">Das Jahr ist mit Bleistift auf
                         dem Blatt vermerkt.</note>
@@ -30,7 +29,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -40,7 +39,7 @@
                 </index>
                 <p>Lieber Freund!</p>
                 <p>Der Verabredung gemäß stelle ich Ihnen in der Beilage die Note in der
-                    Angelegenheit des <persName>Carrara</persName> zurück.</p>
+                    Angelegenheit des <rs type="person" ref="">Carrara</rs> zurück.</p>
                 <p>Aufrichtig der Ihrige</p>
                 <p>Thun</p>
                 <p>6/9</p>

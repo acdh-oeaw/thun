@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Das Professorenkollegium der Universität Wien an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                <title>Das Professorenkollegium der Universität Wien an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1860-10-21">21.
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1860-10-21">21.
                         Oktober 1860</date>
                 </title>
             </titleStmt>
@@ -38,7 +37,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -52,181 +51,181 @@
                     fortan nicht mehr in den Händen Euerer Excellenz liegen wird, fordert jeden
                     denkenden Freund des Vaterlandes auf, den gegenwärtigen Zustand des Unterrichts
                     mit dem zu vergleichen, den Euere Excellenz von der Vergangenheit übernahmen.
-                    <lb/>Die Hochschulen <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</country> haben
+                    <lb/>Die Hochschulen <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> haben
                     aufgehört, bloße Hochschulen für einzelne Berufszweige zu sein, sie haben die
                     Pflege der Wissenschaften selbst zur Aufgabe erhalten und aus der ihnen
                     gewährten Lehr- und Lernfreiheit die Kraft geschöpft, diese Aufgabe zu erfüllen.
-                    Die Gymnasien <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</country> sind nicht mehr
+                    Die Gymnasien <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> sind nicht mehr
                     durch eine weite Kluft von den berechtigten Forderungen der Zeit getrennt,
                     sondern sind Pflanzstätten einer gediegenen allgemeinen Bildung. In der Gründung
                     zahlreicher Realschulen ist der gewerblichen Thätigkeit jene Förderung der
                     Intelligenz geworden, deren sie bedurfte.<lb/>Diese Neugestaltungen haben sich
-                    außerhalb <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</country> achtungsvolle
+                    außerhalb <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> achtungsvolle
                     Billigung errungen, innerhalb des Vaterlandes dankbare Anerkennung gefunden und
                     so feste Wurzeln geschlagen, daß ihre Treibkraft unverloren bleiben
                     wird.<lb/>Die geistigen Interessen als gleichberechtigt anerkannt mit den
                     höchsten Factoren des Staatsorganismus, fanden ihre Vertretung in einem Manne,
                     der den selbstständigen Werth der Wissenschaft und die Bedeutung des geistigen
                     Lebens in vollem Maße würdigt und mit der Sicherheit einsichtsvoller Überzeugung
-                    die ruhige Besonnenheit der Ausführung verbindet.<lb/>In der Geschichte <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</country> während des letzten Jahrzehnts
+                    die ruhige Besonnenheit der Ausführung verbindet.<lb/>In der Geschichte <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> während des letzten Jahrzehnts
                     bilden die Fortschritte des Unterrichts einen leuchtenden Punct und die
                     Verdienste Euerer Excellenz auf diesem Gebiete werden die gerechte Würdigung der
                     Nachwelt finden. Den Unterzeichneten aber, die sich glücklich schätzten, in
                     ihrer Lehrthätigkeit an der <orgName key="universitaet-wien">Wiener
                         Hochschule</orgName> unter der Fürsorge Euerer Excellenz zu stehen, ist es
                     eine heilige Pflicht, den ehrerbietigsten Dank für den Segen auszusprechen,
-                    welchen Ihre Wirksamkeit der heranwachsenden Generation <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</country> gebracht hat. Möge zum Heile des
+                    welchen Ihre Wirksamkeit der heranwachsenden Generation <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> gebracht hat. Möge zum Heile des
                     Vaterlandes der ausgestreute Same reichliche Früchte tragen!</p>
                 <p>Wien, am 21. October 1860</p>
                 <p>
-                    <persName key="unger-franz">Fr. Unger</persName>
+                    <rs type="person" ref="unger-franz" key="unger-franz">Fr. Unger</rs>
                     <lb/>
-                    <persName key="dumreicher-johann">J. Dumreicher</persName>
+                    <rs type="person" ref="dumreicher-johann" key="dumreicher-johann">J. Dumreicher</rs>
                     <lb/>
-                    <persName key="lott-franz">F. C. Lott</persName>
+                    <rs type="person" ref="lott-franz" key="lott-franz">F. C. Lott</rs>
                     <lb/>
-                    <persName key="arlt-ferdinand">Dr. Arlt</persName>
+                    <rs type="person" ref="arlt-ferdinand" key="arlt-ferdinand">Dr. Arlt</rs>
                     <lb/>
-                    <persName key="zeissl-hermann">Zeissl</persName>
+                    <rs type="person" ref="zeissl-hermann" key="zeissl-hermann">Zeissl</rs>
                     <lb/>
-                    <persName key="littrow-karl">Littrow</persName>
+                    <rs type="person" ref="littrow-karl" key="littrow-karl">Littrow</rs>
                     <lb/>[?]<lb/>
-                    <persName key="helm-theodor">Helm</persName>
+                    <rs type="person" ref="helm-theodor" key="helm-theodor">Helm</rs>
                     <lb/>
-                    <persName key="zipfel-franz">Dr.
-                        Zipfel</persName>
+                    <rs type="person" ref="zipfel-franz" key="zipfel-franz">Dr.
+                        Zipfel</rs>
                     <lb/>
-                    <persName key="hornstein-carl">Dr.
-                        Hornstein</persName>
+                    <rs type="person" ref="hornstein-carl" key="hornstein-carl">Dr.
+                        Hornstein</rs>
                     <lb/>
-                    <persName key="grassl-ignaz">Dr.
-                        Graßl</persName>
+                    <rs type="person" ref="grassl-ignaz" key="grassl-ignaz">Dr.
+                        Graßl</rs>
                     <lb/>
                     <lb/>
-                    <persName key="petzval-joseph">Jos.
-                        Petzval</persName>
+                    <rs type="person" ref="petzval-joseph" key="petzval-joseph">Jos.
+                        Petzval</rs>
                     <lb/>
-                    <persName key="zippe-franz">F. X. M.
-                        Zippe</persName>
+                    <rs type="person" ref="zippe-franz" key="zippe-franz">F. X. M.
+                        Zippe</rs>
                     <lb/>
-                    <persName key="wahlberg-wilhelm-emil">Wahlberg</persName>
+                    <rs type="person" ref="wahlberg-wilhelm-emil" key="wahlberg-wilhelm-emil">Wahlberg</rs>
                     <lb/>
-                    <persName key="glaser-julius">Julius
-                        Glaser</persName>
+                    <rs type="person" ref="glaser-julius" key="glaser-julius">Julius
+                        Glaser</rs>
                     <lb/>
-                    <persName key="moth-franz">Fr.
-                        Moth</persName>
+                    <rs type="person" ref="moth-franz" key="moth-franz">Fr.
+                        Moth</rs>
                     <lb/>
-                    <persName key="rokitansky-karl">C.
-                        Rokitansky</persName>
+                    <rs type="person" ref="rokitansky-karl" key="rokitansky-karl">C.
+                        Rokitansky</rs>
                     <lb/>
-                    <persName key="stubenrauch-moriz">Dik. von
-                        Stubenrauch</persName>
+                    <rs type="person" ref="stubenrauch-moriz" key="stubenrauch-moriz">Dik. von
+                        Stubenrauch</rs>
                     <lb/>
-                    <persName key="wallmann-heinrich">Heinrich
-                        Wallman</persName>
+                    <rs type="person" ref="wallmann-heinrich" key="wallmann-heinrich">Heinrich
+                        Wallman</rs>
                     <lb/>
-                    <persName key="kreil-karl">Kreil</persName>
+                    <rs type="person" ref="kreil-karl" key="kreil-karl">Kreil</rs>
                     <lb/>
-                    <persName key="kunzek-august">A.
-                        Kunzek</persName>
+                    <rs type="person" ref="kunzek-august" key="kunzek-august">A.
+                        Kunzek</rs>
                     <lb/>
-                    <persName key="stein-lorenz">L.
-                        Stein</persName>
+                    <rs type="person" ref="stein-lorenz" key="stein-lorenz">L.
+                        Stein</rs>
                     <lb/>
-                    <persName key="seligmann-franz-romeo">F. R.
-                        Seligmann</persName>
+                    <rs type="person" ref="seligmann-franz-romeo" key="seligmann-franz-romeo">F. R.
+                        Seligmann</rs>
                     <lb/>
-                    <persName key="hebra-ferdinand">Hebra</persName>
+                    <rs type="person" ref="hebra-ferdinand" key="hebra-ferdinand">Hebra</rs>
                     <lb/>D. [?]<lb/>
-                    <persName key="salzer-friedrich">Dr.
-                        Salzer</persName>
+                    <rs type="person" ref="salzer-friedrich" key="salzer-friedrich">Dr.
+                        Salzer</rs>
                     <lb/>
-                    <persName key="ettinghausen-andreas">A. v.
-                        Ettingshausen</persName>
+                    <rs type="person" ref="ettinghausen-andreas" key="ettinghausen-andreas">A. v.
+                        Ettingshausen</rs>
                     <lb/>
-                    <persName key="fenzl-eduard">[?] Ed.
-                        Fenzl</persName>
+                    <rs type="person" ref="fenzl-eduard" key="fenzl-eduard">[?] Ed.
+                        Fenzl</rs>
                     <lb/>
-                    <persName key="jaeger-albert">Albert
-                        Jäger</persName>
+                    <rs type="person" ref="jaeger-albert" key="jaeger-albert">Albert
+                        Jäger</rs>
                     <lb/>
-                    <persName key="unger-joseph">Dr. Joseph
-                        Unger</persName>
+                    <rs type="person" ref="unger-joseph" key="unger-joseph">Dr. Joseph
+                        Unger</rs>
                     <lb/>
-                    <persName key="suess-eduard">Eduard
-                        Sues</persName>
+                    <rs type="person" ref="suess-eduard" key="suess-eduard">Eduard
+                        Sues</rs>
                     <lb/>
-                    <persName key="sembera-alois-vojtech">Alois
-                        Sembera</persName>
+                    <rs type="person" ref="sembera-alois-vojtech" key="sembera-alois-vojtech">Alois
+                        Sembera</rs>
                     <lb/>
-                    <persName key="lorenz-ottokar">Ottokar
-                        Lorenz</persName>
+                    <rs type="person" ref="lorenz-ottokar" key="lorenz-ottokar">Ottokar
+                        Lorenz</rs>
                     <lb/>
-                    <persName key="aschbach-joseph">J.
-                        Aschbach</persName>
+                    <rs type="person" ref="aschbach-joseph" key="aschbach-joseph">J.
+                        Aschbach</rs>
                     <lb/>
-                    <persName key="vahlen-johannes">J.
-                        Vahlen</persName>
+                    <rs type="person" ref="vahlen-johannes" key="vahlen-johannes">J.
+                        Vahlen</rs>
                     <lb/>
-                    <persName key="eitelberger-rudolf">R.
-                        Eitelberger</persName>
+                    <rs type="person" ref="eitelberger-rudolf" key="eitelberger-rudolf">R.
+                        Eitelberger</rs>
                     <lb/>
-                    <persName key="schroff-karl-damian">C.
-                        Schroff</persName>
+                    <rs type="person" ref="schroff-karl-damian" key="schroff-karl-damian">C.
+                        Schroff</rs>
                     <lb/>
-                    <persName key="kurzak-franz">Fr.
-                        Kurzak</persName>
+                    <rs type="person" ref="kurzak-franz" key="kurzak-franz">Fr.
+                        Kurzak</rs>
                     <lb/>
-                    <persName key="hoffmann-emanuel">E.
-                        Hoffmann</persName>
+                    <rs type="person" ref="hoffmann-emanuel" key="hoffmann-emanuel">E.
+                        Hoffmann</rs>
                     <lb/>
-                    <persName key="haimerl-franz-xaver">Dr. F.
-                        Haimerl</persName>
+                    <rs type="person" ref="haimerl-franz-xaver" key="haimerl-franz-xaver">Dr. F.
+                        Haimerl</rs>
                     <lb/>
-                    <persName key="springer-johann">Springer</persName>
+                    <rs type="person" ref="springer-johann" key="springer-johann">Springer</rs>
                     <lb/>
-                    <persName key="pfeiffer-franz">Fr.
-                        Pfeiffer</persName>
+                    <rs type="person" ref="pfeiffer-franz" key="pfeiffer-franz">Fr.
+                        Pfeiffer</rs>
                     <lb/>
-                    <persName key="bonitz-hermann">H.
-                        Bonitz</persName>
+                    <rs type="person" ref="bonitz-hermann" key="bonitz-hermann">H.
+                        Bonitz</rs>
                     <lb/>
-                    <persName key="simony-friedrich">Fr.
-                        Simony</persName>
+                    <rs type="person" ref="simony-friedrich" key="simony-friedrich">Fr.
+                        Simony</rs>
                     <lb/>
-                    <persName key="bruecke-ernst">E.
-                        Brücke</persName>
+                    <rs type="person" ref="bruecke-ernst" key="bruecke-ernst">E.
+                        Brücke</rs>
                     <lb/>
-                    <persName key="wedl-carl">C.
-                        Wedl</persName>
+                    <rs type="person" ref="wedl-carl" key="wedl-carl">C.
+                        Wedl</rs>
                     <lb/>
-                    <persName key="kaiser-johann-nepomuk">Dr. J.
-                        Kaiser</persName>
+                    <rs type="person" ref="kaiser-johann-nepomuk" key="kaiser-johann-nepomuk">Dr. J.
+                        Kaiser</rs>
                     <lb/>
-                    <persName key="miklosich-franz">Miklosich</persName>
+                    <rs type="person" ref="miklosich-franz" key="miklosich-franz">Miklosich</rs>
                     <lb/>[?]<lb/>
-                    <persName key="boller-anton">Boller</persName>
+                    <rs type="person" ref="boller-anton" key="boller-anton">Boller</rs>
                     <lb/>
-                    <persName key="mueller-ernest">Müller</persName>
+                    <rs type="person" ref="mueller-ernest" key="mueller-ernest">Müller</rs>
                     <lb/>
-                    <persName key="friese-johann">J.
-                        Friese</persName>
+                    <rs type="person" ref="friese-johann" key="friese-johann">J.
+                        Friese</rs>
                     <lb/>
-                    <persName key="kner-rudolph">C. R.
-                        Kner</persName>
+                    <rs type="person" ref="kner-rudolph" key="kner-rudolph">C. R.
+                        Kner</rs>
                     <lb/>
-                    <persName key="dlauhy-johann">Prof.
-                        Dlauhy</persName>
+                    <rs type="person" ref="dlauhy-johann" key="dlauhy-johann">Prof.
+                        Dlauhy</rs>
                     <lb/>
-                    <persName key="tomaschek-karl">K.
-                        Tomaschek</persName>
+                    <rs type="person" ref="tomaschek-karl" key="tomaschek-karl">K.
+                        Tomaschek</rs>
                     <lb/>
-                    <persName key="schauenstein-adolf">A.
-                        Schauenstein</persName>
+                    <rs type="person" ref="schauenstein-adolf" key="schauenstein-adolf">A.
+                        Schauenstein</rs>
                     <lb/>
-                    <persName key="braun-carl">K.
-                    Braun</persName>
+                    <rs type="person" ref="braun-carl" key="braun-carl">K.
+                    Braun</rs>
                 </p>
             </div>
         </body>

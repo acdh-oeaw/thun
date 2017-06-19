@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -33,7 +32,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -45,7 +44,7 @@
                 </index>
                 <p>Zu § XXV. betreffend die Eintheilung der Superintendenzen</p>
                 <p>A. für die Evangelischen <hi rend="ul">Augsburger</hi> Confession</p>
-                <p>I. die <placeName key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesther</placeName> Superintendenz besteht<lb/>1.
+                <p>I. die <rs type="place" subtype="place" key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesther</rs> Superintendenz besteht<lb/>1.
                     aus dem Pesth-Ofner Seniorat mit 5 Muttergemeinden, 5 namentlich aufgezählten
                     Filialgemeinden "<hi rend="ul">und anderen</hi> Filialgemeinden" (so drückt sich
                     der Schematismus aus) mit 9.594 Seelen<lb/>2. aus dem Pesther Comitatsseniorat
@@ -53,17 +52,17 @@
                     Seniorat mit 10 Muttergemeinden und 2 Filialen mit 7.390 Seelen<lb/>zusammen mit
                     39 Muttergemeinden und mit mehr als 134 Filialen 57.428 Seelen </p>
                 <p>Von diesen Gemeinden liegt <hi rend="ul">nur</hi> die zum Pesth-Ofner Seniorate
-                    und zwar zur Muttergemeinde <placeName ref="#place_7d9832776dd78bc9e7f5eeb6c168c92b">Waizna</placeName> gehörige Filiale
-                        <placeName ref="#place_fb13483697050e19e50fb641d50f139e">Rád</placeName> mit 251 Seelen im <placeName key="komitat-neograd" ref="#place_07198ac9f90b46b7d3930924305a26af">Neograder Comitate</placeName>, folglich im <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburger</placeName> Verwaltungsgebiete.<lb/>Alle anderen
-                    liegen im <placeName key="ofen" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofner</placeName> Verwaltungsgebiete. </p>
-                <p>II. die <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburger</placeName> Superintendenz besteht
+                    und zwar zur Muttergemeinde <rs type="place" subtype="place" ref="#place_7d9832776dd78bc9e7f5eeb6c168c92b">Waizna</rs> gehörige Filiale
+                        <rs type="place" subtype="place" ref="#place_fb13483697050e19e50fb641d50f139e">Rád</rs> mit 251 Seelen im <rs type="place" subtype="place" key="komitat-neograd" ref="#place_07198ac9f90b46b7d3930924305a26af">Neograder Comitate</rs>, folglich im <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburger</rs> Verwaltungsgebiete.<lb/>Alle anderen
+                    liegen im <rs type="place" subtype="place" key="ofen" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofner</rs> Verwaltungsgebiete. </p>
+                <p>II. die <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburger</rs> Superintendenz besteht
                     <lb/>1. aus dem Arvaner Seniorat mit 6 Muttergemeinden, 34 Filialen (<hi rend="ul">eine</hi> Filiale erscheint unter der Bezeichnung "Diversa loca")
                     mit 7.729 Seelen<lb/>2. aus dem Liptauer Seniorat mit 13 Muttergemeinden, 112
                     Filialen, im Ganzen mit 32.923 Seelen<lb/>3. aus dem Neutraer Seniorat mit 21
                     Muttergemeinden nebst vielen Filialen und 52.827 Seelen und<lb/>4. aus dem
                     Preßburger Stadt-Seniorat, welches 3 Muttergemeinden und 2 Filialen (a. zu
-                        <placeName ref="#place_b2037495be0418c0d899f7cab67b27ab">Oberufer</placeName> mit 609 Seelen, b. zu
-                        <placeName ref="#place_127427e180fb45cac5ade1385e0362d4">Engerau</placeName> mit 183 Seelen) zählt, im Ganzen mit 8.958
+                        <rs type="place" subtype="place" ref="#place_b2037495be0418c0d899f7cab67b27ab">Oberufer</rs> mit 609 Seelen, b. zu
+                        <rs type="place" subtype="place" ref="#place_127427e180fb45cac5ade1385e0362d4">Engerau</rs> mit 183 Seelen) zählt, im Ganzen mit 8.958
                     Seelen<lb/>5. aus dem Preßburger Comitats-Seniorat mit 15 Muttergemeinden,
                     vielen Filialen, im Ganzen mit 13.928 Seelen<lb/>6. aus dem Trentschiner
                     Seniorat mit 14 Muttergemeinden, vielen Filialen, im Ganzen mit 19.763 Seelen
@@ -71,52 +70,52 @@
                     Ganzen mit 25.387 Seelen<lb/>8. aus dem Sohler Seniorat mit 20 Muttergemeinden,
                     vielen Filialen, mit 39.056 Seelen<lb/>9. aus dem Barscher Seniorat mit 5
                     Muttergemeinden, mit mehr als 37 Filialgemeinden (bei der Muttergemeinde
-                        <placeName ref="#place_6f561168f7972e6facc534168b47f5a8">Vezekény</placeName> kommt die Angabe vor: "Filialgemeinde
-                        <placeName ref="#place_f0ac026ab0162772bf95760c4517955c">Farád</placeName> mit 45 Schülern, 300 Seelen, in den <hi rend="ul">übrigen</hi> Filialgemeinden 294 Seelen"; weder sind sie nach dem
+                        <rs type="place" subtype="place" ref="#place_6f561168f7972e6facc534168b47f5a8">Vezekény</rs> kommt die Angabe vor: "Filialgemeinde
+                        <rs type="place" subtype="place" ref="#place_f0ac026ab0162772bf95760c4517955c">Farád</rs> mit 45 Schülern, 300 Seelen, in den <hi rend="ul">übrigen</hi> Filialgemeinden 294 Seelen"; weder sind sie nach dem
                     Namen oder nach der Zahl aufgeführt), im Ganzen mit 3.346 Seelen<lb/>10. aus dem
                     Honter Seniorat mit 31 Muttergemeinden, vielen Filialen, im Ganzen mit 25.708
                     Seelen<lb/>11. aus dem Neograder Seniorat mit 42 Muttergemeinden, vielen
                     Filialen, im Ganzen mit 47.261 Seelen<lb/>12. aus dem Komorner Stadt-Seniorat
                     mit 488 Seelen<lb/>Diese Superintendenz hat also 183 Muttergemeinden mit 271.259
                     Seelen. </p>
-                <p>Sämmtliche Gemeinden liegen im <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburger</placeName>
+                <p>Sämmtliche Gemeinden liegen im <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburger</rs>
                     Verwaltungsgebiete, mit Ausnahme der einzigen Filialgemeinde
-                        <placeName ref="#place_127427e180fb45cac5ade1385e0362d4">Engerau</placeName>, welche 183 Seelen zählt, gegenwärtig noch
-                        <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</placeName> eingepfarrt ist, aber im
-                        <placeName key="komitat-wieselburg" ref="#place_6016afaa156d07d60efecd23921fa2b0">Wieselburger Comitate</placeName> liegt,
-                    mithin zum <placeName key="oedenburg" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Ödenburger</placeName> Verwaltungsgebiete
+                        <rs type="place" subtype="place" ref="#place_127427e180fb45cac5ade1385e0362d4">Engerau</rs>, welche 183 Seelen zählt, gegenwärtig noch
+                        <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</rs> eingepfarrt ist, aber im
+                        <rs type="place" subtype="place" key="komitat-wieselburg" ref="#place_6016afaa156d07d60efecd23921fa2b0">Wieselburger Comitate</rs> liegt,
+                    mithin zum <rs type="place" subtype="place" key="oedenburg" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Ödenburger</rs> Verwaltungsgebiete
                     gehört.</p>
-                <p>III. die <placeName key="oedenburg" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Ödenburger</placeName> Superintendenz besteht
+                <p>III. die <rs type="place" subtype="place" key="oedenburg" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Ödenburger</rs> Superintendenz besteht
                     <lb/>1. aus dem Ober-Ödenburger Seniorate mit 8 Muttergemeinden, 3
                     Filialgemeinden, im Ganzen mit 8.228 Seelen<lb/>2. aus dem Unter-Ödenburger
                     Seniorate mit 9 Muttergemeinden, 6 Filialen, im Ganzen mit 10.525 Seelen
-                    <lb/>Beide Seniorate liegen im <placeName key="komitat-oedenburg" ref="#place_6fed93d48adcd2d91703c14525ce72f3">Ödenburger
-                        Comitate</placeName>.<lb/>3. aus dem Ober-Eisenburger Seniorate, welches 12
+                    <lb/>Beide Seniorate liegen im <rs type="place" subtype="place" key="komitat-oedenburg" ref="#place_6fed93d48adcd2d91703c14525ce72f3">Ödenburger
+                        Comitate</rs>.<lb/>3. aus dem Ober-Eisenburger Seniorate, welches 12
                     Muttergemeinden, 29 Filialgemeinden hat, im Ganzen mit 26.754 Seelen<lb/>4. aus
                     dem Mittel-Eisenburger Seniorate, welches 12 Muttergemeinden, 6 Filialen hat, im
-                    Ganzen mit 20.918 Seelen<lb/>Diese zwei Seniorate liegen ganz im <placeName key="komitat-eisenburg" ref="#place_a35d236f4c6a5b4c51f02561ac818b03">Eisenburger Comitate</placeName>.<lb/>5. aus dem
+                    Ganzen mit 20.918 Seelen<lb/>Diese zwei Seniorate liegen ganz im <rs type="place" subtype="place" key="komitat-eisenburg" ref="#place_a35d236f4c6a5b4c51f02561ac818b03">Eisenburger Comitate</rs>.<lb/>5. aus dem
                     Komonosaljer Seniorate mit 11 Muttergemeinden, 13 Filialen im Ganzen mit 13.411
                     Seelen<lb/>Dieses Seniorat liegt mit Ausnahme der beiden Muttergemeinden
-                        <placeName ref="#place_27a085236c0fb9ed171b458a67f374fe">Zala-Istvand</placeName> und
-                        <placeName ref="#place_7da5c2a0a65eeec35e28b616d13e5e34">Puszta-Szent-Laszlo</placeName>, welche beide im <placeName key="komitat-zala" ref="#place_adb17353f85f8070e245e813866657c4">Zalaer Comitate</placeName> liegen, ganz im <placeName key="komitat-eisenburg" ref="#place_a35d236f4c6a5b4c51f02561ac818b03">Eisenburger Comitate</placeName>.<lb/>6. aus dem
+                        <rs type="place" subtype="place" ref="#place_27a085236c0fb9ed171b458a67f374fe">Zala-Istvand</rs> und
+                        <rs type="place" subtype="place" ref="#place_7da5c2a0a65eeec35e28b616d13e5e34">Puszta-Szent-Laszlo</rs>, welche beide im <rs type="place" subtype="place" key="komitat-zala" ref="#place_adb17353f85f8070e245e813866657c4">Zalaer Comitate</rs> liegen, ganz im <rs type="place" subtype="place" key="komitat-eisenburg" ref="#place_a35d236f4c6a5b4c51f02561ac818b03">Eisenburger Comitate</rs>.<lb/>6. aus dem
                     Weßprimer [Veszprem] Seniorate mit 22 Muttergemeinden, 19 Filialen, im Ganzen
-                    mit 18.890 Seelen<lb/>Dieses Seniorat liegt – mit Ausnahme der im <placeName key="komitat-zala" ref="#place_adb17353f85f8070e245e813866657c4">Zalaer Comitate</placeName> liegenden Gemeinde
-                        <placeName ref="#place_22e2956f90b674df53f19b02441069f6">Galsa</placeName> - ganz im <placeName key="komitat-veszprem" ref="#place_dbf14aded2e7d82cb1897deb40756a3d">Weßprimer Comitate</placeName>.<lb/>7. aus dem Raaber Seniorate mit 15
+                    mit 18.890 Seelen<lb/>Dieses Seniorat liegt – mit Ausnahme der im <rs type="place" subtype="place" key="komitat-zala" ref="#place_adb17353f85f8070e245e813866657c4">Zalaer Comitate</rs> liegenden Gemeinde
+                        <rs type="place" subtype="place" ref="#place_22e2956f90b674df53f19b02441069f6">Galsa</rs> - ganz im <rs type="place" subtype="place" key="komitat-veszprem" ref="#place_dbf14aded2e7d82cb1897deb40756a3d">Weßprimer Comitate</rs>.<lb/>7. aus dem Raaber Seniorate mit 15
                     Muttergemeinden und einigen Filialen, im Ganzen mit 11.060 Seelen<lb/>Dieses
-                    Seniorat liegt, mit Ausnahme der zum <placeName key="komitat-wieselburg" ref="#place_6016afaa156d07d60efecd23921fa2b0">Wieselburger Comitate</placeName> gehörigen Gemeinde
-                        <placeName ref="#place_ae23cc0f098e5a59366bcc347425dd4d">Leiben</placeName>, im <placeName key="komitat-raab" ref="#place_6dba42930cb6eb3e04f12b7a141a4d7a">Raaber
-                        Comitate</placeName>.<lb/>8. aus dem Zalaer Seniorate mit 6 Muttergemeinden,
+                    Seniorat liegt, mit Ausnahme der zum <rs type="place" subtype="place" key="komitat-wieselburg" ref="#place_6016afaa156d07d60efecd23921fa2b0">Wieselburger Comitate</rs> gehörigen Gemeinde
+                        <rs type="place" subtype="place" ref="#place_ae23cc0f098e5a59366bcc347425dd4d">Leiben</rs>, im <rs type="place" subtype="place" key="komitat-raab" ref="#place_6dba42930cb6eb3e04f12b7a141a4d7a">Raaber
+                        Comitate</rs>.<lb/>8. aus dem Zalaer Seniorate mit 6 Muttergemeinden,
                     8 Filialen, im Ganzen mit 3.866 Seelen<lb/>Zwei Muttergemeinden liegen im
-                        <placeName key="komitat-veszprem" ref="#place_dbf14aded2e7d82cb1897deb40756a3d">Weßprimer Comitate</placeName>, die andern
-                    im <placeName key="komitat-zala" ref="#place_adb17353f85f8070e245e813866657c4">Zalaer Comitate</placeName>.<lb/>9. aus dem
+                        <rs type="place" subtype="place" key="komitat-veszprem" ref="#place_dbf14aded2e7d82cb1897deb40756a3d">Weßprimer Comitate</rs>, die andern
+                    im <rs type="place" subtype="place" key="komitat-zala" ref="#place_adb17353f85f8070e245e813866657c4">Zalaer Comitate</rs>.<lb/>9. aus dem
                     Schimegher [Sümeg] Seniorate mit 8 Muttergemeinden, 7 Filialen, im Ganzen mit
-                    8.007 Seelen<lb/>Mit Ausnahme der zum <placeName key="komitat-zala" ref="#place_adb17353f85f8070e245e813866657c4">Zalaer
-                        Comitate</placeName> gehörigen Gemeinde <placeName ref="#place_9112d8387c199cb872c4a1121c93f7fa">Szepetnek</placeName>
-                    liegen sämmtliche Gemeinden im <placeName key="komitat-suemeg" ref="#place_0ba55a743d1dac6de42ef57adf695bc7">Schimegher
-                        Comitate</placeName>. Die Gemeinde <placeName ref="#place_ab9a4b034bf2ad2b035435fd5326c9b4">Legrad</placeName> hat früher
-                    zum <placeName key="komitat-zala" ref="#place_adb17353f85f8070e245e813866657c4">Zalaer Comitate</placeName> gehört; heute
+                    8.007 Seelen<lb/>Mit Ausnahme der zum <rs type="place" subtype="place" key="komitat-zala" ref="#place_adb17353f85f8070e245e813866657c4">Zalaer
+                        Comitate</rs> gehörigen Gemeinde <rs type="place" subtype="place" ref="#place_9112d8387c199cb872c4a1121c93f7fa">Szepetnek</rs>
+                    liegen sämmtliche Gemeinden im <rs type="place" subtype="place" key="komitat-suemeg" ref="#place_0ba55a743d1dac6de42ef57adf695bc7">Schimegher
+                        Comitate</rs>. Die Gemeinde <rs type="place" subtype="place" ref="#place_ab9a4b034bf2ad2b035435fd5326c9b4">Legrad</rs> hat früher
+                    zum <rs type="place" subtype="place" key="komitat-zala" ref="#place_adb17353f85f8070e245e813866657c4">Zalaer Comitate</rs> gehört; heute
                     gehört dieselbe – nach pag. 23 des Schematismus pro 1859 – zu <hi rend="ul">
-                        <placeName ref="#place_e79f778b81d26bce192c8787475b10a3">Ervatien</placeName>
+                        <rs type="place" subtype="place" ref="#place_e79f778b81d26bce192c8787475b10a3">Ervatien</rs>
                     </hi>.<lb/>10. aus dem
                     Tolna-Baranya-Schimegher Seniorat mit 31 Muttergemeinden, 35 Filialen, im Ganzen
                     mit 43.872 Seelen<lb/>In den <hi rend="ul">drei</hi> Comitaten gleichen Namens.
@@ -125,27 +124,27 @@
                     1 Filiale, zusammen mit 2.340 Seelen<lb/>13. aus dem Stadt-Seniorate Rust mit
                     600 Seelen<lb/>14. aus dem Stadt-Seniorate Ödenburg mit 7.586 Seelen <lb/>Diese
                     Superintendenz hat 142 Muttergemeinden mit 186.901 Seelen. </p>
-                <p>Alle Gemeinden liegen im <placeName key="oedenburg" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Ödenburger</placeName>
-                    Verwaltungsgebiete, mit Ausnahme der Gemeinde <placeName ref="#place_ab9a4b034bf2ad2b035435fd5326c9b4">Legrad</placeName>,
-                    welche jetzt zu <region key="kroatien" ref="#place_46ef149805b1b370596a83886b1e010e">Croatien</region> gehört. </p>
-                <p>IV. die <placeName key="eperies" ref="#place_e5853e90ec28ed86c205d8d6502aa3a9">Eperieser</placeName> Superintendenz besteht
+                <p>Alle Gemeinden liegen im <rs type="place" subtype="place" key="oedenburg" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Ödenburger</rs>
+                    Verwaltungsgebiete, mit Ausnahme der Gemeinde <rs type="place" subtype="place" ref="#place_ab9a4b034bf2ad2b035435fd5326c9b4">Legrad</rs>,
+                    welche jetzt zu <rs type="place" subtype="region" key="kroatien" ref="#place_46ef149805b1b370596a83886b1e010e">Croatien</rs> gehört. </p>
+                <p>IV. die <rs type="place" subtype="place" key="eperies" ref="#place_e5853e90ec28ed86c205d8d6502aa3a9">Eperieser</rs> Superintendenz besteht
                     <lb/>1. aus dem Seniorat der 6 Freistädte mit 12 Muttergemeinden und 7
-                    Filialgemeinden – in den Comitaten <placeName key="komitat-saros" ref="#place_e309aff41e5a38dbe2dde4aaa8886474">Saròs</placeName>, <placeName key="komitat-abauj-torna" ref="#place_d9cce97369f9d1f102ce3f121b895b6e">Abauj-Torna</placeName> und <placeName key="komitat-zips" ref="#place_8726daccee33997f29c2bb8b4908ff3e">Zips</placeName>
+                    Filialgemeinden – in den Comitaten <rs type="place" subtype="place" key="komitat-saros" ref="#place_e309aff41e5a38dbe2dde4aaa8886474">Saròs</rs>, <rs type="place" subtype="place" key="komitat-abauj-torna" ref="#place_d9cce97369f9d1f102ce3f121b895b6e">Abauj-Torna</rs> und <rs type="place" subtype="place" key="komitat-zips" ref="#place_8726daccee33997f29c2bb8b4908ff3e">Zips</rs>
                     – mit 10.915 Seelen<lb/>2. aus dem 13-Städter Seniorat mit 15 Muttergemeinden, 2
-                    Filialen – im <placeName key="komitat-zips" ref="#place_8726daccee33997f29c2bb8b4908ff3e">Zipser Comitate</placeName> – mit
+                    Filialen – im <rs type="place" subtype="place" key="komitat-zips" ref="#place_8726daccee33997f29c2bb8b4908ff3e">Zipser Comitate</rs> – mit
                     13.405 Seelen<lb/>3. aus dem Seniorat der 7 Bergstädte mit 7 Muttergemeinden
-                    (Filialen sind im Schematismus pro 1857 nicht angegeben) im <placeName key="komitat-zips" ref="#place_8726daccee33997f29c2bb8b4908ff3e">Zipser Comitate</placeName> mit 9.070 Seelen<lb/>4. aus
-                    dem Subcarpatischen Seniorat mit 7 Muttergemeinden, 14 Filialen – im <placeName key="komitat-zips" ref="#place_8726daccee33997f29c2bb8b4908ff3e">Zipser Comitate</placeName> – mit 10.690 Seelen<lb/>5.
-                    aus dem Gömörer Seniorate mit 40 Muttergemeinden, 49 Filialen – im <placeName key="komitat-goemoer" ref="#place_c408c67642c93115e5166b9ed2fc17b7">Gömörer Comitat</placeName> – mit 43.505 Seelen
+                    (Filialen sind im Schematismus pro 1857 nicht angegeben) im <rs type="place" subtype="place" key="komitat-zips" ref="#place_8726daccee33997f29c2bb8b4908ff3e">Zipser Comitate</rs> mit 9.070 Seelen<lb/>4. aus
+                    dem Subcarpatischen Seniorat mit 7 Muttergemeinden, 14 Filialen – im <rs type="place" subtype="place" key="komitat-zips" ref="#place_8726daccee33997f29c2bb8b4908ff3e">Zipser Comitate</rs> – mit 10.690 Seelen<lb/>5.
+                    aus dem Gömörer Seniorate mit 40 Muttergemeinden, 49 Filialen – im <rs type="place" subtype="place" key="komitat-goemoer" ref="#place_c408c67642c93115e5166b9ed2fc17b7">Gömörer Comitat</rs> – mit 43.505 Seelen
                     <lb/>6. aus dem Klein-Honter Seniorate mit 15 Muttergemeinden, 13 Filialen – im
-                        <placeName key="komitat-goemoer" ref="#place_c408c67642c93115e5166b9ed2fc17b7">Gömörer Comitat</placeName> – mit 18.488
+                        <rs type="place" subtype="place" key="komitat-goemoer" ref="#place_c408c67642c93115e5166b9ed2fc17b7">Gömörer Comitat</rs> – mit 18.488
                     Seelen<lb/>7. aus dem Sáros-Zempliner Seniorate mit 19 Muttergemeinden, 29
-                    Filialen – in den Comitaten <placeName key="komitat-saros" ref="#place_e309aff41e5a38dbe2dde4aaa8886474">Sáros</placeName>,
-                        <placeName key="komitat-abauj-torna" ref="#place_d9cce97369f9d1f102ce3f121b895b6e">Abauj-Torna</placeName>, <placeName key="komitat-semplin" ref="#place_ebc37f7e16fe5ad58569db15cf4c0a03">Zemplin</placeName> und <placeName key="komitat-bereg-ugocsa" ref="#place_5a27103c19f4de2dc444d83bff6e80df">Beregh-Usocsa</placeName> – im Ganzen mit 18.046
+                    Filialen – in den Comitaten <rs type="place" subtype="place" key="komitat-saros" ref="#place_e309aff41e5a38dbe2dde4aaa8886474">Sáros</rs>,
+                        <rs type="place" subtype="place" key="komitat-abauj-torna" ref="#place_d9cce97369f9d1f102ce3f121b895b6e">Abauj-Torna</rs>, <rs type="place" subtype="place" key="komitat-semplin" ref="#place_ebc37f7e16fe5ad58569db15cf4c0a03">Zemplin</rs> und <rs type="place" subtype="place" key="komitat-bereg-ugocsa" ref="#place_5a27103c19f4de2dc444d83bff6e80df">Beregh-Usocsa</rs> – im Ganzen mit 18.046
                     Seelen<lb/>Diese Superintendenz hat in 115 Muttergemeinden zusammen 124.119
                     Seelen.</p>
-                <p>Alle diese Gemeinden liegen <hi rend="ul">ohne Ausnahme</hi> im <placeName key="kaschau" ref="#place_22a2f1f624c6b325d7a65ca6825fa9c0">Kaschauer</placeName> Verwaltungsgebiete.</p>
-                <p>V. die <placeName key="szarvas" ref="#place_d7f804208c8417bfc76a3b058c98a5f2">Szarvaser</placeName> Superintendenz besteht
+                <p>Alle diese Gemeinden liegen <hi rend="ul">ohne Ausnahme</hi> im <rs type="place" subtype="place" key="kaschau" ref="#place_22a2f1f624c6b325d7a65ca6825fa9c0">Kaschauer</rs> Verwaltungsgebiete.</p>
+                <p>V. die <rs type="place" subtype="place" key="szarvas" ref="#place_d7f804208c8417bfc76a3b058c98a5f2">Szarvaser</rs> Superintendenz besteht
                     <lb/>1. aus dem Békéser Seniorate mit 22 Muttergemeinden, 14 Filialen (nach dem
                     Schematismus pro 1857), im Ganzen mit 78.517 Seelen<lb/>2. aus dem Hegyaljáer
                     Seniorate mit 12 Muttergemeinden, 4 Filialen (nach dem Schematismus pro 1857),
@@ -153,50 +152,50 @@
                     Muttergemeinden zusammen 100.674 Seelen.</p>
                 <p>Von den Gemeinden dieser Superintendenz liegen<lb/>a. aus dem Bekeser Seniorate
                     18 Muttergemeinden, zusammen mit 76.247 Seelen,<lb/>b. aus dem Hegyaljáer
-                    Seniorate, die vier Muttergemeinden in a. <placeName ref="#place_4030f3c839678735b726ea6e5cfbf376">Nagy-Bánya</placeName> und
-                    b. <placeName ref="#place_3e1987d46662599857b51acc60258a85">Nagy-Károly</placeName> (im <placeName key="komitat-szatmar" ref="#place_bc75499a4c6e541cfb7f0506a5cd7823">Szathmaner</placeName> [Szatmar] Comitate) c. <placeName key="grosswardein" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Gr[oß]Wardein</placeName> im <placeName key="komitat-bihar" ref="#place_a928cac493a2c34f575d4483bbc3ff21">Süd-Biharer
-                        Comitate</placeName> und d. <placeName ref="#place_30bb7a1b7d81f2ec9c01a647ff7f42ee">Nyiregyháza</placeName> im <placeName key="komitat-szabolcs" ref="#place_49d11e77b5746ad9c384998aceb9616b">Szaboltscher Comitate</placeName>, mit der
+                    Seniorate, die vier Muttergemeinden in a. <rs type="place" subtype="place" ref="#place_4030f3c839678735b726ea6e5cfbf376">Nagy-Bánya</rs> und
+                    b. <rs type="place" subtype="place" ref="#place_3e1987d46662599857b51acc60258a85">Nagy-Károly</rs> (im <rs type="place" subtype="place" key="komitat-szatmar" ref="#place_bc75499a4c6e541cfb7f0506a5cd7823">Szathmaner</rs> [Szatmar] Comitate) c. <rs type="place" subtype="place" key="grosswardein" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Gr[oß]Wardein</rs> im <rs type="place" subtype="place" key="komitat-bihar" ref="#place_a928cac493a2c34f575d4483bbc3ff21">Süd-Biharer
+                        Comitate</rs> und d. <rs type="place" subtype="place" ref="#place_30bb7a1b7d81f2ec9c01a647ff7f42ee">Nyiregyháza</rs> im <rs type="place" subtype="place" key="komitat-szabolcs" ref="#place_49d11e77b5746ad9c384998aceb9616b">Szaboltscher Comitate</rs>, mit der
                     Gesammtsumme von 13.793 Seelen im <hi rend="ul">
-                        <placeName key="grosswardein" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Großwardeiner</placeName> Verwaltungsgebiete</hi>
+                        <rs type="place" subtype="place" key="grosswardein" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Großwardeiner</rs> Verwaltungsgebiete</hi>
                     <lb/>Es besteht mithin
-                    die Anzahl der Evangelischen A.C. nach den Angaben des <persName key="toperczer-johann-ludwig">Topertzer</persName> und <persName key="komaromy-josef">Komáromy</persName> in ihren Schematismen pro 1857 – im
-                        <placeName key="grosswardein" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Großwardeiner</placeName> Verwaltungsgebiete
+                    die Anzahl der Evangelischen A.C. nach den Angaben des <rs type="person" ref="toperczer-johann-ludwig" key="toperczer-johann-ludwig">Topertzer</rs> und <rs type="person" ref="komaromy-josef" key="komaromy-josef">Komáromy</rs> in ihren Schematismen pro 1857 – im
+                        <rs type="place" subtype="place" key="grosswardein" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Großwardeiner</rs> Verwaltungsgebiete
                     90.040 Seelen. Nach der Angabe im Staatshandbuch, 4. Theil, Seite 323 pro 1858
                     betrüge sie blos 87.915 Seelen. </p>
                 <p>In der <hi rend="ul">
-                        <region key="woiwodschaft-serbien" ref="#place_c1a76f350bcfa4d0b1f71fc95e9a882b">Wojwodschaft
-                            Serbien</region>
+                        <rs type="place" subtype="region" key="woiwodschaft-serbien" ref="#place_c1a76f350bcfa4d0b1f71fc95e9a882b">Wojwodschaft
+                            Serbien</rs>
                     </hi> liegt blos die zum Békéser Seniorat gehörige
-                    Muttergemeinde <placeName ref="#place_0763839cac3002658727946bc2c995e3">Nagy-Szent-Miklos</placeName> mit 315 Seelen.</p>
+                    Muttergemeinde <rs type="place" subtype="place" ref="#place_0763839cac3002658727946bc2c995e3">Nagy-Szent-Miklos</rs> mit 315 Seelen.</p>
                 <p>
-                    <hi rend="ul">Im <placeName key="ofen" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofner</placeName>
+                    <hi rend="ul">Im <rs type="place" subtype="place" key="ofen" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofner</rs>
                     </hi> Verwaltungsgebiet
                     liegen<lb/>a. aus dem Békéser Seniorate die Gemeinden von Tisza-Földvár
-                        [<placeName ref="#place_63ce32685025c9358304dd326342473a">Tiszaföldvár</placeName>], <placeName ref="#place_1298c1018eaa420942d33c303446bac4">Szentes</placeName> und
-                    Hold-Mezö-Vásárhely [<placeName key="hodmezovasarhely" ref="#place_4fd98a6ed688372439ecccac0e9c278d">Hódmezővásárhely</placeName>] mit 1.955 Seelen.<lb/>b. aus dem Hegyaljáer
-                    Seniorate die Gemeinden <placeName ref="#place_dda111d5c3ab1e0011df268752c7271e">Arnoth</placeName>,
-                        <placeName ref="#place_779f9e7ebda7335db3bd8c038e45c8f3">Kaza</placeName> und <placeName key="miskolc" ref="#place_af35ec026fddf9c8c4ecda002507bd0e">Miskolcz</placeName> mit 5.346 Seelen. </p>
-                <p>Im <placeName key="kaschau" ref="#place_22a2f1f624c6b325d7a65ca6825fa9c0">Kaschauer</placeName> Verwaltungsgebiete liegen aus
-                    dem Hegyaljáer Seniorate die Gemeinden <placeName ref="#place_b44cffb6171fac280d5bfae1a9319107">Fancsal</placeName>,
-                        <placeName ref="#place_fc40f824386c7f5f28f22df4c6be16b4">Szánto</placeName>, <placeName ref="#place_dd2e77b38f042b1e93b1aae8c230209e">Vecse</placeName> (im <placeName key="komitat-abauj-torna" ref="#place_d9cce97369f9d1f102ce3f121b895b6e">Abaujer Comitate</placeName>),
-                        <placeName ref="#place_0129ceef338f55a3be7854de8842a8ef">Tállya</placeName> und Tokay [<placeName ref="#place_f1979ad82d479d48cd48e040440fb38e">Tokaj</placeName>] im
-                        <placeName key="komitat-semplin" ref="#place_ebc37f7e16fe5ad58569db15cf4c0a03">Zempliner Comitate</placeName>, zusammen
+                        [<rs type="place" subtype="place" ref="#place_63ce32685025c9358304dd326342473a">Tiszaföldvár</rs>], <rs type="place" subtype="place" ref="#place_1298c1018eaa420942d33c303446bac4">Szentes</rs> und
+                    Hold-Mezö-Vásárhely [<rs type="place" subtype="place" key="hodmezovasarhely" ref="#place_4fd98a6ed688372439ecccac0e9c278d">Hódmezővásárhely</rs>] mit 1.955 Seelen.<lb/>b. aus dem Hegyaljáer
+                    Seniorate die Gemeinden <rs type="place" subtype="place" ref="#place_dda111d5c3ab1e0011df268752c7271e">Arnoth</rs>,
+                        <rs type="place" subtype="place" ref="#place_779f9e7ebda7335db3bd8c038e45c8f3">Kaza</rs> und <rs type="place" subtype="place" key="miskolc" ref="#place_af35ec026fddf9c8c4ecda002507bd0e">Miskolcz</rs> mit 5.346 Seelen. </p>
+                <p>Im <rs type="place" subtype="place" key="kaschau" ref="#place_22a2f1f624c6b325d7a65ca6825fa9c0">Kaschauer</rs> Verwaltungsgebiete liegen aus
+                    dem Hegyaljáer Seniorate die Gemeinden <rs type="place" subtype="place" ref="#place_b44cffb6171fac280d5bfae1a9319107">Fancsal</rs>,
+                        <rs type="place" subtype="place" ref="#place_fc40f824386c7f5f28f22df4c6be16b4">Szánto</rs>, <rs type="place" subtype="place" ref="#place_dd2e77b38f042b1e93b1aae8c230209e">Vecse</rs> (im <rs type="place" subtype="place" key="komitat-abauj-torna" ref="#place_d9cce97369f9d1f102ce3f121b895b6e">Abaujer Comitate</rs>),
+                        <rs type="place" subtype="place" ref="#place_0129ceef338f55a3be7854de8842a8ef">Tállya</rs> und Tokay [<rs type="place" subtype="place" ref="#place_f1979ad82d479d48cd48e040440fb38e">Tokaj</rs>] im
+                        <rs type="place" subtype="place" key="komitat-semplin" ref="#place_ebc37f7e16fe5ad58569db15cf4c0a03">Zempliner Comitate</rs>, zusammen
                     mit 2.949 Seelen.</p>
                 <p>[?] das Sáros-Zempliner Seniorat zählt Gemeinden in denselben Comitaten; es
                     dürften daher diese Gemeinden in Folge des § XXVIII des Patentsentwurfes
-                    demselben Seniorate der <placeName key="eperies" ref="#place_e5853e90ec28ed86c205d8d6502aa3a9">Eperieser</placeName>
-                    Superintendenz zufallen, während <placeName key="miskolc" ref="#place_af35ec026fddf9c8c4ecda002507bd0e">Miskolcz</placeName>,
-                        <placeName ref="#place_779f9e7ebda7335db3bd8c038e45c8f3">Kaza</placeName> und <placeName ref="#place_dda111d5c3ab1e0011df268752c7271e">Arnoth</placeName> mit dem Pester
+                    demselben Seniorate der <rs type="place" subtype="place" key="eperies" ref="#place_e5853e90ec28ed86c205d8d6502aa3a9">Eperieser</rs>
+                    Superintendenz zufallen, während <rs type="place" subtype="place" key="miskolc" ref="#place_af35ec026fddf9c8c4ecda002507bd0e">Miskolcz</rs>,
+                        <rs type="place" subtype="place" ref="#place_779f9e7ebda7335db3bd8c038e45c8f3">Kaza</rs> und <rs type="place" subtype="place" ref="#place_dda111d5c3ab1e0011df268752c7271e">Arnoth</rs> mit dem Pester
                     Comitatsseniorate sich vereinigen könnten.</p>
-                <p>VI. Die <placeName key="vrbas" ref="#place_0501e2c4b485250398d1888c0183d808">Neu-Verbaßer</placeName> Superintendenz besteht
+                <p>VI. Die <rs type="place" subtype="place" key="vrbas" ref="#place_0501e2c4b485250398d1888c0183d808">Neu-Verbaßer</rs> Superintendenz besteht
                     <lb/>a. aus dem Bács-Syrmier Seniorate mit 25 Muttergemeinden, 22 Filialen, mit
                     52.244 Seelen<lb/>b. aus dem Banater Seniorate mit 17 Muttergemeinden, 14
                     Filialen, mit 22.507 Seelen<lb/>zusammen 42 Muttergemeinden, 74.751 Seelen
-                    <lb/>Diese Superintendenz liegt <hi rend="ul">ohne Ausnahme</hi> in der <region key="woiwodschaft-serbien" ref="#place_c1a76f350bcfa4d0b1f71fc95e9a882b">Woiwodschaft Serbien</region> nebst dem <region key="temescher-banat" ref="#place_67c8655646f02446cc1e4ecffd769f79">Temescher Banate</region> und der Militairgränze.
+                    <lb/>Diese Superintendenz liegt <hi rend="ul">ohne Ausnahme</hi> in der <rs type="place" subtype="region" key="woiwodschaft-serbien" ref="#place_c1a76f350bcfa4d0b1f71fc95e9a882b">Woiwodschaft Serbien</rs> nebst dem <rs type="place" subtype="region" key="temescher-banat" ref="#place_67c8655646f02446cc1e4ecffd769f79">Temescher Banate</rs> und der Militairgränze.
                     Nähere Angaben lassen sich <hi rend="ul">mit Sicherheit</hi> nicht machen, weil
                     zu diesem Zwecke weder der Schematismus des Komáromy noch das "Handbuch der
                     Woiwodschaft Serbien etc. Temesvár 1855" vollkommen genügen. </p>
-                <p>&lt;<hi rend="ul">Anmerkung</hi>: In der preußischen Provinz <region key="westfalen" ref="#place_3b04ac095eb521f1db03d6ba76f73aeb">Westphalen</region> (welche im Jahr 1846 eine Bevölkerung
+                <p>&lt;<hi rend="ul">Anmerkung</hi>: In der preußischen Provinz <rs type="place" subtype="region" key="westfalen" ref="#place_3b04ac095eb521f1db03d6ba76f73aeb">Westphalen</rs> (welche im Jahr 1846 eine Bevölkerung
                     von 622.026 Evangelischen hatte) fungiren <hi rend="ul">ein
                         Generalsuperintendent</hi> und unter diesem 19 Superintendenten.<lb/>In der
                     preußischen Rheinprovinz (welche Ende 1846 eine Bevölkerung von 658.874
@@ -207,7 +206,7 @@
                 <p/>
                 <p>Zu § XXV. betreffend die Eintheilung der Superintendenzen </p>
                 <p>B. für die Evangelischen <hi rend="ul">Helvetischer</hi> Confession</p>
-                <p>I. die <placeName key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesther</placeName> Superintendenz besteht<lb/>1.
+                <p>I. die <rs type="place" subtype="place" key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesther</rs> Superintendenz besteht<lb/>1.
                     aus dem Kecskeméter Seniorat mit 17 Muttergemeinden, 40 Filialen, im Ganzen mit
                     68.080 Seelen<lb/>2. aus dem Pester Seniorate mit 25 Muttergemeinden, 50
                     Filialen, mit 28.775 Seelen<lb/>3. aus dem Solter Seniorate mit 24
@@ -217,32 +216,32 @@
                     aus dem Seniorate von Heves und Groß-Rumanien mit 24 Muttergemeinden, 8
                     Filialen, im Ganzen mit 52.077 Seelen<lb/>Diese Superintendenz hat demnach in
                     150 Muttergemeinden 260.484 Seelen.</p>
-                <p>Sämmtliche Gemeinden liegen im <placeName key="ofen" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofner</placeName>
-                    Verwaltungsgebiete, mit Ausnahme<lb/>a. von <placeName ref="#place_0e07a503e05ebbbf8c0a5f96ab662c6d">Kosd</placeName> im
-                    Pester Seniorate mit 648 Seelen, welches im <placeName key="komitat-neograd" ref="#place_07198ac9f90b46b7d3930924305a26af">Neograder Comitate</placeName>, mithin im <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</placeName> Gebiete liegt.<lb/>b. von <placeName key="boeny" ref="#place_7da39ad5df1a8d518bad054361c5c642">Böny</placeName>, <placeName ref="#place_db261a80b9b3ec377502a014ab0f4eef">Raab</placeName> und seiner Filiale Szabadtely
-                        [<placeName ref="#place_1249a6514eba9e67d39ede722efa495f">Szombathely</placeName>] – zusammen mit 1.291 Seelen –, welche
-                    im <placeName key="komitat-raab" ref="#place_6dba42930cb6eb3e04f12b7a141a4d7a">Raaber Comitate</placeName> liegen, also zum
-                        <placeName key="oedenburg" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Ödenburger</placeName> Verwaltungsgebiete
-                    gehören.<lb/>c. von <placeName key="o-szoeny" ref="#place_08ba3260501b82a8b17bff269e687117">O-Szöny</placeName> mit 974
-                    Seelen, welches im <placeName key="komitat-komorn" ref="#place_eb24edc0f0f69c0dfb05d48bf2f2442e">Komorner Comitate</placeName>
-                    liegt, also zum <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</placeName> Gebiete
-                    gehört, endlich<lb/>d. von <placeName ref="#place_b06adcf24451a98ad15f1aab00d01b1a">Déva-Vanya</placeName> im Seniorate von
-                    Heves und Gr[oß]rumänien mit 5.916 Seelen, welches zum <placeName key="komitat-bekes" ref="#place_782f411382b2645c599fd63efd9cb41e">Békéser Comitate</placeName>, also zum <placeName key="grosswardein" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Großwardeiner</placeName> Gebiete gehört. </p>
-                <p>II. Die <placeName key="komorn" ref="#place_e932bc49bfc0edd57c094127e87959aa">Komorner</placeName> Superintendenz besteht
+                <p>Sämmtliche Gemeinden liegen im <rs type="place" subtype="place" key="ofen" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofner</rs>
+                    Verwaltungsgebiete, mit Ausnahme<lb/>a. von <rs type="place" subtype="place" ref="#place_0e07a503e05ebbbf8c0a5f96ab662c6d">Kosd</rs> im
+                    Pester Seniorate mit 648 Seelen, welches im <rs type="place" subtype="place" key="komitat-neograd" ref="#place_07198ac9f90b46b7d3930924305a26af">Neograder Comitate</rs>, mithin im <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</rs> Gebiete liegt.<lb/>b. von <rs type="place" subtype="place" key="boeny" ref="#place_7da39ad5df1a8d518bad054361c5c642">Böny</rs>, <rs type="place" subtype="place" ref="#place_db261a80b9b3ec377502a014ab0f4eef">Raab</rs> und seiner Filiale Szabadtely
+                        [<rs type="place" subtype="place" ref="#place_1249a6514eba9e67d39ede722efa495f">Szombathely</rs>] – zusammen mit 1.291 Seelen –, welche
+                    im <rs type="place" subtype="place" key="komitat-raab" ref="#place_6dba42930cb6eb3e04f12b7a141a4d7a">Raaber Comitate</rs> liegen, also zum
+                        <rs type="place" subtype="place" key="oedenburg" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Ödenburger</rs> Verwaltungsgebiete
+                    gehören.<lb/>c. von <rs type="place" subtype="place" key="o-szoeny" ref="#place_08ba3260501b82a8b17bff269e687117">O-Szöny</rs> mit 974
+                    Seelen, welches im <rs type="place" subtype="place" key="komitat-komorn" ref="#place_eb24edc0f0f69c0dfb05d48bf2f2442e">Komorner Comitate</rs>
+                    liegt, also zum <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</rs> Gebiete
+                    gehört, endlich<lb/>d. von <rs type="place" subtype="place" ref="#place_b06adcf24451a98ad15f1aab00d01b1a">Déva-Vanya</rs> im Seniorate von
+                    Heves und Gr[oß]rumänien mit 5.916 Seelen, welches zum <rs type="place" subtype="place" key="komitat-bekes" ref="#place_782f411382b2645c599fd63efd9cb41e">Békéser Comitate</rs>, also zum <rs type="place" subtype="place" key="grosswardein" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Großwardeiner</rs> Gebiete gehört. </p>
+                <p>II. Die <rs type="place" subtype="place" key="komorn" ref="#place_e932bc49bfc0edd57c094127e87959aa">Komorner</rs> Superintendenz besteht
                     <lb/>1. aus dem Barser Seniorate mit 27 Muttergemeinden, 12 Filialen, mit 17.605
                     Seelen<lb/>2. aus dem Dregelpalanker [Dregely-Palanker] Seniorate mit 8
                     Muttergemeinden, 2 Filialen, im Ganzen mit 6.226 Seelen<lb/>3. aus dem Komorner
                     Seniorate mit 44 Muttergemeinden, 7 Filialen, mit 38.017 Seelen<lb/>Diese
                     Superintendenz zählt in 79 Muttergemeinden und 21 Filialen zusammen 61.848
                     Seelen</p>
-                <p>Sämmtliche Gemeinden liegen im <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburger</placeName>
+                <p>Sämmtliche Gemeinden liegen im <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburger</rs>
                     Verwaltungsgebiete, <hi rend="ul">mit Ausnahme</hi> blos<lb/>der im
                     Dregelpalánker [Dregely-Palanker] Seniorate befindlichen Muttergemeinde Pilis
-                    Marot [<placeName ref="#place_25d0dbce2c9ec41da83ec62327015f36">Pilismarót</placeName>] mit 542 Seelen und ihrer Filiale
-                        <placeName key="doemoes" ref="#place_2b09c1209a73d146e643f9708caef34f">Dömös</placeName> mit 179 Seelen, welche im
-                        <placeName key="komitat-gran" ref="#place_db7a7e086c20482e1ffb90dff7ac5074">Graner Comitate</placeName> liegen, daher zum
-                        <placeName key="ofen" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofner</placeName> Verwaltungsgebiete gehören.</p>
-                <p>III. Die <placeName key="papa" ref="#place_0ac6cd34e2fac333bf0ee3cd06bdcf96">Papaer</placeName> Superintendenz besteht<lb/>1.
+                    Marot [<rs type="place" subtype="place" ref="#place_25d0dbce2c9ec41da83ec62327015f36">Pilismarót</rs>] mit 542 Seelen und ihrer Filiale
+                        <rs type="place" subtype="place" key="doemoes" ref="#place_2b09c1209a73d146e643f9708caef34f">Dömös</rs> mit 179 Seelen, welche im
+                        <rs type="place" subtype="place" key="komitat-gran" ref="#place_db7a7e086c20482e1ffb90dff7ac5074">Graner Comitate</rs> liegen, daher zum
+                        <rs type="place" subtype="place" key="ofen" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofner</rs> Verwaltungsgebiete gehören.</p>
+                <p>III. Die <rs type="place" subtype="place" key="papa" ref="#place_0ac6cd34e2fac333bf0ee3cd06bdcf96">Papaer</rs> Superintendenz besteht<lb/>1.
                     aus dem Mezöfelder Seniorate mit 36 Muttergemeinden, 3 Filialen, mit 30.835
                     Seelen<lb/>2. aus dem Örséger Seniorate mit 12 Muttergemeinden, 3 Filialen, mit
                     12.151 Seelen<lb/>3. aus dem Papáer Seniorate mit 27 Muttergemeinden, 12
@@ -255,29 +254,29 @@
                     Seniorate mit 24 Muttergemeinden, 13 Filialen, mit 31.832 Seelen<lb/>Diese
                     Superintendenz zählt mit ihren 288 Muttergemeinden und ihren 133 Filialen im
                     Ganzen 210.203 Seelen.</p>
-                <p>Diese Gemeinden liegen im <placeName key="oedenburg" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Ödenburger</placeName>
+                <p>Diese Gemeinden liegen im <rs type="place" subtype="place" key="oedenburg" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Ödenburger</rs>
                     Verwaltungsgebiete, jedoch <hi rend="ul">mit folgenden Ausnahmen</hi>,<lb/>a.
                     aus dem Mezöfelder Seniorate liegen die folgenden 17 Gemeinden: M. Alonas [?],
-                        <placeName ref="#place_f4c0c600cb6a4fb5a3cab4ed1c1c8abd">Battyan</placeName>, <placeName ref="#place_cad51f4bb3467333724387b787a5b2bc">Bodajk</placeName>,
-                        <placeName ref="#place_c2c2d1830244756d67cdaa1b1b84353b">Csákterény</placeName>, <placeName key="csoesz" ref="#place_28983d7d6ff00c10e95ece63af202f97">Csösz</placeName>, <placeName ref="#place_d9de3f06a316c22317519272ce8a6915">Egres</placeName>, <placeName key="stuhlweissenburg" ref="#place_adee4fd791b6e88a898b11ec5cdaf1eb">Sz[ékes] Fejervár</placeName>, <placeName key="fuele" ref="#place_a85f31baa24303a7fce0658c22ddca85">Füle</placeName>, <placeName ref="#place_6df449b703bfb1a49f7fa64cc0563e8e">Káloz</placeName>,
-                        <placeName ref="#place_adda55565233fbaf78dd3de460e8a5f0">Keresztes</placeName>, <placeName ref="#place_f661b1d4c96c788c6b7a90de6ca65d88">Kis-Keszi</placeName>,
-                        <placeName ref="#place_96419e669534ec23037b4eeeb622ae72">Ladány</placeName>, <placeName ref="#place_6c52da29a352ffbdb245dc3bbf12cee7">Mór</placeName>,
-                        <placeName ref="#place_b5e5cf3d5d3214e33c8a18ae68ca3ee1">Polgárdi</placeName>, Sz. Mihál [<placeName ref="#place_1480a447ad5445e97b01e6ed8e023003">Szent
-                        Mihály</placeName>], <placeName ref="#place_4f82a84cb0294022d387a4f4bd185bbe">Sopornya</placeName> und
-                        <placeName ref="#place_6b644340af57c2018ef726ff09ad1b3a">Tácz</placeName>, zusammen mit 14.093 Seelen im <placeName key="komitat-stuhlweissenburg" ref="#place_2b57ca4e155b897b9eaa0d98e16dc0d4">Stuhlweißenburger Comitate</placeName>,
-                    mithin <hi rend="ul">im <placeName key="ofen" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofner</placeName>
+                        <rs type="place" subtype="place" ref="#place_f4c0c600cb6a4fb5a3cab4ed1c1c8abd">Battyan</rs>, <rs type="place" subtype="place" ref="#place_cad51f4bb3467333724387b787a5b2bc">Bodajk</rs>,
+                        <rs type="place" subtype="place" ref="#place_c2c2d1830244756d67cdaa1b1b84353b">Csákterény</rs>, <rs type="place" subtype="place" key="csoesz" ref="#place_28983d7d6ff00c10e95ece63af202f97">Csösz</rs>, <rs type="place" subtype="place" ref="#place_d9de3f06a316c22317519272ce8a6915">Egres</rs>, <rs type="place" subtype="place" key="stuhlweissenburg" ref="#place_adee4fd791b6e88a898b11ec5cdaf1eb">Sz[ékes] Fejervár</rs>, <rs type="place" subtype="place" key="fuele" ref="#place_a85f31baa24303a7fce0658c22ddca85">Füle</rs>, <rs type="place" subtype="place" ref="#place_6df449b703bfb1a49f7fa64cc0563e8e">Káloz</rs>,
+                        <rs type="place" subtype="place" ref="#place_adda55565233fbaf78dd3de460e8a5f0">Keresztes</rs>, <rs type="place" subtype="place" ref="#place_f661b1d4c96c788c6b7a90de6ca65d88">Kis-Keszi</rs>,
+                        <rs type="place" subtype="place" ref="#place_96419e669534ec23037b4eeeb622ae72">Ladány</rs>, <rs type="place" subtype="place" ref="#place_6c52da29a352ffbdb245dc3bbf12cee7">Mór</rs>,
+                        <rs type="place" subtype="place" ref="#place_b5e5cf3d5d3214e33c8a18ae68ca3ee1">Polgárdi</rs>, Sz. Mihál [<rs type="place" subtype="place" ref="#place_1480a447ad5445e97b01e6ed8e023003">Szent
+                        Mihály</rs>], <rs type="place" subtype="place" ref="#place_4f82a84cb0294022d387a4f4bd185bbe">Sopornya</rs> und
+                        <rs type="place" subtype="place" ref="#place_6b644340af57c2018ef726ff09ad1b3a">Tácz</rs>, zusammen mit 14.093 Seelen im <rs type="place" subtype="place" key="komitat-stuhlweissenburg" ref="#place_2b57ca4e155b897b9eaa0d98e16dc0d4">Stuhlweißenburger Comitate</rs>,
+                    mithin <hi rend="ul">im <rs type="place" subtype="place" key="ofen" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofner</rs>
                         Verwaltungsgebiete</hi>.<lb/>b. aus dem Veßprimer Seniorate liegen die
-                    folgenden 5 Gemeinden <placeName ref="#place_ac634c014ec212922c6d2e0df2f7833f">Csor</placeName>,
-                    <placeName ref="#place_1e25e494fa2ec5b82efb40f6680b71c9">Csurgo</placeName>, <placeName ref="#place_38956582b2dd025771a36aaf31cf2903">Inota</placeName>,
-                        <placeName ref="#place_8b449eca90693874224fc624ff98b3a6">Iszka</placeName>, <placeName key="szent-gyoergy" ref="#place_3363499a042659c2e139a13d9924fe75">Sz[ent]
-                        György</placeName> und <placeName ref="#place_41322c8a77e88c10b25637b70067851e">Moha</placeName> mit zusammen 2.803 Seelen
-                    im <placeName key="komitat-stuhlweissenburg" ref="#place_2b57ca4e155b897b9eaa0d98e16dc0d4">Stuhlweißenburger
-                        Comitate</placeName>, folglich im <hi rend="ul">
-                        <placeName key="ofen" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofner</placeName> Verwaltungsgebiete</hi>
+                    folgenden 5 Gemeinden <rs type="place" subtype="place" ref="#place_ac634c014ec212922c6d2e0df2f7833f">Csor</rs>,
+                    <rs type="place" subtype="place" ref="#place_1e25e494fa2ec5b82efb40f6680b71c9">Csurgo</rs>, <rs type="place" subtype="place" ref="#place_38956582b2dd025771a36aaf31cf2903">Inota</rs>,
+                        <rs type="place" subtype="place" ref="#place_8b449eca90693874224fc624ff98b3a6">Iszka</rs>, <rs type="place" subtype="place" key="szent-gyoergy" ref="#place_3363499a042659c2e139a13d9924fe75">Sz[ent]
+                        György</rs> und <rs type="place" subtype="place" ref="#place_41322c8a77e88c10b25637b70067851e">Moha</rs> mit zusammen 2.803 Seelen
+                    im <rs type="place" subtype="place" key="komitat-stuhlweissenburg" ref="#place_2b57ca4e155b897b9eaa0d98e16dc0d4">Stuhlweißenburger
+                        Comitate</rs>, folglich im <hi rend="ul">
+                        <rs type="place" subtype="place" key="ofen" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofner</rs> Verwaltungsgebiete</hi>
                     <lb/>c. aus dem Tolnaer Seniorate liegt die Muttergemeinde
-                        <placeName ref="#place_c95cce995ec7158d0a34817229dcc590">Czecze</placeName> mit ihren 3 Filialen, welche zusammen eine
-                    Anzahl von 2.110 Seelen haben, im <placeName key="komitat-stuhlweissenburg" ref="#place_2b57ca4e155b897b9eaa0d98e16dc0d4">Stuhlweißenburger Comitate</placeName>, mithin <hi rend="ul">im <placeName key="ofen" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofner</placeName> Gebiete</hi>.</p>
-                <p>IV. die <placeName key="sarospatak" ref="#place_2de2d8a3097bf8f9e05f9156b669a8dd">Sárospataker</placeName> Superintendenz
+                        <rs type="place" subtype="place" ref="#place_c95cce995ec7158d0a34817229dcc590">Czecze</rs> mit ihren 3 Filialen, welche zusammen eine
+                    Anzahl von 2.110 Seelen haben, im <rs type="place" subtype="place" key="komitat-stuhlweissenburg" ref="#place_2b57ca4e155b897b9eaa0d98e16dc0d4">Stuhlweißenburger Comitate</rs>, mithin <hi rend="ul">im <rs type="place" subtype="place" key="ofen" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofner</rs> Gebiete</hi>.</p>
+                <p>IV. die <rs type="place" subtype="place" key="sarospatak" ref="#place_2de2d8a3097bf8f9e05f9156b669a8dd">Sárospataker</rs> Superintendenz
                     besteht<lb/>1. aus dem Abaujer Seniorate mit 76 Muttergemeinden und 98 Filialen,
                     im Ganzen mit 30.417 Seelen<lb/>2. aus dem Unter-Borsoder Seniorate mit 44
                     Muttergemeinden, 13 Filialen mit 51. 564 Seelen<lb/>3. aus dem Unter-Zempliner
@@ -293,30 +292,30 @@
                     5 Filialen, mit 14.396 Seelen<lb/>Diese Superintendenz hat demnach in 448
                     Muttergemeinden mit 355 Filialen zusammen 262.592 Seelen.</p>
                 <p>Die Gemeinden dieser Superintendenz liegen im <hi rend="ul">
-                        <placeName key="kaschau" ref="#place_22a2f1f624c6b325d7a65ca6825fa9c0">Kaschauer</placeName>
+                        <rs type="place" subtype="place" key="kaschau" ref="#place_22a2f1f624c6b325d7a65ca6825fa9c0">Kaschauer</rs>
                     </hi> Verwaltungsgebiete, mit <hi rend="ul">folgenden Ausnahmen</hi>:<lb/>a. die beiden Borsoder Seniorate
-                    liegen im <placeName key="ofen" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofner</placeName> Verwaltungsgebiete; dieselben
+                    liegen im <rs type="place" subtype="place" key="ofen" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofner</rs> Verwaltungsgebiete; dieselben
                     wurden gleichwohl bei dieser Superintendenz belassen, weil bei den mit Seiner
-                    kaiserlichen Hoheit dem Durchlauchtigsten Herrn <persName key="albrecht-erzherzog">Erzherzog Albrecht</persName>, Generalgouverneur
-                    von Ungarn, und mit dem <persName key="goluchowski-agenor">Minister des
-                        Innern</persName> gepflogenen Berathungen anerkannt wurde, daß es sich auch
-                    in politisch-administrativer Hinsicht empfehlen würde, das <placeName key="komitat-borsod" ref="#place_fef13b51760a81ec3f33e5e41e140084">Borsoder Comitat</placeName> dem <placeName key="kaschau" ref="#place_22a2f1f624c6b325d7a65ca6825fa9c0">Kaschauer</placeName> Gebiete zuzuweisen. Würde dieses Comitat
-                    dem <placeName key="kaschau" ref="#place_22a2f1f624c6b325d7a65ca6825fa9c0">Kaschauer</placeName> Gebiete zugewiesen, so würden
+                    kaiserlichen Hoheit dem Durchlauchtigsten Herrn <rs type="person" ref="albrecht-erzherzog" key="albrecht-erzherzog">Erzherzog Albrecht</rs>, Generalgouverneur
+                    von Ungarn, und mit dem <rs type="person" ref="goluchowski-agenor" key="goluchowski-agenor">Minister des
+                        Innern</rs> gepflogenen Berathungen anerkannt wurde, daß es sich auch
+                    in politisch-administrativer Hinsicht empfehlen würde, das <rs type="place" subtype="place" key="komitat-borsod" ref="#place_fef13b51760a81ec3f33e5e41e140084">Borsoder Comitat</rs> dem <rs type="place" subtype="place" key="kaschau" ref="#place_22a2f1f624c6b325d7a65ca6825fa9c0">Kaschauer</rs> Gebiete zuzuweisen. Würde dieses Comitat
+                    dem <rs type="place" subtype="place" key="kaschau" ref="#place_22a2f1f624c6b325d7a65ca6825fa9c0">Kaschauer</rs> Gebiete zugewiesen, so würden
                     nur die vier Muttergemeinden des Unter-Borsoder Seniorates, [?] Atány,
-                        <placeName ref="#place_1fe08169e8cdb925a2887447c2aba652">Maklar</placeName>, <placeName ref="#place_1ec03612aa375c867de0152b4129188a">Poroszlo</placeName> und
-                        <placeName ref="#place_1506bb1076a34a3c0bb79cb428d2ee2f">Tiszanána</placeName> mit ihren Filialen
-                        <placeName ref="#place_67b7b54f2d1cb68e8ad654afbadf192a">Heves</placeName>, <placeName ref="#place_6f670c686cf3b7c5c9f149fbf21a7918">Tenk</placeName>, <placeName key="szarasboe" ref="#place_7c41f7f4bd69b9164030f99e0e63d961">Szárasbö</placeName>, <placeName ref="#place_8031be87c63bbf9ef9e59fef28eae345">Halász</placeName>,
-                        <placeName key="cserekoez" ref="#place_664837cae9a0918a874bea7ecaff2b9d">Csereköz</placeName> und
-                        <placeName ref="#place_24c87409776f0c35cc5176266b753b28">Eger</placeName> – welche zusammen 7.598 Seelen haben – in Frage
-                    kommen, da sämmtliche genannte Gemeinden im <placeName key="komitat-heves" ref="#place_181c2c20e935ec1a41c425d07283a580">Hevescher Comitate</placeName>, welches zum <placeName key="ofen" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofner</placeName> Gebiete gehört, liegen.<lb/>b. vom Unter-Zempliner
-                    Seniorate gehören die Muttergemeinden Kenyézlö [<placeName key="kenezloe" ref="#place_248e7967396013bd30c4e7b6f7147e87">Kenézlö</placeName>] und Vis [<placeName ref="#place_dcce142665619dae276a07cfcde769f6">Viss</placeName>] – zusammen 394
-                    Seelen – zum <placeName key="komitat-szabolcs" ref="#place_49d11e77b5746ad9c384998aceb9616b">Szabolcser Comitat</placeName>;
-                    die Muttergemeinden <placeName ref="#place_e01de8b628a0425c03689e6bf5ec170d">Báj</placeName>, <placeName ref="#place_d8f34ff2c5505fde2b32e1d72c4f08e8">Csobáj</placeName>,
-                        <placeName ref="#place_03787b89fbd106e95b6b42da952c7e21">Taktakencz</placeName>, Tisza-Ladándy
-                        [<placeName ref="#place_7fef510b175578712a389c9a17e2a272">Tiszaladány</placeName>] und Pthrügy
-                        [<placeName ref="#place_48cea0b63deba132444ae5d9bad3fe09">Prügy</placeName>] – zusammen mit 2.576 Seelen – zum <placeName key="komitat-bihar" ref="#place_a928cac493a2c34f575d4483bbc3ff21">Biharer Comitate</placeName>, alle diese sieben
-                    Gemeinden mithin <hi rend="ul">zum <placeName key="grosswardein" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Großwardeiner</placeName> Verwaltungsgebiete</hi>.</p>
-                <p>V. Die <placeName key="debrezin" ref="#place_ae8effcf53078ebe204e349a55546ca8">Debrecziner</placeName> Superintendenz besteht
+                        <rs type="place" subtype="place" ref="#place_1fe08169e8cdb925a2887447c2aba652">Maklar</rs>, <rs type="place" subtype="place" ref="#place_1ec03612aa375c867de0152b4129188a">Poroszlo</rs> und
+                        <rs type="place" subtype="place" ref="#place_1506bb1076a34a3c0bb79cb428d2ee2f">Tiszanána</rs> mit ihren Filialen
+                        <rs type="place" subtype="place" ref="#place_67b7b54f2d1cb68e8ad654afbadf192a">Heves</rs>, <rs type="place" subtype="place" ref="#place_6f670c686cf3b7c5c9f149fbf21a7918">Tenk</rs>, <rs type="place" subtype="place" key="szarasboe" ref="#place_7c41f7f4bd69b9164030f99e0e63d961">Szárasbö</rs>, <rs type="place" subtype="place" ref="#place_8031be87c63bbf9ef9e59fef28eae345">Halász</rs>,
+                        <rs type="place" subtype="place" key="cserekoez" ref="#place_664837cae9a0918a874bea7ecaff2b9d">Csereköz</rs> und
+                        <rs type="place" subtype="place" ref="#place_24c87409776f0c35cc5176266b753b28">Eger</rs> – welche zusammen 7.598 Seelen haben – in Frage
+                    kommen, da sämmtliche genannte Gemeinden im <rs type="place" subtype="place" key="komitat-heves" ref="#place_181c2c20e935ec1a41c425d07283a580">Hevescher Comitate</rs>, welches zum <rs type="place" subtype="place" key="ofen" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofner</rs> Gebiete gehört, liegen.<lb/>b. vom Unter-Zempliner
+                    Seniorate gehören die Muttergemeinden Kenyézlö [<rs type="place" subtype="place" key="kenezloe" ref="#place_248e7967396013bd30c4e7b6f7147e87">Kenézlö</rs>] und Vis [<rs type="place" subtype="place" ref="#place_dcce142665619dae276a07cfcde769f6">Viss</rs>] – zusammen 394
+                    Seelen – zum <rs type="place" subtype="place" key="komitat-szabolcs" ref="#place_49d11e77b5746ad9c384998aceb9616b">Szabolcser Comitat</rs>;
+                    die Muttergemeinden <rs type="place" subtype="place" ref="#place_e01de8b628a0425c03689e6bf5ec170d">Báj</rs>, <rs type="place" subtype="place" ref="#place_d8f34ff2c5505fde2b32e1d72c4f08e8">Csobáj</rs>,
+                        <rs type="place" subtype="place" ref="#place_03787b89fbd106e95b6b42da952c7e21">Taktakencz</rs>, Tisza-Ladándy
+                        [<rs type="place" subtype="place" ref="#place_7fef510b175578712a389c9a17e2a272">Tiszaladány</rs>] und Pthrügy
+                        [<rs type="place" subtype="place" ref="#place_48cea0b63deba132444ae5d9bad3fe09">Prügy</rs>] – zusammen mit 2.576 Seelen – zum <rs type="place" subtype="place" key="komitat-bihar" ref="#place_a928cac493a2c34f575d4483bbc3ff21">Biharer Comitate</rs>, alle diese sieben
+                    Gemeinden mithin <hi rend="ul">zum <rs type="place" subtype="place" key="grosswardein" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Großwardeiner</rs> Verwaltungsgebiete</hi>.</p>
+                <p>V. Die <rs type="place" subtype="place" key="debrezin" ref="#place_ae8effcf53078ebe204e349a55546ca8">Debrecziner</rs> Superintendenz besteht
                     <lb/>1. aus dem Nagy-Bányaer Seniorate mit 44 Muttergemeinden, 54 Filialen,
                     zusammen mit 19.821 Seelen<lb/>2. aus dem Biharer Seniorat mit 42
                     Muttergemeinden, 29 Filialen, mit 40.634 Seelen<lb/>3. aus dem Debrecziner
@@ -331,56 +330,56 @@
                     41.362 Seelen Diese Superintendenz zählt demnach in 405 Muttergemeinden und 224
                     Filialen zusammen 466.874 Seelen. </p>
                 <p>Sämmtliche Gemeinden dieser Superintendenz liegen ohne die mindeste Ausnahme im
-                        <placeName key="grosswardein" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Gr[oß]wardeiner</placeName>
+                        <rs type="place" subtype="place" key="grosswardein" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Gr[oß]wardeiner</rs>
                     Verwaltungsgebiete. </p>
-                <p>VI. die <placeName key="neu-szivacz" ref="#place_a750fbe4eb4ba5b1ba30aef1de8a67e6">Neu-Sziváczer</placeName> Superintendenz
+                <p>VI. die <rs type="place" subtype="place" key="neu-szivacz" ref="#place_a750fbe4eb4ba5b1ba30aef1de8a67e6">Neu-Sziváczer</rs> Superintendenz
                     besteht<lb/>1. aus dem Unter-Baranyáer Seniorate mit 29 Muttergemeinden, 11
                     Filialen, zusammen mit 36.871 Seelen<lb/>2. aus dem Békés-Banater Seniorate mit
                     27 Muttergemeinden, 21 Filialen, zusammen 136.271 Seelen<lb/>Diese
                     Superintendenz zählt daher in 56 Muttergemeinden und 32 Filialen zusammen
                     173.142 Seelen.</p>
-                <p>Diese Gemeinden liegen in der <region key="woiwodschaft-serbien" ref="#place_c1a76f350bcfa4d0b1f71fc95e9a882b">Wojwodschaft
-                        Serbien</region> nebst dem <region key="temescher-banat" ref="#place_67c8655646f02446cc1e4ecffd769f79">Temescher
-                        Banate</region> und in der Militairgränze, mit folgenden Ausnahmen:<lb/>a.
+                <p>Diese Gemeinden liegen in der <rs type="place" subtype="region" key="woiwodschaft-serbien" ref="#place_c1a76f350bcfa4d0b1f71fc95e9a882b">Wojwodschaft
+                        Serbien</rs> nebst dem <rs type="place" subtype="region" key="temescher-banat" ref="#place_67c8655646f02446cc1e4ecffd769f79">Temescher
+                        Banate</rs> und in der Militairgränze, mit folgenden Ausnahmen:<lb/>a.
                     aus dem Unter-Barnyáer Seniorate liegen die folgenden 13 Muttergemeinden
-                        <placeName ref="#place_b3d390e6920187f2351e65c9f4a6d25c">Babarcz</placeName>, <placeName ref="#place_06dcadb1298b562cab1cc837b77856c3">Béllye</placeName>,
-                        <placeName ref="#place_fcca888218e35003d92a7738d6293699">Csuza</placeName>, <placeName ref="#place_a4bd7ec3969ea9f9a9c60e715b056b88">Darocz</placeName>, Herczegszöllös
-                        [<placeName key="hercegszoelloes" ref="#place_ecbbdf2784c25924fc1a4d1896c4cfb9">Hercegszöllös</placeName>],
-                        <placeName ref="#place_f9d1507f6cd8f1ea7b85abc6278b2cc5">Karancs</placeName>, <placeName key="keoe" ref="#place_aac3469a2870e95fd74050e56a190f6e">Keö</placeName>,
-                        <placeName key="koelked" ref="#place_975d25cff7a3248c28551945c4c6dba7">Kölked</placeName>, <placeName ref="#place_323b0cf42328945e7ee5eb536d54b3ba">Kopács</placeName>,
-                        <placeName ref="#place_40e56c4b0b3a6d46e89eb0e2834e424b">Lasko</placeName>, <placeName ref="#place_8e3c7228415a2a7af7333c365e4b85ea">Mohács</placeName>, Sepse [?] und
-                        <placeName key="voeroesmart" ref="#place_ac6490dad7bc549571df9796c8288907">Vörösmart</placeName> – zusammen mit 11.278
-                    Seelen – im <placeName key="komitat-baranya" ref="#place_af8764c4b7d37536c29879e2a2d7a1db">Baranyáer Comitate</placeName>, <hi rend="ul">
-                        <placeName key="oedenburg" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Ödenburger</placeName>
-                        Verwaltungsgebietes</hi>, wohin auch das der <placeName key="papa" ref="#place_0ac6cd34e2fac333bf0ee3cd06bdcf96">Papaer</placeName> Superintendenz zugewiesene Ober-Baranyáer Seniorat
+                        <rs type="place" subtype="place" ref="#place_b3d390e6920187f2351e65c9f4a6d25c">Babarcz</rs>, <rs type="place" subtype="place" ref="#place_06dcadb1298b562cab1cc837b77856c3">Béllye</rs>,
+                        <rs type="place" subtype="place" ref="#place_fcca888218e35003d92a7738d6293699">Csuza</rs>, <rs type="place" subtype="place" ref="#place_a4bd7ec3969ea9f9a9c60e715b056b88">Darocz</rs>, Herczegszöllös
+                        [<rs type="place" subtype="place" key="hercegszoelloes" ref="#place_ecbbdf2784c25924fc1a4d1896c4cfb9">Hercegszöllös</rs>],
+                        <rs type="place" subtype="place" ref="#place_f9d1507f6cd8f1ea7b85abc6278b2cc5">Karancs</rs>, <rs type="place" subtype="place" key="keoe" ref="#place_aac3469a2870e95fd74050e56a190f6e">Keö</rs>,
+                        <rs type="place" subtype="place" key="koelked" ref="#place_975d25cff7a3248c28551945c4c6dba7">Kölked</rs>, <rs type="place" subtype="place" ref="#place_323b0cf42328945e7ee5eb536d54b3ba">Kopács</rs>,
+                        <rs type="place" subtype="place" ref="#place_40e56c4b0b3a6d46e89eb0e2834e424b">Lasko</rs>, <rs type="place" subtype="place" ref="#place_8e3c7228415a2a7af7333c365e4b85ea">Mohács</rs>, Sepse [?] und
+                        <rs type="place" subtype="place" key="voeroesmart" ref="#place_ac6490dad7bc549571df9796c8288907">Vörösmart</rs> – zusammen mit 11.278
+                    Seelen – im <rs type="place" subtype="place" key="komitat-baranya" ref="#place_af8764c4b7d37536c29879e2a2d7a1db">Baranyáer Comitate</rs>, <hi rend="ul">
+                        <rs type="place" subtype="place" key="oedenburg" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Ödenburger</rs>
+                        Verwaltungsgebietes</hi>, wohin auch das der <rs type="place" subtype="place" key="papa" ref="#place_0ac6cd34e2fac333bf0ee3cd06bdcf96">Papaer</rs> Superintendenz zugewiesene Ober-Baranyáer Seniorat
                     gehört.<lb/>b. aus dem Unter-Baranyáer Seniorate gehören die vier
-                    Muttergemeinden <placeName ref="#place_099de99fbe1a0d26c8803c5674f395b6">Haraszti</placeName>, <placeName ref="#place_3126e3449fd90f91bc2132e2ca7f3425">Korogy</placeName>,
-                        <placeName ref="#place_8da2c2ae6ec1f732cc52f7fe0ec47b44">Rétfalu</placeName> und <placeName ref="#place_5c30cbdb72607cea6904d776290ae92c">Szent-Lászlo</placeName> nebst
-                    ihren Filialen – zusammen mit 4.258 Seelen – nach <region key="slawonien" ref="#place_15f10264a572e8ce0fe253bc889cdbf5">Slavonien</region>, also unter die <hi rend="ul">Statthalterei zu
-                            <placeName ref="#place_a620921af9eef09d01368fb2c1a2fd88">Agram</placeName>
+                    Muttergemeinden <rs type="place" subtype="place" ref="#place_099de99fbe1a0d26c8803c5674f395b6">Haraszti</rs>, <rs type="place" subtype="place" ref="#place_3126e3449fd90f91bc2132e2ca7f3425">Korogy</rs>,
+                        <rs type="place" subtype="place" ref="#place_8da2c2ae6ec1f732cc52f7fe0ec47b44">Rétfalu</rs> und <rs type="place" subtype="place" ref="#place_5c30cbdb72607cea6904d776290ae92c">Szent-Lászlo</rs> nebst
+                    ihren Filialen – zusammen mit 4.258 Seelen – nach <rs type="place" subtype="region" key="slawonien" ref="#place_15f10264a572e8ce0fe253bc889cdbf5">Slavonien</rs>, also unter die <hi rend="ul">Statthalterei zu
+                            <rs type="place" subtype="place" ref="#place_a620921af9eef09d01368fb2c1a2fd88">Agram</rs>
                     </hi>.<lb/>Die für unter a. und b. nicht
-                    genannten Gemeinden liegen in der <region key="woiwodschaft-serbien" ref="#place_c1a76f350bcfa4d0b1f71fc95e9a882b">Wojwodschaft</region> und zählen zusammen 21.335 Seelen.<lb/>c. aus dem
-                    Békés-Banater Seniorate liegen in der <region key="woiwodschaft-serbien" ref="#place_c1a76f350bcfa4d0b1f71fc95e9a882b">Wojwodschaft</region> und Militairgränze die sieben Muttergemeinden
-                        <placeName ref="#place_eeb15203fffff3152130b5fed27e8831">Debelliacsa</placeName>, <placeName ref="#place_b4f729e7cc9023a055dd7c874fdcaae4">Ittebe</placeName>,
-                        <placeName ref="#place_d289145bc638f0fe7bb418f5c7c84075">Klopodia</placeName>, <placeName ref="#place_5e891df2b29b3a258c2e0ee5e8b86d3b">Liebling</placeName>,
-                        <placeName ref="#place_ac4074fb89da1a12eab1e8b55a2c09f8">Rittberg</placeName>, Sz. Kulia [?] und
-                        <placeName ref="#place_a18ca66ccfb03f7718d2284f23256fa8">Temesvár</placeName>, welche mit ihren Filialen zählen zusammen
+                    genannten Gemeinden liegen in der <rs type="place" subtype="region" key="woiwodschaft-serbien" ref="#place_c1a76f350bcfa4d0b1f71fc95e9a882b">Wojwodschaft</rs> und zählen zusammen 21.335 Seelen.<lb/>c. aus dem
+                    Békés-Banater Seniorate liegen in der <rs type="place" subtype="region" key="woiwodschaft-serbien" ref="#place_c1a76f350bcfa4d0b1f71fc95e9a882b">Wojwodschaft</rs> und Militairgränze die sieben Muttergemeinden
+                        <rs type="place" subtype="place" ref="#place_eeb15203fffff3152130b5fed27e8831">Debelliacsa</rs>, <rs type="place" subtype="place" ref="#place_b4f729e7cc9023a055dd7c874fdcaae4">Ittebe</rs>,
+                        <rs type="place" subtype="place" ref="#place_d289145bc638f0fe7bb418f5c7c84075">Klopodia</rs>, <rs type="place" subtype="place" ref="#place_5e891df2b29b3a258c2e0ee5e8b86d3b">Liebling</rs>,
+                        <rs type="place" subtype="place" ref="#place_ac4074fb89da1a12eab1e8b55a2c09f8">Rittberg</rs>, Sz. Kulia [?] und
+                        <rs type="place" subtype="place" ref="#place_a18ca66ccfb03f7718d2284f23256fa8">Temesvár</rs>, welche mit ihren Filialen zählen zusammen
                     9.860 Seelen<lb/>Das ist zusammen 31.195 Seelen.<lb/>d. aus dem Békés-Banater
-                    Seniorate liegen im <placeName key="komitat-csongrad" ref="#place_532894f4403d552a7a80ce83ec5a55da">Csongrader
-                        Comitate</placeName>, also im <hi rend="ul">
-                        <placeName key="ofen" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofner</placeName> Gebiete</hi> die drei Gemeinden
-                        <placeName ref="#place_411da68f378eda6ae9e1d4d6a3e4ec87">Samson</placeName>, <placeName ref="#place_1298c1018eaa420942d33c303446bac4">Szentes</placeName>,
-                    Hold-Mezö-Vásarhely [<placeName key="hodmezovasarhely" ref="#place_4fd98a6ed688372439ecccac0e9c278d">Hódmezövásárhely</placeName>], zusammen mit 41.922 Seelen.<lb/>e. alle
+                    Seniorate liegen im <rs type="place" subtype="place" key="komitat-csongrad" ref="#place_532894f4403d552a7a80ce83ec5a55da">Csongrader
+                        Comitate</rs>, also im <hi rend="ul">
+                        <rs type="place" subtype="place" key="ofen" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofner</rs> Gebiete</hi> die drei Gemeinden
+                        <rs type="place" subtype="place" ref="#place_411da68f378eda6ae9e1d4d6a3e4ec87">Samson</rs>, <rs type="place" subtype="place" ref="#place_1298c1018eaa420942d33c303446bac4">Szentes</rs>,
+                    Hold-Mezö-Vásarhely [<rs type="place" subtype="place" key="hodmezovasarhely" ref="#place_4fd98a6ed688372439ecccac0e9c278d">Hódmezövásárhely</rs>], zusammen mit 41.922 Seelen.<lb/>e. alle
                     andern Gemeinden des Békés-Banater Seniorates helvetischer Confession liegen im
                     Békés-Csanader Comitate, also im <hi rend="ul">
-                        <placeName key="grosswardein" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Gr[oß]wardeiner</placeName>
+                        <rs type="place" subtype="place" key="grosswardein" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Gr[oß]wardeiner</rs>
                     </hi> Gebiete und haben eine Seelenanzahl
                     von 84.489 Seelen.</p>
                 <p>&lt;<hi rend="ul">Anmerkung</hi>. Sogar in <hi rend="ul">einem und demselben</hi>
                     Comitate haben bisher concurrirt zwei Superintendenzen <hi rend="ul">derselben</hi> Confession, z. B. die Superintendenz helvetischer Confession
                         <hi rend="ul">an</hi> und <hi rend="ul">jenseits</hi> der Donau in den
-                    Comitaten <placeName key="komitat-tolna" ref="#place_fb3eccc7858600bed1edbf3a68835d18">Tolna</placeName>, <placeName key="komitat-suemeg" ref="#place_0ba55a743d1dac6de42ef57adf695bc7">Schimegh</placeName>, <placeName key="komitat-stuhlweissenburg" ref="#place_2b57ca4e155b897b9eaa0d98e16dc0d4">Stuhlweißenburg</placeName>, <placeName key="komitat-gran" ref="#place_db7a7e086c20482e1ffb90dff7ac5074">Gran</placeName> und <placeName key="komitat-neograd" ref="#place_07198ac9f90b46b7d3930924305a26af">Neograd</placeName>, die beiden Superintendenzen <hi rend="ul">diesseits</hi> und <hi rend="ul">jenseits</hi> der Theiß in den Comitaten
-                        <placeName key="komitat-szabolcs" ref="#place_49d11e77b5746ad9c384998aceb9616b">Szabolcz</placeName> und <placeName key="komitat-bihar" ref="#place_a928cac493a2c34f575d4483bbc3ff21">Bihar</placeName>. Daher ist der § XXVIII eine
+                    Comitaten <rs type="place" subtype="place" key="komitat-tolna" ref="#place_fb3eccc7858600bed1edbf3a68835d18">Tolna</rs>, <rs type="place" subtype="place" key="komitat-suemeg" ref="#place_0ba55a743d1dac6de42ef57adf695bc7">Schimegh</rs>, <rs type="place" subtype="place" key="komitat-stuhlweissenburg" ref="#place_2b57ca4e155b897b9eaa0d98e16dc0d4">Stuhlweißenburg</rs>, <rs type="place" subtype="place" key="komitat-gran" ref="#place_db7a7e086c20482e1ffb90dff7ac5074">Gran</rs> und <rs type="place" subtype="place" key="komitat-neograd" ref="#place_07198ac9f90b46b7d3930924305a26af">Neograd</rs>, die beiden Superintendenzen <hi rend="ul">diesseits</hi> und <hi rend="ul">jenseits</hi> der Theiß in den Comitaten
+                        <rs type="place" subtype="place" key="komitat-szabolcs" ref="#place_49d11e77b5746ad9c384998aceb9616b">Szabolcz</rs> und <rs type="place" subtype="place" key="komitat-bihar" ref="#place_a928cac493a2c34f575d4483bbc3ff21">Bihar</rs>. Daher ist der § XXVIII eine
                     unvermeidliche Folge der Belassung <hi rend="ul">ganzer</hi> Seniorate in ihrem
                         <hi rend="ul">historischen</hi> Bestande.&gt;<note xml:id="note_3">Streichung.</note>
                 </p>

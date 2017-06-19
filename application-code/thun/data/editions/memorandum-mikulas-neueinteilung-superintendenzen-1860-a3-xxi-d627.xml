@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Vorschläge von <persName key="mikulas-johann">Johann Mikulas</persName> zur
+                <title>Vorschläge von <rs type="person" ref="mikulas-johann" key="mikulas-johann">Johann Mikulas</rs> zur
                     Neuordnung der Superintendenzen in Ungarn<lb/>o. D. [Frühjahr 1860]<note xml:id="note_1">Die Datierung in das Frühjahr 1860 ergibt sich aus dem
                         Hinweis auf die Ausarbeitung eines Handschreibens zur Begnadigung von
                         Gegnern des Patents vom 1. September 1859. Dabei könnte es sich um das
@@ -44,7 +43,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -54,14 +53,14 @@
                     <term>Protestanten</term>
                     <term>Protestantenpatent</term>
                 </index>
-                <p>&lt;Vorschlag von <persName key="mikulas-johann">Mikulas</persName>&gt;<note xml:id="note_2">Eh. Notiz von Leo Thun.</note>
+                <p>&lt;Vorschlag von <rs type="person" ref="mikulas-johann" key="mikulas-johann">Mikulas</rs>&gt;<note xml:id="note_2">Eh. Notiz von Leo Thun.</note>
                 </p>
                 <p>
                     <hi rend="ul">In der Form eines zur allgemeinen Veröffentlichung bestimmten
                         Intimates an die reformierten Superintendenturen und an die politischen
                         Landesbehörden.</hi>
                     <lb/>Die Evangelischen beider Bekenntnisse im Königreich
-                        <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> haben zu allen Zeiten und mit vollem Grunde eine
+                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> haben zu allen Zeiten und mit vollem Grunde eine
                     den Interessen ihrer Kirche in mehrfacher Beziehung höchst nachtheilige
                     Beschränkung darin erkannt, wenn – wie in vergangenen Zeiten durch Einflußnahme
                     des Staates geschehen ist – die Zahl ihrer Kirchendistrikte und damit auch die
@@ -80,7 +79,7 @@
                     kann.<lb/>Eben darum ist von evangelischer Seite bis auf die neueste Zeit der
                     Versuch nicht gemacht worden, jenen königlichen Befehl aus der ersten Hälfte des
                     vorigen Jahrhunderts, in Folge dessen bei den evangelisch helvetischen
-                    Glaubensgenossen in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> anstatt der früher bestandenen 6
+                    Glaubensgenossen in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> anstatt der früher bestandenen 6
                     Kirchendistrikte 4 Superintendenzen nach Maßgabe der damaligen politischen
                     Eintheilung des Landes eingerichtet wurden, als einen Lichtpunkt in der
                     Geschichte der evangelischen Kirche Ungarns darzustellen. Dagegen haben

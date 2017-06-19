@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="tomek-vaclav-vladivoi" role="recipient">Václav Vladivoi
-                        Tomek</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="tomek-vaclav-vladivoi" key="tomek-vaclav-vladivoi" role="recipient">Václav Vladivoi
+                        Tomek</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1858-05-09">9.
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1858-05-09">9.
                         Mai 1858</date>
                 </title>
             </titleStmt>
@@ -37,7 +36,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -58,19 +57,19 @@
                     immer noch nicht so behandelt, daß es sich nur einfach darum handelt, ob einige
                     hundert Gulden mehr auf Besoldungen verwendet werden dürfen, sondern ich muß von
                     Fall zu Fall Gründe geltend machen, aus welchen sich die Schlussfolgerung ziehen
-                    läßt, daß eben die bei <persName key="franz-joseph">S. Maj.</persName> zu
+                    läßt, daß eben die bei <rs type="person" ref="franz-joseph" key="franz-joseph">S. Maj.</rs> zu
                     beantragende Mehrauslage nicht länger verschoben werden könne und unzweifelhaft
-                    gerechtfertiget sei. Bei <persName key="loewe-johann-heinrich">Prof.
-                        Löwe</persName> kommen mir allerhand äußere Umstände zu Hilfe um den
-                    Widerspruch des <persName key="bruck-karl-ludwig">Finanzministers</persName> zu
-                    beseitigen, der dringende Wunsch des <persName key="schwarzenberg-friedrich">Cardinals</persName> eben ihn für Philosophie in <orgName key="universitaet-prag">Prag</orgName> festzuhalten <note xml:id="note_1">Vgl. hierzu den Brief <ref target="thun/thun-korrespondenz/tetschen/schwarzenberg-an-thun-1857-12-19_A3-XXI-D437.xml">Friedrich Schwarzenberg an Leo Thun, 19. Dezember 1857.</ref>
+                    gerechtfertiget sei. Bei <rs type="person" ref="loewe-johann-heinrich" key="loewe-johann-heinrich">Prof.
+                        Löwe</rs> kommen mir allerhand äußere Umstände zu Hilfe um den
+                    Widerspruch des <rs type="person" ref="bruck-karl-ludwig" key="bruck-karl-ludwig">Finanzministers</rs> zu
+                    beseitigen, der dringende Wunsch des <rs type="person" ref="schwarzenberg-friedrich" key="schwarzenberg-friedrich">Cardinals</rs> eben ihn für Philosophie in <orgName key="universitaet-prag">Prag</orgName> festzuhalten <note xml:id="note_1">Vgl. hierzu den Brief <ref target="thun/thun-korrespondenz/tetschen/schwarzenberg-an-thun-1857-12-19_A3-XXI-D437.xml">Friedrich Schwarzenberg an Leo Thun, 19. Dezember 1857.</ref>
                     </note>
-                    etc.; bei <persName key="bippart-georg">Prof. Bippard</persName> konnte ich
-                    geldtend machen, daß die Stelle die er bekleidet, schon einmal <persName key="lange-ludwig">einem anderen</persName> als ord. Professor mit höheren
+                    etc.; bei <rs type="person" ref="bippart-georg" key="bippart-georg">Prof. Bippard</rs> konnte ich
+                    geldtend machen, daß die Stelle die er bekleidet, schon einmal <rs type="person" ref="lange-ludwig" key="lange-ludwig">einem anderen</rs> als ord. Professor mit höheren
                     Bezügen mit a.h. Beschluss zugesprochen war, welcher aber dann zurücktrat, daß
                     die Nothwendigkeit zweier ord. Professuren für klass. Philologie unbestreitbar
                     ist, und bereits a.h. Ortes anerkannt war, daß ich also durch den Umstand
-                        <persName key="bippart-georg">B.</persName> dennoch nur als a.o. Prof.
+                        <rs type="person" ref="bippart-georg" key="bippart-georg">B.</rs> dennoch nur als a.o. Prof.
                     gewonnen zu haben, im Interesse des Staatsschatzes gehandelt habe, und die
                     Zuerkennung des höheren Gehaltes nach mehrj. Dienstleistung also nicht von dem
                     Standpunkte aus angefochten werden könne. Leider fehlt es mir zu Ihren Gunsten

@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="heufler-von-hohenbuehel-ludwig" role="sender:beamter">Ludwig
-                        Heufler</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
-                    <lb/>[<placeName ref="#place_f0cb899d2f50889980d12f59807d7ae0">Hermannstadt</placeName>, <date when="1850-08">Ende August/Anfang September 1850</date>]</title>
+                    <rs type="person" ref="heufler-von-hohenbuehel-ludwig" key="heufler-von-hohenbuehel-ludwig" role="sender:beamter">Ludwig
+                        Heufler</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>[<rs type="place" subtype="place" ref="#place_f0cb899d2f50889980d12f59807d7ae0">Hermannstadt</rs>, <date when="1850-08">Ende August/Anfang September 1850</date>]</title>
             </titleStmt>
             <publicationStmt>
                 <p/>
@@ -39,8 +38,8 @@
                         </msContents>
                         <physDesc>
                             <p>Beilage:<lb/>Gedruckter <ref target="#D65_1">Hirtenbrief von dem
-                                    griechisch-katholischen Generalvikar <persName key="alutan-constantin">Constantin Alutan</persName>,
-                                        <placeName ref="#place_bf9b6e40141fff93bce7658bf8e4a3a6">Blasendorf</placeName> [Blaj], <date when="1850-07-10">10. Juli 1850</date>.</ref>
+                                    griechisch-katholischen Generalvikar <rs type="person" ref="alutan-constantin" key="alutan-constantin">Constantin Alutan</rs>,
+                                        <rs type="place" subtype="place" ref="#place_bf9b6e40141fff93bce7658bf8e4a3a6">Blasendorf</rs> [Blaj], <date when="1850-07-10">10. Juli 1850</date>.</ref>
                                 <lb/>Abschrift
                                 dieses Hirtenbriefs in deutscher Übersetzung.<note xml:id="note_1"/>Hier ist nur diese Übersetzung transkribiert.</p>
                             <p>Verweis auf A3 XXI D61.</p>
@@ -49,7 +48,7 @@
                 </p>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -67,7 +66,7 @@
                     Die berathenden Sitzungen über dasselbe haben nämlich gestern ihr Ende erreicht.
                     Ich kann das Benehmen der einberufenen Vertrauensmänner nicht genug loben.
                     Leider muß ich aber davon den als Individuum so ausgezeichneten Conrecktor
-                        <persName key="teutsch-georg-daniel">Teutsch</persName> ausnehmen, der in
+                        <rs type="person" ref="teutsch-georg-daniel" key="teutsch-georg-daniel">Teutsch</rs> ausnehmen, der in
                     dem kollegialischen Verhältnisse Eigenschaften gezeigt hat, die ihn bei allen
                     seinen übrigen vortrefflichen Eigenschaften zur Stelle eines Schulrathes
                     untauglich machen. Er ist nämlich in so ausschließlich sächsisch-nationaler
@@ -75,28 +74,28 @@
                     zu erhalten.<lb/>Meine noch übrigen Geschäfte bestehen darin, meinen zu den
                     Berathungen gebrachten Entwurf nach dem Resultate derselben zu redigiren und den
                     Bericht dazu zu machen. Das Copiren werde ich aufs äußerste beschleunigen, so
-                    daß ich am Ende dieser Woche die Reise nach <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> werde
+                    daß ich am Ende dieser Woche die Reise nach <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> werde
                     antreten können. Am 11. oder 12. September hoffe ich demnach meine Arbeit in die
                     Hände Euerer Exzellenz niederlegen zu können.<lb/>Für den amtlichen Auftrag, in
-                    Person nach <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> zu reisen, bin ich Euerer Exzellenz
-                    äußerst dankbar; die Rücksichten, die in <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</region> zu nehmen sind, sind so vielfach und die Collisionen
+                    Person nach <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> zu reisen, bin ich Euerer Exzellenz
+                    äußerst dankbar; die Rücksichten, die in <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> zu nehmen sind, sind so vielfach und die Collisionen
                     derselben sind so unvermeidlich, daß ich in hohem Grade das Bedürfnis fühle,
                     mich auch mündlich aussprechen zu können. Nur das Vertrauen, das Euere Exzellenz
                     mir so gnädig geschenkt haben, war im Stande meinen Muth hier aufrecht zu
                     halten, und ich will auch noch in den letzten Augenblicken mich bestreben, es zu
-                    verdienen. Ich habe immer den Wahlspruch der nie genug zu liebenden <persName key="maria-theresia">Maria Theresia</persName> vor Augen: Justitia et
+                    verdienen. Ich habe immer den Wahlspruch der nie genug zu liebenden <rs type="person" ref="maria-theresia" key="maria-theresia">Maria Theresia</rs> vor Augen: Justitia et
                     Clementia. Das ist mein Ziel und all mein Streben. Wie weit dahinter die That
                     bleibt, fühle ich selbst am allerbesten, und nur mit Zagen werde ich deshalb
-                    meine Anträge überreichen.<lb/>Schon seit Anfang Julius hatte der <persName key="wohlgemuth-ludwig">Gouverneur</persName> mir das Departement über
+                    meine Anträge überreichen.<lb/>Schon seit Anfang Julius hatte der <rs type="person" ref="wohlgemuth-ludwig" key="wohlgemuth-ludwig">Gouverneur</rs> mir das Departement über
                     Unterrichtswesen übergeben; Mitte August mußte ich auch das Cultusdepartement
                     übernehmen, weil es sich zeigte, daß Beides in einer Hand sein müsse. Ich
-                    benütze diese Zeit, um den Bezirkskommissär <persName key="dorgo-gabriel">Gabriel Dorgo</persName>, dessen Charackteristick ich schon gegeben habe,
+                    benütze diese Zeit, um den Bezirkskommissär <rs type="person" ref="dorgo-gabriel" key="dorgo-gabriel">Gabriel Dorgo</rs>, dessen Charackteristick ich schon gegeben habe,
                     in das Geschäft einzuführen. Er wird nach meiner Abreise Referent werden; das
                     Präsidium in den Sitzungen der provisorischen Schulbehörde wird jedoch bis zur
-                    Rückkunft <persName key="bach-eduard">Bach’s</persName> Herr Regierungsrath
-                        <persName key="weiss-von-starkenfels-theodor">von Weiß</persName> führen.
-                    Unter diesen Voraussetzungen verlasse ich <placeName ref="#place_f0cb899d2f50889980d12f59807d7ae0">Hermannstadt</placeName>
-                    mit Beruhigung. Einen neuen <ref target="#D65_1">Hirtenbrief <persName key="alutan-constantin">Alutans</persName>
+                    Rückkunft <rs type="person" ref="bach-eduard" key="bach-eduard">Bach’s</rs> Herr Regierungsrath
+                        <rs type="person" ref="weiss-von-starkenfels-theodor" key="weiss-von-starkenfels-theodor">von Weiß</rs> führen.
+                    Unter diesen Voraussetzungen verlasse ich <rs type="place" subtype="place" ref="#place_f0cb899d2f50889980d12f59807d7ae0">Hermannstadt</rs>
+                    mit Beruhigung. Einen neuen <ref target="#D65_1">Hirtenbrief <rs type="person" ref="alutan-constantin" key="alutan-constantin">Alutans</rs>
                     </ref> bin ich so frei
                     beizulegen und geharre mit dem Ausdrucke der größten Verehrung</p>
                 <p>Euerer Exzellenz </p>
@@ -104,8 +103,8 @@
                 <p>Heufler</p>
                 <div type="enclosure" xml:id="D65_1">
                     <p>Geehrter Bruder in Christo!</p>
-                    <p>Unser <persName key="franz-joseph">allergnädigster apostolischer König und
-                            rechtgläubiger Kaiser</persName> hat, von Eifer für unseren römischen
+                    <p>Unser <rs type="person" ref="franz-joseph" key="franz-joseph">allergnädigster apostolischer König und
+                            rechtgläubiger Kaiser</rs> hat, von Eifer für unseren römischen
                         Glauben erfüllt, und weil er besorgte, wenn unsere rechtgläubigen, mit der
                         römischen Kirche im Glauben vereinigten Romanen noch länger ohne einen
                         geistlichen Oberhirten und Führer blieben, so würden sie von Verführern und
@@ -114,7 +113,7 @@
                         Herz unsrer trauernden Diöcese, welche durch die Abdankung unsres gütigen
                         Vaters eine Witwe geworden, zugewandt und uns mittels des allerhöchsten, am
                         11. Juni laufenden Jahres Z. 3834 erlassenen, dem Kapitel aber von Seiner
-                        Excellenz dem Herrn <persName key="wohlgemuth-ludwig">Gouverneur</persName>
+                        Excellenz dem Herrn <rs type="person" ref="wohlgemuth-ludwig" key="wohlgemuth-ludwig">Gouverneur</rs>
                         am 16. Julius mitgetheilten Decretes zur Z. 610.614 und 15360, die
                         Bewilligung unseren Bischof, nach dem alten, dieser Diöcese zustehenden und
                         mittels Diplomes vom Jahre 1701 bestätigten Rechte und nach der bisher bei
@@ -127,7 +126,7 @@
                         berufen werden, in jener großen Ruhe, welche sich für unseren Stand geziemt,
                         zu feiern.<lb/>In Folge des verehrten Decretes habe ich dir, geliebter
                         Bruder, nach gepflogenem Einvernehmen mit Seiner Excellenz dem Herrn
-                            <persName key="wohlgemuth-ludwig">Gouverneur</persName>
+                            <rs type="person" ref="wohlgemuth-ludwig" key="wohlgemuth-ludwig">Gouverneur</rs>
                         aufzutragen,<lb/>1., daß du auf den 16. September neuen (nicht alten Styles)
                         die deiner Aufsicht anvertrauten Priester zusammenrufest, und daß Ihr
                         darauf, nachdem Ihr zuvor dem allmächtigen Gott ein unblutiges Opfer
@@ -141,7 +140,7 @@
                         dieser Gelegenheit betrauen wird, genau zu erfüllen.<lb/>3., daß du dich auf
                         den 30. September neuen (18. September alten) Styls, zugleich mit deinem
                         Amtsgehülfen und dem aus den dir unterstehenden Priestern gewählten
-                        Abgeordneten der Eparchie in <placeName ref="#place_bf9b6e40141fff93bce7658bf8e4a3a6">Blasendorf</placeName> einfindest,
+                        Abgeordneten der Eparchie in <rs type="place" subtype="place" ref="#place_bf9b6e40141fff93bce7658bf8e4a3a6">Blasendorf</rs> einfindest,
                         wo wir darauf nach erhaltener Vorschrift über alle zu verhandelnden
                         Gegenstände und nach Anrufung des heiligen Geistes unter der Leitung des von
                         allerhöchsten Orten zu diesem Geschäfte ausgesandten kaiserlichen

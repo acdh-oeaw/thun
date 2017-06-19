@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="jaksch-anton" role="sender:gelehrter">Anton Jaksch</persName>
-                    an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="jaksch-anton" key="jaksch-anton" role="sender:gelehrter">Anton Jaksch</rs>
+                    an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, <date when="1856-03-23">23.
+                    <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1856-03-23">23.
                         März 1856</date>
                 </title>
             </titleStmt>
@@ -81,7 +80,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -96,7 +95,7 @@
                     es, mich mit einer Angelegenheit zu nahen, die für das Wohl der Menschheit und
                     Wissenschaft zu wichtig ist, als daß ich nicht selbst das Äußerste darin
                     versuchen sollte. Bei dem letzten Aufenthalte Euerer Excellenz in
-                        <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> erwähnte ich, wie wünschenswerth es sey, daß die
+                        <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> erwähnte ich, wie wünschenswerth es sey, daß die
                     Krankenwartung und Pflege gebildeten und von Religion und Menschenliebe
                     erfüllten Individuen anvertraut werde, ja ich hob dasselbe ausdrücklich in einer
                     Eingabe an die hohe Statthalterei im Oktober vorigen Jahres hervor, weil ich in
@@ -106,21 +105,21 @@
                     wahre Wohlthat für sie wäre. Ich war deshalb über die Nachricht, daß die
                     Barmherzigen Schwestern die Krankenanstalt übernehmen werden, innig erfreut um
                     so mehr, als ich das wohlthätige Wirken derselben in so zahlreichen Spitälern
-                        <country key="frankreich" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreichs</country>, <country key="belgien" ref="#place_f79ffe9e826a19f9f6a446c90e21c4e3">Belgiens</country>, <country key="piemont" ref="#place_bf7f12465e707f825e769e88820f5ea4">Piemonts</country> und hie und
-                    da selbst <country key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</country> aus eigener
+                        <rs type="place" subtype="country" key="frankreich" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreichs</rs>, <rs type="place" subtype="country" key="belgien" ref="#place_f79ffe9e826a19f9f6a446c90e21c4e3">Belgiens</rs>, <rs type="place" subtype="country" key="piemont" ref="#place_bf7f12465e707f825e769e88820f5ea4">Piemonts</rs> und hie und
+                    da selbst <rs type="place" subtype="country" key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</rs> aus eigener
                     Anschauung kennen gelernt hatte. Ich war deshalb nicht wenig überrascht, als ich
                     in dem Erlasse des hohen <orgName key="ministerium-des-innern">Ministeriums des
                         Innern</orgName> statt des Motives, das mir vorgeschwebt hatte, als Grund
                     der Einführung der barmherzigen Schwestern in die k.k. Krankenanstalt angeführt
                     fand: daß sich der wichtige Zweig des Krankenwartdienstes in
-                        <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> in einem sehr unbefriedigenden Zustande befinde,
+                        <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> in einem sehr unbefriedigenden Zustande befinde,
                     daß sich aller auf entsprechende Verbesserungen von Seite der Direction
                     gerichteten Bemühungen ungeachtet, eine gründliche Abhilfe bei dem Bestande der
                     gegenwärtigen Einrichtung nicht erwarten lasse. Ohne Zweifel stützt sich dieser
                     Ausspruch des hohen Ministeriums auf Angaben, die unwahr sind und einer
                     Verläumdung gleichkommen, und die bei den anderweitigen Äußerungen, die der
                     Abgeordnete des hohen<orgName key="ministerium-des-innern"> Ministeriums des
-                        Innern</orgName>, Herr <persName key="weiss-von-starkenfels-theodor">Ministerialrath von Weiß</persName> hier gethan, auch nicht weiter
+                        Innern</orgName>, Herr <rs type="person" ref="weiss-von-starkenfels-theodor" key="weiss-von-starkenfels-theodor">Ministerialrath von Weiß</rs> hier gethan, auch nicht weiter
                     befremden konnten. Bei den bisherigen Verhältnissen war die Controlle der
                     Krankenpflege ganz allein den Ärzten anheimgegeben, und die Wärterinnen könnten
                     nur in dem Falle ihre Pflichten vernachlässigt haben, wenn die Ärzte selbst
@@ -129,7 +128,7 @@
                     Collegen in der k.k. Krankenanstalt, deren Pflichttreue und Gewissenhaftigkeit
                     ich kenne, geradezu abweisen. Den besten Beweis hiefür dürfte wohl der Ruf und
                     das Vertrauen geben, dessen sich unsere Krankenanstalt in
-                        <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> und im ganzen Lande erfreut, sodann die Erfolge
+                        <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> und im ganzen Lande erfreut, sodann die Erfolge
                     der Krankenbehandlung und endlich unter vielen Thatsachen beispielshalber nur
                     die eine: daß seit 5 Monaten der tägliche Stand der mit ansteckendem Typhus
                     behafteten Kranken besonders in letzterer Zeit bis auf 140 und 160 gestiegen
@@ -140,7 +139,7 @@
                     Typhus angesteckt, und sind bereits mehrere ihrer Pflichttreue als Opfer
                     gefallen. Mit gutem Gewissen kann ich ohne den Vorwurf der Selbstüberschätzung
                     Euerer Excellenz den Ausspruch thun, daß ich von meinen Reisen, auf denen ich so
-                    viele Spitäler <country key="england" ref="#place_f48861ca24e26a23a923ca68657079f4">Englands</country>, <country key="frankreich" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreichs</country>, <country key="italien" ref="#place_19cb29505c294db5ca9190ea93447e98">Italiens</country> und <country key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</country>
+                    viele Spitäler <rs type="place" subtype="country" key="england" ref="#place_f48861ca24e26a23a923ca68657079f4">Englands</rs>, <rs type="place" subtype="country" key="frankreich" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreichs</rs>, <rs type="place" subtype="country" key="italien" ref="#place_19cb29505c294db5ca9190ea93447e98">Italiens</rs> und <rs type="place" subtype="country" key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</rs>
                     kennen lernte, immer mit der Beruhigung heimkehrte, eine größere
                     Gewissenhaftigkeit, als hier bei uns, nicht leicht anderswo gefunden zu haben.
                     Der unverdiente Vorwurf, der somit in dem Erlasse des hohen Ministeriums des
@@ -165,12 +164,12 @@
                     Seiten nicht leicht eine Abhilfe zu finden seyn, und es ist nur sehr zu
                     bedauern, daß vor der Einführung dieses Ordens nicht sachkundige und erfahrene
                     Männer, die die Bedürfnisse einer Kranken- und Bildungsanstalt, wie es in
-                        <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> ist, einerseits und die Ordensregeln anderseits
+                        <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> ist, einerseits und die Ordensregeln anderseits
                     genau kennen, zu Rathe gezogen wurden. So vortrefflich dieser Orden auch sonst
                     seyn mag, so kann und wird er sich jedoch niemals für eine größere
                     Krankenanstalt eignen, die zugleich Bildungsschüler für die medicinische Jugend
                     ist, und es wäre in dieser Hinsicht der Orden der grauen Schwestern, der in
-                    ähnlichen Anstalten <country key="frankreich" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreichs</country> besteht und
+                    ähnlichen Anstalten <rs type="place" subtype="country" key="frankreich" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreichs</rs> besteht und
                     sich in diesen so sehr erprobt hat, unbedingt vorzuziehen gewesen.<lb/>Der
                     medicinische Lehrkörper hat bereits vor einiger Zeit seine unterthänigsten
                     Vorstellungen gegen einige dieser Modalitäten Euerer Excellenz unterbreitet, und
@@ -180,7 +179,7 @@
                     für die Kliniken zu retten, was Noth thut. <lb/>Sollten Euere Excellenz der
                     Ansicht seyn, daß eine Audienz bei Seiner Apostolischen Majestät in der Sache
                     etwas nützen könne, so würde ich dem hohen Zwecke, den ich vor Augen habe, gern
-                    das Opfer bringen und hiezu eigens nach <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>
+                    das Opfer bringen und hiezu eigens nach <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>
                     kommen.<lb/>Schließlich bitte ich Euere Excellenz, mir die Freimüthigkeit, mit
                     der ich schreibe, zu Gute zu halten, das Bewußtseyn treu erfüllter Pflicht und
                     des Strebens, das Wohl der Menschheit und Wissenschaft zu fördern, gab mir den
@@ -362,14 +361,14 @@
                         Konsequenzen derselben zu versuchen, während sie im Gegentheil immer bereit
                         sein werden, die heilbringende Thätigkeit dieser Ordensgemeinde in der
                         Krankenanstalt mit willigem Eifer zu unterstützen.</p>
-                    <p>Dir. <persName key="biermann-christian-friedrich">Biermann</persName>
+                    <p>Dir. <rs type="person" ref="biermann-christian-friedrich" key="biermann-christian-friedrich">Biermann</rs>
                     </p>
-                    <p>Prof. <persName key="pitha-franz">Pitha</persName>
-                        <lb/>Prof. <persName key="jaksch-anton">Jaksch</persName>
-                        <lb/>Prof. <persName key="halla-joseph">Halla</persName>
-                        <lb/>Prof. <persName key="arlt-ferdinand">Arlt</persName>
-                        <lb/>Prof. <persName key="waller-johann">Waller</persName>
-                        <lb/>Prof. <persName key="czejka-josef">Ceyka</persName>
+                    <p>Prof. <rs type="person" ref="pitha-franz" key="pitha-franz">Pitha</rs>
+                        <lb/>Prof. <rs type="person" ref="jaksch-anton" key="jaksch-anton">Jaksch</rs>
+                        <lb/>Prof. <rs type="person" ref="halla-joseph" key="halla-joseph">Halla</rs>
+                        <lb/>Prof. <rs type="person" ref="arlt-ferdinand" key="arlt-ferdinand">Arlt</rs>
+                        <lb/>Prof. <rs type="person" ref="waller-johann" key="waller-johann">Waller</rs>
+                        <lb/>Prof. <rs type="person" ref="czejka-josef" key="czejka-josef">Ceyka</rs>
                     </p>
                     <p>Prag, am 20. Februar 1856</p>
                     <p/>
@@ -383,7 +382,7 @@
                         Trennung der Kranken nach dem Geschlechte, dann wegen Belassung der
                         Wohnungen einiger Ärzte im Hauptgebäude der Anstalt nicht selbst Folge
                         geben, auch nicht einmal dasselbe hohen Ortes beantworten zu
-                        können.<lb/>Nach der ausdrücklichen Erklärung der Frau <persName key="helwig-theresia">Generaloberin</persName> jener Kongregation sollen
+                        können.<lb/>Nach der ausdrücklichen Erklärung der Frau <rs type="person" ref="helwig-theresia" key="helwig-theresia">Generaloberin</rs> jener Kongregation sollen
                         die wiederholt beantragten Modifkationen mit den Institutionen ihres Ordens
                         durchaus nicht vereinbarlich sein, und nach dem hohen Ministerialerlasse vom
                         18. vorigen Monats Z. 1910 MI wird die genaue Durchführung der bezüglich
@@ -394,7 +393,7 @@
                         Jahres eingebrachten Vorstellung anzusehen, welche ohne einer besonderen
                         Beachtung mit dem hohen Ministerialerlasse vom 14. Jänner dieses Jahres Z.
                         143 MI als durch diesen erledigt anher zurückgestellt wurde.<lb/>Nicht
-                        unbemerkt kann ich es aber lassen, daß demohngeachtet mir die Frau <persName key="helwig-theresia">Generaloberin</persName> für den Fall, als sich im
+                        unbemerkt kann ich es aber lassen, daß demohngeachtet mir die Frau <rs type="person" ref="helwig-theresia" key="helwig-theresia">Generaloberin</rs> für den Fall, als sich im
                         Verlaufe der Zeit bei der Besorgung des allgemeinen Krankenhauses der
                         leitenden Hausoberen die Möglichkeit erweisen sollte, den Wünschen der
                         Krankenhausdirekzion oder der leitenden H. H. Primärärzte entgegen zu
@@ -429,7 +428,7 @@
                         veranlassen und die ferneren Ergebnisse mir bis zum 20. kommenden Monats
                         anzuzeigen.</p>
                     <p>Der Statthalter<lb/>
-                        <persName key="mecsery-von-tsoor-karl">Meszeri</persName>
+                        <rs type="person" ref="mecsery-von-tsoor-karl" key="mecsery-von-tsoor-karl">Meszeri</rs>
                     </p>
                 </div>
             </div>

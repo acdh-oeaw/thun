@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="hoefler-karl-adolf-constantin" role="sender:gelehrter">Constantin Höfler</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="hoefler-karl-adolf-constantin" key="hoefler-karl-adolf-constantin" role="sender:gelehrter">Constantin Höfler</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, <date when="1855-10-11">11. Oktober 1856</date>
+                    <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1855-10-11">11. Oktober 1856</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -39,7 +38,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -54,15 +53,15 @@
                 <p>Indem ich Euer Excellenz für Ihr huldvolles Schreiben meinen ehrfurchtvollsten
                     Dank ausdrücke, erlaube ich mir nur unterthänigst zu bemerken, daß ich stets
                     bereit bin, wo es in meiner untergeordneten Stellung gilt,
-                        <country ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</country> oder die <orgName key="universitaet-prag">Universität</orgName>, der ich angehöre, zu vertreten, mit allen Kräften
+                        <rs type="place" subtype="country" ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</rs> oder die <orgName key="universitaet-prag">Universität</orgName>, der ich angehöre, zu vertreten, mit allen Kräften
                     einzustehen und der Vorschlag einer Remuneration für den obschwebenden Fall ohne
                     mein Zuthun, ich kann wohl auch sagen gegen meinen Wunsch, in den Senatsantrag
                     aufgenommen wurde.<lb/>Zugleich beeile ich mich Eurer Excellenz anzuzeigen, daß
-                    Professor <persName key="schleicher-august">Dr. Schleicher</persName> weder nach
-                        <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> zurückgekehrt ist, noch für das Winterhalbjahr
+                    Professor <rs type="person" ref="schleicher-august" key="schleicher-august">Dr. Schleicher</rs> weder nach
+                        <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> zurückgekehrt ist, noch für das Winterhalbjahr
                     zurückkehren wird. Ich bin wegen der äußersten Formlosigkeit, womit er sein
                     Gesuch um Urlaub einbrachte, bisher als Decan nicht im Stande gewesen, der erst
-                    am 4. October zu <placeName ref="#place_a80cedc2b92ff32f75b8f4894a826b6f">Sonneberg bei Coburg</placeName> abgefassten Bitte
+                    am 4. October zu <rs type="place" subtype="place" ref="#place_a80cedc2b92ff32f75b8f4894a826b6f">Sonneberg bei Coburg</rs> abgefassten Bitte
                     amtliche Folge zu geben, habe aber unterdessen dem Professorencollegium die
                     Mittheilung gemacht, ihm selbst zwei Male geschrieben, die neuen „Vorschriften“
                     des hohen Ministeriums über die Gymnasiallehramtsprüfung zugesendet, ihm, da er
@@ -81,7 +80,7 @@
                     des Leidens zuzuschreiben. Das Professorencollegium hat den Gedanken einer
                     temporären Suppletirung nicht aufkommen lassen. Der Direction der
                     Prüfungscommission habe ich mündlich Anzeige gemacht, daß
-                        <persName>Schleicher</persName> zu der Prüfung nicht zu kommen gedenke. Die
+                        <rs type="person" ref="">Schleicher</rs> zu der Prüfung nicht zu kommen gedenke. Die
                     Vorlage des Gesuches an Eure Excellenz wird auf dem amtlichen Wege erfolgen,
                     sobald ich die gesetzlichen Belege in Händen habe.<lb/>Die von mir angestellte
                     Besprechung der philologischen, historischen und philosophischen

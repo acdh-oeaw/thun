@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="chlumecky-peter" role="sender:gelehrter">Peter
-                        Chlumecky</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="chlumecky-peter" key="chlumecky-peter" role="sender:gelehrter">Peter
+                        Chlumecky</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_e33aa4ba5c56cc07714ea6d6520cf548">Brünn</placeName>, <date when="1855-02-08">8. Februar 1855</date>
+                    <rs type="place" subtype="place" ref="#place_e33aa4ba5c56cc07714ea6d6520cf548">Brünn</rs>, <date when="1855-02-08">8. Februar 1855</date>
                 </title>
                 <author/>
             </titleStmt>
@@ -48,7 +47,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -66,8 +65,8 @@
                         zu unterbreiten, und zwar den Codex diplomaticus et epistolaris
                             Moraviae<note xml:id="note_1">Vgl. Codex diplomaticus et epistolaris
                             Moraviae, Brünn 1836–1903.</note>, eine Anzeige über die Correspondenz
-                        der Diarien etc. <persName key="zierotin-karl">Carls von
-                            Zierotin</persName>
+                        der Diarien etc. <rs type="person" ref="zierotin-karl" key="zierotin-karl">Carls von
+                            Zierotin</rs>
                         <note xml:id="note_2">Vgl. Peter Chlumecky, Die
                             öffentliche und Privat-Correspondenz, die Tagebücher und
                             Urkundensammlungen Carls des älteren Herren von Zierotin (1564–1636),
@@ -100,7 +99,7 @@
                         Herausgabe des Codex auf Kosten des mährischen Domesticalfondes so wie jene
                         der alten Landtafel auf Kosten eines großen Theils des hohen begüterten
                         Erbadels dieses Landes zu leiten und durchzuführen, wobey ich vom mährisch
-                        ständischen Archivs- und Registraturbeamten <persName key="chytil-josef">J[osef] Chýtil</persName> besonders unterstützt wurde. Hiemit ist
+                        ständischen Archivs- und Registraturbeamten <rs type="person" ref="chytil-josef" key="chytil-josef">J[osef] Chýtil</rs> besonders unterstützt wurde. Hiemit ist
                         jedoch immer nur ein sehr geringer Anfang gemacht worden, denn die Erhaltung
                         und Bewahrung, so wie die Herausgabe des ganzen überreichen, in öffentlichen
                         und privat Archiven vorhandenen, in einigen derselben dem allmähligen
@@ -121,11 +120,11 @@
                         Arbeit wieder aufgenommen, und hoffe mit Hülfe der Vorsehung im Laufe des
                         Jahres den zweyten, bey weiten wichtigeren Theil der „Anzeige etc.“: die
                         Correspondenz Zierotins aus den merkwürdigen Jahren 1606 bis 1612 mit
-                            <persName key="thurzo-georg">Thurzo</persName>, <persName key="illeshazi-istvan">Illýeshazy</persName>, <persName key="starhemberg-reichard">Reichard</persName> und <persName key="starhemberg-erasmus">Erasmus Stahremberg</persName>, <persName key="tschernembl-georg-erasmus">Tschernembl</persName>, <persName key="molart-hanns">Molart</persName>, <persName key="kinsberg-christoph">Kinsberg</persName>, <persName key="cavriani-ottavio">Cavriani</persName> und andere mit den Fürsten der deutschen
-                        evangelischen Union, mit dem <persName>Könige von England</persName> und mit
-                        den Staatsmännern <persName key="heinrich-IV">Heinrichs IV.</persName> von
+                            <rs type="person" ref="thurzo-georg" key="thurzo-georg">Thurzo</rs>, <rs type="person" ref="illeshazi-istvan" key="illeshazi-istvan">Illýeshazy</rs>, <rs type="person" ref="starhemberg-reichard" key="starhemberg-reichard">Reichard</rs> und <rs type="person" ref="starhemberg-erasmus" key="starhemberg-erasmus">Erasmus Stahremberg</rs>, <rs type="person" ref="tschernembl-georg-erasmus" key="tschernembl-georg-erasmus">Tschernembl</rs>, <rs type="person" ref="molart-hanns" key="molart-hanns">Molart</rs>, <rs type="person" ref="kinsberg-christoph" key="kinsberg-christoph">Kinsberg</rs>, <rs type="person" ref="cavriani-ottavio" key="cavriani-ottavio">Cavriani</rs> und andere mit den Fürsten der deutschen
+                        evangelischen Union, mit dem <rs type="person" ref="">Könige von England</rs> und mit
+                        den Staatsmännern <rs type="person" ref="heinrich-IV" key="heinrich-IV">Heinrichs IV.</rs> von
                         Frankreich – die leidige Entwicklung der Union der evangelischen
-                        östreichischen Stände, die Abdankung <persName key="rudolf-II">Rudolphs</persName> und die Thronbesteigung <persName key="mathias-I">Mathias</persName> betreffend, vollenden zu können. Der „Bericht über
+                        östreichischen Stände, die Abdankung <rs type="person" ref="rudolf-II" key="rudolf-II">Rudolphs</rs> und die Thronbesteigung <rs type="person" ref="mathias-I" key="mathias-I">Mathias</rs> betreffend, vollenden zu können. Der „Bericht über
                         die Funde bey Bellowitz“ (wahrscheinlich mongolischen Ursprungs) ist ein
                         kleiner Beytrag zur Litteratur unserer heidnischen Gräber – die barbarische
                         Spur einer barbarischen trostlosen Epoche. Geruhen Euer Excellenz diese

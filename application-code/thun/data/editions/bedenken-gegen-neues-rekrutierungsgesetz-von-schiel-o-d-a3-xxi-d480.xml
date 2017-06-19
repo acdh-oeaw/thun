@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kritik von <persName key="schiel-samuel" role="sender:gelehrter">Samuel
-                        Schiel</persName> am reformierten Rekrutierungsgesetz <lb/>o. O., o. D.
+                <title>Kritik von <rs type="person" ref="schiel-samuel" key="schiel-samuel" role="sender:gelehrter">Samuel
+                        Schiel</rs> am reformierten Rekrutierungsgesetz <lb/>o. O., o. D.
                         [1859]<note xml:id="note_1">Eine genauere Datierung muss offen bleiben. Die
                         Datierung in das Jahr 1859 erfolgte auf der Grundlage der Bezugnahme auf das
                         besprochene Gesetz.</note>
@@ -41,7 +40,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -74,12 +73,12 @@
                     dieser Seite hin petitionirt worden sein.<lb/>Was nun in dieser Angelegenheit
                     von dieser oder jener Seite speciell geschehen ist, ist noch nicht zur Kenntnis
                     des Einsenders gekommen; wohl aber ist er im Stande einiges aus den Bedenken,
-                    welche die <placeName key="kronstadt" ref="#place_3341ffed6fa9ac4acf64535f4f9a72e5">Kronstädter</placeName> Gymnasiallehrer
+                    welche die <rs type="place" subtype="place" key="kronstadt" ref="#place_3341ffed6fa9ac4acf64535f4f9a72e5">Kronstädter</rs> Gymnasiallehrer
                     Conferenz A.C. erhoben und eingesendet hat, den Lesern dieser Blätter
                     mitzutheilen. In dieser Eingabe heißt es unter Anderem:<lb/>1. „Das berührte
                     Rekrutirungsgesetz scheint in § 20 mit dem Geiste und den Bestimmungen des auf
                     der Höhe der Zeit stehenden hohen ministeriellen Organisationsentwurfes, welcher
-                    für die Entwickelung des Schulwesens in ganz <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> von so wohlthätigen und nachhaltigen Folgen gewesen
+                    für die Entwickelung des Schulwesens in ganz <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> von so wohlthätigen und nachhaltigen Folgen gewesen
                     ist, nicht im Einklange zu stehen und besonders den bisher behaupteten
                     Standpunkt in der Beurtheilung dessen, ob ein Schüler die nöthige Kraft und
                     Befähigung zur Verfolgung einer wissenschaftlichen Laufbahn besitze oder ob es
@@ -152,20 +151,20 @@
                     stattfindet, was ganz sicherlich in dem vom Organisationsentwurfe genau
                     vorgezeichneten Maßstab für die Ertheilung der ersten Classe seinen Grund hat.
                     Ganz anders verhält es sich mit den dort angegebenen Procentualzahlen für die
-                    erste Classe mit Vorzug. Denn da erhielten, um nur die <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">siebenbürgischen</region> Gymnasien zu berühren, am
+                    erste Classe mit Vorzug. Denn da erhielten, um nur die <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">siebenbürgischen</rs> Gymnasien zu berühren, am
                     Schluße des bezeichneten Semesters ein Zeugnis der ersten Classe mit
-                    Vorzug:<lb/>1. am evangelischen Untergymnasium zu <placeName key="muehlbach" ref="#place_d314f1cc453c750919ef0e8db66500ce">Mühlbach</placeName> [Sebes] 1.3 Procent<lb/>2. vollständigen Gymnasium
-                        <placeName ref="#place_5a44e6ea540f7bb98e6782b8140a4790">Kronstadt</placeName> [Brasov] 10.6<lb/>3. <placeName key="schaessburg" ref="#place_e747daf7efb52835d18bbc6bce29474a">Schäßburg</placeName> 12.0<lb/>4.
-                        <placeName ref="#place_d0970b9b5df953ecae8b11b698f6dd76">Mediasch</placeName> 13.3.<lb/>5. <placeName ref="#place_79bd2076c2337fc9f42c37d3803a790e">Bistritz</placeName>
-                    13.9<lb/>6. <placeName key="hermannstadt" ref="#place_6244fbb7edb0da394fbfed3800b4c36d">Hermanstadt</placeName> [Sibiu]
-                    18.1<lb/>7. römisch-katholischen k.k. Staatsgymnasium zu <placeName key="hermannstadt" ref="#place_6244fbb7edb0da394fbfed3800b4c36d">Hermanstadt</placeName> 18.2<lb/>8. reformierten
-                    Gymnasium <placeName ref="#place_e1596fb5477bf0a334849441bb331cbb">Klausenburg</placeName> 19.4<lb/>9. römisch katholischen
-                        <placeName ref="#place_e1596fb5477bf0a334849441bb331cbb">Klausenburg</placeName> 19.8<lb/>10. <placeName key="csik-somlyo" ref="#place_58f94dc9e2654f94cb91f653c6e38989">Csik Somlyo</placeName> 24.5<lb/>11. griechisch katholischen
-                        <placeName ref="#place_bf9b6e40141fff93bce7658bf8e4a3a6">Blasendorf</placeName> [Blaj] 33.1<lb/>12. reformierten M.
-                    Vásárhely [<placeName ref="#place_b54709ec140e6c62b1ba4c9ccd9be219">Marosvásárhely</placeName>] 34.5<lb/>13.
-                    römisch-katholischen Sz. Udvarhely [<placeName ref="#place_2f2e170a9a4a3cdf88465e05a32c9c4b">Székelyudvarhely</placeName>]
-                    41.8<lb/>14. unitarischen <placeName ref="#place_e1596fb5477bf0a334849441bb331cbb">Klausenburg</placeName> 42.2<lb/>15.
-                    Kersztur [Keresztur] 61.9<lb/>16. <placeName ref="#place_9a5837b80620c345ca2e92b82abd3756">Tchorda</placeName> 65.8<lb/>Das
+                    Vorzug:<lb/>1. am evangelischen Untergymnasium zu <rs type="place" subtype="place" key="muehlbach" ref="#place_d314f1cc453c750919ef0e8db66500ce">Mühlbach</rs> [Sebes] 1.3 Procent<lb/>2. vollständigen Gymnasium
+                        <rs type="place" subtype="place" ref="#place_5a44e6ea540f7bb98e6782b8140a4790">Kronstadt</rs> [Brasov] 10.6<lb/>3. <rs type="place" subtype="place" key="schaessburg" ref="#place_e747daf7efb52835d18bbc6bce29474a">Schäßburg</rs> 12.0<lb/>4.
+                        <rs type="place" subtype="place" ref="#place_d0970b9b5df953ecae8b11b698f6dd76">Mediasch</rs> 13.3.<lb/>5. <rs type="place" subtype="place" ref="#place_79bd2076c2337fc9f42c37d3803a790e">Bistritz</rs>
+                    13.9<lb/>6. <rs type="place" subtype="place" key="hermannstadt" ref="#place_6244fbb7edb0da394fbfed3800b4c36d">Hermanstadt</rs> [Sibiu]
+                    18.1<lb/>7. römisch-katholischen k.k. Staatsgymnasium zu <rs type="place" subtype="place" key="hermannstadt" ref="#place_6244fbb7edb0da394fbfed3800b4c36d">Hermanstadt</rs> 18.2<lb/>8. reformierten
+                    Gymnasium <rs type="place" subtype="place" ref="#place_e1596fb5477bf0a334849441bb331cbb">Klausenburg</rs> 19.4<lb/>9. römisch katholischen
+                        <rs type="place" subtype="place" ref="#place_e1596fb5477bf0a334849441bb331cbb">Klausenburg</rs> 19.8<lb/>10. <rs type="place" subtype="place" key="csik-somlyo" ref="#place_58f94dc9e2654f94cb91f653c6e38989">Csik Somlyo</rs> 24.5<lb/>11. griechisch katholischen
+                        <rs type="place" subtype="place" ref="#place_bf9b6e40141fff93bce7658bf8e4a3a6">Blasendorf</rs> [Blaj] 33.1<lb/>12. reformierten M.
+                    Vásárhely [<rs type="place" subtype="place" ref="#place_b54709ec140e6c62b1ba4c9ccd9be219">Marosvásárhely</rs>] 34.5<lb/>13.
+                    römisch-katholischen Sz. Udvarhely [<rs type="place" subtype="place" ref="#place_2f2e170a9a4a3cdf88465e05a32c9c4b">Székelyudvarhely</rs>]
+                    41.8<lb/>14. unitarischen <rs type="place" subtype="place" ref="#place_e1596fb5477bf0a334849441bb331cbb">Klausenburg</rs> 42.2<lb/>15.
+                    Kersztur [Keresztur] 61.9<lb/>16. <rs type="place" subtype="place" ref="#place_9a5837b80620c345ca2e92b82abd3756">Tchorda</rs> 65.8<lb/>Das
                     sind wohl Zahlenverhältnisse, die deutlich genug die Schwankungen der
                     verschiedenen Lehrkörper in der Beurtheilung der Schüler, welche die erste
                     Classe mit Vorzug verdienen, beweisen; und doch soll an diese Vorzugsclassen die
@@ -207,19 +206,19 @@
                     eine solche Milde, ein so nachgiebiges elastisches Wesen zum Heile der ganzen
                     Entwickelung des seit dem Erscheinen des so vortrefflichen ministeriellen
                     Organisationsentwurfes in so schönem Aufschwunge begriffenen Schulwesens
-                        <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</country> gereichen wird, bleibt dem
+                        <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> gereichen wird, bleibt dem
                     Ermessen eines jeden tiefer und weiter Blickenden überlassen. Wir können
                     wenigstens nicht anders, als mit einer gewißen Besorgnis und nicht ohne Schmerz
                     unsere Überzeugung dahin aussprechen, daß, wenn solche Folgen wirklich eintreten
                     sollten, vielleicht selbst der seit Jahrhunderten behauptete Ruhm unserer
                     siebenbürgisch-sächsischen Schulanstalten, die eben mit durch ihre größere
                         Strenge<note xml:id="note_3">Korrektur aus: Menge.</note> nicht zu den
-                    letzten in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> gehörten, für die
+                    letzten in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> gehörten, für die
                     Zukunft in Frage gestellt werden könnte.“<lb/>4. „Endlich dürfte noch in
                     Erwägung gezogen werden, daß die Zahl der Studierenden, aus welchen die Beamten
                     für Staat, Schule und Kirche hervorgehen, jetzt schon in Folge der zur
                     Vollendung des Studiums erforderlichen hohen Geldopfer und der doch dabei wenig
-                    glänzenden Aussichten für die Zukunft, wenigstens hier in <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</region> eine kaum zureichende ist und daß
+                    glänzenden Aussichten für die Zukunft, wenigstens hier in <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> eine kaum zureichende ist und daß
                     sich diese Zahl, wenn auch die Befreiung vom Militärsdienst für die Studierenden
                     noch an so erschwerende Bedingungen geknüpft ist, noch mehr verringern werde und
                     das gewiß nicht zum Vortheile der Schule, der Kirche und des Staates. Ist auch
@@ -235,7 +234,7 @@
                     vollendeter Dienstzeit, aus allem Zusammenhange herausgerissen, nur sehr schwer
                     oder wohl in den meisten Fällen gar nicht möglich ist, eine sorgenfreie und
                     ehrenvolle Laufbahn in einem wissenschaftlichen Berufe einzuschlagen und zu
-                    verfolgen.“<lb/>So viel im Auszuge aus der bezeichneten Eingabe der <placeName key="kronstadt" ref="#place_3341ffed6fa9ac4acf64535f4f9a72e5">Kronstädter</placeName> Gymnasiallehrer Conferenz an die
+                    verfolgen.“<lb/>So viel im Auszuge aus der bezeichneten Eingabe der <rs type="place" subtype="place" key="kronstadt" ref="#place_3341ffed6fa9ac4acf64535f4f9a72e5">Kronstädter</rs> Gymnasiallehrer Conferenz an die
                     höhern Kirchen- und Schulbehörden. In wie weit diese hier und ganz gewiß auch
                     anderwärts in dieser Richtung gethanen Schritte von dem gewünschten Erfolge
                     begleitet sein werden, wird die Zukunft lehren. Als ein erfreuliches Zeichen

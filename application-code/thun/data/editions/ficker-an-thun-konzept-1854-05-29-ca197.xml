@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="ficker-julius" role="sender">Julius Ficker</persName> an
-                        <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="ficker-julius" key="ficker-julius" role="sender">Julius Ficker</rs> an
+                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</placeName>, <date when="1854-05-29">29. Mai 1854</date>
+                    <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs>, <date when="1854-05-29">29. Mai 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -45,7 +44,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -75,7 +74,7 @@
                     entschließen konnte, werden Eure Exzellenz verzeihlich finden. Ich verhehle mir
                     keinen Augenblick, daß ein solcher Schritt die mannichfachsten
                     Unannehmlichkeiten für mich zur Folge habe, und manche Missdeutung erfahren
-                    kann. Aber das peinliche Gefühl einen <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Staat</country>, der mir die größten Vortheile geboten hat, verlassen zu
+                    kann. Aber das peinliche Gefühl einen <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Staat</rs>, der mir die größten Vortheile geboten hat, verlassen zu
                     sollen, ohne bei der kurzen Zeit meines hiesigen Wirkens Gelegenheit gefunden zu
                     haben, durch eine Thätigkeit, wie sie meine Kräfte erlauben, mich erkenntlich zu
                     zeigen – die durch das gnädige Schreiben<note xml:id="note_3">Vgl. den Brief
@@ -84,7 +83,7 @@
                     Exzellenz bestärkte Hoffnung, daß es mir gelingen werde, das mir bisher
                     geschenkte Zutrauen mir auch in Zukunft zu erhalten, und daß Leistungen, wie sie
                     in meinen Kräften stehen, hier im Süden auch auf die Dauer mehr Anerkennung
-                    finden dürften, als ich sie der ganzen Lage der Sachen nach in <country key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</country> zu erwarten hätte – die auch von Euer
+                    finden dürften, als ich sie der ganzen Lage der Sachen nach in <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> zu erwarten hätte – die auch von Euer
                     Exzellenz hervorgehobenen besonderen Schwierigkeiten der vereinzelten Stellung
                     eines katholischen Professors an einer wenn nicht dem Namen, doch dem Wesen nach
                         <orgName key="universitaet-bonn">protestantischen Universität</orgName> und
@@ -106,18 +105,18 @@
                     haben; sollten sich solche Aussichten nicht verwirklichen können, so werde ich,
                     für jetzt durch meinen Wirkungskreis befriedigt, getrost abwarten, was die
                     Zukunft bringen wird.<lb/>An bestimmte Bedingungen, zu deren Mittheilung Euer
-                    Exzellenz mich aufforderte, möchte ich mein Verbleiben in <placeName key="innsbruck" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</placeName> um so weniger knüpfen, als meine
+                    Exzellenz mich aufforderte, möchte ich mein Verbleiben in <rs type="place" subtype="place" key="innsbruck" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs> um so weniger knüpfen, als meine
                     Ernennung von vornherein unter verhältnismäßig günstigen Bedingungen erfolgt
                     ist; ich erlaube mir nur einige Wünsche vorzulegen, es dem geneigten Ermessen
                     Euer Exzellenz anheimzustellen, in wie weit dieselben jetzt oder später erfüllt
-                    werden können, oder nicht.<lb/>Zunächst würde meine Ernennung in <country key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</country> eine nach dortigen Gebahren definitive
+                    werden können, oder nicht.<lb/>Zunächst würde meine Ernennung in <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> eine nach dortigen Gebahren definitive
                     sein, während, wie mir hier wenigstens mitgetheilt wurde, jede Ernennung in
-                        <country ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</country> nach dreijähriger Amtsdauer der Bestätigung
+                        <rs type="place" subtype="country" ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</rs> nach dreijähriger Amtsdauer der Bestätigung
                     bedarf. Ich glaube allerdings annehmen zu dürfen, daß der in den Briefen Euer
                     Exzellenz ausgedrückte Wunsch, daß ich in meiner Stellung verbleiben möge, mir
                     die materielle Bürgschaft gibt, daß mir die Bestätigung nicht verweigert werden
                     würde; doch wäre es mir lieb, hierüber, falls solches überhaupt nöthig ist, auch
-                    eine formelle Bürgschaft zu haben.<lb/>Der mir in <country key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</country> gebotene Gehalt, der, wenn ich es zur Bedingung hätte
+                    eine formelle Bürgschaft zu haben.<lb/>Der mir in <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> gebotene Gehalt, der, wenn ich es zur Bedingung hätte
                     machen wollen, nach mir gewordenen Mittheilungen wohl noch erhöht worden wäre,
                     überstieg, auch abgesehen vom Unterschiede des Silbers und der Papierwährung,
                     meinen hiesigen Gehalt um hundert Thaler. Inwiefern etwa Euer Exzellenz geneigt
@@ -126,9 +125,9 @@
                     Ausgleichung nicht machen, obwohl ich einsehe, daß ich Verwandten und Freunden
                     gegenüber die Ablehnung der <orgName key="universitaet-bonn">Bonner</orgName>
                     Professur noch schwerer würde rechtfertigen können, wenn ich gestehen müsste,
-                    ein Verbleiben in <placeName ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</placeName> sogar auf ungünstigere
+                    ein Verbleiben in <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs> sogar auf ungünstigere
                     Bedingungen jenem Rufe vorgezogen zu haben.<lb/>Zur Fortsetzung meiner in
-                        <country ref="#place_389962c9dec540ab28d04517e82c3996">Italien</country> begonnenen Studien werde ich mich vielleicht
+                        <rs type="place" subtype="country" ref="#place_389962c9dec540ab28d04517e82c3996">Italien</rs> begonnenen Studien werde ich mich vielleicht
                     veranlasst sehen, später nochmals um einen wenn auch vielleicht nicht so
                     ausgedehnten Urlaub einzukommen. Für diesen Fall glaube ich wohl hoffen zu
                     dürfen, daß meine desfallsigen Wünsche bei Euer Exzellenz die Berücksichtigung,
@@ -150,7 +149,7 @@
                     am Herzen liegt, sehr förderlich sein könnte. Sollte sich für den gleichen Zweck
                     die Anschaffung einzelner historischer Werke als nöthig erweisen, so darf ich
                     wohl hoffen, daß meine desfallsigen Wünsche eine gleiche Berücksichtigung finden
-                    würden, wie sie ähnlich meinem Kollegen, Herrn <persName key="glax-heinrich">Prof. Glax</persName>, bereitwilligst zu Theil wurden. Bestimmtere Wünsche
+                    würden, wie sie ähnlich meinem Kollegen, Herrn <rs type="person" ref="glax-heinrich" key="glax-heinrich">Prof. Glax</rs>, bereitwilligst zu Theil wurden. Bestimmtere Wünsche
                     habe ich in dieser Beziehung für jetzt noch nicht, da das Ganze erst im
                     Entstehen ist und ich die ersten Erfolge abwarten möchte; doch möchte ich diese
                     Gelegenheit nicht unbenutzt lassen, um wenigstens vorläufig auf das hinzuweisen,

@@ -1,18 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="maresch-johann" role="sender:beamter">Johann
-                        Maresch</persName> an <persName role="recipient">einen Sektionsrat im
+                    <rs type="person" ref="maresch-johann" key="maresch-johann" role="sender:beamter">Johann
+                        Maresch</rs> an <rs type="person" ref="" role="recipient">einen Sektionsrat im
                             MCU<note xml:id="note_1">Der Adressat ist nicht eindeutig
                             identifizierbar. In Frage kommen: Joseph Mozart, Johann Fontana, Anton
                             Krombholz, Johann Simor, Johann Kleemann und Ludwig
                         Heufler.</note>
-                    </persName>
+                    </rs>
                     <lb/>
-                    <placeName ref="#place_73a427f5d9b418ded933f495406c46a0">Budweis</placeName>, <date when="1854-08-11">11. August 1854</date>
+                    <rs type="place" subtype="place" ref="#place_73a427f5d9b418ded933f495406c46a0">Budweis</rs>, <date when="1854-08-11">11. August 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -53,7 +52,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -72,36 +71,36 @@
                     den Statthaltereien enthielt Ihr liebes Schreiben zugleich den Auftrag zur
                     Bezeichnung einiger geeigneter Männer für Schulrathsstellen. An hiezu tüchtigen
                     Männern fehlt es nicht, obgleich auch diese nicht allzuhäufig angetroffen
-                    werden. Ein Schuldirektor <persName>Sammer</persName> in
-                        <placeName ref="#place_a909ae39141fb3cc1161d2103a55ed1b">Leitmeritz</placeName> dürfte für <region ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</region> und ein
-                        <persName key="reichel-carl">Reichel</persName> in
-                        <placeName ref="#place_24c87409776f0c35cc5176266b753b28">Eger</placeName> für die <region ref="#place_b5e9e75db151e1fff33838003e5fa591">Steiermark</region> vollkommen
-                    brauchbar sein und <persName key="renner">Canonicus Renner</persName> in
-                        <placeName ref="#place_5b95fe248458e8e40898129bb087ae5a">Nikolsburg</placeName> in <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region>
+                    werden. Ein Schuldirektor <rs type="person" ref="">Sammer</rs> in
+                        <rs type="place" subtype="place" ref="#place_a909ae39141fb3cc1161d2103a55ed1b">Leitmeritz</rs> dürfte für <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs> und ein
+                        <rs type="person" ref="reichel-carl" key="reichel-carl">Reichel</rs> in
+                        <rs type="place" subtype="place" ref="#place_24c87409776f0c35cc5176266b753b28">Eger</rs> für die <rs type="place" subtype="region" ref="#place_b5e9e75db151e1fff33838003e5fa591">Steiermark</rs> vollkommen
+                    brauchbar sein und <rs type="person" ref="renner" key="renner">Canonicus Renner</rs> in
+                        <rs type="place" subtype="place" ref="#place_5b95fe248458e8e40898129bb087ae5a">Nikolsburg</rs> in <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs>
                     [Mikulov], das er genau kennt, ersprießliche Dienste leisten. Die drei Genannten
                     würden durch die Ausdauer und Energie in ihren Bestrebungen, ihre Besonnenheit
                     und Umsicht beim Handeln und durch ihr beispielvolles Priesterleben die Sache
-                    der Menschheit, des Staates und der Kirche in <country ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</country>
+                    der Menschheit, des Staates und der Kirche in <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs>
                     wesentlich fördern und das Vertrauen so wie die Wahl unseres gütigen und edlen
-                        <persName key="thun-hohenstein-leo">Herrn Ministers</persName>
+                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Herrn Ministers</rs>
                     rechtfertigen.<lb/>Schwieriger erscheint die Bezeichnung einer Persönlichkeit
-                    für den Schulrathsposten in <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</region>. Wohl gibt es
+                    für den Schulrathsposten in <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs>. Wohl gibt es
                     hier treffliche Priester, allein sie sind mehr oder weniger befangen in
                     Erörterung der Sprachenfrage, huldigen ausschließend slavischen Tendenzen und
                     dürften der Erzeugung einer allgemeinen, österreichischen Gesinnung nachtheilig
-                    entgegen wirken. Wie schade ist es z.B., daß <persName key="vinaricky-karl-alois">Dechant Winařický</persName> bis jetzt von seinen
+                    entgegen wirken. Wie schade ist es z.B., daß <rs type="person" ref="vinaricky-karl-alois" key="vinaricky-karl-alois">Dechant Winařický</rs> bis jetzt von seinen
                     slavischen Utopien noch nicht geheilt ist. Erst vor wenigen Wochen tadelte er
                     mir gegenüber die hierortige Lehrerbildungsanstalt, und doch leistet dieselbe so
                     befriedigendes im Aufsatz und der Behandlung der Lehrbücher in <hi rend="ul">böhmischer</hi> Sprache und selbst beim mündlichen Vortrag vor den
                     Schülern, daß ich und der Scholastikus, ein gemäßigter Slave, vollkommen
-                    befriedigt waren. Diese Herrn übersehen ganz und gar das Bedürfnis <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</country>, ja mir kommt es vor, als wollten
+                    befriedigt waren. Diese Herrn übersehen ganz und gar das Bedürfnis <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs>, ja mir kommt es vor, als wollten
                     sie durch die verhinderte Aneignung der deutschen Sprache es unmöglich machen,
                     daß eine Verschmelzung der Interessen unter den Bewohnern statt finde, und als
                     strebten sie darnach, eine Reihe Unzufriedener zu erzeugen, welche dereinst eine
                     böhmische Technik und böhmische Fakultäten an der Universität erstreben würden.
-                    Anstatt, daß diese Herren mit dem großen <persName key="fenelon-francois">Fénelon</persName> sprächen: „Ich liebe mein Vaterland mehr als meinen
+                    Anstatt, daß diese Herren mit dem großen <rs type="person" ref="fenelon-francois" key="fenelon-francois">Fénelon</rs> sprächen: „Ich liebe mein Vaterland mehr als meinen
                     Vaterort; aber ich liebe die Menschheit mehr als mein Vaterland“ – haben sie nur
-                    Sinn für Eines, für <country key="tschechien" ref="#place_26035ba64034d6c2f956e750024e4498">Čechien</country>.<lb/>Ich bin
+                    Sinn für Eines, für <rs type="place" subtype="country" key="tschechien" ref="#place_26035ba64034d6c2f956e750024e4498">Čechien</rs>.<lb/>Ich bin
                     weit davon entfernt, den Slaven den Unterricht und die Ausbildung in der
                     Muttersprache zu verkümmern. Im Gegentheile, ich dringe darauf, daß etwas
                     rechtes darin geschehe. An den deutschen Realschulen lernen die Burschen recht
@@ -111,19 +110,19 @@
                     Sprache an den Realschulen in böhmischen Städten bemüht sein.<lb/>Ich sagte, daß
                     ich vor allem eine österreichische Gesinnung hervorzurufen suche. Ich kann mir
                     ohne ein derartiges sich Denken und Fühlen kein Heil für
-                        <country ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</country> denken. Die Krystallisationsprocesse der
-                    Völker <country key="europa" ref="#place_55899fef2f0b2eba13eb1316b34b3694">Europas</country> sind meiner Ansicht nach
+                        <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs> denken. Die Krystallisationsprocesse der
+                    Völker <rs type="place" subtype="country" key="europa" ref="#place_55899fef2f0b2eba13eb1316b34b3694">Europas</rs> sind meiner Ansicht nach
                     zweifacher Art. Nationalität und Religion heißen dieselben. Diese beiden Worte
                     werden für das nächste Jahrhundert, doch nein, schon nach zehn bis zwanzig
                     Jahren der Feldruf der Völker und der Stämme sein, welche in der bezeichneten
                     Richtung mit einander in geistiger Wahlverwandtschaft stehen. Nur dann, wenn die
-                    religiöse, die für <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</country> minder
+                    religiöse, die für <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> minder
                     gefährliche Frage die Oberhand gewinnt, wird das Streben nach innigerer und
                     unzertrennlicher und sofort nach dominierender Verbindung der Slaven um die
-                    Frage: „Ist <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</country> ein slavischer
+                    Frage: „Ist <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> ein slavischer
                     Staat?“ mit allen ihren schlimmen Folgen in den Hintergrund treten und der große
                     Assimilierungsproceß der großen Völkerfamilien, deren Spitzen wunderbarerweise
-                    in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</country> zusammenstoßen, allmählich
+                    in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> zusammenstoßen, allmählich
                     und ohne gewaltige Störung der Verhältnisse vor sich gehen.<lb/>Dazu gehört
                     aber, daß ein Verbindungsmittel zwischen den einzelnen Völkern statt finde.
                     Dieses geistige und materielle Medium ist außer der katholischen Kirche die
@@ -139,14 +138,14 @@
                     Zerfahrenheit, welche bisher die Bewohner des Kaiserstaates kennzeichnete, wird
                     aufhören, der Tyroler wird nicht ferner Tyroler, der Ungar nicht Ungar bleiben,
                     sie werden „Oesterreicher“ sein wollen und werden es sein.<lb/>In dieser
-                    Richtung bin ich bisher in <region ref="#place_1a477f0b4ff0e44372369bbd196cb38a">Böhmen</region> thätig gewesen. Ich bin fest
+                    Richtung bin ich bisher in <rs type="place" subtype="region" ref="#place_1a477f0b4ff0e44372369bbd196cb38a">Böhmen</rs> thätig gewesen. Ich bin fest
                     überzeugt, die seit vier Jahren meiner Leitung unterstandenen Realschullehrer
-                    und deren Schüler werden in dem benachbarten <country ref="#place_2b599b5935723d14cbf88a2b4bd8f5db">Sachsen</country> oder
-                        <country ref="#place_29a93c0139fd45a35375f2ded98bb90b">Preußen</country> sich als Oesterreicher bezeichnen und nicht als
+                    und deren Schüler werden in dem benachbarten <rs type="place" subtype="country" ref="#place_2b599b5935723d14cbf88a2b4bd8f5db">Sachsen</rs> oder
+                        <rs type="place" subtype="country" ref="#place_29a93c0139fd45a35375f2ded98bb90b">Preußen</rs> sich als Oesterreicher bezeichnen und nicht als
                     „Böhmen“, und in gleicher Weise werden sich die aus den Lehrerbildungsanstalten
-                    in <placeName ref="#place_73a427f5d9b418ded933f495406c46a0">Budweis</placeName>, <placeName ref="#place_a909ae39141fb3cc1161d2103a55ed1b">Leitmeritz</placeName> und der
+                    in <rs type="place" subtype="place" ref="#place_73a427f5d9b418ded933f495406c46a0">Budweis</rs>, <rs type="place" subtype="place" ref="#place_a909ae39141fb3cc1161d2103a55ed1b">Leitmeritz</rs> und der
                     Musterhauptschule hervorgegangenen Lehrer benehmen. Auch ein Theil derer zu
-                        <placeName key="koeniggraetz" ref="#place_b19bff5a3b79c0971a99eefa36cc1670">Königgraz</placeName> Gebildeten wird die
+                        <rs type="place" subtype="place" key="koeniggraetz" ref="#place_b19bff5a3b79c0971a99eefa36cc1670">Königgraz</rs> Gebildeten wird die
                     Parole halten.<lb/>Ich thue mir darauf etwas zu Gute, in der bezeichneten
                     Richtung seit dem Jahre 1842 gehandelt zu haben. Es kommt mir dermalen den
                     ältern böhmischen Lehrern gegenüber sehr zu statten, daß sie in Erfahrung
@@ -162,31 +161,31 @@
                     Derselbe ist ein Freund der Jugend, hat für die Volksschule in Wort, Schrift und
                     That mit Erfolg sich wirksam bewiesen und kennt als ehemaliger Oberamtmann, [?]
                     Advokat und Reichstagsdeputirter und gegenwärtiger Bezirkshauptmann erster
-                    Klasse die Bedürfnisse des Volkes wie nur wenige Schulmänner. Es ist <persName key="czermak-johann">J. A. Dr. Czermak</persName>. Bei seiner
+                    Klasse die Bedürfnisse des Volkes wie nur wenige Schulmänner. Es ist <rs type="person" ref="czermak-johann" key="czermak-johann">J. A. Dr. Czermak</rs>. Bei seiner
                     Geschäftsgewandtheit, seinen ausgebreiteten Bekanntschaften in der Beamtenwelt,
                     seinem ausgezeichneten Rufe würde er zugleich bei den noch zu regelnden
                     Schulfragen, die da heißen: Baukonkurrenz, Patronatsrecht, Schullehrerdotationen
-                    usw. auch im Bureau gute Dienste leisten. Zudem glaube ich mit <persName key="czermak-johann">Dr. Czermak</persName> so gut zu können, wie nicht
+                    usw. auch im Bureau gute Dienste leisten. Zudem glaube ich mit <rs type="person" ref="czermak-johann" key="czermak-johann">Dr. Czermak</rs> so gut zu können, wie nicht
                     besser mit einem anderen Kollegen, was auch nicht zu übersehen ist. Ich bin fest
-                    überzeugt, Euer Hochwürden können dem <persName key="thun-hohenstein-leo">Herrn
-                        Minister</persName> nicht leicht einen tüchtigeren und edleren Mann für das
-                    bezeichnete Amt empfehlen als <persName key="czermak-johann">Dr.
-                        Czermak</persName>.<lb/>Und nun zu etwas Anderem. Hoffentlich wird es Ihnen
-                    und dem trefflichen <persName key="thun-hohenstein-leo">Herrn
-                        Minister</persName> viele Freude bereiten. Euer Hochwürden erinnern sich
+                    überzeugt, Euer Hochwürden können dem <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Herrn
+                        Minister</rs> nicht leicht einen tüchtigeren und edleren Mann für das
+                    bezeichnete Amt empfehlen als <rs type="person" ref="czermak-johann" key="czermak-johann">Dr.
+                        Czermak</rs>.<lb/>Und nun zu etwas Anderem. Hoffentlich wird es Ihnen
+                    und dem trefflichen <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Herrn
+                        Minister</rs> viele Freude bereiten. Euer Hochwürden erinnern sich
                     meiner Mittheilung, daß ich meine in den Aufsätzen über die „Lehrernoth in
                     Böhmen“ ausgesprochene Idee zur Gründung von Schulfonden unablässig verfolge. In
-                        <placeName ref="#place_0f80a2b6d38f269c310fc62c5249d880">Liebenau</placeName> hatte mittlerweile der Bürgermeister, um nur
+                        <rs type="place" subtype="place" ref="#place_0f80a2b6d38f269c310fc62c5249d880">Liebenau</rs> hatte mittlerweile der Bürgermeister, um nur
                     meines Drängens los zu werden, einen kleinen Schulfond aus Gemeindemitteln
                     gegründet, trotz dessen, daß die Lehrer der jungen Hauptschule aus den
                     Stadtrenten bezahlt werden. Siehe, da starb ein wohlhabender Bürger des
                     Städtchens und überraschte den Bürgermeister durch ein Vermächtnis von 500 fl
                     für den „armen Schulfond in Liebenau“. Infolge dieses Ereignisses zu neuer
                     Thätigkeit für meinen Lieblingsgedanken angespornt, bat ich den Bezirkshauptmann
-                        <persName key="czermak-johann">Dr. Czermak</persName> für denselben thätig
+                        <rs type="person" ref="czermak-johann" key="czermak-johann">Dr. Czermak</rs> für denselben thätig
                     zu sein. Der brieflichen Verhandlung folgte die mündliche Unterredung auf meiner
                     Hinreise nach Wien, und siehe da, die Sache hat ihren günstigen Verlauf. Vor
-                    zehn Tagen schrieb mir <persName key="czermak-johann">Dr. Czermak</persName> mit
+                    zehn Tagen schrieb mir <rs type="person" ref="czermak-johann" key="czermak-johann">Dr. Czermak</rs> mit
                     Freuden, er habe gelegenheitlich der Anlehensfrage eilf Schulfonde mit
                     Dotationen von 50 bis 200 fl zu Stande gebracht und gestern erhielt ich von
                     demselben ein neuerliches Schreiben de dato 5. August, worin er mir jubelnd die
@@ -200,63 +199,63 @@
                     Mehrer des Reiches“ betraut werden, welche durch Sammlungen bei Hochzeiten,
                     Taufessen, Käufen und Verkäufen, Aufnahmen in den Gemeindeverband und
                     dergleichen mehr die ihnen gestellte Aufgabe zu lösen haben. Sie sehen schon,
-                    welch „nobile par fratrum“ der Bezirkshauptmann <persName key="czermak-johann">Dr. Czermak</persName> und Schulrath <persName key="maresch-johann">Maresch</persName> abgeben. Doch Scherz bei Seite, der Gedanke verdient im
+                    welch „nobile par fratrum“ der Bezirkshauptmann <rs type="person" ref="czermak-johann" key="czermak-johann">Dr. Czermak</rs> und Schulrath <rs type="person" ref="maresch-johann" key="maresch-johann">Maresch</rs> abgeben. Doch Scherz bei Seite, der Gedanke verdient im
                     Schulboten angeregt zu werden; ich habe vor meinem Abgange von
-                        <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> im Auftrage <persName key="thun-hohenstein-leo">Seiner Excellenz</persName> einen desfallsigen Erlaß an sämtliche
+                        <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> im Auftrage <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Seiner Excellenz</rs> einen desfallsigen Erlaß an sämtliche
                     Bezirkshauptmannschaften gearbeitet. Es dürfte gut sein, ähnliche Aufforderungen
                     auch nach anderen Kronländern ergehen zu lassen. Noch ist es nicht zu spät. Von
                     den Subscriptionen der Gemeinden auf das Anlehen kann auch nachträglich ein
                     Theil zu Schulfonden bestimmt und verwendet werden.<lb/>Im Pardubitzer
-                    Verwaltungsbezirke hat der thatkräftige und geliebte <persName key="czermak-johann">Dr. Czermak</persName> bereits 375.000 fl auf das
+                    Verwaltungsbezirke hat der thatkräftige und geliebte <rs type="person" ref="czermak-johann" key="czermak-johann">Dr. Czermak</rs> bereits 375.000 fl auf das
                     Anlehen zusammengebracht, und noch hatte er 14 Tage zu neuer Thätigkeit vor
                     sich, ehe mit dem 20. dieses Monats der Schluß erfolgt. <lb/>Demnächst erhalten
                     Euer Hochwürden meinen Bericht über die Lehrerbildungsanstalten, unter denen die
-                    böhmische in <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> in ihren Leistungen wie in erziehlicher
+                    böhmische in <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> in ihren Leistungen wie in erziehlicher
                     Wirksamkeit den übrigen weit nachsteht. O könnte ich Ihnen die vielen herrlichen
                     Jünglinge vorführen, die mit reger Begeisterung in das Leben hinaustreten. Seit
                     18 Jahren mit Lehrerbildung beschäftigt hatte ich doch niemals noch so viele
                     Freuden bei den Prüfungen wie heuer. Zwar ist die Zahl der Geprüften gering, nur
                     die böhmische Hauptschule hatte der Zöglinge sehr viele, darunter viele – Spreu.
                     Ein Theil hatte nur theilweise Prüfungen gemacht, obgleich sie schon zwei bis
-                    drei Jahre an der Anstalt waren. Leider schätzt das Konsistorium den <persName key="amerling-karl">Dr. Ammerling</persName> und auch Statthaltereirath
-                        <persName key="klingler-josef">Klingler</persName> ist für diesen seinen
+                    drei Jahre an der Anstalt waren. Leider schätzt das Konsistorium den <rs type="person" ref="amerling-karl" key="amerling-karl">Dr. Ammerling</rs> und auch Statthaltereirath
+                        <rs type="person" ref="klingler-josef" key="klingler-josef">Klingler</rs> ist für diesen seinen
                     Mitschüler. Jenes bestimmt die Opposition gegen die Schulräthe, diesen die
                     Mitschülerschaft. Ach was würde aus der jungen Schulpflanzung ohne das
                     Unterrichtsministerium und dessen Organe, die Schulräthe. Die wenigen Wochen
                     seit Errichtung der Statthalterei haben mir bereits die Zukunft vorgebildet.
                     Wahrlich, ohne eine geordnete, ehrenhafte Stellung wäre ich kein Jahr weiter
                     Schulrath geblieben, sondern hätte mich um ein Kuralbenefizium umgesehen, hätte
-                    da <hi rend="ul">mir</hi>, wie ein zweiter <persName key="lucius-quinctius-cincinnatus">Cincinatus</persName>, doch ohne dessen
+                    da <hi rend="ul">mir</hi>, wie ein zweiter <rs type="person" ref="lucius-quinctius-cincinnatus" key="lucius-quinctius-cincinnatus">Cincinatus</rs>, doch ohne dessen
                     Zukunft, meiner <hi rend="ul">Schule</hi> und <hi rend="ul">Gemeinde</hi> und
                     dem jüngeren <hi rend="ul">Klerus</hi> der Umgegend gelebt. Den ersteren hätte
                     ich mich gemüht zu sein ein Vater, dem letzteren ein geistiger
-                    Mittelpunkt.<lb/>Doch der edle <hi rend="ul">Ban</hi>, <persName key="thun-hohenstein-leo">Graf von <hi rend="ul">Thun</hi>
-                    </persName>, hat
+                    Mittelpunkt.<lb/>Doch der edle <hi rend="ul">Ban</hi>, <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Graf von <hi rend="ul">Thun</hi>
+                    </rs>, hat
                     gesiegt. Es gilt, unter seinem Panier ferner wirksam zu sein. Er ist der <hi rend="ul">geistige</hi>
-                    <persName key="radetzky-josef-wenzel">Radetzki</persName>, der Oesterreichs
+                    <rs type="person" ref="radetzky-josef-wenzel" key="radetzky-josef-wenzel">Radetzki</rs>, der Oesterreichs
                     geistige Zukunft begründet, wie dieser dessen politische Existenz in der Reihe
                     der Saaten Europas. Diese Existenz kann ohne dem Vorhandensein jener nicht
                     gedacht werden, darum ist er der größere Feldherr. Heil ihm!<lb/>Wie wohl ist
                     mir bei dem langen Schreiben an Sie geworden. „Die Tage von Aranjuez“, die
-                    meines letzten Besuches in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, sind vorüber und doch
+                    meines letzten Besuches in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, sind vorüber und doch
                     klingen die Erinnerungen wohlthuend in meiner Seele wieder. Ich habe in diesen
                     Sommermonaten viel gearbeitet, bin häufig acht Stunden täglich in den
                     Schulzimmern thätig gewesen und habe abends schriftliche Arbeiten ausgebessert.
                     Nun will ich nur noch meine Berichte arbeiten und sodann zum Studium der
                     Zeichnen-, Gewerb- und Handels- so wie der weiblichen Klosterschulen das
-                    westliche <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country> besuchen, um Stoff zu einem
+                    westliche <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> besuchen, um Stoff zu einem
                     pädagogischen Reiseberichte für mein Jahrbuch zu sammeln. O kommen Sie mit bis
-                        <placeName ref="#place_d0a6343a081a7335baa965ce4fd0845c">München</placeName>. Freund <persName key="becker-moritz">Becker</persName> wird gleichfalls Urlaub erhalten und Sie begleiten? Was
-                    werden Sie in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> machen. Erholung thut Ihnen Noth.
+                        <rs type="place" subtype="place" ref="#place_d0a6343a081a7335baa965ce4fd0845c">München</rs>. Freund <rs type="person" ref="becker-moritz" key="becker-moritz">Becker</rs> wird gleichfalls Urlaub erhalten und Sie begleiten? Was
+                    werden Sie in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> machen. Erholung thut Ihnen Noth.
                     Jahrelang sind Sie gesessen als der Unermüdlichste unter den Unermüdlichen, „le
                     brave des braves“ jetzt gebietet das fünfte Gebot einen Stillstand und mein
                     catonisches „Ego autem censeo, Viennam esse pro tempore derolinquendam“ ertönt
-                    als gewaltiger Mahnruf. <placeName ref="#place_d0a6343a081a7335baa965ce4fd0845c">München</placeName> wird viele Ausbeute für
+                    als gewaltiger Mahnruf. <rs type="place" subtype="place" ref="#place_d0a6343a081a7335baa965ce4fd0845c">München</rs> wird viele Ausbeute für
                     unsere Real- und Volksschulen bieten. O kommen Sie.<lb/>In
-                        <placeName ref="#place_4744fc042844c987d0121739bb70fff7">Tabor</placeName> entsteht dermalen ein großes Schulgebäude,
-                    eines der schönsten in <country ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</country>. Ich werde demnächst etwas
+                        <rs type="place" subtype="place" ref="#place_4744fc042844c987d0121739bb70fff7">Tabor</rs> entsteht dermalen ein großes Schulgebäude,
+                    eines der schönsten in <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs>. Ich werde demnächst etwas
                     darüber dem Schulboten zusenden. Dagegen folgt demnächst über
-                        <placeName ref="#place_73a427f5d9b418ded933f495406c46a0">Budweis</placeName> ein Lamento. Mit der hierortigen
+                        <rs type="place" subtype="place" ref="#place_73a427f5d9b418ded933f495406c46a0">Budweis</rs> ein Lamento. Mit der hierortigen
                     Unterrealschule will ich eine einjährige Handelsschule verbinden. Die früher
                     Bestandene ist in Nichts zerfallen. Alle Zahlungen sind daher ins Stocken
                     gerathen. Man kommt mir freundlich und freudig entgegen und sagt mir Dank, daß
@@ -267,10 +266,10 @@
                     Achtung und Liebe ergebener Verehrer</p>
                 <p>J. Maresch</p>
                 <p>Budweis, am 11. August 1854</p>
-                <p>P.S. Ich reise über <placeName ref="#place_1adde96f863cc1b748427107d66db087">Wodnian</placeName>, <placeName ref="#place_3172a77b8607114165d5656e9757720e">Pisek</placeName>
-                    und <placeName ref="#place_35681fe9e812627a70c2fdfcfe220851">Přibram</placeName> nach <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> zurück,
+                <p>P.S. Ich reise über <rs type="place" subtype="place" ref="#place_1adde96f863cc1b748427107d66db087">Wodnian</rs>, <rs type="place" subtype="place" ref="#place_3172a77b8607114165d5656e9757720e">Pisek</rs>
+                    und <rs type="place" subtype="place" ref="#place_35681fe9e812627a70c2fdfcfe220851">Přibram</rs> nach <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> zurück,
                     woselbst ich am 17. einzutreffen, am 20. aber nach
-                        <placeName ref="#place_d0a6343a081a7335baa965ce4fd0845c">München</placeName> zu reisen gedenke.</p>
+                        <rs type="place" subtype="place" ref="#place_d0a6343a081a7335baa965ce4fd0845c">München</rs> zu reisen gedenke.</p>
             </div>
         </body>
     </text>

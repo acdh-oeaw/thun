@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="segesser-philipp-anton" role="sender">Philipp Anton
-                        Segesser</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="segesser-philipp-anton" key="segesser-philipp-anton" role="sender">Philipp Anton
+                        Segesser</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>o. O., o. D. <date when="1856-11">[November
                         1856]</date>
                     <note xml:id="note_1">Die Datierung ergibt sich aus dem <ref target="thun/thun-korrespondenz/Staatsarchiv_Luzern/thun-an-segesser_1856-10-27_CA567.xml">vorangegangen Schreiben Leo Thuns an Philipp Anton Segesser vom 27.
@@ -39,7 +38,7 @@
                 </p>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -51,7 +50,7 @@
                     <term>Rechtsgeschichte</term>
                 </index>
                 <p>Euer Hochwohlgeboren sehr verehrte Zuschrift vom <ref target="thun/thun-korrespondenz/Staatsarchiv_Luzern/thun-an-segesser_1856-10-27_CA567.xml">27. vorigen Monats</ref> sezt mich in Kenntniß, daß die Lehrkanzel, welche
-                        <persName key="franz-joseph">Seine Majestät</persName> mir zu übertragen
+                        <rs type="person" ref="franz-joseph" key="franz-joseph">Seine Majestät</rs> mir zu übertragen
                     willens ist, (an der <orgName key="universitaet-graz">Universität
                     Graz</orgName>), speciell für deutsche Reichs und Rechtsgeschichte und deutsches
                     Privatrecht bestimmt sei. Die damit verbundenen materiellen Vortheile bestünden
@@ -63,13 +62,13 @@
                     diese beiden Fächer entsprechen zu können, so daß von daher kein Hinderniß einer
                     annehmenden Erklärung meinerseits in Wege stünde.<lb/>Etwas anders verhält es
                     sich mit Beziehung auf den mir in Aussicht gestellten Gehalt. Allerdings habe
-                    ich zur Zeit zu dem genannten Herrn <persName key="kuebeck-von-kuebau-alois">Ministerialrat von Kübeck</persName> mich dahin ausgesprochen, daß ich bei
-                    einem Wirkungskreise in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</country> nicht
+                    ich zur Zeit zu dem genannten Herrn <rs type="person" ref="kuebeck-von-kuebau-alois" key="kuebeck-von-kuebau-alois">Ministerialrat von Kübeck</rs> mich dahin ausgesprochen, daß ich bei
+                    einem Wirkungskreise in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> nicht
                     gerade materielle Vortheile im Auge hätte, indem meine Verhältniße mir
                     erlaubten, auch ohne Anstellung hier zu leben und keine Nöthigung für mich
                     vorhanden sei, auf eine besonders lucrative Stelle auswärts mein Augenmerk zu
                     richten. Dabei konnte ich jedoch unmöglich daran denken, aus meinem eigenen
-                    Vermögen Opfer zu bringen um aus den wenig dankbaren Verhältnißen im <country key="schweiz" ref="#place_4160709db9e1cdde5a7947ce6d71bb0d">Vaterland</country> hinaus zu einer Stellung in den KK Staaten
+                    Vermögen Opfer zu bringen um aus den wenig dankbaren Verhältnißen im <rs type="place" subtype="country" key="schweiz" ref="#place_4160709db9e1cdde5a7947ce6d71bb0d">Vaterland</rs> hinaus zu einer Stellung in den KK Staaten
                     zu kommen, welche zwar für mich außerordentlich ehrenvoll sein aber desto
                     weniger mir keinerlei weitere Aussichten eröffnen würde welche den anfänglichen
                     Einsatz eigenen Aufwandes rechtfertigen. Ich bezweifle keineswegs, daß bei der

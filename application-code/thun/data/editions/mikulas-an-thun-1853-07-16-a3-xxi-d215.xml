@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="mikulas-johann" role="sender:beamter">Johann
-                        Mikulas</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="mikulas-johann" key="mikulas-johann" role="sender:beamter">Johann
+                        Mikulas</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</placeName>, <date when="1853-07-16">16. Juli 1853</date>
+                    <rs type="place" subtype="place" ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</rs>, <date when="1853-07-16">16. Juli 1853</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -55,7 +54,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -73,7 +72,7 @@
                     nunmehr vollständige Reorganisation des 8-klassigen Gymnasiums in N[agy] Körös
                     hat mir nicht nur den Anlaß geboten, sondern auch die Pflicht auferlegt, mich
                     mit einigen dringenden Bitten an Euere Excellenz zu wenden.<lb/>Die baldige
-                    Verleihung des Öffentlichkeitsrechtes für das <placeName key="nagykoeroes" ref="#place_99c830657e6832ddfe8ea32dfa875ae1">Köröser</placeName> Gymnasium liegt mir, der ich die Umstände jetzt schon
+                    Verleihung des Öffentlichkeitsrechtes für das <rs type="place" subtype="place" key="nagykoeroes" ref="#place_99c830657e6832ddfe8ea32dfa875ae1">Köröser</rs> Gymnasium liegt mir, der ich die Umstände jetzt schon
                     genau zu kennen meine, sehr am Herzen. Die braven Köröser haben von vielen
                     Seiten verleumdet, angefeindet und durch falsche Gerüchte – z. B. durch das
                     weitverbreitete Gerücht, das <orgName key="ministerium-fuer-kultus-und-unterricht">k.k.
@@ -82,7 +81,7 @@
                     gezweifelt, den Wünschen der Regirung nachzukommen. Nun bietet sich Euerer
                     Excellenz eine erwünschte Gelegenheit dar, diejenigen Lügen zu strafen, welche
                     behaupten, daß die neuen Bestimmungen über den Unterricht die Vernichtung der
-                    evangelischen Schulen bezwecken. Das <placeName key="nagykoeroes" ref="#place_99c830657e6832ddfe8ea32dfa875ae1">Köröser</placeName> Gymnasium ist – wenn ich nicht sehr irre – den
+                    evangelischen Schulen bezwecken. Das <rs type="place" subtype="place" key="nagykoeroes" ref="#place_99c830657e6832ddfe8ea32dfa875ae1">Köröser</rs> Gymnasium ist – wenn ich nicht sehr irre – den
                     Staatsgymnasien ganz analog eingerichtet, und ich sehe keinen Grund, warum
                     dasselbe nicht sogleich für eine öffentliche Schule erklärt werden könnte. Da
                     nun die erwähnten Verleumdungen alle meine Schritte hemmen, so läge es in der
@@ -91,29 +90,29 @@
                     anzuordnen. Es ist ganz überflüssig, daß der Herr Referent die Masse von
                     magyarischen Beilagestücken studire. Sollten Euere Excellenz die Entscheidung zu
                     treffen geruhen, daß mindestens einer der compromittirten Professoren beseitigt
-                    werden müsse, so wäre eher <persName key="janosi-franz">Jánosi</persName> zu
-                    entfernen als <persName key="szasz-karl">Szász</persName>, welcher äußerst
+                    werden müsse, so wäre eher <rs type="person" ref="janosi-franz" key="janosi-franz">Jánosi</rs> zu
+                    entfernen als <rs type="person" ref="szasz-karl" key="szasz-karl">Szász</rs>, welcher äußerst
                     geschickt ist und eine wirkliche Reue an den Tag gelegt hat. Der zum Director
-                    vorgeschlagene <persName key="varga-johann">Varga</persName> besitzt wenig
+                    vorgeschlagene <rs type="person" ref="varga-johann" key="varga-johann">Varga</rs> besitzt wenig
                     Bildung, aber umso mehr Prätensionen; er wurde zum Rector gewählt, weil er sonst
                     nicht ermüden würde, seine Collegen bei den Landesstellen zu verdächtigen. In
                     2–3 Jahren können sich aber die Individuen minder correcter Gesinnung so sehr zu
-                    ihrem Vortheil ändern, daß es wirklich schade wäre, den <persName key="varga-johann">Varga</persName> an dem Posten noch ferner zu belassen.
-                    Der zur Führung des Rectorates geeigneteste Lehrer wäre <persName key="kiss-ludwig">Ludwig Kiss</persName>, einer der ausgezeichnetesten
-                    Pädagogen in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country>. Es ist allerdings wahr, daß ich mit dem
+                    ihrem Vortheil ändern, daß es wirklich schade wäre, den <rs type="person" ref="varga-johann" key="varga-johann">Varga</rs> an dem Posten noch ferner zu belassen.
+                    Der zur Führung des Rectorates geeigneteste Lehrer wäre <rs type="person" ref="kiss-ludwig" key="kiss-ludwig">Ludwig Kiss</rs>, einer der ausgezeichnetesten
+                    Pädagogen in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>. Es ist allerdings wahr, daß ich mit dem
                     Geiste, welcher an vielen Schulen herrscht, sehr unzufrieden bin und genöthigt
                     sein werde, behufs einer strengeren Überwachung im Wege der Schulbehörde Anträge
                     zu stellen. Allein Körös ist in dieser Beziehung verhältnismäßig noch eine
                     rühmenswerthe Ausnahme. Man hat mir vor einigen Tagen geschrieben, daß das
-                        <placeName key="nagykoeroes" ref="#place_99c830657e6832ddfe8ea32dfa875ae1">Köröser</placeName> Consistorium beschlossen
+                        <rs type="place" subtype="place" key="nagykoeroes" ref="#place_99c830657e6832ddfe8ea32dfa875ae1">Köröser</rs> Consistorium beschlossen
                     habe, eine Deputation an Euere Excellenz zu senden. Der Führer dieser Deputation
-                    ist der Ortsprediger <persName key="bathory-gabriel">Gabriel von
-                        Báthori</persName>, welcher schon im Monate März diesen Jahres um eine
+                    ist der Ortsprediger <rs type="person" ref="bathory-gabriel" key="bathory-gabriel">Gabriel von
+                        Báthori</rs>, welcher schon im Monate März diesen Jahres um eine
                     Audienz bei Euerer Excellenz ansuchte, aber nicht vorgelassen werden konnte.
                     Sollten Euere Excellenz jetzt Muße finden die Deputation zu empfangen, so
-                    erlaube ich mir zu bemerken, daß <persName key="bathory-gabriel">Báthori</persName> ein sehr redlicher und der Regierung ergebener Mann sei,
-                    dessen Bemühungen die schöne Dotirung des <placeName key="nagykoeroes" ref="#place_99c830657e6832ddfe8ea32dfa875ae1">Köröser</placeName> Gymnasiums zu verdanken ist.<lb/>In kurzer Zeit werde
-                    ich eine Bitte oder Anfrage der <placeName key="miskolc" ref="#place_af35ec026fddf9c8c4ecda002507bd0e">Miskolczer</placeName>
+                    erlaube ich mir zu bemerken, daß <rs type="person" ref="bathory-gabriel" key="bathory-gabriel">Báthori</rs> ein sehr redlicher und der Regierung ergebener Mann sei,
+                    dessen Bemühungen die schöne Dotirung des <rs type="place" subtype="place" key="nagykoeroes" ref="#place_99c830657e6832ddfe8ea32dfa875ae1">Köröser</rs> Gymnasiums zu verdanken ist.<lb/>In kurzer Zeit werde
+                    ich eine Bitte oder Anfrage der <rs type="place" subtype="place" key="miskolc" ref="#place_af35ec026fddf9c8c4ecda002507bd0e">Miskolczer</rs>
                     Gemeinde, welche ebenfalls ein Obergymnasium organisirt, vorzulegen die Ehre
                     haben. Die Miskolczer haben Beiträge gesammelt, sich selbst besteuert, ja sogar
                     eine Predigerstelle eingehen lassen, kurz, sie haben alles gethan, um imstande
@@ -126,24 +125,24 @@
                     hätte zu wünschen, daß jenes Gymnasium ein öffentliches werde. Diese Gründe
                     sind: Gibt man der Bitte der schon ganz erschöpften Gemeinde keine Folge, so ist
                     sie entschlossen, auch dasjenige rückgängig zu machen, was bis jetzt zustande
-                    gebracht worden. Ferner liegt in der Nähe <placeName ref="#place_47088a3d243bf94ce750f415da7bb8c4">Sárospatak</placeName> eine
+                    gebracht worden. Ferner liegt in der Nähe <rs type="place" subtype="place" ref="#place_47088a3d243bf94ce750f415da7bb8c4">Sárospatak</rs> eine
                     Schule, worin seither ein bedenklicher Geist herrschte. Diese Schule gehört zu
-                    dem <placeName key="kaschau" ref="#place_22a2f1f624c6b325d7a65ca6825fa9c0">Kaschauer</placeName> [Košice] Districte, obwohl
-                    sie sowie auch das <placeName key="szarvas" ref="#place_d7f804208c8417bfc76a3b058c98a5f2">Szarvaser</placeName> Gymnasium zum
+                    dem <rs type="place" subtype="place" key="kaschau" ref="#place_22a2f1f624c6b325d7a65ca6825fa9c0">Kaschauer</rs> [Košice] Districte, obwohl
+                    sie sowie auch das <rs type="place" subtype="place" key="szarvas" ref="#place_d7f804208c8417bfc76a3b058c98a5f2">Szarvaser</rs> Gymnasium zum
                     Rayon der hiesigen Schulbehörde zu gehören wünschte. Es wäre also zu wünschen,
-                    daß die Studirenden von <placeName ref="#place_47088a3d243bf94ce750f415da7bb8c4">Sárospatak</placeName>, deren Zahl sich
-                    außerordentlich mehrt, nach <placeName key="miskolc" ref="#place_af35ec026fddf9c8c4ecda002507bd0e">Miskolcz</placeName>
+                    daß die Studirenden von <rs type="place" subtype="place" ref="#place_47088a3d243bf94ce750f415da7bb8c4">Sárospatak</rs>, deren Zahl sich
+                    außerordentlich mehrt, nach <rs type="place" subtype="place" key="miskolc" ref="#place_af35ec026fddf9c8c4ecda002507bd0e">Miskolcz</rs>
                     gezogen würden. Dies kann aber nur dadurch bewirkt werden, wenn man das
                     Öffentlichkeitsrecht den Miskolczern zugesteht, den S. Patakern einstweilen noch
                     vorenthält. Endlich bin ich fest überzeugt, daß nur an öffentlichen Gymnasien
                     ein guter Geist in Bälde einkehren kann. Aus diesen Gründen muß ich wieder
-                    bitten, auch die Vorlagen betreffend <placeName key="miskolc" ref="#place_af35ec026fddf9c8c4ecda002507bd0e">Miskolcz</placeName> schleunig erledigen zu lassen.<lb/>Mit der soeben
+                    bitten, auch die Vorlagen betreffend <rs type="place" subtype="place" key="miskolc" ref="#place_af35ec026fddf9c8c4ecda002507bd0e">Miskolcz</rs> schleunig erledigen zu lassen.<lb/>Mit der soeben
                     ausgesprochenen Überzeugung steht ein andrer Gegenstand in engem Zusammenhange.
                     Es ist mir bekannt, zumal eine Deputation bei mir war, die Angelegenheit zu
-                    empfehlen, daß aus dem am 13. Juni hier in <placeName ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</placeName>
+                    empfehlen, daß aus dem am 13. Juni hier in <rs type="place" subtype="place" ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</rs>
                     abgehaltenen Superintendenzialconvente ein Gesuch an Euere Excellenz gerichtet
                     wurde des Inhaltes, daß den Schülern des 8-klassigen Gymnasiums zu
-                        <placeName ref="#place_95c0e54abfdbda09cbd823fc2752810c">Kecskemét</placeName> gestattet werde, die Maturitätsprüfung ohne
+                        <rs type="place" subtype="place" ref="#place_95c0e54abfdbda09cbd823fc2752810c">Kecskemét</rs> gestattet werde, die Maturitätsprüfung ohne
                     Vorweisung von staatsgiltigen Zeugnissen abzulegen. Ich habe nicht nur die
                     Verordnung vom 27. Juni 1850, sondern auch manche Erlässe, welche von diesem
                     Gegenstande handeln, aufmerksam gelesen, um zu sehen, ob Euere Excellenz den
@@ -155,9 +154,9 @@
                     Concessionen nur auf den häuslichen Privatunterricht beziehend den Bittstellern
                     einen entschieden abschlägigen Bescheid geben. Denn was wäre die Folge einer
                     günstigen Entscheidung? Die Schüler solcher Winkelgymnasien, wie in
-                        <placeName ref="#place_5611d6acf598fd93a611213084c7f748">Kisujszállás</placeName>, Karczag [<placeName ref="#place_abc988eb3eb604ff001687b247f795d6">Karcag</placeName>]
-                    oder <placeName ref="#place_28f7dfb27502f734e445f7dd714811df">Aszód</placeName>, würden bei einem oder zwei Lehrern 4 Klassen
-                    absolviren, dann nach <placeName ref="#place_95c0e54abfdbda09cbd823fc2752810c">Kecskemét</placeName> gehen, weil dort weniger
+                        <rs type="place" subtype="place" ref="#place_5611d6acf598fd93a611213084c7f748">Kisujszállás</rs>, Karczag [<rs type="place" subtype="place" ref="#place_abc988eb3eb604ff001687b247f795d6">Karcag</rs>]
+                    oder <rs type="place" subtype="place" ref="#place_28f7dfb27502f734e445f7dd714811df">Aszód</rs>, würden bei einem oder zwei Lehrern 4 Klassen
+                    absolviren, dann nach <rs type="place" subtype="place" ref="#place_95c0e54abfdbda09cbd823fc2752810c">Kecskemét</rs> gehen, weil dort weniger
                     zu lernen wäre als an einem öffentlichen Gymnasium, und sich dann rebus quasi
                     bene gestis einer Maturitätsprüfungscommission stellen, welche noch sehr lange
                     und vielleicht immer ungeachtet der Verordnungen, eine wahrhaft sträfliche
@@ -168,35 +167,35 @@
                     begonnene Werk vernichtet wird, wenn die Kecskeméter eine günstige Entscheidung
                     erhalten. Dann werden alle Gemeinden, die schon einiges leisteten, retractiren
                     und es wird uns nie gelingen, den schlechten Geist in den Schulen auszurotten.
-                    Und warum will die <placeName key="kecskemet" ref="#place_dc706bd0ddba4fe674133b73de4f8df4">Kecskeméter</placeName> reformirte
+                    Und warum will die <rs type="place" subtype="place" key="kecskemet" ref="#place_dc706bd0ddba4fe674133b73de4f8df4">Kecskeméter</rs> reformirte
                     Kirchengemeinde ihr 8-klassiges Gymnasium um jeden Preis behalten, wo doch nach
-                    Eröffnung der Eisenbahnstrecke von <placeName ref="#place_83b64984e80937d181f391939360bf3f">Czegléd</placeName> bis
-                        <placeName ref="#place_95c0e54abfdbda09cbd823fc2752810c">Kecskemét</placeName>, welche wahrscheinlich schon im nächsten
-                    Monate erfolgen wird, das benachbarte <placeName key="nagykoeroes" ref="#place_99c830657e6832ddfe8ea32dfa875ae1">Körös</placeName> mit seinem vollständig reorganisirten Obergymnasium nur
-                    10 Minuten von <placeName ref="#place_95c0e54abfdbda09cbd823fc2752810c">Kecskemét</placeName> entfernt sein wird? Weil
-                        <placeName ref="#place_95c0e54abfdbda09cbd823fc2752810c">Kecskemét</placeName> und <placeName key="nagykoeroes" ref="#place_99c830657e6832ddfe8ea32dfa875ae1">Körös</placeName> seit etwa 25 Jahren dermaßen miteinander rivalisiren, daß
+                    Eröffnung der Eisenbahnstrecke von <rs type="place" subtype="place" ref="#place_83b64984e80937d181f391939360bf3f">Czegléd</rs> bis
+                        <rs type="place" subtype="place" ref="#place_95c0e54abfdbda09cbd823fc2752810c">Kecskemét</rs>, welche wahrscheinlich schon im nächsten
+                    Monate erfolgen wird, das benachbarte <rs type="place" subtype="place" key="nagykoeroes" ref="#place_99c830657e6832ddfe8ea32dfa875ae1">Körös</rs> mit seinem vollständig reorganisirten Obergymnasium nur
+                    10 Minuten von <rs type="place" subtype="place" ref="#place_95c0e54abfdbda09cbd823fc2752810c">Kecskemét</rs> entfernt sein wird? Weil
+                        <rs type="place" subtype="place" ref="#place_95c0e54abfdbda09cbd823fc2752810c">Kecskemét</rs> und <rs type="place" subtype="place" key="nagykoeroes" ref="#place_99c830657e6832ddfe8ea32dfa875ae1">Körös</rs> seit etwa 25 Jahren dermaßen miteinander rivalisiren, daß
                     sie sich einander in jeder Hinsicht stets überbieten wollen, weil es die
-                    Eitelkeit der Kecskeméter nicht verdauen könnte, daß <placeName key="nagykoeroes" ref="#place_99c830657e6832ddfe8ea32dfa875ae1">Körös</placeName> ein Gymnasium habe und
-                        <placeName ref="#place_95c0e54abfdbda09cbd823fc2752810c">Kecskemét</placeName> „nur“ etwa eine Realschule, und weil der
-                    Superintendent <persName key="polgar-michael">Polgár</persName>, ein guter aber
-                    schwacher alter Mann, welcher zugleich <placeName key="kecskemet" ref="#place_dc706bd0ddba4fe674133b73de4f8df4">Kecskeméter</placeName> Pfarrer ist und somit von den Kecskemétern in
+                    Eitelkeit der Kecskeméter nicht verdauen könnte, daß <rs type="place" subtype="place" key="nagykoeroes" ref="#place_99c830657e6832ddfe8ea32dfa875ae1">Körös</rs> ein Gymnasium habe und
+                        <rs type="place" subtype="place" ref="#place_95c0e54abfdbda09cbd823fc2752810c">Kecskemét</rs> „nur“ etwa eine Realschule, und weil der
+                    Superintendent <rs type="person" ref="polgar-michael" key="polgar-michael">Polgár</rs>, ein guter aber
+                    schwacher alter Mann, welcher zugleich <rs type="place" subtype="place" key="kecskemet" ref="#place_dc706bd0ddba4fe674133b73de4f8df4">Kecskeméter</rs> Pfarrer ist und somit von den Kecskemétern in
                     steter Abhängigkeit gehalten wird, die Interessen der gesammten Superintendenz
-                    den Localinteressen von <placeName ref="#place_95c0e54abfdbda09cbd823fc2752810c">Kecskemét</placeName> unterordnen muß und
-                    sich von seinen Söhnen, von den Professoren an der <placeName key="kecskemet" ref="#place_dc706bd0ddba4fe674133b73de4f8df4">Kecskeméter</placeName> theologischen Lehranstalt und von den Advocaten in
-                        <placeName ref="#place_95c0e54abfdbda09cbd823fc2752810c">Kecskemét</placeName> regiren läßt. Alle Senioren der reformirten
+                    den Localinteressen von <rs type="place" subtype="place" ref="#place_95c0e54abfdbda09cbd823fc2752810c">Kecskemét</rs> unterordnen muß und
+                    sich von seinen Söhnen, von den Professoren an der <rs type="place" subtype="place" key="kecskemet" ref="#place_dc706bd0ddba4fe674133b73de4f8df4">Kecskeméter</rs> theologischen Lehranstalt und von den Advocaten in
+                        <rs type="place" subtype="place" ref="#place_95c0e54abfdbda09cbd823fc2752810c">Kecskemét</rs> regiren läßt. Alle Senioren der reformirten
                     Superintendenz versuchten ungefähr in der Richtung zu wirken, welche ich selbst
-                    für die richtige halte; allein ihnen trat stets der <persName key="polgar-michael">Superintendent</persName> mit seinen Rathgebern in den
+                    für die richtige halte; allein ihnen trat stets der <rs type="person" ref="polgar-michael" key="polgar-michael">Superintendent</rs> mit seinen Rathgebern in den
                     Weg und vereitelte die besten Absichten. Der Superintendent ist aber, vermöge
                     der ihm mit der Verordnung vom 10. Februar 1850 verliehenen Amtsgewalt, der
                     alleinige Leiter der Superintendenz. Für alles, was ich hier sage, und noch mehr
                     als ich sage, habe ich unumstößliche Beweise, nämlich die Protocolle des
                     Superintendenten, in Händen. Ich wußte mir dieselben zu verschaffen. Wollte
-                        <placeName ref="#place_95c0e54abfdbda09cbd823fc2752810c">Kecskemét</placeName> die bisher festgehaltenen unsinnigen Pläne
+                        <rs type="place" subtype="place" ref="#place_95c0e54abfdbda09cbd823fc2752810c">Kecskemét</rs> die bisher festgehaltenen unsinnigen Pläne
                     aufgeben und eine Realschule errichten oder die theologische Anstalt
                     vervollständigen, dann würde die ganze Superintendenz hilfreiche Hand zu diesem
                     Bestreben reichen, während jetzt gegenseitige Erbitterung herrscht und die
                     Verwirrung wächst.<lb/>Allein dem Gesagten zufolge würde ich sehr wünschen, daß
-                    in <placeName key="nagykoeroes" ref="#place_99c830657e6832ddfe8ea32dfa875ae1">Körös</placeName> und <placeName key="miskolc" ref="#place_af35ec026fddf9c8c4ecda002507bd0e">Miskolcz</placeName> sobald als nur möglich öffentliche Obergymnasien
+                    in <rs type="place" subtype="place" key="nagykoeroes" ref="#place_99c830657e6832ddfe8ea32dfa875ae1">Körös</rs> und <rs type="place" subtype="place" key="miskolc" ref="#place_af35ec026fddf9c8c4ecda002507bd0e">Miskolcz</rs> sobald als nur möglich öffentliche Obergymnasien
                     bestehen. Dann wäre nach meiner Meinung ein energisches Auftreten von Seite der
                     Regierung erforderlich. Es sollten alle evangelischen Gymnasialschulen in diesem
                     Districte für bloße Privatanstalten erklärt und diese Erklärung auch in die
@@ -207,7 +206,7 @@
                     legalen Prüfung unterziehen. Ferner könnten Euere Excellenz die Gnade haben,
                     baldigst den Befehl zu erlassen, daß über den Zustand der sämmtlichen
                     evangelischen Gymnasien in diesem Districte, zumal betreffs der Qualification
-                    der Lehrer, so genaue Berichte vorgelegt werden wie die von <placeName key="nagykoeroes" ref="#place_99c830657e6832ddfe8ea32dfa875ae1">N[agy] Körös</placeName>. Auch sollten alle Mittelschulen
+                    der Lehrer, so genaue Berichte vorgelegt werden wie die von <rs type="place" subtype="place" key="nagykoeroes" ref="#place_99c830657e6832ddfe8ea32dfa875ae1">N[agy] Körös</rs>. Auch sollten alle Mittelschulen
                     und höheren Lehranstalten der Evangelischen gehalten sein, der Schulbehörde
                     halbjährig erschöpfende Berichte über ihren Zustand vorzulegen, den Beginn des
                     Schuljahres, den Termin der Prüfungen, den Erfolg im Unterrichte, die
@@ -217,16 +216,16 @@
                     höchst wünschenswerth, die Streitigkeiten zwischen der hiesigen slavischen und
                     deutschmagyarischen Gemeinde zum Abschluße zu bringen. Denn bis diese Frage
                     betreffend des Mein und Dein nicht gelöst ist, kann hier in
-                        <placeName ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</placeName> wohl niemand eine große Lust verspüren, für das
+                        <rs type="place" subtype="place" ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</rs> wohl niemand eine große Lust verspüren, für das
                     gemeinsame Gymnasium aus eignem Säckel beizusteuern. Man könnte diesen
                     slavisch-magyarischen Knoten durchhauen, zu lösen wird er nie sein. Der
-                    Commissär <persName key="kubinyi-franz">Kubinyi</persName> hat die Sache nur
-                    noch mehr verwirrt. In <placeName ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</placeName> sollte vorerst ein
+                    Commissär <rs type="person" ref="kubinyi-franz" key="kubinyi-franz">Kubinyi</rs> hat die Sache nur
+                    noch mehr verwirrt. In <rs type="place" subtype="place" ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</rs> sollte vorerst ein
                     Untergymnasium organisirt, später auch eine Unterrealschule errichtet werden.
-                    Untergymnasien könnten noch bestehen in <placeName ref="#place_38f4c4e24450cf6df818ed2801288360">Halas</placeName>, <placeName key="hodmezovasarhely" ref="#place_4fd98a6ed688372439ecccac0e9c278d">Holdmezö-Vásárhely</placeName> und <placeName key="gyoenk" ref="#place_6d5d6d86d73edb79cbcda9a6cc2653a7">Gyönk</placeName>. Die übrigen mögen eingehen. Nur ist es etwas
+                    Untergymnasien könnten noch bestehen in <rs type="place" subtype="place" ref="#place_38f4c4e24450cf6df818ed2801288360">Halas</rs>, <rs type="place" subtype="place" key="hodmezovasarhely" ref="#place_4fd98a6ed688372439ecccac0e9c278d">Holdmezö-Vásárhely</rs> und <rs type="place" subtype="place" key="gyoenk" ref="#place_6d5d6d86d73edb79cbcda9a6cc2653a7">Gyönk</rs>. Die übrigen mögen eingehen. Nur ist es etwas
                     schwer, diese Scheingymnasien ganz aufzulösen und in bloße Volksschulen zu
                     verwandeln, bevor das Gesetz über den Elementarunterricht erschienen ist. In
-                        <placeName key="nagykoeroes" ref="#place_99c830657e6832ddfe8ea32dfa875ae1">Körös</placeName> soll neben dem Gymnasium noch
+                        <rs type="place" subtype="place" key="nagykoeroes" ref="#place_99c830657e6832ddfe8ea32dfa875ae1">Körös</rs> soll neben dem Gymnasium noch
                     ein Schullehrerseminar errichtet werden.<lb/>Was unsern Geschäftsgang anbelangt,
                     darüber mag ich gar nicht sprechen. Wir befinden uns in einer kläglichen
                     Unordnung. Die Verordnung betreffend das Verbot gegen den Besuch unsrer Schulen
@@ -243,17 +242,17 @@
                     geben die Gnade hatten; obwohl ich immer verlegen bin, wenn ich dieser
                     Angelegenheit gedenke. Ich würde es nicht verantworten können, Euerer Excellenz
                     ein unbrauchbares Individuum aufgebürdet zu haben und muß offen gestehen, daß
-                    ich weder in <placeName ref="#place_20cce9f3a7f030d1279330863790a803">Pest-Ofen</placeName> noch im weiten Bereiche des
+                    ich weder in <rs type="place" subtype="place" ref="#place_20cce9f3a7f030d1279330863790a803">Pest-Ofen</rs> noch im weiten Bereiche des
                     Districtes bisher einen Mann gefunden habe, welcher mit der Kenntnis der
                     Verhältnisse der evangelischen Kirche und Schule die Kenntnis der deutschen,
                     magyarischen und slavischen Sprache verbindet und zugleich mäßige Ansprüche
-                    erhebt. Einige würden in <placeName ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</placeName> gerne dienen, scheuen aber
-                    den Aufenthalt in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>. Die andern fühlen sich den an sie
+                    erhebt. Einige würden in <rs type="place" subtype="place" ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</rs> gerne dienen, scheuen aber
+                    den Aufenthalt in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>. Die andern fühlen sich den an sie
                     von Seite der höchsten Staatsbehörde zu stellenden Anforderungen nicht
                     gewachsen. Wieder andre haben Familie und würden wohl jährliche 1.200 Gulden
                     brauchen, um in der Residenz leben zu können. Calviner, die der deutschen und
                     der slavischen Sprache gleich mächtig wären, gibt es in ganz
-                        <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> nicht. Endlich erlangt jeder Tüchtigere eine
+                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> nicht. Endlich erlangt jeder Tüchtigere eine
                     Professur mit der Besoldung von jährlichen 800–1.000 Gulden und die gesetzlichen
                     Bestimmungen haben die Lehrerstellen am Gymnasium sehr annehmbar gemacht. Unter
                     diesen Umständen weiß ich gegenwärtig keinen Rath, woher ein taugliches

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="karajan-theodor" role="recipient">Theodor
-                        Karajan</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="karajan-theodor" key="karajan-theodor" role="recipient">Theodor
+                        Karajan</rs>
                     <lb/>
-                    <placeName ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</placeName>, <date when="--03-12">12. März o. J. [post 1851]</date>
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, <date when="--03-12">12. März o. J. [post 1851]</date>
                     <note xml:id="note_1">Da die Wahl Theodor
                         Karajans zum Vizepräsidenten der Akademie der Wissenschaften erst am 28.
                         Juli 1851 vom Kaiser sanktioniert worden ist, ist dieses Datum wohl als
@@ -41,7 +40,7 @@
                 </p>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -53,16 +52,16 @@
                 </index>
                 <p>den 12. März</p>
                 <p>Geehrter Herr Vizepräsident!</p>
-                <p>Der <persName key="franz-joseph">Kaiser</persName> hat mir gestern Abend den
+                <p>Der <rs type="person" ref="franz-joseph" key="franz-joseph">Kaiser</rs> hat mir gestern Abend den
                     beiligenden Aufsatz mit der einhändigen Bemerkung zurückgesendet; ‚Die
                     Veröffentlichung dieses sehr interessanten Aufsatzes wird besser unterbleiben.'
                     Somit ist nichts weiter zu sagen! ich kann nur beifügen, daß es mir
                     außerordentlich leid ist! Mögen Sie einigen Trost darin finden können, daß eine
-                    Arbeit wenigstens nicht umsonst gemacht ist, wenn sie der <persName key="franz-joseph">Kaiser</persName> selbst gelesen hat, zumal sie gewiß für
+                    Arbeit wenigstens nicht umsonst gemacht ist, wenn sie der <rs type="person" ref="franz-joseph" key="franz-joseph">Kaiser</rs> selbst gelesen hat, zumal sie gewiß für
                     ihn selbst eine sehr lehrreiche Lecture war, deren Eindruck sich in seinem
                     Geiste nicht verwischen wird. Ich bleibe Ihnen für die Mittheilung dieses
                     überaus wichtigen Beitrages zur Geschichte eines der merkwürdigsten Momente der
-                    Entwicklung <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</country> zu großem Dank
+                    Entwicklung <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> zu großem Dank
                     verpflichtet, und kann mich der Hoffnung nicht entschlagen, daß derselbe in
                     nicht all zu ferner Zeit als Bestandteil einer umfassenderen geschichtlichen
                     Arbeit keinen Anstand finden wird. Jedenfalls sorgen Sie angelegentlich dafür,

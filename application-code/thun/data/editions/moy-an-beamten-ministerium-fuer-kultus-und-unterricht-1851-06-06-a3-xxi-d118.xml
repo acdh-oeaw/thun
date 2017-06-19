@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="moy-de-sons-ernst">Ernst Moy de Sons</persName> an
-                        Unbekannt<lb/>[<placeName ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</placeName>], <date when="1851-06-06">6.
+                    <rs type="person" ref="moy-de-sons-ernst" key="moy-de-sons-ernst">Ernst Moy de Sons</rs> an
+                        Unbekannt<lb/>[<rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs>], <date when="1851-06-06">6.
                         Juni 1851</date>
                     <note xml:id="note_1">Es ist nicht klar, wer der Empfänger
                         des Schreibens war. Die fehlende Anrede lässt jedoch vermuten, dass das
@@ -45,7 +44,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -63,27 +62,27 @@
                 </p>
                 <p>6.6.1851</p>
                 <p>Ihre gefällige Mittheilung vom 27. vorigen Monats bezüglich der Einrichtung der
-                    medicinischen Studien in <placeName ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</placeName> hat mir und anderen
-                    große Freude gemacht. Ich habe sie <persName key="kerer-johann">Kerer</persName>
-                    und <persName key="flir-alois">Flir</persName> und anderen mitgetheilt.
-                    Mittlerweile hat der Tod des <persName key="roeggl-alois">Prälaten von
-                        Wilten</persName> die Geister in Bewegung gesetzt. Der Gedanke, dem die
+                    medicinischen Studien in <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs> hat mir und anderen
+                    große Freude gemacht. Ich habe sie <rs type="person" ref="kerer-johann" key="kerer-johann">Kerer</rs>
+                    und <rs type="person" ref="flir-alois" key="flir-alois">Flir</rs> und anderen mitgetheilt.
+                    Mittlerweile hat der Tod des <rs type="person" ref="roeggl-alois" key="roeggl-alois">Prälaten von
+                        Wilten</rs> die Geister in Bewegung gesetzt. Der Gedanke, dem die
                     Innsbrucker Zeitung in ihrer Weise Worte gegeben (daß es um das <orgName key="stift-wilten">Stift Wilten</orgName> nicht schade wäre, wenn es mit
                     Zustimmung der geistlichen Autorität aufgehoben und an dessen Statt ein
                     Bischofssitz mit einer höheren geistlichen Lehranstalt hier errichtet würde)
                     geht nicht bloß in den radikalen Köpfen um. Ähnliche Pläne wurden schon im Jahre
-                    1819 oder 20 ventilirt. Die besondere Administration <region key="vorarlberg" ref="#place_c8ce07343762429725fec97eeced2b73">Vorarlbergs</region> durch einen Weihbischof zeigt das Bedürfnis einer
+                    1819 oder 20 ventilirt. Die besondere Administration <rs type="place" subtype="region" key="vorarlberg" ref="#place_c8ce07343762429725fec97eeced2b73">Vorarlbergs</rs> durch einen Weihbischof zeigt das Bedürfnis einer
                     anderen Circumscription der Diöcesen, und wenn aus der <orgName key="universitaet-innsbruck">hiesigen Universität</orgName> etwas werden
                     soll, so kann es nur dadurch geschehen, daß auch ein theologisches Studium
                     hieher kommt. Dazu wäre das große, schöne Gebäude der Serviten durch ein
                     Abkommen mit diesem Orden wohl nicht gar schwer zu gewinnen. Der Orden hat noch
                     andere Häuser im Lande, die er kaum mit den nöthigen Individuen zu besetzen im
                     Stande ist. Sollte aber auch der Gedanke, ein drittes Bisthum in
-                        <placeName ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</placeName> zu errichten, auf zu große Schwierigkeiten
-                    stoßen, so dürfte der <persName key="galura-bernhard">Fürstbischof von
-                        Brixen</persName> selbst nicht allzuschwer zu bewegen seyn, seinen Sitz nach
-                        <placeName ref="#place_a9e7d20b2da57e43fd68b658f5ea477d">Wilten</placeName> zu verlegen und etwa sein Seminar im
-                    Servitengebäude einzurichten. Sehen Sie doch, ob der <persName key="thun-hohenstein-leo">Herr Minister</persName> nicht für diese Idee zu
+                        <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs> zu errichten, auf zu große Schwierigkeiten
+                    stoßen, so dürfte der <rs type="person" ref="galura-bernhard" key="galura-bernhard">Fürstbischof von
+                        Brixen</rs> selbst nicht allzuschwer zu bewegen seyn, seinen Sitz nach
+                        <rs type="place" subtype="place" ref="#place_a9e7d20b2da57e43fd68b658f5ea477d">Wilten</rs> zu verlegen und etwa sein Seminar im
+                    Servitengebäude einzurichten. Sehen Sie doch, ob der <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Herr Minister</rs> nicht für diese Idee zu
                     gewinnen wäre.<lb/>Für die in seinem Namen mir gegebene Versicherung, „daß seine
                     Gedanken noch immer dieselben seyen“, bitte ich Hochdemselben meinen Dank zu
                     Füßen zu legen. Was das Ineinandergreifen der Gymnasial- und der philosophischen
@@ -91,25 +90,25 @@
                     betrifft, so bin ich nun, nach genauerer Einsicht in die darüber gegebenen
                     Bestimmungen, nicht nur über diesen Punkt vollkommen beruhigt, sondern auch der
                     Überzeugung, daß die philosophischen Studien dadurch nur gewinnen können, weil
-                    sie mit reiferem Geiste gepflogen werden, wie dies die Erfahrung in <country key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</country> beweist. Der Organisirung einer
+                    sie mit reiferem Geiste gepflogen werden, wie dies die Erfahrung in <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> beweist. Der Organisirung einer
                     vollständigen philosophischen Facultät stünde also von dieser Seite nichts im
                     Wege, und es käme, da bereits einige tüchtige Kräfte vorhanden sind, nur auf
                     Vervollständigung im Wesentlichen an. Darüber werde ich, wenn ich erst mehr
-                    Informationen eingezogen haben werde, mir die Freiheit nehmen an den <persName key="thun-hohenstein-leo">Herrn Minister</persName> selbst zu schreiben.
-                    Heute möchte ich mir erlauben, einen Tiroler, den Scriptor <persName key="lang-johann">Lang</persName>, an der hiesigen Universitätsbibliothek
+                    Informationen eingezogen haben werde, mir die Freiheit nehmen an den <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Herrn Minister</rs> selbst zu schreiben.
+                    Heute möchte ich mir erlauben, einen Tiroler, den Scriptor <rs type="person" ref="lang-johann" key="lang-johann">Lang</rs>, an der hiesigen Universitätsbibliothek
                     Ihrer gütigen Verwendung zu empfehlen. Derselbe competirt um die
-                    Bibliothekarsstelle in <placeName ref="#place_ea6515eca27ae68c06c82e8cc2a6d318">Salzburg</placeName>. Er ist ein durchaus
+                    Bibliothekarsstelle in <rs type="place" subtype="place" ref="#place_ea6515eca27ae68c06c82e8cc2a6d318">Salzburg</rs>. Er ist ein durchaus
                     braver und verlässiger [sic!] Mensch und mit dem Mechanismus des
                     Bibliotheksdienstes vollkommen vertraut. Auch tüchtige Bücherkenntnis,
                     namentlich im theologischen Fache, auf das er sich mit Vorliebe verlegt und
-                    worin er durch langjährigen Umgang mit <persName key="moritz-david-stephan">Prof. Moritz</persName> wohl orientirt wurde, steht ihm zur Seite. Endlich
+                    worin er durch langjährigen Umgang mit <rs type="person" ref="moritz-david-stephan" key="moritz-david-stephan">Prof. Moritz</rs> wohl orientirt wurde, steht ihm zur Seite. Endlich
                     versteht er außer dem Lateinischen auch sehr gut französisch und italienisch und
                     hat mir als Übersetzer aus diesen Sprachen schon ersprießliche Dienste
-                    geleistet. Ich höre, daß mit ihm vorzüglich ein <placeName key="salzburg" ref="#place_f2646aa02d03ac5a141ef404d919cd11">Salzburger</placeName> Geistlicher concurrirt, der nur deshalb vorgeschoben
+                    geleistet. Ich höre, daß mit ihm vorzüglich ein <rs type="place" subtype="place" key="salzburg" ref="#place_f2646aa02d03ac5a141ef404d919cd11">Salzburger</rs> Geistlicher concurrirt, der nur deshalb vorgeschoben
                     wird, weil man ihn als <hi rend="ul">Geistlichen</hi> seines Wandels wegen nicht
                     berufen kann. Ist das begründet, so wäre es wohl kein gutes Beispiel, wenn man
                     einen solchen Pfaffen auf einen Posten beförderte, wo er noch dazu in der Lage
-                    wäre, auf die Jugend sehr nachtheilig zu wirken. <persName key="lang-johann">Langs</persName> Gesinnung ist die beste und sein Wandel (er ist
+                    wäre, auf die Jugend sehr nachtheilig zu wirken. <rs type="person" ref="lang-johann" key="lang-johann">Langs</rs> Gesinnung ist die beste und sein Wandel (er ist
                     verheirathet) über allen Tadel erhaben. Ich habe nie gezweifelt, daß Sie in
                     Ihrem Kummer bei der Familie Buol große Ressource finden werden. Das sind gerade
                     die Gelegenheiten, wo man solche Leute kennen lernt. Wenn Sie hinkommen bitte

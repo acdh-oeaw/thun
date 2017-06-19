@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="wolkenstein-karl" role="sender:beamter">Karl
-                        Wolkenstein</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="wolkenstein-karl" key="wolkenstein-karl" role="sender:beamter">Karl
+                        Wolkenstein</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName key="schloss-ivano" ref="#place_6701d5ffea144483d801400a2e2a2714">Schloss Ivano</placeName>, <date when="1854-06-07">7. Juni
+                    <rs type="place" subtype="place" key="schloss-ivano" ref="#place_6701d5ffea144483d801400a2e2a2714">Schloss Ivano</rs>, <date when="1854-06-07">7. Juni
                     1854</date>
                 </title>
             </titleStmt>
@@ -37,7 +36,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -49,7 +48,7 @@
                 <p>Werthester Freund!</p>
                 <p>Vor 2 oder 3 Jahren hast Du mich einmal aufgefordert, Dir meine Gedanken über
                     Patronatsverhältniße mitzutheilen – bey unserem letzten Zusammentreffen in
-                        <placeName key="karlsbad" ref="#place_11a4764afdf4fd27fe76a91244b49852">Karlsbad</placeName> hast Du das Vorhaben
+                        <rs type="place" subtype="place" key="karlsbad" ref="#place_11a4764afdf4fd27fe76a91244b49852">Karlsbad</rs> hast Du das Vorhaben
                     geäußert, mir einen dießfälligen Gesetzesentwurf zukommen zu laßen. Beydes ist
                     bisher unterblieben. Indeß hat mir der Zufall einen solchen lithographierten
                     Entwurf samt Motiven in die Hand gebracht.<lb/>Ich würde – unaufgefordert –
@@ -76,12 +75,12 @@
                     beschränktem Maße und in Intervallen zu – so wird mir die Zeit zu kurz und ich
                     möchte nicht zu spät kommen. Von der Arbeit kannst Du beliebigen Gebrauch machen
                     – auch den Autor nennen oder verschweigen, wie es sachdienlich scheint.<lb/>Ich
-                    schreibe unter einem an <persName key="salm-reifferscheid-hugo">Hugo
-                        Salm</persName> und ersuche ihn – falls die Sache an den Reichsrath käme –
+                    schreibe unter einem an <rs type="person" ref="salm-reifferscheid-hugo" key="salm-reifferscheid-hugo">Hugo
+                        Salm</rs> und ersuche ihn – falls die Sache an den Reichsrath käme –
                     von der Arbeit Kenntniß zu nehmen, bitte daher auch Dich ihm selbe auf Verlangen
                     mitzutheilen, da ich nicht in der Lage bin hier mehrfache Abschriften zu
                     besorgen.<lb/>Ende dieses Monates hoffe ich in
-                        <placeName ref="#place_856c6e6d864e89a9e54edf46d1f5a8b2">Brunnersdorf</placeName> wieder einzutreffen – leider mit der
+                        <rs type="place" subtype="place" ref="#place_856c6e6d864e89a9e54edf46d1f5a8b2">Brunnersdorf</rs> wieder einzutreffen – leider mit der
                     Aussicht es bald wieder verlaßen zu müßen, da mich die Aertzte noch in eine
                     kalte Waßercur schicken wollen.<lb/>Von Herzen</p>
                 <p>Dein aufrichtiger Freund<lb/>Wolkenstein</p>

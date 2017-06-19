@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -40,7 +39,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -66,12 +65,12 @@
                             <ref target="http://alex.onb.ac.at/cgi-content/alex?apm=0&amp;aid=rgb&amp;datum=18500004&amp;seite=00001694&amp;size=45">RGBl 374/1850</ref>.</note> rücksichtlich der Zuweisung der
                     Kapitalsabfertigung für die in Folge der Grundentlastung aufgehobenen oder
                     abzulösenden Bezüge zu beschließen befunden und verordnen, daß dieselben in den
-                    Kronländern <region key="ober-und-niederoesterreich" ref="#place_0d6e091e8b09916310d20b7f21e9acd1">Oesterreich ob und unter
-                        der Enns</region>, <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</region>, <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region>, <region ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</region>,
-                        <region ref="#place_b5e9e75db151e1fff33838003e5fa591">Steiermark</region>, <region key="kaernten" ref="#place_ef894a0a9ab2e171eb147ffd9e56cd4b">Kärnthen</region>,
-                        <region ref="#place_1550e04c70115aa1a8f29f8e033676c4">Krain</region>, <region ref="#place_ea6515eca27ae68c06c82e8cc2a6d318">Salzburg</region>, <region ref="#place_fde20c283b228b19e2990cf5175fa31e">Istrien</region>,
-                        <region key="goerz" ref="#place_4de166ce82fade94306232184d2c4387">Görz</region> und <region ref="#place_9a76f8fdad1b1f2e03f3c65fc399ffcf">Gradiska</region> und in der
-                    reichsunmittelbaren Stadt <placeName ref="#place_8be4faaae218289562dc0a8c0e2e0ff1">Triest</placeName> und deren Gebiete sofort
+                    Kronländern <rs type="place" subtype="region" key="ober-und-niederoesterreich" ref="#place_0d6e091e8b09916310d20b7f21e9acd1">Oesterreich ob und unter
+                        der Enns</rs>, <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs>, <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs>, <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs>,
+                        <rs type="place" subtype="region" ref="#place_b5e9e75db151e1fff33838003e5fa591">Steiermark</rs>, <rs type="place" subtype="region" key="kaernten" ref="#place_ef894a0a9ab2e171eb147ffd9e56cd4b">Kärnthen</rs>,
+                        <rs type="place" subtype="region" ref="#place_1550e04c70115aa1a8f29f8e033676c4">Krain</rs>, <rs type="place" subtype="region" ref="#place_ea6515eca27ae68c06c82e8cc2a6d318">Salzburg</rs>, <rs type="place" subtype="region" ref="#place_fde20c283b228b19e2990cf5175fa31e">Istrien</rs>,
+                        <rs type="place" subtype="region" key="goerz" ref="#place_4de166ce82fade94306232184d2c4387">Görz</rs> und <rs type="place" subtype="region" ref="#place_9a76f8fdad1b1f2e03f3c65fc399ffcf">Gradiska</rs> und in der
+                    reichsunmittelbaren Stadt <rs type="place" subtype="place" ref="#place_8be4faaae218289562dc0a8c0e2e0ff1">Triest</rs> und deren Gebiete sofort
                     zur Ausführung gebracht werden.</p>
                 <p>
                     <hi rend="ul">I. Zuständigkeit:</hi>
@@ -597,10 +596,10 @@
                     Einvernehmen zu setzen, welcher nach den bestehenden gesetzlichen Vorschriften
                     die Obsorge oder Controlle über die Vermögensgebahrung zusteht.</p>
                 <p>
-                    <hi rend="ul">E. Für <region key="goerz" ref="#place_4de166ce82fade94306232184d2c4387">Görz</region> und
-                            <region ref="#place_fde20c283b228b19e2990cf5175fa31e">Istrien</region>.</hi>
-                    <lb/>§ 66. In der <region key="goerz" ref="#place_4de166ce82fade94306232184d2c4387">gefürsteten Grafschaft Görz</region> und der Markgrafschaft
-                        <region ref="#place_fde20c283b228b19e2990cf5175fa31e">Istrien</region> ist für die hier vorgeschriebenen Amtshandlungen
+                    <hi rend="ul">E. Für <rs type="place" subtype="region" key="goerz" ref="#place_4de166ce82fade94306232184d2c4387">Görz</rs> und
+                            <rs type="place" subtype="region" ref="#place_fde20c283b228b19e2990cf5175fa31e">Istrien</rs>.</hi>
+                    <lb/>§ 66. In der <rs type="place" subtype="region" key="goerz" ref="#place_4de166ce82fade94306232184d2c4387">gefürsteten Grafschaft Görz</rs> und der Markgrafschaft
+                        <rs type="place" subtype="region" ref="#place_fde20c283b228b19e2990cf5175fa31e">Istrien</rs> ist für die hier vorgeschriebenen Amtshandlungen
                     lediglich das im § 2 bestimmte Landesgericht am Size der Ministerialkommission
                     zuständig.<lb/>Dieselben sind in demjenigen Theile, wo die Notifikenbücher zur
                     Erwerbung von Hypothekarrechten bestehen, ohne Rücksicht auf den Umstand
@@ -624,16 +623,16 @@
                     wobei sodann den Hypothekargläubiger die im § 14 dieses Gesetzes ausgedrückten
                     Folgen der unterlassenen Anmeldung, welche wörtlich anzuführen sind, zu treffen
                         haben.<lb/>
-                    <hi rend="ul">F. Für <region ref="#place_ea6515eca27ae68c06c82e8cc2a6d318">Salzburg</region>.</hi>
+                    <hi rend="ul">F. Für <rs type="place" subtype="region" ref="#place_ea6515eca27ae68c06c82e8cc2a6d318">Salzburg</rs>.</hi>
                     <lb/>§ 68. In
-                    dem Herzogthume <region ref="#place_ea6515eca27ae68c06c82e8cc2a6d318">Salzburg</region> ist mit Rücksicht auf den § 91 der
+                    dem Herzogthume <rs type="place" subtype="region" ref="#place_ea6515eca27ae68c06c82e8cc2a6d318">Salzburg</rs> ist mit Rücksicht auf den § 91 der
                     Ministerialverordnung vom 4. October 1849 zu den hier vorgeschriebenen
                     Amtshandlungen in der Regel das Bezirksgericht bestimmt, in dessen Sprengel der
                     Bezugsberechtigte seinen Wohnsitz hat. Ausnahmsweise ist das Landesgericht in
                     Salzburg zuständig, wenn das aufgehobene Bezugsrecht oder das Gut, zu dem es
                     gehörte, in der Hypothekentabelle des ehemaligen Stadt- und Landrechtes
                     eingetragen erscheint oder wo dies nicht der Fall ist, wenn der Berechtigte im
-                    Sprengel des Bezirksgerichts <placeName ref="#place_ea6515eca27ae68c06c82e8cc2a6d318">Salzburg</placeName> wohnt oder sich
+                    Sprengel des Bezirksgerichts <rs type="place" subtype="place" ref="#place_ea6515eca27ae68c06c82e8cc2a6d318">Salzburg</rs> wohnt oder sich
                     nicht innerhalb des Kronlandes befindet.<lb/>§ 69. Die gegen Ablösung
                     aufgehobenen Bezugsrechte sind von dieser Verhandlung ausgeschlossen und die
                     Grundentlastungslandescommission hat sich wegen Ausfolgung des Ablösungskapitals

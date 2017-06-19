@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="linde-justin" role="recipient:gelehrter">Justin
-                        Linde</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="linde-justin" key="linde-justin" role="recipient:gelehrter">Justin
+                        Linde</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1855-09-11">11. September 1855</date>
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1855-09-11">11. September 1855</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -40,7 +39,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -60,7 +59,7 @@
                     geehrtes Schreiben<note xml:id="note_1">Dieser Brief ist nicht erhalten. Der
                         vorliegende knüpft jedoch an Themen an, über die sich Thun und Linde bereits
                         im Mai 1854 ausgetauscht hatten. Vgl. <ref target="thun/thun-korrespondenz/Konzepte_Briefe_an_Thun/linde-an-thun_1854-05-31_CA1055.xml">Justin Linde an Leo Thun, Frankfurt, 31. Mai 1854</ref>. </note>
-                    anknüpfend bemerke ich, daß der Physiolog <persName key="ludwig-carl">Ludwig</persName> an eine <orgName key="medizinisch-chirurgische-militaerakademie-wien">militärische
+                    anknüpfend bemerke ich, daß der Physiolog <rs type="person" ref="ludwig-carl" key="ludwig-carl">Ludwig</rs> an eine <orgName key="medizinisch-chirurgische-militaerakademie-wien">militärische
                         Anstalt</orgName> berufen worden ist, auf welche ich durchaus keinen Einfluß
                     habe, so daß ich diese Berufung erst post factum aus der Wiener Zeitung erfuhr.
                     Ich habe keinen Grund zu erwarten, daß ich in der Lage sein werde, mich nach
@@ -68,14 +67,14 @@
                     bewährten katholischen Philosophen, Philologen (in linguistischer Richtung
                     allein vorherrschend für die classischen Sprachen) oder Vertreter des deutschen
                     Rechtes und seiner Geschichte hätte ich aber immer noch Gelegenheit. In
-                    letzterer Beziehung leistet <persName key="schulte-friedrich">Prof.
-                        Schulte</persName> in <orgName key="universitaet-prag">Prag</orgName> sehr
+                    letzterer Beziehung leistet <rs type="person" ref="schulte-friedrich" key="schulte-friedrich">Prof.
+                        Schulte</rs> in <orgName key="universitaet-prag">Prag</orgName> sehr
                     erwünschte Aushilfe für dessen Empfehlung ich Ihnen überhaupt zu aufrichtigem
                     Dank verpflichtet bin. Ich bin in diesem Augenblick auch genöthiget einige
                     tüchtige junge Leute als Lehrer der klassischen Sprachen an Gymnasien aus
-                    Deutschland zu requirieren. Als solcher ist mir unter anderen <persName key="schell-nikolaus">Nikolaus Schell</persName>, derzeit Lehrer am
-                    Gymnasium in <placeName ref="#place_56379b3722203c9ce71d0191081d67f6">Hanau</placeName> empfohlen worden. Durch Vermittlung
-                    des <persName key="juelg-bernhard">Prof. Jülg</persName>
+                    Deutschland zu requirieren. Als solcher ist mir unter anderen <rs type="person" ref="schell-nikolaus" key="schell-nikolaus">Nikolaus Schell</rs>, derzeit Lehrer am
+                    Gymnasium in <rs type="place" subtype="place" ref="#place_56379b3722203c9ce71d0191081d67f6">Hanau</rs> empfohlen worden. Durch Vermittlung
+                    des <rs type="person" ref="juelg-bernhard" key="juelg-bernhard">Prof. Jülg</rs>
                     <note xml:id="note_2">Bernhard Jülg hatte im Frühjahr 1855 Thun mehrere Kandidaten empfohlen.
                         Siehe dazu im AVA, MCU Präs. ad 418/1855. Der Brief, mit dem Schell
                         empfohlen wird, ist allerdings nicht überliefert.</note> sind mir auch
@@ -83,8 +82,8 @@
                     Beruhigung dienen, wenn ich Ihre Bürgschaft dafür hätte, daß er eine
                     wünscheswerthe Aquisizion, ein durchaus verlässlicher Mann sei. In solchem Falle
                     würde ich Sie bitten, ihn anzueifern, daß er mir schleunigst ein Gesuch um
-                    Anstellung in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> einsende, und
-                    könnte ihm dann eine Stelle in <placeName ref="#place_2f8cfc13edee95175f630a54177679cf">Preßburg</placeName> mit 800 fl.,
+                    Anstellung in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> einsende, und
+                    könnte ihm dann eine Stelle in <rs type="place" subtype="place" ref="#place_2f8cfc13edee95175f630a54177679cf">Preßburg</rs> mit 800 fl.,
                     vielleicht selbst 1000 fl. in nächste Aussicht stellen, vorausgesetzt daß er
                     sogleich dieselbe antreten könnte, das ist gleich nach seiner Ernennung zu deren
                     Erwirkung ich beiläufig 3 Wochen Zeit brauchen würde.<lb/>Ich wäre Ihnen sehr

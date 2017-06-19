@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="attems-ottokar-maria" role="sender:kleriker">Ottokar Maria
-                        Attems</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="attems-ottokar-maria" key="attems-ottokar-maria" role="sender:kleriker">Ottokar Maria
+                        Attems</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_ca7668a05b2a3dbf29ca3d768c0febe8">Graz</placeName>, <date when="1855-08-10">10. August 1855</date>
+                    <rs type="place" subtype="place" ref="#place_ca7668a05b2a3dbf29ca3d768c0febe8">Graz</rs>, <date when="1855-08-10">10. August 1855</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -48,7 +47,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -60,13 +59,13 @@
                 <p>Hochgeborner Graf!</p>
                 <p>Eben von einer Diözesanbereisung zurückgekehrt beeile ich mich das
                     hochverehrliche Schreiben Eurer Excellenz vom 8. dieses [Monats] zu
-                    erwiedern.<lb/>Professor <persName key="bock-cornelius-peter">Bock</persName>,
-                    der mit Professor <persName key="weiss-johann-baptist">Weiß</persName> paar Tage
-                    nach seiner Ankunft zu mir kam, hat des <persName key="sacher-masoch-leopold-johann">Polizeidirektors</persName> mit keiner
+                    erwiedern.<lb/>Professor <rs type="person" ref="bock-cornelius-peter" key="bock-cornelius-peter">Bock</rs>,
+                    der mit Professor <rs type="person" ref="weiss-johann-baptist" key="weiss-johann-baptist">Weiß</rs> paar Tage
+                    nach seiner Ankunft zu mir kam, hat des <rs type="person" ref="sacher-masoch-leopold-johann" key="sacher-masoch-leopold-johann">Polizeidirektors</rs> mit keiner
                     Sylbe erwähnt, somit noch viel weniger denselben bei mir verdächtigt. Was aber
-                    den Charakter <persName key="bock-cornelius-peter">Bock’s</persName> betrifft,
-                    so erlaube ich mir Eurer Excellenz zu bemerken, daß Professor <persName key="weiss-johann-baptist">Weiß</persName>, der zwar anfangs ein Verehrer
-                        <persName key="bock-cornelius-peter">Bock’s</persName> war, denselben nicht
+                    den Charakter <rs type="person" ref="bock-cornelius-peter" key="bock-cornelius-peter">Bock’s</rs> betrifft,
+                    so erlaube ich mir Eurer Excellenz zu bemerken, daß Professor <rs type="person" ref="weiss-johann-baptist" key="weiss-johann-baptist">Weiß</rs>, der zwar anfangs ein Verehrer
+                        <rs type="person" ref="bock-cornelius-peter" key="bock-cornelius-peter">Bock’s</rs> war, denselben nicht
                     von der besten Seite schildert.<lb/>Genehmigen Hochdieselben den Ausdruck meiner
                     ausgezeichnetsten Hochachtung und innigsten Verehrung, mit der ich geharre</p>
                 <p>Eurer Excellenz ergebenster Diener<lb/>Ottokar Maria<lb/>Graf v. Attems</p>

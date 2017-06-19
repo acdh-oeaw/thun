@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="juelg-bernhard" role="recipient">Bernhard
-                        Jülg</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="juelg-bernhard" key="juelg-bernhard" role="recipient">Bernhard
+                        Jülg</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1855-01-05">5.
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1855-01-05">5.
                         Januar 1855</date>
                     <note xml:id="note_1">Das Datum auf dem Brief lautet auf
                         5. Januar 1854, die <ref target="thun/thun-korrespondenz/tetschen/juelg-an-thun_1855-01-08_A3-XXI-D323.xml">Antwort Bernhard Jülgs von 8. Januar 1855</ref> legt aber nahe, dass
@@ -36,7 +35,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -49,7 +48,7 @@
                 <p>Wien, den 5. Jänner 1854 [sic! richtig 1855]</p>
                 <p>Werther Herr Professor!</p>
                 <p>
-                    <persName key="sawczynski-sigmund">Sawczyński</persName>, Lehrer am <placeName key="krakau" ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Krakauer</placeName> Gymnasium befindet sich hier um sich für
+                    <rs type="person" ref="sawczynski-sigmund" key="sawczynski-sigmund">Sawczyński</rs>, Lehrer am <rs type="place" subtype="place" key="krakau" ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Krakauer</rs> Gymnasium befindet sich hier um sich für
                     die Lehramtsprüfung vorzubereiten, und zwar zunächst für das
                     historisch-geographische Gebieth. Er hat mir eben seinen Wunsch zu erkennen
                     gegeben, seinen Studien die Richtung auf slawische Philologie zu geben, und über
@@ -58,11 +57,11 @@
                     seine Beschäftigung am Gymnasium habe ihm zwar wenig Muße dazu gelassen, dennoch
                     habe er sich für ein Kollegium über Sanscrit bei Ihnen gemeldet, dasselbe sei
                     aber wegen allzu geringer Zahl von Theilnehmern nicht zu Stande gekommen. Ich
-                    bitte Sie mir mitzutheilen, ob Sie Gelegenheit gehabt haben, auf <persName key="sawczynski-sigmund">Sawczynski</persName> aufmerksam zu sein und ob Sie
+                    bitte Sie mir mitzutheilen, ob Sie Gelegenheit gehabt haben, auf <rs type="person" ref="sawczynski-sigmund" key="sawczynski-sigmund">Sawczynski</rs> aufmerksam zu sein und ob Sie
                     glauben, daß er Beruf zu linguistischen Studien haben dürfte?</p>
                 <p>Mit aufrichtiger Hochachtung</p>
                 <p>Thun</p>
-                <p>Wenn Sie einige Notizen über Ihre Bestrebungen in <placeName ref="#place_fafa41f7e32d84b3a419ca848a2b0880">Krakau</placeName>
+                <p>Wenn Sie einige Notizen über Ihre Bestrebungen in <rs type="place" subtype="place" ref="#place_fafa41f7e32d84b3a419ca848a2b0880">Krakau</rs>
                     und deren zu hoffende Erfolge beifügen wollen, so werde ich sie mit aufrichtigem
                     Interesse entgegennehmen.</p>
             </div>

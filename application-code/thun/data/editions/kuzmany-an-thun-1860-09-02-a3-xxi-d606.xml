@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="kuzmany-karl" role="sender:gelehrter">Karl Kuzmány</persName>
-                    an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="kuzmany-karl" key="kuzmany-karl" role="sender:gelehrter">Karl Kuzmány</rs>
+                    an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_0546943cdb764ce66d21e8910937b72a">Neusohl</placeName>, <date when="1860-09-02">2. September 1860</date>
+                    <rs type="place" subtype="place" ref="#place_0546943cdb764ce66d21e8910937b72a">Neusohl</rs>, <date when="1860-09-02">2. September 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -36,7 +35,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -50,12 +49,12 @@
                 <p>Mit der heutigen Post ging von mir ein Bericht an das <orgName key="ministerium-fuer-kultus-und-unterricht">hohe Ministerium</orgName>
                     durch die k.k. Statthalterei ab, in welchem ich gehorsamst melde, dass ich einen
                     Superintendentialconvent auf den 26. und 27. Sept. nach St. Márton
-                        [<placeName ref="#place_0dca79844e1f4b9e8bbffd397ed5f4aa">St. Martin</placeName>] in <placeName key="komitat-turz" ref="#place_ab803a453592b4aea05cb2449245ff34">Thuroczer Comitate</placeName> einberufen habe. Der erste der angegebenen
+                        [<rs type="place" subtype="place" ref="#place_0dca79844e1f4b9e8bbffd397ed5f4aa">St. Martin</rs>] in <rs type="place" subtype="place" key="komitat-turz" ref="#place_ab803a453592b4aea05cb2449245ff34">Thuroczer Comitate</rs> einberufen habe. Der erste der angegebenen
                     Tage ist zu meiner Installation bestimmt, der zweite zu den eigentlichen
                     Conventualberathungen und Beschließungen. Damit Euer Excellenz hiervon je eher
                     Kenntnis erlangen, hielt ich es für meine Pflicht, dasselbe hiermit in Kürze zu
                     wiederholen. Hierbei aber kann ich nicht umhin den Wunsch auszudrücken, dass
-                    doch die Bestättigung <persName key="landerer-ferdinand">Landerers</persName>
+                    doch die Bestättigung <rs type="person" ref="landerer-ferdinand" key="landerer-ferdinand">Landerers</rs>
                     zum Sup.Inspector spätestens bis zum 20. erfolgen möchte. Die Unkosten dieses
                     Conventes – zwischen 250–300 – werde nun ich tragen müssen, wenn nur bis dahin
                     auch die Flüßigmachung meiner Functionszulagen herablänge! Die in 2 Exemplaren
@@ -64,16 +63,16 @@
                     unteren Gegenden versendet werden. Jetzt lege ich die letzte Hand auf die
                     lateinische Rede, welche ich bei meiner Installation zu halten gesonnen bin, und
                     die auch für das Ausland berechnet ist. Bis jetzt habe ich die Gemeinden O. [?],
-                        <placeName ref="#place_20fd1ec63df813feb0d7095f9a884d6d">Pojnik</placeName>, O. Lehrla, <placeName ref="#place_7bf7e439fc58a1d4631028fce15fe47a">Bries</placeName>,
-                    Mossóth, <placeName ref="#place_f1612033f4dd549e82a5e483d1f8922b">Haj</placeName> besucht und von einigen anderen
-                        <placeName ref="#place_a010dc49a464008a7edacd515047e433">Babiná</placeName>, St. Marton [<placeName ref="#place_a681872bfbdadaef13c53190c81ff490">St.
-                    Martin</placeName>], usw. die Pfarrer und Presbyter zu mir kommen lassen und sie
-                    gesprochen. Nach <placeName key="komitat-neutra" ref="#place_d856324689e6964c27e3903e6f63a34e">Neutra</placeName> werde ich
+                        <rs type="place" subtype="place" ref="#place_20fd1ec63df813feb0d7095f9a884d6d">Pojnik</rs>, O. Lehrla, <rs type="place" subtype="place" ref="#place_7bf7e439fc58a1d4631028fce15fe47a">Bries</rs>,
+                    Mossóth, <rs type="place" subtype="place" ref="#place_f1612033f4dd549e82a5e483d1f8922b">Haj</rs> besucht und von einigen anderen
+                        <rs type="place" subtype="place" ref="#place_a010dc49a464008a7edacd515047e433">Babiná</rs>, St. Marton [<rs type="place" subtype="place" ref="#place_a681872bfbdadaef13c53190c81ff490">St.
+                    Martin</rs>], usw. die Pfarrer und Presbyter zu mir kommen lassen und sie
+                    gesprochen. Nach <rs type="place" subtype="place" key="komitat-neutra" ref="#place_d856324689e6964c27e3903e6f63a34e">Neutra</rs> werde ich
                     nun erst nach der von der k. Statthalterei einzutreffenden Entscheidung,
-                    wahrscheinlich also unmittelbar nach dem Convente über das <placeName key="trentschin" ref="#place_8d3cabcc7c52722a2f5924dcd90b01c6">Trentschiner</placeName> Seniorat abgehen können, zu
-                    derselben Zeit werde ich auch die Gemeinden in <placeName key="komitat-arwa" ref="#place_2ba80697c410b3115b7ce01183106b48">Arva</placeName> besuchen. Ich bitte nur nochmals dahin zu wirken, dass die
+                    wahrscheinlich also unmittelbar nach dem Convente über das <rs type="place" subtype="place" key="trentschin" ref="#place_8d3cabcc7c52722a2f5924dcd90b01c6">Trentschiner</rs> Seniorat abgehen können, zu
+                    derselben Zeit werde ich auch die Gemeinden in <rs type="place" subtype="place" key="komitat-arwa" ref="#place_2ba80697c410b3115b7ce01183106b48">Arva</rs> besuchen. Ich bitte nur nochmals dahin zu wirken, dass die
                     Entscheidung der k. Statthalterei uns nicht ungünstig ausfalle; was doch auch
-                    unmöglich geschehen kann, wenn man die Erklärung hinsichtlich des <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</placeName> Conventes vom 12. Juli nicht
+                    unmöglich geschehen kann, wenn man die Erklärung hinsichtlich des <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</rs> Conventes vom 12. Juli nicht
                     zurücknehmen will. Aus Privatnachrichten, die jedoch ganz zuverlässig sind, weiß
                     ich, dass das Protocoll dieses Conventes <hi rend="ul">uneröffnet</hi>
                     zurückgesendet wurde. Der hohen Gnade empfohlen verharre in tiefster

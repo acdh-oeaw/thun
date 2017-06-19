@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="langenau-karoline" role="sender">Karoline Langenau</persName>
-                    an <persName key="thun-hohenstein-caroline" role="recipient">Caroline
-                        Thun</persName>
+                    <rs type="person" ref="langenau-karoline" key="langenau-karoline" role="sender">Karoline Langenau</rs>
+                    an <rs type="person" ref="thun-hohenstein-caroline" key="thun-hohenstein-caroline" role="recipient">Caroline
+                        Thun</rs>
                     <lb/>o. O., o. D. [Februar 1853]</title>
             </titleStmt>
             <publicationStmt>
@@ -41,7 +40,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -59,43 +58,43 @@
                         Langenau eine Schwester von Leo Thun, Elisabeth oder Anna Maria.</note>
                     nicht überfallen, und hatte so heftige Schmerzen, daß ich recht herunten war.
                     Zugleich habe ich mir überlegt, daß es wohl besser, wenn ich, ehe ich Ihren
-                        <persName key="thun-hohenstein-leo">Herrn Gemahl</persName> aufsuche, ihm
-                    beiliegendes Schreiben des Protigés <persName key="mertens-karl">meines
-                        Schwagers</persName> übergebe, damit er sieht, was er zu leisten fähig, und
+                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Herrn Gemahl</rs> aufsuche, ihm
+                    beiliegendes Schreiben des Protigés <rs type="person" ref="mertens-karl" key="mertens-karl">meines
+                        Schwagers</rs> übergebe, damit er sieht, was er zu leisten fähig, und
                     ob es wohl möglich ihn mit der Zeit in österreichische Dienste zu bringen, was
                     sein sehnlichster Wunsch.<note xml:id="note_2">
                         <ref target="#D190_1">Vgl. das
                             Schreiben von Karl Ahn vom 11. Februar 1853.</ref>
                     </note> Für seine
-                    guten Gesinnungen und Moralität bürgt <persName key="mertens-karl">mein
-                        Schwager</persName>, der sehr mit ihm und seinen Leistungen zufrieden.
+                    guten Gesinnungen und Moralität bürgt <rs type="person" ref="mertens-karl" key="mertens-karl">mein
+                        Schwager</rs>, der sehr mit ihm und seinen Leistungen zufrieden.
                     Vielleicht wäre es nicht so schwer, da es nicht gerade für den Augenblick, indem
-                    es sehr zu wünschen, daß er die Zeit, daß <persName key="mertens-karl">Mertens</persName> noch in <placeName ref="#place_3496da6c1db0a5223edb1fb4c415a154">Mainz</placeName> bleibt – bis
+                    es sehr zu wünschen, daß er die Zeit, daß <rs type="person" ref="mertens-karl" key="mertens-karl">Mertens</rs> noch in <rs type="place" subtype="place" ref="#place_3496da6c1db0a5223edb1fb4c415a154">Mainz</rs> bleibt – bis
                     November 1854 – wenn[?] nicht unvorhergesehene Fälle eintreten, bei den
-                        <persName key="mertens-karl-sohn">Knaben</persName> bleiben könnte. Ich
+                        <rs type="person" ref="mertens-karl-sohn" key="mertens-karl-sohn">Knaben</rs> bleiben könnte. Ich
                     bitte sehr des zerknitterten Zustandes des Schreibens wegen um Verzeihung, dies
                     ist meine Schuld. Ich komme dann selbst nachfragen, was wohl zu hoffen, und ob
-                    es <persName key="thun-hohenstein-leo">Graf Thun</persName> möglich für den
-                    guten <persName key="ahn-karl">Herrn Ahn</persName> etwas zu thun. Auf baldiges
+                    es <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Graf Thun</rs> möglich für den
+                    guten <rs type="person" ref="ahn-karl" key="ahn-karl">Herrn Ahn</rs> etwas zu thun. Auf baldiges
                     Wiedersehen.</p>
                 <p>Ihre Caroline</p>
-                <p>Den versprochenen Abend an meinem einsamen Theetisch mit <persName key="mertens-zoe">Zoe</persName>[?] schenke ich Ihnen aber nicht.</p>
+                <p>Den versprochenen Abend an meinem einsamen Theetisch mit <rs type="person" ref="mertens-zoe" key="mertens-zoe">Zoe</rs>[?] schenke ich Ihnen aber nicht.</p>
                 <p/>
                 <div xml:id="D190_1" type="enclosure">
-                    <p>Curriculum vitae des <persName key="ahn-karl">Dr. philos. Karl Ahn</persName>
-                        aus <placeName ref="#place_d4279ac9f79e45b961a6fb2c80c169be">Seligenstadt</placeName> im Großherzogthum
-                            <region ref="#place_b1955bcdd57fab7b269abbb05a7abd51">Hessen</region>
+                    <p>Curriculum vitae des <rs type="person" ref="ahn-karl" key="ahn-karl">Dr. philos. Karl Ahn</rs>
+                        aus <rs type="place" subtype="place" ref="#place_d4279ac9f79e45b961a6fb2c80c169be">Seligenstadt</rs> im Großherzogthum
+                            <rs type="place" subtype="region" ref="#place_b1955bcdd57fab7b269abbb05a7abd51">Hessen</rs>
                     </p>
-                    <p>Derselbe ist Sohn des zu <placeName ref="#place_d4279ac9f79e45b961a6fb2c80c169be">Seligenstadt</placeName> verstorbenen
-                        Oberzolleinnehmers <persName key="ahn-friedrich">Friedrich Ahn</persName>
-                        und dessen gleichfalls verstorbenen Ehefrau <persName key="ahn-elisabetha">Elisabetha</persName>, geb. Kaiser, alt 26 Jahre und katholischer
+                    <p>Derselbe ist Sohn des zu <rs type="place" subtype="place" ref="#place_d4279ac9f79e45b961a6fb2c80c169be">Seligenstadt</rs> verstorbenen
+                        Oberzolleinnehmers <rs type="person" ref="ahn-friedrich" key="ahn-friedrich">Friedrich Ahn</rs>
+                        und dessen gleichfalls verstorbenen Ehefrau <rs type="person" ref="ahn-elisabetha" key="ahn-elisabetha">Elisabetha</rs>, geb. Kaiser, alt 26 Jahre und katholischer
                         Confession. Im Herbste 1845 absolvirte er, nachdem er während 5 Jahren die 6
                         Gymnasialklassen durchgemacht hatte, das Großherzogliche hessische Gymnasium
-                        zu <placeName ref="#place_3496da6c1db0a5223edb1fb4c415a154">Mainz</placeName> mit dem Maturitätszeugnisse Nr. II. („sehr
+                        zu <rs type="place" subtype="place" ref="#place_3496da6c1db0a5223edb1fb4c415a154">Mainz</rs> mit dem Maturitätszeugnisse Nr. II. („sehr
                         gut“), studirte hierauf während 3 Jahren an der <orgName key="universitaet-giessen">Landesuniversität zu Giessen</orgName>
                         katholische Theologie und wurde im Herbste 1848 nach abgelegter
                         Fakultätsprüfung, worin er sich das Prädikat „gut bis sehr gut“ erwarb, in
-                        das bischöfliche Priesterseminarium zu <placeName ref="#place_3496da6c1db0a5223edb1fb4c415a154">Mainz</placeName>
+                        das bischöfliche Priesterseminarium zu <rs type="place" subtype="place" ref="#place_3496da6c1db0a5223edb1fb4c415a154">Mainz</rs>
                         aufgenommen. Hier empfing er die minores und sollte im folgenden Jahre 1849,
                         nachdem er sich durch Prüfungen über die praktische Seelsorge und durch
                         Predigten als gereift erwiesen, die Priesterweihe nebst den beiden höheren
@@ -114,12 +113,12 @@
                         Geographie und Geschichte, wobey er die philosophische Doktorwürde erlangte.
                         Infolgedessen wurde er von [der] Großherzoglichen hessischen Regierung unter
                         die Candidaten des Gymnasiallehreramts aufgenommen und zum Accesse an das
-                        Gymnasium zu <placeName ref="#place_3496da6c1db0a5223edb1fb4c415a154">Mainz</placeName> angewiesen. Zum Schlusse möchte er
+                        Gymnasium zu <rs type="place" subtype="place" ref="#place_3496da6c1db0a5223edb1fb4c415a154">Mainz</rs> angewiesen. Zum Schlusse möchte er
                         noch bemerken, daß er außer den vorgeschriebenen Collegien noch solche über
                         englische Sprache und Litteratur hörte. Dermalen hat er die Ehre mit der
-                        Erziehung des Sohnes Seiner Excellenz <persName key="mertens-karl">Freiherrn
-                            von Mertens</persName>, k.k. österreichischer Feldmarschalllieutenants
-                        und Vicegouverneur von <placeName ref="#place_3496da6c1db0a5223edb1fb4c415a154">Mainz</placeName> betraut zu
+                        Erziehung des Sohnes Seiner Excellenz <rs type="person" ref="mertens-karl" key="mertens-karl">Freiherrn
+                            von Mertens</rs>, k.k. österreichischer Feldmarschalllieutenants
+                        und Vicegouverneur von <rs type="place" subtype="place" ref="#place_3496da6c1db0a5223edb1fb4c415a154">Mainz</rs> betraut zu
                         seyn.<lb/>Unterzeichneter Candidat des Gymnasiallehramts und Doctor philos.
                         wünscht in den k.k. österreichischen Staaten einen seinen Kenntnissen und
                         Fähigkeiten entsprechende Verwendung zu finden, entweder als Gymnasiallehrer
@@ -129,7 +128,7 @@
                         können.<lb/>Zu solchem Behufe erlaubt er sich nachfolgend seine gemachten
                         Studien in einem Curriculum vitae kurz zu erörtern mit dem Beyfügen, daß er
                         sich zu einer etwaigen Verwendung an einer Bibliothek durch eine zweyjährige
-                        Bedienstung an der Universitätsbibliothek zu <placeName ref="#place_d54f6cc2237a0ee51accd7a92bf76db1">Gießen</placeName>
+                        Bedienstung an der Universitätsbibliothek zu <rs type="place" subtype="place" ref="#place_d54f6cc2237a0ee51accd7a92bf76db1">Gießen</rs>
                         als Sekretär die zureichende Qualification erworben zu haben glaubt.</p>
                     <p>C. Ahn Dr. philos.</p>
                     <p>Mainz, am 11. Febr. 1853</p>

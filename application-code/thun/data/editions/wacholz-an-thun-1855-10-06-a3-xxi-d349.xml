@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="wacholz-anton" role="sender:gelehrter">Anton
-                        Wacholz</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="wacholz-anton" key="wacholz-anton" role="sender:gelehrter">Anton
+                        Wacholz</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</placeName>, <date when="1855-10">o. D. [Oktober 1855]</date>
+                    <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs>, <date when="1855-10">o. D. [Oktober 1855]</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -47,14 +46,14 @@
                     </msContents>
                     <physDesc>
                         <p>Beilage: Abschrift eines Schreibens von <ref target="#D349_1">
-                                <persName key="pierre-viktor">Victor Pierre</persName> an die
+                                <rs type="person" ref="pierre-viktor" key="pierre-viktor">Victor Pierre</rs> an die
                                 Gymnasialprüfungskommission in Lemberg. Lemberg, 6. Oktober
                                 1855</ref>.</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -67,39 +66,39 @@
                 <p>Euer Excellenz!</p>
                 <p>Ein ungewöhnlicher Vorfall in der Gymnasialprüfungskommission veranlaßt mich, daß
                     ich es wage, mich an Euere Excellenz zu wenden.<lb/>Bey Gelegenheit der
-                    Reprobirung des Lehramtskandidaten <persName key="pilat-stanislaus">Stanislaus
-                        Pilat</persName> in der Sitzung vom 2. Juni dieses Jahres entspann sich eine
+                    Reprobirung des Lehramtskandidaten <rs type="person" ref="pilat-stanislaus" key="pilat-stanislaus">Stanislaus
+                        Pilat</rs> in der Sitzung vom 2. Juni dieses Jahres entspann sich eine
                     halbstündige Debatte und in weiterer Folge ein persönlicher Streit zwischen den
-                    beiden Examinatoren <persName key="kergel-wilhelm">Kergel</persName> und
-                        <persName key="bielowski-august">Bielowski</persName>, den ich angegangen um
+                    beiden Examinatoren <rs type="person" ref="kergel-wilhelm" key="kergel-wilhelm">Kergel</rs> und
+                        <rs type="person" ref="bielowski-august" key="bielowski-august">Bielowski</rs>, den ich angegangen um
                     Intervention mit allen mir zu Gebothe stehenden Mitteln gütlich beizulegen und
                     mit Vermeidung alles Aufsehens im Geheimnisse der Direktion zu erhalten suchte,
-                    was aber durch das ungestüme Auftreten der Professoren <persName key="pierre-viktor">Pierre</persName> und <persName key="schmidt-goebel-hermann-max">Schmidt</persName> vereitelt wurde. Indem
+                    was aber durch das ungestüme Auftreten der Professoren <rs type="person" ref="pierre-viktor" key="pierre-viktor">Pierre</rs> und <rs type="person" ref="schmidt-goebel-hermann-max" key="schmidt-goebel-hermann-max">Schmidt</rs> vereitelt wurde. Indem
                     ich über den ganzen Verlauf dieses Vorfalls einen mit allen Belegen versehenen,
                     sachgetreuen und gewissenhaften Bericht vom 18. Oktober Z 175. an das hohe
                     Ministerium erstatte, drängt mich ein nicht zu bewältigender Trieb meiner
                     Amtspflicht, Wahrnehmungen daran zu knüpfen, die zunächst die dabei obwaltende
                     Tendenz und die für die Kommission unmittelbar resultirenden Folgen betreffen.
-                    <lb/>Während <persName key="bielowski-august">Bielowski</persName> in diesem
-                    Streite ganz allein steht, gruppirt sich um Professor <persName key="kergel-wilhelm">Kergel</persName> ein aus den Professoren <persName key="pierre-viktor">Pierre</persName>, <persName key="schmidt-goebel-hermann-max">Schmidt</persName>, <persName key="hloch-johann-nepomuk">Hloch</persName> und <persName key="lemoch-ignaz">Lemoch</persName> bestehender Anhang, der zwar während jener Debatte sich
+                    <lb/>Während <rs type="person" ref="bielowski-august" key="bielowski-august">Bielowski</rs> in diesem
+                    Streite ganz allein steht, gruppirt sich um Professor <rs type="person" ref="kergel-wilhelm" key="kergel-wilhelm">Kergel</rs> ein aus den Professoren <rs type="person" ref="pierre-viktor" key="pierre-viktor">Pierre</rs>, <rs type="person" ref="schmidt-goebel-hermann-max" key="schmidt-goebel-hermann-max">Schmidt</rs>, <rs type="person" ref="hloch-johann-nepomuk" key="hloch-johann-nepomuk">Hloch</rs> und <rs type="person" ref="lemoch-ignaz" key="lemoch-ignaz">Lemoch</rs> bestehender Anhang, der zwar während jener Debatte sich
                     wenig, aber desto mehr in der Folge bemerkbar machte, als der Streit, der schon
-                    durch den Beschluß der Kommission vom 2. Juni zu Gunsten des Professor <persName key="kergel-wilhelm">Kergel</persName> ausgetragen schien, auf Veranlassung
+                    durch den Beschluß der Kommission vom 2. Juni zu Gunsten des Professor <rs type="person" ref="kergel-wilhelm" key="kergel-wilhelm">Kergel</rs> ausgetragen schien, auf Veranlassung
                     des letzteren in das Stadium eines Schriftwechsels unter Vermittlung der
-                    Direktion gezogen wurde, worin neben der Gereiztheit gegen <persName key="bielowski-august">Bielowski</persName> ein ganz ungerechtfertigtes
+                    Direktion gezogen wurde, worin neben der Gereiztheit gegen <rs type="person" ref="bielowski-august" key="bielowski-august">Bielowski</rs> ein ganz ungerechtfertigtes
                     Mißtrauen gegen die übrigen Glieder der Kommission, die sehr aufmerksame aber
                     stumme Zeugen des ganzen Vorfalls blieben, nicht zu verkennen ist, endlich ein
-                    Angriff, schon vorbreitet in der von Professor <persName key="kergel-wilhelm">Kergel</persName> am 11. August überreichten schriftlichen Erklärung, gegen
+                    Angriff, schon vorbreitet in der von Professor <rs type="person" ref="kergel-wilhelm" key="kergel-wilhelm">Kergel</rs> am 11. August überreichten schriftlichen Erklärung, gegen
                     mich als Direktor mit unläugbarer Tendenz ausgeführt wird von Professor
-                        <persName key="pierre-viktor">Pierre</persName>, der von einem geheimen
+                        <rs type="person" ref="pierre-viktor" key="pierre-viktor">Pierre</rs>, der von einem geheimen
                     Grolle entflammt, die meinem unterthänigsten Schreiben in Abschrift angebogene
                     Schrift verfaßte und dieselbe in der Sitzung vom 6. Oktober, von der er sich
-                    absentirte, durch Professor <persName key="schmidt-goebel-hermann-max">Schmidt</persName> am Schlusse der Sitzung vorlesen ließ. Dieses auf lauter
+                    absentirte, durch Professor <rs type="person" ref="schmidt-goebel-hermann-max" key="schmidt-goebel-hermann-max">Schmidt</rs> am Schlusse der Sitzung vorlesen ließ. Dieses auf lauter
                     unhaltbare Voraussetzungen gebaute Tadelsvotum, wie es der Verfasser zu nennen
                     beliebt, schon seiner Form nach eine anachronistische Illusion bey den streng
-                    geordneten Zuständen <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oestreichs</country>, erscheint
+                    geordneten Zuständen <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oestreichs</rs>, erscheint
                     nicht blos als eine Demonstration gegen den Direktor, sondern zugleich als ein
                     übermüthiger Eingriff in die eigentliche Sphäre des hohen Ministeriums, indem
-                    Professor <persName key="pierre-viktor">Pierre</persName> nicht klagt, sondern
+                    Professor <rs type="person" ref="pierre-viktor" key="pierre-viktor">Pierre</rs> nicht klagt, sondern
                     als einzelnes Mitglied den Direktor der Kommission richtet und sein Urtheil erst
                     nachträglich dem hohen Ministerium zur Bestätigung vorlegen läßt. Durch einen
                     solchen Angriff aber in Aufregung unternommen und taktlos ausgeführt ohne
@@ -143,21 +142,21 @@
                 <p>Eurer Excellenz ganz gehorsamer, unterthänigster Diener<lb/>Anton Wacholz</p>
                 <div type="enclosure" xml:id="D349_1">
                     <p>Löbliche k.k. wissenschaftliche Gymnasialprüfungscommission!</p>
-                    <p>Der beklagenswerthe Angriff des Herrn <persName key="bielowski-august">Kustos
-                            von Bielowski</persName> auf Herrn <persName key="kergel-wilhelm">Professor Kergel</persName> gibt dem Gefertigten Veranlassung gegen das
-                        Benehmen des Vorsitzenden <persName key="wacholz-anton">Herrn Dr.
-                            Wacholz</persName> ein ernstes Tadelsvotum auszusprechen.<lb/>Denn nicht
-                        nur hat <persName key="wacholz-anton">Dr. Wacholz</persName> während der
-                        ganzen von Seite des <persName key="bielowski-august">Herrn von
-                            Bielowski</persName> mit offenbarer Gereiztheit geführten Debatte nichts
+                    <p>Der beklagenswerthe Angriff des Herrn <rs type="person" ref="bielowski-august" key="bielowski-august">Kustos
+                            von Bielowski</rs> auf Herrn <rs type="person" ref="kergel-wilhelm" key="kergel-wilhelm">Professor Kergel</rs> gibt dem Gefertigten Veranlassung gegen das
+                        Benehmen des Vorsitzenden <rs type="person" ref="wacholz-anton" key="wacholz-anton">Herrn Dr.
+                            Wacholz</rs> ein ernstes Tadelsvotum auszusprechen.<lb/>Denn nicht
+                        nur hat <rs type="person" ref="wacholz-anton" key="wacholz-anton">Dr. Wacholz</rs> während der
+                        ganzen von Seite des <rs type="person" ref="bielowski-august" key="bielowski-august">Herrn von
+                            Bielowski</rs> mit offenbarer Gereiztheit geführten Debatte nichts
                         gethan, um dieselbe in den Schranken besonnener Mäßigung zu erhalten, selbst
-                        dann nicht als sich <persName key="bielowski-august">Herr von
-                            Bielowski</persName> geradezu zu persönlichen, ehrenrührigen Ausfällen
+                        dann nicht als sich <rs type="person" ref="bielowski-august" key="bielowski-august">Herr von
+                            Bielowski</rs> geradezu zu persönlichen, ehrenrührigen Ausfällen
                         hinreißen ließ, sondern es trägt die Schuld, die ganze unliebsame Scene
-                        hervorgerufen zu haben, in letzter Instanz Niemand als <persName key="wacholz-anton">Dr. Wacholz.</persName>
-                        <lb/>Mit welchem Rechte durfte derselbe das Elaborat des <persName key="pilat-stanislaus">Herrn von Pilat</persName> und das Gutachten des
-                            <persName key="kergel-wilhelm">Prof. Kergel</persName> über dasselbe aus
-                        den Händen geben, um Letzteres von dem Kandidaten und <persName key="bielowski-august">Herrn von Bielowski</persName> kritisiren zu
+                        hervorgerufen zu haben, in letzter Instanz Niemand als <rs type="person" ref="wacholz-anton" key="wacholz-anton">Dr. Wacholz.</rs>
+                        <lb/>Mit welchem Rechte durfte derselbe das Elaborat des <rs type="person" ref="pilat-stanislaus" key="pilat-stanislaus">Herrn von Pilat</rs> und das Gutachten des
+                            <rs type="person" ref="kergel-wilhelm" key="kergel-wilhelm">Prof. Kergel</rs> über dasselbe aus
+                        den Händen geben, um Letzteres von dem Kandidaten und <rs type="person" ref="bielowski-august" key="bielowski-august">Herrn von Bielowski</rs> kritisiren zu
                         lassen? Die häuslichen Prüfungselaborate sind nicht paraphirt, meist nur
                         sehr leicht zusammengeheftet; wie sehr tritt hier die Möglichkeit einer
                         Fälschung in den Vordergrund, wenn das Elaborat nicht stets unter den Augen
@@ -183,7 +182,7 @@
                         werden.<lb/>Unter allen Umständen muß daher der Gefertigte auf das
                         Entschiedenste dagegen protestiren, daß die Akten der Prüfungskommission an
                         Unberufene und Betheiligte hinausgegeben und der steten Überwachung durch
-                        den Vorstand der Kommission entzogen werden.<lb/>Dem <persName key="wacholz-anton">Herrn Vorsitzenden</persName> erlaubt er sich aber
+                        den Vorstand der Kommission entzogen werden.<lb/>Dem <rs type="person" ref="wacholz-anton" key="wacholz-anton">Herrn Vorsitzenden</rs> erlaubt er sich aber
                         noch insbesondere in Erinnerung zu bringen, daß er entsprechend seiner
                         ämtlichen Stellung und im Interesse der Würde der gesammten
                         Prüfungskommission, in Zukunft jede Debatte, die in Leidenschaft und

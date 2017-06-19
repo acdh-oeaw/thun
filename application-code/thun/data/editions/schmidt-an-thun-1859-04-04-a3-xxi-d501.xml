@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="schmidt-oscar" role="sender:gelehrter">Oscar
-                        Schmidt</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="schmidt-oscar" key="schmidt-oscar" role="sender:gelehrter">Oscar
+                        Schmidt</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_ca7668a05b2a3dbf29ca3d768c0febe8">Graz</placeName>, <date when="1859-04-04">4. April 1859</date>
+                    <rs type="place" subtype="place" ref="#place_ca7668a05b2a3dbf29ca3d768c0febe8">Graz</rs>, <date when="1859-04-04">4. April 1859</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -38,7 +37,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -56,22 +55,22 @@
                     wenn auch geringe Anzahl von Zuhörern dazu gemeldet hat, bei den bisherigen
                     Anschaffungen aber auf diese Disciplin die Fürsorge noch nicht hat gerichtet
                     werden können, habe ich meinen Freund, Herrn Professor und Regierungsrath
-                        <persName key="hyrtl-josef">Hyrtl</persName>, gefragt, ob er aus dem
-                    Doublettenvorrathe der <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wiener</placeName>
+                        <rs type="person" ref="hyrtl-josef" key="hyrtl-josef">Hyrtl</rs>, gefragt, ob er aus dem
+                    Doublettenvorrathe der <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wiener</rs>
                     vergleichend-anatomischen Sammlung geeignete Präparate abgeben könne.<lb/>Herr
-                    Professor <persName key="hyrtl-josef">Hyrtl</persName> hat sogleich seine
+                    Professor <rs type="person" ref="hyrtl-josef" key="hyrtl-josef">Hyrtl</rs> hat sogleich seine
                     Bereitwilligkeit dazu gegen mich brieflich ausgesprochen und mich aufgefordert,
                     das <orgName key="ministerium-fuer-kultus-und-unterricht">Hohe k.k.
                         Ministerium</orgName> darum anzugehen, ihm die Ermächtigung zu ertheilen,
                     den hiesigen Bedürfnissen nach Möglichkeit abzuhelfen.<lb/>Euer Excellenz
                     ersuche ich demnach unterthänigst, <hi rend="ul">dem Herrn Regierungsrathe Dr.
-                            <persName key="hyrtl-josef">Hyrtl</persName> die Ermächtigung zu
+                            <rs type="person" ref="hyrtl-josef" key="hyrtl-josef">Hyrtl</rs> die Ermächtigung zu
                         ertheilen, Doubletten des vergleichend-anatomischen Museums zu
-                            <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> zu Unterrichtszwecken an das zoologische
+                            <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> zu Unterrichtszwecken an das zoologische
                         Museum der <orgName key="universitaet-graz">Universität zu Gratz</orgName>
                         in meine Hände abzugeben</hi>.<lb/>Zur Verständigung über die Auswahl der
                     Doubletten, so wie um für die Verpackung Sorge zu tragen, dürfte eine mehrtägige
-                    Anwesenheit des gehorsamst Unterzeichneten in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>
+                    Anwesenheit des gehorsamst Unterzeichneten in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>
                     unumgänglich nöthig sein. Hierzu ersuche ich Euer Excellenz, mir die Reisespesen
                     nebst Diäten auf fünf Tage oder ein Pauschale von etwa sechzig Gulden zu
                     gewähren.</p>

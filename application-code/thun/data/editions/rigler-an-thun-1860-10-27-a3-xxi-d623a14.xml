@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="rigler-friedrich" role="sender:gelehrter">Friedrich
-                        Rigler</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="rigler-friedrich" key="rigler-friedrich" role="sender:gelehrter">Friedrich
+                        Rigler</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_ca7668a05b2a3dbf29ca3d768c0febe8">Graz</placeName>, <date when="1860-10-27">27. Oktober 1860</date>
+                    <rs type="place" subtype="place" ref="#place_ca7668a05b2a3dbf29ca3d768c0febe8">Graz</rs>, <date when="1860-10-27">27. Oktober 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -39,7 +38,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -52,7 +51,7 @@
                 <p>Eure Excellenz!</p>
                 <p>Im Zeitpunkte bedeutungsvoller Veränderungen verweilet meine Betrachtung und mein
                     Gefühl am längsten und am innigsten bei dem hochgesinnten Schöpfer und Begründer
-                    des neueren Gymnasialwesens in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country>.
+                    des neueren Gymnasialwesens in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>.
                     Möge Eurer Excellenz der warmgefühlte und laut ausgesprochene Dank aller der
                     vielen zu Theil werden, welche die Bedeutung der neuen Schöpfung und die
                     ausdauernde Umsicht und Festigkeit, womit ihr bisheriger Bestand erkämpft werden

@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="ghidoli-giacomo" role="sender:kleriker">Giacomo
-                        Ghidoli</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="ghidoli-giacomo" key="ghidoli-giacomo" role="sender:kleriker">Giacomo
+                        Ghidoli</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName key="mailand" ref="#place_e30630933146ed8683482de23229fd6a">Mailand</placeName>, <date when="1853-07-12">12. Juli 1853</date>
+                    <rs type="place" subtype="place" key="mailand" ref="#place_e30630933146ed8683482de23229fd6a">Mailand</rs>, <date when="1853-07-12">12. Juli 1853</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -41,7 +40,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -52,16 +51,16 @@
                 </index>
                 <p>Eccellenza!</p>
                 <p>Sullo spirare del passato Agosto col valido appoggio di Sua Eccellenza il
-                    Comandante Militare di Lombardia il Signor <persName key="gyulay-ferencz-jozsef">Conte Giulay</persName> osava il sottoscritto umiliare al Governatore
-                    Generale del Regno Lombardo-Veneto il <persName key="radetzky-josef-wenzel">Feld-Maresciallo il Signor Conte Radetski</persName> rispettosa istanza,
-                    colla quale domandava alla <persName key="franz-joseph">Maestà dell’Augusto
-                        nostro Sovrano</persName> d’essere preso in benigna contemplazione nella
+                    Comandante Militare di Lombardia il Signor <rs type="person" ref="gyulay-ferencz-jozsef" key="gyulay-ferencz-jozsef">Conte Giulay</rs> osava il sottoscritto umiliare al Governatore
+                    Generale del Regno Lombardo-Veneto il <rs type="person" ref="radetzky-josef-wenzel" key="radetzky-josef-wenzel">Feld-Maresciallo il Signor Conte Radetski</rs> rispettosa istanza,
+                    colla quale domandava alla <rs type="person" ref="franz-joseph" key="franz-joseph">Maestà dell’Augusto
+                        nostro Sovrano</rs> d’essere preso in benigna contemplazione nella
                     nomina della vacante <orgName key="kloster-st-barbara-mantua">
                         <hi rend="ul">Abazia di S. Barbara in Mantova</hi>
                     </orgName>, onde mettersi in grado
                     di poter giovare a due sgraziati orfanelli, figli del Capo-Farmacista
-                    dell’Ospital Militare <persName key="apatschnig-franz">Francesco
-                        Apatschnig</persName>, morto in <placeName key="mailand" ref="#place_e30630933146ed8683482de23229fd6a">Milano</placeName>
+                    dell’Ospital Militare <rs type="person" ref="apatschnig-franz" key="apatschnig-franz">Francesco
+                        Apatschnig</rs>, morto in <rs type="place" subtype="place" key="mailand" ref="#place_e30630933146ed8683482de23229fd6a">Milano</rs>
                     nel <date when="1848">1848</date>, da lui raccolti in tenera età nel tempo
                     appunto, in cui la Rivoluzione più baldanzosa alzava l’aborrità fronte, e più
                     fiera mostravasi contro gl’individui appartenenti all’Austriaco Governo.<lb/>Il
@@ -79,9 +78,9 @@
                     amendue. Fornito il sottoscritto di più larghi mezzi, senz’importunare più oltre
                     chichesia, egli solo penserà per un’educazione de’ suoi tutelati che sia
                     conveniente ai civili loro natali.<lb/>Vero è che al maggiore di questi per nome
-                        <persName key="apatschnig-enrico">Enrico</persName> venne assegnato uno dei
-                    posti gratuiti vacanti nell’ Imperial Regio Collegio Longone di <placeName key="mailand" ref="#place_e30630933146ed8683482de23229fd6a">questa Città</placeName>; ma oltre che rimane ancora a suo
-                    carico la minora di essi per nome <persName key="apatschnig-angiola">Angiola</persName>, le spese occorrenti per l’ammissione al Collegio, il
+                        <rs type="person" ref="apatschnig-enrico" key="apatschnig-enrico">Enrico</rs> venne assegnato uno dei
+                    posti gratuiti vacanti nell’ Imperial Regio Collegio Longone di <rs type="place" subtype="place" key="mailand" ref="#place_e30630933146ed8683482de23229fd6a">questa Città</rs>; ma oltre che rimane ancora a suo
+                    carico la minora di essi per nome <rs type="person" ref="apatschnig-angiola" key="apatschnig-angiola">Angiola</rs>, le spese occorrenti per l’ammissione al Collegio, il
                     necessario corredo, non che la manutenzione ordinaria, ed annuale di abiti,
                     libri e di molte altre cose che non possono sfuggire alle mente sagace di Vostra
                     Eccellenza non solo assorbiscono il tenue assegno; ma richieggono altri

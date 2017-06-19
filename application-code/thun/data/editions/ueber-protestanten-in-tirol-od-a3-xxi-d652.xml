@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -40,7 +39,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -53,9 +52,9 @@
                 <p>
                     <hi rend="ul">Zillerthaler</hi>
                 </p>
-                <p>Über die Bitte der Stände <region key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tirols</region> erfloß die
+                <p>Über die Bitte der Stände <rs type="place" subtype="region" key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tirols</rs> erfloß die
                     allerhöchste Entschließung vom 2. April 1834, daß eine akatholische Gemeinde in
-                        <region ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</region> nicht geduldet werde, daß es jedoch jenen, die bei
+                        <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs> nicht geduldet werde, daß es jedoch jenen, die bei
                     dem Abfalle von der katholischen Kirche beharren wollen, freigestellt bleibe, in
                     andere Gegenden der Monarchie, wo protestantische Kirchen bestehen zu
                     übersiedeln.<lb/>Die allerhöchste Entschließung vom 12. Jänner 1837 ordnet die
@@ -66,12 +65,12 @@
                     Religionsbekenntnisses gibt, zu dem sie sich bestimmt erklären. Zugleich wurde
                     allerhöchst angeordnet, daß den Abtrünnigen die durch das Toleranzpatent nur
                     dispensando zu gebende Erlaubnis nicht ertheilt werde.<lb/>Ein protestantisches
-                        <persName key="angern-eveline">Fräulein von Angern</persName>
+                        <rs type="person" ref="angern-eveline" key="angern-eveline">Fräulein von Angern</rs>
                     <note xml:id="note_2">Eveline von Angern trat gemeinsam mit ihrer Schwester
-                            <persName key="angern-agnes">Agnes von Angern</persName> als Käuferin
-                        auf.</note> hatte das Schloß <placeName ref="#place_7eef7c3b9d998a84340b9946b8a093c8">Kropfsberg</placeName> angekauft.
+                            <rs type="person" ref="angern-agnes" key="angern-agnes">Agnes von Angern</rs> als Käuferin
+                        auf.</note> hatte das Schloß <rs type="place" subtype="place" ref="#place_7eef7c3b9d998a84340b9946b8a093c8">Kropfsberg</rs> angekauft.
                     Die Landesstelle erklärte den Kauf mit Berufung auf art. 7 des Toleranzpatentes
-                    für ungültig. Allerhöchste Entschließung vom 9. December 1846: "Was im <region key="zillertal" ref="#place_d42e977ba01486beb8c41866057080a8">Zillerthale</region> durch meine Entschließung vom 2. Jänner
+                    für ungültig. Allerhöchste Entschließung vom 9. December 1846: "Was im <rs type="place" subtype="region" key="zillertal" ref="#place_d42e977ba01486beb8c41866057080a8">Zillerthale</rs> durch meine Entschließung vom 2. Jänner
                     1837 meinen protestantischen Unterthanen verboten worden ist, soll eben dort
                     protestantischen Ausländern nicht gestattet werden." Der Kaufschillig ward durch
                     Aerar vergütet.<lb/>Reichsverfassung 4. März 1849 (Grundrechte. Kaiserliches
@@ -83,7 +82,7 @@
                 <p>
                     <note xml:id="note_5">Ab hier bis zum Ende eh. Leo Thun.</note>Nicht minder
                     wichtig ist der Umstand, daß zur Zeit der Erlassung des Toleranzpatentes in
-                        <region key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tyrol</region> keine Protestanten sich befanden, und
+                        <rs type="place" subtype="region" key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tyrol</rs> keine Protestanten sich befanden, und
                     auch seit her nie so viele, als nach den Bestimmungen desselben erforderlich
                     gewesen wären, um eine Gemeinde zu bilden und ein Bisthum errichten zu dürfen.
                     Es fehlt daher an einem Rechtssubjekte welches von den Zugeständnissen des
@@ -92,11 +91,11 @@
                     gewisser Stellungen im Dispensierungswege in Aussicht stellte. Es ist aber
                     bekannt, daß auch dieser was die Erwerbung von Grundbesitz anbelangt bis in die
                     neueste Zeit immer nur in negativem Sinne angewendet worden ist, und daß noch
-                    durch allerhöchste Entschließung <persName key="franz-I-II">Franz I.</persName>
-                    von 1834 und <persName key="ferdinand-I-oesterreich">Ferdinand</persName> 1837
+                    durch allerhöchste Entschließung <rs type="person" ref="franz-I-II" key="franz-I-II">Franz I.</rs>
+                    von 1834 und <rs type="person" ref="ferdinand-I-oesterreich" key="ferdinand-I-oesterreich">Ferdinand</rs> 1837
                     auch Versammlungen mit dem Landtage oder Bedeutung für das Landrecht unmöglich
                     ertheilt werden könne, ausdrücklich ausgesprochen wurde, daß Akatholiken in
-                        <region key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tyrol</region> keine Gründe bilden und keinen
+                        <rs type="place" subtype="region" key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tyrol</rs> keine Gründe bilden und keinen
                     Grundbesitz erwerben dürfen.</p>
             </div>
         </body>

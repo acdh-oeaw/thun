@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="ficker-julius" role="sender">Julius Ficker</persName> an
-                        <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="ficker-julius" key="ficker-julius" role="sender">Julius Ficker</rs> an
+                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</placeName>, <date when="1854-05-01">1. Mai 1854</date>
+                    <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs>, <date when="1854-05-01">1. Mai 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -44,7 +43,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -56,7 +55,7 @@
                 </index>
                 <p>Innsbruck, 54. Mai 1.</p>
                 <p>Euer Exzellenz</p>
-                <p>Beeile ich mich mitzutheilen, daß mir durch Vermittlung meines <persName key="ulrich-wilhelm">Schwagers</persName> heute aus dem preußischen
+                <p>Beeile ich mich mitzutheilen, daß mir durch Vermittlung meines <rs type="person" ref="ulrich-wilhelm" key="ulrich-wilhelm">Schwagers</rs> heute aus dem preußischen
                     Ministerium der geistlichen und Unterrichtsangelegenheiten die Anfrage zukam, ob
                     ich bereit sei, eine ordentliche Professur zu <orgName key="universitaet-bonn">Bonn</orgName> mit 900 Thaler Gehalt zu übernehmen und ich zugleich
                     umgehend um Antwort ersucht wurde.<lb/>Nach bestem Erwägen und im Hinblicke auf
@@ -68,13 +67,13 @@
                     mir aber nicht möglich sei, ein dahin gehendes Versprechen abzugeben, ohne die
                     gnädige Rückäußerung Euer Exzellenz für meine zu machende Mittheilung abgewartet
                     zu haben. Meine ganze Lage ist nun wohl derart, daß ich trotz meines Wunsches,
-                    in <placeName ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</placeName> und <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> zu bleiben, ein Ablehnen jenes Anerbietens kaum zu
+                    in <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs> und <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> zu bleiben, ein Ablehnen jenes Anerbietens kaum zu
                     rechtfertigen wüsste. Zu dem, was ich darüber in meinem früheren Schreiben zu
                     sagen mir erlaubte, kommt noch eine mir gleichzeitig zugegangene dringende Bitte
-                    meiner <persName key="scheffer-boichorst-auguste-amalia">Mutter</persName>, die
+                    meiner <rs type="person" ref="scheffer-boichorst-auguste-amalia" key="scheffer-boichorst-auguste-amalia">Mutter</rs>, die
                     abzuschlagen ich mich nur schwer entschließen dürfte. Es kommt dazu weiter die
                     begründete Aussicht, daß falls ich ablehne, jene Professur in einer meinen
-                    Freunden und Gesinnungsgenossen in der <region key="westfalen" ref="#place_3b04ac095eb521f1db03d6ba76f73aeb">Heimath</region>
+                    Freunden und Gesinnungsgenossen in der <rs type="place" subtype="region" key="westfalen" ref="#place_3b04ac095eb521f1db03d6ba76f73aeb">Heimath</rs>
                     wenig zusagender Weise besetzt werden möchte. Auch die mir gemachten
                     Anerbietungen gaben mir keinen Grund zum Ablehnen. Denn so wenig ich gerade in
                     diesem Fall meine Annehmung oder Ablehnung von der Höhe des mir angebotenen
@@ -99,13 +98,13 @@
                     ich nicht bereits damals, als ich aus Gelegenheit meiner Berufung nach <orgName key="universitaet-innsbruck">Innsbruck</orgName> die Ehre einer persönlichen
                     Unterredung mit Euer Exzellenz hatte, auf d. besonderen [?] die mich nach an die
                         <orgName key="universitaet-bonn">Bonner Universität</orgName> knüpfen und
-                    die Eventualitäten, die eine baldigen Vakanz der Stelle des Herrn <persName key="aschbach-joseph">Prof. Aschbach</persName> für mich mit sich bringen
+                    die Eventualitäten, die eine baldigen Vakanz der Stelle des Herrn <rs type="person" ref="aschbach-joseph" key="aschbach-joseph">Prof. Aschbach</rs> für mich mit sich bringen
                     könnte, hinzuweisen mir erlaubt hätte.<lb/>Sollte sich nun die Sache so
                     gestalten, daß ich wirklich meine Professur zu Innsbruck aufgeben müsste, so
-                    würde es wenigstens bei den in <country ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</country> angeknüpften
+                    würde es wenigstens bei den in <rs type="place" subtype="country" ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</rs> angeknüpften
                     Verbindungen und dem theilweise[?] geänderten Gange meiner Studien mein
                     eifrigstes Bestreben sein, auch ferner an dem so erfreulichen Aufblühen der
-                    historischen Wissenschaften in <country ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</country> in so weit
+                    historischen Wissenschaften in <rs type="place" subtype="country" ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</rs> in so weit
                     teilzunehmen, als mir solches aus der Ferne durch schriftstellerische Thätigkeit
                     noch möglich sein würde.<lb/>Sollte dagegen bei meiner Ablehnung der
                     augenblicklich festen Zusage das preußische Ministerium seine Anerbietung

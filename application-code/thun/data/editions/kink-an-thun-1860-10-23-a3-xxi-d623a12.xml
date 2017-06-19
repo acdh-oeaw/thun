@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="kink-rudolph" role="sender:beamter">Rudolph Kink</persName> an
-                        <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="kink-rudolph" key="kink-rudolph" role="sender:beamter">Rudolph Kink</rs> an
+                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_8be4faaae218289562dc0a8c0e2e0ff1">Triest</placeName>, <date when="1860-10-23">23. Oktober 1860</date>
+                    <rs type="place" subtype="place" ref="#place_8be4faaae218289562dc0a8c0e2e0ff1">Triest</rs>, <date when="1860-10-23">23. Oktober 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -41,7 +40,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -63,14 +62,14 @@
                     wahren Freiheit eine Stätte vorbereitet, indem Sie die Grundsätze für die
                     Erziehung einer Generation in dem Sinne leiteten und ausführten, auf daß sie
                     Charakterehre und Überzeugungen dulde, denn darin besteht ja die Freiheit. Sie
-                    haben zuerst in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> es proklamirt,
+                    haben zuerst in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> es proklamirt,
                     daß die Servilität und Gemeinheit der Gesinnung bekämpft werde durch den Ernst
                     der Wissenschaft und nicht durch das Spiel mit dem Wissen. So werden denn noch
                     viele der kommenden Jahre zehren an dem Kapitale, das Sie errungen. Und es wird
                     nöthig sein, daß ein solcher Vorrath da sei. Denn was wird jetzt mit den Studien
-                    geschehen in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country>? Wird man sich
+                    geschehen in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>? Wird man sich
                     nicht vielleicht jetzt, – wo es doppelt noth thut, die Thore nach
-                        <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country> für die nichtungarischen Länder offen zu
+                        <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> für die nichtungarischen Länder offen zu
                     erhalten, um wenigstens indirekt und moralisch durch die Macht der Bildung und
                     Wissenschaft ein verlorenes Gebiet nach und nach zurückzuerobern – wird man sich
                     nicht etwa beeilen, ein sogenanntes spezifisch österreichisches Studiensystem

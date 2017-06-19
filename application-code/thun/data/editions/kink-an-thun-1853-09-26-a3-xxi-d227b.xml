@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="kink-rudolph" role="sender:beamter">Rudolf Kink</persName> an
-                        <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="kink-rudolph" key="kink-rudolph" role="sender:beamter">Rudolf Kink</rs> an
+                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1853-09-26">26.
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1853-09-26">26.
                         September 1853</date>
                 </title>
             </titleStmt>
@@ -54,7 +53,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -113,7 +112,7 @@
                     setzen wäre, um anzuzeigen, daß er wirklich nur ein „Nachhang“ sein will. Eine
                     unliebsame Correlation mit dem amtlichen Reformelaborate kann sich schon deshalb
                     nicht ergeben, weil ich, wie Euer Excellenz schon bemerkt haben werden, die mir
-                    aufgetragene Kürzung der <persName key="flir-alois">Flir</persName>'schen
+                    aufgetragene Kürzung der <rs type="person" ref="flir-alois" key="flir-alois">Flir</rs>'schen
                     Ausarbeitung absichtlich in einer Weise vollzog, daß sie mit meiner Darstellung
                     keine äußere Ähnlichkeit mehr hat und daher die Insinuation einer gemeinsamen
                     Feder für beide beseitigt. Darnach brauchte es, strenge genommen, gar keinen

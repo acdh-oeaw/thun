@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="hohenlohe-waldenburg-schillingfuerst-alexander" role="sender:kleriker">Alexander Hohenlohe</persName> an Unbekannt<note xml:id="note_1">Im Nachlass wurde als Empfänger Johann Minkopf, Pfarrer in
+                    <rs type="person" ref="hohenlohe-waldenburg-schillingfuerst-alexander" key="hohenlohe-waldenburg-schillingfuerst-alexander" role="sender:kleriker">Alexander Hohenlohe</rs> an Unbekannt<note xml:id="note_1">Im Nachlass wurde als Empfänger Johann Minkopf, Pfarrer in
                         Pinkafeld, angegeben.</note>
                     <lb/>
-                    <placeName key="grosswardein" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Großwardein</placeName> [Oradea], <date when="1834-12-06">6. Dezember
+                    <rs type="place" subtype="place" key="grosswardein" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Großwardein</rs> [Oradea], <date when="1834-12-06">6. Dezember
                         1834</date>
                     <note xml:id="note_2">Das Dokument wurde im Nachlass
                         fälschlicherweise auf das Jahr 1854 datiert.</note>
@@ -42,7 +41,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -55,7 +54,7 @@
                 <p>Großwardein, 6. December 1834</p>
                 <p>Hochwürdiger Herr Pfarrer<lb/>Lieber theurer Bruder in Christo!</p>
                 <p>Um so angenehmer war mir Ihr liebes Schreiben, weil ich im Voraus schon den Ruf
-                    des Mannes kannte, durch meinen seligen Freund <persName key="job">Job</persName>, und die Schreibart mir den Geistig-Geistlichen schilderte,
+                    des Mannes kannte, durch meinen seligen Freund <rs type="person" ref="job" key="job">Job</rs>, und die Schreibart mir den Geistig-Geistlichen schilderte,
                     der hierlands unter dem Spott-Namen Misttier [?] gescholten, gerade an und bey
                     mir seine Stelle nahe zum Herzen hat, den ich persönlich kennen will, und kennen
                     lernen werde bey meiner nächsten Hinaufreise, aus meiner Terra incognita et
@@ -83,7 +82,7 @@
                     Verständnis ist in unseren Tagen nicht mehr möglich und da ist es besser in
                     stillen Orten damit wir den Glauben behalten, der so gefährdet ist in der
                     heutigen Zeit. Bitten wir Eines, bittend der Eine für den Anderen, daß wir ihn
-                    an uns erhalten, mehren, befestigen.<lb/>Meine Stellung in <placeName key="grosswardein" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">G[roßwardein]</placeName> ist wenig, indessen alles kommt
+                    an uns erhalten, mehren, befestigen.<lb/>Meine Stellung in <rs type="place" subtype="place" key="grosswardein" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">G[roßwardein]</rs> ist wenig, indessen alles kommt
                     von Gott und führt deshalb zu Ihm wenn man es so betrachtet – und – wo ist der
                     Platz wo man heute nützen kann? Inzwischen hat man Zeit an der eigenen
                     Vervollkommnung zu arbeiten, was immer die Hauptaufgabe bleibt, und sendet Gott
@@ -111,7 +110,7 @@
                     saeculi. Amen. Ja und wahr, gestern, heute, allezeit.<lb/>Zur Zeit der Makkabäer
                     und der Apostel verbargen sich die Gläubigen und betheten für einander; unsere
                     Zeit ist ihr mehr als ähnlich, und glaube die Zeit des Gerichtes über
-                        <country ref="#place_5c4b925bf527c4f8581815a35a10d658">Europa</country> nahe, und jene Worte JESU über Jerusalem
+                        <rs type="place" subtype="country" ref="#place_5c4b925bf527c4f8581815a35a10d658">Europa</rs> nahe, und jene Worte JESU über Jerusalem
                     gesprochen, gelten jetzt auch jenen, in welchen Kirche und Staaten ihrem
                     Verfalle preisgegeben sind. Wen sollen wir deshalb anklagen? Uns selbst
                     insgesamt, wie die Brüder Josephs: Quid respondebimus Domino vel quid loquemur
@@ -131,8 +130,8 @@
                     Bruder hast du mein offenes Glaubensbekenntnis, was freylich 100 Episcopate
                     nicht recomendiert, Schreiber dies wünscht es sich auch gar nicht, weil man
                     genug zu thun hat, seine eigene Seele zu retten, geschweige andere. Meine besten
-                    Freunde <persName key="sailer-johann">Sailer</persName> – <persName key="wittmann-georg">Wittmann</persName> – <persName key="job">Job</persName> – Bohtina [?] – <persName key="berghold">Berghold</persName>
-                    – <persName key="schlund-karl">Schlund</persName> sind tod, in die jungen kann,
+                    Freunde <rs type="person" ref="sailer-johann" key="sailer-johann">Sailer</rs> – <rs type="person" ref="wittmann-georg" key="wittmann-georg">Wittmann</rs> – <rs type="person" ref="job" key="job">Job</rs> – Bohtina [?] – <rs type="person" ref="berghold" key="berghold">Berghold</rs>
+                    – <rs type="person" ref="schlund-karl" key="schlund-karl">Schlund</rs> sind tod, in die jungen kann,
                     mag ich mich nicht finden. Et nunc vale. Charitas Christi urget nos, urget et
                     urgeat amplius. Tuus totus quantus in Sanctissimo Corde Jesu.</p>
                 <p>[?] Hohenlohe.</p>

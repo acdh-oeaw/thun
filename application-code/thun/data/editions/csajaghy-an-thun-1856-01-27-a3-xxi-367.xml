@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="csajaghy-alexander" role="sender:kleriker">Alexander
-                        Csajághy</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="csajaghy-alexander" key="csajaghy-alexander" role="sender:kleriker">Alexander
+                        Csajághy</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>o. O., o. D. <date when="1856-01">[1852–
                         1856]</date>
                 </title>
@@ -46,7 +45,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -89,7 +88,7 @@
                     der Betheiligung an dem bezüglich des kundgemachten Concordates abgehaltenen von
                     der Kanzel vorangekündigten Te Deums erlaubt ist – hier kaum sehr zahlreich sein
                     dürften. Und dieses Gerücht ist es, was mich dazu veranlassen mußte, den wahren
-                    Thatbestand aufzuklären, und meiner an den Herrn Ministerialrath <persName key="simor-johann">Johann Simor</persName> gerichteten telegraphischen
+                    Thatbestand aufzuklären, und meiner an den Herrn Ministerialrath <rs type="person" ref="simor-johann" key="simor-johann">Johann Simor</rs> gerichteten telegraphischen
                     Antwort die ausführliche Begründung nachzusenden, um zugleich Euer Exzellenz
                     darüber vollkommen zu beruhigen, daß ich im Bezug auf die Ausführung des
                     Concordates schon lange vor der Kundmachung desselben keine andere Ansicht
@@ -121,7 +120,7 @@
                         Landesstelle Beweise jenes Dienstfreundlichsten Entgegenkommens zu liefern,
                         dessen Bedingungen auch fortan zu wahren dieses Ordinariat sich vorzüglich
                         angelegen sein lassen wird, um jenes hehre Ziel zu erstreben, welches die
-                        hochherzige Vereinbarung Seiner k.k. <persName key="franz-joseph">Apostolischen Majestät</persName> mit dem <persName key="pius-IX">Oberhaupte der Kirche</persName> zur wahren Wohlfahrt Höchstihrer
+                        hochherzige Vereinbarung Seiner k.k. <rs type="person" ref="franz-joseph" key="franz-joseph">Apostolischen Majestät</rs> mit dem <rs type="person" ref="pius-IX" key="pius-IX">Oberhaupte der Kirche</rs> zur wahren Wohlfahrt Höchstihrer
                         Unterthanen für Alldiejenigen vorzustellen geruheten, welche berufen sind,
                         die durch jene Vereinbarung kundgegebenen allerhöchsten Intentionen in
                         Vollzug zu bringen.</p>

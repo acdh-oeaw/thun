@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="phillips-george" role="sender:gelehrter">George
-                        Phillips</persName> an einen Ministerialrat im Ministerium für Kultus und
+                    <rs type="person" ref="phillips-george" key="phillips-george" role="sender:gelehrter">George
+                        Phillips</rs> an einen Ministerialrat im Ministerium für Kultus und
                         Unterricht<lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1852-01-10">10.
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1852-01-10">10.
                         Januar 1852</date>
                 </title>
             </titleStmt>
@@ -50,7 +49,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -65,7 +64,7 @@
                 <p>Hochzuverehrender Herr Ministerialrath,</p>
                 <p>Euer Hochwohlgeboren hatten die Güte mir zu gestatten, die Wünsche, welche ich
                     vor einiger Zeit in Betreff meiner hiesigen Stellung zu äußern mir erlaubte,
-                    Ihrer freundlichen Vermittlung bei Seiner Excellenz dem <persName key="thun-hohenstein-leo">Herrn Minister</persName> übertragen zu dürfen.
+                    Ihrer freundlichen Vermittlung bei Seiner Excellenz dem <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Herrn Minister</rs> übertragen zu dürfen.
                     Ich würde zwar keinen Anstand nehmen im vollen Vertrauen auf die wohlwollende
                     Gesinnung, welche Seine Excellenz stets gegen mich an den Tag gelegt haben,
                     Hochdemselben meine Sache selbst vorzutragen; dennoch ist es mir eine große
@@ -110,7 +109,7 @@
                     Unzulänglichkeit meiner Kräfte für immer von der Lehrkanzel
                     zurückzuziehen.<lb/>Endlich darf ich aber auch meine pecuniären Verhältnisse
                     nicht mit Stillschweigen übergehen. Von der Theuerung in
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, ja von der beinahe völligen Unmöglichkeit, eine
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, ja von der beinahe völligen Unmöglichkeit, eine
                     geeignete Wohnung zu finden, kann sich auswärts niemand eine Vorstellung machen.
                     So habe ich mich denn in diesem Punkte sowie auch darin getäuscht, daß ich
                     glaubte, einen Anspruch auf Übersiedlungskosten zu haben; infolgedessen befinde
@@ -120,13 +119,13 @@
                     Forderung machen zu wollen; ich glaube bei allen mit mir gepflogenen
                     Unterhandlungen der k.k. Regierung die mindesten Anstände gemacht zu haben, und
                     so geht auch jetzt mein Wunsch nicht weiter, als daß mir, nächst Ersatz der
-                    Umzugskosten, meine Besoldung doch so aufgebessert werde, daß ich in <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</placeName> so zu stehen komme, wie ich verhältnißmäßig in
-                        <placeName key="innsbruck" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</placeName> stand; hierbei muß ich
+                    Umzugskosten, meine Besoldung doch so aufgebessert werde, daß ich in <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> so zu stehen komme, wie ich verhältnißmäßig in
+                        <rs type="place" subtype="place" key="innsbruck" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs> stand; hierbei muß ich
                     allerdings bemerken, daß bei den nicht obligaten Fächern an der <orgName key="universitaet-wien">Wiener Universität</orgName> noch weniger auf
                     Collegiengelder zu rechnen ist als dort.<lb/>Hieran erlaube ich mir noch eine
                     andere Bitte zu knüpfen: ich werde gewiß, wie ich es bereits durch eine fast
                     sechsundzwanzigjährige akademische Laufbahn bewiesen zu haben glaube, meine
-                    Pflichten als Lehrer der mir übertragenen Gegenstände auch in Diensten <persName key="franz-joseph">Seiner Majestät des Kaisers</persName> getreulich
+                    Pflichten als Lehrer der mir übertragenen Gegenstände auch in Diensten <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät des Kaisers</rs> getreulich
                     nachkommen; sollten Allerhöchstdieselben seinerzeit meine Thätigkeit nicht mehr
                     gebrauchen wollen, oder sollte ich genöthigt sein, mich in den Ruhestand
                     zurückzuziehen, so wäre es für mich sehr wichtig, wenn mir die Pension oder
@@ -141,7 +140,7 @@
                 <p/>
                 <p>&lt;Wünsche:<lb/>1. Urlaub für jedes Wintersemester bis zur Vollendung des Werkes
                     über Kirchenrecht.<lb/>2. Anweisung eines Vorlesesaales in der inneren
-                    Stadt.<lb/>3. Vergütung der Übersiedlungskosten von <placeName key="innsbruck" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Insbruck</placeName> [Innsbruck] nach <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>
+                    Stadt.<lb/>3. Vergütung der Übersiedlungskosten von <rs type="place" subtype="place" key="innsbruck" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Insbruck</rs> [Innsbruck] nach <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>
                     <lb/>4.
                     Erhöhung des Gehaltes.<lb/>5. Zusicherung, daß seine oder seiner Witwe Pension
                     auch im Auslande verzehrt werden kann.&gt;<note xml:id="note_1">Notiz von

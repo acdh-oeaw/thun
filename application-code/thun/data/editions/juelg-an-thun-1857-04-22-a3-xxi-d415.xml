@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="juelg-bernhard" role="sender:gelehrter">Bernhard
-                        Jülg</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="juelg-bernhard" key="juelg-bernhard" role="sender:gelehrter">Bernhard
+                        Jülg</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_fafa41f7e32d84b3a419ca848a2b0880">Krakau</placeName>, <date when="1857-04-22">22. April 1857</date>
+                    <rs type="place" subtype="place" ref="#place_fafa41f7e32d84b3a419ca848a2b0880">Krakau</rs>, <date when="1857-04-22">22. April 1857</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -48,7 +47,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -60,20 +59,20 @@
                     <term>Klassische Philologie</term>
                 </index>
                 <p>Hochgeborner Herr Graf!</p>
-                <p>Eure Excellenz haben mir durch den <persName key="mercandin-franz">Herrn
-                        Landespräsidenten</persName> den Wunsch zu erkennen gegeben, daß es
+                <p>Eure Excellenz haben mir durch den <rs type="person" ref="mercandin-franz" key="mercandin-franz">Herrn
+                        Landespräsidenten</rs> den Wunsch zu erkennen gegeben, daß es
                     Hochderselben nicht unlieb wäre, wenn ich an die <orgName key="universitaet-lemberg">Lemberger Universität</orgName> zurück möchte.
-                    Wie der <persName key="mercandin-franz">Herr Landespräsident</persName> sich
+                    Wie der <rs type="person" ref="mercandin-franz" key="mercandin-franz">Herr Landespräsident</rs> sich
                     ausdrückte, so glaubten Euer Excellenz durch diese Versetzung den Zwistigkeiten
-                    und Reibereien, die schon wiederholt zwischen <persName key="kergel-wilhelm">Prof. Kergel</persName> und Schulrath <persName key="czerkawski-eusebius">Czerkawski</persName> statt hatten, indem ich zu Letzterem in bessern
+                    und Reibereien, die schon wiederholt zwischen <rs type="person" ref="kergel-wilhelm" key="kergel-wilhelm">Prof. Kergel</rs> und Schulrath <rs type="person" ref="czerkawski-eusebius" key="czerkawski-eusebius">Czerkawski</rs> statt hatten, indem ich zu Letzterem in bessern
                     Beziehungen stehen würde, vorbeugen zu können. So schmeichelhaft mir auch das
                     Vertrauen ist, das Euer Excellenz in dieser Beziehung auf meinen Charakter
                     setzen – und ich würde mich gewiß bestreben es vollkommen zu rechtfertigen – so
                     habe ich doch, wenn ich zu Hochderselben mit der innersten Aufrichtigkeit
                     sprechen darf, große Bedenken, daß der beabsichtigte Zweck hierdurch erreicht
                     würde. Nach meiner innersten Überzeugung ist an den gedachten Reibereien nicht
-                    sowohl <persName key="kergel-wilhelm">Prof. Kergel</persName>, als vielmehr
-                        <persName key="czerkawski-eusebius">Czerkawski</persName> Schuld, und so wie
+                    sowohl <rs type="person" ref="kergel-wilhelm" key="kergel-wilhelm">Prof. Kergel</rs>, als vielmehr
+                        <rs type="person" ref="czerkawski-eusebius" key="czerkawski-eusebius">Czerkawski</rs> Schuld, und so wie
                     ich des Letzteren Charakter kenne – und glaube ihn ziemlich genau zu kennen –
                     würden sich dieselben Zwistigkeiten bald auch mir gegenüber erheben, so milde
                     und versöhnlich ich auch sein möchte. Somit dürfte durch meine Versetzung wenig
@@ -88,11 +87,11 @@
                     die Verhältnisse in <orgName key="universitaet-lemberg">Lemberg</orgName> unter
                     den Collegen, als ich es verließ, äußerst unangenehm waren und ich froh war es
                     verlassen zu können; und seitdem haben sie sich dort noch eher verschlimmert.
-                    <lb/>Meine zweimalige Übersiedlung von <placeName ref="#place_5e69627bdd3b74889802933c067c7794">Rastatt</placeName> nach
-                        <placeName ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</placeName> und von dort nach
-                        <placeName ref="#place_fafa41f7e32d84b3a419ca848a2b0880">Krakau</placeName> hat für mich, namentlich wegen meiner
+                    <lb/>Meine zweimalige Übersiedlung von <rs type="place" subtype="place" ref="#place_5e69627bdd3b74889802933c067c7794">Rastatt</rs> nach
+                        <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs> und von dort nach
+                        <rs type="place" subtype="place" ref="#place_fafa41f7e32d84b3a419ca848a2b0880">Krakau</rs> hat für mich, namentlich wegen meiner
                     zahlreichen Bücher, empfindliche Verluste gehabt. In
-                        <placeName ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</placeName> kaum eingerichtet mußte ich Alles
+                        <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs> kaum eingerichtet mußte ich Alles
                     größtentheils mit Verlust verkaufen und hier wieder anschaffen. Kaum daß ich
                     mich allmählich zu erholen beginne, sollte ich mich von neuem in Verluste
                     stürzen. Um so empfindlicher würde die Übersiedlung mir noch fallen, als ich sie
@@ -103,16 +102,16 @@
                     Jugend nicht ohne Erfolg zu wirken, wie es theilweise auch selbst das hohe
                     Ministerium in seinem Erlasse vom 23. October 1856 Z 15576 zu erkennen gegeben
                     hat. Ich würde in jedem Falle durch eine Übersetzung nach
-                        <placeName ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</placeName> meine pecuniäre Lage bedeutend
+                        <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs> meine pecuniäre Lage bedeutend
                     verschlimmern.<lb/>Ich habe alle Gründe, die mich eine Versetzung nach
-                        <placeName ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</placeName> nicht wünschen lassen, mit voller Offenheit
+                        <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs> nicht wünschen lassen, mit voller Offenheit
                     Eurer Excellenz dargelegt, weil ich zu Hochderselben jenes unbegränzte Vertrauen
                     habe, das mich mein ganzes Herz bloßzustellen und zu erschließen gebietet. Es
                     könnte mir also eine Versetzung dorthin unter den gegebenen Verhältnissen nur
                     unlieb sein, und, von diesen persönlichen Motiven abgesehen, glaube ich, daß
                     auch der dadurch zunächst angestrebte Zweck des Allgemeinen nicht, oder und
                     höchst unvollkommen erreicht würde. Deshalb wage ich es, wie ich auch bereits
-                    dem Herrn <persName key="mercandin-franz">Landespräsidenten</persName> geäußert
+                    dem Herrn <rs type="person" ref="mercandin-franz" key="mercandin-franz">Landespräsidenten</rs> geäußert
                     habe, Eure Excellenz ganz unterthänigst und aus tiefstem Herzensgrunde zu
                     bitten, von meiner Versetzung nach <orgName key="universitaet-lemberg">Lemberg</orgName> gnädigst absehen zu wollen.<lb/>Wie immer und ewig
                     verharre ich mit den Gefühlen wahrer Verehrung und vertrauensvoller Ergebenheit

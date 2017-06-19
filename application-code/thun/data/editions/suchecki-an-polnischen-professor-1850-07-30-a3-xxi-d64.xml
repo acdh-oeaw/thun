@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="suchecki-heinrich" role="sender:gelehrter">Heinrich
-                        Suchecki</persName> an einen polnischen Professor in
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>
+                    <rs type="person" ref="suchecki-heinrich" key="suchecki-heinrich" role="sender:gelehrter">Heinrich
+                        Suchecki</rs> an einen polnischen Professor in
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>
                     <lb/>
-                    <placeName ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</placeName>, <date when="1850-07-30">30. Juli 1850</date>
+                    <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs>, <date when="1850-07-30">30. Juli 1850</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -58,7 +57,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -75,25 +74,25 @@
                 </index>
                 <p>Lemberg, am 30. Juli [1]850</p>
                 <p>Euer Wohlgeboren!</p>
-                <p>Als ich letzthin von <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> Abschied nahm, hatten Herr
+                <p>Als ich letzthin von <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> Abschied nahm, hatten Herr
                     Professor die Güte, mir zu gestatten, dann und wann eine schriftliche
                     Mittheilung zu machen.<lb/>Weit davon Euer Wohlgeboren oft zur Last fallen zu
                     wollen, erlaube ich mir hiemit eine Schilderung der Verhältnisse unserer
                     Lehranstalten zu entwerfen, in der Voraussetzung, daß Euer Wohlgeboren, als
                     meinen Landsmann, dieselben eben so interessiren können, wie es mit dem Zustande
-                    der <placeName key="krakau" ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Krakauer</placeName> der Fall war.<lb/>Ungemein groß
+                    der <rs type="place" subtype="place" key="krakau" ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Krakauer</rs> der Fall war.<lb/>Ungemein groß
                     war meine und meiner Gesinnungsgleichen Besorgnis und Bedauern, als wir vor
-                    Kurzem in der Ostdeutschen Post gelesen, daß Herr <persName key="thun-hohenstein-leo">Graf Thun</persName>, dem die Aufklärung <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</country> ihre Verjüngung verdankt, der durch
+                    Kurzem in der Ostdeutschen Post gelesen, daß Herr <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Graf Thun</rs>, dem die Aufklärung <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> ihre Verjüngung verdankt, der durch
                     seine rastlosen Bemühungen und Aufopferungen, deren Zeuge ich selbst zu sein in
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> Gelegenheit hatte, zur Hebung der Wissenschaft
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> Gelegenheit hatte, zur Hebung der Wissenschaft
                     schon feste Pfeiler geschlagen und also um unser Herrscherhaus wahre Verdienste
                     gelegt hat, so früh abzutreten gesonnen wäre. Wahrlich, diese Nachricht
-                    durchzuckte die Gemüther <placeName key="lemberg" ref="#place_3ff694e5c82611cda53341a9bae21735">Lembergs</placeName>, denen an
+                    durchzuckte die Gemüther <rs type="place" subtype="place" key="lemberg" ref="#place_3ff694e5c82611cda53341a9bae21735">Lembergs</rs>, denen an
                     einer vernünftigen Entwicklung der staatlichen Verhältnisse gelegen ist, mit
                     ängstlichem Leidwesen.<lb/>Dies ist unsere öffentliche Meinung, zumal da wir
                     Slaven es nie vergessen dürfen, welch unvergeßliche Denkmale Er in unsere Herzen
-                    gepflanzt hat. Hat einmal Herr <persName key="thun-hohenstein-leo">Graf
-                        Thun</persName> sein Portefeuille niedergelegt, so kann sein begonnenes Werk
+                    gepflanzt hat. Hat einmal Herr <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Graf
+                        Thun</rs> sein Portefeuille niedergelegt, so kann sein begonnenes Werk
                     dem Verfall zueilen.<lb/>
                     <orgName key="universitaet-lemberg">
                         <hi rend="ul">Unsere Universität</hi>
@@ -102,29 +101,29 @@
                     nimmt sie unter den Hochschulen unserer Monarchie einen niedrigen Rang
                     ein.<lb/>Die <hi rend="ul">juridische</hi> Fakultät besteht aus lauter jungen
                     Leuten, welche noch wenig geleistet haben. Daher hat sie auch gegenwärtig ihren
-                    vorigen Glanz eingebüßt, seitdem ihre Celebritäten, wie Grasel [<persName key="grassl-ignaz">Grassl</persName>], Heinberger [<persName key="haimberger-anton-von">Haimberger</persName>] und Thomaschek [<persName key="tomaschek-eduard">Tomaschek</persName>] nach
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> übertragen wurden. Gegenwärtig imponirt also das
+                    vorigen Glanz eingebüßt, seitdem ihre Celebritäten, wie Grasel [<rs type="person" ref="grassl-ignaz" key="grassl-ignaz">Grassl</rs>], Heinberger [<rs type="person" ref="haimberger-anton-von" key="haimberger-anton-von">Haimberger</rs>] und Thomaschek [<rs type="person" ref="tomaschek-eduard" key="tomaschek-eduard">Tomaschek</rs>] nach
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> übertragen wurden. Gegenwärtig imponirt also das
                     Professorencollegium der Schuljugend wenig.<lb/>Die <hi rend="ul">philosophische</hi> Fakultät zählt in diesem Jahre sehr wenige Zuhörer,
                     weil eigentlich die Leute nicht wissen, wozu sie dieselbe zu besuchen haben, da
                     man nach absolvirtem Lycäum unmittelbar ins Jus oder in die Medizin übergehen
                     kann. Auch reizen die Namen der Professoren den Frequentanten wenig. Professor
-                        <hi rend="ul">Tangel</hi> [<persName key="tangl-karlmann">Tangl</persName>]
+                        <hi rend="ul">Tangel</hi> [<rs type="person" ref="tangl-karlmann" key="tangl-karlmann">Tangl</rs>]
                     eminirt unter allen durch seine Gelehrsamkeit als Philolog und durch seinen
                     Takt; schade, daß er bereits für <orgName key="universitaet-graz">Grätz</orgName> ernannt ist, und nur mittlerweile als Director der
-                    Prüfungskommission fungirt. Ihm zunächst steht <persName key="lobarzewski-hyacint">Lobarzewski</persName> mit seiner Naturgeschichte,
-                    worin er gründliche Studien haben soll. <persName key="lipinski-mikolaj">Lipiński</persName> arbeitet fleißig und ist ein stiller, biederer Mensch.
+                    Prüfungskommission fungirt. Ihm zunächst steht <rs type="person" ref="lobarzewski-hyacint" key="lobarzewski-hyacint">Lobarzewski</rs> mit seiner Naturgeschichte,
+                    worin er gründliche Studien haben soll. <rs type="person" ref="lipinski-mikolaj" key="lipinski-mikolaj">Lipiński</rs> arbeitet fleißig und ist ein stiller, biederer Mensch.
                     Die beiden werden aber von einer Professorenkoterie heftig angefeindet. Bei den
                     übrigen ist es um Studien, Wissenschaft und deren Beförderung nicht zu thun. Es
                     sind wissenschaftlich mittelmäßige und dabei leidenschaftliche und eigennützige
                     Individuen, welche sich aufs Haschen nach Supplenturen in Lyceen und in der
                     Technik verlegen, et scientias parum curant. Bei so bewandten Umständen wird
                     jüngeren Leuten das Aufkommen versäuert und zum Theil versperrt. – Unter den
-                    drei Docenten ist des Israeliten <persName key="igel-lazar-elias">
+                    drei Docenten ist des Israeliten <rs type="person" ref="igel-lazar-elias" key="igel-lazar-elias">
                         <hi rend="ul">Igel</hi>
-                    </persName>, der in <country ref="#place_389962c9dec540ab28d04517e82c3996">Italien</country> die
-                    orientalischen Sprachen gelernt hatte, rühmlich zu erwähnen. <persName key="urbanski-wojciech">Urbański</persName>, Docent der mathematischen
-                    Physik, hat seine Vorlesungen noch nicht begonnen, und <persName key="czernianski-bazyli">Czerniański</persName>, für Zoologie und
-                    Mineralogie, scheint einer Koterie sein Aufkommen zu verdanken, um dem <persName key="lobarzewski-hyacint">Lobarzewski</persName> entgegengestellt zu
+                    </rs>, der in <rs type="place" subtype="country" ref="#place_389962c9dec540ab28d04517e82c3996">Italien</rs> die
+                    orientalischen Sprachen gelernt hatte, rühmlich zu erwähnen. <rs type="person" ref="urbanski-wojciech" key="urbanski-wojciech">Urbański</rs>, Docent der mathematischen
+                    Physik, hat seine Vorlesungen noch nicht begonnen, und <rs type="person" ref="czernianski-bazyli" key="czernianski-bazyli">Czerniański</rs>, für Zoologie und
+                    Mineralogie, scheint einer Koterie sein Aufkommen zu verdanken, um dem <rs type="person" ref="lobarzewski-hyacint" key="lobarzewski-hyacint">Lobarzewski</rs> entgegengestellt zu
                     werden.<lb/>Die <hi rend="ul">chirurgische</hi> Fakultät ist im allgemeinen
                     Krankenhause unter[ge]bracht. Sie mag allerdings einige taugliche Professoren
                     haben, da es aber seit einiger Zeit verlautet, daß im künftigen Jahre schon eine
@@ -135,23 +134,23 @@
                     medizinische Bildung im Lande schädlichen Einfluß haben.<lb/>Wollen Sie, Herr
                     Professor, Studiensachen weiter hören, so will ich über die neu ernannte <hi rend="ul">Prüfungskommission</hi> etwas berichten. Die Stimmung im Publikum,
                     überhaupt genommen, ist günstig; die Wahl der Examinatoren ist gut getroffen;
-                        <persName key="tangl-karlmann">Tangel</persName>, <persName key="lobarzewski-hyacint">Lobarzewski</persName>, <persName key="bielowski-august">Bielowski</persName>, <persName key="weiser-josef">Weiser</persName> sind anerkannte Tüchtigkeiten in ihren Fächern. Diese
-                    Wahl, ingleichen die Ernennung des ehrwürdigen <persName key="stronski-franciszek">Stroński</persName> ist ein Faktum, welches ihr
+                        <rs type="person" ref="tangl-karlmann" key="tangl-karlmann">Tangel</rs>, <rs type="person" ref="lobarzewski-hyacint" key="lobarzewski-hyacint">Lobarzewski</rs>, <rs type="person" ref="bielowski-august" key="bielowski-august">Bielowski</rs>, <rs type="person" ref="weiser-josef" key="weiser-josef">Weiser</rs> sind anerkannte Tüchtigkeiten in ihren Fächern. Diese
+                    Wahl, ingleichen die Ernennung des ehrwürdigen <rs type="person" ref="stronski-franciszek" key="stronski-franciszek">Stroński</rs> ist ein Faktum, welches ihr
                     einen allgemeinen Kredit und Vertrauen verschaffte. Doch verbreitet sie viel
                     Furcht unter den Kandidaten, denn die Herrn machen Miene, streng sein zu wollen,
                     wie es bereits die an mehrere Examinanden verschickten schweren Fragen vermuthen
                     lassen.<lb/>Unter <hi rend="ul">den Lycäen</hi> zeichnet sich das <orgName key="akademisches-gymnasium-lemberg">
                         <hi rend="ul">akademische</hi>
-                    </orgName> vortheilhaft aus. Der Director <persName key="brugger-franz">Brugger</persName> ist ein äußerst pünktlicher,
+                    </orgName> vortheilhaft aus. Der Director <rs type="person" ref="brugger-franz" key="brugger-franz">Brugger</rs> ist ein äußerst pünktlicher,
                     rechtlicher und fleißiger Beamte, eine echte Inkarnation der
                     Ministerialverordnungen; daher sind an seinem Lycäum die Professoren fast
                     übermäßig beschäftigt und die Jugend <hi rend="ul">strenge</hi> gehalten. Aber
                     seine letzte Ernennung zum Schulrath hat ihm viele neidische Feinde gemacht.
-                    Auch hat <persName key="brugger-franz">Brugger</persName> den erforderlichen
+                    Auch hat <rs type="person" ref="brugger-franz" key="brugger-franz">Brugger</rs> den erforderlichen
                     Takt, alle Reibungen der nationellen Partheien im Zaume zu halten. Unter seinen
-                    Subalternen dürften der Gymnasialprofessor <persName key="tschoerch-josef">Tschörch</persName> wegen seiner Tüchtigkeit im Fache, der Supplent
-                        <persName key="urbanski-wojciech">Urbański</persName> wegen Fleiß und
-                    höherer mathematisch physikalischer Bildung und der neue Schulrath <persName key="janowski-ambrosius">Janowski</persName> wegen Fleiß hervorgehoben
+                    Subalternen dürften der Gymnasialprofessor <rs type="person" ref="tschoerch-josef" key="tschoerch-josef">Tschörch</rs> wegen seiner Tüchtigkeit im Fache, der Supplent
+                        <rs type="person" ref="urbanski-wojciech" key="urbanski-wojciech">Urbański</rs> wegen Fleiß und
+                    höherer mathematisch physikalischer Bildung und der neue Schulrath <rs type="person" ref="janowski-ambrosius" key="janowski-ambrosius">Janowski</rs> wegen Fleiß hervorgehoben
                     werden.<lb/>Das <orgName key="gymnasium-bei-den-dominikanern-lemberg">
                         <hi rend="ul">Dominikaner</hi> Lycäum</orgName> ist weit <hi rend="ul">lockerer</hi> gehalten; wenig Disciplin unter der Jugend, und oft Reibungen
                     zwischen derselben und den Professoren. Die Befolgung der pädagogischen Routine
@@ -161,13 +160,13 @@
                         <hi rend="ul">technische</hi>
                         Anstalt</orgName> existirt zwar, hat aber wenige Frequenz der Jugend und
                     keine Lokalität, nur mittlerweile im Rathhause untergebracht. Die einzige
-                    Capacität ist <persName key="weiser-josef">
+                    Capacität ist <rs type="person" ref="weiser-josef" key="weiser-josef">
                         <hi rend="ul">Weiser</hi>
-                    </persName>,
+                    </rs>,
                     Professor der Physik. Vielleicht wird diese Anstalt von neuem floriren, wenn sie
                     im künftigen Wintersemester in ihr ehemaliges Gebäude hinüberkommt, das nach dem
-                    Brande bald neu hergestellt wird. Man hört, der Direktor <persName key="reisinger-alexander">Reisinger</persName> hätte einen Betrag von 15.000
-                    fl von Seiner Exzellenz dem Herrn Minister <persName key="thun-hohenstein-leo">Grafen Thun</persName> zur Anschaffung technischer Museen angewiesen
+                    Brande bald neu hergestellt wird. Man hört, der Direktor <rs type="person" ref="reisinger-alexander" key="reisinger-alexander">Reisinger</rs> hätte einen Betrag von 15.000
+                    fl von Seiner Exzellenz dem Herrn Minister <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Grafen Thun</rs> zur Anschaffung technischer Museen angewiesen
                     erhalten (doch garantire ich dieses Faktum nicht). Es lautet aber die Frage, wie
                     dieses Capital verwendet werden wird; denn Museen anzulegen, und dabei den Fond
                     gehörig zu verwenden, dazu, glaubt man, gehören sehr solide Charaktere und viel
@@ -240,34 +239,34 @@
                     Vorwand und studirt nichts. Die Aufhebung der Semestralprüfungen hat die Anstalt
                     ihres Credits beraubt; die Brotgeber der Schüler finden keine Garantie, daß die
                     Jugend auf der Anstalt beschäftigt sei und etwas lernen könnte.<lb/>Allgemein
-                    wird hier gesprochen, daß das <orgName key="ministerium-fuer-kultus-und-unterricht">Unterrichtsministerium</orgName> an Herrn <persName key="baumgartner-andreas">Baumgartner</persName> übertragen werden soll.
+                    wird hier gesprochen, daß das <orgName key="ministerium-fuer-kultus-und-unterricht">Unterrichtsministerium</orgName> an Herrn <rs type="person" ref="baumgartner-andreas" key="baumgartner-andreas">Baumgartner</rs> übertragen werden soll.
                     Alte Professoren jubeln. Man hofft, daß das Protektions- und Promotionswesen
                     nach Dienstjahren vom Gymnasium aufs Lycäum und weiter in Schwung kommt. Einige
                     zählen schon ihre Dienstjahre und hoffen, daß eine abgeschlossene Herrschaft ins
                     Leben treten werde, denn das gegenwärtige <orgName key="ministerium-fuer-kultus-und-unterricht">Ministerium</orgName> ist ihnen
                     zu prophan und fremdartig!</p>
                 <p>Ich nehme mir diesmal noch die Freiheit, Eure Wohlgeboren, in Bezug auf mich zu
-                    erwähnen, daß, nachdem ich im Einverständnisse mit unserm geliebten <persName key="pol-vincent">Pol</persName> auf den mir vom <persName key="thun-hohenstein-leo">Herrn Minister</persName> so gnädig angetragenen
+                    erwähnen, daß, nachdem ich im Einverständnisse mit unserm geliebten <rs type="person" ref="pol-vincent" key="pol-vincent">Pol</rs> auf den mir vom <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Herrn Minister</rs> so gnädig angetragenen
                     Posten eines <hi rend="ul">Professors der Literatur</hi> an der <orgName key="universitaet-marburg">Krakauer Universität</orgName> zu verzichten für
-                    angemessen fand, und den <persName key="thun-hohenstein-leo">Herrn
-                        Minister</persName> einstweilen nur um eine bescheidenere Stellung,
+                    angemessen fand, und den <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Herrn
+                        Minister</rs> einstweilen nur um eine bescheidenere Stellung,
                     namentlich um die <hi rend="ul">noch nicht besetzte Stelle eines Professors der
                         polnischen Sprache und Literatur an den hiesigen Gymnasien</hi> inständig
                     gebethen habe, ich seit der Zeit gar nichts von meiner künftigen Bestimmung
-                    weiß.<lb/>Obgleich ich die größte Zuversicht in der Gewogenheit des <persName key="thun-hohenstein-leo">Herrn Ministers</persName> gegen mich habe, so ist
-                    es ganz natürlich, daß <persName key="thun-hohenstein-leo">Seine
-                        Exzellenz</persName> bei dem ungeheuren Andrange der Geschäfte nicht nur im
+                    weiß.<lb/>Obgleich ich die größte Zuversicht in der Gewogenheit des <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Herrn Ministers</rs> gegen mich habe, so ist
+                    es ganz natürlich, daß <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Seine
+                        Exzellenz</rs> bei dem ungeheuren Andrange der Geschäfte nicht nur im
                     Unterrichtswesen, aber auch noch im Cultus, einer so unbedeutenden Person wie
                     ich, <hi rend="ul">sicherlich vergessen hat</hi>.<lb/>Sollten Herr Professor es
-                    nicht für unangemessen finden, mich dem <persName key="thun-hohenstein-leo">Herrn Minister</persName> gelegenheitlich zu erinnern, so würde mein
+                    nicht für unangemessen finden, mich dem <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Herrn Minister</rs> gelegenheitlich zu erinnern, so würde mein
                     Dankgefühl für diesen für mich sehr wichtigen Schritt nie versiegen.<lb/>In
                     steter Erwartung einer Entscheidung kann ich keine dauernden Privatverhältnisse
                     eingehen, obwohl meine Familie einer unsichern Zukunft entgegensieht.<lb/>Es
                     liegt mir ungemein viel daran, jetzt diese Stelle zu bekommen, wenn auch
                     einstweilen nur provisorisch, wenn auch nur an einem Lycäum, falls es getheilt
                     werden kann oder soll.</p>
-                <p>Das hochherzige Geschenk <persName key="franz-joseph">Seiner Majestät</persName>
-                    für die unglücklichen Abbrändler <placeName key="krakau" ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Krakau’s</placeName>
+                <p>Das hochherzige Geschenk <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät</rs>
+                    für die unglücklichen Abbrändler <rs type="place" subtype="place" key="krakau" ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Krakau’s</rs>
                     und das Interesse, welches die Regierung für diese Stadt offenbart, weckt
                     dankbare Gefühle überhaupt und wird hoffentlich nicht nur lokal, sondern auch
                     bei den Polen im Allgemeinen eine gute und bleibende Wirkung hervorbringen.

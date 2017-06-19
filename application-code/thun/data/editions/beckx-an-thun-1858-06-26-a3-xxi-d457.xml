@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="beckx-pierre-jean" role="sender:kleriker">Pierre Jean
-                        Beckx</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="beckx-pierre-jean" key="beckx-pierre-jean" role="sender:kleriker">Pierre Jean
+                        Beckx</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName>, <date when="1858-06-23">23.
+                    <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs>, <date when="1858-06-23">23.
                         Juni 1858</date>
                 </title>
             </titleStmt>
@@ -66,7 +65,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -88,15 +87,15 @@
                         aber und mit dem besten Willen ist es mir nicht gelungen. Daher habe ich
                         mich dann endlich zu dem Schritte entschlossen, auf den Euer Excellenz
                         selber hinzudeuten die Gnade hatten. Ich schreibe nämlich unter dem heutigen
-                        Dato an <persName key="franz-joseph">Seine k.k. Apostolische
-                            Majestät</persName>, um unsre Wünsche und Bitten zu den Stufen des
+                        Dato an <rs type="person" ref="franz-joseph" key="franz-joseph">Seine k.k. Apostolische
+                            Majestät</rs>, um unsre Wünsche und Bitten zu den Stufen des
                         kaiserlichen Thrones niederzulegen und unsre Angelegenheit der Allerhöchsten
                         Gnade zu empfehlen.<lb/>Ich halte es um desto mehr für meine Pflicht Eure
                         Excellenz von diesem Schritte (unter Mittheilung einer bezüglichen
                         Abschrift) in Kenntnis zu setzen, da Hochdieselben bei jeder Gelegenheit uns
                         so deutliche Beweise aufrichtigen Wohlwollens gegeben haben, für welches wir
                         ewig dankbar seyn werden. Ich weiß auch, daß wir in
-                            <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> keinen treuern Beschützer und keinen bessern
+                            <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> keinen treuern Beschützer und keinen bessern
                         Fürsprecher bei Seiner Majestät haben als Euer Excellenz selbst; und demnach
                         glaube ich auch dieses Anliegen Hochdero Protection und Fürsprache
                         flehentlich empfehlen zu dürfen.<lb/>Genehmigen Euer Excellenz nebst dem
@@ -143,8 +142,8 @@
                         betreffen, um Ausnahme von den bestehenden Anordnungen zu bitten. Die
                         meisten Schwierigkeiten, welche sich im Anfange zeigten, haben im Laufe der
                         Verhandlungen eine Lösung gefunden. Obgleich wir deshalb die wohlwollenden
-                        Gesinnungen Seiner Excellenz des <persName key="thun-hohenstein-leo">Herrn
-                            Ministers</persName> mit aufrichtigen Dank anerkennen müssen, so haben
+                        Gesinnungen Seiner Excellenz des <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Herrn
+                            Ministers</rs> mit aufrichtigen Dank anerkennen müssen, so haben
                         wir doch in einem oder dem andern Stücke seinen Anträgen nicht unbedingt
                         beipflichten können; und da dieselben sowohl für die Handhabung der
                         Disciplin unter unsern Religiosen als auch für den guten Erfolg unserer
@@ -167,13 +166,13 @@
                         seine Eigenthümlichkeit lasse. Man kann keine Jesuitenschulen haben, wenn
                         man die Jesuiten nicht nach ihrer Lehrweise verfahren läßt. Nebst den
                         Satzungen für das religiös apostolische Leben erhielt die Gesellschaft Jesu
-                        von ihrem Stifter, dem <persName key="ignatius-von-loyola">Hl.
-                            Ignatius</persName>, auch besondere Vorschriften für die Erziehung und
+                        von ihrem Stifter, dem <rs type="person" ref="ignatius-von-loyola" key="ignatius-von-loyola">Hl.
+                            Ignatius</rs>, auch besondere Vorschriften für die Erziehung und
                         den Unterricht der Jugend. Nach diesen Vorschriften des Hl. Stifters wurde
                         nicht lange nach seinem Tode eine vollständige Studienordnung (ratio
                         studiorum societatis Jesu) entworfen, welche einen Theil unseres Institutes
                         ausmacht und ebenso wie dieses von der Kirche mehrmals gutgeheißen ist.
-                        Obgleich diese Studienordnung nach Zeit und Umständen im Sinne des <persName key="ignatius-von-loyola">Hl. Ignatius</persName> einige Modifkazionen
+                        Obgleich diese Studienordnung nach Zeit und Umständen im Sinne des <rs type="person" ref="ignatius-von-loyola" key="ignatius-von-loyola">Hl. Ignatius</rs> einige Modifkazionen
                         erhalten kann, so hat doch die Gesellschaft Jesu die Grundsätze und
                         wesentlichen Bestimmungen als ein Vermächtnis ihres Vaters stets mit
                         kindlicher Treue bewahrt. Allerdings hat man ihr diese Treue mitunter als
@@ -197,23 +196,23 @@
                         dem Wesen des Ordenslebens hervorgegangen.<lb/>Dieser Grundsatz wurde
                         deshalb auch immer und ist auch jetzt noch in Ländern, wo die Gesellschaft
                         Jesu offiziell anerkannt ist, aufrecht erhalten. In
-                            <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName> selbst, wo eine Congregazion von Kardinälen
+                            <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs> selbst, wo eine Congregazion von Kardinälen
                         und Prälaten alle Lehranstalten leitet, sind die Schulen der Ordensleute
                         ausgenommen und der alleinigen Leitung und Beaufsichtigung der Ordensobern
                         anvertraut: und ich glaube, ohne die Regeln der Bescheidenheit zu verletzen,
                         hinzufügen zu dürfen, daß die päbstliche Regierung es nicht bereut, diese
                         Freiheit unserer Gesellschaft bis auf den heutigen Tag ungeschmälert
                         belassen zu haben. Als unsere Gesellschaft vor dem Jahre 1820 noch in
-                            <country key="russland" ref="#place_5c0704d47c0a58a0922e25b5b9b66b27">Rußland</country> bestand, wo nach damaligen
+                            <rs type="place" subtype="country" key="russland" ref="#place_5c0704d47c0a58a0922e25b5b9b66b27">Rußland</rs> bestand, wo nach damaligen
                         Staatsgesetzen alle Lehranstalten einer Universität untergeordnet waren,
                         wurde, um unsern Schulen ihren eigenthümlichen Charakter zu lassen, unser
-                        Collegium zu Polotz [<placeName ref="#place_70a9da327970e28a35a5d6654d816023">Polotsk</placeName>] zum Range einer
+                        Collegium zu Polotz [<rs type="place" subtype="place" ref="#place_70a9da327970e28a35a5d6654d816023">Polotsk</rs>] zum Range einer
                         Akademie erhoben und der Ordensobere, der dieser vorstand, leitete und
                         beaufsichtigte zugleich ohne auswärtige Einmischung die übrigen
                         Lehranstalten der Gesellschaft. Aber auch in jenen Ländern, wo unsere
-                        Gesellschaft bloß geduldet ist, wie in <country ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</country>,
-                            <country ref="#place_64f607906be7598a02d75dbc1e979662">England</country>, <country ref="#place_361e734b7e9d674efb5e3ac441e2c149">Belgien</country>,
-                            <country ref="#place_67eb2b8d0aab60ec69666532ff9527c9">Holland</country> und den <country key="vereinigte-staaten-von-amerika" ref="#place_6bcb959e4b85b7d7069b08e74ef4c71c">Vereinigten Staaten</country>, läßt
+                        Gesellschaft bloß geduldet ist, wie in <rs type="place" subtype="country" ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</rs>,
+                            <rs type="place" subtype="country" ref="#place_64f607906be7598a02d75dbc1e979662">England</rs>, <rs type="place" subtype="country" ref="#place_361e734b7e9d674efb5e3ac441e2c149">Belgien</rs>,
+                            <rs type="place" subtype="country" ref="#place_67eb2b8d0aab60ec69666532ff9527c9">Holland</rs> und den <rs type="place" subtype="country" key="vereinigte-staaten-von-amerika" ref="#place_6bcb959e4b85b7d7069b08e74ef4c71c">Vereinigten Staaten</rs>, läßt
                         man in dieser Hinsicht unsere Freiheit unverletzt und verlangt nur, daß
                         unsere Schüler in jenen Gegenständen, über welche vor dem Übertritt in
                         höhere Lehranstalten die gesetzmäßige Prüfung abzulegen ist, gehörig
@@ -227,14 +226,14 @@
                         Freiheit zu verzichten, die wir von jeher genossen und auch gegenwärtig noch
                         genießen, so könnte dies für unsern Orden höchst verderbliche Folgen haben;
                         und unmöglich könnten wir in andern Ländern ein Prinzip behaupten, das wir
-                        im katholischen <country ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</country> aufgegeben hätten.<lb/>Seine
-                        Excellenz der <persName key="thun-hohenstein-leo">Herr Minister</persName>
+                        im katholischen <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs> aufgegeben hätten.<lb/>Seine
+                        Excellenz der <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Herr Minister</rs>
                         hat in dieser Beziehung vorgeschlagen, daß der Schulinspector unsere
                         Lehranstalten zwar amtlich besuche und inspiciere, aber ohne Vollmacht,
                         Änderungen vorzuschreiben oder sonstige Anordnungen zu treffen, daß er nur
                         an die Behörden berichten und es diesen überlassen solle, den Obern der
                         Collegien die betreffenden Weisungen zu geben. Wir erkennen in diesem
-                        Vorschlag das aufrichtige Wohlwollen des <persName key="thun-hohenstein-leo">Herrn Ministers</persName>; aber müssen dennoch gestehen, daß auf
+                        Vorschlag das aufrichtige Wohlwollen des <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Herrn Ministers</rs>; aber müssen dennoch gestehen, daß auf
                         solche Weise die Gefahren, die wir fürchten, nicht beseitigt werden.
                         Abgesehen davon, daß auch so unsere Schulen den Regierungsbeamten faktisch
                         unterstehen und die Eigenthümlichkeit eines von der Kirche befugten
@@ -246,7 +245,7 @@
                         andern Staaten nicht mehr würden abwehren können, wo dieselbe ohne Zweifel
                         größere Störungen und Nachtheile herbeiführen würde als in den k.k. Staaten
                         unter der Regierung Eurer Majestät zu befürchten wäre.<lb/>Übrigens habe ich
-                        bereits dem <persName key="thun-hohenstein-leo">Herrn Minister</persName>
+                        bereits dem <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Herrn Minister</rs>
                         erklärt, daß wir in unseren Schulen alles Geheimthun vermieden wissen wollen
                         und deshalb nicht nur zu litterärischen Übungen und Prüfungen der Schüler
                         Auswärtige zulassen, sondern auch einzuladen pflegen und daß wir bereit sind
@@ -262,7 +261,7 @@
                         für unsere Schulen vorgeschriebenen Verfahrungsweise zu befolgen. Die Ratio
                         studiorum Societatis Jesu ist nicht etwa eine zufällige Zusammenstellung
                         mannigfaltiger Schulverordnungen, sondern sie ist, ihren Prinzipien und
-                        Hauptbestimmungen nach, aus den Constituzionen des <persName key="ignatius-von-loyola">Hl. Ignatius</persName> entnommen und bildet
+                        Hauptbestimmungen nach, aus den Constituzionen des <rs type="person" ref="ignatius-von-loyola" key="ignatius-von-loyola">Hl. Ignatius</rs> entnommen und bildet
                         ein Ganzes, das von weisen Männern nach langer Prüfung zusammengestellt und
                         durch die Erfahrung während Jahrhunderten bewährt wurde. Ihr Zweck ist, die
                         Lehrgegenstände durch die verschiedenen Schulen so zu vertheilen und die
@@ -312,8 +311,8 @@
                         der Zahl und dem Umfange nach zu beschränken, den Unterricht in der
                         Philosophie und der classischen Litteratur hingegen mehr zu erweitern, als
                         der vom k.k. Ministerium ausgegangene „Organisationsentwurf“ vorschreibt.
-                        Allein da Seine Excellenz der <persName key="thun-hohenstein-leo">Herr
-                            Minister</persName> auf diese gehorsamsten Bitten und Vorstellungen mit
+                        Allein da Seine Excellenz der <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Herr
+                            Minister</rs> auf diese gehorsamsten Bitten und Vorstellungen mit
                         vieler Güte eingegangen und überdies durch neuere Verordnungen die Erwartung
                         erregt hat, daß der für alle Gymnasien gültige Studienplan eine Veränderung,
                         die wir nur mit Freuden begrüßen könnten, erleiden dürfte, so hoffe ich, daß

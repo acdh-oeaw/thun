@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -42,7 +41,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -54,16 +53,16 @@
                     <term>Tirol</term>
                 </index>
                 <div>
-                    <p>Mein Votum aus Anlaß von <persName key="goluchowski-agenor">Goluchowskis</persName> Vorlage über den steirischen Landtag</p>
-                    <p>Für die Zusammensetzung kann <region key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tyrol</region> nicht zum
+                    <p>Mein Votum aus Anlaß von <rs type="person" ref="goluchowski-agenor" key="goluchowski-agenor">Goluchowskis</rs> Vorlage über den steirischen Landtag</p>
+                    <p>Für die Zusammensetzung kann <rs type="place" subtype="region" key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tyrol</rs> nicht zum
                         Vorbild dienen. Dort konnte man sich an längst bestandenes halten; der
                         Bauernstand war längst auf dem Landtage; zudem ist der Tyroler Bauer von den
                         anderen Ländern wesentlich verschieden, durch seine streng katholische
                         Haltung und Sitte, und durch die eigenthümliche Gestaltung des Verkehres in
                         dem Gebirgslande, die es möglich machen, daß bedeutende Männer unter ihnen
                         mehr hervortreten, und in weiteren Kreisen gekannt werden und Anerkennung
-                        finden. Ein <persName key="hofer-andreas">Andreas Hofer</persName> war eben
-                        nur in <region key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tyrol</region> möglich.<lb/>Deshalb sind dort
+                        finden. Ein <rs type="person" ref="hofer-andreas" key="hofer-andreas">Andreas Hofer</rs> war eben
+                        nur in <rs type="place" subtype="region" key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tyrol</rs> möglich.<lb/>Deshalb sind dort
                         Bauerndeputierte eher möglich als anderswo.<lb/>Auch in den andern Ländern
                         kann die Landbevölkerung nicht wie bisher ausgeschloßen sein von den
                         Landtagen. Dennoch bleibt es wahr, daß ein Bauer auf den Landtag nicht paßt.
@@ -75,7 +74,7 @@
                         der wochenlang in der Stadt während des Landtages sitzt, ist allen üblen
                         Folgen des Müßigganges ausgesetzt, und in großer Gefahr nicht verständiger,
                         sondern nur in seinen Begriffen konfus gemacht und in seiner Sitte verdorben
-                        nach Hause heimzukehren.<lb/>Wem würde es in <country ref="#place_64f607906be7598a02d75dbc1e979662">England</country>
+                        nach Hause heimzukehren.<lb/>Wem würde es in <rs type="place" subtype="country" ref="#place_64f607906be7598a02d75dbc1e979662">England</rs>
                         einfallen, einen Bauer in's Parlament zu rufen.<lb/>Nach meiner Ansicht
                         handelt es sich darum der Landbevölkerung einen Einfluß auf die
                         Zusammensetzung des Landtages und das Gefühl dieses Einflußes zu geben, aber
@@ -87,7 +86,7 @@
                         als Vertreter ihrer Interessen gewählt werden können.</p>
                     <p>Auf dem Landtage sollen die Stände, d.i. die Träger gemeinsamer, ständiger
                         sozialer Interessen vertreten sein und das Mittel, das in
-                            <region ref="#place_5084011b7f886198168c9862b95366ca">Tyrol</region> das hergebrachte ist, – Vertretung durch gleiche
+                            <rs type="place" subtype="region" ref="#place_5084011b7f886198168c9862b95366ca">Tyrol</rs> das hergebrachte ist, – Vertretung durch gleiche
                         Stimmenzahl – läßt sich nicht anwenden, wo es nun eingeführt werden müßte,
                         zumal die Zahl für manche Stände zu dem Ende eine sehr geringe werden müßte.
                         Soll aber bei ungleicher Zahl nicht eine Unterdrückung der schwächer

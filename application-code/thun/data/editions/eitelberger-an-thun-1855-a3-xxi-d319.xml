@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -64,7 +63,7 @@
                 </p>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -74,15 +73,15 @@
                     <term>Theologie</term>
                 </index>
                 <p>
-                    <persName key="ahrens-heinrich">Ahrens</persName>, die Revue de Bruxelles und Dr.
+                    <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs>, die Revue de Bruxelles und Dr.
                     Bigoni</p>
                 <p>I.</p>
                 <p>
-                    <persName key="ahrens-heinrich">Ahrens</persName> kann nicht beurtheilt werden,
-                    ohne daß zugleich ein Blick geworfen wird auf das System <persName key="krause-karl-christian-friedrich">Krause’s</persName>, dem <persName key="ahrens-heinrich">Ahrens</persName> huldigt, und auf den gegenwärtigen
+                    <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> kann nicht beurtheilt werden,
+                    ohne daß zugleich ein Blick geworfen wird auf das System <rs type="person" ref="krause-karl-christian-friedrich" key="krause-karl-christian-friedrich">Krause’s</rs>, dem <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> huldigt, und auf den gegenwärtigen
                     Stand der deutschen Philosophie und der Philosophie überhaupt.<lb/>Was letztere
                     anbelangt so dürfte der Stand derselben in Kürze gesagt folgender sein. Seit
-                        <persName key="bacon-francis">Baco von Verulam</persName>, <persName key="descartes-rene">Descartes</persName> und <persName key="spinoza-baruch">Spinoza</persName> ist die Philosophie eine Laien-Wissenschaft geworden.
+                        <rs type="person" ref="bacon-francis" key="bacon-francis">Baco von Verulam</rs>, <rs type="person" ref="descartes-rene" key="descartes-rene">Descartes</rs> und <rs type="person" ref="spinoza-baruch" key="spinoza-baruch">Spinoza</rs> ist die Philosophie eine Laien-Wissenschaft geworden.
                     Die Spaltungen, welche im Schoße der katholischen Kirche im 15ten und 16ten
                     Jahrhundert eingetreten sind, die Verflachung der Theologie, und in Folge
                     derselben der Umstand, daß die Theologen sich von den großen geistigen Kämpfen
@@ -91,21 +90,21 @@
                     sind – alles dieses hat dazu beigetragen, daß die Philosophie im Ganzen und
                     Großen den Charakter einer Laienwissenschaft angenommen hat. Das ist eine,
                     ebenso unzweifelhafte, als für die Beurtheilung des gegenwärtigen Standes der
-                    Philosophie wichtige Thatsache. In <country ref="#place_64f607906be7598a02d75dbc1e979662">England</country> hat sich die
-                    Philosophie auf der von <persName key="bacon-francis">Baco</persName>
+                    Philosophie wichtige Thatsache. In <rs type="place" subtype="country" ref="#place_64f607906be7598a02d75dbc1e979662">England</rs> hat sich die
+                    Philosophie auf der von <rs type="person" ref="bacon-francis" key="bacon-francis">Baco</rs>
                     vorgezeichneten Lehre fortbewegt und in Übereinstimmung mit der Denkungsweise
                     des Volkes und den Institutionen des Landes, entweder die mit den
                     Naturwissenschaften verwandten Zweige der Philosophie gepflegt, oder Ethik,
                     Psychologie oder andere Theile der praktischen Philosophie im Sinn des
                     Sensualismus und auf den Prinzipien der Induktionslehre ausgebildet. In der
-                    Gegenwart hat die Induktionsmethode ein hervorragendes Talent <persName key="mill-john-stuart">John Mill</persName> vielseitig behandelt, und mit
-                    seiner Lehre auch in <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country>, unterstützt durch <persName key="liebig-justus">Freiherr von Liebig</persName> auf manchen Hochschulen
+                    Gegenwart hat die Induktionsmethode ein hervorragendes Talent <rs type="person" ref="mill-john-stuart" key="mill-john-stuart">John Mill</rs> vielseitig behandelt, und mit
+                    seiner Lehre auch in <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs>, unterstützt durch <rs type="person" ref="liebig-justus" key="liebig-justus">Freiherr von Liebig</rs> auf manchen Hochschulen
                     Eingang gefunden.<lb/>Die Naturwissenschaften, welche mit ihrer Methode auf die
                     Bildung des Verstandes einen bedeutenden Einfluß auf die jetzige Generation
-                    ausüben, kommen der Verbreitung von <persName key="mill-john-stuart">John
-                        Mills</persName> Lehre sehr zu Statten.<lb/>Anders war in
-                        <country ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</country>, anders in <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country> die
-                    Entwicklung der Philosophie. Die starre Centralisation im Staatswesen <country key="frankreich" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreichs</country> unter der Herrschaft <persName key="ludwig-XIV">Louis des XIVten</persName>, der Einfluß der Staatsgewalt
+                    ausüben, kommen der Verbreitung von <rs type="person" ref="mill-john-stuart" key="mill-john-stuart">John
+                        Mills</rs> Lehre sehr zu Statten.<lb/>Anders war in
+                        <rs type="place" subtype="country" ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</rs>, anders in <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> die
+                    Entwicklung der Philosophie. Die starre Centralisation im Staatswesen <rs type="place" subtype="country" key="frankreich" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreichs</rs> unter der Herrschaft <rs type="person" ref="ludwig-XIV" key="ludwig-XIV">Louis des XIVten</rs>, der Einfluß der Staatsgewalt
                     auf die Wissenschaft hat im verflossenen Jahrhundert diese, soweit sie
                     Philosophie ist, weit weggeführt von jenen Lehren, auf welchen die ächten
                     Philosophen zu allen Zeiten gewandelt sind. Ihr Blick war einst mehr nach
@@ -115,30 +114,30 @@
                     Geister haben, die Bahn des Forschens verlassend, sich zu einem Kampfe mit der
                     Staatsgewalt aufgefordert gefühlt, der für den Staat ebenso verderblich werden
                     sollte, wie für die Philosophie als Wissenschaft. So wenig die Herrscher
-                        <country key="frankreich" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreichs</country> ein höheres sittliches
+                        <rs type="place" subtype="country" key="frankreich" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreichs</rs> ein höheres sittliches
                     Gesetz anerkennen wollten, ihr individuelles Ich und die Omnipotenz des Staates
                     in den Vordergrund stellten, ebenso wenig haben die Philosophen das Walten einer
                     höheren Weltordnung anerkannt, sie haben auf Grundlage ihrer Subjektivität eine
-                    neue staatliche Ordnung der Dinge proklamiert, die Philosophie <country key="frankreich" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreichs</country> bot das Schauspiel von frei und
+                    neue staatliche Ordnung der Dinge proklamiert, die Philosophie <rs type="place" subtype="country" key="frankreich" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreichs</rs> bot das Schauspiel von frei und
                     schrankenlos waltenden Geistern, die unmittelbar in das Leben eingriffen. Die
                     Philosophie als Wissenschaft ging dabei unter.<lb/>Anders gestaltete sich die
-                    Philosophie in <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country>. Die Deutsche Nation, welche durch
+                    Philosophie in <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs>. Die Deutsche Nation, welche durch
                     viele Jahrhunderte hindurch auf dem Gebiete der Poesie, der bildenden Kunst, und
                     der Philosophie glänzende Proben eines wissenschaftlichen Ernstes oder einer
                     tieferen Weltauffassung gegeben hat, trat im verflossenen Jahrhundert nach dem
-                    Wirken <persName key="leibniz-gottfried-wilhelm">Leibnitz</persName>, nach dem
-                    Aufschwunge der Literatur durch <persName key="lessing-gotthold-ephraim">Lessing</persName>, <persName key="herder-johann-gottfried">Herder</persName>, <persName key="winkelmann-johann-joachim">Winkelmann</persName> u.a.m. in das Stadium philosophischer Reife. In
+                    Wirken <rs type="person" ref="leibniz-gottfried-wilhelm" key="leibniz-gottfried-wilhelm">Leibnitz</rs>, nach dem
+                    Aufschwunge der Literatur durch <rs type="person" ref="lessing-gotthold-ephraim" key="lessing-gotthold-ephraim">Lessing</rs>, <rs type="person" ref="herder-johann-gottfried" key="herder-johann-gottfried">Herder</rs>, <rs type="person" ref="winkelmann-johann-joachim" key="winkelmann-johann-joachim">Winkelmann</rs> u.a.m. in das Stadium philosophischer Reife. In
                     ununterbrochener Reihe treten von 1780–1830 Denker auf, durch welche die
                     Philosophie als Laienwissenschaft ihren Höhepunkt erreichte. In der Geschichte
                     der Philosophie kennt man nur Eine Epoche, die sich, was die Größe und den
                     Reichthum von Philosophen anbelangt, mit der deutschen Philosophie der
-                    bezeichneten Epoche vergleichen ließe, das ist die Zeit von <persName key="anaxagoras">Anaxagoras</persName> bis <persName key="aristoteles">Aristoteles</persName> bei den Griechen. In diese philosophische Bewegung
-                    der Geister fällt <persName key="krause-karl-christian-friedrich">Krause</persName>, vor und neben ihm wirkten in erster Linie <persName key="kant-immanuel">Kant</persName>, <persName key="fichte-johann-gottlieb">Fichte</persName>, <persName key="schelling-friedrich-wilhelm">Schelling</persName>, <persName key="hegel-georg-wilhelm-friedrich">Hegel</persName> und <persName key="herbart-johann-friedrich">Herbart</persName>, in zweiter <persName key="jacobi-friedrich-heinrich">Jakobi</persName>, <persName key="oken-lorenz">Oken</persName>, <persName key="steffens-heinrich">Steffens</persName>, <persName key="wagner-johann-jakob">Wagner</persName>, <persName key="schleiermacher-friedrich">Schleiermacher</persName>, <persName key="baader-franz">Baader</persName>, <persName key="mueller-adam">Adam
-                        Müller</persName>, <persName key="haller-karl-ludwig">Haller</persName>,
-                        <persName key="guenther-anton">Günther</persName>, und <persName key="stahl-friedrich-julius">Stahl</persName>. <persName key="krause-karl-christian-friedrich">Krause’s</persName> Wirksamkeit fällt
+                    bezeichneten Epoche vergleichen ließe, das ist die Zeit von <rs type="person" ref="anaxagoras" key="anaxagoras">Anaxagoras</rs> bis <rs type="person" ref="aristoteles" key="aristoteles">Aristoteles</rs> bei den Griechen. In diese philosophische Bewegung
+                    der Geister fällt <rs type="person" ref="krause-karl-christian-friedrich" key="krause-karl-christian-friedrich">Krause</rs>, vor und neben ihm wirkten in erster Linie <rs type="person" ref="kant-immanuel" key="kant-immanuel">Kant</rs>, <rs type="person" ref="fichte-johann-gottlieb" key="fichte-johann-gottlieb">Fichte</rs>, <rs type="person" ref="schelling-friedrich-wilhelm" key="schelling-friedrich-wilhelm">Schelling</rs>, <rs type="person" ref="hegel-georg-wilhelm-friedrich" key="hegel-georg-wilhelm-friedrich">Hegel</rs> und <rs type="person" ref="herbart-johann-friedrich" key="herbart-johann-friedrich">Herbart</rs>, in zweiter <rs type="person" ref="jacobi-friedrich-heinrich" key="jacobi-friedrich-heinrich">Jakobi</rs>, <rs type="person" ref="oken-lorenz" key="oken-lorenz">Oken</rs>, <rs type="person" ref="steffens-heinrich" key="steffens-heinrich">Steffens</rs>, <rs type="person" ref="wagner-johann-jakob" key="wagner-johann-jakob">Wagner</rs>, <rs type="person" ref="schleiermacher-friedrich" key="schleiermacher-friedrich">Schleiermacher</rs>, <rs type="person" ref="baader-franz" key="baader-franz">Baader</rs>, <rs type="person" ref="mueller-adam" key="mueller-adam">Adam
+                        Müller</rs>, <rs type="person" ref="haller-karl-ludwig" key="haller-karl-ludwig">Haller</rs>,
+                        <rs type="person" ref="guenther-anton" key="guenther-anton">Günther</rs>, und <rs type="person" ref="stahl-friedrich-julius" key="stahl-friedrich-julius">Stahl</rs>. <rs type="person" ref="krause-karl-christian-friedrich" key="krause-karl-christian-friedrich">Krause’s</rs> Wirksamkeit fällt
                     in die ersten Jahrzehnte dieses Jahrhundertes. Geboren zu
-                        <placeName ref="#place_85adf1fddc935a5a9635fe29b6387cc4">Eisenach</placeName> 1781, lebte und wirkte er vorzugsweise zu
-                        <placeName ref="#place_c6e5be183d875851c4d758d5f57fca35">Göttingen</placeName> und <placeName ref="#place_d0a6343a081a7335baa965ce4fd0845c">München</placeName>, wo er
+                        <rs type="place" subtype="place" ref="#place_85adf1fddc935a5a9635fe29b6387cc4">Eisenach</rs> 1781, lebte und wirkte er vorzugsweise zu
+                        <rs type="place" subtype="place" ref="#place_c6e5be183d875851c4d758d5f57fca35">Göttingen</rs> und <rs type="place" subtype="place" ref="#place_d0a6343a081a7335baa965ce4fd0845c">München</rs>, wo er
                     arm und dürftig 1832 starb. (Anmerkung: Seine vorzüglichsten Schriften sind. Das
                     Urbild der Menschheit 1811 (1819)<note xml:id="note_1">Vgl. <ref target="http://books.google.at/books?id=VrY6AAAAcAAJ&amp;hl=d&amp;source=gbs_navlinks_s">Karl Christian Friedrich Krause, Das Urbild der Menschheit: ein
                             Versuch, Dresden 1811</ref>.</note>, Anleitung zur Metaphysik, 1804<note xml:id="note_2">Vgl. <ref target="http://books.google.at/books?id=N8gAAAAAcAAJ&amp;dq=krause+anleitung&amp;hl=de&amp;source=gbs_navlinks_s">Karl Christian Friedrich Krause, Anleitung zur Naturphilosophie, Jena
@@ -149,15 +148,15 @@
                             kurzen Darstellung und Würdigung der bisherigen Systeme der Philosophie,
                             vornehmlich der neusten von Kant, Fichte, Schelling und Hegel, und der
                             Lehre Jacobi's, Göttingen 1829</ref>.</note>.) Seine Philosophie steht
-                    in näherer Beziehung zu <persName key="schelling-friedrich-wilhelm">Schelling</persName>, <persName key="oken-lorenz">Oken</persName> und
-                        <persName key="hegel-georg-wilhelm-friedrich">Hegel</persName>, als zu
-                        <persName key="kant-immanuel">Kant</persName>, <persName key="jacobi-friedrich-heinrich">Jakobi</persName> und <persName key="herbart-johann-friedrich">Herbart</persName>. Dies hat mit dazu
+                    in näherer Beziehung zu <rs type="person" ref="schelling-friedrich-wilhelm" key="schelling-friedrich-wilhelm">Schelling</rs>, <rs type="person" ref="oken-lorenz" key="oken-lorenz">Oken</rs> und
+                        <rs type="person" ref="hegel-georg-wilhelm-friedrich" key="hegel-georg-wilhelm-friedrich">Hegel</rs>, als zu
+                        <rs type="person" ref="kant-immanuel" key="kant-immanuel">Kant</rs>, <rs type="person" ref="jacobi-friedrich-heinrich" key="jacobi-friedrich-heinrich">Jakobi</rs> und <rs type="person" ref="herbart-johann-friedrich" key="herbart-johann-friedrich">Herbart</rs>. Dies hat mit dazu
                     beigetragen, daß jene Schriftsteller, welche in die Differenzen der drei Systeme
-                    einzugehen nicht im Stande sind, wie die Herren <persName key="bigoni-angelo">Dr. Bigoni</persName>, <persName key="giorgi-alessandro">Dr.
-                        Giorgi</persName> und die Verfasser der Artikel in der Revue de Bruxelles,
-                    die Vorwürfe, welche mit Recht oder Unrecht gegen <persName key="schelling-friedrich-wilhelm">Schelling</persName> und <persName key="hegel-georg-wilhelm-friedrich">Hegel</persName> erhoben werden, auch
-                    gegen <persName key="krause-karl-christian-friedrich">Krause</persName> und
-                        <persName key="ahrens-heinrich">Ahrens</persName> schleudern. Wie es in dem
+                    einzugehen nicht im Stande sind, wie die Herren <rs type="person" ref="bigoni-angelo" key="bigoni-angelo">Dr. Bigoni</rs>, <rs type="person" ref="giorgi-alessandro" key="giorgi-alessandro">Dr.
+                        Giorgi</rs> und die Verfasser der Artikel in der Revue de Bruxelles,
+                    die Vorwürfe, welche mit Recht oder Unrecht gegen <rs type="person" ref="schelling-friedrich-wilhelm" key="schelling-friedrich-wilhelm">Schelling</rs> und <rs type="person" ref="hegel-georg-wilhelm-friedrich" key="hegel-georg-wilhelm-friedrich">Hegel</rs> erhoben werden, auch
+                    gegen <rs type="person" ref="krause-karl-christian-friedrich" key="krause-karl-christian-friedrich">Krause</rs> und
+                        <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> schleudern. Wie es in dem
                     politischen Leben gewisse Schlagwörter giebt, die von jenen welche auf der
                     Heerstraße des öffentlichen Lebens gedankenlos wandeln, ununterbrochen im Munde
                     geführt werden, so haben sich auch in der Literatur aus dem philosophischen
@@ -167,11 +166,11 @@
                     wirklichem oder angeblichem Eifer für das Christenthum gegen die Philosophie als
                     solche einen ununterbrochenen Kampf führen. Zu den Schlagwörtern der letzteren
                     gehören vorzüglich die vieldeutigen Worte Rationalismus, Pantheismus u. a. m.,
-                    von denen insbesondere <persName key="bigoni-angelo">Dr. Bigoni</persName>
+                    von denen insbesondere <rs type="person" ref="bigoni-angelo" key="bigoni-angelo">Dr. Bigoni</rs>
                     reichlichen Gebrauch zu machen nicht ansteht. Und mir scheint, nach reiflicher
                     Überlegung aller Umstände, daß jedem der bestehenden philosophischen Systeme in
                     viel höherem Grade der Vorwurf des Rationalismus oder Pantheismus gemacht werden
-                    kann, als dem <persName key="krause-karl-christian-friedrich">Krause’s</persName> – außer man nimmt Rationalismus und Pantheismus in
+                    kann, als dem <rs type="person" ref="krause-karl-christian-friedrich" key="krause-karl-christian-friedrich">Krause’s</rs> – außer man nimmt Rationalismus und Pantheismus in
                     einem Sinn, daß jede Philosophie als Laienwissenschaft darunter verstanden
                     werden kann. Zu demselben Resultate kommt man, wenn man die moderne Philosophie
                     von dem Standpunkte irgend einer Dogmatik (sei es nun katholisch oder
@@ -184,14 +183,14 @@
                     andere wissenschaftliche Disziplinen, als Geologie, Geschichte, etc. ausdehne;
                     es ist der Wunsch begreiflich, daß die Philosophie wieder von katholischen
                     Theologen (protestantische Theologen haben ununterbrochen Philosophie getrieben
-                    als: <persName key="schleiermacher-friedrich">Schleiermacher</persName>,
-                        <persName key="daub-carl">Daub</persName>, <persName key="marheineke-philipp-konrad">Marheineke</persName>, <persName key="schwegler-albert">Schwegler</persName>) mehr und mit besserem Erfolge
+                    als: <rs type="person" ref="schleiermacher-friedrich" key="schleiermacher-friedrich">Schleiermacher</rs>,
+                        <rs type="person" ref="daub-carl" key="daub-carl">Daub</rs>, <rs type="person" ref="marheineke-philipp-konrad" key="marheineke-philipp-konrad">Marheineke</rs>, <rs type="person" ref="schwegler-albert" key="schwegler-albert">Schwegler</rs>) mehr und mit besserem Erfolge
                     betrieben werde, als es gegenwärtig der Fall ist, es ist gar kein Zweifel, daß
                     die Theologie und die katholische Kirche großen Nutzen von einer solchen
                     Thätigkeit ihrer Glieder ziehen würde, aber Thatsache ist, daß in diesem Momente
                     es keine nennenswerthen katholischen Philosophen oder vielmehr philosophierende
                     Theologen giebt, und daß diese, wenn sie nur einigermaßen aus den hergebrachten
-                    scholastischen Formen herausgetreten, von <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName> selbst
+                    scholastischen Formen herausgetreten, von <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs> selbst
                     desavouiert worden sind, oder nahe daran sind, es zu werden. Alle Versuche, die
                     der Art gemacht worden sind, haben die bestehende Scheidelinie zwischen
                     Theologie und Philosophie, welche durch den Proceß der Wissenschaft festgestellt
@@ -201,23 +200,23 @@
                     einen größeren Schaden empfindet, als von einer Philosophie, wenn sie nach
                     strengen und rein wissenschaftlichen Prinzipien gelehrt wird. Eine solche
                     Philosophie ist – wenn auch nur als Gymnastik des Geistes betrachtet, von
-                    unberechenbarem Erfolge. In <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country> hat diese alle
-                    anderen Wissenschaften gehoben und geläutert.<lb/>Um nun zu <persName key="krause-karl-christian-friedrich">Krause</persName> zurückzukehren, so
+                    unberechenbarem Erfolge. In <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> hat diese alle
+                    anderen Wissenschaften gehoben und geläutert.<lb/>Um nun zu <rs type="person" ref="krause-karl-christian-friedrich" key="krause-karl-christian-friedrich">Krause</rs> zurückzukehren, so
                     muß bemerkt werden, daß das Leben dieses Denkers ein stilles, bescheidenes, in
                     sich gekehrtes war. Er entging glücklicher Weise den Augen einer die Philosophie
                     zu ihren Staatszwecken ausbeutenden Staatsgewalt im Norden
-                        <placeName ref="#place_162b390989a8678640067963acb65109">Deutschlands</placeName>, seine Lehre wurde nicht, wie die
-                        <persName key="hegel-georg-wilhelm-friedrich">Hegels</persName> und
-                        <persName key="schelling-friedrich-wilhelm">Schellings</persName> als
+                        <rs type="place" subtype="place" ref="#place_162b390989a8678640067963acb65109">Deutschlands</rs>, seine Lehre wurde nicht, wie die
+                        <rs type="person" ref="hegel-georg-wilhelm-friedrich" key="hegel-georg-wilhelm-friedrich">Hegels</rs> und
+                        <rs type="person" ref="schelling-friedrich-wilhelm" key="schelling-friedrich-wilhelm">Schellings</rs> als
                     Staatsphilosophie proklamiert, deswegen auch nicht als Staatsphilosophie
-                    verdammt. Dazu kam, daß <persName key="krause-karl-christian-friedrich">Krause</persName> in seinen Schriften eine schwerfällige Sprache schreibt,
+                    verdammt. Dazu kam, daß <rs type="person" ref="krause-karl-christian-friedrich" key="krause-karl-christian-friedrich">Krause</rs> in seinen Schriften eine schwerfällige Sprache schreibt,
                     daß seine Terminologie nicht viel einfacher und verständlicher ist, als die
                     berühmten oder vielmehr ihrer Unverständlichkeit wegen berüchtigten
-                    Terminologien <persName key="hegel-georg-wilhelm-friedrich">Hegels</persName>
-                    und <persName key="schelling-friedrich-wilhelm">Schellings</persName>; daß er
+                    Terminologien <rs type="person" ref="hegel-georg-wilhelm-friedrich" key="hegel-georg-wilhelm-friedrich">Hegels</rs>
+                    und <rs type="person" ref="schelling-friedrich-wilhelm" key="schelling-friedrich-wilhelm">Schellings</rs>; daß er
                     von seinen Schülern einen so strengen Grad von Gesittung und Gesinnung
                     verlangte, daß während seinem Leben nur einige von seiner Lehre Notiz nahmen,
-                    und diese nur in kleinen Kreisen Anhänger erwarb. Erst seine Schüler: <persName key="lindemann-heinrich-simon">Lindemann</persName>, <persName key="leonhardi-hermann">Leonhardi</persName>, <persName key="roeder-karl-david-august">Röder</persName> und <persName key="ahrens-heinrich">Ahrens</persName> (Lindemann, Lehre vom Menschen
+                    und diese nur in kleinen Kreisen Anhänger erwarb. Erst seine Schüler: <rs type="person" ref="lindemann-heinrich-simon" key="lindemann-heinrich-simon">Lindemann</rs>, <rs type="person" ref="leonhardi-hermann" key="leonhardi-hermann">Leonhardi</rs>, <rs type="person" ref="roeder-karl-david-august" key="roeder-karl-david-august">Röder</rs> und <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> (Lindemann, Lehre vom Menschen
                         1844<note xml:id="note_5">Vgl. <ref target="http://books.google.at/books?id=5N1ZAAAAcAAJ&amp;hl=de&amp;source=gbs_navlinks_s">Heinrich Simon Lindemann, Die Lehre vom Menschen oder die
                             Anthropologie. Ein Handbuch für Gebildete aller Stände, Zürich
                             1844</ref>.</note>; Anthropologie 1848<note xml:id="note_6">Vgl. <ref target="http://books.google.at/books?id=tr06AAAAcAAJ&amp;dq=lindemann+anthropologie&amp;hl=de&amp;source=gbs_navlinks_s">Heinrich Simon Lindemann, Grundriß zu den Vorlesungen über
@@ -227,14 +226,14 @@
                         Ahrens, Cours de Psychologie, 2. Bde., Leipzig 1836–1838.</note> haben sie
                     in weiteren Kreisen bekannt gemacht. Insbesondere sind es die beiden
                     letztgenannten, welche durch ihre Gabe einer verständlichen und glänzenden
-                    Sprache dem System <persName key="krause-karl-christian-friedrich">Krauses</persName> Anerkennung verschafft haben, <persName key="roeder-karl-david-august">Röder</persName> in <orgName key="universitaet-heidelberg">Heidelberg</orgName>, <persName key="ahrens-heinrich">Ahrens</persName> in <orgName key="universitaet-goettingen">Göttingen</orgName>,
-                        <country ref="#place_361e734b7e9d674efb5e3ac441e2c149">Belgien</country> und <country ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</country>. (Es sei mir
+                    Sprache dem System <rs type="person" ref="krause-karl-christian-friedrich" key="krause-karl-christian-friedrich">Krauses</rs> Anerkennung verschafft haben, <rs type="person" ref="roeder-karl-david-august" key="roeder-karl-david-august">Röder</rs> in <orgName key="universitaet-heidelberg">Heidelberg</orgName>, <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> in <orgName key="universitaet-goettingen">Göttingen</orgName>,
+                        <rs type="place" subtype="country" ref="#place_361e734b7e9d674efb5e3ac441e2c149">Belgien</rs> und <rs type="place" subtype="country" ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</rs>. (Es sei mir
                     erlaubt aus meiner allerdings kurzen Erfahrung über die Geistesrichtung der
-                    hiesigen Juristen zu bemerken, daß <persName key="ahrens-heinrich">Ahrens</persName> unter den jüngeren und vorzugsweise unter den besseren,
+                    hiesigen Juristen zu bemerken, daß <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> unter den jüngeren und vorzugsweise unter den besseren,
                     christlich denkenden Juristen zahlreiche Anhänger hat, die sich von der
-                    Gefühlswärme und dem idealen Schwunge des <persName key="ahrens-heinrich">Ahrens</persName> natürlich mehr angezogen fühlten, als durch die kühlen
-                    rationalistischen rechtsphilosophischen Prinzipien von <persName key="edlauer-franz">Edlauer</persName>, <persName key="pachmann-theodor">Pachmann</persName> etc.)<lb/>
-                    <persName key="krause-karl-christian-friedrich">Krause’s</persName> System steht dem
+                    Gefühlswärme und dem idealen Schwunge des <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> natürlich mehr angezogen fühlten, als durch die kühlen
+                    rationalistischen rechtsphilosophischen Prinzipien von <rs type="person" ref="edlauer-franz" key="edlauer-franz">Edlauer</rs>, <rs type="person" ref="pachmann-theodor" key="pachmann-theodor">Pachmann</rs> etc.)<lb/>
+                    <rs type="person" ref="krause-karl-christian-friedrich" key="krause-karl-christian-friedrich">Krause’s</rs> System steht dem
                     Hegel'schen insofern direkt gegenüber, daß bei ihm das pantheistische Prinzip
                     verschwindet und der bloß negative Begriff der Persönlichkeit aufgegeben wird.
                     Sein Standpunkt ist kein pantheistischer, sondern ein theoretischer, sein
@@ -246,17 +245,17 @@
                     seinem Naturrecht (die Grundlage des Rechts erschien 1803, das System selbst
                         1828)<note xml:id="note_9">Vgl. <ref target="http://books.google.at/books?id=QsgGAAAAcAAJ&amp;dq=krause+naturrecht&amp;hl=de&amp;source=gbs_navlinks_s">Karl Christian Friedrich Krause, Grundlage des Naturrechts oder
                             philosophischer Grundriss des Ideals des Rechts, Jena und Leipzig
-                            1803</ref>.</note> geht <persName key="krause-karl-christian-friedrich">Krause</persName> von dem bloß formalen Standpunkte, auf dem <persName key="giorgi-alessandro">Dr. Giorgi</persName> und <persName key="bigoni-angelo">Dr. Bigoni</persName> stehen bleiben, von dem
-                    Standpunkte <persName key="kant-immanuel">Kants</persName>, auf eine positive
+                            1803</ref>.</note> geht <rs type="person" ref="krause-karl-christian-friedrich" key="krause-karl-christian-friedrich">Krause</rs> von dem bloß formalen Standpunkte, auf dem <rs type="person" ref="giorgi-alessandro" key="giorgi-alessandro">Dr. Giorgi</rs> und <rs type="person" ref="bigoni-angelo" key="bigoni-angelo">Dr. Bigoni</rs> stehen bleiben, von dem
+                    Standpunkte <rs type="person" ref="kant-immanuel" key="kant-immanuel">Kants</rs>, auf eine positive
                     Bestimmung über; er bezeichnet die Idee des Rechtes „als das organische Ganze
                     aller äußeren Bedingungen des vernunftgemäßen Lebens oder der Vernünftigkeit“
-                    noch weiter in der, wie mir scheint, sehr lobenswerthen Richtung geht <persName key="ahrens-heinrich">Ahrens</persName>. Das allerdings hat letzterem den
+                    noch weiter in der, wie mir scheint, sehr lobenswerthen Richtung geht <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs>. Das allerdings hat letzterem den
                     Hass der Rechtsgelehrten zugezogen, die es gewissermaßen als einen Eingriff in
                     ihr Handwerk betrachten, wenn irgend ein anderes Menschenkind, ohne Zuhülfenahme
                     der Digesten, Pandekten und des allgemeinen bürgerlichen Gesetzbuches, gar nur
                     ein Philosoph zu bestimmen sich erlaubt, was Recht ist. Als ob des Recht nur
                     durch und nicht trotz der rechtsgelehrten Herren in die Welt gekommen
-                    wäre?<lb/>Nach <persName key="krause-karl-christian-friedrich">Krause</persName>
+                    wäre?<lb/>Nach <rs type="person" ref="krause-karl-christian-friedrich" key="krause-karl-christian-friedrich">Krause</rs>
                     ist es die göttliche Schöpferthat, wodurch Gott mit Freiheit und bewusstem
                     Willen jedem endlich selbstbewussten Wesen das ihm Gute, seine ewige endliche
                     Bestimmung, ihm einlebt, und auch in den von Außen ihm stammenden
@@ -265,20 +264,20 @@
                     Weltordnung zukommt, ist sein inneres, die Gesammtheit dieser äußerlichen
                     Bedingung, sein äußeres Recht, Gott der Urgrund, wie der reale Hervorbringer der
                     beiden in der unendlichen Zeit. Gott ist die ewige (Welt-)Gerechtigkeit.<lb/>Der
-                        <persName key="fichte-immanuel-hermann">jüngere Fichte</persName> hat nicht
-                    Unrecht, wenn er die durch <persName key="krause-karl-christian-friedrich">Krause</persName> angebahnte Richtung der Reichsidee, die „tiefste
+                        <rs type="person" ref="fichte-immanuel-hermann" key="fichte-immanuel-hermann">jüngere Fichte</rs> hat nicht
+                    Unrecht, wenn er die durch <rs type="person" ref="krause-karl-christian-friedrich" key="krause-karl-christian-friedrich">Krause</rs> angebahnte Richtung der Reichsidee, die „tiefste
                     Auffassung“ nennt, welche von Recht überhaupt gewonnen geworden ist. Auch darin
-                    hat <persName key="fichte-immanuel-hermann">Fichte junior</persName> Recht, daß
-                        <persName key="krause-karl-christian-friedrich">Krause’s</persName> System,
-                    keine Schule in dem Sinn gebildet hat, wie <persName key="hegel-georg-wilhelm-friedrich">Hegel</persName>, <persName key="guenther-anton">Günther</persName> etc. die [?] auftritt, als Koterie
+                    hat <rs type="person" ref="fichte-immanuel-hermann" key="fichte-immanuel-hermann">Fichte junior</rs> Recht, daß
+                        <rs type="person" ref="krause-karl-christian-friedrich" key="krause-karl-christian-friedrich">Krause’s</rs> System,
+                    keine Schule in dem Sinn gebildet hat, wie <rs type="person" ref="hegel-georg-wilhelm-friedrich" key="hegel-georg-wilhelm-friedrich">Hegel</rs>, <rs type="person" ref="guenther-anton" key="guenther-anton">Günther</rs> etc. die [?] auftritt, als Koterie
                     in der Wissenschaft erscheint – es ist dies ein Vorzug des Systems, das anregend
                     auf die Wissenschaft gewirkt hat, und noch wirken wird.<lb/>
-                    <persName key="krause-karl-christian-friedrich">Krause</persName> ist bei einer bloß
+                    <rs type="person" ref="krause-karl-christian-friedrich" key="krause-karl-christian-friedrich">Krause</rs> ist bei einer bloß
                     theoretischen Auffassung einzelner Theile der Philosophie nicht stehen
                     geblieben. Ihm war die Philosophie nicht bloß eine Aufgabe für das Denken,
                     sondern auch für das Leben, sie sollte den Menschen nicht bloß klüger und
                     verständiger, sondern auch frommer und besser machen. Diese seine „Lebenslehre“
-                    hat <persName key="krause-karl-christian-friedrich">Krause</persName> in
+                    hat <rs type="person" ref="krause-karl-christian-friedrich" key="krause-karl-christian-friedrich">Krause</rs> in
                     mehreren Werken entwickelt, in seiner „Philosophie der Geschichte“ seinem
                     „Urbild der Menschheit“ u. a. m. Hier zeigt sich im vollsten Maaße sein
                     theocentrischer, fast theosophisch-mystischer Standpunkt. Diese Werke voll
@@ -290,42 +289,42 @@
                     ist nicht frei von Schwärmerei. Sie steht nicht inmitten christlicher Ekstase,
                     christlicher Mystik, wie es bei manchen Denkern des Mittelalters der Fall war,
                     sie betrachtet „den Platonismus wie das Christenthum“ nur als Vorstufe jenes
-                    Zeitpunktes. In dieser Beziehung ist <persName key="krause-karl-christian-friedrich">Krause’s</persName> Lehre nicht
+                    Zeitpunktes. In dieser Beziehung ist <rs type="person" ref="krause-karl-christian-friedrich" key="krause-karl-christian-friedrich">Krause’s</rs> Lehre nicht
                     positiv, in dieser Beziehung kann man sie auch rationalistisch nennen; – aber
                     wie gesagt so weit und noch mehr ist es jede andere Philosophie. Die gesammte
                     Philosophie wird aber dagegen protestieren, auch das System rationalistisch zu
                     nennen, was bis zur Theosophie und Mystik sich steigert.<lb/>Auf einen Punkt in
-                        <persName key="krause-karl-christian-friedrich">Krause’s</persName> Lehre
+                        <rs type="person" ref="krause-karl-christian-friedrich" key="krause-karl-christian-friedrich">Krause’s</rs> Lehre
                     erlaube ich mir hinzudeuten, der, wenn er den belgischen und italienischen
-                    Anklägern des <persName key="ahrens-heinrich">Ahrens</persName> bekannt gewesen
+                    Anklägern des <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> bekannt gewesen
                     wäre, sicher zu Diatriben aller Art Anlaß gegeben hätte.<lb/>
-                    <persName key="krause-karl-christian-friedrich">Krause</persName> theilt mit <persName key="wagner-johann-jakob">J.J. Wagner</persName> (einem in
-                        <country ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</country> wenig bekannten aber höchst geistvollen Denker
-                    (geb. 1775 gest. 1841) die von <persName key="fichte-johann-gottlieb">Fichte</persName> heruntergekommene Vorliebe für Versuche zur Verbesserung
+                    <rs type="person" ref="krause-karl-christian-friedrich" key="krause-karl-christian-friedrich">Krause</rs> theilt mit <rs type="person" ref="wagner-johann-jakob" key="wagner-johann-jakob">J.J. Wagner</rs> (einem in
+                        <rs type="place" subtype="country" ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</rs> wenig bekannten aber höchst geistvollen Denker
+                    (geb. 1775 gest. 1841) die von <rs type="person" ref="fichte-johann-gottlieb" key="fichte-johann-gottlieb">Fichte</rs> heruntergekommene Vorliebe für Versuche zur Verbesserung
                     des Menschengeschlechtes, für sogenannte sozialistische Ideen. Der Gedanke eines
-                    philosophischen Menschheitsbundes schwebte <persName key="krause-karl-christian-friedrich">Krause</persName> vor, ein Gedanke,
+                    philosophischen Menschheitsbundes schwebte <rs type="person" ref="krause-karl-christian-friedrich" key="krause-karl-christian-friedrich">Krause</rs> vor, ein Gedanke,
                     den er nicht bloß in seinem Werke „das Urbild der Menschheit“, sondern auch in
                     seinem Werke „die drei ältesten Urkunden der Freimauer-Bruderschaft,
                     mitgetheilt, bearbeitet, und in einem Lehrfragmente urvergeistigt. Dresden
                         1819–21“<note xml:id="note_10">Vgl. <ref target="http://books.google.at/books?id=w0cMAQAAMAAJ&amp;hl=de&amp;source=gbs_navlinks_s"> Karl Christian Friedrich Krause, Die drei ältesten Kunsturkunden der
                             Freimaurerbrüderschaft, Dresden 1810</ref>.</note> weiter ausspinnt. Zur
-                    praktischen That ist aber dieser Gedanke weder bei dem stillen Denker <persName key="krause-karl-christian-friedrich">Krause</persName>, noch bei einem
+                    praktischen That ist aber dieser Gedanke weder bei dem stillen Denker <rs type="person" ref="krause-karl-christian-friedrich" key="krause-karl-christian-friedrich">Krause</rs>, noch bei einem
                     seiner Schüler – meines Wissens nach – geworden.<lb/>Was nun die Schriften des
-                        <persName key="ahrens-heinrich">Ahrens</persName> betrifft, so sind mir
+                        <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> betrifft, so sind mir
                     durch eigene Lektüre nur sein Naturrecht in der deutschen Übersetzung von
-                        <persName key="wirk-adolph">Wirk</persName> und dann die in
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> erschienen Werke bekannt, die sich insbesondere
+                        <rs type="person" ref="wirk-adolph" key="wirk-adolph">Wirk</rs> und dann die in
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> erschienen Werke bekannt, die sich insbesondere
                     durch Verständlichkeit des Ausdruckes und Wärme der religiösen Überzeugung
-                    auszeichnen. Von den Schriften gegen <persName key="ahrens-heinrich">Ahrens</persName> habe ich nur die französischen und die italienische des
-                        <persName key="bigoni-angelo">Dr. Bigoni</persName> benützt.<lb/>
-                    <persName key="giorgi-alessandro">Giorgi’s</persName> Werk liegt mir in jeder
+                    auszeichnen. Von den Schriften gegen <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> habe ich nur die französischen und die italienische des
+                        <rs type="person" ref="bigoni-angelo" key="bigoni-angelo">Dr. Bigoni</rs> benützt.<lb/>
+                    <rs type="person" ref="giorgi-alessandro" key="giorgi-alessandro">Giorgi’s</rs> Werk liegt mir in jeder
                     Beziehung zu fern, es ist nur für Jesuiten und von einem Jesuiten, und nach
                     allgemeinem Urtheile ohne Erheblichkeit.<lb/>Ich beginne mit der Revue de
                     Bruxelles:</p>
                 <p>II.</p>
                 <p>Die Revue de Bruxelles</p>
                 <p>Die Revue de Bruxelles Jahrgang 1838 et 39 bringt zwei verschiedene Artikel über
-                        <persName key="ahrens-heinrich">Ahrens</persName>, die sich sämmtlich und
+                        <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs>, die sich sämmtlich und
                     ausschließlich mit dem Werke von Ahrens „Cours de Psychologie. 2 vol. 8. 836 et
                     838“ beschäftigten, ausschließlich die Frage behandeln „ist Ahrens Pantheist
                     oder nicht“ von zwei verschiedenen Verfassern herrühren.<lb/>Im Jännerheft des
@@ -337,7 +336,7 @@
                             <ref target="http://books.google.at/books?id=IRZbAAAAQAAJ&amp;vq=Ahrens&amp;hl=de&amp;source=gbs_navlinks_s">Sur le systême pantheiste de M. Ahrens, in: Revue de Bruxelles, Januar
                             1838, S. 39–62</ref>.</note> Dieser Aufsatz untersucht eigentlich nur
                     die zehnte und eilfte Vorlesung des genannten Werkes. Die zehnte Vorlesung
-                    bestimmt den Begriff des Wesens (être), den <persName key="ahrens-heinrich">Ahrens</persName> in derselben in ziemlich populärer Fassung auf folgende
+                    bestimmt den Begriff des Wesens (être), den <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> in derselben in ziemlich populärer Fassung auf folgende
                     Weise feststellt: „Der Begriff des Wesens ist ohne Zweifel der allgemeinste, der
                     Alles umfasst was existiert. Ich verstehe unter demselben nicht nur das Zeitwort
                     être, ich begreife darunter alle Wesen mit ihren Attributen. Man sagt in der
@@ -348,10 +347,10 @@
                     drückt aus den „rapport du contenant au contenu“ oder „quel raison est ce dont
                     l’essence renferme l’essence et l’existence d’une autre chose“. Durch ihn kommen
                     wir zu der Erkenntnis: „daß alles in Gott enthalten ist, welcher die höchste
-                    Vernunft ist.“ Von diesen Grundsätzen ausgehend versucht <persName key="ahrens-heinrich">Ahrens</persName> den Begriff Gottes
+                    Vernunft ist.“ Von diesen Grundsätzen ausgehend versucht <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> den Begriff Gottes
                     festzustellen.<lb/>Durch die Anwendung der „Idee de la raison“ sagt er, werden
                     wir uns erheben zum Begriff des Wesens, welcher der Grund ist alles dessen, was
-                    existiert.<lb/>Während <persName key="ahrens-heinrich">Ahrens</persName>
+                    existiert.<lb/>Während <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs>
                     behauptet, daß Gott nicht ein Gemisch oder eine Zusammenfassung aller Wesen ist,
                     daß er nicht das All ist (le tout, le πάν) daß er vor allem Eins ist, und daß
                     auf diese Weise die Erkenntnis des höchsten Wesens zu der wir gekommen sind,
@@ -361,63 +360,63 @@
                     stellt, doch die Welt nicht von ihm trennen will, und aus ihm gewissermaßen
                     durch das Attribut Unendlichkeit und der Totalität die Natur und durch das
                     Attribut des Absoluten (de l’absolu) und der Spontaneität den Geist hervorgehen
-                    lässt.“<lb/>Aus den angeführten Stellen geht hervor, daß <persName key="ahrens-heinrich">Ahrens</persName> bemüht ist, in Übereinstimmung mit
-                    der Lehre seines <persName key="krause-karl-christian-friedrich">Meisters</persName>, den Begriff der Persönlichkeit Gottes auf
+                    lässt.“<lb/>Aus den angeführten Stellen geht hervor, daß <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> bemüht ist, in Übereinstimmung mit
+                    der Lehre seines <rs type="person" ref="krause-karl-christian-friedrich" key="krause-karl-christian-friedrich">Meisters</rs>, den Begriff der Persönlichkeit Gottes auf
                     philosophischem Wege festzustellen. Nichts desto weniger findet der Verfasser
                     des Artikels nicht bloß, daß es ihm nicht gelungen, sondern daß seine
                     Begriffsfeststellung nur eine Maske sei, um den Pantheismus zu verbergen.
-                    Zweideutig wird <persName key="ahrens-heinrich">Ahrens</persName> durch die
+                    Zweideutig wird <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> durch die
                     populären Beispiele, um seine Ideen der an philosophisches Denken nicht
                     gewöhnten französischen Lesewelt seine Begriffe näher zu rücken, aber diesen
-                    Versuch des <persName key="ahrens-heinrich">Ahrens</persName> den Monotheismus
+                    Versuch des <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> den Monotheismus
                     zu restituieren, den Pantheismus von sich wegzuweisen, wer, der nur einigermaßen
-                        <persName key="krause-karl-christian-friedrich">Krause</persName> kennt,
+                        <rs type="person" ref="krause-karl-christian-friedrich" key="krause-karl-christian-friedrich">Krause</rs> kennt,
                     wird es wagen können, ohne Versuch eine bloße Maske zu nennen! Besonderen Anstoß
-                    erregte jene Stelle wo <persName key="ahrens-heinrich">Ahrens</persName> sich
+                    erregte jene Stelle wo <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> sich
                     ausdrückt, „daß der menschliche Geist durch diese Methode, durch seine eigene
                     Kraft zur Erkenntnis des höchsten Wesens sich erheben kann und von jeder
                     Autorität in göttlichen Dingen sich befreien“.<lb/>Diesem Artikel folgen im
-                    Jahrgang 839 drei andere von dem <persName key="tits-arnold">Abbée A.
-                        Tits</persName> Professor der Philosophie im Seminair in
-                        <placeName ref="#place_4c2aea2c9bae8343aeb8fbcfa478c1df">Rolduc</placeName> unterzeichnet, welche dieselbe Frage
-                    behandeln, und das Werk von <persName key="ahrens-heinrich">Ahrens</persName>
+                    Jahrgang 839 drei andere von dem <rs type="person" ref="tits-arnold" key="tits-arnold">Abbée A.
+                        Tits</rs> Professor der Philosophie im Seminair in
+                        <rs type="place" subtype="place" ref="#place_4c2aea2c9bae8343aeb8fbcfa478c1df">Rolduc</rs> unterzeichnet, welche dieselbe Frage
+                    behandeln, und das Werk von <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs>
                     als eine neue Methode betrachten den Pantheismus wieder herzustellen.<lb/>Dem
-                    genannten <persName key="tits-arnold">Abbée</persName> ist es kein Zweifel, daß
-                    alle Doctrinen welche in <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country> seit <persName key="kant-immanuel">Kant</persName> aufgestellt wurden pantheistisch sind.
-                    Vor allem die Ansichten <persName key="fichte-johann-gottlieb">Fichte’s</persName>, <persName key="schelling-friedrich-wilhelm">Schellings</persName>, <persName key="hegel-georg-wilhelm-friedrich">Hegels</persName> und <persName key="krause-karl-christian-friedrich">Krauses</persName>, welchen Letzteren bekanntlich <persName key="ahrens-heinrich">Ahrens</persName> folgt.<lb/>Von den drei genannten
+                    genannten <rs type="person" ref="tits-arnold" key="tits-arnold">Abbée</rs> ist es kein Zweifel, daß
+                    alle Doctrinen welche in <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> seit <rs type="person" ref="kant-immanuel" key="kant-immanuel">Kant</rs> aufgestellt wurden pantheistisch sind.
+                    Vor allem die Ansichten <rs type="person" ref="fichte-johann-gottlieb" key="fichte-johann-gottlieb">Fichte’s</rs>, <rs type="person" ref="schelling-friedrich-wilhelm" key="schelling-friedrich-wilhelm">Schellings</rs>, <rs type="person" ref="hegel-georg-wilhelm-friedrich" key="hegel-georg-wilhelm-friedrich">Hegels</rs> und <rs type="person" ref="krause-karl-christian-friedrich" key="krause-karl-christian-friedrich">Krauses</rs>, welchen Letzteren bekanntlich <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> folgt.<lb/>Von den drei genannten
                     Aufsätzen bewegen sich die zwei ersten, welche den Titel führen „Un lecon de
                     Mrs. Ahrens“ rein auf dem Gebiete der Methaphisik; es wurde darin die Begriffe
                     des Wesens, der Einheit, der Identität, der Substantialität und Totalität
                     analisiert und am Ende gefunden, daß sie mit ihren Resultaten identisch sei, mit
-                    den pantheistischen Resultaten von <persName key="schelling-friedrich-wilhelm">Schelling</persName> und <persName key="hegel-georg-wilhelm-friedrich">Hegel</persName>. Bei all diesen Untersuchungen über deutsche Systeme
-                    scheint <persName key="tits-arnold">Mrs. Abbé Tits</persName> diese aus den
+                    den pantheistischen Resultaten von <rs type="person" ref="schelling-friedrich-wilhelm" key="schelling-friedrich-wilhelm">Schelling</rs> und <rs type="person" ref="hegel-georg-wilhelm-friedrich" key="hegel-georg-wilhelm-friedrich">Hegel</rs>. Bei all diesen Untersuchungen über deutsche Systeme
+                    scheint <rs type="person" ref="tits-arnold" key="tits-arnold">Mrs. Abbé Tits</rs> diese aus den
                     Quellen gar nicht gekannt zu haben, nur ein einzige Mal wird ein deutsches Werk
-                    citiert und das ist: „<persName key="guenther-anton">Günthers</persName>, Die
+                    citiert und das ist: „<rs type="person" ref="guenther-anton" key="guenther-anton">Günthers</rs>, Die
                     Juste-Milieu in der deutschen Philosophie gegenwärtiger Zeit“<note xml:id="note_12">Vgl. <ref target="http://books.google.at/books?id=BO8GAAAAcAAJ&amp;printsec=frontcover&amp;hl=de#v=onepage&amp;q&amp;f=false">Anton Günther, die Juste-Milieus in der deutschen Philosophie der
                             gegenwärtigen Zeit, Wien 1838</ref>.</note>. Am meisten scheint er die
-                    französischen Werke von <persName key="ancillon-johann-peter-friedrich">Ancillon</persName> und <persName key="cousin-victor">Cousin</persName>
+                    französischen Werke von <rs type="person" ref="ancillon-johann-peter-friedrich" key="ancillon-johann-peter-friedrich">Ancillon</rs> und <rs type="person" ref="cousin-victor" key="cousin-victor">Cousin</rs>
                     benützt zu haben; dies geht insbesondere aus dem dritten und letzten Artikel
                     hervor, der den Titel führt: „Les nouvelles doctrines pantheistiques –
                     Schelling, Hegel, Krause, Ahrens.“<note xml:id="note_13">Vgl. <ref target="http://books.google.at/books?id=FQ5HAAAAcAAJ&amp;printsec=frontcover&amp;hl=de#v=onepage&amp;q&amp;f=false">Arnold Tits, Les nouvelles doctrines pantheistique. Schelling – Hegel –
                             Krause – Ahrens, in: Revue de Bruxelles, Juli 1839, S.
                         56–103</ref>.</note>
-                    <lb/>In wie weit, die über <persName key="krause-karl-christian-friedrich">Krause</persName> ausgesprochenen
+                    <lb/>In wie weit, die über <rs type="person" ref="krause-karl-christian-friedrich" key="krause-karl-christian-friedrich">Krause</rs> ausgesprochenen
                     Ansichten begründet oder nicht begründet sind, habe ich mir erlaubt, Euer
                     Exzellenz im Verlaufe des Berichtes darzulegen.<lb/>Es darf nicht Wunder nehmen,
-                    daß ein französischer <persName key="tits-arnold">Abbé</persName> all die
-                    genannten Systeme pantheistisch nennt; in <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country> selbst
-                    wurde noch vor zwanzig Jahren <persName key="krause-karl-christian-friedrich">Krause</persName> verhältnismäßig sehr wenig gelesen, seine Ausdrucksweise
+                    daß ein französischer <rs type="person" ref="tits-arnold" key="tits-arnold">Abbé</rs> all die
+                    genannten Systeme pantheistisch nennt; in <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> selbst
+                    wurde noch vor zwanzig Jahren <rs type="person" ref="krause-karl-christian-friedrich" key="krause-karl-christian-friedrich">Krause</rs> verhältnismäßig sehr wenig gelesen, seine Ausdrucksweise
                     ist nichts weniger als anziehend. Die Sucht nach eigenthümlichen Worten
-                    verhältnismäßig noch größer, sicher nicht geringer als bei <persName key="hegel-georg-wilhelm-friedrich">Hegel</persName> und seiner Schule, erst
-                    in den letzten Jahren ist er durch seine eher genannten Schüler <persName key="lindemann-heinrich-simon">Lindemann</persName>, <persName key="roeder-karl-david-august">Röder</persName> und <persName key="ahrens-heinrich">Ahrens</persName> in weiteren Kreisen bekannt
-                    geworden.<lb/>In allen diesen Artikeln von <persName key="tits-arnold">Abbé
-                        Tits</persName> wird aber im Grunde kein neuer wesentlicher Einwurf
+                    verhältnismäßig noch größer, sicher nicht geringer als bei <rs type="person" ref="hegel-georg-wilhelm-friedrich" key="hegel-georg-wilhelm-friedrich">Hegel</rs> und seiner Schule, erst
+                    in den letzten Jahren ist er durch seine eher genannten Schüler <rs type="person" ref="lindemann-heinrich-simon" key="lindemann-heinrich-simon">Lindemann</rs>, <rs type="person" ref="roeder-karl-david-august" key="roeder-karl-david-august">Röder</rs> und <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> in weiteren Kreisen bekannt
+                    geworden.<lb/>In allen diesen Artikeln von <rs type="person" ref="tits-arnold" key="tits-arnold">Abbé
+                        Tits</rs> wird aber im Grunde kein neuer wesentlicher Einwurf
                     hervorgehoben, der nicht schon in dem ersten Heft der genannten Revue angedeutet
-                    gewesen wäre. Von den Arbeiten des <persName key="bigoni-angelo">Dot.
-                        Bigoni</persName> zeichnen sich aber die belgischen Artikel, trotz der
+                    gewesen wäre. Von den Arbeiten des <rs type="person" ref="bigoni-angelo" key="bigoni-angelo">Dot.
+                        Bigoni</rs> zeichnen sich aber die belgischen Artikel, trotz der
                     Heftigkeit des Ausdruckes durch Einhalten der Schranken des Anstandes aus,
                     welchen man einem literarischen Gegner in der gebildeten Welt schuldig
-                    ist.<lb/>Wenn hie und da <persName key="ahrens-heinrich">Ahrens</persName> des
+                    ist.<lb/>Wenn hie und da <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> des
                     Sozialismus beschuldigt wird, so ist dabei nicht zu vergessen, daß darunter
                     nicht der moderne französische Sozialismus verstanden werden kann, sondern ein
                     Versuch gemacht sein will, die Bedeutung der Gesellschaft und ihrer Glieder für
@@ -425,15 +424,15 @@
                     sie in seinem Naturrecht (Braunschweig 1846)<note xml:id="note_14">Vgl. <ref target="http://books.google.at/books?id=8yQDAAAAcAAJ&amp;dq=heinrich+ahrens+1846&amp;hl=de&amp;source=gbs_navlinks_s">Heinrich Ahrens, Das Naturrecht oder die Rechtsphilosophie nach dem
                             gegenwärtigen Zustande dieser Wissenschaft in Deutschland, Braunschweig
                             1846</ref>.</note> abgehandelt werden, zeigen hinreichend, wie
-                    verschieden die Lehre des <persName key="ahrens-heinrich">Ahrens</persName> von
+                    verschieden die Lehre des <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> von
                     der der französischen Communisten und Sozialisten ist. Daß seine Socialtheorie
-                    in der von <persName key="krause-karl-christian-friedrich">Krause</persName>
-                    aufgestellten Lehre wurzelt, ist bei einem Schüler <persName key="krause-karl-christian-friedrich">Krause’s</persName>
+                    in der von <rs type="person" ref="krause-karl-christian-friedrich" key="krause-karl-christian-friedrich">Krause</rs>
+                    aufgestellten Lehre wurzelt, ist bei einem Schüler <rs type="person" ref="krause-karl-christian-friedrich" key="krause-karl-christian-friedrich">Krause’s</rs>
                     selbstverständlich.<lb/>
                 </p>
                 <p>III.</p>
                 <p>
-                    <persName key="bigoni-angelo">Ang. Bigoni</persName>: Analisi degli errori circa
+                    <rs type="person" ref="bigoni-angelo" key="bigoni-angelo">Ang. Bigoni</rs>: Analisi degli errori circa
                     la religione contenuti nella traduzione italiana del corso di diritto naturale
                     del Prof. E. Ahrens, stampato in Milano 1851–1852.<note xml:id="note_15">Vgl.
                             <ref target="http://books.google.at/books?id=Zi4-AAAAcAAJ&amp;dq=bigoni+analisi&amp;hl=de&amp;source=gbs_navlinks_s">Angelo Bigoni, Analisi degli errori circa la religione contenuti nella
@@ -441,8 +440,8 @@
                             diritto del Prof. E. Ahrens, stampata in Milano nel 1851–1852, Padua
                             1853</ref>.</note>
                     <lb/>Auf einem ganz anderen Standpunkte, als die
-                    erwähnten Gegner des Ahrens in <country ref="#place_361e734b7e9d674efb5e3ac441e2c149">Belgien</country>, steht theol.
-                        <persName key="bigoni-angelo">Dr. Bigoni</persName>. Er stellt sich nicht
+                    erwähnten Gegner des Ahrens in <rs type="place" subtype="country" ref="#place_361e734b7e9d674efb5e3ac441e2c149">Belgien</rs>, steht theol.
+                        <rs type="person" ref="bigoni-angelo" key="bigoni-angelo">Dr. Bigoni</rs>. Er stellt sich nicht
                     als Philosoph dem Philosophen gegenüber, sondern als Theologe. Er hat nur einen
                     Gesichtspunkt, den eines katholischen Dogmatikers, den festzuhalten er sich
                     deswegen verpflichtet fühlt, weil das Buch von Ahrens „so horrende Maximen in
@@ -451,34 +450,34 @@
                     („riparare“). Er analysiert nur einige Stellen des 3ten Theiles, die nach seiner
                     Meinung „alle Absurditäten vereinigen, um nicht bloß der katholischen Kirche
                     sondern jeder geoffenbarten Religion den Todesstoß zu versetzen“. Man sieht, die
-                    Gefahr dünkt dem <persName key="bigoni-angelo">Dr. Bigoni</persName> keine
+                    Gefahr dünkt dem <rs type="person" ref="bigoni-angelo" key="bigoni-angelo">Dr. Bigoni</rs> keine
                     geringe, doch scheint die Gefahr keine wirkliche zu sein, die von „Absurditäten“
                     einen Todesstoß gegen eine geoffenbarte Religion erwartet.<lb/>Auch ist es im
                     hohen Grade auffallend, daß erst die neue Mailänder Übersetzung, und das Buch
-                    des <persName key="giorgi-alessandro">Dr. Giorgi</persName>
+                    des <rs type="person" ref="giorgi-alessandro" key="giorgi-alessandro">Dr. Giorgi</rs>
                     <note xml:id="note_16">Vgl. <ref target="http://books.google.at/books?id=H17Vp5u6AOcC&amp;hl=de&amp;source=gbs_navlinks_s">Alessandro Giorgi, Esame del corso di diritto naturale del Prof. H.
                             Ahrens, Padua 1853</ref>.</note>, ein mittelmäßiges, breitgeschriebenes
-                    Opus, die Aufmerksamkeit <persName key="bigoni-angelo">Bigonis</persName> auf
-                        <persName key="ahrens-heinrich">Ahrens</persName> gelenkt haben. Ahrens war
+                    Opus, die Aufmerksamkeit <rs type="person" ref="bigoni-angelo" key="bigoni-angelo">Bigonis</rs> auf
+                        <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> gelenkt haben. Ahrens war
                     in Italien längst bekannt und – wie es scheint – selbst im katholischen und
                     absolutistischen Neapel geduldet. Denn schon im Jahre 1840 erschien eine
                     italienische Übersetzung<note xml:id="note_17">Vgl. <ref target="http://books.google.at/books?id=vAMCCqpce2gC&amp;hl=de&amp;source=gbs_navlinks_s">Heinrich Ahrens, Corso di diritto naturale, o di filosofia del diritto,
                             secondo lo stato attuale di questa scienza in Alemagna, Neapel
-                            1841</ref>.</note> des franz. Originales von <persName key="trinchera">Trinchera</persName>, welche als Einleitung eine Korrespondenz des
-                        <persName key="mamiani-della-rovere-terenzio">Grafen Mamiani della
-                        Rovere</persName> und des Prof. der Rechte in <placeName ref="#place_8b6f0975edbb61684a14fc0b1891e1b1">Neapel</placeName>
-                    <persName key="mancini-pasquale-stanislao">Mancini</persName> enthält, und von
-                    der eine 2te Auflage kurz nach dem Erscheinen der ersten nöthig wurde. <persName key="ahrens-heinrich">Ahrens</persName> Werk ist daher schon mindestens 14
+                            1841</ref>.</note> des franz. Originales von <rs type="person" ref="trinchera" key="trinchera">Trinchera</rs>, welche als Einleitung eine Korrespondenz des
+                        <rs type="person" ref="mamiani-della-rovere-terenzio" key="mamiani-della-rovere-terenzio">Grafen Mamiani della
+                        Rovere</rs> und des Prof. der Rechte in <rs type="place" subtype="place" ref="#place_8b6f0975edbb61684a14fc0b1891e1b1">Neapel</rs>
+                    <rs type="person" ref="mancini-pasquale-stanislao" key="mancini-pasquale-stanislao">Mancini</rs> enthält, und von
+                    der eine 2te Auflage kurz nach dem Erscheinen der ersten nöthig wurde. <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> Werk ist daher schon mindestens 14
                     Jahre in Italien bekannt. Philosophen und Theologen hätten genug Gelegenheit
                     gehabt, wenn ihnen die entsprechenden Mittel geistiger Bildung zu Gebote
-                    gestanden wären, den angeblich gefährlichen Irrthümern des <persName key="ahrens-heinrich">Ahrens</persName> entgegen zu treten. Sie hätten gar
+                    gestanden wären, den angeblich gefährlichen Irrthümern des <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> entgegen zu treten. Sie hätten gar
                     nicht nöthig gehabt, zu polizeylichen oder ähnlichen Maßregeln zu drängen, die,
                     wenn sie nöthig gewesen wären, die österreichische Regierung anzuwenden nicht
                     gesäumt hätte, die aber in rein wissenschaftlichen Fragen den Antragstellern
                     immer ein testimonium paupertatis in Beziehung auf seinen Geist geben. Doch, das
-                    mag sein, wie es wolle, <persName key="bigoni-angelo">Dr. Bigoni</persName> mag
+                    mag sein, wie es wolle, <rs type="person" ref="bigoni-angelo" key="bigoni-angelo">Dr. Bigoni</rs> mag
                     gedacht haben, „besser spät, als gar nicht“ und so hat er sich entschlossen,
-                    sieben Seiten des Werkes von <persName key="ahrens-heinrich">Ahrens</persName>
+                    sieben Seiten des Werkes von <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs>
                     auf dem anständigen Raume von 131 Seiten zu refutieren.<lb/>Ich habe diese 131
                     Seiten mehr als einmal durchgelesen, und kann nicht umhin zu gestehen, daß mich
                     ein Gefühl überkommen hat, das an Ekel gränzt. Eine so rohe Art, philosophische
@@ -489,21 +488,21 @@
                     sieben Kapitel, wovon das 1te über die Offenbarung, das 2te über die
                     Inkarnation, das 3te über Religion, das 4te über den Kultus, das 5te über die
                     Kirche, das 6te Kirche und Staat, und das 7te über die Ehe handelt.<lb/>Die
-                    Methode, nach der <persName key="bigoni-angelo">Dr. Bigoni</persName> vorgeht,
+                    Methode, nach der <rs type="person" ref="bigoni-angelo" key="bigoni-angelo">Dr. Bigoni</rs> vorgeht,
                     ist eine sehr einfache. Er hebt eine Ansicht, eine Definition aus dem Werke
                     heraus, ohne sich über den Zusammenhang mit dem ganzen System den Kopf zu
                     beschweren, untersucht, ob dieselbe mit dem positiven Dogma der katholischen
                     Kirche und mit seiner subjektiven Art über philosophische Dinge zu denken,
                     übereinstimme, und verwirft sie dann, ohne die Gründe dazu auf einem anderen
                     Gebiete zu suchen, als auf dem rein dogmatischen. So behandelt er z.B. gleich im
-                    ersten Kapitel den Begriff der Religion: <persName key="ahrens-heinrich">Ahrens</persName> sagt: „secondo la odierna opinione ogni religione, per
+                    ersten Kapitel den Begriff der Religion: <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> sagt: „secondo la odierna opinione ogni religione, per
                     avere una base solide ed inconcussa, deve fondarsi sopra una rivelazione divina,
                     unica qualità per preservarla dalle umane vicissitudini.“ Es scheint doch
-                    deutlich, daß <persName key="ahrens-heinrich">Ahrens</persName> den Begriff der
+                    deutlich, daß <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> den Begriff der
                     Religion im Allgemeinen feststellen will, ohne Beziehung auf irgend eine
                     bestimmte Religion, er sagt, daß jede Religion auf einer Offenbarung beruhe,
                     natürlich ohne anzugeben, welche eine wahre, welche eine falsche sei:<lb/>Was
-                    macht nun <persName key="bigoni-angelo">Dr. Bigoni</persName>? Er beanstandet
+                    macht nun <rs type="person" ref="bigoni-angelo" key="bigoni-angelo">Dr. Bigoni</rs>? Er beanstandet
                     doppeltes, den Begriff der Offenbarung, und daß jede Religion auf Offenbarung
                     beruhe, in folgendem Räsonnement: „Nach der wahren Vernunft kann nur Eine
                     Religion die wahre sei, und deswegen nur Eine Religion die Offenbarung zu ihrer
@@ -513,14 +512,14 @@
                     der Apostel: Unus Deus, una fides, unum baptisma. Zu sagen daher „jede Religion
                     kann zu der Vorrausetzung verleiten, daß verschiedene Religionen wahr sein
                     können.“<lb/>Einer nicht minder einfachen Räsonnement unterzieht er den Begriff
-                    der Offenbarung, den <persName key="ahrens-heinrich">Ahrens</persName>
-                    (ebenfalls ohne Rücksicht auf irgendeine bestimmte) aufstellt. <persName key="ahrens-heinrich">Ahrens</persName> sagt: „Die Offenbarung kann
+                    der Offenbarung, den <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs>
+                    (ebenfalls ohne Rücksicht auf irgendeine bestimmte) aufstellt. <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> sagt: „Die Offenbarung kann
                     betrachtet werden, als ein wesentliches Element der Religion, wenn man die ganze
                     Welt, als eine Manifestation des göttlichen Wesens betrachtet, und den Geist
                     insbesondere, dem sich Gott ununterbrochen mit den großen Ideen des Guten und
                     des Wahren offenbart, die sich eine Bahn eröffnen, und sich unter die Menschen
                         verbreiten.“<lb/>
-                    <persName key="bigoni-angelo">Dr. Bigoni</persName> meint,
+                    <rs type="person" ref="bigoni-angelo" key="bigoni-angelo">Dr. Bigoni</rs> meint,
                     daß von einem wahrhaft vernünftigen Menschen, weder die Offenbarung durch die
                     Natur, nach die Offenbarung durch die individuelle Vernunft angenommen werden
                     kann; nicht die erstere, weil sie nichts beweisen würde, als das Vorhandensein
@@ -530,22 +529,22 @@
                     Geistes, und weil mit der Veränderung des Zustandes der individuellen Vernunft,
                     sie sich in ihren Konsequenzen (deduzioni) verändern würde.“<lb/>Welches
                     philosophische System der Gegenwart würde nicht, auf solcher Waage gewogen, zu
-                    leicht befunden werden?<lb/>In ähnlicher Weise geht nun <persName key="bigoni-angelo">Dr. Bigoni</persName> die genannten Kapitel durch, und
-                    häuft Vorwürfe über Vorwürfe. Nicht bloß, daß er ihm, dem <persName key="ahrens-heinrich">Ahrens</persName>, Rationalismus vorwirft, ihn
+                    leicht befunden werden?<lb/>In ähnlicher Weise geht nun <rs type="person" ref="bigoni-angelo" key="bigoni-angelo">Dr. Bigoni</rs> die genannten Kapitel durch, und
+                    häuft Vorwürfe über Vorwürfe. Nicht bloß, daß er ihm, dem <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs>, Rationalismus vorwirft, ihn
                     anklagt, die Basis der geoffenbarten Religion zerstört zu haben, er schiebt ihm
-                    auch Tendenzen unter, die <persName key="ahrens-heinrich">Ahrens</persName> so
+                    auch Tendenzen unter, die <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> so
                     wenig, wie irgend ein anderer Philosoph hat. Er sagt nämlich S. 67 (in fine)
-                    „cade adunque la base, su cui il <persName key="ahrens-heinrich">Sig.
-                        Ahrens</persName> credeva di erigere un culto razionalista eliminando
+                    „cade adunque la base, su cui il <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Sig.
+                        Ahrens</rs> credeva di erigere un culto razionalista eliminando
                     l’unico vero culto, a Dio gradito, del Cristianesimo.“<lb/>Wie ein Gespenst
-                    verfolgt die Phantasie des <persName key="bigoni-angelo">Dr. Bigoni</persName>
-                    die Vorstellung, <persName key="ahrens-heinrich">Dr. Ahrens</persName> wolle –
+                    verfolgt die Phantasie des <rs type="person" ref="bigoni-angelo" key="bigoni-angelo">Dr. Bigoni</rs>
+                    die Vorstellung, <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Dr. Ahrens</rs> wolle –
                     etwa wie die Rongianer, Deutschkatholiken etc. – einen nationalistischen Kultus
-                    gründen, und das Christenthum zerstören! Daß <persName key="ahrens-heinrich">Ahrens</persName> mehr als ein anderer Philosoph die Ideen des
+                    gründen, und das Christenthum zerstören! Daß <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> mehr als ein anderer Philosoph die Ideen des
                     Christenthums in sich aufgenommen hat – wie insbesondere die deutsche in Wien
-                    erschienene Ausgabe von dem Naturrecht von <persName key="ahrens-heinrich">Ahrens</persName> zeigt, daß die gesammte deutsche Philosophie fern steht
+                    erschienene Ausgabe von dem Naturrecht von <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> zeigt, daß die gesammte deutsche Philosophie fern steht
                     dem Treiben derer, die Religionswühlereien zu ihrem Geschäft, die Gründung eines
-                    neuen Kultus zu ihrer Lebensaufgabe gemacht haben, das alles weiß <persName key="bigoni-angelo">Dr. Bigoni</persName> nicht, oder will es wenigstens
+                    neuen Kultus zu ihrer Lebensaufgabe gemacht haben, das alles weiß <rs type="person" ref="bigoni-angelo" key="bigoni-angelo">Dr. Bigoni</rs> nicht, oder will es wenigstens
                     nicht wissen. Aber das sollte er aus der Kirchengeschichte der letzten 3
                     Jahrhunderte gelernt haben, daß nicht Philosophen von Fach und Beruf, so
                     feindlich auch ihre Stellung zum Christenthum gewesen sein mag, sondern halbe
@@ -558,92 +557,92 @@
                     rationalistischen Kultus beschäftigt haben. Kein Philosoph von Bedeutung ist
                     ihnen beigetreten, wenige mittelmäßige Denker haben sie gebilligt, die meisten
                     förmlich ignoriert oder verdammt. Kein Philosoph hat einen rationalistischen
-                    Kultus gründen wollen; <persName key="ahrens-heinrich">Ahrens</persName> so
-                    wenig als irgend ein anderer, als <persName key="fichte-johann-gottlieb">Fichte</persName>, <persName key="trendelenburg-friedrich-adolf">Trendelenburg</persName>, <persName key="hartenstein-gustav">Hartenstein</persName>, <persName key="chalybaeus-heinrich-moritz">Chalybäus</persName>, <persName key="waitz-franz-theodor">Waitz</persName>,
+                    Kultus gründen wollen; <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> so
+                    wenig als irgend ein anderer, als <rs type="person" ref="fichte-johann-gottlieb" key="fichte-johann-gottlieb">Fichte</rs>, <rs type="person" ref="trendelenburg-friedrich-adolf" key="trendelenburg-friedrich-adolf">Trendelenburg</rs>, <rs type="person" ref="hartenstein-gustav" key="hartenstein-gustav">Hartenstein</rs>, <rs type="person" ref="chalybaeus-heinrich-moritz" key="chalybaeus-heinrich-moritz">Chalybäus</rs>, <rs type="person" ref="waitz-franz-theodor" key="waitz-franz-theodor">Waitz</rs>,
                     und wie auch immer die lebenden Vertreter der Philosophie heißen. Was der Kirche
                     Schaden bringt, ist vorzüglich die geringe Bildung der Theologen, und von der
                     Seite und von der eigentlich allein droht in Italien der Kirche Gefahr. Der
-                    Rationalismus und der rationalistische Kultus den <persName key="bigoni-angelo">Bigoni</persName> in <persName key="ahrens-heinrich">Ahrens</persName>
-                    verfolgt, ist wie gesagt ein Gespenst, wie überhaupt dem <persName key="ahrens-heinrich">Ahrens</persName> in Italien mehr Bedeutung beigelegt
-                    wird, als in Deutschland. <persName key="ahrens-heinrich">Ahrens</persName> ist
+                    Rationalismus und der rationalistische Kultus den <rs type="person" ref="bigoni-angelo" key="bigoni-angelo">Bigoni</rs> in <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs>
+                    verfolgt, ist wie gesagt ein Gespenst, wie überhaupt dem <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> in Italien mehr Bedeutung beigelegt
+                    wird, als in Deutschland. <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> ist
                     ein sehr achtbarer Denker, in der Gegenwart nur ein Denker zweiten Ranges, in
-                        <country ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</country> aber nach <persName key="guenther-anton">Günther</persName> ohne Zweifel der bedeutendste; mit ihm dürften <persName key="lott-franz">Lott</persName>, <persName key="loewe-johann-heinrich">Löwe</persName>, <persName key="zimmermann-robert">Zimmermann</persName>,
-                        <persName key="hasner-von-artha-leopold">Hasner</persName> auf ziemlich
-                    gleicher Höhe stehen. Daß man in <country ref="#place_389962c9dec540ab28d04517e82c3996">Italien</country> ein so großes
+                        <rs type="place" subtype="country" ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</rs> aber nach <rs type="person" ref="guenther-anton" key="guenther-anton">Günther</rs> ohne Zweifel der bedeutendste; mit ihm dürften <rs type="person" ref="lott-franz" key="lott-franz">Lott</rs>, <rs type="person" ref="loewe-johann-heinrich" key="loewe-johann-heinrich">Löwe</rs>, <rs type="person" ref="zimmermann-robert" key="zimmermann-robert">Zimmermann</rs>,
+                        <rs type="person" ref="hasner-von-artha-leopold" key="hasner-von-artha-leopold">Hasner</rs> auf ziemlich
+                    gleicher Höhe stehen. Daß man in <rs type="place" subtype="country" ref="#place_389962c9dec540ab28d04517e82c3996">Italien</rs> ein so großes
                     Gewicht auf ihn legt, zeigt, wie wenig man mit dem gegenwärtigen Stande der
                     Philosophie in den transalpinen Ländern vertraut ist, wenn nicht bei dem
-                    gegenwärtig Sturm gegen <persName key="ahrens-heinrich">Ahrens</persName> – wie
+                    gegenwärtig Sturm gegen <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> – wie
                     ich vermuthe – ganz andere Motive mitwirken, als jene, welche öffentlich an das
-                    Tageslicht treten.<lb/>Was gegen <persName key="ahrens-heinrich">Ahrens</persName> gesagt wird, kann man gegen jeden Philosophen mit sehr
-                    geringen Ausnahmen sagen, heute bekämpft man den <persName key="ahrens-heinrich">Ahrens</persName>, morgen die ganze Philosophie; vor den Augen des
-                        <persName key="bigoni-angelo">Dr. Bigoni</persName>, und derer, die hinter
+                    Tageslicht treten.<lb/>Was gegen <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> gesagt wird, kann man gegen jeden Philosophen mit sehr
+                    geringen Ausnahmen sagen, heute bekämpft man den <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs>, morgen die ganze Philosophie; vor den Augen des
+                        <rs type="person" ref="bigoni-angelo" key="bigoni-angelo">Dr. Bigoni</rs>, und derer, die hinter
                     und neben ihm stehen, werden auch die Art und Weise, wie Philologie und
                     Geschichte gegenwärtig gelehrt werde, keine Gnade finden.<lb/>Diesen ist die
                     ganze Bildung, die ganze Wissenschaft des 19. Jahrhunderts ein
                     Gräuel.<lb/>Sollten Euer Excellenz noch ein detailierteres Referat über
-                        <persName key="bigoni-angelo">Bigoni</persName> wünschen, so bitte ich mir
+                        <rs type="person" ref="bigoni-angelo" key="bigoni-angelo">Bigoni</rs> wünschen, so bitte ich mir
                     es anzudeuten. Ich habe mich, um nicht zu lange zu werden, so kurz als möglich
                     gefasst.</p>
                 <p>IV.</p>
                 <p>Schließlich seien mir einige Bemerkungen über den gegenwärtigen Stand der
-                    Philosophie mit Rücksicht auf <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</country>
+                    Philosophie mit Rücksicht auf <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs>
                     erlaubt.<lb/>Die Philosophie ist in einer Art Regeneration begriffen. Die Ideen
-                    angeregt vorzüglich durch <persName key="kant-immanuel">Kant</persName>,
-                        <persName key="schelling-friedrich-wilhelm">Schelling</persName> und
-                        <persName key="hegel-georg-wilhelm-friedrich">Hegel</persName>, haben ihren
+                    angeregt vorzüglich durch <rs type="person" ref="kant-immanuel" key="kant-immanuel">Kant</rs>,
+                        <rs type="person" ref="schelling-friedrich-wilhelm" key="schelling-friedrich-wilhelm">Schelling</rs> und
+                        <rs type="person" ref="hegel-georg-wilhelm-friedrich" key="hegel-georg-wilhelm-friedrich">Hegel</rs>, haben ihren
                     Kreislauf verbracht, sie sind entweder in den Bildungsprozeß der Gegenwart ganz
                     übergegangen, oder von diesem zersetzt und verflüchtigt worden.<lb/>Der Haß
                     gegen das Christenthum, angefacht durch die französischen Sozialisten und
-                    getragen durch einige Hegel’sche Ultras <persName key="bauer-bruno">Bruno
-                        Bauer</persName>, <persName key="ruge-arnold">Ruge</persName>, <persName key="feuerbach-ludwig">Feuerbach</persName> etc. erlischt, oder ist im
+                    getragen durch einige Hegel’sche Ultras <rs type="person" ref="bauer-bruno" key="bauer-bruno">Bruno
+                        Bauer</rs>, <rs type="person" ref="ruge-arnold" key="ruge-arnold">Ruge</rs>, <rs type="person" ref="feuerbach-ludwig" key="feuerbach-ludwig">Feuerbach</rs> etc. erlischt, oder ist im
                     Erlöschen. In den Kämpfen des Jahres 1848 sind fast alle Philosophen auf Seiten
                     der Konservativen Parthei gestanden. Ein großer Theil derselben befasst sich,
                     angeregt durch die sittliche Verwilderung und die Verwirrung der Ideen über
-                    Recht und Sittlichkeit mit den Prinzipien der Ethik, als <persName key="hartenstein-gustav">Hartenstein</persName> in
-                        <placeName ref="#place_4a887b8a68acf9b04d9d027bddedb06b">Leipzig</placeName>, <persName key="chalybaeus-heinrich-moritz">Chalybäus</persName> in <placeName ref="#place_1a75b35314be8c19f22c5c5334d78c8f">Kiel</placeName>, <persName key="fichte-immanuel-hermann">Fichte jun.</persName> in
-                        <placeName ref="#place_7490fe0f29d31a8d9e5a998700aae558">Tübingen</placeName>. Auch <persName key="lott-franz">Lott</persName> in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> und <persName key="ahrens-heinrich">Ahrens</persName> und <placeName key="graz" ref="#place_6e00929feb7fb02acaa548f47f67c61c">Gratz</placeName> pflegen in ihren Vorträgen diese Seite mit Ernst.<lb/>Auf
+                    Recht und Sittlichkeit mit den Prinzipien der Ethik, als <rs type="person" ref="hartenstein-gustav" key="hartenstein-gustav">Hartenstein</rs> in
+                        <rs type="place" subtype="place" ref="#place_4a887b8a68acf9b04d9d027bddedb06b">Leipzig</rs>, <rs type="person" ref="chalybaeus-heinrich-moritz" key="chalybaeus-heinrich-moritz">Chalybäus</rs> in <rs type="place" subtype="place" ref="#place_1a75b35314be8c19f22c5c5334d78c8f">Kiel</rs>, <rs type="person" ref="fichte-immanuel-hermann" key="fichte-immanuel-hermann">Fichte jun.</rs> in
+                        <rs type="place" subtype="place" ref="#place_7490fe0f29d31a8d9e5a998700aae558">Tübingen</rs>. Auch <rs type="person" ref="lott-franz" key="lott-franz">Lott</rs> in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> und <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> und <rs type="place" subtype="place" key="graz" ref="#place_6e00929feb7fb02acaa548f47f67c61c">Gratz</rs> pflegen in ihren Vorträgen diese Seite mit Ernst.<lb/>Auf
                     der anderen Seite wird die Methode des Philosophierens mit mehr Ruhe und mit
                     dialektischer Spitzfindigkeit betrieben, als vor wenigen Jahrzehnten zur Zeit
                     der fast ausschließlichen Herrschaft der Junghegelianer der Fall war. Man
-                    verdankt dies vorzugsweise der Wirksamkeit <persName key="herbart-johann-friedrich">Herbarts</persName> und seiner Schule der
-                        <persName key="hartenstein-gustav">Hartenstein</persName>, <persName key="drobisch-moritz-wilhelm">Drobisch</persName>, <persName key="exner-franz">Exner</persName> (in Österreich) und vorzüglich des
-                        <persName key="trendelenburg-friedrich-adolf">Trendelenburg</persName> in
-                        <placeName ref="#place_ee1611b61f5688e70c12b40684dbb395">Berlin</placeName>.<lb/>Von der Populärphilosophie ist keine Rede
+                    verdankt dies vorzugsweise der Wirksamkeit <rs type="person" ref="herbart-johann-friedrich" key="herbart-johann-friedrich">Herbarts</rs> und seiner Schule der
+                        <rs type="person" ref="hartenstein-gustav" key="hartenstein-gustav">Hartenstein</rs>, <rs type="person" ref="drobisch-moritz-wilhelm" key="drobisch-moritz-wilhelm">Drobisch</rs>, <rs type="person" ref="exner-franz" key="exner-franz">Exner</rs> (in Österreich) und vorzüglich des
+                        <rs type="person" ref="trendelenburg-friedrich-adolf" key="trendelenburg-friedrich-adolf">Trendelenburg</rs> in
+                        <rs type="place" subtype="place" ref="#place_ee1611b61f5688e70c12b40684dbb395">Berlin</rs>.<lb/>Von der Populärphilosophie ist keine Rede
                     mehr. Philosophie ist kein exoterische Wissenschaft, sondern eine esoterische.
                     Eine Nothwendigkeit für die Hochgebildeten, ist sie für das Volk von
                     untergeordnetem Werth. Sie gehört der Aristokratie des Geistes an. Es war für
-                        <persName key="ahrens-heinrich">Ahrens</persName> in mehr als Einer
+                        <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> in mehr als Einer
                     Beziehung schlimm und verhängnisvoll, daß er in der französischen Sprache
                     schreiben muß, um verstanden zu werden, populärer schreiben musste, als er
                     sollte.<lb/>Ein neues Moment in der Philosophie ist von dem Eingreifen der
-                    naturwissenschaftlichen Methode zu erwarten. Der Richtung <persName key="mill-john-stuart">John Mill's</persName> ist schon gedacht worden.
-                        <persName key="waitz-franz-theodor">Waitz</persName> in
-                        <region ref="#place_b1955bcdd57fab7b269abbb05a7abd51">Hessen</region>, <persName key="bohtz-august-wilhelm">Botz</persName>, <persName key="oesterley-carl">Oesterlei</persName> in
-                        <placeName ref="#place_c6e5be183d875851c4d758d5f57fca35">Göttingen</placeName> bahnen dieser Richtung den Weg. Diese
+                    naturwissenschaftlichen Methode zu erwarten. Der Richtung <rs type="person" ref="mill-john-stuart" key="mill-john-stuart">John Mill's</rs> ist schon gedacht worden.
+                        <rs type="person" ref="waitz-franz-theodor" key="waitz-franz-theodor">Waitz</rs> in
+                        <rs type="place" subtype="region" ref="#place_b1955bcdd57fab7b269abbb05a7abd51">Hessen</rs>, <rs type="person" ref="bohtz-august-wilhelm" key="bohtz-august-wilhelm">Botz</rs>, <rs type="person" ref="oesterley-carl" key="oesterley-carl">Oesterlei</rs> in
+                        <rs type="place" subtype="place" ref="#place_c6e5be183d875851c4d758d5f57fca35">Göttingen</rs> bahnen dieser Richtung den Weg. Diese
                     Richtung bewegt sich jetzt noch auf rein theoretischem Gebiet.<lb/>Auch die
                     Geschichte der Philosophie wird sowohl von philologisch, als philosophisch
-                    gebildeten Geistern gepflegt, zu ersteren gehören <persName key="ritter-heinrich">Heinrich Ritter</persName> in
-                        <placeName ref="#place_c6e5be183d875851c4d758d5f57fca35">Göttingen</placeName>, <persName key="zeller-eduard">Zeller</persName> in <placeName ref="#place_7490fe0f29d31a8d9e5a998700aae558">Tübingen</placeName>, <persName key="roeth-eduard-maximilian">Röth</persName> in
-                        <placeName ref="#place_35ec7062379a5b1e1743de648e2f3809">Heidelberg</placeName>, u. s. f. zu letzteren, <persName key="fortlage-carl">Fortlage</persName> in <placeName ref="#place_3667cbbafb66c626f2c1d56c1bd96d69">Jena</placeName>,
-                        <persName key="chalybaeus-heinrich-moritz">Chalybäus</persName>, <persName key="struempell-ludwig">Strümpell</persName> (Von Strümpell ist ein Werk im
+                    gebildeten Geistern gepflegt, zu ersteren gehören <rs type="person" ref="ritter-heinrich" key="ritter-heinrich">Heinrich Ritter</rs> in
+                        <rs type="place" subtype="place" ref="#place_c6e5be183d875851c4d758d5f57fca35">Göttingen</rs>, <rs type="person" ref="zeller-eduard" key="zeller-eduard">Zeller</rs> in <rs type="place" subtype="place" ref="#place_7490fe0f29d31a8d9e5a998700aae558">Tübingen</rs>, <rs type="person" ref="roeth-eduard-maximilian" key="roeth-eduard-maximilian">Röth</rs> in
+                        <rs type="place" subtype="place" ref="#place_35ec7062379a5b1e1743de648e2f3809">Heidelberg</rs>, u. s. f. zu letzteren, <rs type="person" ref="fortlage-carl" key="fortlage-carl">Fortlage</rs> in <rs type="place" subtype="place" ref="#place_3667cbbafb66c626f2c1d56c1bd96d69">Jena</rs>,
+                        <rs type="person" ref="chalybaeus-heinrich-moritz" key="chalybaeus-heinrich-moritz">Chalybäus</rs>, <rs type="person" ref="struempell-ludwig" key="struempell-ludwig">Strümpell</rs> (Von Strümpell ist ein Werk im
                     Druck begriffen, von dem man sich viel erwartet) in
-                        <placeName ref="#place_3f85d32851c48cdf5cbb8bfa2ae3c13d">Dorpat</placeName>, <persName key="deutinger-martin">Deutinger</persName> u. a. m.<lb/>In <country ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</country> wird
-                    Geschichte der Philosophie nur vom philologischen Standpunkte von <persName key="bonitz-hermann">Bonitz</persName> in <orgName key="universitaet-wien">Wien</orgName> betrieben.<lb/>In <country ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</country> hat
+                        <rs type="place" subtype="place" ref="#place_3f85d32851c48cdf5cbb8bfa2ae3c13d">Dorpat</rs>, <rs type="person" ref="deutinger-martin" key="deutinger-martin">Deutinger</rs> u. a. m.<lb/>In <rs type="place" subtype="country" ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</rs> wird
+                    Geschichte der Philosophie nur vom philologischen Standpunkte von <rs type="person" ref="bonitz-hermann" key="bonitz-hermann">Bonitz</rs> in <orgName key="universitaet-wien">Wien</orgName> betrieben.<lb/>In <rs type="place" subtype="country" ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</rs> hat
                     Philosophie fast gar nicht existiert. Nur kleine, schüchterne Versuche sind in
                     beengten Gränzen vordem gestattet worden die Philosophie bedarf eines bewegteren
                     literarischen und geistigen Lebens, innerhalb dessen sich Gegensätze nähren und
                     gestalten dürfen. Das war vordem unmöglich. Der Jüngling, der wohl wusste in wie
                     engen Kreise der Lehrer sich bewegen konnte, misstraute seinen Worten. Er wurde
-                    in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> Autodidakt; die traurigste
+                    in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> Autodidakt; die traurigste
                     Erscheinung auf dem Gebiete der Philosophie. Er flüchtete sich aus den Hörsälen
                     in die Privatlektüre, und wählte dafür – wie leicht begreiflich – das flachste,
                     extremste verbotenste. So rächte sich die Verbannung der Weltweisheit von
                     unseren Lehrkanzeln an unserer Jugend; sie hat alle Thorheit der Welt in vollen
                     Zügen zu sich genommen und ihr der Welt auch geoffenbart.<lb/>Jetzt ist es
                     anders. Ernstere, denkende Männer, Philosophen von Fach und Beruf lehren
-                    wenigsten an drei Hochschulen Philosophie, <persName key="leonhardi-hermann">Leonhardi</persName>, <persName key="loewe-johann-heinrich">Löwe</persName>, <persName key="zimmermann-robert">Zimmermann</persName> in
-                        <orgName key="universitaet-prag">Prag</orgName>, <persName key="lott-franz">Lott</persName> in <orgName key="universitaet-wien">Wien</orgName>,
-                        <persName key="ahrens-heinrich">Ahrens</persName> in <orgName key="universitaet-graz">Gratz</orgName>.<lb/>Die Jugend hat den Glauben
+                    wenigsten an drei Hochschulen Philosophie, <rs type="person" ref="leonhardi-hermann" key="leonhardi-hermann">Leonhardi</rs>, <rs type="person" ref="loewe-johann-heinrich" key="loewe-johann-heinrich">Löwe</rs>, <rs type="person" ref="zimmermann-robert" key="zimmermann-robert">Zimmermann</rs> in
+                        <orgName key="universitaet-prag">Prag</orgName>, <rs type="person" ref="lott-franz" key="lott-franz">Lott</rs> in <orgName key="universitaet-wien">Wien</orgName>,
+                        <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> in <orgName key="universitaet-graz">Gratz</orgName>.<lb/>Die Jugend hat den Glauben
                     gewonnen, daß Österreich in die Reihe der Kulturstaaten einzutreten entschlossen
                     ist. Es wird die Wissenschaft überall mit größerem Ernste betrieben, die
                     schlechte Literatur (vordem fast ihre einzige Lektüre) ist aus ihren Händen.
@@ -651,7 +650,7 @@
                     vielleicht nur gegen einen Philosophen nominell gerichtet ist, aber in Wahrheit
                     die ganze Philosophie treffen würde!<lb/>Die Anklage, die gegen Ahrens in
                     Belgien, Padua und Pavia erhoben wurde, und sie hier vielleicht einen Widerhall
-                    gefunden haben, treffen nicht bloß <persName key="ahrens-heinrich">Ahrens</persName> den Philosophen, sondern auch <persName key="ahrens-heinrich">Ahrens</persName> den Fremden und <persName key="ahrens-heinrich">Ahrens</persName> den Protestanten!</p>
+                    gefunden haben, treffen nicht bloß <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> den Philosophen, sondern auch <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> den Fremden und <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> den Protestanten!</p>
             </div>
         </body>
     </text>

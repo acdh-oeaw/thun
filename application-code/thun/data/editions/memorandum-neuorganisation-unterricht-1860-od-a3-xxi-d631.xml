@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -73,7 +72,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -104,8 +103,8 @@
                     Hörern der früher zahlreichen aber kümmerlich ausgestatteten Rechtsakademien
                     keineswegs der Fall war. Das <orgName key="polytechnisches-institut-ofen">Josef-Polytechnikum</orgName> ist durch seine letzte Organisation auf einen
                     besseren Stand gesetzt worden als die älteren Institute gleicher Art in
-                        <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, Gratz [<placeName ref="#place_ca7668a05b2a3dbf29ca3d768c0febe8">Graz</placeName>],
-                        <placeName ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</placeName>, <placeName ref="#place_e33aa4ba5c56cc07714ea6d6520cf548">Brünn</placeName>. Die Gymnasien
+                        <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, Gratz [<rs type="place" subtype="place" ref="#place_ca7668a05b2a3dbf29ca3d768c0febe8">Graz</rs>],
+                        <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs>, <rs type="place" subtype="place" ref="#place_e33aa4ba5c56cc07714ea6d6520cf548">Brünn</rs>. Die Gymnasien
                     nahmen an der Reorganisation ihres Studienplans gleichen Antheil wie in den
                     andern Ländern der Monarchie, und wenn eine große Anzahl von Privatanstalten von
                     dieser unverkennbaren Verbesserung keinen Gebrauch machten, so traf wahrlich die
@@ -119,7 +118,7 @@
                     gewaltet, hatte das <orgName key="ministerium-fuer-kultus-und-unterricht">Unterrichts-Ministerium</orgName> mit Ausnahme eines einzigen Punktes
                     nichts zu schaffen und es könnte seine auf Verbreitung von Bildung und
                     Gesittung, von Wissen und Können gerichtete Thätigkeit nach dem 20. Oktober eben
-                    so gut, eben so wirksam und zum augenscheinlichen Heile der Völker <country key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarns</country> fortsetzen wie vor dem Erscheinen des
+                    so gut, eben so wirksam und zum augenscheinlichen Heile der Völker <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarns</rs> fortsetzen wie vor dem Erscheinen des
                     kaiserlichen Diploms.<lb/>Jener <hi rend="ul">eine</hi> Punkt, in welchem das
                     seitherige Unterrichtssystem Hand in Hand mit dem politischen System der letzten
                     zwölf Jahre ging, war die Sprachenfrage. Der leitende politische Gedanke der
@@ -190,13 +189,13 @@
                         Strenge</hi> nach allen <hi rend="ul">Einzelheiten</hi> durchzuführen sei.
                     Ist es schon in der That das Schicksal eines jeden Studienplans, daß er von
                     vornhinein auf allgemeine Billigung Verzicht leisten muß, so ist in dem
-                    vielgestaltigen und verschiedenartigen <country ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</country> es noch
+                    vielgestaltigen und verschiedenartigen <rs type="place" subtype="country" ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</rs> es noch
                     mehr der Fall, daß man auch mit dem besten Plan um so weniger durchdringt, je
                     größer das Maß der Anforderungen und je mehr es Gesetz ist, daß alle
                     Detailbestimmungen erfüllt und keine Abweichungen gestattet werden. Ein Plan, der
-                    kaum oder mit der größten Anstrengung in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>
-                    durchführbar ist, ist es nicht in <region ref="#place_3d93c766d980f58a8e989a616a0c72e6">Dalmatien</region> oder in der
-                        <region ref="#place_32f6ccbd9d17838660e68fc30be8034f">Wojwodina</region>, wo noch zwei andere Landessprachen zum
+                    kaum oder mit der größten Anstrengung in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>
+                    durchführbar ist, ist es nicht in <rs type="place" subtype="region" ref="#place_3d93c766d980f58a8e989a616a0c72e6">Dalmatien</rs> oder in der
+                        <rs type="place" subtype="region" ref="#place_32f6ccbd9d17838660e68fc30be8034f">Wojwodina</rs>, wo noch zwei andere Landessprachen zum
                     Obligatunterrichte gehören. Die Forderung ist vielmehr so richtig nur dahin zu
                     stellen, daß <hi rend="ul">ein regulatives Grundmaß</hi> bestehe, welches so
                     eingerichtet ist, daß eine <hi rend="ul">im Wesen</hi> gleiche Einrichtung und
@@ -223,10 +222,10 @@
                     Gesammtstaates wie der einzelnen Kronländer so nothwendige Harmonie in der
                     Wesenheit und der Stufenfolge ihrer Lehranstalten, bei aller durch die
                     Ortsverschiedenheit gebotenen mannigfachen Gestaltbarkeit der Detailausführung
-                    zu erhalten und gleichmäßig weiterzuführen. Die Aufrichtung einer <hi rend="ul">geistigen Zwischenzolllinie</hi> zwischen <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> und den
+                    zu erhalten und gleichmäßig weiterzuführen. Die Aufrichtung einer <hi rend="ul">geistigen Zwischenzolllinie</hi> zwischen <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> und den
                     übrigen Kronländern würde zuletzt nur zum Nachtheile des ersteren ausfallen. Man
                     erinnere sich an die Thatsache, daß vor dem Jahre 1848 aus
-                        <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> kommende, selbst mit den günstigsten Zeugnissen
+                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> kommende, selbst mit den günstigsten Zeugnissen
                     ausgestattete Gymnasiasten, wenn sie an nicht-ungarischen Gymnasien Aufnahme
                     suchten, in der Regel um eine, aber auch um zwei oder drei Klassen
                     zurückversetzt werden mußten, um ihre Studien mit Erfolg fortsetzen zu können.
@@ -575,7 +574,7 @@
                     Wirkungskreis angewiesen, hat jedoch wie sich gesetzlich nachweisen läßt,
                     keineswegs den Standpunkt des bloß passiven Zuschauens einzunehmen.<lb/>Der von
                     allen Staatsmännern als Grundgesetz über die konfessionellen Angelegenheiten der
-                    Evangelischen beider Bekenntnisse in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> anerkannte XXVI.
+                    Evangelischen beider Bekenntnisse in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> anerkannte XXVI.
                     Gesetzesartikel vom Jahre 1790/1 enthält in den nachfolgenden §§ sorgfältig
                     formulierte Bestimmungen über das evangelische Schul- und Unterrichtswesen, auf
                     deren Grundlage sich die Trennung der administrativen Geschäfte von den
@@ -626,11 +625,11 @@
                     Lehranstalten <hi rend="ul">nicht in jeder Beziehung</hi> die gleiche Geltung
                     zuerkannt wurde, wie den Zeugnissen der aus Staatsmitteln dotierten und von der
                     Regierung geleiteten Schulen. Es muß wie bisher so auch künftighin den
-                    Protestanten in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> principiell freigestellt bleiben, die
+                    Protestanten in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> principiell freigestellt bleiben, die
                     Zahl der Lehrer an ihren eigenen Lehranstalten nach Bedünken zu erhöhen oder
                     herabzumindern, und es wird in dieser Beziehung durchaus keine Amtshandlung von
                     Seite der Regierung einzutreten haben, es wäre denn, daß die Bestimmungen des
-                    provisorischen Gesetzes noch fernerhin in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> zur
+                    provisorischen Gesetzes noch fernerhin in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> zur
                     Anwendung kämen, und daß auf Grundlage derselben für einzelne Lehranstalten das
                     Ansuchen gestellt würde, den Zeugnissen derselben dieselbe Wirkung wie jenen der
                     Staatsanstalten zuzuerkennen – in welchem Falle die oberste Unterrichtsbehörde
@@ -662,7 +661,7 @@
                     Schulräthen ist hier – natürlich – keine Rede. Ferner steht es den Evangelischen
                     beider Bekenntnisse <hi rend="ul">unter sicheren</hi> Bedingungen frei rationem
                     normam et ordinem docendi atque discendi ordinare.<lb/>Dieses Recht ist den
-                    Evangelischen in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> auch bisher nicht verkümmert worden,
+                    Evangelischen in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> auch bisher nicht verkümmert worden,
                     außer wenn sie die Bedingungen erfüllen wollten, unter denen nach Maßgabe der
                     kaiserlichen Verordnung vom 27. Juni 1850 (RGB N. 309) das sogenannte
                     Öffentlichkeitsrecht zuerkannt werden konnte. Sonst durften sie und dürfen sie
@@ -689,7 +688,7 @@
                     polizeiliche Überwachung verstehe sich in jedem Staate von selbst, es wäre daher
                     nicht erst nöthig gewesen, das Recht hiezu in einem Fundamentalgesetze zu
                     wahren. Die Genesis und der Inhalt des XXVI Gesetzartikels aber lassen deutlich
-                    erkennen, daß die evangelische Kirche beider Bekenntnisse <country key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarns</country> in der Allerhöchsten Person Seiner Majestät ihren
+                    erkennen, daß die evangelische Kirche beider Bekenntnisse <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarns</rs> in der Allerhöchsten Person Seiner Majestät ihren
                     obersten Schutz- und Schirmherrn, die höchste Autorität in Sachen circa sacra
                     verehren, nicht aber den polizeilichen Hort gegen staatsgefährliche Excesse
                     erkenne und scheue. Welcher Umfang aber auch immer dem jus supremae inspectionis
@@ -774,7 +773,7 @@
                     damalige Besitzstand, status possesionis actualis, als Richtschnur – cynosura –
                     diene.<lb/>Wenn hieraus eine politische Amtshandlung erwächst, so ist sie
                     administrativer Natur.<lb/>§ XIV spricht aus, daß die vorangehenden Bestimmungen
-                    nur im Königreiche <country key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarn</country> (intra ambitum Regni
+                    nur im Königreiche <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarn</rs> (intra ambitum Regni
                     Hungariae) Geltung haben, daher die Regna Dalmatiae, Croatiae und Slavoniae
                     fernerhin im Gebrauche ihrer Municipialgesetze belassen werden sollen.<lb/>Die
                     hier nicht angeführten §§ ds XXVI Gesetzartikels vom Jahre 1790/91 nämlich die
@@ -785,7 +784,7 @@
                     d.h. am zweckmäßigsten, am sichersten, am fördersamsten und am ökonomischsten
                     besorgt werde, wenn er in <hi rend="ul">Einer</hi> Hand gehalten wird, bedarf
                     wohl eben so wenig einer näheren Nachweisung, als dass diese Eine Hand bezüglich
-                        <country key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarns</country> keine andere sein könne, als jene
+                        <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarns</rs> keine andere sein könne, als jene
                     welche diese Geschäftsführung bezüglich der nicht-ungarischen Kronländer auf
                     sich hat.<lb/>Aber auch was die <hi rend="ul">didaktisch-sprachliche</hi> Seite
                     betrifft, können die magyarischen Schulbücherangelegenheiten nicht besser
@@ -826,8 +825,8 @@
                     Herstellung der Lehrbücher hatte die Studienhofkommission in der Hand. Was war
                     die Folge? die niederösterreichische Regierung bewilligte Auflage auf Auflage,
                     ohne sich darum zu kümmern, ob darin Änderungen noth thun oder nicht? So kam es,
-                    daß z.B. Lehrbücher der Geographie von <country ref="#place_9bbe5cef5dacc0b4666c2a1d1a8b5615">Griechenland</country> und
-                        <country ref="#place_361e734b7e9d674efb5e3ac441e2c149">Belgien</country> nichts wussten, obwohl beide Königreiche bereits
+                    daß z.B. Lehrbücher der Geographie von <rs type="place" subtype="country" ref="#place_9bbe5cef5dacc0b4666c2a1d1a8b5615">Griechenland</rs> und
+                        <rs type="place" subtype="country" ref="#place_361e734b7e9d674efb5e3ac441e2c149">Belgien</rs> nichts wussten, obwohl beide Königreiche bereits
                     durch ein Dezennium in die Reihe der europäischen Staaten getreten waren. Über
                     österreichische Verhältnisse waren die Lehrbücher auf einem nicht jüngeren
                     Standpunkte. Manche Bücher waren ein Muster von Veraltung, wahre Antiquitäten
@@ -900,13 +899,13 @@
                     gehaltenen Reden erwägt, ohne von der Sache anderweitige Kenntniss zu haben, der
                     müßte zu dem Glauben gebracht werden, daß die seitherige oberste
                     Unterrichtsbehörde wie eine feindliche Macht den Interessen und Bedürfnissen der
-                    Bevölkerung <country key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarns</country> entgegengestanden habe. Ich
+                    Bevölkerung <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarns</rs> entgegengestanden habe. Ich
                     habe bereits in mehreren Beispielen gezeigt, wie unwahr eine solche Vorstellung
                     ist, wie einsichtsvoll und wohlwollend, wie von den sichtlichsten Erfolgen
                     gekrönt die zehnjährige Wirksamkeit des <orgName key="ministerium-fuer-kultus-und-unterricht">Unterrichts-Ministeriums</orgName> in den Ländern der ungarischen Krone
                     gewesen? Diese Beispiele ließen sich leicht vermehren. Nur noch eines aus der
                     jüngsten Zeit. Man hat in
-                        <placeName ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</placeName>-<placeName ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</placeName> für gut befunden,
+                        <rs type="place" subtype="place" ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</rs>-<rs type="place" subtype="place" ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</rs> für gut befunden,
                     unter andern die Professoren der naturwissenschaftlichen Fächer der Universität
                     außer Thätigkeit, Supplenten an ihre Stelle zu setzen, die wissenschaftlichen
                     Kabinette aus den Händen der ersteren zu nehmen. Auf meine Anfrage, auf
@@ -963,7 +962,7 @@
                     Unterrichtsbehörde den diesfälligen Berathungen beiziehen, oder mit denselben in
                     Notenwechsel treten, wenn diese Angelegenheiten wichtigerer, nachhaltigerer
                     Natur wären, wie z.B. wenn es sich um die Inangriffnahme des beantragten
-                    sogenannten medizinischen Centralbaues in <placeName ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</placeName> handelte;
+                    sogenannten medizinischen Centralbaues in <rs type="place" subtype="place" ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</rs> handelte;
                         <hi rend="ul">oder</hi> sie würde den Weg des brevi manu – Einvernehmens
                     ante expeditionem einschlagen wenn z.B. ein gewöhnlicher Schulbau, die
                     Bewilligung eines Besoldungsvorschusses u. dgl. in Frage wäre. Was dagegegn jene

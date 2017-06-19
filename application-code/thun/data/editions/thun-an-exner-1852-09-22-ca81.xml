@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="exner-franz" role="recipient">Franz
-                        Exner</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="exner-franz" key="exner-franz" role="recipient">Franz
+                        Exner</rs>
                     <lb/>
-                    <placeName ref="#place_6fc6f10422bfe80ddcba23b4f7f080dc">Hietzing</placeName>, <date when="1852-09-22"> 22. September [1852]</date>
+                    <rs type="place" subtype="place" ref="#place_6fc6f10422bfe80ddcba23b4f7f080dc">Hietzing</rs>, <date when="1852-09-22"> 22. September [1852]</date>
                     <note xml:id="note_1">Das
                         Datum ist mit Bleistift am Blatt verzeichnet. Die Datierung erscheint
                         plausibel, zumal Exner im September 1852 einen ausführlichen Bericht zur
@@ -36,7 +35,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="kohn-albert" role="sender:kleriker">Albert Kohn</persName> an
-                        <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="kohn-albert" key="kohn-albert" role="sender:kleriker">Albert Kohn</rs> an
+                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_7a9a74bdf33223882bc0d58e4d3afc3e">Raudnitz</placeName>, <date when="1850-10-04">04. Oktober 1850</date>
+                    <rs type="place" subtype="place" ref="#place_7a9a74bdf33223882bc0d58e4d3afc3e">Raudnitz</rs>, <date when="1850-10-04">04. Oktober 1850</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -44,7 +43,7 @@
                 </p>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -133,7 +132,7 @@
                     berufen; denn die religiösen Bedürfnisse der Israeliten sind überall dieselben,
                     und eine Trennung in mehre[re] Synoden würde die Kräfte nur zersplittern und die
                     Spaltung vergrößern.<lb/>Aber eine Versammlung berufener Glaubensgenossen aus
-                    Rabbinern und Laien, Orthodoxen und Liberalen in der <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Residenzstadt</placeName> und Mittelpunkt der Monarchie unter der Aegide
+                    Rabbinern und Laien, Orthodoxen und Liberalen in der <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Residenzstadt</rs> und Mittelpunkt der Monarchie unter der Aegide
                     der hohen Regierung dürfte alle Bedingungen in sich vereinen zur Erreichung des
                     angestrebten Zieles, weil eine solche Versammlung geeignet ist, allen Parteien
                     Achtung und Vertrauen einzuflößen, da in ihr alle Parteien sich vertreten
@@ -148,11 +147,11 @@
                     geruthen, so wage ich es auch über diesen Punkt meine Gedanken auszusprechen,
                     wie ich sie aus der Erfahrung und aus den allenthalben laut sich kundgebenden
                     Stimmen geschöpft:<lb/>1. Es wären zu der fraglichen Synode 6 Vertrauensmänner
-                    aus jedem Kronlande, 3 Rabbiner und 3 Laien, und aus <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>
+                    aus jedem Kronlande, 3 Rabbiner und 3 Laien, und aus <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>
                     ebenfalls 6 zu berufen; unter diesen den ersten Oberjuristen aus
-                        <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, den <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mährischen</region>
-                    Landesrabbiner, den Oberrabbiner von <placeName ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</placeName>, den <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wiener</placeName> Prediger, die Oberrabbiner von
-                        <placeName ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</placeName> und <placeName ref="#place_48a09f4956b196a2489d69e3c117000d">Padua</placeName>. Die übrigen
+                        <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, den <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mährischen</rs>
+                    Landesrabbiner, den Oberrabbiner von <rs type="place" subtype="place" ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</rs>, den <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wiener</rs> Prediger, die Oberrabbiner von
+                        <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs> und <rs type="place" subtype="place" ref="#place_48a09f4956b196a2489d69e3c117000d">Padua</rs>. Die übrigen
                     aus jedem Kronlande zu berufenden Rabbiner und Laien wären vielleicht durch die
                     Kreisregierungen zu ermitteln.<lb/>2. Die der Synode vorzulegenden
                     Berathungsgegenstände wären folgende: a. das Gemeindestatut, b. die Anstellung

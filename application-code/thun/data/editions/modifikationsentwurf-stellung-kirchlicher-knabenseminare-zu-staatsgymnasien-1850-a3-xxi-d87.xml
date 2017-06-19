@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -44,7 +43,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -59,15 +58,15 @@
                 <p>Modifikationsentwurf bezüglich der Stellung kirchlicher Knabenseminäre zu den
                     k.k. Gymnasien</p>
                 <p>
-                    <hi rend="ul">Nöthige Vorbemerkungen</hi>.<lb/>Seine <persName key="franz-joseph">k.k. Apostolische Majestät</persName> geruhten in Folge meiner am
+                    <hi rend="ul">Nöthige Vorbemerkungen</hi>.<lb/>Seine <rs type="person" ref="franz-joseph" key="franz-joseph">k.k. Apostolische Majestät</rs> geruhten in Folge meiner am
                     allerhöchsten Throne niedergelegten Denkschrift über kirchliche Knabenseminäre
                     mit allerhöchster Entschließung vom 9. Mai letzten Jahres zu bestimmen, daß die
                     von mir angeregte prinzipielle Frage über die Stellung der bischöflichen
                     (kirchlichen) Knabenseminäre – der Regierung gegenüber – vorläufig einer
                     Verhandlung mit dem Ausschuße der bischöflichen Versammlung vom Jahr 1849 und
-                    erst auf Grundlage derselben der definitiven Entscheidung <persName key="franz-joseph">Seiner Majestät</persName> zu unterziehen sei und daß
+                    erst auf Grundlage derselben der definitiven Entscheidung <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät</rs> zu unterziehen sei und daß
                     inzwischen die gesetzlichen Bestimmungen über die Errichtung und Leitung von <hi rend="ul">Gymnasien</hi> auch hinsichtlich der Knabenseminarien aufrecht zu
-                    halten sind; daß jedoch <persName key="franz-joseph">Seine Majestät</persName>
+                    halten sind; daß jedoch <rs type="person" ref="franz-joseph" key="franz-joseph">Seine Majestät</rs>
                     es zugleich mir anheimzustellen geruhen, insofern einzelne der für <hi rend="ul">Gymnasien</hi> bestehenden Vorschriften mir in der zweckmäßigen Einrichtung
                     und Leitung dieser kirchlichen Anstalt hinderlich sein sollten, um eine
                     ausnahmsweise Modifikation derselben anzusuchen, über deren Zulässigkeit die
@@ -86,14 +85,14 @@
                     erforderlichen Mittel umsieht und bewirbt, <hi rend="ul">führt</hi> nur pflicht-
                     und berufsmäßig <hi rend="ul">aus</hi>, was die ganze heilige
                     römisch-katholische Kirche vor mehr als 300 Jahren auf der allgemeinen
-                    Kirchenversammlung zu Trident [<placeName ref="#place_34f36b9454115e3b99acdf7913509e12">Trient</placeName>] (die auch in
+                    Kirchenversammlung zu Trident [<rs type="place" subtype="place" ref="#place_34f36b9454115e3b99acdf7913509e12">Trient</rs>] (die auch in
                     Disziplinargegenständen und Anordnungen von den katholischen Mächten anerkannt
                     ist) kraft ihrer in Vollmacht des Herrn an den gesammten katholischen Episkopat
                     des Erdkreises erlassenen allgemeinen Verordnung <hi rend="ul">gegründet und
                         eingesetzt</hi> hat, welche <hi rend="ul">allgemeine</hi> kirchliche
                     Anordnung und Einrichtung die bischöfliche Versammlung in
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> 1849 in Folge der von Seiner k.k. Apostolischen
-                    Majestät <persName key="franz-joseph">Franz Josef</persName> anerkannten
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> 1849 in Folge der von Seiner k.k. Apostolischen
+                    Majestät <rs type="person" ref="franz-joseph" key="franz-joseph">Franz Josef</rs> anerkannten
                     Freiheit der Kirche in ihren Angelegenheiten wieder ins Leben zu rufen sich
                     verpflichtet fühlte und bemüht war. So wenig nun die ganze katholische vom Herrn
                     gegründete und geleitete Kirche als eine Privatanstalt im Staate angesehen
@@ -104,7 +103,7 @@
                     angesehen und behandelt werden, indem es selbst bei positiven Staatsanstalten
                     nicht darauf ankommt, wie man dieselben ansehen <hi rend="ul">will</hi>, sondern
                     wie man sie nach dem Rechtsprinzip ansehen <hi rend="ul">soll</hi>. Wenn
-                        <persName key="franz-joseph">Seine k.k. Apostolische Majestät</persName> an
+                        <rs type="person" ref="franz-joseph" key="franz-joseph">Seine k.k. Apostolische Majestät</rs> an
                     die allerhöchste Anerkennung der kirchlichen Knabenseminare als
                     Bildungsanstalten gewisse Bedingungen, z. B. die Rücksichtnahme auf die
                     allgemeinen Staatsgesetze zu knüpfen geruhten, so ändert <hi rend="ul">dieses</hi> doch den <hi rend="ul">wesentlichen Charakter</hi> dieses
@@ -126,14 +125,14 @@
                     sondern daß vielmehr solche Modifikationen der Natur der Sache nach als recht
                     und billig und angemessen werden [sic!], anerkannt werden, wie sie der kirchen- und
                     staatsrechtliche Charakter dieses kirchlichen Lehr- und Erziehungsinstitutes
-                    erheischt, welche auch die Weisheit <persName key="franz-joseph">Seiner k.k.
-                        Apostolischen Majestät</persName> in diesem Sinne zu bewilligen und
+                    erheischt, welche auch die Weisheit <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner k.k.
+                        Apostolischen Majestät</rs> in diesem Sinne zu bewilligen und
                     allerhöchst sich die Entscheidung vorzubehalten geruhten.<lb/>Ich finde mich nun
                     berufen, auf <hi rend="ul">derartige</hi> Modifikationen nach einzelnen
                     Paragrafen der angezogenen allerhöchsten Verordnung vom 27. Juni 1850
                     hinzudeuten und nähre dabei die beruhigende Überzeugung, daß ich dadurch einen,
-                    dem Sinne und Geiste <persName key="franz-joseph">Seiner k.k. Apostolischen
-                        Majestät</persName>, unsers kirchenfreundlichen Kaisers angemessenen
+                    dem Sinne und Geiste <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner k.k. Apostolischen
+                        Majestät</rs>, unsers kirchenfreundlichen Kaisers angemessenen
                     Ausdruck gebe.</p>
                 <p>
                     <hi rend="ul">

@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="rauscher-joseph" role="sender:kleriker">Joseph Othmar
-                        Rauscher</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="rauscher-joseph" key="rauscher-joseph" role="sender:kleriker">Joseph Othmar
+                        Rauscher</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1857-01-04">4. Januar 1857</date>
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1857-01-04">4. Januar 1857</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -39,7 +38,7 @@
                 </p>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -49,16 +48,16 @@
                     <term>Ungarn</term>
                 </index>
                 <p>Hochgeborner Graf!</p>
-                <p>Gestern Abends war der <persName key="luca-antonio-de">Herr Nuntius</persName>
+                <p>Gestern Abends war der <rs type="person" ref="luca-antonio-de" key="luca-antonio-de">Herr Nuntius</rs>
                     bei mir; er ist wiederholt angewiesen auf die Befreiung der Geistlichen von der
                     Zeugenschaft wenigstens in Criminalsachen zu dringen. Ich wünsche zu vermeiden,
                     daß die Sache zu der Ministerconferenz gelangt; es würde ganz nutzlos seyn und
                     blos ein neuer Stoff zu Gerede und Zeitungsartikeln seyn. Die Sache kommt wieder
-                    aus <country key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarn</country>. Der <persName key="haynald-lajos">Bischof von Siebenbürgen</persName> richtete bald nach der Wiener
-                    Versammlung an den <persName key="pius-IX">Papst</persName> eine
-                    Beschwerdeschrift, welche, wie <persName key="antonelli-giacomo">Kardinal
-                        Antonelli</persName> versichert, tiefen Eindruck gemacht hat. Er machte
-                    namentlich geltend, daß in <country key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarn</country> und <country key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</country> die Sache sogar die Gewohnheit
+                    aus <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarn</rs>. Der <rs type="person" ref="haynald-lajos" key="haynald-lajos">Bischof von Siebenbürgen</rs> richtete bald nach der Wiener
+                    Versammlung an den <rs type="person" ref="pius-IX" key="pius-IX">Papst</rs> eine
+                    Beschwerdeschrift, welche, wie <rs type="person" ref="antonelli-giacomo" key="antonelli-giacomo">Kardinal
+                        Antonelli</rs> versichert, tiefen Eindruck gemacht hat. Er machte
+                    namentlich geltend, daß in <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarn</rs> und <rs type="place" subtype="country" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> die Sache sogar die Gewohnheit
                     wider sich habe, indem die Geistlichen erst seit 1853 genöthigt würden, vor dem
                     weltlichen Gerichte Zeugnisse abzulegen. Ist dieß wahr? Mußten die Geistlichen
                     nicht auch vor 1848 wenigstens in gewissen Fällen als Zeugen auftreten? Ist die

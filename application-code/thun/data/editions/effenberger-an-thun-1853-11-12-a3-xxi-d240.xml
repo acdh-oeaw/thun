@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="effenberger-franz-ferdinand" role="sender:beamter">Franz
-                        Effenberger</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="effenberger-franz-ferdinand" key="effenberger-franz-ferdinand" role="sender:beamter">Franz
+                        Effenberger</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_547ed8b517d6aa2705f2fd3b8eeae874">Pilsen</placeName>,
+                    <rs type="place" subtype="place" ref="#place_547ed8b517d6aa2705f2fd3b8eeae874">Pilsen</rs>,
                         <date when="1853-11-12">12. November 1853</date>
                 </title>
             </titleStmt>
@@ -47,7 +46,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -57,31 +56,31 @@
                     <term>Gymnasien</term>
                 </index>
                 <p>Euere Excellenz!</p>
-                <p>Die besondere Huld, mit welcher Euere Excellenz den Pater <persName key="waldert-anton">Waldert</persName> auszuzeichnen geruhten, verpflichtet
+                <p>Die besondere Huld, mit welcher Euere Excellenz den Pater <rs type="person" ref="waldert-anton" key="waldert-anton">Waldert</rs> auszuzeichnen geruhten, verpflichtet
                     den ehrfurchtsvollst Gefertigten folgendes zu hoher Kenntnis gehorsamst zu
-                    berichten.<lb/>Pater <persName key="waldert-anton">Waldert</persName> war am 6.
+                    berichten.<lb/>Pater <rs type="person" ref="waldert-anton" key="waldert-anton">Waldert</rs> war am 6.
                     des letzten Monats behufs des Antrittes der ihm überwiesenen Supplirung in
-                        <placeName ref="#place_24c87409776f0c35cc5176266b753b28">Eger</placeName> angelangt. Als Tags darauf der ehrfurchtsvollst
-                    Gefertigte dort gleichfalls ankam, fand er <persName key="waldert-anton">Waldert</persName> in großem Zwiespalt darüber, ob er die Supplirung
+                        <rs type="place" subtype="place" ref="#place_24c87409776f0c35cc5176266b753b28">Eger</rs> angelangt. Als Tags darauf der ehrfurchtsvollst
+                    Gefertigte dort gleichfalls ankam, fand er <rs type="person" ref="waldert-anton" key="waldert-anton">Waldert</rs> in großem Zwiespalt darüber, ob er die Supplirung
                     antreten oder wieder in die Seelsorge zurückkehren solle. Er hatte die Aufnahme
                     seitens des Lehrkörpers kalt gefunden und es hatte ihm geschienen, als halte man
                     den Eintritt eines Geistlichen für den eines Spions. Es gelang nicht ganz, ihn
                     deshalb vollkommen zu beruhigen. Er führte ferner an, man habe ihm Lehrfächer
                     zugetheilt, welche vorzutragen er sich von vornherein nicht anheischig gemacht
                     habe. Der ehrfurchtsvollst Gefertigte ordnete nun die Vertheilung so, daß
-                        <persName key="waldert-anton">Waldert</persName> sich damit ganz zufrieden
+                        <rs type="person" ref="waldert-anton" key="waldert-anton">Waldert</rs> sich damit ganz zufrieden
                     erklärte. Nichtsdestoweniger gab er dem andern Lager die bestimmte Erklärung ab,
-                    daß er in <placeName ref="#place_24c87409776f0c35cc5176266b753b28">Eger</placeName> nicht bleiben könne und sich sofort wieder
-                    zurück nach <placeName key="goerkau" ref="#place_6f7cc055d11cf2cbbaa605d5449eb44c">Görgau</placeName> begebe. Es beängstige
+                    daß er in <rs type="place" subtype="place" ref="#place_24c87409776f0c35cc5176266b753b28">Eger</rs> nicht bleiben könne und sich sofort wieder
+                    zurück nach <rs type="place" subtype="place" key="goerkau" ref="#place_6f7cc055d11cf2cbbaa605d5449eb44c">Görgau</rs> begebe. Es beängstige
                     ihn, gab er an, besonders der Umstand, daß sein Bischof, dem er doch ganz wie
                     ein Werkzeug angehöre, seinen Eintritt in das Gymnasiallehramt entschieden
-                    mißbilligt habe; er finde ferner, der Boden am <placeName key="eger" ref="#place_c0c864044f97c6e7d7af03ea5a182d70">Egener</placeName> Gymnasium, ja wahrscheinlich an sämtlichen Gymnasien,
+                    mißbilligt habe; er finde ferner, der Boden am <rs type="place" subtype="place" key="eger" ref="#place_c0c864044f97c6e7d7af03ea5a182d70">Egener</rs> Gymnasium, ja wahrscheinlich an sämtlichen Gymnasien,
                     sey für kirchliche Zwecke und für die Thätigkeit des für sie allein betenden
                     Priesters so wenig günstig, daß er es für seine Pflicht halte, seinen
-                    gleichgesinnten Freund, Pater <persName key="weber">Weber von Ludy</persName>,
+                    gleichgesinnten Freund, Pater <rs type="person" ref="weber" key="weber">Weber von Ludy</rs>,
                     von jeder Bewerbung um ein Gymnasiallehramt abzuhalten. Hätte es befremden
-                    müssen, daß <persName key="waldert-anton">Waldert</persName> innerhalb weniger
-                    Stunden zu diesem Urtheile über <placeName ref="#place_24c87409776f0c35cc5176266b753b28">Eger</placeName> und die Gymnasien im
+                    müssen, daß <rs type="person" ref="waldert-anton" key="waldert-anton">Waldert</rs> innerhalb weniger
+                    Stunden zu diesem Urtheile über <rs type="place" subtype="place" ref="#place_24c87409776f0c35cc5176266b753b28">Eger</rs> und die Gymnasien im
                     Allgemeinen gekommen, wenn er nicht sichtlich in einer ungemein erregten und
                     unklaren Stimmung gewesen wäre? So entging es doch andererseits nicht, daß er
                     sich, ungeachtet einer bedeutenden höhern Bildung im theologischen und
@@ -89,7 +88,7 @@
                     gewachsen fühlen mochte. Auch äußerte er in dieser Richtung selbst Besorgnisse,
                     die zu zerstreuen bei seiner großen Gewissenhaftigkeit nicht gelingen wollte.
                     Unter diesen Umständen schien es dem ehrfurchtsvollst Gefertigten das
-                    Angemessenste <persName key="waldert-anton">Walderts</persName> Rücktritt durch
+                    Angemessenste <rs type="person" ref="waldert-anton" key="waldert-anton">Walderts</rs> Rücktritt durch
                     Zureden nicht weiter zu behindern. Bei aller Anerkennung seiner Begabung, seines
                     Charakters und der idealen Geistesrichtung, die das Höchste besonders auf dem
                     kirchlichen Gebiete anstrebt, erschien er doch nicht als der für die Schule
@@ -97,23 +96,23 @@
                     Wissenschaft, praktische Tüchtigkeit, ausdauernde sehr mühevolle Arbeit im
                     scheinbar Kleinen erfordert und zugleich sich damit bescheidet, daß sie Geist
                     und Herz des Knaben und Jünglings eben nur zur Aufnahme des Höhern
-                    befähigt.<lb/>Auf das besondere Ansuchen des Supplenten <persName key="grus">Grus</persName> in <placeName ref="#place_24c87409776f0c35cc5176266b753b28">Eger</placeName> wagt es der ehrfurchtsvollst
+                    befähigt.<lb/>Auf das besondere Ansuchen des Supplenten <rs type="person" ref="grus" key="grus">Grus</rs> in <rs type="place" subtype="place" ref="#place_24c87409776f0c35cc5176266b753b28">Eger</rs> wagt es der ehrfurchtsvollst
                     Gefertigte anläßlich dieses gehorsamsten Pflichtschreibens eine unterthänigste
-                    Bitte zu unterbreiten. <persName key="grus">Grus</persName> ist Bewerber um die
-                    am Johanneum in <placeName ref="#place_ca7668a05b2a3dbf29ca3d768c0febe8">Graz</placeName> erledigte Bibliothekarstelle. Er
+                    Bitte zu unterbreiten. <rs type="person" ref="grus" key="grus">Grus</rs> ist Bewerber um die
+                    am Johanneum in <rs type="place" subtype="place" ref="#place_ca7668a05b2a3dbf29ca3d768c0febe8">Graz</rs> erledigte Bibliothekarstelle. Er
                     würde sich sehr glücklich schätzen, diesen Dienstposten zu erhalten. Noch mehr
                     aber, wenn ihm ein Staatsstipendium es möglich machte, in der Hauptstadt für die
                     Lehramtsprüfung aus der deutschen Sprache und Literatur sich so vorzubereiten,
-                    wie er es in <placeName ref="#place_24c87409776f0c35cc5176266b753b28">Eger</placeName> ohne literarische Hilfsmittel und bei
+                    wie er es in <rs type="place" subtype="place" ref="#place_24c87409776f0c35cc5176266b753b28">Eger</rs> ohne literarische Hilfsmittel und bei
                     den alle seine Kraft fordernden Schularbeiten nicht imstande zu seyn behauptet.
-                        <persName key="grus">Grus</persName> wäre nach Talent, Lehreifer und nach
+                        <rs type="person" ref="grus" key="grus">Grus</rs> wäre nach Talent, Lehreifer und nach
                     seiner sonstigen Bildung einer solchen Begünstigung umso würdiger, als der
                     Mangel an tüchtigen Lehrern der deutschen Sprache ungemein groß, ja das Lehrfach
                     durch Geprüfte eigentlich gar nicht vertreten ist. Und gern möchte man
-                        <placeName ref="#place_24c87409776f0c35cc5176266b753b28">Eger</placeName> in diesem Fache einen tüchtigen, energischen
-                    Lehrer, wie es <persName key="grus">Grus</persName> werden dürfte, wünschen,
+                        <rs type="place" subtype="place" ref="#place_24c87409776f0c35cc5176266b753b28">Eger</rs> in diesem Fache einen tüchtigen, energischen
+                    Lehrer, wie es <rs type="person" ref="grus" key="grus">Grus</rs> werden dürfte, wünschen,
                     theils wegen der örtlichen Sprachverhältnisse, theils wegen des Verlustes, den
-                        <placeName ref="#place_24c87409776f0c35cc5176266b753b28">Eger</placeName> durch <persName key="kawka-matthias">Kawka</persName> und <persName key="mitteis-heinrich">Mitteis</persName>
+                        <rs type="place" subtype="place" ref="#place_24c87409776f0c35cc5176266b753b28">Eger</rs> durch <rs type="person" ref="kawka-matthias" key="kawka-matthias">Kawka</rs> und <rs type="person" ref="mitteis-heinrich" key="mitteis-heinrich">Mitteis</rs>
                     erlitten hat. Der Verlust ist von den Schülern selbst tief empfunden. Leider
                     wird der Ersatz kein Äquivalent werden.<lb/>Geruhen Euere Excellenz den Ausdruck
                     der tiefsten Ergebenheit gnädig entgegenzunehmen, unter welcher der

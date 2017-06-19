@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="weiss-johann-baptist" role="sender:gelehrter">Johann Baptist
-                        Weiß</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="weiss-johann-baptist" key="weiss-johann-baptist" role="sender:gelehrter">Johann Baptist
+                        Weiß</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_ca7668a05b2a3dbf29ca3d768c0febe8">Graz</placeName>, <date when="1855-08-08">8.
+                    <rs type="place" subtype="place" ref="#place_ca7668a05b2a3dbf29ca3d768c0febe8">Graz</rs>, <date when="1855-08-08">8.
                         August 1855</date>
                 </title>
             </titleStmt>
@@ -65,7 +64,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -79,76 +78,76 @@
                 <p>&lt;8/8 1855&gt;<note xml:id="note_1">Notiz am oberen Blattrand.</note>
                 </p>
                 <p>Excellenz Herr Minister!<lb/>Hochgebietender gnädiger Herr Graf!</p>
-                <p>An die gestrige von Ihro Excellenz befohlene vertrauliche Mittheilung<note xml:id="note_2">Dieser Brief ist nicht erhalten.</note> über <persName key="bock-cornelius-peter">Bock</persName> und die Decanatswahl habe ich die
+                <p>An die gestrige von Ihro Excellenz befohlene vertrauliche Mittheilung<note xml:id="note_2">Dieser Brief ist nicht erhalten.</note> über <rs type="person" ref="bock-cornelius-peter" key="bock-cornelius-peter">Bock</rs> und die Decanatswahl habe ich die
                     Ehre anmit noch Folgendes anzuschließen, was zur Ergänzung dient.<lb/>Nach
                     langem Suchen fand ich einen Brief, in dem sich Bock über seine frühere
                     Geschichte also ausspricht (das Original kann ich Ihro Excellenz nöthigenfalls
-                    einsenden): „Auf den Rath <persName key="hug-johann-leonhard">Hugs</persName>
-                    ging ich von <placeName ref="#place_4954c53c759af8001d314f00bf3577f3">Freiburg</placeName> über
-                    <placeName ref="#place_d0a6343a081a7335baa965ce4fd0845c">München</placeName>, wo ich <persName key="gerhard-eduard">Gerhard</persName> kennen lernte, nach <country ref="#place_389962c9dec540ab28d04517e82c3996">Italien</country>, verlebte
+                    einsenden): „Auf den Rath <rs type="person" ref="hug-johann-leonhard" key="hug-johann-leonhard">Hugs</rs>
+                    ging ich von <rs type="place" subtype="place" ref="#place_4954c53c759af8001d314f00bf3577f3">Freiburg</rs> über
+                    <rs type="place" subtype="place" ref="#place_d0a6343a081a7335baa965ce4fd0845c">München</rs>, wo ich <rs type="person" ref="gerhard-eduard" key="gerhard-eduard">Gerhard</rs> kennen lernte, nach <rs type="place" subtype="country" ref="#place_389962c9dec540ab28d04517e82c3996">Italien</rs>, verlebte
                     dort archäologischen Studien gewidmet drei volle Jahre. Zurückkehrend hatte ich
-                    die Absicht in <placeName ref="#place_4954c53c759af8001d314f00bf3577f3">Freiburg</placeName> zu bleiben. Unmöglich erschien
-                    mir die Ausführung dieses Vorhabens deßhalb: <persName key="hug-johann-leonhard">Hug</persName> hatte mich in Kenntnis der schnödesten Umtriebe der
+                    die Absicht in <rs type="place" subtype="place" ref="#place_4954c53c759af8001d314f00bf3577f3">Freiburg</rs> zu bleiben. Unmöglich erschien
+                    mir die Ausführung dieses Vorhabens deßhalb: <rs type="person" ref="hug-johann-leonhard" key="hug-johann-leonhard">Hug</rs> hatte mich in Kenntnis der schnödesten Umtriebe der
                     Wessenbergischen Partei gesetzt, mit der Bitte diese durch Vermittlung des
-                    sächsischen Gesandten <persName key="platner-ernst-zacharias">Platner</persName>
-                    dem römischen Hofe vorlegen zu lassen. Ich that es, in der Meinung, <persName key="hug-johann-leonhard">Hug</persName> verfolge nur katholische, nicht
+                    sächsischen Gesandten <rs type="person" ref="platner-ernst-zacharias" key="platner-ernst-zacharias">Platner</rs>
+                    dem römischen Hofe vorlegen zu lassen. Ich that es, in der Meinung, <rs type="person" ref="hug-johann-leonhard" key="hug-johann-leonhard">Hug</rs> verfolge nur katholische, nicht
                     egoistische ehrgeizige Zwecke, was doch der Fall war. Meine Correspondenz blieb
-                    in <placeName key="karlsruhe" ref="#place_2126faa64bfa66d02e06345d06e61a25">Carlsruhe</placeName> kein Geheimnis, ich erfuhr
+                    in <rs type="place" subtype="place" key="karlsruhe" ref="#place_2126faa64bfa66d02e06345d06e61a25">Carlsruhe</rs> kein Geheimnis, ich erfuhr
                     dieß auf das Bestimmteste, aber niemals wer der Verräther gewesen. Die Liberalen
-                        <persName key="rotteck-karl">Rotteck</persName>, <persName key="welcker-karl-theodor">Welker</persName> [sic!], <persName key="baumstark-anton">Baumstark</persName> und Comp. zogen sich vor mir
+                        <rs type="person" ref="rotteck-karl" key="rotteck-karl">Rotteck</rs>, <rs type="person" ref="welcker-karl-theodor" key="welcker-karl-theodor">Welker</rs> [sic!], <rs type="person" ref="baumstark-anton" key="baumstark-anton">Baumstark</rs> und Comp. zogen sich vor mir
                     zurück als sie einsahen, daß meine conservativen Grundsätze ganz
                     unerschütterlich waren. Im Rotteckschen Haus wohnend hatte ich das revolutionäre
                     Getriebe gründlich kennen gelernt, es hat mein unbefangenes jugendliches Gemüth
-                    mit Abscheu erfüllt.“ – „Von <persName key="radowitz-joseph-maria">Radowitz</persName> empfohlen ward ich für die von
-                        <country ref="#place_25d84525e7f3440f0f386b91ce612895">Kurhessen</country> und <country ref="#place_b3a3a0c6d2cb7b5adc8d3568f73ad8b2">Nassau</country> projektirte
+                    mit Abscheu erfüllt.“ – „Von <rs type="person" ref="radowitz-joseph-maria" key="radowitz-joseph-maria">Radowitz</rs> empfohlen ward ich für die von
+                        <rs type="place" subtype="country" ref="#place_25d84525e7f3440f0f386b91ce612895">Kurhessen</rs> und <rs type="place" subtype="country" ref="#place_b3a3a0c6d2cb7b5adc8d3568f73ad8b2">Nassau</rs> projektirte
                     gemeinsame katholisch-theologische Facultät zum außerordentlichen Professor
-                    ernannt. Das Projekt zerschlug sich, <country ref="#place_b3a3a0c6d2cb7b5adc8d3568f73ad8b2">Nassau</country> zog sich zurück.
-                        <persName key="hassenpflug-ludwig">Hassenpflug</persName> hielt mich in
-                        <placeName key="kassel" ref="#place_806119540e45af1f044b7a827623d25f">Cassel</placeName> fest, beschäftigte mich in
+                    ernannt. Das Projekt zerschlug sich, <rs type="place" subtype="country" ref="#place_b3a3a0c6d2cb7b5adc8d3568f73ad8b2">Nassau</rs> zog sich zurück.
+                        <rs type="person" ref="hassenpflug-ludwig" key="hassenpflug-ludwig">Hassenpflug</rs> hielt mich in
+                        <rs type="place" subtype="place" key="kassel" ref="#place_806119540e45af1f044b7a827623d25f">Cassel</rs> fest, beschäftigte mich in
                     wichtigen politischen Angelegenheiten, ich hatte Gelegenheit dem Prinzregenten
                     die wesentlichen Dienste zu leisten, ja ich kann sagen, daß ich bei einer
                     ernsten Veranlassung ihn vom Untergang rettete. Dadurch nämlich, daß der mich
-                    väterlich liebende französische Gesandte in <placeName ref="#place_d0af1daaf551d7122bca625ff338e705">Kassel</placeName>,
-                        <persName key="cabre-august-de-sabatier">Herr von Cabre</persName>, mir
+                    väterlich liebende französische Gesandte in <rs type="place" subtype="place" ref="#place_d0af1daaf551d7122bca625ff338e705">Kassel</rs>,
+                        <rs type="person" ref="cabre-august-de-sabatier" key="cabre-august-de-sabatier">Herr von Cabre</rs>, mir
                     Kenntnis von einer Depesche des französischen Gesandten in
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <persName key="maison-nicolas">Marschall
-                        Maison</persName>, ertheilte, worin die Verhandlungen zwischen <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oestreich</country> und <country key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</country> enthalten waren, die darauf abzweckten, den unfähigen
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <rs type="person" ref="maison-nicolas" key="maison-nicolas">Marschall
+                        Maison</rs>, ertheilte, worin die Verhandlungen zwischen <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oestreich</rs> und <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> enthalten waren, die darauf abzweckten, den unfähigen
                     sittenlosen Prinzen von der Regierung zu entfernen. Ich habe Tag und Nacht mit
-                        <persName key="hassenpflug-ludwig">Hassenpflug</persName> gearbeitet, um die
+                        <rs type="person" ref="hassenpflug-ludwig" key="hassenpflug-ludwig">Hassenpflug</rs> gearbeitet, um die
                     zürnenden Großmächte zu beschwichtigen. Der Prinz ließ mir die Stelle eines
                     Legationsraths versprechen!!“ – „Der Haß der Liberalen gegen mich steigerte sich
-                    aufs höchste. Als <persName key="hassenpflug-ludwig">Hassenpflug</persName> zum
+                    aufs höchste. Als <rs type="person" ref="hassenpflug-ludwig" key="hassenpflug-ludwig">Hassenpflug</rs> zum
                     ersten Male gestürzt wurde, nahm ich meine Entlassung und kehrte nach
-                        <placeName ref="#place_f1ef0ef1eaa60c0aeff7203df96508fd">Aachen</placeName> zurück. Die Stadt verdankt mir die Einführung
+                        <rs type="place" subtype="place" ref="#place_f1ef0ef1eaa60c0aeff7203df96508fd">Aachen</rs> zurück. Die Stadt verdankt mir die Einführung
                     der barmherzigen Schwestern. Vom Domcapitel wurde ich ersucht, einen Plan zur
                     Wiederherstellung des Domes zu entwerfen, nebst einer Denkschrift, weil die
                     preußische Regierung ihn der protestantischen Gemeinde überliefern wollte. Ich
                     arbeitete aufs rüstigste, um die Kirche den Katholiken zu erhalten, was auch
-                    gelang. Deßungeachtet sandte mir der <persName key="friedrich-wilhelm-III">König
-                        von Preußen</persName> den rothen Adlerorden.“<lb/>
-                    <persName key="ahrens-heinrich">Ahrens</persName> begegnete mir letzthin und fragte:
+                    gelang. Deßungeachtet sandte mir der <rs type="person" ref="friedrich-wilhelm-III" key="friedrich-wilhelm-III">König
+                        von Preußen</rs> den rothen Adlerorden.“<lb/>
+                    <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs> begegnete mir letzthin und fragte:
                     „Was macht Bock?“ „Ich kümmere mich Nichts mehr um ihn, er spielt den Liberalen
-                    und schilt über meinen Ultramontanismus.“ „Das ist sonderbar, meinte <persName key="ahrens-heinrich">Ahrens</persName>, ich habe in
-                        <country ref="#place_361e734b7e9d674efb5e3ac441e2c149">Belgien</country> seiner Zeit Alles gethan, ihn nach <orgName key="universitaet-loewen">Löwen</orgName> zu bringen, weil ich der
-                    Überzeugung war, daß <persName key="bock-cornelius-peter">Bock</persName> zu gar
-                    keiner Partei gehört.“ In <placeName ref="#place_63714a562352ef3ae472da20ed0384c0">Baden-Baden</placeName> warf mir Bock im
-                    letzten Spätjahr vor, daß ich mit dem bekannten <persName key="laubis">Laubis</persName> an einem Tisch gesessen. Es war in einem Gasthof, alle
-                    Plätze besetzt, <persName key="laubis">Laubis</persName> und zwei andere
+                    und schilt über meinen Ultramontanismus.“ „Das ist sonderbar, meinte <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs>, ich habe in
+                        <rs type="place" subtype="country" ref="#place_361e734b7e9d674efb5e3ac441e2c149">Belgien</rs> seiner Zeit Alles gethan, ihn nach <orgName key="universitaet-loewen">Löwen</orgName> zu bringen, weil ich der
+                    Überzeugung war, daß <rs type="person" ref="bock-cornelius-peter" key="bock-cornelius-peter">Bock</rs> zu gar
+                    keiner Partei gehört.“ In <rs type="place" subtype="place" ref="#place_63714a562352ef3ae472da20ed0384c0">Baden-Baden</rs> warf mir Bock im
+                    letzten Spätjahr vor, daß ich mit dem bekannten <rs type="person" ref="laubis" key="laubis">Laubis</rs> an einem Tisch gesessen. Es war in einem Gasthof, alle
+                    Plätze besetzt, <rs type="person" ref="laubis" key="laubis">Laubis</rs> und zwei andere
                     Professoren, die alle meine Lehrer am Gymnasium gewesen, standen auf und
                     begrüßten mich freudig. Ich glaube, daß es roh gewesen wäre, den Gruß der alten
                     Lehrer nicht zu erwiedern.<lb/>Alles in Allem erwogen kann ich jetzt nur sagen,
-                    dieser <persName key="bock-cornelius-peter">Bock</persName> hat zwei intriguant
+                    dieser <rs type="person" ref="bock-cornelius-peter" key="bock-cornelius-peter">Bock</rs> hat zwei intriguant
                     geschnörkelte Hörner, auf dem einen steht Katholicismus, auf dem andern
-                    Liberalismus.<lb/>Mit <persName key="hacker-karl">Hacker</persName>, der eine
+                    Liberalismus.<lb/>Mit <rs type="person" ref="hacker-karl" key="hacker-karl">Hacker</rs>, der eine
                     durch und durch edle Natur und für den Kaiser und Oestreich hochbegeistert ist,
-                    sprach ich über <persName key="bock-cornelius-peter">Bock</persName> in
-                        <placeName ref="#place_63714a562352ef3ae472da20ed0384c0">Baden-Baden</placeName>, fragte ihn, warum er seiner Zeit, als er
-                    durch seinen Einfluß auf den <persName key="leopold-baden">Großherzog
-                        Leopold</persName> allmächtig gewesen, nicht für <persName key="bock-cornelius-peter">Bocks</persName> Anstellung in Freiburg gewirkt?
+                    sprach ich über <rs type="person" ref="bock-cornelius-peter" key="bock-cornelius-peter">Bock</rs> in
+                        <rs type="place" subtype="place" ref="#place_63714a562352ef3ae472da20ed0384c0">Baden-Baden</rs>, fragte ihn, warum er seiner Zeit, als er
+                    durch seinen Einfluß auf den <rs type="person" ref="leopold-baden" key="leopold-baden">Großherzog
+                        Leopold</rs> allmächtig gewesen, nicht für <rs type="person" ref="bock-cornelius-peter" key="bock-cornelius-peter">Bocks</rs> Anstellung in Freiburg gewirkt?
                     „Weil mir gesagt worden, daß er gegen die Katholiken seyn wolle.“ Ich redete es
-                    ihm aus und drang in ihn, bis er den Gedanken fahren ließ; ja als <persName key="bock-cornelius-peter">Bock</persName> mir etwas für Oestreich höchst
-                    Wichtiges mittheilte, schrieb ich es dem nach <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>
-                    reisenden <persName key="hacker-karl">Hacker</persName>, um ihn davon zu
+                    ihm aus und drang in ihn, bis er den Gedanken fahren ließ; ja als <rs type="person" ref="bock-cornelius-peter" key="bock-cornelius-peter">Bock</rs> mir etwas für Oestreich höchst
+                    Wichtiges mittheilte, schrieb ich es dem nach <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>
+                    reisenden <rs type="person" ref="hacker-karl" key="hacker-karl">Hacker</rs>, um ihn davon zu
                     überzeugen, daß die Acquisition dieses Mannes für Oestreich ein Gewinn
                     wäre.<lb/>Trotz der Zweideutigkeit dieses Mannes und der schmählichen Art, wie
                     er sich gegen mich benahm, muß ich doch sagen, es ist Jammerschade, wenn dieses
@@ -156,55 +155,55 @@
                     seinem Leben zu einer entsprechenden Stellung kam, und warum er stets über
                     Intriguen, die man gegen ihn spinne, klagt. Der Grund liegt rein in ihm selber.
                     Wenn man ihn verwenden wollte, so müßte man ihn in eine Stellung bringen, wo er
-                    keine Intriguen machen oder tödtlich compromittirt werden könnte, wie <persName key="napoleon-bonaparte">Napoleon</persName> sagte, „ich habe meinen
+                    keine Intriguen machen oder tödtlich compromittirt werden könnte, wie <rs type="person" ref="napoleon-bonaparte" key="napoleon-bonaparte">Napoleon</rs> sagte, „ich habe meinen
                     Franzosen ein Loch durch einen Felsen gezeigt, dort müßt ihr hindurch, wo nicht
                     so seid ihr des Todes, dort aber ist Ruhm und Reichthum.“<lb/>Noch komme ich an
-                    die Frage von Ihro Excellenz wegen <persName key="bock-cornelius-peter">Bocks</persName> Antheilnahme an der Dekanatswahl. Ich habe mich genau
-                    erkundigt, habe aber nur Folgendes erfahren. <persName key="weinhold-karl">Weinhold</persName> steht intimst mit <persName key="schreiner-gustav-franz">Schreiner</persName>, <persName key="schreiner-gustav-franz">Schreiner</persName> intimst mit <persName key="bock-cornelius-peter">Bock</persName>. Dieser nannte, ehe er abreiste,
-                        <persName key="schreiner-gustav-franz">Schreiner</persName> noch „seinen
-                    Gott“. In letzter Zeit war ein gewisser <persName key="ilwof-franz">Dr.
-                        Ilwof</persName>, Lehramtspraktikant, viel bei <persName key="bock-cornelius-peter">Bock</persName>. Derselbe ist ein fleißiger
-                    junger Mann, aber ohne Talent. Obschon <persName key="weinhold-karl">Weinhold</persName> gegen mich wie gegen <persName key="gabriel-lorenz">Gabriel</persName> sich früher geäußert, <persName key="ilwof-franz">Ilwof</persName> capire die einfachsten Sachen nicht, so gab ihm doch
-                        <persName key="weinhold-karl">Weinhold</persName> letztes Spätjahr eine
-                    Empfehlung an <persName key="karajan-theodor">Karajan</persName> mit, die zur
-                    Folge hatte, daß <persName key="ilwof-franz">Ilwof</persName> Mitarbeiter der
+                    die Frage von Ihro Excellenz wegen <rs type="person" ref="bock-cornelius-peter" key="bock-cornelius-peter">Bocks</rs> Antheilnahme an der Dekanatswahl. Ich habe mich genau
+                    erkundigt, habe aber nur Folgendes erfahren. <rs type="person" ref="weinhold-karl" key="weinhold-karl">Weinhold</rs> steht intimst mit <rs type="person" ref="schreiner-gustav-franz" key="schreiner-gustav-franz">Schreiner</rs>, <rs type="person" ref="schreiner-gustav-franz" key="schreiner-gustav-franz">Schreiner</rs> intimst mit <rs type="person" ref="bock-cornelius-peter" key="bock-cornelius-peter">Bock</rs>. Dieser nannte, ehe er abreiste,
+                        <rs type="person" ref="schreiner-gustav-franz" key="schreiner-gustav-franz">Schreiner</rs> noch „seinen
+                    Gott“. In letzter Zeit war ein gewisser <rs type="person" ref="ilwof-franz" key="ilwof-franz">Dr.
+                        Ilwof</rs>, Lehramtspraktikant, viel bei <rs type="person" ref="bock-cornelius-peter" key="bock-cornelius-peter">Bock</rs>. Derselbe ist ein fleißiger
+                    junger Mann, aber ohne Talent. Obschon <rs type="person" ref="weinhold-karl" key="weinhold-karl">Weinhold</rs> gegen mich wie gegen <rs type="person" ref="gabriel-lorenz" key="gabriel-lorenz">Gabriel</rs> sich früher geäußert, <rs type="person" ref="ilwof-franz" key="ilwof-franz">Ilwof</rs> capire die einfachsten Sachen nicht, so gab ihm doch
+                        <rs type="person" ref="weinhold-karl" key="weinhold-karl">Weinhold</rs> letztes Spätjahr eine
+                    Empfehlung an <rs type="person" ref="karajan-theodor" key="karajan-theodor">Karajan</rs> mit, die zur
+                    Folge hatte, daß <rs type="person" ref="ilwof-franz" key="ilwof-franz">Ilwof</rs> Mitarbeiter der
                     literarischen Beilage zur Wiener Zeitung wurde. Vielleicht gehört es zu den von
-                        <persName key="bock-cornelius-peter">Bock</persName> prophezeiten
-                    Nadelstichen, daß dieser <persName key="ilwof-franz">Ilwof</persName> in einem
+                        <rs type="person" ref="bock-cornelius-peter" key="bock-cornelius-peter">Bock</rs> prophezeiten
+                    Nadelstichen, daß dieser <rs type="person" ref="ilwof-franz" key="ilwof-franz">Ilwof</rs> in einem
                     Bericht über die Sitzung des hiesigen historischen Vereins alle Vorträge lobte,
-                    namentlich <persName key="weinhold-karl">Weinhold</persName> zu den Sternen hob,
+                    namentlich <rs type="person" ref="weinhold-karl" key="weinhold-karl">Weinhold</rs> zu den Sternen hob,
                     von dem meinen nur bemerkte, ich hätte ihn gelesen (Ich las ihn vor, weil auf
                     vorhergehende Anfrage, ob frei vorzutragen Usus wäre, erklärte wurde, nein) und
                     nicht einmal das Thema über das ich sprach, richtig anzuführen für gut fand.
                     Mein Vortrag war übrigens unterbrochen von den lauten Beifallsbezeugungen des
-                        <persName key="johann-erzherzog">Erzherzogs</persName> und die Versammlung
+                        <rs type="person" ref="johann-erzherzog" key="johann-erzherzog">Erzherzogs</rs> und die Versammlung
                     verlangte einstimmig den Druck. Solche und andere Nadelstiche tödten nun noch
-                    nicht. Diesem <persName key="ilwof-franz">Ilwof</persName> scheint <persName key="bock-cornelius-peter">Bock</persName> vor Kurzem den Aufsatz über
+                    nicht. Diesem <rs type="person" ref="ilwof-franz" key="ilwof-franz">Ilwof</rs> scheint <rs type="person" ref="bock-cornelius-peter" key="bock-cornelius-peter">Bock</rs> vor Kurzem den Aufsatz über
                     Auer’s Julian<note xml:id="note_3">Vgl. Johann Evangelist Auer, Kaiser Julian
                         der Abtrünnige im Kampf mit den Kirchenvätern seiner Zeit. Wien 1855.</note>
-                    in die Feder dictirt zu haben, denn <persName key="bock-cornelius-peter">Bock</persName> äußerte im Mai als wir über dieses Buch sprachen, beinahe
-                    wörtlich das Nämliche. <persName key="ilwof-franz">Ilwof</persName> bearbeitet
-                    einen dato hier anwesenden <persName key="klun-vinzenz-ferrer">Dr.
-                        Klun</persName> aus <placeName ref="#place_4c08517eb5fb97b0e860b2e0b82d5f05">Laibach</placeName>, daß <persName key="bock-cornelius-peter">Bock</persName> Ehrenmitglied des dortigen
+                    in die Feder dictirt zu haben, denn <rs type="person" ref="bock-cornelius-peter" key="bock-cornelius-peter">Bock</rs> äußerte im Mai als wir über dieses Buch sprachen, beinahe
+                    wörtlich das Nämliche. <rs type="person" ref="ilwof-franz" key="ilwof-franz">Ilwof</rs> bearbeitet
+                    einen dato hier anwesenden <rs type="person" ref="klun-vinzenz-ferrer" key="klun-vinzenz-ferrer">Dr.
+                        Klun</rs> aus <rs type="place" subtype="place" ref="#place_4c08517eb5fb97b0e860b2e0b82d5f05">Laibach</rs>, daß <rs type="person" ref="bock-cornelius-peter" key="bock-cornelius-peter">Bock</rs> Ehrenmitglied des dortigen
                     historischen Vereines werde und wird wahrscheinlich noch dazu benutzt werden,
                     Bock zum Abschied in den Oesterreichischen Blättern für Literatur mit
-                    bengalischem Feuer zu illuminiren.<lb/>Von einer directen Betheiligung <persName key="bock-cornelius-peter">Bocks</persName> an der Wahl konnte ich Nichts
+                    bengalischem Feuer zu illuminiren.<lb/>Von einer directen Betheiligung <rs type="person" ref="bock-cornelius-peter" key="bock-cornelius-peter">Bocks</rs> an der Wahl konnte ich Nichts
                     erfahren, obschon ich mir gestern und vorgestern alle Mühe gab, Erkundigungen
                     einzuziehen. Die Decanatswahl hing mit der Rectorswahl zusammen. Mir war zuerst
-                    angedeutet worden, ich sollte Rector, <persName key="weinhold-karl">Weinhold</persName> Decan werden. Ich hielt dieses Angebot für einen
-                    Lockvogel und die Wahl <persName key="weinhold-karl">Weinholds</persName> für
+                    angedeutet worden, ich sollte Rector, <rs type="person" ref="weinhold-karl" key="weinhold-karl">Weinhold</rs> Decan werden. Ich hielt dieses Angebot für einen
+                    Lockvogel und die Wahl <rs type="person" ref="weinhold-karl" key="weinhold-karl">Weinholds</rs> für
                     eine heikliche, der Facultät wie dem Ministerium Schwierigkeiten bereitende
-                    Sache. Als Candidaten für die Rectorswahl traten dann auf <persName key="hruschauer-franz">Hruschauer</persName> und <persName key="gabriel-lorenz">Gabriel</persName>. Für jenen gewann <persName key="schreiner-gustav-franz">Schreiner</persName> die Stimmen der Juristen,
+                    Sache. Als Candidaten für die Rectorswahl traten dann auf <rs type="person" ref="hruschauer-franz" key="hruschauer-franz">Hruschauer</rs> und <rs type="person" ref="gabriel-lorenz" key="gabriel-lorenz">Gabriel</rs>. Für jenen gewann <rs type="person" ref="schreiner-gustav-franz" key="schreiner-gustav-franz">Schreiner</rs> die Stimmen der Juristen,
                     für diesen waren die Philosophen; von den Theologen hing die Entscheidung ab.
-                    Nach dem ersten Scrutinium war klar, daß <persName key="gabriel-lorenz">Gabriel</persName> nicht durchgehen könne, und nach nochmaliger Wahl ging
-                        <persName key="knar-joseph">Knar</persName> aus der Urne
+                    Nach dem ersten Scrutinium war klar, daß <rs type="person" ref="gabriel-lorenz" key="gabriel-lorenz">Gabriel</rs> nicht durchgehen könne, und nach nochmaliger Wahl ging
+                        <rs type="person" ref="knar-joseph" key="knar-joseph">Knar</rs> aus der Urne
                     hervor.<lb/>Unmittelbar nachher war die Dekanswahl; dreimal wurde gewählt,
-                        <persName key="knar-joseph">Knar</persName>, <persName key="tangl-karlmann">Tangl</persName> und ich stimmten beharrlich für <persName key="hummel-karl">Hummel</persName>, <persName key="czermak-johann-nepomuk">Czermak</persName>, <persName key="hoffmann-emanuel">Hofmann</persName>
-                    [sic!] und <persName key="gabriel-lorenz">Gabriel</persName> für <persName key="weinhold-karl">Weinhold</persName>. Die Stimme <persName key="hruschauer-franz">Hruschauers</persName> entschied für <persName key="weinhold-karl">Weinhold</persName>, dessen Wahl namentlich unter dem
-                    Clerus das größte Aufsehen erregte. <persName key="gabriel-lorenz">Gabriel</persName> war in der Frühe noch von einem Unbetheiligten
-                    aufgefordert für <persName key="hummel-karl">Hummel</persName> zu stimmen,
-                    erklärte aber bedauernd, daß er <persName key="weinhold-karl">Weinhold</persName> schon das Wort gegeben habe. Ihn bestimmte der Vorgang
-                    der Wahl von <persName key="ahrens-heinrich">Ahrens</persName>, gegen den im
+                        <rs type="person" ref="knar-joseph" key="knar-joseph">Knar</rs>, <rs type="person" ref="tangl-karlmann" key="tangl-karlmann">Tangl</rs> und ich stimmten beharrlich für <rs type="person" ref="hummel-karl" key="hummel-karl">Hummel</rs>, <rs type="person" ref="czermak-johann-nepomuk" key="czermak-johann-nepomuk">Czermak</rs>, <rs type="person" ref="hoffmann-emanuel" key="hoffmann-emanuel">Hofmann</rs>
+                    [sic!] und <rs type="person" ref="gabriel-lorenz" key="gabriel-lorenz">Gabriel</rs> für <rs type="person" ref="weinhold-karl" key="weinhold-karl">Weinhold</rs>. Die Stimme <rs type="person" ref="hruschauer-franz" key="hruschauer-franz">Hruschauers</rs> entschied für <rs type="person" ref="weinhold-karl" key="weinhold-karl">Weinhold</rs>, dessen Wahl namentlich unter dem
+                    Clerus das größte Aufsehen erregte. <rs type="person" ref="gabriel-lorenz" key="gabriel-lorenz">Gabriel</rs> war in der Frühe noch von einem Unbetheiligten
+                    aufgefordert für <rs type="person" ref="hummel-karl" key="hummel-karl">Hummel</rs> zu stimmen,
+                    erklärte aber bedauernd, daß er <rs type="person" ref="weinhold-karl" key="weinhold-karl">Weinhold</rs> schon das Wort gegeben habe. Ihn bestimmte der Vorgang
+                    der Wahl von <rs type="person" ref="ahrens-heinrich" key="ahrens-heinrich">Ahrens</rs>, gegen den im
                     Ganzen der Clerus nicht übel gestimmt ist.<lb/>Was die Vorwürfe gegen meine
                     historischen Vorträge angeht, so muß ich Ihro Excellenz betheuern, daß ich stets
                     streng den Gang der Wissenschaft gegangen bin, streng ihren Gesetzen gefolgt
@@ -213,21 +212,21 @@
                     Stunden wöchentlich immer 10 oder 9 Stunden gelesen. Ich bin im Ganzen zufrieden
                     mit dem Erfolg; diesen Sommer hatte ich 61 inscribirte Zuhörer, mit deren Fleiß
                     ich sehr zufrieden war. Als ich am Anfang des Semesters in der römischen
-                    Kaisergeschichte auf die Bedeutung des <persName key="sueton">Suetonius</persName> hinwies und mich bereit erklärte, ihn mit den Herren
+                    Kaisergeschichte auf die Bedeutung des <rs type="person" ref="sueton" key="sueton">Suetonius</rs> hinwies und mich bereit erklärte, ihn mit den Herren
                     zu lesen, erklärten sich weitere 9 dazu bereit. 7 von diesen 9 sind treu
                     geblieben, und mit ihnen ist in diesem kurzen Semester der ganze Sueton
-                    durchgenommen worden. Nachdem <persName key="julius-caesar">Julius
-                        Caesar</persName> und <persName key="augustus">Augustus</persName> gemeinsam
+                    durchgenommen worden. Nachdem <rs type="person" ref="julius-caesar" key="julius-caesar">Julius
+                        Caesar</rs> und <rs type="person" ref="augustus" key="augustus">Augustus</rs> gemeinsam
                     gelesen waren, mußte Jeder einen von den folgenden Cäsaren wählen und einen
-                    Vortrag darüber halten. <persName key="tacitus">Tacitus</persName> und <persName key="cassius-dio">Dio Cassius</persName> wurden beigezogen. Die Studirenden
-                        <persName>Boser</persName>, <persName key="lexer-matthias">Lexer</persName>,
-                        <persName key="radits-peter">Radits</persName>, <persName key="sacher-masoch-leopold">Sacher-Masoch</persName> haben sehr gut
+                    Vortrag darüber halten. <rs type="person" ref="tacitus" key="tacitus">Tacitus</rs> und <rs type="person" ref="cassius-dio" key="cassius-dio">Dio Cassius</rs> wurden beigezogen. Die Studirenden
+                        <rs type="person" ref="">Boser</rs>, <rs type="person" ref="lexer-matthias" key="lexer-matthias">Lexer</rs>,
+                        <rs type="person" ref="radits-peter" key="radits-peter">Radits</rs>, <rs type="person" ref="sacher-masoch-leopold" key="sacher-masoch-leopold">Sacher-Masoch</rs> haben sehr gut
                     gearbeitet, letzterer vor Kurzem in der Geschichte ein glänzendes Rigorosum
                     gemacht und wird, wenn ihm nicht ein Brustleiden einen frühen Tod bringt, einst
                     ein tüchtiger Historiker werden. Für den nächsten Winter, wo ich Geschichte des
                     Mittelalters und besonders für Juristen ausführliche römische Geschichte lesen
                     will, hat sich schon wieder eine Anzahl angemeldet zur gemeinsamen Lectüre
-                    römischer Geschichtschreiber und daran sich knüpfende Disputationen. In <orgName key="universitaet-graz">Gratz</orgName> galt immer <persName key="rotteck-karl">Rotteck</persName> als das Ideal eines
+                    römischer Geschichtschreiber und daran sich knüpfende Disputationen. In <orgName key="universitaet-graz">Gratz</orgName> galt immer <rs type="person" ref="rotteck-karl" key="rotteck-karl">Rotteck</rs> als das Ideal eines
                     Geschichtschreibers; dieser oberflächlichen, in allen großen Erscheinungen der
                     Geschichte nur das liberale oder antiliberale Element beachtenden, apriorisch
                     verfahrenden Geschichtsanschauung wirkt man bei der Jugend am besten entgegen,
@@ -237,10 +236,10 @@
                     ich dieses ganze Semester nur einmal beigezogen worden. Die Studenten wundern
                     sich, warum der Mann vom Fach sie nie examinire.<lb/>Ich schließe dieses
                     Schreiben mit dem Ausdruck des Dankes für die schönen Bücher, die uns durch die
-                    Verwendung Ihrer Excellenz aus <country key="england" ref="#place_f48861ca24e26a23a923ca68657079f4">England</country> und
-                        <country key="belgien" ref="#place_f79ffe9e826a19f9f6a446c90e21c4e3">Belgien</country> zugekommen sind; es ist ein
+                    Verwendung Ihrer Excellenz aus <rs type="place" subtype="country" key="england" ref="#place_f48861ca24e26a23a923ca68657079f4">England</rs> und
+                        <rs type="place" subtype="country" key="belgien" ref="#place_f79ffe9e826a19f9f6a446c90e21c4e3">Belgien</rs> zugekommen sind; es ist ein
                     großartiges Geschenk und für mich um so mehr werth, als ich durch die aus
-                        <country key="england" ref="#place_f48861ca24e26a23a923ca68657079f4">England</country> gesandten Werke in Stand gesetzt
+                        <rs type="place" subtype="country" key="england" ref="#place_f48861ca24e26a23a923ca68657079f4">England</rs> gesandten Werke in Stand gesetzt
                     bin eine schon früher begonnene literarische Arbeit in Bälde zu vollenden. Durch
                     einen Artikel in der hiesigen Zeitung suchte ich in der hiesigen Bevölkerung ein
                     Interesse für unsere Universitätsbibliothek und ein Gefühl des Dankes für die

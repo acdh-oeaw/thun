@@ -1,17 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName role="recipient">Unbekannt [<persName key="fries-flora">Flora
-                            Fries</persName>?]</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="" role="recipient">Unbekannt [<rs type="person" ref="fries-flora" key="fries-flora">Flora
+                            Fries</rs>?]</rs>
                     <note xml:id="note_1">Im Katalog der
                         Berliner Staatsbibliothek ist Flora Gräfin Fries als Adressatin
                         verzeichnet.</note>
                     <lb/>
-                    <placeName ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</placeName>, <date when="--04-03">3. April [1851]</date>
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, <date when="--04-03">3. April [1851]</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -35,7 +34,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -46,7 +45,7 @@
                     <term>Nationalitätenkonflikt</term>
                 </index>
                 <p>Gnädige Fürstin!<lb/>Ich freue mich Ihnen mittheilen zu können, daß Ihr Protegé
-                        <persName key="pohl-josef">Pohl</persName> die zunächst gewünschte
+                        <rs type="person" ref="pohl-josef" key="pohl-josef">Pohl</rs> die zunächst gewünschte
                     Anstellung als Assistent am <orgName key="polytechnisches-institut-wien">polytechnischen Institute</orgName> erlangt hat.<lb/>Ich wage es an diese
                     Nachricht eine Bitte zu knüpfen. – Es ist endlich gelungen, eine wirklich gute
                     böhmische Zeitung zu Stande zu bringen, welche seit einem halben Jahre hier

@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="treitler-anton" role="sender:beamter">Anton
-                        Treitler</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="treitler-anton" key="treitler-anton" role="sender:beamter">Anton
+                        Treitler</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</placeName>, <date when="1855-03-16">16. März 1855</date>
+                    <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs>, <date when="1855-03-16">16. März 1855</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -51,7 +50,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -63,16 +62,16 @@
                 </index>
                 <p>Lemberg, 16. März 1855</p>
                 <p>Euer Excellenz,<lb/>Hochgeborner Herr Graf!</p>
-                <p>Euer Excellenz haben meine dem Herrn <persName key="baumgartner-andreas">Finanzminister</persName> ehrfurchtsvoll unterbreitete Darstellung des
-                    geistlichen Stiftungswesens in <region key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galizien</region> einer
+                <p>Euer Excellenz haben meine dem Herrn <rs type="person" ref="baumgartner-andreas" key="baumgartner-andreas">Finanzminister</rs> ehrfurchtsvoll unterbreitete Darstellung des
+                    geistlichen Stiftungswesens in <rs type="place" subtype="region" key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galizien</rs> einer
                     hohen Aufmerksamkeit huldreichst zu würdigen geruht, infolge dessen meine im
                     Intresse des allerhöchsten Dienstes gestellten Anträge wegen Regulirung
                     desselben einer reiflichen Begutachtung der hierländigen Behörden unterzogen
                     werden. Da also nunmehr die Regulirung des geistlichen Stiftungswesens in
-                        <region key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galizien</region> in naher Aussicht steht, so glaube
+                        <rs type="place" subtype="region" key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galizien</rs> in naher Aussicht steht, so glaube
                     ich, Euer Excellenz zu diesem Zwecke noch Folgendes ehrfurchtsvollst
-                    unterbreiten zu dürfen, was ich dem Herrn <persName key="baumgartner-andreas">Finanzminister</persName> bereits auch angezeigt habe.</p>
-                <p>I. Bei dem so kläglichen Bestande der geistlichen Stiftungen in <region key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galizien</region>, und weil dieses Stiftungswesen in früherer
+                    unterbreiten zu dürfen, was ich dem Herrn <rs type="person" ref="baumgartner-andreas" key="baumgartner-andreas">Finanzminister</rs> bereits auch angezeigt habe.</p>
+                <p>I. Bei dem so kläglichen Bestande der geistlichen Stiftungen in <rs type="place" subtype="region" key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galizien</rs>, und weil dieses Stiftungswesen in früherer
                     Zeit noch kümmerlicher als gegenwärtig behandelt wurde, über manche geistliche
                     Stiftung gar kein Stiftbrief errichtet wurde, manche Stiftung noch gar nicht in
                     Erfüllung gekommen ist, dürfte auch eine Regulirung der bereits bestehenden
@@ -147,9 +146,9 @@
                     Stiftungsgenußes Bestimmungen enthalten werden, nur in dem Falle von Anwendung
                     seyn werden, wenn der Stifter nicht selbst diesfalls ausdrücklich verfügt hat,
                     braucht nicht bemerkt zu werden.</p>
-                <p>II. In weiterer Erörterung dessen, was ich in meinem dem Herrn <persName key="baumgartner-andreas">Finanzminister</persName> unterbreiteten Schreiben
+                <p>II. In weiterer Erörterung dessen, was ich in meinem dem Herrn <rs type="person" ref="baumgartner-andreas" key="baumgartner-andreas">Finanzminister</rs> unterbreiteten Schreiben
                     in Betreff der Dotazion der Pfarrer nur im allgemeinen erwähnt habe, erlaube ich
-                    mir hier Folgendes näher anzuführen.<lb/>Die meisten Pfarrer in <region key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galizien</region> sind schon durch Dotazion oder auch auf
+                    mir hier Folgendes näher anzuführen.<lb/>Die meisten Pfarrer in <rs type="place" subtype="region" key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galizien</rs> sind schon durch Dotazion oder auch auf
                     andere Art in den Besitz von Holz-, Weide- u. a. Servitutsrechten gelangt, welche
                     gewöhnlich auch in den Pfarrinventarien aufgenommen erscheinen, und deren
                     Reinertrag denselben auch in der Congrua eingerechnet wird. Sie sind für die
@@ -182,7 +181,7 @@
                     Pfarrer ihre diesfälligen Beschwerden bei den Kreisämtern anzubringen haben, die
                     Kreisämter die Pfarrer im Besitze ihrer Gerechtsame erhalten und aushaftende
                     Gebühren und Ausstände im politischen Wege eintreiben sollen.<lb/>Als
-                    insbesondere in <region key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galizien</region> im Jahre 1794
+                    insbesondere in <rs type="place" subtype="region" key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galizien</rs> im Jahre 1794
                     diesfällige Anstände und Zweifel entstanden waren, und der von den
                     administrativen Behörden hierin zu nennende Vorgang allerhöchsten Orts in Frage
                     gebracht worden war, erfolgte mit hohem Hofkanzleidekrete vom 3. May 1794 Z. 584
@@ -247,7 +246,7 @@
                     sondern bald durch nachtheilige Erfolge belehrt, bald durch neuerliche
                     Verordnungen und Entscheidungen zurecht gewiesen einer veränderten Richtung
                     gefolgt, und hat sich bis zur Stunde noch auf keinen festen Boden fixirt. Wie
-                    ich in meinem Schreiben an den Herrn <persName key="baumgartner-andreas">Finanzminister</persName> dargetan, suchte man hieramts vom Jahre 1840
+                    ich in meinem Schreiben an den Herrn <rs type="person" ref="baumgartner-andreas" key="baumgartner-andreas">Finanzminister</rs> dargetan, suchte man hieramts vom Jahre 1840
                     angefangen die geistliche Dotazionsgerechtsame, nämlich wegen Bezügen in Geld
                     und natura nach rein privatrechtlichen Grundsätzen zu behandeln, und die
                     Competenz der politischen Behörden fand man unzulässig. Diese Ansicht, wiewohl
@@ -304,7 +303,7 @@
                     Familienansäßigkeiten geworden sind. Manche Pfarre hat 10 und auch mehrere
                     solche Grundstücke und Ansäßigkeiten.<lb/>Hinsichtlich derselben hat sich erst
                     in neuester Zeit für die Kirchen und bezüglich den Religionsfond eine Gefährde
-                    deutlich herausgestellt. In <region key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galizien</region> bestehen
+                    deutlich herausgestellt. In <rs type="place" subtype="region" key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galizien</rs> bestehen
                     keine ordentlichen Grundbücher, die Kirchen sind daher weder im physischen noch
                     im tabularmäßigen Besitze solcher Kirchengründe. Der eigentliche Übelstand liegt
                     aber darin, daß solche schon vor Dezennien, ohne Wissen und Bewilligung der

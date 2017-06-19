@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="fuchs-adalbert" role="sender:gelehrter">Adalbert
-                        Fuchs</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="fuchs-adalbert" key="fuchs-adalbert" role="sender:gelehrter">Adalbert
+                        Fuchs</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1853-04-08">8.
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1853-04-08">8.
                         April 1853</date>
                 </title>
             </titleStmt>
@@ -43,7 +42,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -113,7 +112,7 @@
                     dann verwaiset. Überdies wird es bei wachsender Zahl der Zuhörer gewiß schon im
                     nächsten Schuljahre nothwendig sein, sie auf den Exkursionen zu theilen und die
                     eine Hälfte durch den Assistenten führen zu lassen.<lb/>Der gehorsamst
-                    Gefertigte ist seit 3 Jahren im chemischen Laboratorium des <persName key="redtenbacher-josef">Professor Redtenbacher</persName>, der ihm mit der
+                    Gefertigte ist seit 3 Jahren im chemischen Laboratorium des <rs type="person" ref="redtenbacher-josef" key="redtenbacher-josef">Professor Redtenbacher</rs>, der ihm mit der
                     zuvorkommendsten Güte entgegen kam, mit Erdanalysen beschäftiget, wozu er aber
                     alles Nöthige selbst anschaffen muß. Da ich ohne eigenes Vermögen von meinem
                     Gehalte leben muß, so habe ich vor zwei Jahren um Ersatz dieser Kosten gebeten,

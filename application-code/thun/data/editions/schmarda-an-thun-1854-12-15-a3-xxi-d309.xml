@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="schmarda-ludwig" role="sender:gelehrter">Ludwig
-                        Schmarda</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="schmarda-ludwig" key="schmarda-ludwig" role="sender:gelehrter">Ludwig
+                        Schmarda</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1fc91e86962825bb745de53d1657b3e4">Sydney</placeName>, <date when="1854-12-15">15. Dezember 1854</date>
+                    <rs type="place" subtype="place" ref="#place_1fc91e86962825bb745de53d1657b3e4">Sydney</rs>, <date when="1854-12-15">15. Dezember 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -59,7 +58,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -72,8 +71,8 @@
                     <term>Universität Prag</term>
                 </index>
                 <p>Eure Excellenz!</p>
-                <p>Eure Excellenz geruthen den <persName key="strassoldo-graffemberg-michael">Herrn
-                        Statthalter von Steiermark</persName> zu beauftragen die von mir erbetene
+                <p>Eure Excellenz geruthen den <rs type="person" ref="strassoldo-graffemberg-michael" key="strassoldo-graffemberg-michael">Herrn
+                        Statthalter von Steiermark</rs> zu beauftragen die von mir erbetene
                     Procedur, in der gegen mich erhobenen Anschuldigung wegen Mißbrauch meiner
                     Stellung als öffentlicher Lehrer 1848 und 1849, vorzunehmen. Ich war von dem für
                     mich günstigen Ausgange im Vorhinein überzeugt und habe durch meine Freunde –
@@ -86,10 +85,10 @@
                     Über den Gang und die Ausdehnung meiner Forschungen im Nilthale habe ich Eurer
                     Excellenz bereits umständliche Anzeigen gemacht; die der Kaiserlichen Akademie
                     der Wissenschaften eingeschickten Resultate insofern sie die Naturgeschichte der
-                    wirbellosen Thiere <country key="aegypten" ref="#place_842e26ab3b54376d93e22b403f3f9728">Egyptens</country> [Ägyptens]
+                    wirbellosen Thiere <rs type="place" subtype="country" key="aegypten" ref="#place_842e26ab3b54376d93e22b403f3f9728">Egyptens</rs> [Ägyptens]
                     betreffen so schon von der Akademie durch den Druck veröffentlicht und wie ich
                     hoffe ein Separatdruck in den Händen Eurer Excellenz.<lb/> Vom Mai 1853
-                    bis Ende Jänner 1854 blieb ich in <country ref="#place_3ab61f8a771b31faaa066cd69b680320">Ceylon</country>. Der <persName key="friedau-franz">Ritter von Fridau</persName> und ich theilten die
+                    bis Ende Jänner 1854 blieb ich in <rs type="place" subtype="country" ref="#place_3ab61f8a771b31faaa066cd69b680320">Ceylon</rs>. Der <rs type="person" ref="friedau-franz" key="friedau-franz">Ritter von Fridau</rs> und ich theilten die
                     Arbeiten in der Weise, daß mein Freund die magnetisch-astronomischen
                     Bestimmungen, Botanik und Pflanzengeographie, ich Zoologie und Zoogeographie und
                     nach Maßgabe der Umstände barometrische Nivellirungen und meteorologische
@@ -101,35 +100,35 @@
                     Beziehung untersuchte; das erste Unternehmen dieser Art in welchem mein Freund
                     einen seltenen Muth und Ausdauer bewies und allen Entbehrungen in einer
                     unbewohnten und wegen ihrer Fieberluft gemiedenen Wildnis trotzte. Im September
-                    stieß <persName key="friedau-franz">von Fridau</persName> in <placeName key="trincomalee" ref="#place_555a786a710503513a1e7d431cf7ec35">Trincomalli</placeName> zu mir. Von dort gingen wir nach
-                        <placeName ref="#place_4866028918ba5927e585c8bfac2454b4">Batticaloa</placeName> und dann landein durch unbewohnte Gegenden
+                    stieß <rs type="person" ref="friedau-franz" key="friedau-franz">von Fridau</rs> in <rs type="place" subtype="place" key="trincomalee" ref="#place_555a786a710503513a1e7d431cf7ec35">Trincomalli</rs> zu mir. Von dort gingen wir nach
+                        <rs type="place" subtype="place" ref="#place_4866028918ba5927e585c8bfac2454b4">Batticaloa</rs> und dann landein durch unbewohnte Gegenden
                     unsere Provisionen mit uns führend, nach dem centralen Bergland. Auf dem Plateau
-                    von <placeName ref="#place_df4640f7c18b5b6fe34711842800f87e">Newera Ellia</placeName> machten wir einen dreiwöchentlichen
-                    Aufenthalt und gingen Ende November nach <placeName ref="#place_036d94d07016ace6460bf0e413d3e6b4">Point
-                    Galle</placeName>.<lb/>Von dort brachen wir Anfangs Dezember nach den südlichen
-                    elefantenreichen Berggegenden auf und erreichten zu Weihnachten den <placeName key="adams-peak" ref="#place_43ab54bf23819a92270f3465532279b5">Adamspick</placeName>. <persName key="friedau-franz">Von
-                        Fridau</persName> ging von dort in südöstlicher Richtung nach <region key="hambantota" ref="#place_60a3c8c9b3b009153e9fc1ec56869698">Hanbantotti</region> und ich durch das Thal des Kaluganga.
-                    Ich eilte von dort nach <placeName ref="#place_0f16f2953a5b6db73a3221b09bb9a30c">Belligam</placeName> an der Südküste, wo ich
+                    von <rs type="place" subtype="place" ref="#place_df4640f7c18b5b6fe34711842800f87e">Newera Ellia</rs> machten wir einen dreiwöchentlichen
+                    Aufenthalt und gingen Ende November nach <rs type="place" subtype="place" ref="#place_036d94d07016ace6460bf0e413d3e6b4">Point
+                    Galle</rs>.<lb/>Von dort brachen wir Anfangs Dezember nach den südlichen
+                    elefantenreichen Berggegenden auf und erreichten zu Weihnachten den <rs type="place" subtype="place" key="adams-peak" ref="#place_43ab54bf23819a92270f3465532279b5">Adamspick</rs>. <rs type="person" ref="friedau-franz" key="friedau-franz">Von
+                        Fridau</rs> ging von dort in südöstlicher Richtung nach <rs type="place" subtype="region" key="hambantota" ref="#place_60a3c8c9b3b009153e9fc1ec56869698">Hanbantotti</rs> und ich durch das Thal des Kaluganga.
+                    Ich eilte von dort nach <rs type="place" subtype="place" ref="#place_0f16f2953a5b6db73a3221b09bb9a30c">Belligam</rs> an der Südküste, wo ich
                     bis Mitte Jänner mit der Untersuchung der Meeresfauna beschäftigt war. Außer
                     einem reichen Material an höheren Thieren, dessen Aufarbeitung erst in Europa
                     erfolgen wird, sammelte ich eine sehr große Anzahl von Beobachtungen über
                     niedere Thierformen, Infusorien, Rhizopoden, Bryozoen, Strudelwürmer und
                     Ringelwürmer, mikroskopische Crustozeen und dergleichen. Die neuen Formen und
                     deren Organisation füllen 80 Blätter colorirter Zeichnungen. In die Zeit unseres
-                    Aufenthaltes in <placeName ref="#place_0f16f2953a5b6db73a3221b09bb9a30c">Belligam</placeName> fällt die Änderung und
+                    Aufenthaltes in <rs type="place" subtype="place" ref="#place_0f16f2953a5b6db73a3221b09bb9a30c">Belligam</rs> fällt die Änderung und
                     respective das Aufgeben unseres ursprünglichen Reiseplanes nach dem Festlande
-                    von <country ref="#place_ad541f7b37e76a13301951a0c8c0a102">Indien</country>. Zeichen von Unruhen im westlichen
-                        <region ref="#place_de8ecfb76ffdb23a941756aa253941a4">Himalaya</region> machten die Reise dahin unrathsam und
+                    von <rs type="place" subtype="country" ref="#place_ad541f7b37e76a13301951a0c8c0a102">Indien</rs>. Zeichen von Unruhen im westlichen
+                        <rs type="place" subtype="region" ref="#place_de8ecfb76ffdb23a941756aa253941a4">Himalaya</rs> machten die Reise dahin unrathsam und
                     Geschäftsverhältnisse erlaubten meinem Freunde nicht jenes Ausmaß von Zeit,
                     welche zur Erforschung des östlichen Himalajalandes nothwendig ist.<lb/>Ende
-                    Jänner verließen wir <country ref="#place_3ab61f8a771b31faaa066cd69b680320">Ceylon</country> und gingen nach einem kurzen
+                    Jänner verließen wir <rs type="place" subtype="country" ref="#place_3ab61f8a771b31faaa066cd69b680320">Ceylon</rs> und gingen nach einem kurzen
                     Aufenthalte in Mauritius ans Vorgebirge der guten Hoffnung. Dort trennte ich
                     mich im April von meinem Freunde, der nach Europa zurückkehrte. Es ist sehr zu
                     bedauern, daß ein Mann, der durch die Allseitigkeit seines Wissens, durch
                     Enthusiasmus für jedes wissenschaftliche Unternehmen und durch Ausdauer in
                     seinen Arbeiten einen ehrenvollen Platz verdient, genöthigt war seine Pläne
                     aufzugeben, um so mehr da es so selten der Fall ist, daß Private der
-                    Wissenschaft so bedeutende Opfer bringen als es <persName key="friedau-franz">Fridau</persName> that, der die besten und kostbarsten Instrumente für die
+                    Wissenschaft so bedeutende Opfer bringen als es <rs type="person" ref="friedau-franz" key="friedau-franz">Fridau</rs> that, der die besten und kostbarsten Instrumente für die
                     Reise anschaffte und alle Ausgaben aus seinem Vermögen allein bestritt und mich
                     in die Lage versetzte meine speciellen Forschungen fortzusetzen, nachdem unser
                     gemeinschaftliches Project in Folge der dringenden Umstände aufgegeben worden
@@ -139,25 +138,25 @@
                     reich und sehr werthvoll. Die neuen Formen nehmen 75 Tafelabbildungen ein, von
                     denen ungefähr 30 mikroskopische Organismen sind.<lb/>Am 23. Juni dieses Jahres
                     verließ ich das Vorgebirge der guten Hoffnung, erreichte am 11. August
-                        <placeName ref="#place_7c885b9c7c703a77befcabeea54944d5">Melbourne</placeName> im südlichen und am 26. August
-                        <placeName ref="#place_1fc91e86962825bb745de53d1657b3e4">Sydney</placeName> im östlichen <country ref="#place_f9bc40ca10f433dea7afac987494929a">Australien</country>.
-                    Den Monat September verwendete ich zu Untersuchungen in <placeName ref="#place_c3caeb1ae2bd5c41a3b515f90ba23b62">Port
-                        Jackson</placeName> und zu einer Reise am Flusse Hunter. An der
+                        <rs type="place" subtype="place" ref="#place_7c885b9c7c703a77befcabeea54944d5">Melbourne</rs> im südlichen und am 26. August
+                        <rs type="place" subtype="place" ref="#place_1fc91e86962825bb745de53d1657b3e4">Sydney</rs> im östlichen <rs type="place" subtype="country" ref="#place_f9bc40ca10f433dea7afac987494929a">Australien</rs>.
+                    Den Monat September verwendete ich zu Untersuchungen in <rs type="place" subtype="place" ref="#place_c3caeb1ae2bd5c41a3b515f90ba23b62">Port
+                        Jackson</rs> und zu einer Reise am Flusse Hunter. An der
                     Huntermündung machte ich in den kohlenführenden Gebirgsschichten eine große
-                    Sammlung von Pflanzenabdrücken, die ich unserem großen Botaniker <persName key="unger-franz">Unger</persName> zugedacht habe. Die Monate Oktober und
-                    November brachte ich in <country ref="#place_dce3df38fba715ba8923d70bf492e92f">Neuseeland</country> zu, wo es mir gelang
+                    Sammlung von Pflanzenabdrücken, die ich unserem großen Botaniker <rs type="person" ref="unger-franz" key="unger-franz">Unger</rs> zugedacht habe. Die Monate Oktober und
+                    November brachte ich in <rs type="place" subtype="country" ref="#place_dce3df38fba715ba8923d70bf492e92f">Neuseeland</rs> zu, wo es mir gelang
                     einige Knochen der ausgestorbenen Riesenvögel zu acquiren. Ich bin gegenwärtig
                     im Besitze einer fast vollständigen Tibia eines dieser Vögel, der nach den
                     Dimensionen dieses Knochens zu urtheilen 18–20 Fuß hoch gewesen sein muß. Die
                     Reste gehören dem Geschlechte Notornis an. Die Sammlungen der Seethiere
                     enthalten mehre seltene Thier und selbst neue Formen. Die Zahl der abgebildeten
-                    Formen ist bei 200 auf 27 Tafeln. Zurückgekehrt nach <region key="new-south-wales" ref="#place_1fd841746314bc1b32c9aad40e0dd1e0">Neu-Süd-Wales</region> bereiste ich die blauen Berge,
+                    Formen ist bei 200 auf 27 Tafeln. Zurückgekehrt nach <rs type="place" subtype="region" key="new-south-wales" ref="#place_1fd841746314bc1b32c9aad40e0dd1e0">Neu-Süd-Wales</rs> bereiste ich die blauen Berge,
                     die Goldländer von Bathurst und die Berge von Illawara, letzte durch ihre Palmen
                     und Baumfarnen eine fast tropische Vegetation darstellend. Die Novitäten füllen
                     35 Tafeln. Da es unmöglich ist hier Sammler zu bekommen und die extravaganten
                     Forderungen der Bootleute und Fischer meine Excursionen mit dem Schleppe und
                     Grundnetz sehr kostspielig machen (ich bezahle 2 Pfund Sterling für ein Boot mit
-                    1 Mann für 8 bis 10 Stunden) so habe ich beschlossen <region key="new-south-wales" ref="#place_1fd841746314bc1b32c9aad40e0dd1e0">Neu-Süd-Wales</region> bald zu verlassen. In wenigen
+                    1 Mann für 8 bis 10 Stunden) so habe ich beschlossen <rs type="place" subtype="region" key="new-south-wales" ref="#place_1fd841746314bc1b32c9aad40e0dd1e0">Neu-Süd-Wales</rs> bald zu verlassen. In wenigen
                     Tagen ist es 2 Jahre seit ich das Vaterland verließ; während dieser Zeit habe
                     ich in 3 Welttheilen ungeheure Strecken zu Wasser und zu Lande zurückgelegt, 24
                     Kisten Naturalien gesammelt, eine Menge neuer Thierformen entdeckt und deren
@@ -175,20 +174,20 @@
                     bringe ich eine Fülle von Anschauungen aus dem Naturleben, die für jeden
                     Naturforscher unschätzbar sind für mich aber besonders werthvoll, da sie meinem
                     Unterrichte die größte Wahrheit und Lebendigkeit geben werden.<lb/>Alles dieses
-                    macht es wünschenswerth meine Forschungen über einige Theile von <region key="amerika" ref="#place_1ce9287a63e38534efb11b85339cbe59">Amerika</region>, das noch im Kreise meiner Arbeiten fehlt,
+                    macht es wünschenswerth meine Forschungen über einige Theile von <rs type="place" subtype="region" key="amerika" ref="#place_1ce9287a63e38534efb11b85339cbe59">Amerika</rs>, das noch im Kreise meiner Arbeiten fehlt,
                     auszudehnen um die nöthigen Anhaltspunkte für die Geschichte und Verbreitung der
                     Thiere besonders der niedern Organismen aus allen Theilen der Erde zu gewinnen.
                     Ich habe folgende Punkte zur Basis meiner Untersuchungen gewählt: Einen in
-                        <region ref="#place_3cb2445a55eb3935352bd7afdf703cbf">Südamerika</region> außerhalb und einen innerhalb der Tropen, einen
+                        <rs type="place" subtype="region" ref="#place_3cb2445a55eb3935352bd7afdf703cbf">Südamerika</rs> außerhalb und einen innerhalb der Tropen, einen
                     in den Hochländern der Anden innerhalb der Wendekreise und eine der
                     westindischen Inseln. Eventuell – wenn Eure Excellenz mir einen Urlaub über die
-                    Dauer des Schuljahres 1855 gewähren – <country ref="#place_9f9522c27d18a4d0be503185e8bd172c">Guiana</country> und
-                        <country ref="#place_ae2fae0fc4b5a482c72d0aa8703e42e6">Brasilien</country> und eines der Polarländer von Amerika.<lb/>Ich
+                    Dauer des Schuljahres 1855 gewähren – <rs type="place" subtype="country" ref="#place_9f9522c27d18a4d0be503185e8bd172c">Guiana</rs> und
+                        <rs type="place" subtype="country" ref="#place_ae2fae0fc4b5a482c72d0aa8703e42e6">Brasilien</rs> und eines der Polarländer von Amerika.<lb/>Ich
                     gehe morgen mit einem Schiffe peruanischer Flagge von hier nach
-                        <placeName ref="#place_357d72df76e9b99e198d9a95a062b0a4">Valparaiso</placeName>, dann nach <placeName ref="#place_c50f4f1960426cf2b75774029040aef9">Callao</placeName>,
-                        <placeName key="guayaquil" ref="#place_118630edc7d5d47c165078109681a203">Guajaquil</placeName> und dem Hochlande von
-                        <placeName ref="#place_aadcd2017119cf69f6e31dcb24e52a02">Quito</placeName> und über <country ref="#place_6bec347f256837d3539ad619bd489de7">Panama</country> nach
-                        <country ref="#place_7a80746b9e3c40093a51b1c6d8ee127d">Jamaika</country>, wo ich die Entscheidung Eurer Excellenz erwarten
+                        <rs type="place" subtype="place" ref="#place_357d72df76e9b99e198d9a95a062b0a4">Valparaiso</rs>, dann nach <rs type="place" subtype="place" ref="#place_c50f4f1960426cf2b75774029040aef9">Callao</rs>,
+                        <rs type="place" subtype="place" key="guayaquil" ref="#place_118630edc7d5d47c165078109681a203">Guajaquil</rs> und dem Hochlande von
+                        <rs type="place" subtype="place" ref="#place_aadcd2017119cf69f6e31dcb24e52a02">Quito</rs> und über <rs type="place" subtype="country" ref="#place_6bec347f256837d3539ad619bd489de7">Panama</rs> nach
+                        <rs type="place" subtype="country" ref="#place_7a80746b9e3c40093a51b1c6d8ee127d">Jamaika</rs>, wo ich die Entscheidung Eurer Excellenz erwarten
                     will, indem ich es Ihrem hohen Ermessen anheimstelle auf welchen Zeitraum Eure
                     Excellenz die Urlaubsverlängerung auszudehnen geruhen.</p>
                 <p>Hochachtungsvoll<lb/>Euer Excellenz<lb/>unterthänigster Diener<lb/>Dr. Ludwig v.

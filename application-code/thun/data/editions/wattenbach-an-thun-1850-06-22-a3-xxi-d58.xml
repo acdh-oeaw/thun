@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="wattenbach-wilhelm" role="sender:gelehrter">Wilhelm
-                        Wattenbach</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="wattenbach-wilhelm" key="wattenbach-wilhelm" role="sender:gelehrter">Wilhelm
+                        Wattenbach</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_ee1611b61f5688e70c12b40684dbb395">Berlin</placeName>,
+                    <rs type="place" subtype="place" ref="#place_ee1611b61f5688e70c12b40684dbb395">Berlin</rs>,
                         <date when="1850-06-22">22. Juni 1850</date>
                 </title>
             </titleStmt>
@@ -39,7 +38,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -51,13 +50,13 @@
                 </index>
                 <p>Euer Excellenz</p>
                 <p>wird ohne Zweifel erinnerlich sein, daß mir im Monat November 1849 von Eurer
-                    Excellenz eine Anstellung in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oestreich</country> um
-                    Ostern 1850 zugesagt wurde. Der Herr Ministerialrath <persName key="exner-franz">Exner</persName> hat mir auf meine Anfrage deshalb im April dieses Jahres
-                    mittheilen lassen, daß die Absicht der Berufung nach <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oestreich</country> noch unverändert stattfinde, daß aber der Zeitpunkt
+                    Excellenz eine Anstellung in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oestreich</rs> um
+                    Ostern 1850 zugesagt wurde. Der Herr Ministerialrath <rs type="person" ref="exner-franz" key="exner-franz">Exner</rs> hat mir auf meine Anfrage deshalb im April dieses Jahres
+                    mittheilen lassen, daß die Absicht der Berufung nach <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oestreich</rs> noch unverändert stattfinde, daß aber der Zeitpunkt
                     noch nicht zu bestimmen sei.<lb/>Wenn nun eine solche Ungewißheit überhaupt
                     manche Unannehmlichkeit mit sich bringt, so ist jetzt ein Fall eingetreten,
                     welcher es mir dringend wünschenswerth macht, Gewißheit zu erlangen. Es ist
-                    nämlich jetzt in meiner Heimath, <region ref="#place_b20684bddefbc33f6db8d8adbf6bc4e7">Schleswig-Holstein</region>, die
+                    nämlich jetzt in meiner Heimath, <rs type="place" subtype="region" ref="#place_b20684bddefbc33f6db8d8adbf6bc4e7">Schleswig-Holstein</rs>, die
                     Altersklasse, welcher ich angehöre, zum Kriegsdienste einberufen. Bliebe ich
                     hier, so würde ich mich zu stellen haben und würde dann bis zum Ende des
                     Kriegszustands keine Verpflichtungen gegen einen fremden Staat eingehen
@@ -67,13 +66,13 @@
                     würde auch wohl bei der Berufung auf diese Verpflichtung keine Schwierigkeiten
                     zu besorgen haben. Dazu wäre es indessen unumgänglich nothwendig, eine ganz
                     bestimmte Zusage zu erhalten, daß ich noch vor Ende dieses Jahres eine
-                    Anstellung in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> (unter den früher bestimmten
+                    Anstellung in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> (unter den früher bestimmten
                     Bedingungen) zu erwarten habe.<lb/>Indem ich daher Euer Excellenz ehrerbietigst
                     anheim stelle, zu beschließen, was unter diesen Umständen Eurer Excellenz
                     angemessen erscheinen wird, bitte ich nur mich von der Entscheidung geneigtest
                     bald in Kenntnis setzen zu wollen, da ich sonst auf längere Zeit meine
                     wissenschaftliche Beschäftigung aufgeben müßte und in die Unmöglichkeit versetzt
-                    würde, dem mir in Aussicht gestellten Wirkungskreis in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oestreich</country> meine Thätigkeit zu widmen.<lb/>In
+                    würde, dem mir in Aussicht gestellten Wirkungskreis in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oestreich</rs> meine Thätigkeit zu widmen.<lb/>In
                     Hoffnung auf eine baldige Erledigung meines Anliegens verharre ich mit der
                     ehrfurchtsvollsten Hochachtung</p>
                 <p>Euer Excellenz</p>

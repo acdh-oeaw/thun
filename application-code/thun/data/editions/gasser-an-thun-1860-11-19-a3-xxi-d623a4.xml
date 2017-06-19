@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="gasser-vinzenz" role="sender:kleriker">Vinzenz
-                        Gasser</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="gasser-vinzenz" key="gasser-vinzenz" role="sender:kleriker">Vinzenz
+                        Gasser</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_478686b5e2ebec6de738cf25710e7108">Brixen</placeName>, <date when="1860-11-19">19. November 1860</date>
+                    <rs type="place" subtype="place" ref="#place_478686b5e2ebec6de738cf25710e7108">Brixen</rs>, <date when="1860-11-19">19. November 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -41,7 +40,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -65,33 +64,33 @@
                     des Lebens sey, angelegt hatte. Diese Wirksamkeit Eurer Excellenz gehört der
                     Geschichte an, und in ihren Blättern wird der Name Leo Graf Thun in
                     unvergänglichem Lichte glänzen. Ich will Eurer Excellenz gegenüber nur das hier
-                    erwähnen, was Hochselbe meinem lieben Vaterlande <region ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</region> und
+                    erwähnen, was Hochselbe meinem lieben Vaterlande <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs> und
                     meiner Diözese erwiesen haben. Ich weiß es, wie sehr die religiösen und
-                    wissenschaftlichen Interessen <region key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tirols</region> Eurer
+                    wissenschaftlichen Interessen <rs type="place" subtype="region" key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tirols</rs> Eurer
                     Excellenz am Herzen lagen. In dieser Beziehung muß ich ganz besonders für die
                     Vervollständigung und Hebung der <orgName key="universitaet-innsbruck">Universität Innsbruck</orgName> danken. Möge nur die Ungunst der Zeit das
                     Werk Eurer Excellenz nicht zerstören! Zu meinen ganz besonderen Danke bin ich
-                    Eurer Excellenz verpflichtet für die Übersetzung des Gymnasiallehrers <persName key="vonbank-johannes-georg">Vonbank</persName> von
-                        <placeName ref="#place_4c08517eb5fb97b0e860b2e0b82d5f05">Laibach</placeName> nach <placeName ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</placeName> und für
+                    Eurer Excellenz verpflichtet für die Übersetzung des Gymnasiallehrers <rs type="person" ref="vonbank-johannes-georg" key="vonbank-johannes-georg">Vonbank</rs> von
+                        <rs type="place" subtype="place" ref="#place_4c08517eb5fb97b0e860b2e0b82d5f05">Laibach</rs> nach <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs> und für
                     die Erhaltung desselben an dieser Lehranstalt. Eure Excellenz haben ganz gut
-                    gethan, das Bittgesuch des <persName key="vonbank-johannes-georg">Vonbank</persName> um Zurücknahme dieser Versetzung einfach ad Acta zu
+                    gethan, das Bittgesuch des <rs type="person" ref="vonbank-johannes-georg" key="vonbank-johannes-georg">Vonbank</rs> um Zurücknahme dieser Versetzung einfach ad Acta zu
                     legen. Es war nur ein Ausfluß einer falschen Sentimentalität. Er selbst gestand
-                    mir, daß seine Amtswirksamkeit in <placeName ref="#place_4c08517eb5fb97b0e860b2e0b82d5f05">Laibach</placeName> eine höchst
+                    mir, daß seine Amtswirksamkeit in <rs type="place" subtype="place" ref="#place_4c08517eb5fb97b0e860b2e0b82d5f05">Laibach</rs> eine höchst
                     mittelmäßige gewesen sey. Zur Entschuldigung dafür hatte er sich eine Menge von
                     Nebenbeschäftigungen gesucht, die wohl nicht fruchtlos werden gewesen seyn,
                     wobei aber doch seine Hauptbeschäftigung, für die er eine so ausgezeichnete
-                    Befähigung besitzt, immer mehr zurücktrat. In <placeName ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</placeName>
+                    Befähigung besitzt, immer mehr zurücktrat. In <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs>
                     ist die Sache gerade umgekehrt. Da ist er seinem Hauptberufe zurückgegeben und
                     leistet in demselben bei der für alles Gute so sehr empfänglichen studirenden
                     Jugend Außerordentliches. Ich erlaube mir, Eurer Excellenz mitzutheilen, was mir
-                        <persName key="zingerle-ignaz-vinzenz">Prof. Zingerle</persName> vor einigen
-                    Tagen über <persName key="vonbank-johannes-georg">Vonbank</persName> mittheilte.
-                        <persName key="vonbank-johannes-georg">Vonbank</persName> fühlt sich von Tag
+                        <rs type="person" ref="zingerle-ignaz-vinzenz" key="zingerle-ignaz-vinzenz">Prof. Zingerle</rs> vor einigen
+                    Tagen über <rs type="person" ref="vonbank-johannes-georg" key="vonbank-johannes-georg">Vonbank</rs> mittheilte.
+                        <rs type="person" ref="vonbank-johannes-georg" key="vonbank-johannes-georg">Vonbank</rs> fühlt sich von Tag
                     zu Tag heimischer und hat die Liebe und Hochachtung aller Schüler in seltenem
                     Maaße gewonnen. Die frische Luft unserer Berge schlägt ihm ganz gut an und sein
                     Aussehen hat sich sehr gebessert. Ich und meine Freunde biethen alles auf, um
-                    ihn die südlichen Winter von <placeName ref="#place_f8c2475361c649af0f3bf7c2e2aa5160">Zara</placeName> und
-                        <placeName ref="#place_4c08517eb5fb97b0e860b2e0b82d5f05">Laibach</placeName> vergessen zu machen. Für <persName key="ficker-julius">Prof. Fickers</persName> Vorlesungen ist er
+                    ihn die südlichen Winter von <rs type="place" subtype="place" ref="#place_f8c2475361c649af0f3bf7c2e2aa5160">Zara</rs> und
+                        <rs type="place" subtype="place" ref="#place_4c08517eb5fb97b0e860b2e0b82d5f05">Laibach</rs> vergessen zu machen. Für <rs type="person" ref="ficker-julius" key="ficker-julius">Prof. Fickers</rs> Vorlesungen ist er
                     hochbegeistert. Jetzt wird er philosophischen Studien sich widmen, um das
                     Lehramtsexamen aus der philosophischen Propädeutik ablegen zu können. Alle
                     Freunde wahrer Bildung, vorzugsweise die studierende Jugend, sind Eurer

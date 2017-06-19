@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="villermont-antoine" role="sender">Antoine
-                        Villermont</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="villermont-antoine" key="villermont-antoine" role="sender">Antoine
+                        Villermont</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_7e466eeb1a1d124b8742391a4ab48633">Namur</placeName>, <date when="1860-08-08">8. August 1860</date>
+                    <rs type="place" subtype="place" ref="#place_7e466eeb1a1d124b8742391a4ab48633">Namur</rs>, <date when="1860-08-08">8. August 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -45,7 +44,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -56,20 +55,20 @@
                     <term>Konservativismus</term>
                 </index>
                 <p>Monsieur le Comte</p>
-                <p>Monsieur le docteur <persName key="gindely-anton">Gindely</persName>, dont j'ai
-                    eu la visite à <placeName key="bruessel" ref="#place_7279949b987b1b373468947f87fe6753">Bruxelles</placeName>, m'a assuré que
+                <p>Monsieur le docteur <rs type="person" ref="gindely-anton" key="gindely-anton">Gindely</rs>, dont j'ai
+                    eu la visite à <rs type="place" subtype="place" key="bruessel" ref="#place_7279949b987b1b373468947f87fe6753">Bruxelles</rs>, m'a assuré que
                     Votre Excellence voudrait lui accueillir l'hommage de mon livre sur Tilly<note xml:id="note_1">Vgl. <ref target="https://archive.org/details/tillyoulaguerre01villgoog">Antoine
                             Charles Villermont, Tilly ou la guerre de Trente Ans de 1618 ä 1632, 2
                             Bde., Paris 1860</ref>.</note>, à titre d'œuvre catholique en de
                     tentative de lutte contre cette vaste conspiration historique, si éloquemment
                     signalée par Joseph de Maistre. Je n'hésite donc pas à venir offrir ce
                     respectueux hommage à Votre Excellence, et je remercie Sn. le docteur de
-                        <persName key="gindely-anton">Gindely</persName> en me donnant l'occasion de
+                        <rs type="person" ref="gindely-anton" key="gindely-anton">Gindely</rs> en me donnant l'occasion de
                     remplir une tourne, de me procurer par lui-même le compliment de l'indigne
-                    faveur dont a daigné m'honorer <persName key="franz-joseph">Sa Majesté Impériale
-                        et Royale apostolique</persName> en recueillant les prémisses de mon
+                    faveur dont a daigné m'honorer <rs type="person" ref="franz-joseph" key="franz-joseph">Sa Majesté Impériale
+                        et Royale apostolique</rs> en recueillant les prémisses de mon
                     travail.<lb/>Français de naissance et d'éducation, j'ai longtemps partagé
-                    l'admiration générale pour la politique dite de <persName key="heinrich-IV">Henri IV.</persName> et de <persName key="richelieu-armand-jean-du-plessis">Richelieu</persName>. L'étude m'en a fait singulièrement revenir, et le
+                    l'admiration générale pour la politique dite de <rs type="person" ref="heinrich-IV" key="heinrich-IV">Henri IV.</rs> et de <rs type="person" ref="richelieu-armand-jean-du-plessis" key="richelieu-armand-jean-du-plessis">Richelieu</rs>. L'étude m'en a fait singulièrement revenir, et le
                     premier converti par mon propre ouvrage a été l'auteur. Au lieu d'une simple
                     esquisse projetée dans un moment de loisir, j'ai ébauché une histoire, et à
                     mesure que j'avançai cette vérité sous-présentée de plus en plus claire à mon
@@ -77,8 +76,8 @@
                     déplorable guerre de trente ans ultisé [utilisé] par des mains étrangères et des
                     haines parricides, qui a changé toutes les bases du droit international et
                     préparé les misérables spectacles dont nous sommes les témoins, mais dans ces
-                    grandes figures catholiques de <persName key="ferdinand-II">Ferdinand</persName>
-                    et <persName key="tilly-johann">de Tilly</persName>.<lb/>Seuls en effet dans
+                    grandes figures catholiques de <rs type="person" ref="ferdinand-II" key="ferdinand-II">Ferdinand</rs>
+                    et <rs type="person" ref="tilly-johann" key="tilly-johann">de Tilly</rs>.<lb/>Seuls en effet dans
                     cette mêlée effroyable de toutes les ambitions et de toutes les cupidités, ils
                     combattaient pour la vérité et la <hi rend="ul">liberté</hi>, seuls ils
                     soutiennent avec la véritable et grande notion du devoir, celle du droit
@@ -88,7 +87,7 @@
                     anticatholiques se sont-elles ruées avec fureur contre la mission de ces deux
                     illustres personnages et par là même ils ont indigné le point où se devaient
                     correspondre efforts des défenseurs de l'Église et de la vérité, ce qui est tout
-                    un. Le jour où la justice historique couronnera enfin la tête de <persName key="ferdinand-II">Ferdinand</persName> et celle <persName key="tilly-johann">de Tilly</persName> de l'auréole de légitime gloire qui
+                    un. Le jour où la justice historique couronnera enfin la tête de <rs type="person" ref="ferdinand-II" key="ferdinand-II">Ferdinand</rs> et celle <rs type="person" ref="tilly-johann" key="tilly-johann">de Tilly</rs> de l'auréole de légitime gloire qui
                     leur appartient, le jour où la vérité sur la guerre de 30 ans proféra dans
                     l'éducation classique, le principe révolutionnaire aura reçu une mortelle
                     blessure.<lb/>Dieu se charge en ce moment de nous instruire, car les esprits
@@ -97,16 +96,16 @@
                     si révoltante et en même temps si fertile en dupes que les leçons ordinaires ne
                     suffisent plus. Mais son action visible ne nous dispense pas de coopérer de nos
                     faibles [?] de restauration de son église. L'époque actuelle a plus d'une
-                    analogie avec celle où vécurent <persName key="ferdinand-II">Ferdinand</persName> et <persName key="tilly-johann">Tilly</persName>, et
+                    analogie avec celle où vécurent <rs type="person" ref="ferdinand-II" key="ferdinand-II">Ferdinand</rs> et <rs type="person" ref="tilly-johann" key="tilly-johann">Tilly</rs>, et
                     le prince magnanime qui a fait le concordat plus d'un trait de ressemblance avec
                     son auguste aïeul. Dieu qui l'a éprouvé dans ses premières années lui réserve,
                     sans nul doute, d'immenses compensations et un magnifique rôle. Puisse-t-il
-                    trouver son <persName key="tilly-johann">Tilly</persName>!<lb/>C'est le vœu que
+                    trouver son <rs type="person" ref="tilly-johann" key="tilly-johann">Tilly</rs>!<lb/>C'est le vœu que
                     je lui ai humblement exprimé et j'ai pleine confiance qu'il sera
                     exaucé.<lb/>Permettez-moi, Monsieur le comte, de la renouveler ici et pardonnez
                     cette [?] sur le terrain brulant de l'actualité, à un royaliste <hi rend="ul">incorrigible</hi>, qui, désolé et profondément humilié par les défaillances
                     de plus en plus nombreuses du prince et du Roi, espère, pour l'honneur de sa foi
-                    et les [?] de les croyances de ses frères, en <persName key="franz-joseph">François Joseph</persName>.</p>
+                    et les [?] de les croyances de ses frères, en <rs type="person" ref="franz-joseph" key="franz-joseph">François Joseph</rs>.</p>
                 <p>Il ne me reste, Monsieur le comte, qu'à solliciter votre indulgence pour cette
                     esquisse de préface au livre que j'ai l'honneur de vous adresser et de vous
                     prier de vouloir bien agréer l'hommage de l'expression profondément respectueux,

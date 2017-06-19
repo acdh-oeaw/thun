@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Bericht von <persName key="thun-hohenstein-leo">Leo Thun</persName> über die
+                <title>Bericht von <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Leo Thun</rs> über die
                     vertraulichen Besprechungen mit zwei protestantischen Vertrauensmännern<lb/>o.
                     O., <date from="1860-02-07" to="1860-02-08">7. und 8. Februar
                     1860</date>
@@ -51,7 +50,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -61,10 +60,10 @@
                     <term>Ungarn</term>
                     <term>Protestanten</term>
                 </index>
-                <p>Am 7. und 8. Februar [1]860 fanden die von <persName key="franz-joseph">Seiner
-                        Majestät</persName> angeordneten vertraulichen Besprechungen mit <persName key="pronay-gabriel">Baron Prónay</persName> und <persName key="vay-nikolaus">Baron Vay</persName> statt.</p>
+                <p>Am 7. und 8. Februar [1]860 fanden die von <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner
+                        Majestät</rs> angeordneten vertraulichen Besprechungen mit <rs type="person" ref="pronay-gabriel" key="pronay-gabriel">Baron Prónay</rs> und <rs type="person" ref="vay-nikolaus" key="vay-nikolaus">Baron Vay</rs> statt.</p>
                 <p>
-                    <persName key="pronay-gabriel">Baron Prónay</persName> beharrte vollständig auf
+                    <rs type="person" ref="pronay-gabriel" key="pronay-gabriel">Baron Prónay</rs> beharrte vollständig auf
                     dem Standpunkt des Begehrens der restitutio in integrum, demgemäß das Patent vom
                     1. September vorigen Jahres sammt den auf Grundlage desselben erlassenen
                     Verordnungen zu suspendieren, die Wahlen von Superintendenten und Inspektoren in
@@ -77,8 +76,8 @@
                     Rechte der Protestanten bezüglich der Schulen etc. Von den 460.000 Lutheranern
                     würden sich höchstens 1/7 reformieren[?], die übrigen werden zu den Kalvinern
                     übertreten.<lb/>Die Besprechung mit ihm war demnach ohne allen Erfolg. Ihm
-                    gegenüber wurde hervorgehoben, daß <persName key="franz-joseph">Seiner
-                        Majestät</persName> auf keinen Fall gerathen werden könne, die Gesetzkraft
+                    gegenüber wurde hervorgehoben, daß <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner
+                        Majestät</rs> auf keinen Fall gerathen werden könne, die Gesetzkraft
                     des Patentes in Frage zu stellen, noch die Konstituirung jener Superintendenzen
                     wieder einzustellen, die von der Mehrzahl der ihnen zugewiesenen Gemeinden und
                     Seniorate als ihren Bedürfnissen und Wünschen entsprechend anerkannt werden. Es
@@ -87,8 +86,8 @@
                     Synode die Bitte verbinden sollte, daß die zu derselben zu entsendenden
                     Deputirten nicht blos von den Superintendenzialkonventen, sondern von den
                     Senioraten gewählt werden, es keinem Anstande unterliegen werde, hierauf bei
-                        <persName key="franz-joseph">Seiner Majestät</persName> einzurathen.<lb/>Dem
-                        <persName key="vay-nikolaus">Baron Vay</persName> wurde bemerklich gemacht,
+                        <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät</rs> einzurathen.<lb/>Dem
+                        <rs type="person" ref="vay-nikolaus" key="vay-nikolaus">Baron Vay</rs> wurde bemerklich gemacht,
                     daß nach dem Patente (§ XXV und XXVII) die Eintheilung der Superintendenzen
                     keine unabänderliche und die Möglichkeit bezüglich derselben zweckmäßige
                     Veränderungen auch noch vor Einberufung der Synoden anzuordnen nicht
@@ -98,7 +97,7 @@
                     Kuratoren derjenigen Seniorate, welche nach der in dem Patente ausgesprochenen
                     Eintheilung zu einer neuen Superintendenz vereiniget werden sollten, bestehen
                     könnte, eine begründete Vorstellung an Seine Majestät zu richten. Am ersten Tage
-                    stellte <persName key="vay-nikolaus">Baron Vay</persName> die Bemerkung
+                    stellte <rs type="person" ref="vay-nikolaus" key="vay-nikolaus">Baron Vay</rs> die Bemerkung
                     entgegen, seine Glaubensgenossen würden auf eine solche Bitte nicht eingehen
                     wollen, weil sie sagen würden, dadurch sprängen sie in das Patent hinein. Darauf
                     wurde ihm erwiedert, daß wenn der Standpunkt des Protestes gegen das Patent
@@ -106,7 +105,7 @@
                     wiederholt betont, daß die Anerkennung der Gesetzkraft des Patentes die
                     unerläßliche Vorbedingung sei, unter der allein die Möglichkeit gefunden werden
                     könne, den Bedenken gegen die Zweckmäßigkeit einzelner Bestimmungen desselben
-                    abzuhelfen.<lb/>Am zweiten Tage ist diese Rechtsfrage von <persName key="vay-nikolaus">Baron Vay</persName> nicht mehr urgirt worden, seine
+                    abzuhelfen.<lb/>Am zweiten Tage ist diese Rechtsfrage von <rs type="person" ref="vay-nikolaus" key="vay-nikolaus">Baron Vay</rs> nicht mehr urgirt worden, seine
                     Bedenken bezogen sich vielmehr nun auf das Meritum der erreichbaren
                     Modifikationen der Eintheilung in Superintendenzen und auf die Schwierigkeiten
                     ein offizielles Gesuch anders als im Wege von Konventen der vorbestandenen
@@ -114,17 +113,17 @@
                     seiner Glaubensgenossen daran festhalten, daß er ohne Mandat seines
                     Superintendenzialkonventes nur eine privatime Meinung abgeben und nicht im Namen
                     seiner Glaubensgenossen sprechen könne. In Beziehung auf das Meritum der
-                    Eintheilung wurde von dem <persName key="thun-hohenstein-leo">Cultusminister</persName> zugestanden, daß die Kalviner viel kompakter
+                    Eintheilung wurde von dem <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Cultusminister</rs> zugestanden, daß die Kalviner viel kompakter
                     beisammen wohnen als die Lutheraner und unter ihnen nicht jener alte Zwiespalt
                     bestehe, der den Fortbestand der lutherischen Bergsuperintendenz unmöglich
                     machte, daß deshalb vielleicht eine geringere Zahl von Superinten[den]zen,
                     trotzdem daß ihre Seelenzahl größer ist als die der Lutheraner, zuläßig wäre.
                     Allein die Superintendenz jenseits der Theiß sei doch offenbar zu groß; sollten
-                    auch die Seniorate in den <placeName ref="#place_e184750f6e7d23a6b135af116a3eb331">Marmaros</placeName> bei ihr belassen
-                    werden, was wegen angeblicher Gefährdung des Bestandes der <placeName key="debrezin" ref="#place_ae8effcf53078ebe204e349a55546ca8">Debrecziner</placeName> Schulen verlangt werde, so scheine
+                    auch die Seniorate in den <rs type="place" subtype="place" ref="#place_e184750f6e7d23a6b135af116a3eb331">Marmaros</rs> bei ihr belassen
+                    werden, was wegen angeblicher Gefährdung des Bestandes der <rs type="place" subtype="place" key="debrezin" ref="#place_ae8effcf53078ebe204e349a55546ca8">Debrecziner</rs> Schulen verlangt werde, so scheine
                     doch die Bildung einer fünften Superintendenz im Süden des Landes unvermeidlich.
                     Würde darauf eingegangen, so bliebe die Superintendenz diesseits der Theiß
-                    unverändert; auch die Bildung der <placeName key="komorn" ref="#place_e932bc49bfc0edd57c094127e87959aa">Komorner</placeName>
+                    unverändert; auch die Bildung der <rs type="place" subtype="place" key="komorn" ref="#place_e932bc49bfc0edd57c094127e87959aa">Komorner</rs>
                     Superintendenz, wenn von den ihr zugewiesenen Senioraten bestätiget würde, daß
                     sie die Abtrennung von der vorbestandenen Superintendenz jenseits der Donau
                     nicht wünschen, könnten fallen gelassen werden. Die kirchlichen Vorstände der
@@ -136,32 +135,32 @@
                     Zustande viel näher liegt als die durch das Patent vorgezeichnete Eintheilung,
                     zumal unter Beiziehung der Senioren und Kuratoren derjenigen Seniorate, um deren
                     Abtrennung von dem bisherigen Verbande es sich handeln würde.<lb/>
-                    <persName key="vay-nikolaus">Baron Vay</persName> stellte hierauf die Frage, ob es als
+                    <rs type="person" ref="vay-nikolaus" key="vay-nikolaus">Baron Vay</rs> stellte hierauf die Frage, ob es als
                     eine conditio sine qua non angesehen werden würde, daß fünf Superintendenzen
                     gebildet werden, und ob es nicht auch genügen würde, daß es bei vier
                     Superintendenzen mit einer zweckmäßigeren Abgränzung verbliebe? Darauf wurde vom
-                        <persName key="thun-hohenstein-leo">Cultusminister</persName> erwiedert: die
+                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Cultusminister</rs> erwiedert: die
                     Zahl scheine ihm nicht von wesentlicher Bedeutung, wohl aber müßte der Regierung
                     daran gelegen sein, daß eine solche Eintheilung zu Stande komme, durch welche
                     verhüthet werde, daß die Durchführung der anderweitigen Bestimmungen des
                     Patentes nicht zu wesentlichen Übelständen führe. Am wichtigsten sei in dieser
                     Beziehung die Ehegerichtsbarkeit, für welche die 2. Instanz dem
                     Superintendenzialkonsistorium zukommen müsse. Die kirchliche Gerichtsbarkeit in
-                    Ehesachen sei von <persName key="franz-joseph">Seiner Majestät</persName>
+                    Ehesachen sei von <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät</rs>
                     bewilliget worden, weil sie im Art. 26 von [1]791 in Aussicht gestellt und
                     seitdem von den Synoden von [1]791 und von den Konventen die Erfüllung dieser
                     Zusage verlangt worden sei. Ob sie in dem Wunsche der Partheien liege, dürfte
                     zweifelhaft sein. Jedenfalls würde der Bauer einer Wojwodschaft, der jetzt
                     seinen Richter in Ehesachen bei dem nächsten Landesgericht findet, sich sehr
                     beschwert erachten, wenn er ihn künftig viele Tagesreisen weit suchen müßte und
-                    seine Beschwerde würde gegen <persName key="franz-joseph">Seine
-                        Majestät</persName> gerichtet sein, welche durch das allerhöchste Patent die
+                    seine Beschwerde würde gegen <rs type="person" ref="franz-joseph" key="franz-joseph">Seine
+                        Majestät</rs> gerichtet sein, welche durch das allerhöchste Patent die
                     Veränderung der bisher bestehenden Einrichtung verfügt hat. Dagegen sei eine
                     Abhülfe durchaus nothwendig und es dürfte kaum möglich sein sie zu finden, ohne
-                    daß wenigstens eine fünfte Superintendenz errichtet werde. <persName key="vay-nikolaus">Baron Vay</persName> erwiederte nicht auf diese
+                    daß wenigstens eine fünfte Superintendenz errichtet werde. <rs type="person" ref="vay-nikolaus" key="vay-nikolaus">Baron Vay</rs> erwiederte nicht auf diese
                     Bemerkungen. Hingegen regte er die Frage an, ob im Falle einer befriedigenden
                     Feststellung der Superintendenzen in denselben zu Superintendenzialkonventen und
-                    zur Wahl von Oberkuratoren würde geschritten werden können? Der <persName key="thun-hohenstein-leo">Cultusminister</persName> erinnerte daran, daß bei
+                    zur Wahl von Oberkuratoren würde geschritten werden können? Der <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Cultusminister</rs> erinnerte daran, daß bei
                     der ersten Kundmachung des Patentes der Ministerialverordnung vom 2. September
                     zur Einberufung von Superintendenzialkonventen und zur Wahl von Oberkuratoren
                     aufgefordert worden sei, obwohl diese Konvente von der Koordinirung der
@@ -179,46 +178,46 @@
                     werde man gerne einen Modus suchen, um auf die oben erwähnte Gewährung der
                     Möglichkeit ohne Verzug zur Wahl der Oberkuratoren zu schreiten,
                         zurückzukommen.<lb/>
-                    <persName key="vay-nikolaus">Baron Vay</persName> blieb
+                    <rs type="person" ref="vay-nikolaus" key="vay-nikolaus">Baron Vay</rs> blieb
                     sehr zurückhaltend, vermied jede Zusage irgend welcher Art, hob nur wiederholt
                     die große Schwierigkeit hervor, seine Glaubensgenossen zu irgend einem Schritte
                     von der Abhaltung von Superintendenzialkonventen zu bewegen, erklärte, er werde
                     nichts unternehmen, womit er Fiasco machen würde, das sei er nicht gewohnt und
                     äußerte endlich: was soll ich machen, wenn im Mai der Konvent in Miskolcz
-                        [<placeName ref="#place_c6f21d4402257ede81a2ee894fd89d6f">Miskolc</placeName>] von dem ich als Deputirter von <persName key="franz-joseph">Seiner Majestät</persName> gewählt worden bin, wieder
+                        [<rs type="place" subtype="place" ref="#place_c6f21d4402257ede81a2ee894fd89d6f">Miskolc</rs>] von dem ich als Deputirter von <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät</rs> gewählt worden bin, wieder
                     zusammentritt und die Regierung ihn verbiethet? Soll ich so feig sein, nicht
-                    hinzugehen? Der <persName key="thun-hohenstein-leo">Cultusminister</persName>
+                    hinzugehen? Der <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Cultusminister</rs>
                     erwiederte darauf: einen Rath zu geben, ist immer eine mißliche Sache, zumal
                     wenn der Befragte die Verhältnisse weniger genau kennt als der Fragende;
                     verlangen Sie aber meine Meinung zu hören, so muß ich sagen: ich glaube, ich
                     würde an Ihrer Stelle meinen Glaubensgenossen erklären: auf dem Wege, den ihr
                     eingeschlagen habt fortzugehen, kann nur unsere eigenen Interessen gefährden;
                     wollt Ihr mir folgen, so würde ich es bewirken, daß wir wieder Konvent halten
-                    können; wollt Ihr aber einen Kampf gegen <persName key="franz-joseph">Seine
-                        Majestät</persName> fortsetzen, so mag ich nichts mehr damit zu thun haben
-                    und werde nicht mehr auf euren Konventen erscheinen.<lb/>Hierauf hat <persName key="vay-nikolaus">Baron Vay</persName> nicht erwiedert.<lb/>Auf die Frage
-                    des <persName key="nadasdy-franz">Justizministers</persName>, wie lange es wohl
+                    können; wollt Ihr aber einen Kampf gegen <rs type="person" ref="franz-joseph" key="franz-joseph">Seine
+                        Majestät</rs> fortsetzen, so mag ich nichts mehr damit zu thun haben
+                    und werde nicht mehr auf euren Konventen erscheinen.<lb/>Hierauf hat <rs type="person" ref="vay-nikolaus" key="vay-nikolaus">Baron Vay</rs> nicht erwiedert.<lb/>Auf die Frage
+                    des <rs type="person" ref="nadasdy-franz" key="nadasdy-franz">Justizministers</rs>, wie lange es wohl
                     dauern werde, bis er über den Erfolg seiner Bemühungen etwas mittheilen werde
-                    und ob er nicht dem <persName key="thun-hohenstein-leo">Cultusminister</persName> briefliche Nachrichten geben wolle?, lehnte
-                        <persName key="vay-nikolaus">Baron Vay</persName> jede Antwort ab. Der
-                        <persName key="thun-hohenstein-leo">Cultusminister</persName> bemerkte, ihm
-                    scheine das Kennzeichen, ob es dem <persName key="vay-nikolaus">Baron
-                        Vay</persName> gelinge, etwas bei seinen Glaubensgenossen auszurichten,
+                    und ob er nicht dem <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Cultusminister</rs> briefliche Nachrichten geben wolle?, lehnte
+                        <rs type="person" ref="vay-nikolaus" key="vay-nikolaus">Baron Vay</rs> jede Antwort ab. Der
+                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Cultusminister</rs> bemerkte, ihm
+                    scheine das Kennzeichen, ob es dem <rs type="person" ref="vay-nikolaus" key="vay-nikolaus">Baron
+                        Vay</rs> gelinge, etwas bei seinen Glaubensgenossen auszurichten,
                     werde darin zu suchen sein, ob von dem Versuche, weitere von der Regierung für
                     unzuläßig erklärte Superintendenzialkonvente zu halten, abgestanden werde oder
                     nicht. Sollten sich diese Versuche wiederholen, so würden neue den Bemühungen
                     eine Verständigung herbeizuführen abträgliche Konflikte unvermeidlich werden.
                     Solange die Regierung zu solchen nicht gedrängt würde, werde es ihre Aufgabe
-                    sein, alles zu vermeiden, was den Bemühungen des <persName key="vay-nikolaus">Baron Vay</persName> neue Schwierigkeiten bereiten könnte. Hierauf frug
-                        <persName key="vay-nikolaus">Baron Vay</persName> nach, ob inzwischen
+                    sein, alles zu vermeiden, was den Bemühungen des <rs type="person" ref="vay-nikolaus" key="vay-nikolaus">Baron Vay</rs> neue Schwierigkeiten bereiten könnte. Hierauf frug
+                        <rs type="person" ref="vay-nikolaus" key="vay-nikolaus">Baron Vay</rs> nach, ob inzwischen
                     fortgefahren werden würde, durch die politischen Behörden auf die Koordinirung
-                    der Gemeinden zu dringen? Der <persName key="thun-hohenstein-leo">Cultusminister</persName> erwiederte: die Vollzugsvorschrift vom 10. Jänner
+                    der Gemeinden zu dringen? Der <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Cultusminister</rs> erwiederte: die Vollzugsvorschrift vom 10. Jänner
                     laufenden Jahres und die darin ausgesprochenen Sanktionen stehen einmal fest; er
                     müße auch in jenen (lutherischen) Superintendenzen, in denen auf die
                     Koordinirung eingegangen wird, dieselben möglichst zu beschleunigen trachten, er
                     werde sich aber wohl hüthen, an die kalvinischen Superintendenzen neue Weisungen
                     zu erlassen, so lange er wisse, daß sie erfolglos wären. Übrigens müße aber
-                        <persName key="vay-nikolaus">Baron Vay</persName> einsehen, daß das, was in
+                        <rs type="person" ref="vay-nikolaus" key="vay-nikolaus">Baron Vay</rs> einsehen, daß das, was in
                     Beziehung auf die Koordinirung der Gemeinden und Seniorate verlangt wird, an
                     sich keinem Bedenken unterliege, indem es mit der bisherigen Übung nicht in
                     Widerspruch stehe, sondern nur zur allgemeinen Regel mache, was in größeren
@@ -228,28 +227,28 @@
                     erleichtern würde, wenn inzwischen die Koordinirung der Gemeinden und Seniorate
                     durchgeführt und dadurch eine feste Grundlage für die Vertretung der Seniorate
                     gewonnen würde.<lb/>Auch diese Bemerkung blieb ohne Erwiederung.<lb/>Schließlich
-                    äußerte <persName key="vay-nikolaus">Baron Vay</persName>, wie nachtheilig es
+                    äußerte <rs type="person" ref="vay-nikolaus" key="vay-nikolaus">Baron Vay</rs>, wie nachtheilig es
                     wäre, wenn durch fortgesetzte Einmischung der Zeitungen und deren Berichte über
                     den Erfolg dieser Besprechungen neue Verwickelungen herbeigeführt würden. Er
                     werde den Zeitungen gewiß keine Mittheilungen machen; er müßte über
-                        <placeName ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</placeName> reisen, werde sich aber dort möglichst kurz
+                        <rs type="place" subtype="place" ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</rs> reisen, werde sich aber dort möglichst kurz
                     aufhalten, denn das sei eine Pestilenz, und er werde dort wahrscheinlich gar
-                    nichts über den Verlauf der Besprechungen sagen. Der <persName key="rechberg-rothenloewen-bernhard">Ministerpräsident</persName> erklärte,
+                    nichts über den Verlauf der Besprechungen sagen. Der <rs type="person" ref="rechberg-rothenloewen-bernhard" key="rechberg-rothenloewen-bernhard">Ministerpräsident</rs> erklärte,
                     er werde den Zeitungen das Verboth zugehen lassen, hierüber gar nichts mehr
-                    aufzunehmen.<lb/>Im Laufe der Besprechung war von <persName key="vay-nikolaus">Baron Vay</persName> darüber Klage geführt worden, daß durch die anhängigen
+                    aufzunehmen.<lb/>Im Laufe der Besprechung war von <rs type="person" ref="vay-nikolaus" key="vay-nikolaus">Baron Vay</rs> darüber Klage geführt worden, daß durch die anhängigen
                     Gerichtsverhandlungen, die vielen Einvernehmungen und Vorladungen die Aufregung
-                    fortwährend genährt werde. Der <persName key="nadasdy-franz">Justizminister</persName> erwiederte darauf, daß gerichtliche
+                    fortwährend genährt werde. Der <rs type="person" ref="nadasdy-franz" key="nadasdy-franz">Justizminister</rs> erwiederte darauf, daß gerichtliche
                     Amtshandlungen nur in jenen Fällen stattfinden, wo offenbar zum Ungehorsam und
                     zur Auflehnung aufgereizt würde, und daß die Einvernehmung vieler Zeugen – so
                     bedauerlich auch die daran unzertrennliche Vorbereitung der Aufregung sei – in
-                    solchen Fällen nicht vermieden werden könne.<lb/>Ferner beklagte sich <persName key="vay-nikolaus">Baron Vay</persName> auch darüber, daß von den
+                    solchen Fällen nicht vermieden werden könne.<lb/>Ferner beklagte sich <rs type="person" ref="vay-nikolaus" key="vay-nikolaus">Baron Vay</rs> auch darüber, daß von den
                     politischen Behörden bei Zustellung der Ministerialverordnung vom 10. Jänner
                     laufenden Jahres von den helvetischen Pfarrern in der Gegend von Sucs Kemet [?]
                     laut brieflichen Nachrichten verlangt werde, in der Empfangsbestätigung zu
                     bezeugen, daß sie diese Verordnung von ihrem Sender erhalten haben. Hierauf
                     wurde erwiedert, daß wenn wirklich so vorgegangen worden sein sollte, dieser
                     Vorgang nur auf einem Verstoße untergeordneter Beamten beruhen müße, worüber der
-                        <persName key="thun-hohenstein-leo">Cultusminister</persName> sofort nähere
+                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Cultusminister</rs> sofort nähere
                     Aufklärung einholen wird.<lb/>
                 </p>
                 <p>gesehen Nádasdy<lb/>Thun</p>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -58,7 +57,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -72,118 +71,118 @@
                 </index>
                 <div>
                     <p>Die Slavische Propaganda mit besonderer Beziehung auf den Clerus der nicht
-                        unirten griechischen Kirche in <country ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</country>
+                        unirten griechischen Kirche in <rs type="place" subtype="country" ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</rs>
                     </p>
                     <p>Der religiöse Charakter, welcher in den Umstaltungsbestrebungen des Ostens
                         vorzugsweise ans Tageslicht tritt, so wie die immer sichtbarer werdende
                         Annäherung des Clerus, des nicht unirten griechischen Bekenntnisses in
-                        andern Staaten an <country ref="#place_65f7b8e17e93bc2a87843d99e82c08a5">Russland</country>, mahnen gegenwärtig mehr als
+                        andern Staaten an <rs type="place" subtype="country" ref="#place_65f7b8e17e93bc2a87843d99e82c08a5">Russland</rs>, mahnen gegenwärtig mehr als
                         je an die Nothwendigkeit, einer ernsten Inbetrachtnahme dieser bedenklichen
-                        Erscheinung.<lb/>Von den Zeiten Czar <persName key="peter-der-grosse">Peter
-                            des Großen</persName>, welcher die oberste Gewalt in der russischen
+                        Erscheinung.<lb/>Von den Zeiten Czar <rs type="person" ref="peter-der-grosse" key="peter-der-grosse">Peter
+                            des Großen</rs>, welcher die oberste Gewalt in der russischen
                         Kirche mit jener des Staatsoberhauptes in seinen Dominien verband, bis auf
                         die neuesten Tage, weist der von Russland in dieser Richtung befolgte Gang,
                         sein grundsätzliches Vorhaben nach, alle Bekenntnisse der abendländischen
                         Kirche mit der seinigen zu verschmelzen. Die im Jahre 1772 dekretierte
                         geistliche Unterordnung der <hi rend="ul">nicht unirten</hi> Griechen, aus
-                        den, mit <country ref="#place_65f7b8e17e93bc2a87843d99e82c08a5">Russland</country> eben einverleibten polnischen Provinzen
+                        den, mit <rs type="place" subtype="country" ref="#place_65f7b8e17e93bc2a87843d99e82c08a5">Russland</rs> eben einverleibten polnischen Provinzen
                         unter die St. Petersburger Synode, dann die durch Bestechung der Bischöfe
                         und theilweise durch coercitive Mittel im Jahre 1828 bewirkte Vereinigung
                         der <hi rend="ul">unirten</hi> Bekenner der griechischen Kirche, wodurch 4
-                        1/2 Millionen lateinischer Christen in <country key="litauen" ref="#place_d9113a4a0ece0da8589e47019ab7e470">Lithauen</country> und <country key="wolhynien" ref="#place_547e1271ff591f3c23fbcc4c74954189">Volhynien</country> der
+                        1/2 Millionen lateinischer Christen in <rs type="place" subtype="country" key="litauen" ref="#place_d9113a4a0ece0da8589e47019ab7e470">Lithauen</rs> und <rs type="place" subtype="country" key="wolhynien" ref="#place_547e1271ff591f3c23fbcc4c74954189">Volhynien</rs> der
                         russischen Kirche zugeführt wurden; endlich die im Jahre 1839 ausgesprochene
-                        formelle Trennung der in <country ref="#place_65f7b8e17e93bc2a87843d99e82c08a5">Russland</country> bestehenden <hi rend="ul">unirten</hi> Bekenntnisse von dem römischen Papste, bilden die
+                        formelle Trennung der in <rs type="place" subtype="country" ref="#place_65f7b8e17e93bc2a87843d99e82c08a5">Russland</rs> bestehenden <hi rend="ul">unirten</hi> Bekenntnisse von dem römischen Papste, bilden die
                         auffallendsten Ergebnisse der kirchlichen Politik Russlands. Um das Jahr
                         1841 fing die russische Propaganda an, nach einem in der Nationalität der
                         Proselyten wurzelnden Auxiliarmittel zu greifen, welches unter der Gestalt
                         des Panslavismus politische Vehikel in seinen Bereich zog, und zum ersten
-                        Male auch <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> sichtlich
+                        Male auch <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> sichtlich
                         berührte.<lb/>Wie weit die Fäden hierin reichten, und auf welchem Wege sie
                         eingewoben wurden, blieb bisher größtentheils unenthüllt; immerhin bleibt es
                         aber bedeutsam, daß bei dem ersten Ansturme der revolutionären Wogen im
                         österreichischen Staate die <hi rend="ul">nicht unirten griechischen
                             Bischöfe</hi> ein Gesuch an den damaligen Reichstag um Errichtung eines,
-                        den Patriarchen von Neusatz [<placeName ref="#place_6bd8380fb771a1de7d1a921a172c48fc">Novi Sad</placeName>]
+                        den Patriarchen von Neusatz [<rs type="place" subtype="place" ref="#place_6bd8380fb771a1de7d1a921a172c48fc">Novi Sad</rs>]
                         miteinschließenden, Kirchenraths abgefaßt hatten, welcher über die
                         Angelegenheiten der äußeren Kirche, <hi rend="ul">unabhängig von
-                                <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>
+                                <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>
                         </hi> Beschlüße zu fassen hätte; daß
-                        ferner der <hi rend="ul">nicht unirte griechische</hi> Patriarch <persName key="rajacic-joseph">Rajacich</persName> in der <hi rend="ul">katholischen</hi> Metropolitankirche zu <placeName ref="#place_a620921af9eef09d01368fb2c1a2fd88">Agram</placeName>
+                        ferner der <hi rend="ul">nicht unirte griechische</hi> Patriarch <rs type="person" ref="rajacic-joseph" key="rajacic-joseph">Rajacich</rs> in der <hi rend="ul">katholischen</hi> Metropolitankirche zu <rs type="place" subtype="place" ref="#place_a620921af9eef09d01368fb2c1a2fd88">Agram</rs>
                         den, vom Volke proklamierten neuen Banus einweihte, und daß der zum
-                        Slaven-Congresse der Jahres 1848 nach <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> gekommene
-                        nicht unirte Neusatzer Erzpriester <persName key="stamatovic-pavao">Sztamatovits</persName> bei den Pfingstvorgängen in der Hauptstadt
-                            <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmens</region> eine thätige Rolle
+                        Slaven-Congresse der Jahres 1848 nach <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> gekommene
+                        nicht unirte Neusatzer Erzpriester <rs type="person" ref="stamatovic-pavao" key="stamatovic-pavao">Sztamatovits</rs> bei den Pfingstvorgängen in der Hauptstadt
+                            <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmens</rs> eine thätige Rolle
                         spielte.<lb/>Einzelne seitdem aufgetauchte Vorfälle deuten übrigens auf ein
-                        politisch-religiöses Einwirken von Seite <country key="russland" ref="#place_5c0704d47c0a58a0922e25b5b9b66b27">Russlands</country> auf seine Glaubensgenossen in den
+                        politisch-religiöses Einwirken von Seite <rs type="place" subtype="country" key="russland" ref="#place_5c0704d47c0a58a0922e25b5b9b66b27">Russlands</rs> auf seine Glaubensgenossen in den
                         österreichisch-slavischen Ländern.<lb/>Eines der belangreichsten Organe der
-                        russischen Propaganda in <country ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</country> ist, sowohl durch
+                        russischen Propaganda in <rs type="place" subtype="country" ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</rs> ist, sowohl durch
                         seine geistige Befähigung als auch durch seine ausnahmsweise Stellung, der
-                        russische Priester <persName key="wojtkowsky">Wojtkowsky</persName>, welcher
+                        russische Priester <rs type="person" ref="wojtkowsky" key="wojtkowsky">Wojtkowsky</rs>, welcher
                         zur Erfüllung stiftungsgemäßer Andachten an der Grabkapelle weiland Ihrer
-                        kaiserlichen Hoheit, der Frau Erzherzogin <persName key="alexandra-pawlowna">Alexandra Pawlovna</persName> zu <placeName ref="#place_8ac1cb0e06bcb30f1e84b29bef7fa0c0">Üröm</placeName> bei
-                            <placeName ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</placeName>, exponiert ist, häufig aber entweder zu
-                            <placeName key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</placeName> weilt, oder, im Auftrage der
+                        kaiserlichen Hoheit, der Frau Erzherzogin <rs type="person" ref="alexandra-pawlowna" key="alexandra-pawlowna">Alexandra Pawlovna</rs> zu <rs type="place" subtype="place" ref="#place_8ac1cb0e06bcb30f1e84b29bef7fa0c0">Üröm</rs> bei
+                            <rs type="place" subtype="place" ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</rs>, exponiert ist, häufig aber entweder zu
+                            <rs type="place" subtype="place" key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</rs> weilt, oder, im Auftrage der
                         russischen Botschaft am Wiener Hofe, Missionsreisen unternimmt und diesfalls
                         selbst die ihm untergebenen Kirchensänger in sein Vertrauen zieht.<lb/>Die
                         Rede, welche letzterer am 25. Februar 1854 am Vorabend der Installation des
-                        zum griechisch-nicht unirten Bischofe von Ofen ernannten <persName key="sztojkovics-arsenius">Arsenius Sztojkowits</persName> in Gegenwart
+                        zum griechisch-nicht unirten Bischofe von Ofen ernannten <rs type="person" ref="sztojkovics-arsenius" key="sztojkovics-arsenius">Arsenius Sztojkowits</rs> in Gegenwart
                         eines zahlreichen Kreises von Zuhörern in seiner eigenen Wohnung abhielt,
-                        enthielt nebst heftigen Ausfällen auf die innere Verwaltung <placeName key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</placeName>, unter anderem auch die
-                        Behauptung, dieser "ohnmächtige" Staat müsse den Gebothen <country key="frankreich" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreichs</country> folgen, wenn er nicht eine
+                        enthielt nebst heftigen Ausfällen auf die innere Verwaltung <rs type="place" subtype="place" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs>, unter anderem auch die
+                        Behauptung, dieser "ohnmächtige" Staat müsse den Gebothen <rs type="place" subtype="country" key="frankreich" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreichs</rs> folgen, wenn er nicht eine
                         Occupation seiner italienischen Provinzen durch die Franzosen erfahren
                         wolle. Nicht minder aufregend lautete ein Brief des, um das Ende des Jahres
-                        1853 zu St. Endré bei <placeName ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</placeName> zum Priester geweihten und
+                        1853 zu St. Endré bei <rs type="place" subtype="place" ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</rs> zum Priester geweihten und
                         gegenwärtig bei der russischen Gesandtschaft in
-                            <placeName ref="#place_ce573fb3b837e6d0517b8fa5011ed041">Brüssel</placeName> als Almosinier fungierenden russischen
-                        Geistlichen Pjetrow. Dieses, von dem Priester <persName key="wojtkowsky">Woytkowsky</persName> bei dem obbesprochenen Anlasse seinen Gästen und
+                            <rs type="place" subtype="place" ref="#place_ce573fb3b837e6d0517b8fa5011ed041">Brüssel</rs> als Almosinier fungierenden russischen
+                        Geistlichen Pjetrow. Dieses, von dem Priester <rs type="person" ref="wojtkowsky" key="wojtkowsky">Woytkowsky</rs> bei dem obbesprochenen Anlasse seinen Gästen und
                         Gesinnungs-Genossen vorgelesene Schreiben enthielt eine kritische Rundschau
                         der politischen Zustände von Europa, dann eine Darstellung des "heiligen"
-                        Berufs <country key="russland" ref="#place_5c0704d47c0a58a0922e25b5b9b66b27">Russlands</country>, die europäische Türkei
+                        Berufs <rs type="place" subtype="country" key="russland" ref="#place_5c0704d47c0a58a0922e25b5b9b66b27">Russlands</rs>, die europäische Türkei
                         aufzulösen, und aus den Elementen derselben drei conföderative
                         Staatengruppen unter dem Protektorate des Czars zu errichten. Auch wurde
-                        darin der Zeitpunkt der Empörung von <region ref="#place_60449e7cdc964808d49c31238534426c">Thessalien</region>, <region key="makedonien" ref="#place_d168c568e0fe6d782a145f736e5ae891">Macedonien</region> und <region ref="#place_e78dae745197a4020e7fc4f42b3ffa18">Epirus</region>, so wie
+                        darin der Zeitpunkt der Empörung von <rs type="place" subtype="region" ref="#place_60449e7cdc964808d49c31238534426c">Thessalien</rs>, <rs type="place" subtype="region" key="makedonien" ref="#place_d168c568e0fe6d782a145f736e5ae891">Macedonien</rs> und <rs type="place" subtype="region" ref="#place_e78dae745197a4020e7fc4f42b3ffa18">Epirus</rs>, so wie
                         des Einfalls der hellenischen Freischaaren in jene Provinzen genau
-                        angegeben, und dabei auf die Fürsten <persName key="obrenovic-milosch">Milosch</persName> und <persName key="petrovic-njegos-danilo">Danilo</persName>, dann auf die <persName key="amalien-von-oldenburg">Königin von Griechenland</persName> als auf die Grundsäulen der
+                        angegeben, und dabei auf die Fürsten <rs type="person" ref="obrenovic-milosch" key="obrenovic-milosch">Milosch</rs> und <rs type="person" ref="petrovic-njegos-danilo" key="petrovic-njegos-danilo">Danilo</rs>, dann auf die <rs type="person" ref="amalien-von-oldenburg" key="amalien-von-oldenburg">Königin von Griechenland</rs> als auf die Grundsäulen der
                         bevorstehenden Bewegung hingedeutet.<lb/>Ein, von Seite des russischen
-                        Gesandtschaftspriesters <persName key="rajewski-michael">Rajewsky</persName>
-                        im August 1853 von <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> an den Priester <persName key="wojtkowsky">Wojtkowsky</persName> gerichtetes langes Memorandum,
-                        worin die Eroberungspläne <country ref="#place_65f7b8e17e93bc2a87843d99e82c08a5">Russland</country>'s und das angebliche
+                        Gesandtschaftspriesters <rs type="person" ref="rajewski-michael" key="rajewski-michael">Rajewsky</rs>
+                        im August 1853 von <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> an den Priester <rs type="person" ref="wojtkowsky" key="wojtkowsky">Wojtkowsky</rs> gerichtetes langes Memorandum,
+                        worin die Eroberungspläne <rs type="place" subtype="country" ref="#place_65f7b8e17e93bc2a87843d99e82c08a5">Russland</rs>'s und das angebliche
                         Dahinsiechen von West- und Mitteleuropa in grellen Farben dargestellt wurde,
                         mußte wegen der Stellung des Verfassers, um so größeres Bedenken
-                        erregen.<lb/>Wiewohl die, von dem Priester <persName key="wojtkowsky">Wojtkowsky</persName> bisher beobachtete ungemeine Vorsicht alle
+                        erregen.<lb/>Wiewohl die, von dem Priester <rs type="person" ref="wojtkowsky" key="wojtkowsky">Wojtkowsky</rs> bisher beobachtete ungemeine Vorsicht alle
                         Bemühungen der hierländigen Behörden zur Ermittlung seiner Verbindungen
                         vereitelte, so ist dennoch ein, im Mai 1854 auf geheimen Dienstwege
                         erlangtes, und seiner Zeit dem Ministerium der auswärtigen Angelegenheiten
                         mitgetheiltes Dokument geeignet, über die Bedeutung der politischen Aufgaben
                         jenes Individuums einiges Licht zu werfen.<lb/>Es ist dies nämlich eine, von
-                        dem St. Petersburger Propste Timophejef an <persName key="wojtkowsky">Wojtkowsky</persName> gerichtete und in drei Theile zerfallende
+                        dem St. Petersburger Propste Timophejef an <rs type="person" ref="wojtkowsky" key="wojtkowsky">Wojtkowsky</rs> gerichtete und in drei Theile zerfallende
                         Instruktion, welche offenbar im Namen der dortigen Regierung
                         erfolgte.<lb/>Der erste Punkt dieser Schrift bespricht ausschließlich den
-                        diesjährigen Feldzug <country ref="#place_65f7b8e17e93bc2a87843d99e82c08a5">Russland</country>'s, wobei nach dem
+                        diesjährigen Feldzug <rs type="place" subtype="country" ref="#place_65f7b8e17e93bc2a87843d99e82c08a5">Russland</rs>'s, wobei nach dem
                         Dafürhalten Timophejefs, es zu keinem Bruche zwischen
-                            <country ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</country> und <country ref="#place_65f7b8e17e93bc2a87843d99e82c08a5">Russland</country> kommen
-                        würde, so daß <persName key="wojtkowsky">Wojtkowsky</persName> für den
+                            <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs> und <rs type="place" subtype="country" ref="#place_65f7b8e17e93bc2a87843d99e82c08a5">Russland</rs> kommen
+                        würde, so daß <rs type="person" ref="wojtkowsky" key="wojtkowsky">Wojtkowsky</rs> für den
                         Winter eine gezwungene Heimreise nicht zu besorgen habe, der zweite
                         entwickelte die religiöse Tendenz des eröffneten Befreiungskampfes, an
                         welchem alle slavischen Völker des Ostens sich betheiligen sollen, bei
-                        welcher Gelegenheit <persName key="wojtkowsky">Wojtkowsky</persName>
+                        welcher Gelegenheit <rs type="person" ref="wojtkowsky" key="wojtkowsky">Wojtkowsky</rs>
                         angewiesen wird, sowohl die alten Serbenlieder mit zündenden, auf das
                         slavische Pathos berechneten Einleitungen, als auch das saporoger Epos des
                         Taras Bulba in serbischer Übersetzung längstens bis zum Herbste 1854 in
                         Druck heraus zu geben.<lb/>Der dritte Punkt bezieht sich auf, zur
-                        Unterstützung von Armen jedweder Confession, dem <persName key="wojtkowsky">Wojtowsky</persName> bewilligte Gelder, und erwähnt dabei ausdrücklich
+                        Unterstützung von Armen jedweder Confession, dem <rs type="person" ref="wojtkowsky" key="wojtkowsky">Wojtowsky</rs> bewilligte Gelder, und erwähnt dabei ausdrücklich
                         daß Stand und Bildung der Almosenbeflissenen zu berücksichtigen komme, mit
                         welchen er jeden Samstag Gespräche zur Stärkung in "Glaube und Hoffnung"
                         anzuknüpfen habe.<lb/>Ungeachtet über die sträflichen Agitationen dieses,
                         auch mit slavischen Geistlichen von katholischem Glaubensbekenntnisse eng
-                        liierten Priesters kein Zweifel obwaltet, wußte <persName key="wojtkowsky">Wojtkowsky</persName> dennoch bisher Alles zu vermeiden, wodurch seine
+                        liierten Priesters kein Zweifel obwaltet, wußte <rs type="person" ref="wojtkowsky" key="wojtkowsky">Wojtkowsky</rs> dennoch bisher Alles zu vermeiden, wodurch seine
                         Schuld hätte konstatiert und darnach seine Ausweisung eingeleitet werden
                         können.<lb/>Ähnliche Umtriebe hatte sich der im Herbste 1853 vom Bischofe
-                            <persName key="sztojkovics-arsenius">Sztojkowitz</persName> in
-                            <placeName ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</placeName> zum Proto-Presbyter geweihte, bei der
-                        russischen Gesandtschaft in <placeName ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</placeName> angestellte
+                            <rs type="person" ref="sztojkovics-arsenius" key="sztojkovics-arsenius">Sztojkowitz</rs> in
+                            <rs type="place" subtype="place" ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</rs> zum Proto-Presbyter geweihte, bei der
+                        russischen Gesandtschaft in <rs type="place" subtype="place" ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</rs> angestellte
                         Priester Wassilief in der ungarischen Hauptstadt zu Schulden kommen
-                        lassen.<lb/>Die seitdem in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> abermals erfolgte Weihe
+                        lassen.<lb/>Die seitdem in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> abermals erfolgte Weihe
                         von zwei russischen Priestern durch nicht unirte Bischöfe führte endlich zu
                         der gegründeten Vermuthung, daß das russische Cabinet auf diesem Wege
                         häufigere und innigere Verbindungen zwischen dem russischen und dem
@@ -194,19 +193,19 @@
                         russischer Geistlicher in den kaiserlich österreichischen Staaten für die
                         Zukunft nicht mehr zu ertheilen. Dieser Beschluß ist auch im Juni 1854 bei
                         der Gelegenheit als der zum Proto-Clerico beförderte Hauskaplan der
-                        kaiserlich russischen Gesandtschaft in Berlin, <persName key="palisadow-wasilij">Palisadow</persName>, sich um die Bewilligung zu
+                        kaiserlich russischen Gesandtschaft in Berlin, <rs type="person" ref="palisadow-wasilij" key="palisadow-wasilij">Palisadow</rs>, sich um die Bewilligung zu
                         dessen Einweihung durch den nicht unirten Bischof von
-                            <placeName ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</placeName> beworben hatte, dem kasierlich russischen
-                        Bothschafter in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> mitgetheilt worden.<lb/>Wie sehr
+                            <rs type="place" subtype="place" ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</rs> beworben hatte, dem kasierlich russischen
+                        Bothschafter in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> mitgetheilt worden.<lb/>Wie sehr
                         übrigens die russische Diplomatie bestrebt ist, jeden Anlaß zu benützten, um
                         über wichtigere Kundgebungen der nicht unirten griechischen Kirche in
                         Oesterreich den Schimmer eines Schutzverhältnisses leuchten zu lassen,
-                        beweist z.B. die feierliche Anwesenheit des <persName key="meyendorf-peter">Freiherrn von Meyendorff</persName> bei der, im Spätherbste des Jahres
-                        1853 vor sich gegangenen Vermählung des jungen Fürsten <persName key="obrenovic-mihailo">Michael Obrenovich</persName> mit der <persName key="hunyady-von-kethely-julia">Gräfin Hunyadyi</persName> in dem
-                        Gotteshause der nicht-unirten Griechen in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, ein
-                        Umstand, welcher um so mehr auffiel, als der <persName key="obrenovic-milosch">Vater des Bräutigams</persName> damals Ansprüche
+                        beweist z.B. die feierliche Anwesenheit des <rs type="person" ref="meyendorf-peter" key="meyendorf-peter">Freiherrn von Meyendorff</rs> bei der, im Spätherbste des Jahres
+                        1853 vor sich gegangenen Vermählung des jungen Fürsten <rs type="person" ref="obrenovic-mihailo" key="obrenovic-mihailo">Michael Obrenovich</rs> mit der <rs type="person" ref="hunyady-von-kethely-julia" key="hunyady-von-kethely-julia">Gräfin Hunyadyi</rs> in dem
+                        Gotteshause der nicht-unirten Griechen in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, ein
+                        Umstand, welcher um so mehr auffiel, als der <rs type="person" ref="obrenovic-milosch" key="obrenovic-milosch">Vater des Bräutigams</rs> damals Ansprüche
                         auf die serbische Regentenwürde erhob, und als die Braut einem ehemaligen
-                        Herrschergeschlechte <country key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarns</country>
+                        Herrschergeschlechte <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarns</rs>
                         entstammt.<lb/>Von noch eingehenderer Bedeutung erscheint die vom Czaren
                         befolgte Übung, einzelne Kirchen des griechisch nicht-unirten Ritus in den
                         österreichischen Provinzen mit kostbaren Kirchen-Ornamenten, Bildern und
@@ -214,35 +213,35 @@
                         Ritus mit dem Gedanken einer universellen geistlichen Oberherrschaft jenes
                         Fürsten immer vertrauter macht. So hatte die im Februar vorigen Jahres am
                         Tage der Consecrirung des nicht unirten Bischofs von
-                            <placeName ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</placeName> in der Kirche von Szt. Endré unter großem
+                            <rs type="place" subtype="place" ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</rs> in der Kirche von Szt. Endré unter großem
                         Gepränge erfolgte Aufstellung solcher Geschenke auf die, von den umliegenden
-                        serbischen Dörfern, und selbst von <placeName key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</placeName>
-                        und <placeName ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</placeName> hinzugeströmte Bevölkerung jenes
+                        serbischen Dörfern, und selbst von <rs type="place" subtype="place" key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</rs>
+                        und <rs type="place" subtype="place" ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</rs> hinzugeströmte Bevölkerung jenes
                         Bekenntnisses einen tiefen Eindruck gemacht. Als gleichzeitig analoge
-                        Spenden des Czars über <country ref="#place_57441f5036e3278df0a7cf7f317c5805">Serbien</country> nach der <region key="serbische-woiwodschaft" ref="#place_3b7d6bda0785d2523c2551de79a7d017">Woiwodina</region> und dem <region key="temescher-banat" ref="#place_67c8655646f02446cc1e4ecffd769f79">Temescher Banat</region> auf dem Wege waren, wurde
+                        Spenden des Czars über <rs type="place" subtype="country" ref="#place_57441f5036e3278df0a7cf7f317c5805">Serbien</rs> nach der <rs type="place" subtype="region" key="serbische-woiwodschaft" ref="#place_3b7d6bda0785d2523c2551de79a7d017">Woiwodina</rs> und dem <rs type="place" subtype="region" key="temescher-banat" ref="#place_67c8655646f02446cc1e4ecffd769f79">Temescher Banat</rs> auf dem Wege waren, wurde
                         ein fortwährendes Hin- und Herreisen griechischer Geistlicher in den
                         oberwähnten Kronländern bemerkbar ohne daß übrigens über die solchen
                         Sendlingen beigegeben Instruktionen etwas Genaueres je hätte in Erfahrung
                         gebracht werden können.<lb/>Ähnliche Übelstände erzeugten die zu Gunsten
-                        Verunglückter aus den Jahren 1848/49 von <country ref="#place_65f7b8e17e93bc2a87843d99e82c08a5">Russland</country>
-                        eingeschickten und von dem <persName key="rajacic-joseph">Patriarchen von
-                            Carlowitz</persName> im März 1854 ertheilten Unterstützungsgelder,
+                        Verunglückter aus den Jahren 1848/49 von <rs type="place" subtype="country" ref="#place_65f7b8e17e93bc2a87843d99e82c08a5">Russland</rs>
+                        eingeschickten und von dem <rs type="person" ref="rajacic-joseph" key="rajacic-joseph">Patriarchen von
+                            Carlowitz</rs> im März 1854 ertheilten Unterstützungsgelder,
                         welche zum großen Theile unter die rührige, eines großen Anhangs sich
                         erfreuende nicht unirte Geistlichkeit vertheilt wurden. Gleichzeitigen
                         Meldungen zufolge, waren mit solchen Geldern auch geheime Subsidien
-                            <country ref="#place_65f7b8e17e93bc2a87843d99e82c08a5">Russland</country>s daselbst eingegangen, welche wie allgemein
-                        angenommen wurde, zu politischen Zwecken bestimmt waren. Auch in <country key="kroatien" ref="#place_46ef149805b1b370596a83886b1e010e">Croatien</country> und <region key="slawonien" ref="#place_15f10264a572e8ce0fe253bc889cdbf5">Slavonien</region> regt sich ein religiöses Bewußtsein, welchem die
+                            <rs type="place" subtype="country" ref="#place_65f7b8e17e93bc2a87843d99e82c08a5">Russland</rs>s daselbst eingegangen, welche wie allgemein
+                        angenommen wurde, zu politischen Zwecken bestimmt waren. Auch in <rs type="place" subtype="country" key="kroatien" ref="#place_46ef149805b1b370596a83886b1e010e">Croatien</rs> und <rs type="place" subtype="region" key="slawonien" ref="#place_15f10264a572e8ce0fe253bc889cdbf5">Slavonien</rs> regt sich ein religiöses Bewußtsein, welchem die
                         Suprematie-Gelüste der Griechen, der Haß der Religionspartheien und die
                         Institution der Militairgrenze zum Theile Nahrung gewährt. In diesen
                         Kronländern neigt sich vorzüglich die niedere Geistlichkeit und zwar je
-                        ungebildeter desto entschiedener gegen <country ref="#place_65f7b8e17e93bc2a87843d99e82c08a5">Russland</country> hin. Der
+                        ungebildeter desto entschiedener gegen <rs type="place" subtype="country" ref="#place_65f7b8e17e93bc2a87843d99e82c08a5">Russland</rs> hin. Der
                         gemeine Grieche, der Grenzer und der Geistliche müssen dort vom religiösen
                         Standpunkte beurtheilt werden: für sie ist der Czar der erste und nächste
-                        nach Gott.<lb/>Ähnliche Erscheinungen treten in der <region key="serbische-woiwodschaft" ref="#place_3b7d6bda0785d2523c2551de79a7d017">Woiwodina</region> und im <region key="temescher-banat" ref="#place_67c8655646f02446cc1e4ecffd769f79">Temescher Banat</region> dem Beobachter entgegen.
+                        nach Gott.<lb/>Ähnliche Erscheinungen treten in der <rs type="place" subtype="region" key="serbische-woiwodschaft" ref="#place_3b7d6bda0785d2523c2551de79a7d017">Woiwodina</rs> und im <rs type="place" subtype="region" key="temescher-banat" ref="#place_67c8655646f02446cc1e4ecffd769f79">Temescher Banat</rs> dem Beobachter entgegen.
                         Die slavische Parthei der Majorität nach dem griechischen Cultus angehörig,
                         träumt auch dort von einer Suprematie ihrer Kirche durch die Unterstützung
-                            <country ref="#place_65f7b8e17e93bc2a87843d99e82c08a5">Russland</country>s.<lb/>Diese Parthei sucht die Intervention
-                            <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country>s zu Gunsten der Türken,
+                            <rs type="place" subtype="country" ref="#place_65f7b8e17e93bc2a87843d99e82c08a5">Russland</rs>s.<lb/>Diese Parthei sucht die Intervention
+                            <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>s zu Gunsten der Türken,
                         als eine der Religion zuwiderlaufende darzustellen, und benützt dabei die
                         theils fanatische und theils erkaufte serbische Geistlichkeit, welche die
                         inspirierte Lehre auch auf diesseitiges Ufer verpflanzt. Hat man auch die
@@ -252,11 +251,11 @@
                         Impulse folgen würden.<lb/>Die auf bereits 3.200.000 Seelen angewachsene
                         griechisch nicht unirte Kirche der kaiserlich österreichischen Staaten, wird
                         von dem Erzbischofe von Carlowitz [Sremski Karlovci] und den Bischöfen von
-                            <placeName key="novi-sad" ref="#place_52d08ce39e6c067f42a0366f2239f7c8">Neusatz</placeName>, <placeName key="temeswar" ref="#place_3b202c11c9eb9f8d289acdb678dbc975">Temesvar</placeName>, Werschetz [<placeName ref="#place_0a6e1cc016ecc63c7bcdca9c8dd3be25">Vršac</placeName>],
-                            <placeName ref="#place_8d86f34f1e2d2dea2b48793b2734fae8">Arad</placeName>, Pakratz [<placeName ref="#place_e38a74a594c8adaf647632bd2e0207f8">Pakrac</placeName>],
-                        Carlstadt [<placeName ref="#place_f7b21c4adea81b259d7c494795aa753e">Karlovac</placeName>], <placeName ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</placeName>,
-                            <placeName ref="#place_f0cb899d2f50889980d12f59807d7ae0">Hermannstadt</placeName>, <placeName ref="#place_473a33abfe6141e8b2f9fddf964bf69a">Czernowitz</placeName>
-                        und Sebenico [<placeName ref="#place_8a08157031453ab42b89526c9e2b33f9">Šibenik</placeName>] administrirt, welche
+                            <rs type="place" subtype="place" key="novi-sad" ref="#place_52d08ce39e6c067f42a0366f2239f7c8">Neusatz</rs>, <rs type="place" subtype="place" key="temeswar" ref="#place_3b202c11c9eb9f8d289acdb678dbc975">Temesvar</rs>, Werschetz [<rs type="place" subtype="place" ref="#place_0a6e1cc016ecc63c7bcdca9c8dd3be25">Vršac</rs>],
+                            <rs type="place" subtype="place" ref="#place_8d86f34f1e2d2dea2b48793b2734fae8">Arad</rs>, Pakratz [<rs type="place" subtype="place" ref="#place_e38a74a594c8adaf647632bd2e0207f8">Pakrac</rs>],
+                        Carlstadt [<rs type="place" subtype="place" ref="#place_f7b21c4adea81b259d7c494795aa753e">Karlovac</rs>], <rs type="place" subtype="place" ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</rs>,
+                            <rs type="place" subtype="place" ref="#place_f0cb899d2f50889980d12f59807d7ae0">Hermannstadt</rs>, <rs type="place" subtype="place" ref="#place_473a33abfe6141e8b2f9fddf964bf69a">Czernowitz</rs>
+                        und Sebenico [<rs type="place" subtype="place" ref="#place_8a08157031453ab42b89526c9e2b33f9">Šibenik</rs>] administrirt, welche
                         größtentheils auf die Dotationen ihres eigenen Religionsfondes und auf die
                         Lokal-Einkünfte angewiesen sind, indem von Seite des Ärars nur der Bischof
                         von Sebenico einen jährlichen Gehalt von 6000 fl bezieht, und dem Erzbischof
@@ -269,13 +268,13 @@
                         übrigen nicht unirten Bischöfe beläuft sich auf beiläufig 6.000 fl.<lb/>In
                         Betreff des Verhältnisses all dieser geistlichen Würdenträger zu der
                         kaiserlichen Regierung tritt der wesentliche Umstand hervor, daß jene von
-                            <placeName key="novi-sad" ref="#place_52d08ce39e6c067f42a0366f2239f7c8">Neusatz</placeName>, <placeName key="temeswar" ref="#place_3b202c11c9eb9f8d289acdb678dbc975">Temesvar</placeName>, <placeName ref="#place_8d86f34f1e2d2dea2b48793b2734fae8">Arad</placeName>, <placeName key="pakrac" ref="#place_da7f7c1ef932fd87bfad6e6324d4f2db">Pakratz</placeName>, <placeName key="karlovac" ref="#place_2e46d380e9743ba600fcaee8e351a488">Carlstadt</placeName>, und <placeName ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</placeName> die von dem
+                            <rs type="place" subtype="place" key="novi-sad" ref="#place_52d08ce39e6c067f42a0366f2239f7c8">Neusatz</rs>, <rs type="place" subtype="place" key="temeswar" ref="#place_3b202c11c9eb9f8d289acdb678dbc975">Temesvar</rs>, <rs type="place" subtype="place" ref="#place_8d86f34f1e2d2dea2b48793b2734fae8">Arad</rs>, <rs type="place" subtype="place" key="pakrac" ref="#place_da7f7c1ef932fd87bfad6e6324d4f2db">Pakratz</rs>, <rs type="place" subtype="place" key="karlovac" ref="#place_2e46d380e9743ba600fcaee8e351a488">Carlstadt</rs>, und <rs type="place" subtype="place" ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</rs> die von dem
                         Erzbischof von Carlowitz präsidierte sogenannte heilige Synode bilden, darin
                         Sitz und Stimme haben, die in Erledigung kommenden 6 Bischofsitze und selbst
                         jenen von Carlowitz besetzen, und nur die Bestätigung des Landesfürsten
                         darüber einholen, während die Bischöfe von
-                            <placeName ref="#place_f0cb899d2f50889980d12f59807d7ae0">Hermannstadt</placeName>, <placeName ref="#place_473a33abfe6141e8b2f9fddf964bf69a">Czernowitz</placeName>
-                        und <placeName key="sibenik" ref="#place_ee5a127267a0799b42a76a9266626c3a">Sebenico</placeName>, weil jedesmal von der
+                            <rs type="place" subtype="place" ref="#place_f0cb899d2f50889980d12f59807d7ae0">Hermannstadt</rs>, <rs type="place" subtype="place" ref="#place_473a33abfe6141e8b2f9fddf964bf69a">Czernowitz</rs>
+                        und <rs type="place" subtype="place" key="sibenik" ref="#place_ee5a127267a0799b42a76a9266626c3a">Sebenico</rs>, weil jedesmal von der
                         Regierung unmittelbar ernannt, von der heiligen Synode ausgeschlossen
                         bleiben.<lb/>Durch die, diesen Bischöfen zustehende Gerichtsbarkeit über die
                         nicht unirte weltliche und Klostergeistlichkeit ihrer Diöcesen, durch die
@@ -287,42 +286,42 @@
                         Bischöfen gibt, welcher nicht in direkter Verbindung mit der als oberste
                         geistliche Autorität von ihnen anerkannten St. Petersburger Synode stünde,
                         und als ihre sämmtliche diesseitigen Schutzbefohlenen der slavischen Nation
-                        angehören.<lb/>Daß auch der jetzige <persName key="rajacic-joseph">Patriarch
-                            von Carlowitz</persName> dem russischen Kaiser die Patronatsgewalt über
+                        angehören.<lb/>Daß auch der jetzige <rs type="person" ref="rajacic-joseph" key="rajacic-joseph">Patriarch
+                            von Carlowitz</rs> dem russischen Kaiser die Patronatsgewalt über
                         die diesseitige orientalische Kirche de facto zuerkennt, beweist die, im
                         Anfange des Jahres 1853 vom Erstern förmlich angesprochene und von dem
                         Czaren auch bewilligte Unterstützung zum Wiederaufbaue und zur Einrichtung
-                        der, bei der letzten Umwälzung in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> zerstörten griechischen Kirchen. Daß ferner die
+                        der, bei der letzten Umwälzung in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> zerstörten griechischen Kirchen. Daß ferner die
                         Tendenz der russischen Propaganda nicht allein die Unterordnung aller
-                        griechischen Synoden unter jene von <placeName ref="#place_3215e321c1a4aada45a03cd2e8e407bc">St. Petersburg</placeName>
+                        griechischen Synoden unter jene von <rs type="place" subtype="place" ref="#place_3215e321c1a4aada45a03cd2e8e407bc">St. Petersburg</rs>
                         ist, sondern auch diese auf die Assimilierung der unirten mit der
                         griechischen Kirche noch immer abzielt, geht auch aus der Agitation hervor,
                         welche die Geistlichkeit unter den mit den Russen an Charakter, Neigungen
-                        und Sprache so ähnlichen Rußniaken (Ruthenen) in <region ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</region>,
-                        an der Nordgrenze von <region ref="#place_bafe2294b7fb193dee4992b1ed9dd773">Siebenbürgen</region> und in der <region key="komitat-ung" ref="#place_96fc5057f31510bc9839638d0970c5a0">Unghvarer Gespannschaft</region> Ungarns in den Jahren
+                        und Sprache so ähnlichen Rußniaken (Ruthenen) in <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs>,
+                        an der Nordgrenze von <rs type="place" subtype="region" ref="#place_bafe2294b7fb193dee4992b1ed9dd773">Siebenbürgen</rs> und in der <rs type="place" subtype="region" key="komitat-ung" ref="#place_96fc5057f31510bc9839638d0970c5a0">Unghvarer Gespannschaft</rs> Ungarns in den Jahren
                         1848/49 in dieser Richtung unterhielt, und noch dermalen hie und da im
                         Stillen unterhält.<lb/>Im Angesichte so ernster Thatsachen, und bei der
                         steigenden Bedeutung der, im Oriente aller Orten auftauchenden Ansprüche der
                         griechischen Kirche, stellt sich eine erneuerte und eindämmende Feststellung
-                        der Gewalten ihres Episkopats in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> als dringend nothwendig dar. Die tiefwurzelnden
+                        der Gewalten ihres Episkopats in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> als dringend nothwendig dar. Die tiefwurzelnden
                         Antipathien der griechisch orientalischen Kirche gegen die römisch
                         katholische haben sich bisher als ein unübersteigliches Hinderniß zu irgend
                         welchem Erfolge der Missionen der römischen Propaganda erwiesen. Auch ist
-                        die Einwirkung <country ref="#place_65f7b8e17e93bc2a87843d99e82c08a5">Russland</country>s auf seine diesseitigen
+                        die Einwirkung <rs type="place" subtype="country" ref="#place_65f7b8e17e93bc2a87843d99e82c08a5">Russland</rs>s auf seine diesseitigen
                         Glaubensgenossen so wohlberechnet und anhaltend, daß ihr anders, als durch
                         die österreichische Regierung selbst, keine wirksame Schranken gesetzt
-                        werden können.<lb/>Dem Oberhaupte der griechischen Kirche in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> dermalen <persName key="rajacic-joseph">Erzbischof Rajacsics</persName> wäre daher ein
+                        werden können.<lb/>Dem Oberhaupte der griechischen Kirche in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> dermalen <rs type="person" ref="rajacic-joseph" key="rajacic-joseph">Erzbischof Rajacsics</rs> wäre daher ein
                         Kirchenrath von wenigstens 6 hohen, politischen Intriguen und
                         Nationalitäts-Bestrebungen fernstehenden geistlichen Würdenträgern, als
                         Bischöfe, Archimandriten, Igumenen oder Erzpriester beizugeben, die eine
                         Synode zu bilden hätten. Diese Behörde wäre, wie jene zu
-                            <placeName ref="#place_8f96082621edf8a333416cae9740e8fe">Athen</placeName> verbunden, in außerordentlichen,
+                            <rs type="place" subtype="place" ref="#place_8f96082621edf8a333416cae9740e8fe">Athen</rs> verbunden, in außerordentlichen,
                         ausschließlich geistlichen Dingen sich an den ökumenischen Patriarchen nach
-                            <placeName key="konstantinopel" ref="#place_5a73d22c67f3af236f91499bf068c1d5">Constantinopel</placeName>, niemals aber
-                        nach <placeName key="st-petersburg" ref="#place_69c9bde6ded0ee8b59d485a47e2e203f">St. Petersburg </placeName>zu wenden.
+                            <rs type="place" subtype="place" key="konstantinopel" ref="#place_5a73d22c67f3af236f91499bf068c1d5">Constantinopel</rs>, niemals aber
+                        nach <rs type="place" subtype="place" key="st-petersburg" ref="#place_69c9bde6ded0ee8b59d485a47e2e203f">St. Petersburg </rs>zu wenden.
                         Den Metropoliten in den Provinzen müßte die möglichst unabhängige Stellung
                         gegeben werden, und es müßte ihnen zur Pflicht gemacht werden, nur in streng
-                        geistlichen Angelegenheiten an den Patriarchen zu <placeName key="sremski-karlovci" ref="#place_ae92961b00dfa6e5b5a59451d35c8376">Carlowitz</placeName> sich zu wenden, bei allen
+                        geistlichen Angelegenheiten an den Patriarchen zu <rs type="place" subtype="place" key="sremski-karlovci" ref="#place_ae92961b00dfa6e5b5a59451d35c8376">Carlowitz</rs> sich zu wenden, bei allen
                         übrigen Anlässen dagegen mit der Regierung direkt zu verkehren. In Städten,
                         wo trotz einer bedeutenden Anzahl von nicht unirten Einwohnern, sich kein
                         Bischof befindet, wäre ein solcher von möglichst loyaler Gesinnung zu
@@ -331,18 +330,18 @@
                         aus demselben vorzubeugen, mit den entsprechenden Ubikationen für die
                         Geistlichkeit und mit den materiellen Kirchenbedürfnissen zu versehen. Die
                         Verwirklichung einer solchen Maßregel wäre gegenwärtig namentlich für den
-                        dalmatinischen Kreis von <placeName ref="#place_b3a736a103db5775e76f34aa9de837a4">Cattaro</placeName> [Kotor], sehr
+                        dalmatinischen Kreis von <rs type="place" subtype="place" ref="#place_b3a736a103db5775e76f34aa9de837a4">Cattaro</rs> [Kotor], sehr
                         wünschenswerth, welcher obgleich bei 25.000 Griechen zählend, keinen
-                        Bischofsitz hat, während der Bischof von <placeName key="sibenik" ref="#place_ee5a127267a0799b42a76a9266626c3a">Sebenico</placeName> in allen übrigen 3 Kreisen des Landes eine weit
+                        Bischofsitz hat, während der Bischof von <rs type="place" subtype="place" key="sibenik" ref="#place_ee5a127267a0799b42a76a9266626c3a">Sebenico</rs> in allen übrigen 3 Kreisen des Landes eine weit
                         geringere Anzahl von Gläubigen des griechischen Bekenntnisses zu
                         administrieren hat, und dennoch den erstgedachten Kreis nur einmal im Jahre
-                        visitiert.<lb/>Die Ernennung eines, die Interessen <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</country> im Auge habenden griechischen
+                        visitiert.<lb/>Die Ernennung eines, die Interessen <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> im Auge habenden griechischen
                         Bischofs für Cattaro, dürfte den österreichisch feindlichen Einwirkungen
-                        der, im angrenzenden <country ref="#place_4e92f9d2cdf0b8eb493ae3a19709d121">Montenegro</country> exponierten russischen
+                        der, im angrenzenden <rs type="place" subtype="country" ref="#place_4e92f9d2cdf0b8eb493ae3a19709d121">Montenegro</rs> exponierten russischen
                         Popen ein Ende machen, und die Befestigung seiner Autorität in diesem
                         Augenblicke um so leichter herbeiführen, als durch die Vacans der, dem
-                        jeweiligen Vladica von <country ref="#place_4e92f9d2cdf0b8eb493ae3a19709d121">Montenegro</country> beiliegenden, dem
-                        dermaligen Fürsten <persName key="petrovic-njegos-danilo">Danilo</persName>
+                        jeweiligen Vladica von <rs type="place" subtype="country" ref="#place_4e92f9d2cdf0b8eb493ae3a19709d121">Montenegro</rs> beiliegenden, dem
+                        dermaligen Fürsten <rs type="person" ref="petrovic-njegos-danilo" key="petrovic-njegos-danilo">Danilo</rs>
                         aber nicht anklebende Würde eines Bischofs, die diesseits zu besorgenden
                         religiösen Anfeindungen gänzlich entfielen. So geringfügig ferner auch die
                         Wahl der, in den Elementarschul- und Kirchenbüchern der Griechen zu

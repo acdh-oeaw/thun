@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Abschrift eines Alleruntertänigsten Vortrages <persName key="thun-hohenstein-leo">Leo Thuns</persName> zur Regelung der Verwaltung
+                <title>Abschrift eines Alleruntertänigsten Vortrages <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Leo Thuns</rs> zur Regelung der Verwaltung
                     der Religionsfonds<lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1852-05-12">12.
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1852-05-12">12.
                         Mai 1852</date>
                 </title>
             </titleStmt>
@@ -38,7 +37,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -51,7 +50,7 @@
                     <term>Neoabsolutismus</term>
                 </index>
                 <p>Allerunterthänigster Vortrag des Regierungsministers für Cult und Unterricht
-                        <persName key="thun-hohenstein-leo">Leo Grafen von Thun</persName> wegen
+                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Leo Grafen von Thun</rs> wegen
                     Zuziehung bischöflicher Kommissäre zur Verfassung der Jahrespräliminarien der
                     Religionsfonde</p>
                 <p>Allergnädigster Herr!</p>
@@ -79,7 +78,7 @@
                     des allerhöchsten Patentes vom 31. Dezember 1851<note xml:id="note_2">
                         <ref target="http://alex.onb.ac.at/cgi-content/alex?apm=0&amp;aid=rgb&amp;datum=18520004&amp;seite=00000027&amp;size=45">RGBl 3/1852</ref>.</note>, wodurch der § 2 der im allerhöchsten Patente
                     vom 4. März 1849<note xml:id="note_3">
-                        <ref target="http://alex.onb.ac.at/cgi-content/alex?apm=0&amp;aid=rgb&amp;datum=18490005&amp;seite=00000165&amp;size=45">RGBl 151/1849</ref>.</note> enthaltenen Erklärung, daß „<persName key="franz-joseph">Euer Majestät</persName> jede gesetzlich anerkannte
+                        <ref target="http://alex.onb.ac.at/cgi-content/alex?apm=0&amp;aid=rgb&amp;datum=18490005&amp;seite=00000165&amp;size=45">RGBl 151/1849</ref>.</note> enthaltenen Erklärung, daß „<rs type="person" ref="franz-joseph" key="franz-joseph">Euer Majestät</rs> jede gesetzlich anerkannte
                     Kirche und Religionsgesellschaft in dem Rechte der gemeinsamen öffentlichen
                     Religionsübung, dann in der selbstständigen Verwaltung ihrer Angelegenheit,
                     ferner im Besitze und Genuße der für ihre Cultus-, Unterrichts- und
@@ -100,7 +99,7 @@
                     Endergebnis sichern dürfte.<lb/>In dieser für die Gebarung der besagten Fonde,
                     für die Bethätigung der Administrationsorgane, für die hoch aufgeregte
                     Theilnahme des gesammten Klerus gleich wichtigen Beziehung erlaube ich mir
-                        <persName key="franz-joseph">Euer Majestät</persName> in tiefster
+                        <rs type="person" ref="franz-joseph" key="franz-joseph">Euer Majestät</rs> in tiefster
                     Ehrerbiethung, und zwar nur zu diesem Akte der Präliminarverfassung die
                     Beiziehung bischöflicher Kommissäre vorzuschlagen, welche einerseits mit dem
                     Vertrauen der Ordinariate ihres Kronlandes gesendet, anderseits durch die
@@ -108,7 +107,7 @@
                     die Absicht der dem Interesse der Staatsverwaltung und des Episkopates gleich
                     zusagenden und erfolgreichen Bürgschaft einer guten Fondsverwaltung sehr
                     wirksamen Einfluß nehmen würden.<lb/>Für diese Maßnahme wage ich aber die
-                    allerhöchste Sanktion <persName key="franz-joseph">Euer Majestät</persName> aus
+                    allerhöchste Sanktion <rs type="person" ref="franz-joseph" key="franz-joseph">Euer Majestät</rs> aus
                     dem Grunde ehrfurchtsvollst zu erbitten, um eben kraft dieser allerhöchsten
                     Willensmeinung den politischen und den verwaltenden Kameralfinanzbehörden das
                     Recht der Einsprache dieser Abgeordneten erklären zu können, ferner um dem
@@ -116,7 +115,7 @@
                     Begehren des Episkopates in dieser einfachsten Weise noch vor dem etwaigen
                     Auftauchen ausgedehnterer Forderungen schon jetzt die Grenze derselben setzen zu
                     können.<lb/>Alle diejenigen Religionsfonde, deren Einnahmsquellen – wie
-                    vorzugsweise in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> und <country key="kroatien" ref="#place_46ef149805b1b370596a83886b1e010e">Kroazien</country> – zum großen Theil aus dem Ertrage von Gütern und
+                    vorzugsweise in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> und <rs type="place" subtype="country" key="kroatien" ref="#place_46ef149805b1b370596a83886b1e010e">Kroazien</rs> – zum großen Theil aus dem Ertrage von Gütern und
                     Realitäten (welche die Kameralbehörden ohne Ingerenz der politischen
                     administriven) bestehen, können durch diese erweiterte Überwachung nur gewinnen.
                     Bei jenen Fonden aber, deren Vermögen durch Veräußerung aller solcher Entitäten
@@ -153,30 +152,30 @@
                     zu erledigen nahezu unmöglich ist und in diesem Lichte von dem Episkopate eben
                     durch seine Mitwirkung anerkannt werden müßte.<lb/>Diese allerhöchste
                     Willensmeinung würde mir endlich noch die Ermächtigung in die Hand legen, das
-                    Einschreiten des <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">siebenbürgischen</region>
+                    Einschreiten des <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">siebenbürgischen</rs>
                     römisch-katholischen Bischofes, welcher dort nach vollem historischen und
                     gesetzlich wohlbegründeten Rechte als das Oberhaupt der römisch-katholischen
                     Kirche auch in allen Fragen der römisch-katholischen Fonde als entscheidendes
                     Organ seiner Kirche betrachtet werden will, eine den Umständen gemäße Erledigung
-                    geben zu können.<lb/>Für die <country key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">Lombardie und
-                        Venedig</country>, wo das Cultuserfordernis eine reine Ausgabe des
+                    geben zu können.<lb/>Für die <rs type="place" subtype="country" key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">Lombardie und
+                        Venedig</rs>, wo das Cultuserfordernis eine reine Ausgabe des
                     Staatsärars ist, ohne daß ein Religionsfond oder irgend eine Empfangsquelle
                     vorhanden wäre, hätte diese Einführung bischöflicher Kommissäre keine
-                    Geltung.<lb/>Geruhen demnach <persName key="franz-joseph">Euer
-                        Majestät</persName> in Anbetracht dieser vielen Beweggründe meinen
+                    Geltung.<lb/>Geruhen demnach <rs type="person" ref="franz-joseph" key="franz-joseph">Euer
+                        Majestät</rs> in Anbetracht dieser vielen Beweggründe meinen
                     allerunterthänigsten Antrag der Beiziehung bischöflicher Kommissäre zu dem Akte
                     der Verfassung der Jahrespräliminarien der Religionsfonde als
                     Berathungskommissionsglieder zu genehmigen und hierüber die allerhöchste
                     Willensmeinung auszusprechen.</p>
                 <p>Wien, am 12. Mai [1]852</p>
                 <p>Mely[?]<lb/>
-                    <persName key="rassmann-johann">Raßmann</persName>
+                    <rs type="person" ref="rassmann-johann" key="rassmann-johann">Raßmann</rs>
                 </p>
                 <p/>
                 <p>Entwurf zur allerhöchsten Resolution<lb/>Es ist mein Wille, daß künftig zu dem
                     Akte der Verfassung der Jahrespräliminarien der Religionsfonde bischöfliche
                     Kommissäre als Berathungskommissionsglieder beigezogen werden und beauftrage
-                    Meinen <persName key="thun-hohenstein-leo">Minister des Cultus</persName>
+                    Meinen <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Minister des Cultus</rs>
                     hiernach das Geeignete vorzukehren.</p>
             </div>
         </body>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -28,7 +27,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -39,7 +38,7 @@
                     <term>Protestantenpatent</term>
                     <term>Protestanten</term>
                 </index>
-                <p>Evangelische Gymnasien in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country>, welchen das
+                <p>Evangelische Gymnasien in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, welchen das
                     Öffentlichkeitsrecht verliehen wurde</p>
                 <p>
                     <table rows="14" cols="4">
@@ -52,7 +51,7 @@
                         </row>
                         <row>
                             <cell>
-                                <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</placeName>
+                                <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</rs>
                             </cell>
                             <cell/>
                             <cell/>
@@ -60,52 +59,52 @@
                         </row>
                         <row>
                             <cell>
-                                <placeName key="oedenburg" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Ödenburg</placeName>
+                                <rs type="place" subtype="place" key="oedenburg" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Ödenburg</rs>
                             </cell>
-                            <cell>1. <placeName key="oedenburg" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Ödenburg</placeName>
+                            <cell>1. <rs type="place" subtype="place" key="oedenburg" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Ödenburg</rs>
                             </cell>
                             <cell>VIII</cell>
                             <cell>1855</cell>
                         </row>
                         <row>
                             <cell/>
-                            <cell>2. <placeName key="oberschuetzen" ref="#place_890ec311e2a00abfe6833608ac25daa8">Oberschützen</placeName>
+                            <cell>2. <rs type="place" subtype="place" key="oberschuetzen" ref="#place_890ec311e2a00abfe6833608ac25daa8">Oberschützen</rs>
                             </cell>
                             <cell>IV</cell>
                             <cell>1852</cell>
                         </row>
                         <row>
                             <cell>
-                                <placeName ref="#place_dd51fef1ae0877c04e8b4e19eddbabd5">Kaschau</placeName> [Košice]</cell>
-                            <cell>3. <placeName ref="#place_1d3a164e45efdad9a1b68b54bd69260c">Eperies</placeName>
+                                <rs type="place" subtype="place" ref="#place_dd51fef1ae0877c04e8b4e19eddbabd5">Kaschau</rs> [Košice]</cell>
+                            <cell>3. <rs type="place" subtype="place" ref="#place_1d3a164e45efdad9a1b68b54bd69260c">Eperies</rs>
                             </cell>
                             <cell>VIII</cell>
                             <cell>1855</cell>
                         </row>
                         <row>
                             <cell/>
-                            <cell>4. <placeName ref="#place_16f90d6b340b3a83ead652eadec3945f">Kosmark</placeName>
+                            <cell>4. <rs type="place" subtype="place" ref="#place_16f90d6b340b3a83ead652eadec3945f">Kosmark</rs>
                             </cell>
                             <cell>VIII</cell>
                             <cell>1856</cell>
                         </row>
                         <row>
                             <cell/>
-                            <cell>5. <placeName ref="#place_ae0a1ebd1a65e39fcfca4f9b05f6d4c3">Rosenau</placeName>
+                            <cell>5. <rs type="place" subtype="place" ref="#place_ae0a1ebd1a65e39fcfca4f9b05f6d4c3">Rosenau</rs>
                             </cell>
                             <cell>VIII</cell>
                             <cell>1857</cell>
                         </row>
                         <row>
                             <cell/>
-                            <cell>6. <placeName ref="#place_8d7412981af6c6871d0c1ff2712e60fa">Mar[maros] Szigeth</placeName>
+                            <cell>6. <rs type="place" subtype="place" ref="#place_8d7412981af6c6871d0c1ff2712e60fa">Mar[maros] Szigeth</rs>
                             </cell>
                             <cell>IV</cell>
                             <cell>1855</cell>
                         </row>
                         <row>
                             <cell>
-                                <placeName key="grosswardein" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Gr[oß] Wardein</placeName>
+                                <rs type="place" subtype="place" key="grosswardein" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Gr[oß] Wardein</rs>
                             </cell>
                             <cell>7. Debreczin</cell>
                             <cell>VIII</cell>
@@ -113,7 +112,7 @@
                         </row>
                         <row>
                             <cell>
-                                <placeName ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</placeName>
+                                <rs type="place" subtype="place" ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</rs>
                             </cell>
                             <cell>8. Nagy-Körös</cell>
                             <cell>VIII</cell>
@@ -121,21 +120,21 @@
                         </row>
                         <row>
                             <cell/>
-                            <cell>9. <placeName ref="#place_c696bb716b486df5d25c0e8cb77bf7d9">Kecskemet</placeName>
+                            <cell>9. <rs type="place" subtype="place" ref="#place_c696bb716b486df5d25c0e8cb77bf7d9">Kecskemet</rs>
                             </cell>
                             <cell>VIII</cell>
                             <cell>1857</cell>
                         </row>
                         <row>
                             <cell/>
-                            <cell>10. <placeName key="hodmezovasarhely" ref="#place_4fd98a6ed688372439ecccac0e9c278d">Holdmezö-Vasarhely</placeName>
+                            <cell>10. <rs type="place" subtype="place" key="hodmezovasarhely" ref="#place_4fd98a6ed688372439ecccac0e9c278d">Holdmezö-Vasarhely</rs>
                             </cell>
                             <cell>IV</cell>
                             <cell>1854</cell>
                         </row>
                         <row>
                             <cell/>
-                            <cell>11. <placeName ref="#place_4baf4f658902149e2d9e468b3d3e2161">Kiskun-Holos</placeName>
+                            <cell>11. <rs type="place" subtype="place" ref="#place_4baf4f658902149e2d9e468b3d3e2161">Kiskun-Holos</rs>
                             </cell>
                             <cell>IV</cell>
                             <cell>1856</cell>
@@ -148,9 +147,9 @@
                         </row>
                         <row>
                             <cell>
-                                <placeName key="grosswardein" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Gr[oß] Wardein</placeName>
+                                <rs type="place" subtype="place" key="grosswardein" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Gr[oß] Wardein</rs>
                             </cell>
-                            <cell>12. <placeName ref="#place_233bd25625ec95758beb2caa1b22b749">Németi-Száthmar</placeName>
+                            <cell>12. <rs type="place" subtype="place" ref="#place_233bd25625ec95758beb2caa1b22b749">Németi-Száthmar</rs>
                             </cell>
                             <cell>IV</cell>
                             <cell>1859</cell>

@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="eitelberger-rudolf" role="sender:gelehrter">Rudolf
-                        Eitelberger</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="eitelberger-rudolf" key="eitelberger-rudolf" role="sender:gelehrter">Rudolf
+                        Eitelberger</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1853-01-01">1. Januar 1853</date>
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1853-01-01">1. Januar 1853</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -66,7 +65,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -84,8 +83,8 @@
                     Lehrmittel mich mit der Direktion der <orgName key="akademie-der-bildenden-kuenste">k.k. Akademie der bildenden
                         Künste</orgName> ins Einvernehmen zu setzen und sodann Euer Excellenz einen
                     Vorschlag darüber zu erstatten.<lb/>Nachdem ich sowohl mit dem Herrn Direktor
-                        <persName key="ruben-christian">Ruben</persName>, als auch mit den Herren
-                    Prof. <persName key="bonitz-hermann">Bonitz</persName> und <persName key="jaeger-albert">Jäger</persName>, in deren Händen vorzugsweise die
+                        <rs type="person" ref="ruben-christian" key="ruben-christian">Ruben</rs>, als auch mit den Herren
+                    Prof. <rs type="person" ref="bonitz-hermann" key="bonitz-hermann">Bonitz</rs> und <rs type="person" ref="jaeger-albert" key="jaeger-albert">Jäger</rs>, in deren Händen vorzugsweise die
                     Leitung der Seminarien für Lehramtskandidaten liegt, Rücksprache genommen habe,
                     entledige ich mich in Nachfolgendem dieses mir zutheil gewordenen Auftrages und
                     bitte nur um Erlaubnis, etwas weitläufiger auf den Gegenstand selbst eingehen zu
@@ -128,7 +127,7 @@
                     voraussetzen, sondern, daß bei Erklärung von Kunstwerken, sei es von
                     historischem oder archäologischem Standpunkte, ästhetische Analysen häufig
                     vorkommen. Solche ästhetische Betrachtungen können – wenn sie nicht von rein
-                    spekulativem Gesichtspunkte in der Weise <persName key="hegel-georg-wilhelm-friedrich">Hegels</persName>, <persName key="vischer-friedrich-theodor">Vischers</persName> u. a. m. (den ich für
+                    spekulativem Gesichtspunkte in der Weise <rs type="person" ref="hegel-georg-wilhelm-friedrich" key="hegel-georg-wilhelm-friedrich">Hegels</rs>, <rs type="person" ref="vischer-friedrich-theodor" key="vischer-friedrich-theodor">Vischers</rs> u. a. m. (den ich für
                     ganz unfruchtbar und an und für sich für einen falschen halte) ausgehen – solche
                     ästhetische Betrachtungen verlangen ein Substrat, eine der Anschauung
                     zugängliche Unterlage. Es ist gerade bei der Ästhetik und allen damit
@@ -140,8 +139,8 @@
                     sehr auf die Wissenschaft und präokkupiert die Geister, besonders jugendliche,
                     in so hohem Grade, als in den Fächern, die in meinen Händen liegen. Unter zehn
                     Zuhörern kommen zum wenigsten acht mit vorgefaßten Meinungen in das Collegium,
-                    die über antike und mittelalterliche Kunst, über <persName key="raffael-santi">Rafael</persName> und <persName key="duerer-albrecht">Alb[recht]
-                        Dürer</persName> in gewißer Beziehung feste Ansichten haben, die aber weder
+                    die über antike und mittelalterliche Kunst, über <rs type="person" ref="raffael-santi" key="raffael-santi">Rafael</rs> und <rs type="person" ref="duerer-albrecht" key="duerer-albrecht">Alb[recht]
+                        Dürer</rs> in gewißer Beziehung feste Ansichten haben, die aber weder
                     auf Studium der Kunstwerke noch auf umfaßender Lektüre beruhen, sondern auf
                     Meinungen des sogenannten gebildeten Publikums, wie sie heute auftauchen, um
                     morgen wieder unterzugehen. Giebt es ja doch kaum einen halbwegs renomierten
@@ -149,8 +148,8 @@
                     über Kunst und Künstler sein Urtheil abgegeben zu haben.<lb/>Der Einfluß dieser
                     Schriftsteller auf die Ansichten über Kunst ist nicht unbedeutend. Die
                     ästhetische Athmosphäre, in der wir leben, ist erzeugt durch diese Belletristen
-                    und in <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country> wohl auch durch den Einfluß der Schule
-                        <persName key="hegel-georg-wilhelm-friedrich">Hegels</persName> auf
+                    und in <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> wohl auch durch den Einfluß der Schule
+                        <rs type="person" ref="hegel-georg-wilhelm-friedrich" key="hegel-georg-wilhelm-friedrich">Hegels</rs> auf
                     Ästhetik. Romanschriftsteller und spekulative Philosophen haben darin etwas
                     gemeinschaftliches, sie haben ein <hi rend="ul">fertiges</hi> Urtheil, das sie
                     dem Leser anbieten, das dieser umso lieber annimmt, als er des Selbstdenkens
@@ -171,7 +170,7 @@
                     niedergelegt ist, jener Kultur, die Sitte und Sittlichkeit läutert und erhebt,
                     ist von unseren Vorfahren in weit höherem Grade anerkannt worden, als es in
                     unseren Tagen geschieht. Von Kirchenfürsten wie von Staatsmännern sind die Worte
-                    des Abtes <persName key="salomo-III">Salomon von St. Gallen</persName> vergessen
+                    des Abtes <rs type="person" ref="salomo-III" key="salomo-III">Salomon von St. Gallen</rs> vergessen
                     worden: „<hi rend="ul">Wahre</hi> Kultur kann nur durch geweckten Kunstsinn
                     erreicht werden, nur dadurch kann die schwerfällige Volksmasse der Religion
                     veredelt zugeführt und in eine wahre Lebensthätigkeit versetzt werden.“<lb/>Der
@@ -185,7 +184,7 @@
                     der wahren Kunst einen Boden erobern, ist auf dem Gebiet der Kunst nur durch
                     einen nach einem Ziele konsequent hinwirkenden Unterricht möglich, der von einem
                     entsprechenden Materiale für Anschauung unterstützt wird.<lb/>Auf allen
-                    Universitäten <country key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</country> befinden sich
+                    Universitäten <rs type="place" subtype="country" key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</rs> befinden sich
                     daher zu dem Zwecke des Unterrichtes angelegt Kunstsammlungen, deren Vorsteher
                     die Professoren für Kunstgeschichte und Kunstarchäologie sind, und wo sich
                     solche Sammlungen nicht befinden, sind die Professoren zugleich Kustoden oder
@@ -208,11 +207,11 @@
                     den Unterricht modelte und auf Werke, die dem Charakter des Verfalles der
                     antiken Kunst an sich haben, ein besonderes Gewicht legte. Daher sind die
                     Antiken nur einseitig vertreten, die Ägineten<note xml:id="note_1">Anmerkung
-                        Eitelbergers: Mit Ausnahme eines von Herrn Direktor <persName key="boehm-josef-daniel">Böhm</persName> der Akademie geschenkten
+                        Eitelbergers: Mit Ausnahme eines von Herrn Direktor <rs type="person" ref="boehm-josef-daniel" key="boehm-josef-daniel">Böhm</rs> der Akademie geschenkten
                         Torso.</note>, die Niobiden, die Karyatiden vom Erechtheion, ganze
                     Göttercharaktere fehlen ganz. Im Mittelalter sieht es noch schlechter aus. Weder
-                    die <persName key="pisano-andrea">Pisanos</persName>, noch <persName key="michelangelo">Michel Angelo</persName> ist auch nur mit einem Stücke
-                    vertreten. Ich glaube, daß keine Akademie in <country ref="#place_5c4b925bf527c4f8581815a35a10d658">Europa</country> einen
+                    die <rs type="person" ref="pisano-andrea" key="pisano-andrea">Pisanos</rs>, noch <rs type="person" ref="michelangelo" key="michelangelo">Michel Angelo</rs> ist auch nur mit einem Stücke
+                    vertreten. Ich glaube, daß keine Akademie in <rs type="place" subtype="country" ref="#place_5c4b925bf527c4f8581815a35a10d658">Europa</rs> einen
                     solchen Mangel an Materiale hat.<lb/>Die <orgName key="akademie-der-bildenden-kuenste">Akademie</orgName>, die jetzt keine
                     Mitglieder mehr hat im früheren Sinn, von diesen daher keine Geschenke mehr
                     empfängt, ist auf nichts als den Staat und die sonstigen Fonds
@@ -220,14 +219,14 @@
                     <hi rend="ul">Für Zwecke des Kunstunterrichtes ist nie auf
                         der <orgName key="akademie-der-bildenden-kuenste">Akademie</orgName> eine
                         Sammlung angelangt, noch darauf gedacht worden</hi>.<lb/>In
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> besitzt allein der unschätzbare leider so wenig
-                    benützte Kunstkenner Herr Direktor <persName key="boehm-josef-daniel">J[osef]
-                        D[aniel] Böhm</persName> eine für die Zwecke des Unterrichtes geordnete
-                    Sammlung, die auch von allen Kunstfreunden <country key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</country> rühmlichst anerkannt wird.<lb/>Daher kommt auch
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> besitzt allein der unschätzbare leider so wenig
+                    benützte Kunstkenner Herr Direktor <rs type="person" ref="boehm-josef-daniel" key="boehm-josef-daniel">J[osef]
+                        D[aniel] Böhm</rs> eine für die Zwecke des Unterrichtes geordnete
+                    Sammlung, die auch von allen Kunstfreunden <rs type="place" subtype="country" key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</rs> rühmlichst anerkannt wird.<lb/>Daher kommt auch
                     vorzüglich die oberflächliche Kunstbildung im hiesigen Künstlerstande.<lb/>Woher
-                    hätte sie auch kommen sollen, wenn die erste <orgName key="akademie-der-bildenden-kuenste">Akademie</orgName> der <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">österreichischen Monarchie</country> die Thüren des
-                        <persName key="ghiberti-lorenzo">Ghiberti</persName> nur in Fragmenten
-                    besitzt, den <persName key="giotto">Giotto</persName> und <persName key="michelangelo">Michel Angelo</persName> ignorieren konnte? Wenn solche
+                    hätte sie auch kommen sollen, wenn die erste <orgName key="akademie-der-bildenden-kuenste">Akademie</orgName> der <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">österreichischen Monarchie</rs> die Thüren des
+                        <rs type="person" ref="ghiberti-lorenzo" key="ghiberti-lorenzo">Ghiberti</rs> nur in Fragmenten
+                    besitzt, den <rs type="person" ref="giotto" key="giotto">Giotto</rs> und <rs type="person" ref="michelangelo" key="michelangelo">Michel Angelo</rs> ignorieren konnte? Wenn solche
                     Zeichen der mangelnden Bildung einer solchen Anstalt aufgeprägt waren, die
                     berufen wäre, der Hort und Träger derselben zu sein, woher hätte diese kommen
                     sollen? Woher hätte sie kommen sollen in einer Kupferstichsammlung, die mehr als
@@ -320,32 +319,32 @@
                     Oesterreicher ein Reisestipendium zutheil, so steht dieser, sei er nur Maler
                     oder Architekt, ganz außer allem geistigem Verbande mit der Heimat, sobald er
                     die österreichische Gränze überschritten hat. Es ist ein einziges Mal der
-                    Versuch gemacht worden, die Pensionäre in <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName> für Zwecke
+                    Versuch gemacht worden, die Pensionäre in <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs> für Zwecke
                     der <orgName key="akademie-der-bildenden-kuenste">Akademie</orgName> zu
                     verwenden. Der Versuch mißlang. Er wurde unpraktisch angefangen und blieb daher
                     ohne wesentliches Resultat.<lb/>Der Versuch würde aber sogleich gelingen, wenn
                     man sich ein bestimmtes in engere Gränzen gezogenes Programm stellen würde. Die
                     wesentlichsten Gesichtspunkte bei demselben sind<lb/>a) Herstellung einer
-                    Sammlung, ähnlich der Ramboux’s in <placeName key="duesseldorf" ref="#place_ccde71fe57ede5f536314d80e04cb99b">Düsseldorf</placeName>, mit den Kräften der Maler<lb/>b) Aufname von
+                    Sammlung, ähnlich der Ramboux’s in <rs type="place" subtype="place" key="duesseldorf" ref="#place_ccde71fe57ede5f536314d80e04cb99b">Düsseldorf</rs>, mit den Kräften der Maler<lb/>b) Aufname von
                     Gebäuden der jüngeren Architektur zum Zwecke der Architekturschule, wie es z. B.
-                    in <placeName ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</placeName> jetzt der Fall ist. Solche Aufnamen kämen dann
+                    in <rs type="place" subtype="place" ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</rs> jetzt der Fall ist. Solche Aufnamen kämen dann
                     von selbst auch dem Kunstunterrichte zustatten.<lb/>
                     <hi rend="ul">Vorbedingung</hi> einer solchen Benützung der Pensionäre wäre Herstellung
                     eines vollständigen Programmes, kluges Vertheilen der Aufgaben nach den Kräften
                     derselben und strenge Kontrolle der Leistungen derselben.<lb/>Ich bin überzeugt,
                     daß ein solches Benützen jüngerer Künstlerkräfte, auch in sehr bescheidenen
                     Gränzen, mit dem größten Beifalle aufgenommen würde.
-                        <country ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</country>, <country ref="#place_5ea5f4002712b1a9a4e292d3c83736b9">Spanien</country>,
-                        <placeName ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</placeName> u. s. f., insbesondere aber
-                        <country ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</country>, haben seit Jahrzehnten schon einen solchen
-                    Gebrauch von Künstlern gemacht.<lb/>In <country ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</country> steht
+                        <rs type="place" subtype="country" ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</rs>, <rs type="place" subtype="country" ref="#place_5ea5f4002712b1a9a4e292d3c83736b9">Spanien</rs>,
+                        <rs type="place" subtype="place" ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</rs> u. s. f., insbesondere aber
+                        <rs type="place" subtype="country" ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</rs>, haben seit Jahrzehnten schon einen solchen
+                    Gebrauch von Künstlern gemacht.<lb/>In <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs> steht
                     Akademie und Staat außer aller regelmäßigen Verbindung mit den Pensionären. Dem
                     Zufalle preisgegeben, von Niemandem kontrolliert, ohne bestimmte Aufgabe den
                     starken deprimierenden Eindrücken so bedeutender Werke überliefert, wie sie in
-                        <country ref="#place_389962c9dec540ab28d04517e82c3996">Italien</country> zahlreich sich finden, leisten sie höchst selten,
+                        <rs type="place" subtype="country" ref="#place_389962c9dec540ab28d04517e82c3996">Italien</rs> zahlreich sich finden, leisten sie höchst selten,
                     was sie leisten könnten, und gehen in der Regel unter. Ein solches Verfahren
                     oder vielmehr ein solches Gehenlassen unserer besten Kräfte findet nur in
-                        <country ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</country> statt und wird nur von der <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wiener</placeName>
+                        <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs> statt und wird nur von der <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wiener</rs>
                     <orgName key="akademie-der-bildenden-kuenste">Akademie</orgName> geduldet. Wie
                     anders wäre es, wenn ein geistiges Band den Oesterreicher im Ausland mit seinem
                     Vaterland verknüpfte, welche Anregung für den Künstler, welch Interesse im
@@ -360,15 +359,15 @@
                     begründen.<lb/>Es würden sich an dieser Commission Mitglieder der <orgName key="akademie-der-bildenden-kuenste">Akademie</orgName> und der <orgName key="universitaet-wien">Universität</orgName> betheiligen und ohne irgend
                     Euer Excellenz Ermessen vorgreifen zu wollen, würde ich mir erlauben, von Seite
                     der <orgName key="akademie-der-bildenden-kuenste">Akademie</orgName> die Herren
-                    Direktoren <persName key="ruben-christian">Ruben</persName> und <persName key="nuell-van-der-eduard">Prof. van der Nüll</persName>, von Seite der
+                    Direktoren <rs type="person" ref="ruben-christian" key="ruben-christian">Ruben</rs> und <rs type="person" ref="nuell-van-der-eduard" key="nuell-van-der-eduard">Prof. van der Nüll</rs>, von Seite der
                         <orgName key="universitaet-wien">Universität</orgName> die Herren
-                    Professoren <persName key="bonitz-hermann">Bonitz</persName> und <persName key="jaeger-albert">Jäger</persName> in Vorschlag zu bringen.<lb/>Es würde
+                    Professoren <rs type="person" ref="bonitz-hermann" key="bonitz-hermann">Bonitz</rs> und <rs type="person" ref="jaeger-albert" key="jaeger-albert">Jäger</rs> in Vorschlag zu bringen.<lb/>Es würde
                     der Kommission gewiß ebenso zur Ehre als der Verhandlungen zum Nutzen gereichen,
-                    wenn Euer Excellenz gestatten würde, daß Herr <persName key="thun-hohenstein-franz-anton">Graf Franz Thun</persName> den Vorsitz
+                    wenn Euer Excellenz gestatten würde, daß Herr <rs type="person" ref="thun-hohenstein-franz-anton" key="thun-hohenstein-franz-anton">Graf Franz Thun</rs> den Vorsitz
                     übernähme.<lb/>Auch fühle ich mich verpflichtet darauf hinzudeuten, daß der
-                    Konzipist Herr <persName key="heider-gustav">Dr. <hi rend="ul">G[ustav]
+                    Konzipist Herr <rs type="person" ref="heider-gustav" key="heider-gustav">Dr. <hi rend="ul">G[ustav]
                             Heider</hi>
-                    </persName>, als besonders vertraut mit den Verhältnissen der
+                    </rs>, als besonders vertraut mit den Verhältnissen der
                     Bibliothek, bei dieser Kommission vorheilhaft mitwirken könnte.<lb/>Indem ich
                     mir erlaube wiederholt darauf hinzudeuten, daß diese Vorschläge nur in kürzester
                     Kürze hingestellt sind und erst im Laufe der Verhandlungen detailliert werden
@@ -379,12 +378,12 @@
                 <p>Wien, 1. Jänner 1853</p>
                 <div xml:id="D188_1" type="enclosure">
                     <p>Euer Exzellenz</p>
-                    <p>hatten die Gewogenheit, den Bericht des <persName key="eitelberger-rudolf">Professor von Eitelberger</persName> über Herstellung des Lehrmaterials
+                    <p>hatten die Gewogenheit, den Bericht des <rs type="person" ref="eitelberger-rudolf" key="eitelberger-rudolf">Professor von Eitelberger</rs> über Herstellung des Lehrmaterials
                         für seine Vorlesungen meiner Begutachtung zu unterziehen. Diesem hohen
                         Auftrage nachkommend, habe ich denselben mit aller Aufmerksamkeit geprüft
                         und entledige mich desselben, indem ich mir erlaube, im Nachstehenden meine
                         Ansichten darüber Euer Exzellenz vorzulegen.<lb/>1) Es ist vollkommen wahr,
-                        was der <persName key="eitelberger-rudolf">Berichterstatter</persName> über
+                        was der <rs type="person" ref="eitelberger-rudolf" key="eitelberger-rudolf">Berichterstatter</rs> über
                         die bisherige Verwendung der Fonds bei Anschaffungen für die Bibliothek
                         sagt, insoferne er diejenigen Ankäufe darunter versteht, welche vor dem
                         Antritt meines Amtes gemacht wurden. Seitdem ich die Ehre habe der <orgName key="akademie-der-bildenden-kuenste">Akademie</orgName> vorzustehen,
@@ -400,15 +399,15 @@
                         des Fonds für künftige Einkäufe der Bibliothek habe ich nicht nur nichts
                         einzuwenden, sondern finde dieselbe sehr wünschenswerth, nur könnte ich es
                         nicht billigen, wenn für die Zukunft bei den Anschaffungen nur die
-                        Vorlesungen des <persName key="eitelberger-rudolf">Professor von
-                            Eitelberger</persName> maaßgebend würden, weil die Künstler sich noch in
+                        Vorlesungen des <rs type="person" ref="eitelberger-rudolf" key="eitelberger-rudolf">Professor von
+                            Eitelberger</rs> maaßgebend würden, weil die Künstler sich noch in
                         ganz anderen Zweigen des Wissens zu unterrichten haben und deshalb die
                         akademische Bibliothek nicht nur für archäologische und kunstgeschichtliche
                         Studien vorhanden sein kann. Eine wohlgeordnete Bibliothek ist für jeden
                         Zweck zu benützen, und dasselbe gilt auch bei Kupferstichsammlungen. Es ist
                         daher vor allem nothwendig, daß die Sammlungen der <orgName key="akademie-der-bildenden-kuenste">Akademie</orgName> nach einem
                         festen Plane geordnet werden und daß eine Kommission zu diesem Zwecke
-                        bestimmt werde, der natürlich auch <persName key="eitelberger-rudolf">Professor von Eitelberger</persName> beizugeben wäre.<lb/>3) So
+                        bestimmt werde, der natürlich auch <rs type="person" ref="eitelberger-rudolf" key="eitelberger-rudolf">Professor von Eitelberger</rs> beizugeben wäre.<lb/>3) So
                         wünschenswerth es für die <orgName key="akademie-der-bildenden-kuenste">Akademie</orgName> auch wäre, in dem Besitze einer vollständigen
                         Sammlung von Gypsabgüssen zu sein, die in kunsthistorischer Beziehung nichts
                         zu wünschen übrig ließe, so könnte die <orgName key="akademie-der-bildenden-kuenste">Akademie</orgName> doch nie darein
@@ -419,17 +418,17 @@
                         müssen. Aus diesem Grunde können daher bei Aufstellung der Gypssammlung nur
                         solche Rücksichten beobachtet werden, die es dem jungen Künstler möglich
                         machen, seinen Geschmack und seine Fertigkeit im Nachbilden der Formen etc.
-                        zu üben.<lb/>4) Gegen die Verfertigung von Wandtafeln, wie sie <persName key="eitelberger-rudolf">von Eitelberger</persName> vorschlägt, habe ich
+                        zu üben.<lb/>4) Gegen die Verfertigung von Wandtafeln, wie sie <rs type="person" ref="eitelberger-rudolf" key="eitelberger-rudolf">von Eitelberger</rs> vorschlägt, habe ich
                         nichts einzuwenden, indem sie nicht allein lehrreich, sondern auch für die
                         Schüler der Architekturschule eine Gelegenheit nützlicher Beschäftigung
                         sind.<lb/>5) Der Vorschlag, die Pensionäre der <orgName key="akademie-der-bildenden-kuenste">Akademie</orgName> in Zukunft zu
                         benützen zur Hervorrufung einer Sammlung von Handzeichnungen, gehört
                         eigentlich nicht hierher und dürfte wohl erst dann seine Erledigung finden,
                         wenn die Stipendien und Pensionen in Verhandlung kommen.<lb/>6) Dem
-                        Verlangen des <persName key="eitelberger-rudolf">Berichterstatters</persName> um Einsetzung einer Kommission zur
+                        Verlangen des <rs type="person" ref="eitelberger-rudolf" key="eitelberger-rudolf">Berichterstatters</rs> um Einsetzung einer Kommission zur
                         Begutachtung seiner Vorschläge trete ich insoferne bei, als diese Kommission
-                        unter dem Vorsitz des <persName key="thun-hohenstein-franz-anton">Grafen
-                            Franz</persName> stattfinden soll, in Beziehung der übrigen
+                        unter dem Vorsitz des <rs type="person" ref="thun-hohenstein-franz-anton" key="thun-hohenstein-franz-anton">Grafen
+                            Franz</rs> stattfinden soll, in Beziehung der übrigen
                         Zusammensetzung derselben halte ich es aber für wünschenswerth, daß diese
                         Kommission nur aus Mitgliedern der <orgName key="akademie-der-bildenden-kuenste">Akademie</orgName> und <orgName key="universitaet-wien">Universität</orgName> bestehe, und zwar für
                         beide Körper in der gleichen Anzahl.<lb/>Euer Exzellenz haben auszusprechen
@@ -438,7 +437,7 @@
                         theile diese Ansicht und bin überzeugt, daß das vorhandene Materiale der
                             <orgName key="akademie-der-bildenden-kuenste">Akademie</orgName> mit
                         geringen Kosten so herzustellen ist, daß es auch der <orgName key="universitaet-wien">Universität</orgName> den gleichen Nutzen
-                        schaffen kann wie der <orgName key="akademie-der-bildenden-kuenste">Akademie</orgName>. Die <orgName key="akademie-der-bildenden-kuenste">Akademie</orgName> ist nicht so arm in ihren Sammlungen, wie <persName key="eitelberger-rudolf">Eitelberger</persName> sie schildert, sondern
+                        schaffen kann wie der <orgName key="akademie-der-bildenden-kuenste">Akademie</orgName>. Die <orgName key="akademie-der-bildenden-kuenste">Akademie</orgName> ist nicht so arm in ihren Sammlungen, wie <rs type="person" ref="eitelberger-rudolf" key="eitelberger-rudolf">Eitelberger</rs> sie schildert, sondern
                         er ist bei dieser Schilderung in denselben Irrthum gerathen, in den beinahe
                         jeder verfällt, der mit Begeisterung an seine Aufgabe geht und diese allein
                         im Auge hat.<lb/>Indem ich diese Bemerkungen Euer Exzellenz übergebe, füge

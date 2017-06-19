@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="schwarzenberg-friedrich" role="sender:kleriker">Friedrich
-                        Schwarzenberg</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="schwarzenberg-friedrich" key="schwarzenberg-friedrich" role="sender:kleriker">Friedrich
+                        Schwarzenberg</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, <date when="1854-08-30">30. August 1854</date>
+                    <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1854-08-30">30. August 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -38,7 +37,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -49,8 +48,8 @@
                     <term>Piaristen</term>
                 </index>
                 <p>Hochgeborner Graf!</p>
-                <p>Der hochwürdigste <persName key="jirsik-jan-valerian">Herr Bischof von
-                        Budweis</persName> hat als Convisitator des Ordens der frommen Schulen im
+                <p>Der hochwürdigste <rs type="person" ref="jirsik-jan-valerian" key="jirsik-jan-valerian">Herr Bischof von
+                        Budweis</rs> hat als Convisitator des Ordens der frommen Schulen im
                     Laufe der ersten Hälfte dieses Sommers sämmtliche Kollegien der österreichischen
                     Ordensprovinz der kanonischen Visitation unterzogen und, wie ich aus seinem
                     Berichte entnehme, ziemlich befriedigende Resultate gefunden; namentlich hat
@@ -69,7 +68,7 @@
                     des Gelübdes der Armuth, eine Hintanhaltung mancher Mißbräuche in der täglichen
                     Hausordnung und dergleichen schwer und fast unmöglich wurde. Da eine
                     Aufbesserung der Dotation, welche unter andern besonders zu
-                        <placeName ref="#place_b2f3f42d45ff2c1018a9d3b9e6c37ece">Krems</placeName>, dann an dem Josefstädter Collegium geboten
+                        <rs type="place" subtype="place" ref="#place_b2f3f42d45ff2c1018a9d3b9e6c37ece">Krems</rs>, dann an dem Josefstädter Collegium geboten
                     erscheint, dermalen nur durch die öffentlichen Fonde statt finden kann, muß ich
                     dringend wünschen, daß das hohe <orgName key="ministerium-fuer-kultus-und-unterricht">k.k. Ministerium</orgName> auf
                     meine dießfällige Eingabe vom 27. Jänner dieses Jahres Nr. 401 eine günstige
@@ -77,11 +76,11 @@
                     früher die Glieder des Piaristenordens aus einer peinlichen Ungewißheit und
                     theilweise kummervollen Lage befreit werden.<lb/>Eine fernere große
                     Unzukömmlichkeit, welche sich bei den hohen Preisen der Lokale und Victualien in
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> ohne Dazwischenkunft der k.k. Behörden auf
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> ohne Dazwischenkunft der k.k. Behörden auf
                     anderem Wege nicht beheben läßt, betrifft das getrennte Einzelleben jener
                     Piaristen, welche an dem akademischen Gymnasium daselbst angestellt sind. Ich
                     erlaube mir an Euere Excellenz gemäß dem Vorschlage des hochwürdigsten Herrn
-                        <persName key="jirsik-jan-valerian">Bischofes von Budweis</persName> die
+                        <rs type="person" ref="jirsik-jan-valerian" key="jirsik-jan-valerian">Bischofes von Budweis</rs> die
                     angelegentliche Bitte zu richten, daß diesen Priestern das statutengemäße
                     Zusammenleben ermöglicht werde, indem entweder das k.k. Stadtconvict wieder
                     hergestellt und der Leitung der Piaristen übergeben oder wenigstens den

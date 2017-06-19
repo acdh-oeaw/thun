@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="mozart-joseph" role="sender:beamter">Joseph Mozart</persName>
-                    an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                    Thun</persName>
+                    <rs type="person" ref="mozart-joseph" key="mozart-joseph" role="sender:beamter">Joseph Mozart</rs>
+                    an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                    Thun</rs>
                     <lb/>o. O., o. D. [1852]<note xml:id="note_1">Das Schreiben ist
                         im Nachlass auf das Jahr 1852 datiert. Die Datierung kann wohl noch weiter
                         auf den Januar 1852 eingegrenzt werden. Heinrich Grauert starb nämlich am
@@ -40,7 +39,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -52,12 +51,12 @@
                 </index>
                 <p>Eure Excellenz!</p>
                 <p>Ich erlaube mir für die definitive Besetzung des Postens eines Directors des
-                    philologischen Seminars den <persName key="kopp-josef">Professor Kopp</persName>
-                    in <placeName key="luzern" ref="#place_11b61665a73f0026ee1a5c5d4db4d40c">Lucern</placeName> vorzuschlagen.<lb/>Einen
+                    philologischen Seminars den <rs type="person" ref="kopp-josef" key="kopp-josef">Professor Kopp</rs>
+                    in <rs type="place" subtype="place" key="luzern" ref="#place_11b61665a73f0026ee1a5c5d4db4d40c">Lucern</rs> vorzuschlagen.<lb/>Einen
                     passenderen Mann in Bezug auf wissenschaftliche Befähigung und entschiedene
                     speciell österreichische Gesinnung können wir nicht finden. Auch ist er bereits
                     eine Autorität in seinem Fache.<lb/>Er würde unter denselben Bedingungen wie
-                        <persName key="grauert-heinrich">Grauert</persName> ohne Zweifel zu gewinnen
+                        <rs type="person" ref="grauert-heinrich" key="grauert-heinrich">Grauert</rs> ohne Zweifel zu gewinnen
                     sein.</p>
                 <p>ehrerbietigst<lb/>J. Mozart</p>
             </div>

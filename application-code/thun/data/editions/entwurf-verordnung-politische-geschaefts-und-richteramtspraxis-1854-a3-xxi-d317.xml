@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="schliephake-theodor" role="sender:gelehrter">Theodor
-                        Schliephake</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="schliephake-theodor" key="schliephake-theodor" role="sender:gelehrter">Theodor
+                        Schliephake</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_9974545279455eb03bf50b1b1b4d7fea">Wiesbaden</placeName>,
+                    <rs type="place" subtype="place" ref="#place_9974545279455eb03bf50b1b1b4d7fea">Wiesbaden</rs>,
                         <date when="1854-12-01">1. Dezember 1854</date>
                 </title>
             </titleStmt>
@@ -40,7 +39,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -64,9 +63,9 @@
                     nach der Organisation des Unterrichts, die unter Euer Excellenz Leitung steht,
                     vorzugsweis Gewicht gelegt.<lb/>Es sind drei Jahre verflossen, seit von dem
                     hiesigen herzoglichen Hofe, insonderheit auf Anregung Ihrer königlichen Hoheit
-                    der Frau Herzogin Wittwe <persName key="pauline-von-wuerttemberg">Pauline von
-                        Nassau</persName>, und durch Vermittlung der hohen Gesandtschaften in
-                        <placeName ref="#place_4312d5c8cdda027420c474e2221abc34">Frankfurt</placeName>, so gnädige wie nachdrucksvolle
+                    der Frau Herzogin Wittwe <rs type="person" ref="pauline-von-wuerttemberg" key="pauline-von-wuerttemberg">Pauline von
+                        Nassau</rs>, und durch Vermittlung der hohen Gesandtschaften in
+                        <rs type="place" subtype="place" ref="#place_4312d5c8cdda027420c474e2221abc34">Frankfurt</rs>, so gnädige wie nachdrucksvolle
                     Empfehlungen bei Euer Excellenz mir zu Theil wurden, welche zum Zweck hatten,
                     eine Berufung in ein Lehramt an einer kaiserlichen Universität für mich zu
                     erwirken. Ist auch diese hohe Verwendung für mich ohne Erfolg geblieben, so darf

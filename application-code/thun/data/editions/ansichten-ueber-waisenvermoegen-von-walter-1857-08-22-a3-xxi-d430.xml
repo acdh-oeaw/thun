@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Memorandum zu den Erfahrungen mit den Veränderungen in der
                     Waisenkassenverwaltung in einigen Orten
                         Niederösterreichs<lb/>
-                    <placeName ref="#place_c9fe2ce48d12e0308505cd0da82e9273">Gloggnitz</placeName>, <date when="1857-08-22">22. August 1857</date>
+                    <rs type="place" subtype="place" ref="#place_c9fe2ce48d12e0308505cd0da82e9273">Gloggnitz</rs>, <date when="1857-08-22">22. August 1857</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -36,7 +35,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -66,13 +65,13 @@
                         <cell>f.</cell>
                     </row>
                     <row>
-                        <cell>1. Von den Herrschaften <placeName ref="#place_c9fe2ce48d12e0308505cd0da82e9273">Gloggnitz</placeName>,
-                                <placeName ref="#place_9ef8d8da6bd02fc57e90b6cb7908e006">Wartenstein</placeName>,<lb/>
-                            <placeName ref="#place_73fece375a80ca8d0b3d0d8699ae4302">Kreisberg</placeName>,
-                                <placeName ref="#place_0eb656520cb5b32b271de1bfe161ad3e">Stuppach</placeName>, <placeName ref="#place_c6e37b45ed0fb08dd7a402eb4a8b344a">Pottschach</placeName>,
-                                <placeName ref="#place_6193df85bc3c052a79293849f3d641b1">Schottwien</placeName>,
+                        <cell>1. Von den Herrschaften <rs type="place" subtype="place" ref="#place_c9fe2ce48d12e0308505cd0da82e9273">Gloggnitz</rs>,
+                                <rs type="place" subtype="place" ref="#place_9ef8d8da6bd02fc57e90b6cb7908e006">Wartenstein</rs>,<lb/>
+                            <rs type="place" subtype="place" ref="#place_73fece375a80ca8d0b3d0d8699ae4302">Kreisberg</rs>,
+                                <rs type="place" subtype="place" ref="#place_0eb656520cb5b32b271de1bfe161ad3e">Stuppach</rs>, <rs type="place" subtype="place" ref="#place_c6e37b45ed0fb08dd7a402eb4a8b344a">Pottschach</rs>,
+                                <rs type="place" subtype="place" ref="#place_6193df85bc3c052a79293849f3d641b1">Schottwien</rs>,
                                 und<lb/>
-                            <placeName ref="#place_e88f9f6c8602b41f75e9b2df182ff569">Kranichberg</placeName> wurde mit Ende Juni 1850
+                            <rs type="place" subtype="place" ref="#place_e88f9f6c8602b41f75e9b2df182ff569">Kranichberg</rs> wurde mit Ende Juni 1850
                             übergeben</cell>
                         <cell>4.476</cell>
                         <cell>160</cell>
@@ -166,7 +165,7 @@
                     summarische Scontro, nach welchem die rückständigen Zinsen mindestens die Höhe
                     von 1/3 der Kapitalforderungen betragen, und einen namhaften Überschuß im
                     Aktivstand nachweisen, so ist der Stand der cumulativ Kapitalien in
-                        <placeName ref="#place_c9fe2ce48d12e0308505cd0da82e9273">Gloggnitz</placeName> mit Ende 1856 8802 fl. Dagegen betragen die
+                        <rs type="place" subtype="place" ref="#place_c9fe2ce48d12e0308505cd0da82e9273">Gloggnitz</rs> mit Ende 1856 8802 fl. Dagegen betragen die
                     fälligen unbehobenen Zinsen 3009 fl.<lb/>Nicht allein in Gloggnitz dürfte sich
                     dieses Ergebnis zeigen, sondern auch bei einer Zusammenstellung sämtlicher
                     Waisenamt Scontros, würde sich wahrscheinlich dasselbe ungünstige Resultat für
@@ -205,35 +204,35 @@
                     auf dem Lande Geld gesucht wird, mögen die mir nach neuerlichen, in der
                     kürzesten Zeit vorgekommenen Nachfragen nach Geld, beweisen, wo bei einigen
                     wegen Mangel, Realitäten verkauft wurden als:<lb/>Ignaz Rabensteiner von
-                        <placeName ref="#place_c9fe2ce48d12e0308505cd0da82e9273">Gloggnitz</placeName>
+                        <rs type="place" subtype="place" ref="#place_c9fe2ce48d12e0308505cd0da82e9273">Gloggnitz</rs>
                     <lb/>Franz Huber von
-                        <placeName ref="#place_c9fe2ce48d12e0308505cd0da82e9273">Gloggnitz</placeName>
+                        <rs type="place" subtype="place" ref="#place_c9fe2ce48d12e0308505cd0da82e9273">Gloggnitz</rs>
                     <lb/>Wittwe Waseni[?] von
-                        <placeName ref="#place_c9fe2ce48d12e0308505cd0da82e9273">Gloggnitz</placeName>
+                        <rs type="place" subtype="place" ref="#place_c9fe2ce48d12e0308505cd0da82e9273">Gloggnitz</rs>
                     <lb/>Johann Höttel von
-                        <placeName ref="#place_c9fe2ce48d12e0308505cd0da82e9273">Gloggnitz</placeName>
+                        <rs type="place" subtype="place" ref="#place_c9fe2ce48d12e0308505cd0da82e9273">Gloggnitz</rs>
                     <lb/>Franz Vogt von
-                        <placeName ref="#place_0831676314f526fffedad3539390feb1">Enzenreith</placeName>
+                        <rs type="place" subtype="place" ref="#place_0831676314f526fffedad3539390feb1">Enzenreith</rs>
                     <lb/>Joseph Ritter[?] von
-                        <placeName ref="#place_cefd4cea70cdc348c3da49568c7d855a">Otterthal</placeName>
+                        <rs type="place" subtype="place" ref="#place_cefd4cea70cdc348c3da49568c7d855a">Otterthal</rs>
                     <lb/>Simon Feiertag von
-                        <placeName ref="#place_142dafa84c9e26b9573a187037bdce09">Stuppachgraben</placeName>
+                        <rs type="place" subtype="place" ref="#place_142dafa84c9e26b9573a187037bdce09">Stuppachgraben</rs>
                     <lb/>Johann Först von
-                        <placeName ref="#place_feb85c80db4445052588b59a99748fe0">Schlögelmühl</placeName>
+                        <rs type="place" subtype="place" ref="#place_feb85c80db4445052588b59a99748fe0">Schlögelmühl</rs>
                     <lb/>Ignaz Sika von
-                        <placeName ref="#place_c9fe2ce48d12e0308505cd0da82e9273">Gloggnitz</placeName>
+                        <rs type="place" subtype="place" ref="#place_c9fe2ce48d12e0308505cd0da82e9273">Gloggnitz</rs>
                     <lb/>Josef Gebhart von
-                        <placeName ref="#place_d5c1dee796f476990e8d70f0ece076f0">Beierbach</placeName>
+                        <rs type="place" subtype="place" ref="#place_d5c1dee796f476990e8d70f0ece076f0">Beierbach</rs>
                     <lb/>Karl Geisel von
-                        <placeName ref="#place_142dafa84c9e26b9573a187037bdce09">Stuppachgraben</placeName>
+                        <rs type="place" subtype="place" ref="#place_142dafa84c9e26b9573a187037bdce09">Stuppachgraben</rs>
                     <lb/>Leopold Rottensteiner von
-                        <placeName ref="#place_293c9dd445f881772c61a648df2b53cd">Göttschach</placeName>
+                        <rs type="place" subtype="place" ref="#place_293c9dd445f881772c61a648df2b53cd">Göttschach</rs>
                     <lb/>Johann Gruber von
-                        <placeName ref="#place_aa881a42cb967cbfb9baf4cdb1bff268">Grünsting</placeName>
+                        <rs type="place" subtype="place" ref="#place_aa881a42cb967cbfb9baf4cdb1bff268">Grünsting</rs>
                     <lb/>Karl Fröhlich von ..[?]<lb/>Mathias
-                    Nider..[?] von <placeName ref="#place_feb85c80db4445052588b59a99748fe0">Schlögelmühl</placeName>
+                    Nider..[?] von <rs type="place" subtype="place" ref="#place_feb85c80db4445052588b59a99748fe0">Schlögelmühl</rs>
                     <lb/>endlich Johann Kostenwein
-                    von <placeName ref="#place_c9fe2ce48d12e0308505cd0da82e9273">Gloggnitz</placeName>.<lb/>Letzterer erhielt von einem Vormund
+                    von <rs type="place" subtype="place" ref="#place_c9fe2ce48d12e0308505cd0da82e9273">Gloggnitz</rs>.<lb/>Letzterer erhielt von einem Vormund
                     das Versprechen eines Darlehens, Kostenwein ließ sein Reale[?] schätzen, stellte
                     einen Schuldschein aus, ließ selben intabulieren, zahlte die Prozentualgebühr,
                     und nach allen diesen verweigerte der Vormund die Gelderfolgung; so hatte der

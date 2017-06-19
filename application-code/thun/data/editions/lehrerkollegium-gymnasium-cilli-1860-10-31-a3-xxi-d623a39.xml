@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Das Lehrerkollegium des Gymnasiums in Cilli [Celje] an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                <title>Das Lehrerkollegium des Gymnasiums in Cilli [Celje] an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1563f0890ca9564b24de375c526e50eb">Celje</placeName>, <date when="1860-10-31">31. Oktober 1860</date>
+                    <rs type="place" subtype="place" ref="#place_1563f0890ca9564b24de375c526e50eb">Celje</rs>, <date when="1860-10-31">31. Oktober 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -35,7 +34,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -49,7 +48,7 @@
                     auf jene Niederungen, wo die Keime derselben in den Menschengeist gelegt werden,
                     haben Euer Excellenz in diesen Tagen die Überzeugung verschafft, daß die
                     epochenmachende Tragweite jener Umgestaltungen des öffentlichen Unterrichts in
-                        <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country>, die sich für immer an den
+                        <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>, die sich für immer an den
                     Namen Euer Excellenz knüpfen, von Seite competenter Zeitgenossen glänzend
                     gewürdigt worden ist.<lb/>Gestatten Euer Excellenz, daß auch wir – Arbeiter im
                     Weinberge des öffentlichen Unterrichts – es hiemit offen aussprechen, wie sehr

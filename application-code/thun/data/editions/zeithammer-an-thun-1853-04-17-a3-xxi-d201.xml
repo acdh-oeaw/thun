@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="zeithammer-gregor" role="sender:beamter">Gregor
-                        Zeithammer</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="zeithammer-gregor" key="zeithammer-gregor" role="sender:beamter">Gregor
+                        Zeithammer</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName key="koeniggraetz" ref="#place_b19bff5a3b79c0971a99eefa36cc1670">Königgrätz</placeName>, <date when="1853-04-17">17. April
+                    <rs type="place" subtype="place" key="koeniggraetz" ref="#place_b19bff5a3b79c0971a99eefa36cc1670">Königgrätz</rs>, <date when="1853-04-17">17. April
                     1853</date>
                 </title>
             </titleStmt>
@@ -42,7 +41,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -54,7 +53,7 @@
                     <term>Sprachenfrage</term>
                 </index>
                 <p>Euere Excellenz!</p>
-                <p>In der Relation des Herrn Sectionsrathes <persName key="kleemann-johann">Kleemann</persName> wird sich wohl das bestätigt finden, was ich vom
+                <p>In der Relation des Herrn Sectionsrathes <rs type="person" ref="kleemann-johann" key="kleemann-johann">Kleemann</rs> wird sich wohl das bestätigt finden, was ich vom
                         <orgName key="gymnasium-altstadt">Altstädter Gymnasium</orgName> wiederholt
                     berichtete. Eine Änderung in der Einrichtung desselben findet er nothwendig,
                     auch hat er einiges Ungünstige über manche Lehrer fallen lassen, da er sich
@@ -71,8 +70,8 @@
                     gewünscht, so wollen Eure Excellenz die meinigen nicht verschmähen, da ich die
                     Verhältnisse kenne und es – Gott sieht mein Herz – mit der guten Sache redlich
                     meine.<lb/>Eine dritte Bitte geht dahin, Eure Excellenz wollen gegenwärtig dem
-                        <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Kronlande</region> keine Lehrkräfte entziehen, weil
-                    wir sonst in die peinlichste Verlegenheit kämen, denn an die Stelle <persName key="klumpar-johann">Klumpars</persName> gab ich den letzten verfügbaren
+                        <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Kronlande</rs> keine Lehrkräfte entziehen, weil
+                    wir sonst in die peinlichste Verlegenheit kämen, denn an die Stelle <rs type="person" ref="klumpar-johann" key="klumpar-johann">Klumpars</rs> gab ich den letzten verfügbaren
                     Philologen, der überdies noch keine Prüfung abgelegt hat.<lb/>Indem ich den
                     innigsten Dank dafür ausspreche, daß zur nähern Erhebung des Thatbestandes und
                     zur Revision einiger Lehranstalten ein Ministerialcommissär abgesandt worden,

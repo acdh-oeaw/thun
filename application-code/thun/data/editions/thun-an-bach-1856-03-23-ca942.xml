@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="bach-alexander" role="recipient">Alexander
-                        Bach</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="bach-alexander" key="bach-alexander" role="recipient">Alexander
+                        Bach</rs>
                     <lb/>
-                    <placeName ref="#place_e3a1571b9091d6d78548ad3b4b159d11">Hetzendorf</placeName>, <date when="1856-03-23">Ostersonntag [23. März 1856]</date>
+                    <rs type="place" subtype="place" ref="#place_e3a1571b9091d6d78548ad3b4b159d11">Hetzendorf</rs>, <date when="1856-03-23">Ostersonntag [23. März 1856]</date>
                     <note xml:id="note_1">Die Datierung ergibt sich aus den im Brief erwähnten Abschluss von
                         gesetzlichen Neuregelungen.</note>
                 </title>
@@ -37,7 +36,7 @@
                 </p>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -49,15 +48,15 @@
                 </index>
                 <p>Ostersonntag</p>
                 <p>Verehrtester Kollega!</p>
-                <p>Ich habe den Zeitungsartikel dem <persName key="rauscher-joseph">Cardinal
-                        Erzbischof</persName> mitgetheilt, weil es sich dabei wesentlich auch darum
-                    handelt, so vorzugehen, daß der <persName key="viale-prela-michele">Pronuntius</persName> darin keine neue Kränkung sondern so viel als möglich
-                    eine Schonung seines Ansehens und Einflusses erblicke. Was der <persName key="rauscher-joseph">Card. Erzbischof</persName> vorschlägt wollen Sie aus
+                <p>Ich habe den Zeitungsartikel dem <rs type="person" ref="rauscher-joseph" key="rauscher-joseph">Cardinal
+                        Erzbischof</rs> mitgetheilt, weil es sich dabei wesentlich auch darum
+                    handelt, so vorzugehen, daß der <rs type="person" ref="viale-prela-michele" key="viale-prela-michele">Pronuntius</rs> darin keine neue Kränkung sondern so viel als möglich
+                    eine Schonung seines Ansehens und Einflusses erblicke. Was der <rs type="person" ref="rauscher-joseph" key="rauscher-joseph">Card. Erzbischof</rs> vorschlägt wollen Sie aus
                     der Beilage<note xml:id="note_2">Die Beilage ist im Nachlass von Bach nicht
                         überliefert.</note> ersehen. Mir scheint es mit den geringen angedeuteten
                     Änderungen entsprechend. Theilen Sie diese Ansicht, so bitte ich das Nöthige
                     wegen der Einrückung in die Zeitung zu veranlassen, mir aber gleichzeitig eine
-                    Abschrift zu schicken, die ich doch noch vorläufig <persName key="franz-joseph">S. Maj.</persName> vorlegen müsste, nachdem der <persName key="franz-joseph">Kaiser</persName> sich neulich gegen eine
+                    Abschrift zu schicken, die ich doch noch vorläufig <rs type="person" ref="franz-joseph" key="franz-joseph">S. Maj.</rs> vorlegen müsste, nachdem der <rs type="person" ref="franz-joseph" key="franz-joseph">Kaiser</rs> sich neulich gegen eine
                     Veröffentlichung meines Schreibens an die Bischöfe ausgesprochen hat. Nebstbei
                     bitte ich Sie, sobald es sein kann, mir die Textierung zu schicken, die Sie den
                     §§ 35 und 38 des Ehegesetzes zu geben wünschen, da ich damit beschäftigt bin,

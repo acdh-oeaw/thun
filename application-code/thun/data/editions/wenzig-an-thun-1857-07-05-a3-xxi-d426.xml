@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="wenzig-josef" role="sender:gelehrter">Josef Wenzig</persName>
-                    an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="wenzig-josef" key="wenzig-josef" role="sender:gelehrter">Josef Wenzig</rs>
+                    an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, <date when="1857-07-05">5.
+                    <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1857-07-05">5.
                         Juli 1857</date>
                 </title>
             </titleStmt>
@@ -36,7 +35,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -56,12 +55,12 @@
                     Excellenz möchten diesem Gesuche bei der Triftigkeit der darin angeführten
                     Gründe Hochdero einflußreiche Verwendung huldvoll angedeihen lassen.<lb/>Fürs
                     Zweite bin ich bei dem Umstande, daß ich von der Gesellschaft den ehrenvollen
-                    Auftrag erhalten, den Nekrolog meines Schwagers, des<persName key="exner-franz">
-                        Ministerialrathes Exner</persName>, zu verfassen, so kühn, Euere Excellenz
-                    zu ersuchen, gnädigst zu gestatten, daß mir die wichtigeren Arbeiten <persName key="exner-franz">Exners</persName> im Schulwesen, besonders sein
+                    Auftrag erhalten, den Nekrolog meines Schwagers, des<rs type="person" ref="exner-franz" key="exner-franz">
+                        Ministerialrathes Exner</rs>, zu verfassen, so kühn, Euere Excellenz
+                    zu ersuchen, gnädigst zu gestatten, daß mir die wichtigeren Arbeiten <rs type="person" ref="exner-franz" key="exner-franz">Exners</rs> im Schulwesen, besonders sein
                     ursprünglicher Plan zur Reorganisirung der philosophischen Studien, aus den
                     Acten des Hohen Unterrichtsministeriums ausgefolgt und zugeschickt werden,
-                    weshalb ich mich auch schon an den Herrn Sectionsrath <persName key="mozart-joseph">Mozart</persName> gewendet. Auf gewissenhafte Benützung
+                    weshalb ich mich auch schon an den Herrn Sectionsrath <rs type="person" ref="mozart-joseph" key="mozart-joseph">Mozart</rs> gewendet. Auf gewissenhafte Benützung
                     von meiner Seite geruhen Euere Excellenz in vollem Maße zu rechnen.<lb/>Mich dem
                     gütigen Andenken empfehlend mit aufrichtiger Hochachtung und inniger
                     Verehrung</p>

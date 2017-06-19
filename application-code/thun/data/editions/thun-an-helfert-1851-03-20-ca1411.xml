@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="helfert-joseph-alexander" role="recipient">Joseph Alexander
-                        Helfert</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="helfert-joseph-alexander" key="helfert-joseph-alexander" role="recipient">Joseph Alexander
+                        Helfert</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1851-03-20">20. März 1851</date>
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1851-03-20">20. März 1851</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -30,7 +29,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -41,8 +40,8 @@
                 <p>Wien 20. März 1851.</p>
                 <p>Ich habe in einem Anfalle von Zerstreuung das Couvert zerrissen und bitte deshalb
                     recht sehr um Verzeihung.<lb/>Ich hoffe die Korrespondenz mit Ihnen und
-                        <persName key="jirecek-josef">Jir.</persName> wird behülflich sein, um
-                        <persName key="tomek-vaclav-vladivoi">Tomek</persName> aufrecht zu halten.
+                        <rs type="person" ref="jirecek-josef" key="jirecek-josef">Jir.</rs> wird behülflich sein, um
+                        <rs type="person" ref="tomek-vaclav-vladivoi" key="tomek-vaclav-vladivoi">Tomek</rs> aufrecht zu halten.
                     Gelingt das, so ist damit etwas Bedeutendes gewonnen.</p>
             </div>
         </body>

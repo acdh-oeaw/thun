@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -31,7 +30,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -41,7 +40,7 @@
                     <term>Ministerkonferenz</term>
                     <term>Neoabsolutismus</term>
                 </index>
-                <p>Kaiserliche Entschließung über den Vortrag des <persName key="bruck-karl-ludwig">Finanzministers</persName> vom 7. Januar [1]858</p>
+                <p>Kaiserliche Entschließung über den Vortrag des <rs type="person" ref="bruck-karl-ludwig" key="bruck-karl-ludwig">Finanzministers</rs> vom 7. Januar [1]858</p>
                 <p>Ich ertheile Ihnen hiemit den [?] über die Verwendung von 500.000 CM fl
                     Nationalanlehenobligation über die subskribirte Summe dieser Obligationsgattung
                     zur Deckung des Defizits vom Jahr [1]857 und ermächtige Sie zur Deckung des

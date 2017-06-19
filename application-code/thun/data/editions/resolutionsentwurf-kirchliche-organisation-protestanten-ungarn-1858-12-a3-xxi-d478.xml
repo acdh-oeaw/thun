@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Resolutionsentwurf bezüglich der kirchlichen Organisation der Protestanten
                     beider Bekenntnisse in Ungarn<lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1858-12">Dezember 1858</date>
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1858-12">Dezember 1858</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -31,7 +30,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -54,28 +53,28 @@
                 <p>II. Zum allerunterthänigsten Vortrage vom 4. September 1858 Zahl 154/CUM ex 1858
                     betreffend die zu erlaßende allerhöchste Entscheidung über die Vorlagen der im
                     Jahre 1791 von den Evangelischen beider Bekenntnisse in
-                        <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> zu <placeName key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</placeName> und
-                        <placeName ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</placeName> gehaltenen Generalsynoden.<lb/>
+                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> zu <rs type="place" subtype="place" key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</rs> und
+                        <rs type="place" subtype="place" ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</rs> gehaltenen Generalsynoden.<lb/>
                     <hi rend="ul">Resolutionsentwurf</hi>
                     <lb/>Dieser Vortrag ist &lt;vorerst somit allen
-                    Beilagen dem Generalgouverneur <persName key="albrecht-erzherzog">Erzherzog
-                        Albrecht</persName> zur Erstattung seines Gutachtens im vertraulichsten
+                    Beilagen dem Generalgouverneur <rs type="person" ref="albrecht-erzherzog" key="albrecht-erzherzog">Erzherzog
+                        Albrecht</rs> zur Erstattung seines Gutachtens im vertraulichsten
                     Präsidialwege mitzutheilen und sodann neuerlich zur Schlußfassung vorzulegen.
-                    Ich stelle Ihnen anheim, bei der Mittheilung an den <persName key="albrecht-erzherzog">Erzherzog</persName> auf die Ergebnisse der
+                    Ich stelle Ihnen anheim, bei der Mittheilung an den <rs type="person" ref="albrecht-erzherzog" key="albrecht-erzherzog">Erzherzog</rs> auf die Ergebnisse der
                     Berathung Rücksicht zu nehmen, welche über den Gegenstand im November vorigen
-                    Jahres in <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> unter dem Vorsitze des <persName key="albrecht-erzherzog">Erzherzogs</persName> mit Ihnen und Meinem
-                        <persName key="bach-alexander">Minister des Innern</persName> nach Meinem
+                    Jahres in <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> unter dem Vorsitze des <rs type="person" ref="albrecht-erzherzog" key="albrecht-erzherzog">Erzherzogs</rs> mit Ihnen und Meinem
+                        <rs type="person" ref="bach-alexander" key="bach-alexander">Minister des Innern</rs> nach Meinem
                     Befehle stattgefunden haben und die in Folge dessen Ihnen zweckmäßig
                     erscheinenden Änderungen des Patententwurfes vorzunehmen.&gt;<note xml:id="note_1">Korrektur Thuns aus: nebst allen seinen Beilagen dem Präsidium Meines
-                        Generalgouvernements für das <country key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Königreich
-                            Ungarn</country> zur eingehenden Beleuchtung und Begutachtung im
+                        Generalgouvernements für das <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Königreich
+                            Ungarn</rs> zur eingehenden Beleuchtung und Begutachtung im
                         vertraulichsten Präsidialwege früher mitzutheilen und mir sodann nebst dem
                         Gutachten des Generalgouvernements zum Zwecke Meiner definitiven
                         Schlußfassung abermals vorzulegen. Dabei überlasse ich Ihnen in Ihrer
                         Mittheilungsnote an das Präsidium des Generalgouvernements auf die
                         Berathungen, welche in Folge Meines Befehles über diesen Vortrag im November
                         letzten Jahres zwischen Ihnen und p.p. unter dem Vorsitze des zu
-                            <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> stattgefunden haben, in der Ihnen geeignet
+                            <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> stattgefunden haben, in der Ihnen geeignet
                         scheinenden Weise und Ausdehnung Rücksicht zu nehmen.</note>
                 </p>
                 <p>Wien, den … Dec. 1858</p>

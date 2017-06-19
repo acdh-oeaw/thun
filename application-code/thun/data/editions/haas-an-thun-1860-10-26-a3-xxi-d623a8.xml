@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="haas-michael" role="sender:kleriker">Michael Haas</persName>
-                    an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="haas-michael" key="haas-michael" role="sender:kleriker">Michael Haas</rs>
+                    an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_865c32411d95538282c17a6573b3e5b6">Sathmar [Satu Mare]</placeName>, <date when="1860-10-26">26. Oktober 1860</date>
+                    <rs type="place" subtype="place" ref="#place_865c32411d95538282c17a6573b3e5b6">Sathmar [Satu Mare]</rs>, <date when="1860-10-26">26. Oktober 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -36,7 +35,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -47,13 +46,13 @@
                 </index>
                 <p>Euer Excellenz,<lb/>Hochgeborner Herr Graf und Reichsrath!</p>
                 <p>Euer Excellenz haben mir, als ich noch das Glück hatte unter Hochihrer Leitung
-                    als Schulrath <persName key="franz-joseph">Seiner k.k. Apostolischen
-                        Majestät</persName>, unserem Allergnädigsten Herrn und dem Vaterlande zu
+                    als Schulrath <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner k.k. Apostolischen
+                        Majestät</rs>, unserem Allergnädigsten Herrn und dem Vaterlande zu
                     dienen, so viel Gnade und Wohlwollen zugewendet, daß ich mich verpflichtet
                     fühle, Euer Excellenz bei Hochihrem Scheiden aus dem Ministerium zu bitten,
                     meinen ergebensten Dank mit eben der Güte empfangen zu wollen, mit der mich Euer
                     Excellenz durch eine Reihe von Jahren beglückten.<lb/>In
-                        <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> wird zwar, wenn nicht Alles trügt, Vieles, was
+                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> wird zwar, wenn nicht Alles trügt, Vieles, was
                     Euer Excellenz gehegt und gepflegt, verkümmern und zertreten werden; doch Vieles
                     wird in Kirche und Schule wie eine nie versiegende Quelle unverloren bleiben,
                     wird dem Herzen Adel und Muth, dem Geiste Schwungkraft, den Wissenschaften
@@ -61,10 +60,10 @@
                     Excellenz sie sehen, die goldnen Früchte jener edlen Saat, die Euer Excellenz so
                     eifrig und mühevoll ausgestreut! Möge deren Ihre edle Seele sich freuen! Möge
                     unter diesen Freuden Ihr Haar so grau werden und grauer als Hochihres edlen
-                        <persName key="thun-hohenstein-franz-anton-vater">Vaters</persName> Haar!
+                        <rs type="person" ref="thun-hohenstein-franz-anton-vater" key="thun-hohenstein-franz-anton-vater">Vaters</rs> Haar!
                     Mögen Euer Excellenz, wenn Sie einst der Himmel fordert, mit dem frohen,
                     wonnevollen Gedenken entschlummern, für Kirche und Schule, für die Kräftigung
-                    des großen, vereinten <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</country>, des
+                    des großen, vereinten <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs>, des
                     gemeinschaftlichen Vaterlandes, Großes und Bleibendes geschaffen zu haben. Gott
                     erhalte und segne Euer Excellenz!<lb/>Genehmen Euer Excellenz schließlich die
                     Versicherung, daß ich zeitlebens mit der größten Verehrung und Dankbarkeit

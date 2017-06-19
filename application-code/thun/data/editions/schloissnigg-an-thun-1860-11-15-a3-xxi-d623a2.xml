@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="schloissnigg-johann" role="sender:beamter">Johann
-                        Schloißnigg</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="schloissnigg-johann" key="schloissnigg-johann" role="sender:beamter">Johann
+                        Schloißnigg</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_9411cbb4eebe5b8e9deb98dcebbc3b9d">Klagenfurt</placeName>,
+                    <rs type="place" subtype="place" ref="#place_9411cbb4eebe5b8e9deb98dcebbc3b9d">Klagenfurt</rs>,
                         <date when="1860-11-15">15. November 1860</date>
                 </title>
             </titleStmt>
@@ -36,7 +35,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -49,11 +48,11 @@
                 <p>Indem ich die Leitung der k.k. Kärntner Landesregierung niederlege, muß ich
                     lebhaft gedenken, wie sehr ich Euer Excellenz in dieser elfjährigen Epoche
                     meiner Diensteslaufbahn verpflichtet geworden bin.<lb/>Während dieser Zeit ist
-                    in <region key="kaernten" ref="#place_ef894a0a9ab2e171eb147ffd9e56cd4b">Kärnten</region> für das Unterrichtsfach Vieles und
+                    in <rs type="place" subtype="region" key="kaernten" ref="#place_ef894a0a9ab2e171eb147ffd9e56cd4b">Kärnten</rs> für das Unterrichtsfach Vieles und
                     Bedeutendes geschehen, Euer Excellenz haben meinen Anträgen und Bitten stets
                     geneigtes Gehör geschenkt.<lb/>Von den zweckmäßigen und großartigen
                     Einrichtungen, welche Euer Excellenz als Unterrichtsminister in’s Leben gerufen
-                    haben, ist auch in <region key="kaernten" ref="#place_ef894a0a9ab2e171eb147ffd9e56cd4b">Kärnten</region> manches, was hier
+                    haben, ist auch in <rs type="place" subtype="region" key="kaernten" ref="#place_ef894a0a9ab2e171eb147ffd9e56cd4b">Kärnten</rs> manches, was hier
                     anwendbar war, in einer Weise durchgeführt worden, welche Bestand und reiche
                     Frucht verspricht.<lb/>Mit verhältnismäßig geringen Mitteln vieles zu
                     bewerkstelligen, ist nur durch die Gunst Euer Excellenz möglich geworden und

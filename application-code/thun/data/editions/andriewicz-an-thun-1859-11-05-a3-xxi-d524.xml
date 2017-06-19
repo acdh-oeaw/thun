@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="andriewicz-samuel" role="sender:kleriker">Samuel
-                        Andriewicz</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="andriewicz-samuel" key="andriewicz-samuel" role="sender:kleriker">Samuel
+                        Andriewicz</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_ca4d7b4a2fab5db14fa1dda5af17776e">Czahor</placeName>,
+                    <rs type="place" subtype="place" ref="#place_ca4d7b4a2fab5db14fa1dda5af17776e">Czahor</rs>,
                         <date when="1859-11-05">5. November 1859</date>
                 </title>
             </titleStmt>
@@ -41,7 +40,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -54,7 +53,7 @@
                 </index>
                 <p>Euer Excellenz!</p>
                 <p>Aus Anlaß der Besetzung der Lehrkanzel für die Pastoraltheologie an der
-                    Lehranstalt zu Czernovitz [<placeName ref="#place_473a33abfe6141e8b2f9fddf964bf69a">Czernowitz</placeName>] geruheten Euer
+                    Lehranstalt zu Czernovitz [<rs type="place" subtype="place" ref="#place_473a33abfe6141e8b2f9fddf964bf69a">Czernowitz</rs>] geruheten Euer
                     Excellenz mit dem hohen Erlasse vom 21. Juni [1]858 Z. 2436 in theilweiser
                     Erledigung meines alternativen Kompetenzgesuches vom 15. März [1]857 durch das
                     hochlöbliche k.k. Landespräsidium mich ehrfurchtsvoll Gefertigten verständigen
@@ -78,36 +77,36 @@
                     meinem gehorsamsten Gesuche beiliegen, zu berufen.<lb/>Während daher hierlands
                     allgemein geglaubt wurde, daß meine Willfährigkeit zur Übernahme dieses Postens
                     auch von der hochwürdigen Diözesanleitung nur beifällig aufgenommen werden wird,
-                    soll gegen alle Erwartung der junge Priester <persName key="mitrofanowicz-basil">Basil Mitrofanowicz</persName>, welcher für diese Lehrstelle auch ehedem
+                    soll gegen alle Erwartung der junge Priester <rs type="person" ref="mitrofanowicz-basil" key="mitrofanowicz-basil">Basil Mitrofanowicz</rs>, welcher für diese Lehrstelle auch ehedem
                     fruchtlos beantragt worden war, abermahls anempfohlen worden sein, eine
                     Thatsache, die der Diözesanklerus mit Entrüstung vernahm, da hiedurch ein
                     wiederholtes Beispiel vorliegt, daß die Geschicke desselben und die Interessen
-                    der Diözese dem Eigenwillen preisgegeben werden.<lb/>Warum gerade <persName key="mitrofanowicz-basil">Mitrofanowicz</persName>, ein junger Priester, dem
+                    der Diözese dem Eigenwillen preisgegeben werden.<lb/>Warum gerade <rs type="person" ref="mitrofanowicz-basil" key="mitrofanowicz-basil">Mitrofanowicz</rs>, ein junger Priester, dem
                     der Umfang der seelsorgerlichen Kenntnisse mangelt, der außer den
                     Schulzeugnissen gar keine andern Belege zu seiner Anempfehlung aufzuweisen
                     vermag, und nach der Kritik des Lehrkörpers auch mit seinem Konkurselaborate
                     durchgefallen sein soll, für einen Lehrposten wie jener der Patoraltheologie von
                     der hochwürdigen Diözesanleitung in Antrag gebracht worden ist, wage ich
                     gehorsamst Gefertigter in der Kürze zu enthüllen.<lb/>
-                    <persName key="mitrofanowicz-basil">Mitrofanowicz</persName> ist der Schwiegersohn des
+                    <rs type="person" ref="mitrofanowicz-basil" key="mitrofanowicz-basil">Mitrofanowicz</rs> ist der Schwiegersohn des
                     durch die Hervorrufung der im Jahr 1848 unter der Geistlichkeit statt gefundenen
-                    Ereignisse bekannten Theologieprofessors und Consistorialassessors <persName key="kalinczuk-johann">Johan Kalinczuk</persName>, der nach dem Urtheile der
+                    Ereignisse bekannten Theologieprofessors und Consistorialassessors <rs type="person" ref="kalinczuk-johann" key="kalinczuk-johann">Johan Kalinczuk</rs>, der nach dem Urtheile der
                     hierländigen öffentlichen Meinung seine Stellung im Konsistorium dazu benützt,
                     um seinen Angehörigen die möglichsten Vortheile zuzuwenden.<lb/>Nachdem
-                        <persName key="mitrofanowicz-basil">Mitrofanowicz</persName> nach Beendigung
-                    der theologischen Studien sich mit der Tochter des <persName key="kalinczuk-johann">Kalinczuk</persName> verlobt hatte, wurde er nach
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> abgesendet, um sich für die in Erledigung
+                        <rs type="person" ref="mitrofanowicz-basil" key="mitrofanowicz-basil">Mitrofanowicz</rs> nach Beendigung
+                    der theologischen Studien sich mit der Tochter des <rs type="person" ref="kalinczuk-johann" key="kalinczuk-johann">Kalinczuk</rs> verlobt hatte, wurde er nach
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> abgesendet, um sich für die in Erledigung
                     gekommene Lehrkanzel der Pastoraltheologie auszubilden, eine Concession, die
                     zweien anderen weit fähigeren seiner Kollegen nicht zugestanden worden
-                    ist.<lb/>Da während der Anwesenheit des <persName key="mitrofanowicz-basil">Mitrofanowicz</persName> in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> der Konkurs zur
+                    ist.<lb/>Da während der Anwesenheit des <rs type="person" ref="mitrofanowicz-basil" key="mitrofanowicz-basil">Mitrofanowicz</rs> in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> der Konkurs zur
                     Besetzung dieser Lehrkanzel von dem hohen Landespräsidium unverhofft
-                    ausgeschrieben worden war, setzte sich <persName key="mitrofanowicz-basil">Mitrofanowicz</persName>, da er nicht einmal die Priesterweihe hatte, in
+                    ausgeschrieben worden war, setzte sich <rs type="person" ref="mitrofanowicz-basil" key="mitrofanowicz-basil">Mitrofanowicz</rs>, da er nicht einmal die Priesterweihe hatte, in
                     Kompetenz, kehrte zurück in die Heimath, heirathete, erhielt die Priesterweihe
                     und wurde von der hochwürdigen Diözesanleitung als provisorischer Professor der
                     Pastoraltheologie ernannt und eingeführt, ein Akt, der von dem hohen
                     Landespräsidium und über die ergriffene Vorstellung auch von dem <orgName key="ministerium-fuer-kultus-und-unterricht">hohen Ministerium</orgName>
                     reprobirt und demnach die Bewilligung des angesprochenen ganzen Gehaltes versagt
-                    wurde.<lb/>Um den <persName key="mitrofanowicz-basil">Mitrofanowicz</persName>
+                    wurde.<lb/>Um den <rs type="person" ref="mitrofanowicz-basil" key="mitrofanowicz-basil">Mitrofanowicz</rs>
                     für den Bezug des verwilligten ganzen Gehaltes zu entschädigen und seine
                     Stellung glänzender zu stellen, wurde ihm bald darauf von der hochwürdigen
                     Diözesanleitung neben der Lehrkanzel der Posten eines Spirituals an dem
@@ -121,18 +120,18 @@
                     auf meine Berufung gefaßt hatte, wurde von dem hochwürdigen Vorstande diesfalls
                     eine neuerliche Sitzung angeordnet und dabei eine Prozedur eingeleitet, welcher
                     wegen die Mitglieder des Lehrkörpers sich der Berathung entzogen und dies zur
-                    Folge hatte, daß nur Professor <persName key="kalinczuk-johann">Kalinczuk</persName> als Schwiegervater und Professor <persName key="hackman-nikolaus">Nicolai Hackman</persName> als Beistand des <persName key="mitrofanowicz-basil">Mitrofanowicz</persName> zu seinen Gunsten votirt
-                    haben.<lb/>Während sich nun <persName key="mitrofanowicz-basil">Mitrofanowicz</persName> auf Grund eines solchen Gutachtens als Professor
+                    Folge hatte, daß nur Professor <rs type="person" ref="kalinczuk-johann" key="kalinczuk-johann">Kalinczuk</rs> als Schwiegervater und Professor <rs type="person" ref="hackman-nikolaus" key="hackman-nikolaus">Nicolai Hackman</rs> als Beistand des <rs type="person" ref="mitrofanowicz-basil" key="mitrofanowicz-basil">Mitrofanowicz</rs> zu seinen Gunsten votirt
+                    haben.<lb/>Während sich nun <rs type="person" ref="mitrofanowicz-basil" key="mitrofanowicz-basil">Mitrofanowicz</rs> auf Grund eines solchen Gutachtens als Professor
                     der Pastoraltheologie wähnte, erfloß mit dem hohen Erlasse vom 21. Juni [1]858
                     die hohe Verfügung Euer Excellenz zur Ausschreibung eines neuerlichen Concurses
                     und zur Abhaltung einer ordentlichen schriftlichen und mündlichen
-                    Concursprüfung. Aus dieser hohen Anordnung mußte <persName key="kalinczuk-johann">Kalinczuk</persName> wohl einsehen, daß seine Pläne
+                    Concursprüfung. Aus dieser hohen Anordnung mußte <rs type="person" ref="kalinczuk-johann" key="kalinczuk-johann">Kalinczuk</rs> wohl einsehen, daß seine Pläne
                     zur glänzenden Beförderung seines Schwiegersohnes eitel sind; doch er faßte sich
-                    bald und bewirkte die Ernennung des <persName key="mitrofanowicz-basil">Mitrofanowicz</persName> als Pfarradministrator zu
-                        <placeName ref="#place_9d5d4a4a21f7c420c1e0fa1df0fa10be">Ober-Vicow</placeName>, der größten Pfarre in der Diözese, um
+                    bald und bewirkte die Ernennung des <rs type="person" ref="mitrofanowicz-basil" key="mitrofanowicz-basil">Mitrofanowicz</rs> als Pfarradministrator zu
+                        <rs type="place" subtype="place" ref="#place_9d5d4a4a21f7c420c1e0fa1df0fa10be">Ober-Vicow</rs>, der größten Pfarre in der Diözese, um
                     sich dort den hohen Orts gerügten Abgang der seelsorgerlichen Kenntnisse zu
                     erwerben und auch ein ganz ausreichendes Einkommen zu haben.<lb/>Als
-                    Pfarradministrator zu <placeName ref="#place_d63cd13be88168c3819396adfe7a8634">Ober Vicow</placeName>, wo <persName key="mitrofanowicz-basil">Mitrofanowicz</persName> durch 6 Monathe fungirt,
+                    Pfarradministrator zu <rs type="place" subtype="place" ref="#place_d63cd13be88168c3819396adfe7a8634">Ober Vicow</rs>, wo <rs type="person" ref="mitrofanowicz-basil" key="mitrofanowicz-basil">Mitrofanowicz</rs> durch 6 Monathe fungirt,
                     hat sich derselbe der Konkursprüfung unterzogen, und da er von dem hochwürdigen
                     Vorstande des Lehrkörpers für die zu besetzende Lehrkanzel anempfohlen wurde, so
                     triumphirt er nun über die Niederlage, die sein Schwiegervater, der gegenwärtig
@@ -148,13 +147,13 @@
                     geliefert habe, muß es den Klerus der Diözese nur mit bitterem Schmerze erfüllen
                     und zu dem entmuthigenden Schluße veranlassen, daß ein anderer Priester,
                     zwischen dem und einem Schoßkinde der Diözesanleitung der Abstand nicht so groß
-                    wäre wie zwischen mir und dem Mitkonkurrenten <persName key="mitrofanowicz-basil">Mitrofanowicz</persName>, auf eine Beförderung gar
+                    wäre wie zwischen mir und dem Mitkonkurrenten <rs type="person" ref="mitrofanowicz-basil" key="mitrofanowicz-basil">Mitrofanowicz</rs>, auf eine Beförderung gar
                     nicht rechnen darf.<lb/>Umsoweniger kann ich mich ehrfurchtsvoll Gefertigter
                     dabei gleichgültig befinden, da ich nur unverschuldeter Weise die Zielscheibe
                     derjenigen geworden bin, die auch diese zu besetzende Lehrkanzel für sich
-                    auszubeuten sich bestreben. Ein <persName key="kalinczuk-johann">Kalinczuk</persName>, der um die Kritik des Lehrkörpers zu paralisiren eine
-                    Präsidialkritik zu ersinnen wußte, und ein <persName key="mitrofanowicz-basil">Mitrofanowicz</persName>, der an einem Sonntage des Monaths Oktober [1]858
-                    dem k.k. Statthaltereisekretär Herrn <persName key="josefowicz">Josefowicz</persName> ein Pack Banknoten im Amte anzubiethen sich
+                    auszubeuten sich bestreben. Ein <rs type="person" ref="kalinczuk-johann" key="kalinczuk-johann">Kalinczuk</rs>, der um die Kritik des Lehrkörpers zu paralisiren eine
+                    Präsidialkritik zu ersinnen wußte, und ein <rs type="person" ref="mitrofanowicz-basil" key="mitrofanowicz-basil">Mitrofanowicz</rs>, der an einem Sonntage des Monaths Oktober [1]858
+                    dem k.k. Statthaltereisekretär Herrn <rs type="person" ref="josefowicz" key="josefowicz">Josefowicz</rs> ein Pack Banknoten im Amte anzubiethen sich
                     unterfieng und für diese Verwegenheit nach einer verdienten Ermahnung zur Thür
                     sich entfernen mußte, werden nichts unterlassen, um mich zu verwunden und alles
                     aufbiethen, um ihre Absichten zu erreichen.<lb/>Angesichts der verfolgerischen
@@ -172,12 +171,12 @@
                     schenken und je nach dem hohen Ermessen zu veranlassen, damit die
                     Concurselaborate mit Überdeckung der auf denselben ersichtlichen
                     Namensfertigungen der Concurrenten an zwei Universitäten des Reiches und bei dem
-                    hochwürdigsten <persName key="maschirevics-samuel">Metropoliten und Patriarchen
-                        in Carlovitz [Karlowitz]</persName> ebenfalls geprüft werden
+                    hochwürdigsten <rs type="person" ref="maschirevics-samuel" key="maschirevics-samuel">Metropoliten und Patriarchen
+                        in Carlovitz [Karlowitz]</rs> ebenfalls geprüft werden
                     möchten.<lb/>Auf diesem Wege würden Euer Excellenz die hohe Überzeugung
                     gewinnen, daß ich der mir in dem hohen Erlaße vom 21. Juni [1]858 hochgeneigtest
                     geschenkten hohen Aufmerksamkeit, welche bei der hochwürdigen Diözesanleitung,
-                    da sie dem Concurrenten <persName key="mitrofanowicz-basil">Mitrofanowicz</persName> augenfällig in vollen Maßen hold ist, Mißmuth
+                    da sie dem Concurrenten <rs type="person" ref="mitrofanowicz-basil" key="mitrofanowicz-basil">Mitrofanowicz</rs> augenfällig in vollen Maßen hold ist, Mißmuth
                     erweckt zu haben scheint, mich würdig bewiesen und für den Lehrposten der
                     Pastoraltheologie, auf dem ich alle meine Kräfte zur Hebung der Seelsorge und
                     zur Förderung des allgemeinen Besten anwenden würde, geeignet bin.<lb/>

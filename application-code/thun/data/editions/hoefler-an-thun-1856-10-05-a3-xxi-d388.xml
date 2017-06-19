@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="hoefler-karl-adolf-constantin" role="sender:gelehrter">Constantin Höfler</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="hoefler-karl-adolf-constantin" key="hoefler-karl-adolf-constantin" role="sender:gelehrter">Constantin Höfler</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, <date when="1856-10-05">5. Oktober 1856</date>
+                    <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1856-10-05">5. Oktober 1856</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -47,7 +46,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -98,7 +97,7 @@
                     <lb/>Ich hoffe zu einem ähnlichen Zwecke in den nächsten Tagen meine
                     philologischen und historischen Collegen zu versammeln, um ein Verständnis zur
                     Durchführung der Vorschriften über die Prüfung der Candidaten des
-                    Gymnasiallehramtes anzubahnen. Schon als <persName key="curtius-georg">Curtius</persName> noch in <orgName key="universitaet-prag">Prag</orgName>
+                    Gymnasiallehramtes anzubahnen. Schon als <rs type="person" ref="curtius-georg" key="curtius-georg">Curtius</rs> noch in <orgName key="universitaet-prag">Prag</orgName>
                     war, wurde von mir und ihm ein Plan ausgearbeitet, nach welchem die
                     Prüfungscommissäre der historisch-philologisch-philosophischen Abtheilung in
                     Betreff ihrer Vorträge verfahren wollten, um im Geiste des hohen Ministeriums
@@ -114,7 +113,7 @@
                     versichert sein, daß wenn Hochdieselben den Senatsvorschlag bekräftigen,
                     meinerseits Alles aufgeboten werden wird, in dem Gange der Geschäfte, keine
                     Störung eintreten zu machen[sic!]. Was während der kurzen Abwesenheit von etwa
-                    8–10 Tagen von mir nicht versehen werden könnte, wird Prodecan <persName key="boehm-josef-georg">Böhm</persName> pünktlich besorgen. Immatriculation,
+                    8–10 Tagen von mir nicht versehen werden könnte, wird Prodecan <rs type="person" ref="boehm-josef-georg" key="boehm-josef-georg">Böhm</rs> pünktlich besorgen. Immatriculation,
                     Sitzungen, Conferenzen finden in dieser Woche statt. Die Lehramtscandidaten aber
                     erhalten, wenn ich abzureisen habe, besondere von mir gefertigte Ausarbeitungen,
                     mit welchen sie sich unterdessen zur Genüge beschäftigen können. Die Anordnungen

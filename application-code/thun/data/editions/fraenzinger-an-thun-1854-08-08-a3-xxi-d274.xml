@@ -1,20 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="fraenzinger" role="sender:beamter">Ignaz Fränzinger
-                    </persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>[?]<note xml:id="note_1">Im Nachlass ist Leo Thun als
+                    <rs type="person" ref="fraenzinger" key="fraenzinger" role="sender:beamter">Ignaz Fränzinger
+                    </rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>[?]<note xml:id="note_1">Im Nachlass ist Leo Thun als
                         Adressat verzeichnet. Allerdings lässt sich dies nicht zweifelsfrei
                         feststellen. Es besteht die Möglichkeit, dass der Brief Teil eines
                         Schreibens von <ref target="thun/thun-korrespondenz/tetschen/weiss-an-thun_1854-09-04_A3-XXI-D279.xml">Johann Baptist Weiß an Leo Thun. Baden-Baden, 04. September 1854</ref>,
                         war und der ursprüngliche Adressat daher Johann Baptist Weiß gewesen
                         ist.</note>
                     <lb/>
-                    <placeName key="freiburg-im-breisgau" ref="#place_84741e39bd2250054745bd841d851b05">Freiburg i.
-                        B.</placeName>, <date when="1854-08-08">8. August 1854</date>
+                    <rs type="place" subtype="place" key="freiburg-im-breisgau" ref="#place_84741e39bd2250054745bd841d851b05">Freiburg i.
+                        B.</rs>, <date when="1854-08-08">8. August 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -49,7 +48,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -58,26 +57,26 @@
                     <term>Personalfragen</term>
                     <term>Römisches Recht</term>
                 </index>
-                <p>Von Prof. <persName key="stintzing-roderich">Strinzing</persName> [Stintzing]
+                <p>Von Prof. <rs type="person" ref="stintzing-roderich" key="stintzing-roderich">Strinzing</rs> [Stintzing]
                     weiß hier Niemand Auskunft zu geben, ja sein Name ist sogar den hiesigen
                     Professoren der Universität unbekannt. Indessen ging bereits ein Brief an eine
-                    zuverlässige Quelle in <placeName ref="#place_bd2b145b873049a539012fea08bfa71a">Mannheim</placeName> und
-                        <placeName ref="#place_35ec7062379a5b1e1743de648e2f3809">Heidelberg</placeName> ab und im Augenblick, wo von daher Antwort
-                    eintrifft, soll Ihnen solche überreicht werden.<lb/>Herr <persName key="schmidt-karl-adolf">Adolph Schmidt</persName>, Dr. der Rechte,
+                    zuverlässige Quelle in <rs type="place" subtype="place" ref="#place_bd2b145b873049a539012fea08bfa71a">Mannheim</rs> und
+                        <rs type="place" subtype="place" ref="#place_35ec7062379a5b1e1743de648e2f3809">Heidelberg</rs> ab und im Augenblick, wo von daher Antwort
+                    eintrifft, soll Ihnen solche überreicht werden.<lb/>Herr <rs type="person" ref="schmidt-karl-adolf" key="schmidt-karl-adolf">Adolph Schmidt</rs>, Dr. der Rechte,
                     Gerichts- und Hofrath und ordentlicher öffentlicher Professor des römischen
-                    Rechts an der <placeName key="universitaet-freiburg" ref="#place_0c2ce30147792a38e32f4c6c209ad4d8">hiesigen
-                        Universität</placeName>, Protestant und eifriger Gegner der Kirche, bekannt
+                    Rechts an der <rs type="place" subtype="place" key="universitaet-freiburg" ref="#place_0c2ce30147792a38e32f4c6c209ad4d8">hiesigen
+                        Universität</rs>, Protestant und eifriger Gegner der Kirche, bekannt
                     als Verfolger ihrer Freunde, kann wohl nicht der nämliche seyn, welcher sich um
-                    die fragliche Stelle bewirbt: – der <persName key="schmidt-adolf">wahrscheinliche Bewerber</persName> ist ein anderer gleichen Namens, ein
+                    die fragliche Stelle bewirbt: – der <rs type="person" ref="schmidt-adolf" key="schmidt-adolf">wahrscheinliche Bewerber</rs> ist ein anderer gleichen Namens, ein
                     junger Mann von etwa 25 Jahren, Philolog, welcher bey dem hiesigen Lyceum
                     angestellt und auch zu philosophischen Vorlesungen (ich weiß nicht, ob an der
                     Universität oder am Lyceum) ermächtigt war. Die letzteren wurden ihm abgenommen,
                     weil er – wie ich hörte – in seinen Excursionen im Gebiet der Religion, die
                     Gottheit Christi (man sagte auf eine rohe Weise) in Abrede gezogen haben soll.
-                    Vor einiger Zeit wurde er an das Lyceum zu <placeName ref="#place_35ec7062379a5b1e1743de648e2f3809">Heidelberg</placeName> als
+                    Vor einiger Zeit wurde er an das Lyceum zu <rs type="place" subtype="place" ref="#place_35ec7062379a5b1e1743de648e2f3809">Heidelberg</rs> als
                     Lehrer mit Staatsdienereigenschaft versetzt. Er ist der Bruder des Ihnen ohne
-                    Zweifel wohlbekannten <persName key="schmidt">Ministerialraths
-                        Schmidt</persName>, des Referenten in katholischen Kirchen- und Schulsachen;
+                    Zweifel wohlbekannten <rs type="person" ref="schmidt" key="schmidt">Ministerialraths
+                        Schmidt</rs>, des Referenten in katholischen Kirchen- und Schulsachen;
                     einer jener Katholiken, deren Wirksamkeit das Gegentheil ihres Glaubens zu
                     bethätigen pflegt: Man nennt den letzteren als eine zur Gegenparthei der Kirche
                     gehörige Hauptperson.<lb/>Was hier über beide Herren Schmidt gesagt ist, kommt

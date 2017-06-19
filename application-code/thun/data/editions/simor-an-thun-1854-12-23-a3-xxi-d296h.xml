@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="simor-johann" role="sender:kleriker">János Simor</persName> an
-                        <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="simor-johann" key="simor-johann" role="sender:kleriker">János Simor</rs> an
+                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName>, <date when="1854-12-23">23.
+                    <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs>, <date when="1854-12-23">23.
                         Dezember 1854</date>
                 </title>
             </titleStmt>
@@ -61,7 +60,7 @@
                 </p>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -75,62 +74,62 @@
                     am 27. dieses anzutreten gedenke. Wenn ich auch in dieser Jahreszeit nicht über
                     dem Meere reisen werde, da ich mich jedoch am Wege nirgends länger aufhalten
                     will, als wegen Visirung des Passes unumgänglich nothwendig sein wird, so hoffe
-                    ich am 4. oder 5. Jänner in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> einzutreffen.<lb/>Seit
+                    ich am 4. oder 5. Jänner in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> einzutreffen.<lb/>Seit
                     meinem letzten Schreiben ist hier nichts von Wichtigkeit vorgefallen, nur wurde
-                    die Verhandlung des Herrn <persName key="rauscher-joseph">Erzbischofs von
-                        Wien</persName> mit dem <persName key="santucci-vincenzo">Kardinal
-                        Santucci</persName> durch die Krankheit des letzteren auf 12 Tage
+                    die Verhandlung des Herrn <rs type="person" ref="rauscher-joseph" key="rauscher-joseph">Erzbischofs von
+                        Wien</rs> mit dem <rs type="person" ref="santucci-vincenzo" key="santucci-vincenzo">Kardinal
+                        Santucci</rs> durch die Krankheit des letzteren auf 12 Tage
                     unterbrochen, welche jedoch bereits wieder in ihrem wiewohl langsamen Gange
                     begriffen ist. Über den Stand der Concordatsangelegenheit berichtet eben jetzt
-                    der <persName key="rauscher-joseph">Herr Erzbischof</persName> unmittelbar an
-                        <persName key="franz-joseph">Seine Majestät den Kaiser</persName>. Der
-                        <persName key="ketteler-wilhelm-emanuel">Bischof von Mainz</persName>,
-                    welcher hier als Abgesandter des <persName key="vicari-hermann">Erzbischofs von
-                        Freiburg</persName> und des oberrheinischen Episcopates verweilt, hat immer
+                    der <rs type="person" ref="rauscher-joseph" key="rauscher-joseph">Herr Erzbischof</rs> unmittelbar an
+                        <rs type="person" ref="franz-joseph" key="franz-joseph">Seine Majestät den Kaiser</rs>. Der
+                        <rs type="person" ref="ketteler-wilhelm-emanuel" key="ketteler-wilhelm-emanuel">Bischof von Mainz</rs>,
+                    welcher hier als Abgesandter des <rs type="person" ref="vicari-hermann" key="vicari-hermann">Erzbischofs von
+                        Freiburg</rs> und des oberrheinischen Episcopates verweilt, hat immer
                     noch nicht den Mann gefunden, mit welchem er verhandeln könnte. Bei dem
                     Umstande, daß hier der Grundsatz herrscht „festina lente“, läßt sich das Ende
                     der Verhandlungen über unsere Angelegenheit nicht voraussehen, und somit kann
-                    auch die Zeit nicht bestimmt werden, wann der <persName key="rauscher-joseph">Herr Erzbischof</persName> wird abreisen können. Der Kardinal von
-                        <placeName ref="#place_f07d757cdeb5acd661d89d1d54ed7e3c">Gran</placeName> [Esztergom] reist ab am 29. dieses und will über
-                        <placeName ref="#place_44dd74f1f0839b82eafff78727d59982">Ancona</placeName> gehen. Wie die Urtheile der einsichtsvolleren
+                    auch die Zeit nicht bestimmt werden, wann der <rs type="person" ref="rauscher-joseph" key="rauscher-joseph">Herr Erzbischof</rs> wird abreisen können. Der Kardinal von
+                        <rs type="place" subtype="place" ref="#place_f07d757cdeb5acd661d89d1d54ed7e3c">Gran</rs> [Esztergom] reist ab am 29. dieses und will über
+                        <rs type="place" subtype="place" ref="#place_44dd74f1f0839b82eafff78727d59982">Ancona</rs> gehen. Wie die Urtheile der einsichtsvolleren
                     römischen Prälaten über ihn dermalen lauten, wollen Euere Excellenz aus der
-                    Äußerung des <persName key="santucci-vincenzo">Kardinals Santucci</persName>
-                    entnehmen „<persName key="scitovsky-jan">primas Hungariae</persName> est bonus
-                    sed simplex homo“ sagte dieser Kardinal zum <persName key="rauscher-joseph">Herrn Erzbischofe von Wien</persName>. Manche küchenlateinische Äußerungen
+                    Äußerung des <rs type="person" ref="santucci-vincenzo" key="santucci-vincenzo">Kardinals Santucci</rs>
+                    entnehmen „<rs type="person" ref="scitovsky-jan" key="scitovsky-jan">primas Hungariae</rs> est bonus
+                    sed simplex homo“ sagte dieser Kardinal zum <rs type="person" ref="rauscher-joseph" key="rauscher-joseph">Herrn Erzbischofe von Wien</rs>. Manche küchenlateinische Äußerungen
                     desselben werden unter den Prälaten herumgetragen und herzlich belacht sogar vom
-                        <persName key="pius-IX">Heiligen Vater</persName>, welcher über Alles
-                    unterrichtet wird. Ich habe vorausgesehen und vorausgesagt, daß der <persName key="scitovsky-jan">Kardinal</persName> in <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName> sich
+                        <rs type="person" ref="pius-IX" key="pius-IX">Heiligen Vater</rs>, welcher über Alles
+                    unterrichtet wird. Ich habe vorausgesehen und vorausgesagt, daß der <rs type="person" ref="scitovsky-jan" key="scitovsky-jan">Kardinal</rs> in <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs> sich
                     in der öffentlichen Meinung zu Grunde richten wird. Übrigens ist er mit seinem
                     hierortigen Aufenthalte satt und reist sehr gerne zurück. So viel mir bekannt
                     ist, wurden von ihm folgende Männer für römische Titeln vorgeschlagen, und zwar
-                    pro Episcopis solio Pontificio Assistentibus: <persName key="sterca-sulutiu-alexandru">Sterka Sulucz</persName>, <persName key="fabry-ignaz">Fábry</persName>, <persName key="roskovanyi-augustin">Roskoványi</persName>, <persName key="szaniszlo-ferenc">Szaniszlo</persName>, <persName key="osegovich-emerich">Osegovich</persName>, <persName key="krautmann-joseph">Krautmann</persName>
-                    – pro Praelatis Domesticis: <persName key="nehiba-johann">Nehiba</persName>,
-                        <persName key="schirgl-andreas">Schirgl</persName>, <persName key="forgach-de-ghymes-august">Forgàch</persName>, <persName key="danielik-johann">Danielik</persName>; pro Cubiculariis: <persName key="hollok-emerich">Hollok</persName> (Rosenauer Domherr), Senerteczky[?]
-                    (Preßburger Domherr), <persName key="szabo-joseph">Szabó</persName>
-                    (Kanzleidirektor in <placeName ref="#place_f07d757cdeb5acd661d89d1d54ed7e3c">Gran</placeName>), <persName key="szabo-johann">Szabó</persName> et <persName key="zalka-johann">Zalka</persName>
+                    pro Episcopis solio Pontificio Assistentibus: <rs type="person" ref="sterca-sulutiu-alexandru" key="sterca-sulutiu-alexandru">Sterka Sulucz</rs>, <rs type="person" ref="fabry-ignaz" key="fabry-ignaz">Fábry</rs>, <rs type="person" ref="roskovanyi-augustin" key="roskovanyi-augustin">Roskoványi</rs>, <rs type="person" ref="szaniszlo-ferenc" key="szaniszlo-ferenc">Szaniszlo</rs>, <rs type="person" ref="osegovich-emerich" key="osegovich-emerich">Osegovich</rs>, <rs type="person" ref="krautmann-joseph" key="krautmann-joseph">Krautmann</rs>
+                    – pro Praelatis Domesticis: <rs type="person" ref="nehiba-johann" key="nehiba-johann">Nehiba</rs>,
+                        <rs type="person" ref="schirgl-andreas" key="schirgl-andreas">Schirgl</rs>, <rs type="person" ref="forgach-de-ghymes-august" key="forgach-de-ghymes-august">Forgàch</rs>, <rs type="person" ref="danielik-johann" key="danielik-johann">Danielik</rs>; pro Cubiculariis: <rs type="person" ref="hollok-emerich" key="hollok-emerich">Hollok</rs> (Rosenauer Domherr), Senerteczky[?]
+                    (Preßburger Domherr), <rs type="person" ref="szabo-joseph" key="szabo-joseph">Szabó</rs>
+                    (Kanzleidirektor in <rs type="place" subtype="place" ref="#place_f07d757cdeb5acd661d89d1d54ed7e3c">Gran</rs>), <rs type="person" ref="szabo-johann" key="szabo-johann">Szabó</rs> et <rs type="person" ref="zalka-johann" key="zalka-johann">Zalka</rs>
                     (Professoren an der <orgName key="universitaet-pest">Universität zu
-                        Pesth</orgName>), dann sind <persName key="szantofy-anton">Szàntòfy</persName>, <persName key="palasthy-paul">Palássty</persName>,
-                        <persName key="bubla-karl">Bubla</persName> (Sekretär zu Pirnau
-                        [<placeName ref="#place_2856b996cf0fe5b2b0f5f9c907235664">Pornóapáti</placeName>]), <persName key="schumichraszt-michael">Schumichrast</persName> (Gerichtsnotar zu <placeName ref="#place_f07d757cdeb5acd661d89d1d54ed7e3c">Gran</placeName>)
-                    unter den Vorgeschlagenen. Für den Neffen des <persName key="palugyay-imrich">Bischofs Palugyai</persName> wurde um einen päpstlichen Orden
+                        Pesth</orgName>), dann sind <rs type="person" ref="szantofy-anton" key="szantofy-anton">Szàntòfy</rs>, <rs type="person" ref="palasthy-paul" key="palasthy-paul">Palássty</rs>,
+                        <rs type="person" ref="bubla-karl" key="bubla-karl">Bubla</rs> (Sekretär zu Pirnau
+                        [<rs type="place" subtype="place" ref="#place_2856b996cf0fe5b2b0f5f9c907235664">Pornóapáti</rs>]), <rs type="person" ref="schumichraszt-michael" key="schumichraszt-michael">Schumichrast</rs> (Gerichtsnotar zu <rs type="place" subtype="place" ref="#place_f07d757cdeb5acd661d89d1d54ed7e3c">Gran</rs>)
+                    unter den Vorgeschlagenen. Für den Neffen des <rs type="person" ref="palugyay-imrich" key="palugyay-imrich">Bischofs Palugyai</rs> wurde um einen päpstlichen Orden
                     eingeschritten. Ich konnte mich von dem Vorschlage nur mit der kathegorischen
                     Erklärung befreien, werde ich ernannt, so werde ich dagegen protestiren, d. h.
                     den mir verliehenen Titel durch aus nicht annehmen.<lb/>Nachdem die Jesuiten in
-                        <placeName ref="#place_8b6f0975edbb61684a14fc0b1891e1b1">Neapel</placeName> auf‘s Verlangen des Ministers, welcher sie
+                        <rs type="place" subtype="place" ref="#place_8b6f0975edbb61684a14fc0b1891e1b1">Neapel</rs> auf‘s Verlangen des Ministers, welcher sie
                     eines Abends mit seinem Besuche überraschte, schriftlich erklärt haben, daß sie
                     die absolute monarchische Regierungsform für die beste und haltbarste
                     anerkennen, und daß sie sich hiernach benehmen werden, wurde das bereits fertige
-                    Ausweisungsdekret zurückgenommen. <persName key="djunkovsky-paul-marie">Djunkovsky</persName>, welcher hier auf das <orgName key="ministerium-fuer-kultus-und-unterricht">Cultusministerium</orgName>,
+                    Ausweisungsdekret zurückgenommen. <rs type="person" ref="djunkovsky-paul-marie" key="djunkovsky-paul-marie">Djunkovsky</rs>, welcher hier auf das <orgName key="ministerium-fuer-kultus-und-unterricht">Cultusministerium</orgName>,
                     vorzüglich aber auf mich tüchtig geschimpft hat, erhielt eine Sendung nach
                     Scandinavien und Grönland und ist bereits auf dem Wege.<lb/>Die am 3. Sonntage
-                    des Advents gehaltene Rede des Herrn <persName key="rauscher-joseph">Erzbischofs
-                        von Wien</persName> hat sehr gefallen und wird im Drucke erscheinen; am 6.
+                    des Advents gehaltene Rede des Herrn <rs type="person" ref="rauscher-joseph" key="rauscher-joseph">Erzbischofs
+                        von Wien</rs> hat sehr gefallen und wird im Drucke erscheinen; am 6.
                     Jänner wird er abermals predigen. Das zu der deutschen Stiftung <orgName key="santa-maria-dell'-anima">dell’Anima</orgName> gehörige Haus ist bereits
                     auserkoren, welches die deutschen Bischöfe in Pacht zu nehmen und als
                     Absteigequartier zu benutzen gedenken. Die dogmatische Bulle über die
                     „Immaculata“ ist noch immer nicht erschienen, wohl aber die am 9. dieses
                     gehaltene „Allocution“. Erlauben Euere Excellenz, daß ich diesen meinen letzten
-                    Brief von <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName> mit dem aufrichtigen und tief in dem
+                    Brief von <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs> mit dem aufrichtigen und tief in dem
                     innersten meiner Seele gefühlten Wunsche beschließe, Gott, der Herr möge Euere
                     Excellenz auch im künftigen Jahre, ja durch eine unabsehbare Reihe kommender
                     Jahre zum Wohle der Kirche und des Staates in dem besten Wohlsein erhalten: es

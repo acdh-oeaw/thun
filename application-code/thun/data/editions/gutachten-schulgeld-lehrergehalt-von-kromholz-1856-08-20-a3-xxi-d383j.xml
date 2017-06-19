@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Gutachten von <persName key="krombholz-anton">Anton Krombholz</persName> zu §
+                <title>Gutachten von <rs type="person" ref="krombholz-anton" key="krombholz-anton">Anton Krombholz</rs> zu §
                     12 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des
                         Konkordats<lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1856-08-20">20.
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1856-08-20">20.
                         August 1856</date>
                 </title>
             </titleStmt>
@@ -45,7 +44,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -71,7 +70,7 @@
                     dieselben durch Naturalien gesorgt würde. Eine solche Leistung fällt dem
                     Landmanne leichter und gewährt dem Betheiligten größere Sicherheit. Der Werth
                     der Lebensmittel, welcher auf ihrer unmittelbaren Verwendbarkeit beruht, steht
-                    fester als der des Geldes. In <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> wird es leicht sein, bei
+                    fester als der des Geldes. In <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> wird es leicht sein, bei
                     Gelegenheit der Theilung des Gemeindelandes für den Schullehrer Grundstücke
                     auszumitteln; es wäre zu wünschen, daß in anderen Theilen des Reiches dasselbe
                     geschehen könnte.</p>
@@ -103,10 +102,10 @@
                     That geschehen ist und bei vielen andern noch gewärtiget wird; <lb/>e. wurde das
                     Los der Schulgehilfen, das bei vielen Schulen durch die Härte und
                     Eigennützigkeit der Lehrer wahrhaft beklagenswerth war, vielseitig
-                    gebessert;<lb/>f. wurden nicht nur nach <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country>, sondern auch
-                    nach <region ref="#place_ee09f953e2cce4a1e7a2f5b288fee2f4">Kroatien</region> und <region key="slawonien" ref="#place_15f10264a572e8ce0fe253bc889cdbf5">Slavonien</region>,
-                    nach der <region key="woiwodschaft-serbien" ref="#place_c1a76f350bcfa4d0b1f71fc95e9a882b">Woiwodschaft</region> und dem
-                        <region key="temescher-banat" ref="#place_67c8655646f02446cc1e4ecffd769f79">Banate</region> die geeigneten Anordnungen
+                    gebessert;<lb/>f. wurden nicht nur nach <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, sondern auch
+                    nach <rs type="place" subtype="region" ref="#place_ee09f953e2cce4a1e7a2f5b288fee2f4">Kroatien</rs> und <rs type="place" subtype="region" key="slawonien" ref="#place_15f10264a572e8ce0fe253bc889cdbf5">Slavonien</rs>,
+                    nach der <rs type="place" subtype="region" key="woiwodschaft-serbien" ref="#place_c1a76f350bcfa4d0b1f71fc95e9a882b">Woiwodschaft</rs> und dem
+                        <rs type="place" subtype="region" key="temescher-banat" ref="#place_67c8655646f02446cc1e4ecffd769f79">Banate</rs> die geeigneten Anordnungen
                     längst erlassen, den Volksschulen bei Gelegenheit der Theilung des Gemeinlandes
                     den bestimmten Antheil zuzuweisen.<lb/>Es war sonach gar kein Grund vorhanden,
                     erst Anträge zu stellen.<lb/>Was den Antrag betrifft, den Gemeinden keine

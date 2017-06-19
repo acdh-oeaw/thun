@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="hoefler-karl-adolf-constantin" role="sender:gelehrter">Constantin Höfler</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="hoefler-karl-adolf-constantin" key="hoefler-karl-adolf-constantin" role="sender:gelehrter">Constantin Höfler</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, <date when="1857-04-12">12. April 1857</date>
+                    <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1857-04-12">12. April 1857</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -51,7 +50,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -66,7 +65,7 @@
                 <p>Euer Excellenz!<lb/>Hochgeborner Herr Graf!<lb/>Hochgebietender Herr
                     Minister!</p>
                 <p>Ich glaube Euer Excellenz die angenehme Nachricht mittheilen zu müssen, daß es
-                    mir gelungen ist, eine Verständigung zwischen <persName key="safarik-pavel-josef">Herrn Šafařik</persName> und Herrn <persName key="kosteletzky-vinzenz">Kosteletzky</persName> in Betreff einer
+                    mir gelungen ist, eine Verständigung zwischen <rs type="person" ref="safarik-pavel-josef" key="safarik-pavel-josef">Herrn Šafařik</rs> und Herrn <rs type="person" ref="kosteletzky-vinzenz" key="kosteletzky-vinzenz">Kosteletzky</rs> in Betreff einer
                     botanischen Gartenbibliothek zu Wege zu bringen. Die Berichte an das hohe
                     Ministerium und die k.k. Statthalterei sind bereits fertig und die mir von Eurer
                     Excellenz unter dem 27. Jänner ertheilte, mir am 23. März zugekommene Mission
@@ -78,11 +77,11 @@
                     erloschen sind, die Sache so rasch als möglich zu Ende zu führen, damit nicht
                     neue Schwierigkeiten sich erheben, die herbeizuführen auf einer Seite Personen
                     genug vorhanden sind. Ich wäre sehr gerne diese Ostern nach
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> gegangen lediglich, um Eurer Excellenz
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> gegangen lediglich, um Eurer Excellenz
                     aufzuwarten und Hochdieselben mit einigen Verhältnissen, sowohl als Decan wie
                     als Prüfungsdirector bekannt zu machen. Da ich aber das Eisen schmieden mußte,
                     so lange es warm war, und ich erst heute morgens die Vereinbarung abschloß,
-                    komme ich leider wieder nicht nach <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>. Euer Excellenz
+                    komme ich leider wieder nicht nach <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>. Euer Excellenz
                     erlauben mir daher wohl mich etwas ausführlicher zu ergehen. Zuerst wünschte ich
                     Euer Excellenz zu melden, daß sich bei der philosophischen Facultät eine Anzahl
                     junger Männer für Rigorosen und Promotion meldete, welche zu sehr schönen
@@ -98,13 +97,13 @@
                     Professoren fast immer Spaltungen und Reibungen statt finden. Leicht ließe sich
                     eine für nothwendig erachtete Änderung der Rigorosen, sobald sie angedeutet
                     würde, durch das Collegium selbst, welches vom besten Geiste erfüllt ist,
-                    herbeiführen. Ich füge noch hinzu, daß Carl <persName key="holzinger-carl">Holzinger</persName>, Verfasser der Beiträge zur Erklärung des
+                    herbeiführen. Ich füge noch hinzu, daß Carl <rs type="person" ref="holzinger-carl" key="holzinger-carl">Holzinger</rs>, Verfasser der Beiträge zur Erklärung des
                         Demosthenes<note xml:id="note_1"> Vgl. Carl Holzinger, Beiträge zur
                         Erklärung des Demosthenes. Dionysios oder Libanios? Zur ersten olynthischen
                         Rede, Prag 1856.</note>, gegenwärtig die Rigorosen macht und noch in diesem
                     Sommer unmittelbar nach der Promotion sich um die Habilitation als Privatdocent
-                    der Philologie bewerben wird. Gerne würde <persName key="novotny-eduard">Nowotný</persName>, welcher jüngst die Prüfung aus Philologie mit Vorzug
-                    bestanden hat und den Prof. <persName key="schleicher-august">Schleicher</persName> noch vor <persName key="kvicala-jan">Guicala</persName> [sic, richtig Kvíčala] setzte, gleichfalls promoviren,
+                    der Philologie bewerben wird. Gerne würde <rs type="person" ref="novotny-eduard" key="novotny-eduard">Nowotný</rs>, welcher jüngst die Prüfung aus Philologie mit Vorzug
+                    bestanden hat und den Prof. <rs type="person" ref="schleicher-august" key="schleicher-august">Schleicher</rs> noch vor <rs type="person" ref="kvicala-jan" key="kvicala-jan">Guicala</rs> [sic, richtig Kvíčala] setzte, gleichfalls promoviren,
                     würden nicht auf ihn Einflüsse geltend gemacht, welche ich in keiner Beziehung
                     billigen kann. Vergebens predige ich beständig, daß man, was an bestehenden
                     Einrichtungen lebensfähig ist, hegen, aber nicht zerstören müsse. Das Gemüth der
@@ -120,18 +119,18 @@
                     hervorgehen.<lb/>Der zweite Punkt betrifft die Prüfungen der Lehramtscandidaten.
                     Diese sind im Ganzen recht günstig ausgefallen und zwar befinden sich zur
                     Beschämung jener Prälaten, welche ihre Ordensgeistlichen von uns nicht
-                    examiniren lassen wollen, unter den ausgezeichneten <persName key="wach-alois">P. Wach</persName> und Tegl[?] (Pilsener Gymnasium). Ein vortreffliches
-                    Talent ist <persName key="bauer-andreas">Andreas Bauer</persName>, Mathematiker,
+                    examiniren lassen wollen, unter den ausgezeichneten <rs type="person" ref="wach-alois" key="wach-alois">P. Wach</rs> und Tegl[?] (Pilsener Gymnasium). Ein vortreffliches
+                    Talent ist <rs type="person" ref="bauer-andreas" key="bauer-andreas">Andreas Bauer</rs>, Mathematiker,
                     auf welchen ich Euer Excellenz besonders aufmerksam zu machen mir erlaube.
                     Merkwürdig war die Geläufigkeit und Sicherheit des Ausdruckes bei
                     Naturhistorikern und Mathematikern, offenbar in höherem Grade als bei den
                     Philologen. Unangenehm ist mir, daß Physik nur an der Tafel und nicht im
                     Laboratorium geprüft wurde. Ich wollte dieses Mal nichts bemerken, weil ich mir
-                    dachte, daß es das letzte Mal sein dürfte, daß <persName key="wersin-carl">Prof.
-                        Wersin </persName>prüfe, der übrigens sehr strenge und genau prüft.<lb/>Die
+                    dachte, daß es das letzte Mal sein dürfte, daß <rs type="person" ref="wersin-carl" key="wersin-carl">Prof.
+                        Wersin </rs>prüfe, der übrigens sehr strenge und genau prüft.<lb/>Die
                     Angelegenheit des Lokales ist ins Reine gebracht. Euer Excellenz werden sich
                     gnädigst erinnern, daß ich in meinem Schreiben an Herrn Ministerialsecretär
-                        <persName key="feil-joseph">Feil</persName> aufmerksam machte, welche
+                        <rs type="person" ref="feil-joseph" key="feil-joseph">Feil</rs> aufmerksam machte, welche
                     schwierige Stellung ich als einfacher Professor haben würde und mir im Interesse
                     der Sache, nicht meiner Person, ein bleibender Titel wünschenswerth sei. Zumal
                     da es sich hiebei zuletzt nur um Anerkennung desjenigen handeln würde, welchen
@@ -140,19 +139,19 @@
                     Oberlandesgerichtsräthe; kein Wunder, wenn solange als möglich der Aufnahme der
                     Prüfungscommission für Lehramtscandidaten in die Localitäten der juristischen
                     Prüfungscommission Schwierigkeiten entgegengestellt wurden, deren endliche
-                    Überwindung ich zum Theile dem guten alten Herrn <persName key="schnabel-georg-norbert">Schnabel</persName>, zum großen Theile dem
+                    Überwindung ich zum Theile dem guten alten Herrn <rs type="person" ref="schnabel-georg-norbert" key="schnabel-georg-norbert">Schnabel</rs>, zum großen Theile dem
                     Umstand verdanke, daß ich mich bereit erklärte persönlich mit der bisherigen
                     Rumpelkammer der juristischen Commission Vorlieb zu nehmen.<lb/>Ein vierter
                     Punkt ist die von dem ganzen Collegium gewünschte Beförderung der Professoren
-                        <persName key="loewe-johann-heinrich">Löwe</persName> und <persName key="bippart-georg">Bippart</persName> zu Ordinariis. Es thut mir namentlich
+                        <rs type="person" ref="loewe-johann-heinrich" key="loewe-johann-heinrich">Löwe</rs> und <rs type="person" ref="bippart-georg" key="bippart-georg">Bippart</rs> zu Ordinariis. Es thut mir namentlich
                     in dieser Beziehung sehr leid, daß ich nicht das Glück haben kann, Eurer
-                    Excellenz persönlich aufzuwarten.<lb/>Prof. <persName key="kelle-johann">Kelle</persName> ist seit neun Tagen hier, jedoch unwohl, so daß er bis
+                    Excellenz persönlich aufzuwarten.<lb/>Prof. <rs type="person" ref="kelle-johann" key="kelle-johann">Kelle</rs> ist seit neun Tagen hier, jedoch unwohl, so daß er bis
                     heute das Bett hüten muß. Ich werde kaum nöthig haben Eurer Excellenz zu
                     versichern, daß ich, obwohl von so vielen Seiten angegangen, meine Collegien
                     über deutsche Literaturgeschichte fortzusetzen, dieses aus demselben Grunde
                     nicht thue, weshalb ich auch nicht über österreichische Geschichte lese, meiner
                     Collegen wegen. Ich werde stets soweit mir nur immer möglich Frieden halten und
-                    Frieden fördern. Herr <persName key="safarik-pavel-josef">Šafařik</persName> hat
+                    Frieden fördern. Herr <rs type="person" ref="safarik-pavel-josef" key="safarik-pavel-josef">Šafařik</rs> hat
                     mir heute gesagt, daß er bereits Eurer Excellenz ein Exemplar der glagolitischen
                     Fragmente vorzulegen sich die Freiheit nahm. Er ist mir somit zuvorgekommen, wie
                     ja auch ihm der Werth der Arbeit und ihr Verdienst zukommen. Die Sache hat

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="schaguna-andreas" role="sender:kleriker">Andreas
-                        Schaguna</persName> an <persName key="rajacic-joseph">Joseph
-                        Rajačić</persName>
+                    <rs type="person" ref="schaguna-andreas" key="schaguna-andreas" role="sender:kleriker">Andreas
+                        Schaguna</rs> an <rs type="person" ref="rajacic-joseph" key="rajacic-joseph">Joseph
+                        Rajačić</rs>
                     <lb/>
-                    <placeName ref="#place_f0cb899d2f50889980d12f59807d7ae0">Hermannstadt</placeName>, <date when="1850-07-27">27. Juli 1850</date>
+                    <rs type="place" subtype="place" ref="#place_f0cb899d2f50889980d12f59807d7ae0">Hermannstadt</rs>, <date when="1850-07-27">27. Juli 1850</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -43,7 +42,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -61,7 +60,7 @@
                     dabei den größten Nachtheil voraussehe, der unserer soviel versuchungsweise
                     heimgesuchten Kirche durch diesen Aufschub der Synode bevorsteht. Ich zweifle
                     nicht, daß Euere Beatitudo als der erste Steuermann unseres kirchlichen Schiffes
-                    in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> die Stürme kennen, in welchen
+                    in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> die Stürme kennen, in welchen
                     sich das Schiff befindet.<lb/>Dieser Umstand nöthigt mich, als einen treuen
                     Sohn, Diener und Wächter unserer Orthodoxie, alle Geheimnisse meines Herzens und
                     meiner Seele vor der gesammten Kirche jetzt – jetzt, da es nämlich noch nicht
@@ -72,7 +71,7 @@
                     zweiten Termine der Synode wir festgehalten hätten. Um aber meine frühere
                     Meinung zu sagen, ich hätte gewunschen und nach den Satzungen unserer Kirche
                     erwartet, daß Euere Beatitudo noch im vorigen Jahre, als Sie mittelst
-                    Allerhöchsten Decrets nach <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> der Berathung wegen in
+                    Allerhöchsten Decrets nach <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> der Berathung wegen in
                     kirchlichen Angelegenheiten berufen worden waren, zugleich und unverzüglich
                     dahin gewirkt hätten, daß auch andere Bischöfe zu demselben Zwecke dahin berufen
                     werden. Da aber dies nicht geschah, so wurde der Grund zu dem unbeschreiblichen,
@@ -89,10 +88,10 @@
                     treuen Söhne unser Andenken verfolgen wird nicht nur diesseits, sondern auch
                     jenseits unsern finstern Grabes, wenn wir das Geringste vernachlässigen, das ihr
                     nützen könnte. Und was soll ich von der Geschichte sagen, welche ohnehin viel
-                    über uns zu reden und zu schreiben wird haben?<lb/>Andere Kirchen in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">österreichischen Staaten</country> können uns Beispiel
+                    über uns zu reden und zu schreiben wird haben?<lb/>Andere Kirchen in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">österreichischen Staaten</rs> können uns Beispiel
                     geben; diese wirken und bewerkstelligen Vieles, formen sich zu eigenem Gedeihen
-                    im Geiste der vom <persName key="franz-joseph">Allergnädigsten
-                        Monarchen</persName> verliehenen Constitution. Was können wir von unserer
+                    im Geiste der vom <rs type="person" ref="franz-joseph" key="franz-joseph">Allergnädigsten
+                        Monarchen</rs> verliehenen Constitution. Was können wir von unserer
                     Kirche erwarten, wenn wir entweder nichts oder unvollkommen wirken? Es ist
                     möglich, daß man auch bei uns wirkt und es für rathsam findet, es mir, als einem
                     schwachen Gefäße, nicht mitzutheilen; ich würde mich auch dabei zufrieden
@@ -101,14 +100,14 @@
                     nicht; ebenso im nationalen Leben ist es nothwendig, daß der Sionswächter seinen
                     Mitwächtern seine Bedürfnisse zeitlich kundgebe.<lb/>Ich bitte, den Inhalt
                     gegenwärtigen Schreibens nicht so zu deuten, als befände sich etwa die
-                    Orthodoxie in <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">meiner Diöcese</region> in Gefahr und
-                    ich deshalb der Hilfe bedürfte; nein, <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">meine
-                        Eparchie</region>, Gott sei Dank, ist außer aller Gefahr, vielmehr sie
+                    Orthodoxie in <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">meiner Diöcese</rs> in Gefahr und
+                    ich deshalb der Hilfe bedürfte; nein, <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">meine
+                        Eparchie</rs>, Gott sei Dank, ist außer aller Gefahr, vielmehr sie
                     erbeutet ihre unter 300jähriger Verfolgung ihr abgekürzten Rechte wieder und
                     steht da als jeder und feste Burg ohne Furcht vor Feinden. Nicht also Hilfe
-                    suche ich für die mir anvertraute <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Eparchie</region>,
+                    suche ich für die mir anvertraute <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Eparchie</rs>,
                     sondern ich richte meine Stimme dahin, daß in der Einrichtung unserer gesammten
-                    Kirche in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> ohne allen Verzug
+                    Kirche in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> ohne allen Verzug
                     alles geordnet werde, was ihr Heiligthum und gefahrlose Zukunft von uns
                     verlangt. Über diese dringende Noth sind vermutlich bis jetzt auch von andern
                     Brüdern Bischöfen Vorstellungen zu Euerer Beatitudo angelangt.<lb/>Was den
@@ -116,7 +115,7 @@
                     oft durch Krankheit beunruhigt wird, bin aber doch dabei frei in dieser
                     Beziehung aufrichtig meinen Wunsch und meine Bitte zu äußern, daß Sie Ihre
                     Hoffnung auf Gott legen und alle baldigst und zwar unausbleiblich für den Monat
-                    August nach <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> wegen kirchlichen Angelegenheiten zu
+                    August nach <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> wegen kirchlichen Angelegenheiten zu
                     berufen belieben.</p>
                 <p>Hermannstadt, 27. Juli [1]850</p>
                 <p>Andreas Schaguna m.p.<lb/>gr. n. u. Bischof in Siebenbürgen</p>

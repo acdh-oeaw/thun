@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Aufstellung der Vorschriften zur Bestreitung der Schulbaukosten in Österreich
-                    von <persName key="heufler-von-hohenbuehel-ludwig">Ludwig
-                        Heufler</persName>
+                    von <rs type="person" ref="heufler-von-hohenbuehel-ludwig" key="heufler-von-hohenbuehel-ludwig">Ludwig
+                        Heufler</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1853-05-06">6. Mai 1853</date>
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1853-05-06">6. Mai 1853</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -41,7 +40,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -51,7 +50,7 @@
                     <term>Schulwesen</term>
                 </index>
                 <p>Die verschiedenen Vorschriften über die Bestreitung der Schulbaukosten im
-                    Kaiserthum <country ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</country>
+                    Kaiserthum <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs>
                 </p>
                 <p/>
                 <p>
@@ -59,8 +58,8 @@
                 </p>
                 <p>
                     <hi rend="ul">I. Für sämmtliche Kronländer mit Ausnahme von
-                            <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> und dessen ehemaligen Nebenländern, <region key="lombardei" ref="#place_5bde0d174594bcea5b83287afba0850a">Lombardie</region>, <region ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</region> und
-                            <region ref="#place_3d93c766d980f58a8e989a616a0c72e6">Dalmatien</region>
+                            <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> und dessen ehemaligen Nebenländern, <rs type="place" subtype="region" key="lombardei" ref="#place_5bde0d174594bcea5b83287afba0850a">Lombardie</rs>, <rs type="place" subtype="region" ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</rs> und
+                            <rs type="place" subtype="region" ref="#place_3d93c766d980f58a8e989a616a0c72e6">Dalmatien</rs>
                     </hi>
                     <lb/>An Trivialschulen haben gemäß
                     Hofdekretes vom 6. Oktober 1787 Z. 379 die <hi rend="ul">Grundobrigkeiten, die
@@ -141,8 +140,8 @@
                         politische Verfassung der deutschen Volksschulen, der die bisherigen
                         mitgetheilten Verordnungen entnommen sind, Gültigkeit hat</hi>.</p>
                 <p>
-                    <hi rend="ul">A. Für das <region key="oberoesterreich" ref="#place_fe6f496ff822ebb804cdda05f226dd55">Land ob der
-                        Enns</region>
+                    <hi rend="ul">A. Für das <rs type="place" subtype="region" key="oberoesterreich" ref="#place_fe6f496ff822ebb804cdda05f226dd55">Land ob der
+                        Enns</rs>
                     </hi>
                     <lb/>Die gesetzlichen Beiträge der Dominien und Gemeinden
                     zu Kirchen, Pfarrhof und Schulgebäuden sind nach dem bei dem allgemeinen
@@ -151,7 +150,7 @@
                     Hofkanzleidekret 1.10.1839 Z. 27620, abgedruckt in der Anmerkung zum § 384 der
                     politischen Schulverfassung.</p>
                 <p>
-                    <hi rend="ul">B. Für <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</region>
+                    <hi rend="ul">B. Für <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs>
                     </hi>
                     <lb/>Zu den Hand-
                     und Zugarbeiten haben alle zu einer Schule eingeschulten Gemeindeglieder in dem
@@ -162,7 +161,7 @@
                     Ausgleichung der bei dem ständischen Kollegium zu ermittelnden Differenz
                     zwischen dem Ordinarium und Extraordinarium, da das letztere, welches entweder
                     die Emphyteuter selbst entrichten oder die Obrigkeit für sie entrichtet,
-                    niedriger entfällt. In der Hauptstadt <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> hat die
+                    niedriger entfällt. In der Hauptstadt <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> hat die
                     Gebäudezinssteuer als Umlagsmaßstab in Anwendung zu kommen. Von der
                     Konkurrenzpflicht werden die Besitzer von Dominikalkörpern, alle
                     landesfürstlichen, städtischen und obrigkeitlichen Beamten, Seelsorger und
@@ -179,10 +178,10 @@
                     bestimmt wird, in Anwendung zu bringen. Hofkanzleidekret 24. Juni 1840 Z. 19665,
                     abgedruckt in der Anmerkung zum § 384 der politischen Schulverfassung.</p>
                 <p>
-                    <hi rend="ul">C. In <region ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</region>
+                    <hi rend="ul">C. In <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs>
                     </hi>
                     <lb/>In jenen Ortschaften
-                        <region key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galiziens</region>, in welchen gemischte Schulen
+                        <rs type="place" subtype="region" key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galiziens</rs>, in welchen gemischte Schulen
                     bestehen, bleibt es den Gemeindegliedern des griechisch-katholischen Ritus
                     freigestellt, eine ganz ruthenische Schule für ihre Kinder auf eigene Kosten
                     herzustellen und zu unterhalten. Derlei Schulen bleiben den Gemeinden für alle
@@ -194,11 +193,11 @@
                     Studienhofdekret 25. April 1818 Z. 4511, abgedruckt in der Anmerkung zum § 368
                     der politischen Schulverfassung.</p>
                 <p>
-                    <hi rend="ul">D. In <region ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</region> und
-                    <region ref="#place_6c26d83c5622aa697d39a9ca0aaff52b">Vorarlberg</region>
+                    <hi rend="ul">D. In <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs> und
+                    <rs type="place" subtype="region" ref="#place_6c26d83c5622aa697d39a9ca0aaff52b">Vorarlberg</rs>
                     </hi>
                     <lb/>Die verschiedene Verfassung von
-                        <region ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</region> in Ansehung des Unterthansverbandes erheischt eine
+                        <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs> in Ansehung des Unterthansverbandes erheischt eine
                     Abweichung in Beziehung auf die Schulbaukonkurrenz. Demgemäß hat der Patron 1/3
                     und die sämmtlichen Domikal- und Rustikalbesitzer haben zwei Drittheile zu
                     tragen. Wenn die Lehrerswohnung in Folge der stabilen Vereinigung des
@@ -211,8 +210,8 @@
                     konkurrenzpflichtig. Studienhofdekret 1. Oktober 1842 Z. 8244, abgedruckt in der
                     Anmerkung zu § 384 der politischen Schulverfassung.</p>
                 <p>
-                    <hi rend="ul">II. In der <country key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">Lombardie und
-                            Venedig</country>
+                    <hi rend="ul">II. In der <rs type="place" subtype="country" key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">Lombardie und
+                            Venedig</rs>
                     </hi>
                     <lb/>Die Sorge für den ökonomischen Zustand und
                     die Bedürfnisse jeder Elementarschule liegt der Gemeindeverwaltung
@@ -228,18 +227,18 @@
                         bestehen</hi>. § 61 und 62 des „Regolamento per le scuole elementari nel
                     regno Lombardo-Veneto“ in dem eben zitirten Gesetzbuche.</p>
                 <p>
-                    <hi rend="ul">III. Für <region ref="#place_3d93c766d980f58a8e989a616a0c72e6">Dalmatien</region>
+                    <hi rend="ul">III. Für <rs type="place" subtype="region" ref="#place_3d93c766d980f58a8e989a616a0c72e6">Dalmatien</rs>
                     </hi>
                     <lb/>bestehen wörtlich die
-                    gleichen Vorschriften wie für das <country key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venetianische Königreich</country>. § 57 und 58 des
+                    gleichen Vorschriften wie für das <rs type="place" subtype="country" key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venetianische Königreich</rs>. § 57 und 58 des
                     „Regolamento per le scuole elementari nel governo die tutta la Dalmazia“ und §§
                     1 und 3 der angehängten autorità amministrative. Allerhöchste Entschließung vom
                     8. April 1822, gedruckt Notificazione 4. März 1823 Z. 2933/Gubernzahl, Hofzahl
                     4769/32, 2422/22 und 242/23.</p>
                 <p>
-                    <hi rend="ul">IV. Für <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> und dessen ehemalige Nebenländer
-                            <country key="kroatien-slawonien" ref="#place_6fe90dd680c4a571ed89e631ef2d48ed">Kroatien und
-                    Slavonien</country>
+                    <hi rend="ul">IV. Für <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> und dessen ehemalige Nebenländer
+                            <rs type="place" subtype="country" key="kroatien-slawonien" ref="#place_6fe90dd680c4a571ed89e631ef2d48ed">Kroatien und
+                    Slavonien</rs>
                     </hi>
                     <lb/>Die Kosten der Schulbauten liegen den betreffenden
                     Gemeinden ob.<lb/>Übrigens können sowohl die Schulpatrone und Grundherren,
@@ -248,12 +247,12 @@
                     Schulen einen Theil der Kosten auf sich nehmen. § 72 und 74 des Magyarország
                     elemi tanodainak alapszubalyai (Systema scholarum elementarium in Hungaria).
                     Zufolge Ministerialzahl 5641/50 im Januar 1845 von der Studienkommission und
-                    Statthalterei genehmigt, sodann auf Befehl des Palatinus <persName key="joseph-anton-johann-erzherzog">Erzherzog Joseph</persName> zu
-                        <placeName ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</placeName> in Druck gelegt und mit allerhöchster
+                    Statthalterei genehmigt, sodann auf Befehl des Palatinus <rs type="person" ref="joseph-anton-johann-erzherzog" key="joseph-anton-johann-erzherzog">Erzherzog Joseph</rs> zu
+                        <rs type="place" subtype="place" ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</rs> in Druck gelegt und mit allerhöchster
                     Genehmigung vom 21. Dezember 1845 im Jahre 1846 als Gesetz kundgemacht. In
-                    lateinischer Übersetzung nach <placeName ref="#place_a620921af9eef09d01368fb2c1a2fd88">Agram</placeName> geschickt.</p>
+                    lateinischer Übersetzung nach <rs type="place" subtype="place" ref="#place_a620921af9eef09d01368fb2c1a2fd88">Agram</rs> geschickt.</p>
                 <p>
-                    <hi rend="ul">V. Für <region ref="#place_bafe2294b7fb193dee4992b1ed9dd773">Siebenbürgen</region> in Beziehung auf katholische
+                    <hi rend="ul">V. Für <rs type="place" subtype="region" ref="#place_bafe2294b7fb193dee4992b1ed9dd773">Siebenbürgen</rs> in Beziehung auf katholische
                         Schulen</hi>
                     <lb/>
                     <hi rend="ul">Die Professionistenkosten zahlt der

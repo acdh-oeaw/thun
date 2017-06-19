@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="weber-von-ebenhof-philipp" role="beamter">Philipp
-                        Weber</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="weber-von-ebenhof-philipp" key="weber-von-ebenhof-philipp" role="beamter">Philipp
+                        Weber</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, <date when="1853-07-11">11.
+                    <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1853-07-11">11.
                         Juli 1853</date>
                 </title>
             </titleStmt>
@@ -38,7 +37,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -50,28 +49,28 @@
                 </index>
                 <p>Hochgeborner Graf!<lb/>Eure Excellenz!</p>
                 <p>Als ich im Jahre 1851 mich Eurer Excellenz persönlich vorstellte, um
-                    Hochdenselben eine Bitte für meinen in <placeName ref="#place_ca3abad35c7d38d8f2873dac9e8f85a4">Žolkiew</placeName> [Schowkwa]
-                    als Kreisphisikus angestellten Bruder Med. et Chyr. Doctor <persName key="weber-von-ebenhof-ferdinand">Ferdinand Weber</persName> vorzutragen,
+                    Hochdenselben eine Bitte für meinen in <rs type="place" subtype="place" ref="#place_ca3abad35c7d38d8f2873dac9e8f85a4">Žolkiew</rs> [Schowkwa]
+                    als Kreisphisikus angestellten Bruder Med. et Chyr. Doctor <rs type="person" ref="weber-von-ebenhof-ferdinand" key="weber-von-ebenhof-ferdinand">Ferdinand Weber</rs> vorzutragen,
                     haben mir Eure Excellenz gnädig gestattet, mich künftig brieflich an
                     Hochdieselben wenden zu dürfen.<lb/>Durch diese huldvolle Erlaubnis ermuthigt,
                     wage ich es, Eure Excellenz abermals um eine Gnade für meinen Bruder gehorsamst
                     zu bitten.<lb/>Derselbe ist um die k.k. Professur der Geburtshülfe in
-                        <placeName ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</placeName> eingeschritten und glaubt, daß seinem Gesuche
-                    sowohl mit Rücksicht auf seine in der <placeName key="prag" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prager</placeName>
+                        <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs> eingeschritten und glaubt, daß seinem Gesuche
+                    sowohl mit Rücksicht auf seine in der <rs type="place" subtype="place" key="prag" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prager</rs>
                     k.k. Gebäranstalt reich erworbenen Fachkenntnisse als auch auf seine sich
                     bereits angeeignete Kenntnis der polnischen Sprache eine günstige Einbegleitung
                     der einschlägigen Behörden zutheil werden dürfte.<lb/>Geruhen Eure Excellenz in
-                    Berücksichtigung der bisherigen Bemühungen <persName key="weber-von-ebenhof-ferdinand">meines Bruders</persName>, der sich in
-                    einer sehr schwierigen Zeitperiode als Choleraarzt in <region ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</region>
+                    Berücksichtigung der bisherigen Bemühungen <rs type="person" ref="weber-von-ebenhof-ferdinand" key="weber-von-ebenhof-ferdinand">meines Bruders</rs>, der sich in
+                    einer sehr schwierigen Zeitperiode als Choleraarzt in <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs>
                     verwenden ließ und nunmehr seit vier Jahren seinen Pflichten als Kreisphisikus
                     mit aller Strebsamkeit obliegt, Hochihre Gnade angedeihen zu lassen.<lb/>Sollte
-                    dieser Posten für <persName key="weber-von-ebenhof-ferdinand">meinen
-                        Bruder</persName> unerreichbar seyn und sollte, wie es als möglich
-                    bezeichnet wird, bei der Besetzung der <placeName key="lemberg" ref="#place_3ff694e5c82611cda53341a9bae21735">Lemberger</placeName> Stelle die Professur der Geburtshülfe in
-                        <placeName ref="#place_473a33abfe6141e8b2f9fddf964bf69a">Czernowitz</placeName> in Erledigung kommen, so würde <persName key="weber-von-ebenhof-ferdinand">mein Bruder</persName> es als ein großes
-                    Glück ansehen, wenn ihm die <placeName key="czernowitz" ref="#place_e7593ca9352d7cff6f4c71eee48ebe2e">Czernowitzer</placeName>
+                    dieser Posten für <rs type="person" ref="weber-von-ebenhof-ferdinand" key="weber-von-ebenhof-ferdinand">meinen
+                        Bruder</rs> unerreichbar seyn und sollte, wie es als möglich
+                    bezeichnet wird, bei der Besetzung der <rs type="place" subtype="place" key="lemberg" ref="#place_3ff694e5c82611cda53341a9bae21735">Lemberger</rs> Stelle die Professur der Geburtshülfe in
+                        <rs type="place" subtype="place" ref="#place_473a33abfe6141e8b2f9fddf964bf69a">Czernowitz</rs> in Erledigung kommen, so würde <rs type="person" ref="weber-von-ebenhof-ferdinand" key="weber-von-ebenhof-ferdinand">mein Bruder</rs> es als ein großes
+                    Glück ansehen, wenn ihm die <rs type="place" subtype="place" key="czernowitz" ref="#place_e7593ca9352d7cff6f4c71eee48ebe2e">Czernowitzer</rs>
                     Stelle gnädig verliehen würde.<lb/>Ich wage es daher, für diese Eventualität
-                    gleichfalls um die hohe Gnade Eurer Excellenz für <persName key="weber-von-ebenhof-ferdinand">meinen Bruder</persName> zu
+                    gleichfalls um die hohe Gnade Eurer Excellenz für <rs type="person" ref="weber-von-ebenhof-ferdinand" key="weber-von-ebenhof-ferdinand">meinen Bruder</rs> zu
                     bitten.<lb/>Mögen Eure Excellenz die Kühnheit, mit der ich mich an Hochdieselben
                     wende, durch das unbegränzte Vertrauen, welches mich beseelt, für entschuldigt
                     halten und die Versicherung huldreich aufnehmen, daß meine Dankbarkeit für das

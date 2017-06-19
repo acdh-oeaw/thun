@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="liechtenstein-friedrich" role="sender:beamter">Friedrich
-                        Liechtenstein</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="liechtenstein-friedrich" key="liechtenstein-friedrich" role="sender:beamter">Friedrich
+                        Liechtenstein</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>o. O., o. D. [<date when="1858">1858</date>]</title>
             </titleStmt>
             <publicationStmt>
@@ -38,7 +37,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -49,19 +48,19 @@
                     <term>Siebenbürgen</term>
                 </index>
                 <p>Euer Excellenz!</p>
-                <p>Von dem <persName key="bach-alexander">Minister des Innern</persName>
+                <p>Von dem <rs type="person" ref="bach-alexander" key="bach-alexander">Minister des Innern</rs>
                     aufgefordert den jetzigen Augenblick zu benützen, um die sich schon überlebten
                     Beamten durch neue Kräfte zu ersetzen, habe ich auch die Pensionierung des
-                    Statthaltereyrathes <persName key="szabo">Szabo</persName> (welcher
+                    Statthaltereyrathes <rs type="person" ref="szabo" key="szabo">Szabo</rs> (welcher
                     Cultusreferent war) mit ganzem Gehalt beantragt, da ihm nur mehr einige Monathe
-                    zu vierzig Dienstjahren fehlen. <persName key="szabo">Szabo</persName> hat sich
+                    zu vierzig Dienstjahren fehlen. <rs type="person" ref="szabo" key="szabo">Szabo</rs> hat sich
                     in der Revolutionsepoche treu erwiesen, ist der einzige des früheren Guberniums,
                     welcher unter der neuen Gestaltung Dienste genommen hat, besitzt auch
                     schätzenswerthe Kenntnisse der früheren Gesetzgebung, doch hängt um so sehr an
                     dem alten, ist so schwach im deutschen, daß sein Wirken eher als hemmend wie als
                     fördernd bezeichnet werden muß. Statt seiner habe ich den Kreisvorstand aus
-                    Silay Somlic [<placeName ref="#place_2a19ada135b2f9f63afab2e1ccd81274">Szilágysomlyó</placeName>] <persName key="groisz-gustav">Gustav Groisz</persName> zum Statthaltereyrath und
-                    Cultusreferenten vorgeschlagen. <persName key="groisz-gustav">Groisz</persName>
+                    Silay Somlic [<rs type="place" subtype="place" ref="#place_2a19ada135b2f9f63afab2e1ccd81274">Szilágysomlyó</rs>] <rs type="person" ref="groisz-gustav" key="groisz-gustav">Gustav Groisz</rs> zum Statthaltereyrath und
+                    Cultusreferenten vorgeschlagen. <rs type="person" ref="groisz-gustav" key="groisz-gustav">Groisz</rs>
                     ist Katholik, sehr bewandert in der alten und neuen Gesetzgebung, sehr eifrig,
                     unpartheiisch und durch um [sic!] ehrenhaft, daher auch allgemein geachtet. Nach meiner
                     innigsten Überzeugung besitzt er wie kein anderer im Land die nöthigen
@@ -73,28 +72,28 @@
                     sind. Die anderen eingeborenen Beamten, die allenfalls die geistige Befähigung
                     hätten, sind jedoch größtentheils Protestanten, mithin auch nicht möglich. Doch
                     abgesehen von der geringen Zahl, aus welcher eine Wahl möglich ist, glaube ich
-                    mit Bestimmtheit behaupten zu können, daß schwer ein tauglicherer als <persName key="groisz-gustav">Groisz</persName> gefunden werden könnte. <persName key="groisz-gustav">Groisz</persName> ist während 3 Monathen hier bey einer
+                    mit Bestimmtheit behaupten zu können, daß schwer ein tauglicherer als <rs type="person" ref="groisz-gustav" key="groisz-gustav">Groisz</rs> gefunden werden könnte. <rs type="person" ref="groisz-gustav" key="groisz-gustav">Groisz</rs> ist während 3 Monathen hier bey einer
                     Admission gewesen, wo ich Gelegenheit hatte, ihn näher zu beobachten. Der
                     Umstand, daß er eine Unitarierin, zu einer Zeit als Mischehen hier ganz
                     gewöhnlich waren, zur Frau genommen und die Kinder (dem damahligen Gesetz gemäß)
                     in der Religion nach dem Geschlecht ihrer Ältern erzogen wurden, dürfte
                     vielleicht Bedenken erregen. Bey dem ganz selbstständigen Charakter von
-                        <persName key="groisz-gustav">Groisz</persName>, der seiner Frau und
+                        <rs type="person" ref="groisz-gustav" key="groisz-gustav">Groisz</rs>, der seiner Frau und
                     Töchtern keinen Einfluß gestattet, wäre, meiner Ansicht nach, dieser Umstand
                     nicht zu berücksichtigen; ich kann selbst gut sehn, daß bey confessionellen
-                    Fragen er viel mehr auf die katholische Seite sich neigen wird als wie <persName key="szabo">Szabo</persName>, der auf eine vergelbte Vorschrift des vorigen
+                    Fragen er viel mehr auf die katholische Seite sich neigen wird als wie <rs type="person" ref="szabo" key="szabo">Szabo</rs>, der auf eine vergelbte Vorschrift des vorigen
                     Jahrhunderts sich stützend, aus bloßer Liebe zu dem illo tempore öfters
                     Opposition in derley Dingen machte. Dringend muß ich Euer Excellenz bitten
-                    meinen Vorschlag wegen <persName key="groisz-gustav">Groisz</persName> bey
-                        <persName key="franz-joseph">Seiner Majestät</persName> zu
+                    meinen Vorschlag wegen <rs type="person" ref="groisz-gustav" key="groisz-gustav">Groisz</rs> bey
+                        <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät</rs> zu
                     unterstützen.<lb/>Ich habe bereits im Monath Jänner an den Minister Herrn
-                        <persName key="bach-alexander">Bach</persName>, auf seine Aufforderung,
+                        <rs type="person" ref="bach-alexander" key="bach-alexander">Bach</rs>, auf seine Aufforderung,
                     einen Antrag gestellt: wie die schon seit Jahren pendente Frage der Widmung von
                     50.000 fl aus dem sächsischen Nationsvermögen für Schulzwecke gelöst werden
                     könnte. Wenn zwar ich mich in der Rechtsfrage den Ansichten meines Vorgängers
                     anzuschließen bemüßigt war, so stellte ich doch in Rücksicht dessen, daß der
                     Vermögensfond kein Hindernis biethet, den Antrag dahin, daß diese 50.000 fl
-                    jährlich, der von <persName key="franz-joseph">Seiner Majestät</persName>
+                    jährlich, der von <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät</rs>
                     bestätigten Widmung gemäß, zu verabfolgen wären. Sollten über diesen Gegenstand
                     in der Zwischenzeit keine Verhandlungen über diesen Gegenstand [sic!] zwischen den
                     beyden Ministerien gepflogen worden seyn, so würde es mir sehr lieb seyn, wenn

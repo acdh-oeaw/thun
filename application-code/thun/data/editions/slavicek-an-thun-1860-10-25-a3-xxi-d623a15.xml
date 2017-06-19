@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="slavicek-josef" role="sender:gelehrter">Josef
-                        Slavíček</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="slavicek-josef" key="slavicek-josef" role="sender:gelehrter">Josef
+                        Slavíček</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_2f8cfc13edee95175f630a54177679cf">Preßburg</placeName>, <date when="1860-10-25">25. Oktober 1860</date>
+                    <rs type="place" subtype="place" ref="#place_2f8cfc13edee95175f630a54177679cf">Preßburg</rs>, <date when="1860-10-25">25. Oktober 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -42,7 +41,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -72,7 +71,7 @@
                     Excellenz und bitte sich meiner huldvollst dahin annehmen zu wollen, daß ich
                     bald aus dieser peinlichen und lähmenden Unsicherheit herausgerissen werde und
                     wisse, welchen Ort und welches Land für mein Wirken meiner harrt, denn in
-                        <country key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarn</country>, <country key="kroatien" ref="#place_46ef149805b1b370596a83886b1e010e">Kroatien</country>, <country key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</country>
+                        <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarn</rs>, <rs type="place" subtype="country" key="kroatien" ref="#place_46ef149805b1b370596a83886b1e010e">Kroatien</rs>, <rs type="place" subtype="country" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>
                     blüht jetzt nach meiner Ansicht für einen deutschen, weiter strebenden Professor
                     der Rechte und namentlich für den, der wie ich praktische Fächer (streitiges und
                     außerstreitiges Verfahren und Strafrecht) vorträgt, wenig Aussicht. Diese
@@ -83,7 +82,7 @@
                     trifft dieser Principienwechsel auch noch aus einem anderen Grunde sehr hart,
                     denn ich opferte für die gute Sache des Staates und für das Emporblühen der
                     Rechtswissenschaft sehr viel Mühe als Redakteur der Zeitschrift für Gesetzkunde
-                    und Rechtspflege und erleide in Folge des Sprachenkampfes in <country key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarn</country> in dieser Beziehung einen pekuniären Schaden
+                    und Rechtspflege und erleide in Folge des Sprachenkampfes in <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarn</rs> in dieser Beziehung einen pekuniären Schaden
                     von mindestens 1.200 fl ÖW in einem Jahre, denn an ein Fortsetzen der
                     Zeitschrift im nächsten Jahre kann ich nicht mehr denken. Das ist für mich ein
                     sehr harter Verlust und um so härter, als er unverdient ist. Doch ich will Euere

@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Note von <persName key="nadasdy-franz" role="sender:beamter">Franz
-                        Nádasdy</persName> an <persName key="goluchowski-agenor" role="recipient:beamter">Agenor Goluchowski</persName>
+                <title>Note von <rs type="person" ref="nadasdy-franz" key="nadasdy-franz" role="sender:beamter">Franz
+                        Nádasdy</rs> an <rs type="person" ref="goluchowski-agenor" key="goluchowski-agenor" role="recipient:beamter">Agenor Goluchowski</rs>
                     <lb/>o. O., <date when="1859-11-05">5. November 1859</date>
                 </title>
             </titleStmt>
@@ -57,7 +56,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -80,8 +79,8 @@
                     Entscheidung der über den Gebrauch der gerichtlichen Geschäftssprachen
                     aufgetauchten Fragen für mehrere Kronländer zur unumgänglichen und dringenden
                     Nothwendigkeit. <lb/>
-                    <persName key="krauss-karl">Mein Vorfahrer im
-                        Amte</persName> hielt es für unzweifelhaft, daß die Durchführung eines
+                    <rs type="person" ref="krauss-karl" key="krauss-karl">Mein Vorfahrer im
+                        Amte</rs> hielt es für unzweifelhaft, daß die Durchführung eines
                     allgemeinen, für den ganzen Umfang der Monarchie zu erlassenden Gesetzes über
                     den Gebrauch der verschiedenen Landessprachen bei Gericht mit Rücksicht auf die
                     sehr verschiedenen Bedürfnisse der einzelnen Kronländer sowie auf die
@@ -116,7 +115,7 @@
                     Correspondenzsprache in voller Anwendung steht und namentlich das <orgName key="ministerium-der-justiz">Justizministerium</orgName> sowohl im inneren
                     Dienste, als im Verkehre mit allen Behörden der Monarchie, mit bloßer Ausnahme
                     der venetianischen und dalmatinischen, allein die deutsche Sprache gebraucht,
-                    zudem <persName key="franz-joseph">Seine k.k. Apostolische Majestät</persName>
+                    zudem <rs type="person" ref="franz-joseph" key="franz-joseph">Seine k.k. Apostolische Majestät</rs>
                     mit dem allerhöchsten Patente vom 7. August 1850 (Nr. 325 RGBl § 27 und 28) auch
                     für den Obersten Gerichtshof die deutsche Geschäftssprache als Regel
                     vorzuschreiben und insbesondere anzuordnen geruht haben,
@@ -134,17 +133,17 @@
                     Sprache als die Regierungssprache in Anwendung gebracht werde. <lb/>Die
                     Durchführung dieser Grundsätze stieß in den westlichen Kronländern der Monarchie
                     auf keine namhaften Schwierigkeiten und es wird in diesen Kronländern, mit
-                    Ausnahme von <region key="venetien" ref="#place_618a4d3d3a7697f1c650f2eb8cc8f11a">Venezien</region>,
-                        <region ref="#place_3d93c766d980f58a8e989a616a0c72e6">Dalmatien</region> und <region key="suedtirol" ref="#place_c8aabd9436ee8e09a207442105019a08">Südtirol</region>, wo
+                    Ausnahme von <rs type="place" subtype="region" key="venetien" ref="#place_618a4d3d3a7697f1c650f2eb8cc8f11a">Venezien</rs>,
+                        <rs type="place" subtype="region" ref="#place_3d93c766d980f58a8e989a616a0c72e6">Dalmatien</rs> und <rs type="place" subtype="region" key="suedtirol" ref="#place_c8aabd9436ee8e09a207442105019a08">Südtirol</rs>, wo
                     ausschließlich, dann im illyrischen Küstenlande, wo größtentheils die
                     italienische Sprache im Gebrauche steht, von den Gerichten im inneren Dienste
                     ausschließlich die deutsche Sprache in Anwendung gebracht und im äußeren Dienste
-                    in <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</region> nebst der deutschen auch die böhmische
-                    Sprache gebraucht, im [sic!] südlichen <region ref="#place_b5e9e75db151e1fff33838003e5fa591">Steiermark</region> den Parteien
+                    in <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> nebst der deutschen auch die böhmische
+                    Sprache gebraucht, im [sic!] südlichen <rs type="place" subtype="region" ref="#place_b5e9e75db151e1fff33838003e5fa591">Steiermark</rs> den Parteien
                     auf Verlangen Übersetzungen in windischer Sprache erfolgt [sic!], und nur in
-                    Bezug auf die in <region key="kaernten" ref="#place_ef894a0a9ab2e171eb147ffd9e56cd4b">Kärnten</region> und
-                        <region ref="#place_1550e04c70115aa1a8f29f8e033676c4">Krain</region> übliche slowenische, dann die in
-                        <region ref="#place_3d93c766d980f58a8e989a616a0c72e6">Dalmatien</region> gangbare illyrische Sprache ist es bisher wegen
+                    Bezug auf die in <rs type="place" subtype="region" key="kaernten" ref="#place_ef894a0a9ab2e171eb147ffd9e56cd4b">Kärnten</rs> und
+                        <rs type="place" subtype="region" ref="#place_1550e04c70115aa1a8f29f8e033676c4">Krain</rs> übliche slowenische, dann die in
+                        <rs type="place" subtype="region" ref="#place_3d93c766d980f58a8e989a616a0c72e6">Dalmatien</rs> gangbare illyrische Sprache ist es bisher wegen
                     der geringen Ausbildung dieser Sprachen unmöglich gewesen, selbe zu
                     Gerichtssprachen zu erheben. Es sind dem <orgName key="ministerium-der-justiz">Justizministerium</orgName> auch über den diesfälligen Vorgang der Gerichte
                     in diesen Ländern bisher keine Beschwerden zugekommen, noch Schwierigkeiten in
@@ -161,33 +160,33 @@
                     Bezug auf die Regelung der gerichtlichen Geschäftssprache bisher erfloßenen
                     Normen Euer Excellenz zur gefälligen Kenntnisnahme mitzutheilen. <lb/>Die
                     Verschiedenheit der Verhältnisse, welche in dieser Beziehung in
-                        <region ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</region>, <region ref="#place_c955ee18abbce83f81d36ed3ceccf545">Lodomerien</region> und in dem <region key="krakau" ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Großherzogthume Krakau</region> einerseits, dann in <region key="kroatien" ref="#place_46ef149805b1b370596a83886b1e010e">Croatien</region>, <region key="slawonien" ref="#place_15f10264a572e8ce0fe253bc889cdbf5">Slavonien</region>, der <region key="serbische-woiwodschaft" ref="#place_3b7d6bda0785d2523c2551de79a7d017">serbischen
-                        Woiwodschaft</region> und <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</region>,
-                    endlich in <region ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</region> andererseits berücksichtiget werden mußten,
+                        <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs>, <rs type="place" subtype="region" ref="#place_c955ee18abbce83f81d36ed3ceccf545">Lodomerien</rs> und in dem <rs type="place" subtype="region" key="krakau" ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Großherzogthume Krakau</rs> einerseits, dann in <rs type="place" subtype="region" key="kroatien" ref="#place_46ef149805b1b370596a83886b1e010e">Croatien</rs>, <rs type="place" subtype="region" key="slawonien" ref="#place_15f10264a572e8ce0fe253bc889cdbf5">Slavonien</rs>, der <rs type="place" subtype="region" key="serbische-woiwodschaft" ref="#place_3b7d6bda0785d2523c2551de79a7d017">serbischen
+                        Woiwodschaft</rs> und <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>,
+                    endlich in <rs type="place" subtype="region" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> andererseits berücksichtiget werden mußten,
                     lassen es mir angemessen erscheinen, die für diese Kronländer in Bezug auf die
                     gerichtliche Sprachfrage erfloßenen Normen Euer Excellenz in abgesonderten Noten
                     bekannt zu geben. <lb/>In Nachfolgendem erlaube ich mir, den Stand der Regelung
                     der gerichtlichen Geschäftssprache in <hi rend="ul">
-                        <region ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</region>
-                    </hi>, <region ref="#place_c955ee18abbce83f81d36ed3ceccf545">Lodomerien</region> und dem <region key="krakau" ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Großherzogthume <hi rend="ul">Krakau</hi>
-                    </region> ergebenst
+                        <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs>
+                    </hi>, <rs type="place" subtype="region" ref="#place_c955ee18abbce83f81d36ed3ceccf545">Lodomerien</rs> und dem <rs type="place" subtype="region" key="krakau" ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Großherzogthume <hi rend="ul">Krakau</hi>
+                    </rs> ergebenst
                     mitzutheilen. <lb/>Für diese Kronländer ist die gerichtliche Sprachfrage bereits
                     durch eine allerhöchste Entschließung geregelt. <lb/>Als nämlich die galizischen
-                    Gutsbesitzer in einer an <persName key="franz-joseph">Seine k.k. Apostolische
-                        Majestät</persName> überreichten Petition die allerunterthänigste Bitte
+                    Gutsbesitzer in einer an <rs type="person" ref="franz-joseph" key="franz-joseph">Seine k.k. Apostolische
+                        Majestät</rs> überreichten Petition die allerunterthänigste Bitte
                     stellten, daß die Parteien von den Gerichten in und außer Streitsachen in jener
                     Landessprache beschieden werden, in welcher ihre Eingaben verfaßt sind, wurde
                     dem <orgName key="ministerium-der-justiz">Justizministerium</orgName> mit dem
                     allerhöchsten Kabinettsschreiben vom 18. Jänner 1852 der Auftrag ertheilt, einen
                     Vorschlag über die zweckmäßigste Art, wie die Dienstsprachen bei den galizischen
-                    Gerichten zu regeln wären, zu unterbreiten. <lb/>Der Justizminister <persName key="krauss-karl">Freiherr von Krauß</persName> hat <persName key="franz-joseph">Seiner k.k. Apostolischen Majestät</persName> mit dem
+                    Gerichten zu regeln wären, zu unterbreiten. <lb/>Der Justizminister <rs type="person" ref="krauss-karl" key="krauss-karl">Freiherr von Krauß</rs> hat <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner k.k. Apostolischen Majestät</rs> mit dem
                     allerunterthänigsten Vortrage vom 10. Juli 1852 Z. 192 das Gutachten zur
                     Regelung der Dienstsprache bei den galizischen Gerichten vorgelegt und es erfloß
                     hierüber die allerhöchste Entschließung vom 20. October 1852, welche in
                     Abschrift sub ./. beigeschloßen wird. <lb/>Die Durchführung dieser allerhöchsten
-                    Anordnungen stieß nur im <placeName key="krakau" ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Krakauer</placeName> Gebiete
-                    anfänglich in so fern auf Schwierigkeiten, als nicht alle <placeName key="krakau" ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Krakauer</placeName> Beamten der deutschen Sprache ganz mächtig
-                    waren, die diesfalls vom <placeName key="krakau" ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Krakauer</placeName>
+                    Anordnungen stieß nur im <rs type="place" subtype="place" key="krakau" ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Krakauer</rs> Gebiete
+                    anfänglich in so fern auf Schwierigkeiten, als nicht alle <rs type="place" subtype="place" key="krakau" ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Krakauer</rs> Beamten der deutschen Sprache ganz mächtig
+                    waren, die diesfalls vom <rs type="place" subtype="place" key="krakau" ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Krakauer</rs>
                     Obergerichte angezeigten Anstände wurden jedoch mit dem abschriftlich anruhenden
                     Erlaße des <orgName key="ministerium-der-justiz">Justizministeriums</orgName>
                     vom 14. März 1853 Z. 19751 ex 1852 ./. behoben und es ist seitdem blos eine
@@ -204,13 +203,13 @@
                     was er darüber zu bemerken oder dem Vortrage seines Vertheidigers noch
                     beizufügen habe. <lb/>Da auch die Durchführung dieser letzteren allerhöchsten
                     Entschließung meines Wissens auf keine Schwierigkeiten stößt, obige Sprachnormen
-                    im <placeName key="lemberg" ref="#place_3ff694e5c82611cda53341a9bae21735">Lemberger</placeName> und <placeName key="krakau" ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Krakauer</placeName> Verwaltungsgebiete anstandslos gehandhabt werden und
+                    im <rs type="place" subtype="place" key="lemberg" ref="#place_3ff694e5c82611cda53341a9bae21735">Lemberger</rs> und <rs type="place" subtype="place" key="krakau" ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Krakauer</rs> Verwaltungsgebiete anstandslos gehandhabt werden und
                     auch keinen gegründeten Anlaß zu Beschwerden geben können, so würde ich es nicht
                     für angemessen halten, eine Abänderung dieser sachgemäßen den Bedürfnissen der
                     rechtsuchenden Bevölkerung gebührende Rechnung tragenden sowie das Interesse der
                     Staatseinheit wahrenden Bestimmungen allerhöchsten Ortes zu beantragen.
                     <lb/>Schließlich beehre ich mich anzuführen, daß in der <hi rend="ul">
-                        <region ref="#place_1b4b3711df4344d468badf0e1dfc6879">Bukowina</region>
+                        <rs type="place" subtype="region" ref="#place_1b4b3711df4344d468badf0e1dfc6879">Bukowina</rs>
                     </hi>, wo schon zur Zeit der daselbst
                     eingeführten Militärverwaltung die deutsche Sprache bei allen Verhandlungen und
                     Entscheidungen als ausschließliche Amtssprache in Anwendung gebracht wurde,

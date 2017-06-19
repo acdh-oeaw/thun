@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="bernhard-athanasius" role="sender:kleriker">Athanasius
-                        Bernhard</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="bernhard-athanasius" key="bernhard-athanasius" role="sender:kleriker">Athanasius
+                        Bernhard</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_32b01a4087e5053899efae50c67b02fb">Neustadt</placeName>, <date when="1854-09-15">15. September 1854</date>
+                    <rs type="place" subtype="place" ref="#place_32b01a4087e5053899efae50c67b02fb">Neustadt</rs>, <date when="1854-09-15">15. September 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -33,7 +32,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

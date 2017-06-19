@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="safarik-pavel-josef" role="sender:gelehrter">Pavel Joseph
-                        Šafařik</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="safarik-pavel-josef" key="safarik-pavel-josef" role="sender:gelehrter">Pavel Joseph
+                        Šafařik</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, <date when="1853-02-27">27. Februar 1853</date>
+                    <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1853-02-27">27. Februar 1853</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -63,7 +62,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -81,7 +80,7 @@
                     die Wohnungen der Bibliotheksbeamten in Anspruch nimmt. Früher waren es bloß die
                     Wohnungen der Scriptoren, seit drei Jahren sind es nun auch die des
                     Bibliothekars und Custos.<lb/>Ungeachtet Euere Excellenz die Güte hatten, mir
-                    vor zwei Jahren durch <persName key="jirecek-josef">Herrn Jireček</persName> die
+                    vor zwei Jahren durch <rs type="person" ref="jirecek-josef" key="jirecek-josef">Herrn Jireček</rs> die
                     bestimmte Versicherung zu ertheilen, daß ich in Betreff meiner Wohnung unbesorgt
                     sein soll, so bin ich doch durch die neuesten Vorfälle etwas in Unruhe versetzt
                     und fühle mich gedrungen, Euerer Ecellenz Schutz für die Bibliothek und ihre
@@ -97,11 +96,11 @@
                     </note>
                     <lb/>Nachdem nämlich bereits im November 1852
                     von Seiten der <orgName key="universitaet-prag">Universität</orgName> durch den
-                    Herrn Decan <persName key="matzka-wilhelm">Matzka</persName> die mündliche
+                    Herrn Decan <rs type="person" ref="matzka-wilhelm" key="matzka-wilhelm">Matzka</rs> die mündliche
                     Anfrage bei mir wegen Abtretung meines Quartiers vorausgegangen war, die ich
                     natürlich ablehnend beantworten mußte, erfolgte am 17. dieses Monats die
                     hochortig angeordnete commissionelle Besichtigung meiner und des Herrn Custos
-                    Wohnung und dabei zugleich der bestimmte Antrag der Wohnung des Herrn <persName key="boehm-josef-georg">Directors der Sternwarte</persName> zum Tausche, mit
+                    Wohnung und dabei zugleich der bestimmte Antrag der Wohnung des Herrn <rs type="person" ref="boehm-josef-georg" key="boehm-josef-georg">Directors der Sternwarte</rs> zum Tausche, mit
                     dem – mich allerdings etwas stutzig machenden – argumentum ad hominem: ich
                     sollte ja auf diesen Vorschlag eingehen, da ich sonst in meiner jetzigen Wohnung
                     keine Ruhe zu erwarten, sondern fortwährende Commissionen zu befahren
@@ -117,8 +116,8 @@
                     und der Anstalt früher oder später nur Unheil bringen würde. Dies wäre für mich
                     schmachvoll: und die Geschichte würde mich richten, wenn ich irgendein
                     gesetzliches Mittel unversucht ließe solches Übel von der Bibliothek abzuwenden.
-                    Wie die Wohnung des Herrn <persName key="boehm-josef-georg">Directors der
-                        Sternwarte</persName> so plötzlich disponibel geworden, ist mir zwar genau
+                    Wie die Wohnung des Herrn <rs type="person" ref="boehm-josef-georg" key="boehm-josef-georg">Directors der
+                        Sternwarte</rs> so plötzlich disponibel geworden, ist mir zwar genau
                     nicht bekannt, obgleich darüber Verschiedenes geflüstert wird. Wie aber die
                         <orgName key="universitaet-prag">Universität</orgName> dazu kommt, ihre
                     Erweiterung und Erhebung durch die gleichzeitige Schmälerung, wo nicht
@@ -139,7 +138,7 @@
                     einstweilen eine Localität in der Stadt, wie dies bei dem physiologischen
                     Institut der Fall ist, leicht gemiethet werden.<lb/>Gewiss, der Weisheit und
                     Gerechtigkeit Euerer Excellenz wird es gelingen, wenn die Angelegenheit zur
-                    Verhandlung nach <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> kommt, irgend einen Weg und ein
+                    Verhandlung nach <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> kommt, irgend einen Weg und ein
                     Mittel zu finden, um die streitenden Interessen in der Weise auszugleichen, daß
                     dem einen wohlgethan und dabei dem andern nicht wehe gethan wird.<lb/>Genehmigen
                     Euer Excellenz die Gefühle der unwandelbaren tiefsten Hochachtung, mit denen ich
@@ -152,7 +151,7 @@
                     <p>Achtungsvoll Gefertigter säumt nicht in Beziehung auf die am 17. Februar 1853
                         nach vorgegangener kommissioneller Untersuchung seiner Naturalwohnung an ihn
                         gerichtete Frage, ob er bereit sei diese seine Wohnung gegen ein Äquivalent
-                        im Klementino und namentlich gegen die jetzige Wohnung des Herrn <persName key="boehm-josef-georg">Direktors der Sternwarte</persName> abzutreten?
+                        im Klementino und namentlich gegen die jetzige Wohnung des Herrn <rs type="person" ref="boehm-josef-georg" key="boehm-josef-georg">Direktors der Sternwarte</rs> abzutreten?
                         – nach reiflicher Überlegung seine Erklärung mit Nachstehendem
                         abzugeben.<lb/>Da es bei dieser Frage nicht darauf ankommt, was den
                         persönlichen Neigungen und Bedürfnissen des Gefertigten zusagt oder nicht
@@ -176,8 +175,8 @@
                         des andern zu heben; endlich, da zu einem solchen Äußersten keine zwingende
                         Nothwendigkeit drängt, denn dem Mangel an Lehrlokalitäten kann leicht auf
                         andere Weise abgeholfen werden, sei es durch Verwendung der zum Tausche
-                        angetragenen Wohnung des Herrn <persName key="boehm-josef-georg">Direktors
-                            der Sternwarte</persName> oder durch einen Neubau innerhalb des
+                        angetragenen Wohnung des Herrn <rs type="person" ref="boehm-josef-georg" key="boehm-josef-georg">Direktors
+                            der Sternwarte</rs> oder durch einen Neubau innerhalb des
                         Klementinums und einstweilige Miethe: so kann Gefertigter, ohne seiner
                         Überzeugung untreu zu werden, auf den gemachten Vorschlag nicht eingehen,
                         sondern muß denselben förmlich und entschieden ablehnen</p>
@@ -224,7 +223,7 @@
                         verloren gingen, wie ein Blick auf den Grundriß A. zeigt.<note xml:id="note_3">Dieser liegt dem Brief bei, wurde hier jedoch nicht
                             wiedergegeben.</note> Besonders fällt in die Augen, daß schon in naher
                         Zukunft die innerhalb der Bibliothekräume befindliche Wohnung des Skriptors
-                            <persName key="bezdeka-franz">Bezdeka</persName> dieser Erweiterung wird
+                            <rs type="person" ref="bezdeka-franz" key="bezdeka-franz">Bezdeka</rs> dieser Erweiterung wird
                         dienen und für Letzern eine andere Unterkunft wird ermittelt werden
                         müssen.<lb/>Rathen doch selbst theoretische Werke, – unter ihnen z. B.
                         Joh[ann] A[ugust] F[riedrich] Schmidts Handbuch der Bibliothekwissenschaft
@@ -296,7 +295,7 @@
                         in außerämtliche Stunden fallenden Besuche Reisender, welche die Bibliothek
                         besichtigen wollen, sind es natürlich die nahegelegenen Wohnungen, worin die
                         Bibliothekbeamten gesucht werden.<lb/>Nun liegen aber die Wohnung des
-                        Bibliothekars und des Kustos <persName key="dambeck-johann-friedrich">Dambeck</persName> sehr zweckmäßig gerade an den beiden Haupttreppen
+                        Bibliothekars und des Kustos <rs type="person" ref="dambeck-johann-friedrich" key="dambeck-johann-friedrich">Dambeck</rs> sehr zweckmäßig gerade an den beiden Haupttreppen
                         des Bibliothekgebäudes, ja, der eine, der Sicherheit wegen nach § 14 der
                         Bibliothekeninstruktion gesperrte Eingang in die Bibliothek, befindet sich
                         sogar unter dem Verschloß der bisherigen Bibliothekarswohnung, während der
@@ -382,8 +381,8 @@
                         Bibliotheksaal stoßende Wohnung des Bibliothekärs zu benützen <hi rend="ul">und für diesen das Museum des Generalseminariums, welches zwischen den
                             beiden Lesezimmern der Bibliothek befindlich ist, zur Wohnung
                             herzustellen</hi>.“<lb/>Das hohe Konkursedikt vom 27. Mai 1847
-                        lautet:<lb/>„Durch das Ableben des <persName key="spirk-anton">Dr. Anton
-                            Spirk</persName> ist die mit einem jährlichen Gehalte von 1.200 fr CM
+                        lautet:<lb/>„Durch das Ableben des <rs type="person" ref="spirk-anton" key="spirk-anton">Dr. Anton
+                            Spirk</rs> ist die mit einem jährlichen Gehalte von 1.200 fr CM
                             <hi rend="ul">und dem Genusse eines Naturalquartiers</hi> verbundene
                         Stelle eines Bibliothekärs der Prager k.k. Universitätsbibliothek in
                         Erledigung gelangt.“</p>
@@ -391,7 +390,7 @@
                         <hi rend="ul">2. Wohnung des Custos</hi>.<lb/>Mit höchstem Hofdekrete vom 9.
                         November 1807 Nr. 22748 und hohem Gubernialintimat vom 26. November 1807 Z.
                         40192 ward dem ältesten der damals systemisirten 4 Bibliotheksskriptoren,
-                            <persName key="mueller-joseph-skriptor">Joseph Müller</persName>,
+                            <rs type="person" ref="mueller-joseph-skriptor" key="mueller-joseph-skriptor">Joseph Müller</rs>,
                         welcher als erster Skriptor zufolge des höchsten Hofdekrets vom 15. Jänner
                         1781 bereits im Genusse der <hi rend="ul">Naturalwohnung</hi> stand, der
                         Charakter eines Bibliothekskustos verliehen und mit ihm – unter
@@ -415,10 +414,10 @@
                         Gubernialdekret vom 27. November 1848 Nr. 47818 aus nachgewiesenen
                         Sanitätsrücksichten bezüglich der gegenwärtigen Wohnung des Kustos:<lb/>„Das
                         Gubernium nimmt keinen Anstand dem Gesuche des k.k. Bibliothekskustos
-                            <persName key="dambeck-johann-friedrich">Friedrich Dambeck</persName> in
+                            <rs type="person" ref="dambeck-johann-friedrich" key="dambeck-johann-friedrich">Friedrich Dambeck</rs> in
                         seiner als 1. Skriptor genossenen Wohnung auch ferner verbleiben zu können,
                         umso mehr Folge zu geben, als hiemit der auf diese Wohnung Anspruch habende
-                        erste Skriptor <persName key="glaser-rudolf">Rudolf Glaser</persName> laut
+                        erste Skriptor <rs type="person" ref="glaser-rudolf" key="glaser-rudolf">Rudolf Glaser</rs> laut
                         der mit Bericht vom 5. September 1848 Z. 82 vorgelegten schriftlichen
                         Erklärung vollkommen einverstanden ist.</p>
                     <p>
@@ -437,8 +436,8 @@
                             den hochlandesstelligen Antrag, daß ihnen die durch den allenfalls sich
                             ergebenden Austritt des Professors Lumbe frei werdende Wohnung
                             eingeräumt werden dürfe, genehmigt</hi>.“<lb/>(Diese ehemalige Wohnung
-                        des Prof. <persName key="lumbe-josef">Lumbe</persName>, welche letzthin der
-                        erste Skriptor <persName key="glaser-rudolf">Rudolf Glaser</persName>
+                        des Prof. <rs type="person" ref="lumbe-josef" key="lumbe-josef">Lumbe</rs>, welche letzthin der
+                        erste Skriptor <rs type="person" ref="glaser-rudolf" key="glaser-rudolf">Rudolf Glaser</rs>
                         bewohnt hatte, ist nunmehr – nachdem diesem die Wohnung des verstorbenen
                         Verwalters der Normalschulbuchhandlung zugewiesen worden – dem
                         physikalischen Kabinete des Altstädter Lyceums zugefallen.)<lb/>

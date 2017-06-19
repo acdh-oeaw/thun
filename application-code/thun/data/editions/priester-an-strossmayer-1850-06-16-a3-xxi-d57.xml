@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ein bosnischer katholischer Priester an <persName key="strossmayer-joseph" role="recipient:kleriker">Joseph
-                        Strossmayer</persName>
+                <title>Ein bosnischer katholischer Priester an <rs type="person" ref="strossmayer-joseph" key="strossmayer-joseph" role="recipient:kleriker">Joseph
+                        Strossmayer</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1850-06-16">16. Juni 1850</date>
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1850-06-16">16. Juni 1850</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -53,17 +52,17 @@
                     </msContents>
                     <physDesc>
                         <p>Beilage: <ref target="#D57_1">Eine Abschrift der Wünsche und Bitten der
-                                Christen aus Bosnien und der Herzegowina an den Sultan <persName key="abuelmecid-I">Abdülmecid
-                                    I.</persName>
+                                Christen aus Bosnien und der Herzegowina an den Sultan <rs type="person" ref="abuelmecid-I" key="abuelmecid-I">Abdülmecid
+                                    I.</rs>
                                 <lb/>
-                                <region ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</region>, <date when="1850-04-01">1. April 1850</date>
+                                <rs type="place" subtype="region" ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</rs>, <date when="1850-04-01">1. April 1850</date>
                             </ref>
                         </p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -74,90 +73,90 @@
                     <term>Osmanisches Reich</term>
                 </index>
                 <p>Memorandum</p>
-                <p>Für den hochwürdigsten Herrn Bischof von Diakovar [Đakovo], <persName key="strossmayer-joseph">Joseph Stroßmayer</persName>, von einem
-                    katholischen Priester aus <region ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</region> verfaßt. Aus dem illirischen
+                <p>Für den hochwürdigsten Herrn Bischof von Diakovar [Đakovo], <rs type="person" ref="strossmayer-joseph" key="strossmayer-joseph">Joseph Stroßmayer</rs>, von einem
+                    katholischen Priester aus <rs type="place" subtype="region" ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</rs> verfaßt. Aus dem illirischen
                     Original übersetzt.</p>
                 <p>1.<lb/>Bezüglich auf die Wiederherstellung der geistlichen Jurisdiction des
-                    Diakovarer Bischofs über <region ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</region> erachte ich, daß Folgendes
+                    Diakovarer Bischofs über <rs type="place" subtype="region" ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</rs> erachte ich, daß Folgendes
                     nothwendig wäre:<lb/>Indem diese Angelegenheit von sehr großer Wichtigkeit und
                     auch Nutzen ist sowohl in geistlicher als auch in zeitlicher Beziehung für unser
                     illirsiches Volk, so gibt es wohl keinen wahren Patrioten, der diese Sache nicht
                     billigen möchte, doch zu unserm Unglücke sind eben jene, die es zumeist angeht,
                     nicht mit einem wahrhaft patriotischen Geiste beseelt, sondern nur auf ihren
                     eigenen Nutzen bedacht. Deswegen wäre es nothwendig, beim Wienerhofe dahin zu
-                    arbeiten, daß 1. beim <persName key="pius-IX">Heiligen Vater</persName> erwirkt
-                    werde, womit nach <region ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</region> ein apostolischer Vicarius geschickt
+                    arbeiten, daß 1. beim <rs type="person" ref="pius-IX" key="pius-IX">Heiligen Vater</rs> erwirkt
+                    werde, womit nach <rs type="place" subtype="region" ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</rs> ein apostolischer Vicarius geschickt
                     werden wolle, der ein Bosnier und ein guter Patriot ist, welcher dann die Herzen
                     der bosnischen Geistlichen dazu bearbeiten und vorbereiten würde, um der
                     Jurisdiction des Diakovaer Bischofs sich willig zu unterwerfen. Ein solcher
-                    apostolischer Vicarius wäre nur ein Coadjutor für <region ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</region> unter
-                    der Oberaufsicht der Diakovaer Bischöfe.<lb/>2. Die von Kaiser <persName key="joseph-II">Joseph II.</persName> gemachte Fondation für 32 bosnische
-                    Cleriker müßte hervorgesucht, auf <region key="kroatien-slawonien" ref="#place_6fe90dd680c4a571ed89e631ef2d48ed">Slavonien und
-                        Croatien</region> übertragen und dazu verwendet werden, damit bosnische
-                    Alumnen in <placeName ref="#place_2840e07308e786b3ddff9cb2f5865d32">Diakovar</placeName> [Đakovo],
-                        <placeName ref="#place_a620921af9eef09d01368fb2c1a2fd88">Agram</placeName> [Zagreb] oder sonst an einem hiezu geeigneten
+                    apostolischer Vicarius wäre nur ein Coadjutor für <rs type="place" subtype="region" ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</rs> unter
+                    der Oberaufsicht der Diakovaer Bischöfe.<lb/>2. Die von Kaiser <rs type="person" ref="joseph-II" key="joseph-II">Joseph II.</rs> gemachte Fondation für 32 bosnische
+                    Cleriker müßte hervorgesucht, auf <rs type="place" subtype="region" key="kroatien-slawonien" ref="#place_6fe90dd680c4a571ed89e631ef2d48ed">Slavonien und
+                        Croatien</rs> übertragen und dazu verwendet werden, damit bosnische
+                    Alumnen in <rs type="place" subtype="place" ref="#place_2840e07308e786b3ddff9cb2f5865d32">Diakovar</rs> [Đakovo],
+                        <rs type="place" subtype="place" ref="#place_a620921af9eef09d01368fb2c1a2fd88">Agram</rs> [Zagreb] oder sonst an einem hiezu geeigneten
                     Orte erzogen werden. Von einer guteingerichteten, gleichförmigen Erziehung
                     unserer bosnischen und slavonischen geistlichen Jugend würde nun jede
                     patriotische Unternehmung, also auch diese, abhängen.<lb/>2.<lb/>Der
-                    Hochwürdigste <persName key="strossmayer-joseph">Herr Bischof</persName> wird
+                    Hochwürdigste <rs type="person" ref="strossmayer-joseph" key="strossmayer-joseph">Herr Bischof</rs> wird
                     gebeten, die hier in der Nebenlage folgenden Wünsche und Bitten der Christen
-                        <region ref="#place_9221119cc5e55b28a15d953c485fb152">Bosniens</region> Seiner Excellenz dem <persName key="schwarzenberg-felix">Fürsten Schwarzenberg</persName> sowie den übrigen
+                        <rs type="place" subtype="region" ref="#place_9221119cc5e55b28a15d953c485fb152">Bosniens</rs> Seiner Excellenz dem <rs type="person" ref="schwarzenberg-felix" key="schwarzenberg-felix">Fürsten Schwarzenberg</rs> sowie den übrigen
                     Ministern Seiner Majestät des Kaisers zu übergeben und anzuempfehlen, daß diese
-                    Wünsche und Bitten an den <persName key="abuelmecid-I">Sultan</persName> nach
-                        <placeName key="konstantinopel" ref="#place_5a73d22c67f3af236f91499bf068c1d5">Constantinopel</placeName> eingesendet und
+                    Wünsche und Bitten an den <rs type="person" ref="abuelmecid-I" key="abuelmecid-I">Sultan</rs> nach
+                        <rs type="place" subtype="place" key="konstantinopel" ref="#place_5a73d22c67f3af236f91499bf068c1d5">Constantinopel</rs> eingesendet und
                     durch das kaiserlich österreichische Ministerium in Vereinigung mit dem dortigen
-                    russischen Bevollmächtigten bevorwortet werden möchten, damit der <persName key="abuelmecid-I">Sultan</persName> uns erhöre. Dafür könnte der
-                    Hochwürdigste <persName key="strossmayer-joseph">Herr Bischof</persName>
+                    russischen Bevollmächtigten bevorwortet werden möchten, damit der <rs type="person" ref="abuelmecid-I" key="abuelmecid-I">Sultan</rs> uns erhöre. Dafür könnte der
+                    Hochwürdigste <rs type="person" ref="strossmayer-joseph" key="strossmayer-joseph">Herr Bischof</rs>
                     folgende Gründe anführen, welche den österreichischen Hofe bestimmen sollten,
-                    dieser Sache sich anzunehmen:<lb/>1. <country ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</country> als Erbe
-                        <country ref="#place_ca3b8d01ba82b3f4236a5005f8715855">Ungarns</country>, wozu <region ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</region> vor Zeiten
-                    gehörte, ist schon dazu berechtiget. Hiezu kommt: daß schon <persName key="ferdinand-I">Ferdinand I.</persName> in <region ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</region> von
+                    dieser Sache sich anzunehmen:<lb/>1. <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs> als Erbe
+                        <rs type="place" subtype="country" ref="#place_ca3b8d01ba82b3f4236a5005f8715855">Ungarns</rs>, wozu <rs type="place" subtype="region" ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</rs> vor Zeiten
+                    gehörte, ist schon dazu berechtiget. Hiezu kommt: daß schon <rs type="person" ref="ferdinand-I" key="ferdinand-I">Ferdinand I.</rs> in <rs type="place" subtype="region" ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</rs> von
                     Fluße Verbas [Vrbas] bis Unna [Una] und Save alle festen Plätze besessen, unter
-                    denen <placeName ref="#place_c4784794951d49a7cc6b4b8bfcbe1555">Jajce</placeName>, Banjoluka [<placeName ref="#place_e07605289c14bda937e2db880ba50d98">Banja
-                    Luka</placeName>] und <placeName ref="#place_8d1305b1ce91d4219810c65871a68233">Tešanj</placeName> die bedeutendern sind; nach
-                    ihm haben alle Kaiser, besonders <persName key="leopold-I">Leopold
-                    I.</persName>, <persName key="karl-VI">Karl VI.</persName> und <persName key="joseph-II">Joseph II.</persName>, <region ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</region> zu erobern
+                    denen <rs type="place" subtype="place" ref="#place_c4784794951d49a7cc6b4b8bfcbe1555">Jajce</rs>, Banjoluka [<rs type="place" subtype="place" ref="#place_e07605289c14bda937e2db880ba50d98">Banja
+                    Luka</rs>] und <rs type="place" subtype="place" ref="#place_8d1305b1ce91d4219810c65871a68233">Tešanj</rs> die bedeutendern sind; nach
+                    ihm haben alle Kaiser, besonders <rs type="person" ref="leopold-I" key="leopold-I">Leopold
+                    I.</rs>, <rs type="person" ref="karl-VI" key="karl-VI">Karl VI.</rs> und <rs type="person" ref="joseph-II" key="joseph-II">Joseph II.</rs>, <rs type="place" subtype="region" ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</rs> zu erobern
                     getrachtet, was aber die damaligen Verhältnisse nicht gestatteten. Daher hat
                     auch der Wienerhof als katholische Macht mit der Politik auch die religiösen
-                    Vortheile immer zu verbinden gesucht. Schon <persName key="joseph-II">Joseph
-                        II.</persName> hat eine Fondation für die bosnischen Cleriker gemacht und
+                    Vortheile immer zu verbinden gesucht. Schon <rs type="person" ref="joseph-II" key="joseph-II">Joseph
+                        II.</rs> hat eine Fondation für die bosnischen Cleriker gemacht und
                     dem bosnischen Vicarius Apostolicus eine Bezahlung angewiesen. Die Bosnier,
                     welche alles aus dem religiösen Gesichtspuncte betrachten und eingedenk dieser
                     Wohlthaten seitens des Wienerhofes halten immer den Kaiser von Wien für ihren
                     König, nennen seinen Namen in ihren Gebeten und erwarten von ihm Erlösung, wenn
                     auch für izt [sic!] nicht auf eine andere Weise, so doch wenigstens durch diese
-                    Fürsprache beim Sultan. Dadurch würde <country ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</country> noch mehr
+                    Fürsprache beim Sultan. Dadurch würde <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs> noch mehr
                     Sympathie für sich bei den Bosniern bekommen.<lb/>2. Seit einigen Jahren
                     trachten die Engländer und die Franzosen, den österreichischen und russischen
                     Einfluß in den Donauländern zu schwächen und den eigenen mehr und mehr zu
                     befestigen, indem sie dem Sultan rathen, daß er den Christen Erleichterungen
                     gewähren und so seine Herrschaft gegen die Anfälle nördlicher Nachbarn zu [sic!]
-                    begründen. Aber wir Christen in <region ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</region> kennen schon ihre
+                    begründen. Aber wir Christen in <rs type="place" subtype="region" ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</rs> kennen schon ihre
                     Absicht zu gut. Wir schauen immer die Engländer und Franzosen als Nationen, die
                     andere Völker zu Grunde richten, um nur ihren eigenen materiellen Nutzen zu
-                    sichern.<lb/>3. <region ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</region> ist von 3 Seiten mit österreichischen
+                    sichern.<lb/>3. <rs type="place" subtype="region" ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</rs> ist von 3 Seiten mit österreichischen
                     Provinzen umgeben. Die häufigen Unruhen, welche dort unter den rohen Türken
-                    statt finden, sind auch <region ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</region> mehr oder minder
+                    statt finden, sind auch <rs type="place" subtype="region" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs> mehr oder minder
                     gefährlich, theils wegen Handel, theils aber wegen den Aufwieglern, welche in
-                        <region ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</region> ihre Zuflucht suchen und finden könnten. Es liegt
-                    also auch im Interesse <country ref="#place_4f87fe5e4e6abd2c0192e4902ace0ce9">Oesterreichs</country>, daß
-                        <region ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</region>
+                        <rs type="place" subtype="region" ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</rs> ihre Zuflucht suchen und finden könnten. Es liegt
+                    also auch im Interesse <rs type="place" subtype="country" ref="#place_4f87fe5e4e6abd2c0192e4902ace0ce9">Oesterreichs</rs>, daß
+                        <rs type="place" subtype="region" ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</rs>
                     <hi rend="ul">ruhig</hi> ist, ruhig kann es aber nicht bleiben, solange die
                     Christen irgendwelche Rechte und Erleichterungen nicht bekommen.<lb/>Geschrieben
                     zu Wien, am 16. Juni 1850<lb/>N. N.</p>
                 <div type="enclosure" xml:id="D57_1">
-                    <p>Wünsche und Bitten der Christen in <region ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</region> und <region key="herzegowina" ref="#place_9d63a8134213aea9965ddd12f9ea4f85">Hercegovina</region>, welche sie ehrfurchtsvoll Seiner
-                        kaiserlichen Majestät, ihrem glücklich regierenden Sultan <persName key="abuelmecid-I">Abdul Medžid [Abdülmecid I.]</persName> unterbreiten.
+                    <p>Wünsche und Bitten der Christen in <rs type="place" subtype="region" ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</rs> und <rs type="place" subtype="region" key="herzegowina" ref="#place_9d63a8134213aea9965ddd12f9ea4f85">Hercegovina</rs>, welche sie ehrfurchtsvoll Seiner
+                        kaiserlichen Majestät, ihrem glücklich regierenden Sultan <rs type="person" ref="abuelmecid-I" key="abuelmecid-I">Abdul Medžid [Abdülmecid I.]</rs> unterbreiten.
                         Aus dem illirschen Originale übersetzt.</p>
                     <p>Euere Majestät!</p>
-                    <p>Über 600.000 Christen leben in diesen zwei Provinzen <region ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</region>
-                        und <region key="herzegowina" ref="#place_9d63a8134213aea9965ddd12f9ea4f85">Hercegovina</region>, getreue Unterthanen
+                    <p>Über 600.000 Christen leben in diesen zwei Provinzen <rs type="place" subtype="region" ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</rs>
+                        und <rs type="place" subtype="region" key="herzegowina" ref="#place_9d63a8134213aea9965ddd12f9ea4f85">Hercegovina</rs>, getreue Unterthanen
                         Euerer Majestät, welche gestützt auf ihre durch 4 Jahrhunderte bezeugte
                         Treue gegen die hohe türkische Pforte, hiemit unterthänigst bitten, womit
                         Euere Majestät nach Höchstderoselben eingebornen Güte unsre frommen Seufzer
                         erhören und uns folgende Gnaden zu gewähren geruhen wollen:<lb/>1. Damit wir
                         nicht mehr <hi rend="ul">Rajas</hi>, sondern Staatsbürger des gesammten
-                            <country key="osmanisches-reich" ref="#place_25abcd35ea96cd277520f60c733d42ac">türkischen Kaiserreiches</country>
+                            <rs type="place" subtype="country" key="osmanisches-reich" ref="#place_25abcd35ea96cd277520f60c733d42ac">türkischen Kaiserreiches</rs>
                         genannt werden möchten. Demzufolge<lb/>2. Damit wir beim Gerichte den Türken
                         gleichgestellt werden und deshalb für die Zukunft nicht nach dem Vorzuge des
                         Glaubensbekenntnisses, sondern nach Recht und Billigkeit geurtheilt werden
@@ -199,7 +198,7 @@
                         und diese sollen aus der Landeskasse bezahlt werden, auch soll es erlaubt
                         sein, wegen bessern Fortschrittes Schüler in andere Länder zu
                         schicken.<lb/>19. Es wollen auch von uns Zöglinge aufgenommen werden nach
-                            <placeName key="konstantinopel" ref="#place_5a73d22c67f3af236f91499bf068c1d5">Constantinopel</placeName> in die
+                            <rs type="place" subtype="place" key="konstantinopel" ref="#place_5a73d22c67f3af236f91499bf068c1d5">Constantinopel</rs> in die
                         Medicinische und Ingeneirschule auf kaiserliche Kosten.<lb/>20. Es soll uns
                         erlaubt sein, zwei Individuen auf unsere Kosten bei der hohen Pforte zu
                         halten, welche unsere Landesbedürfnisse, unsere Wünsche und Bitten Euerer
@@ -209,7 +208,7 @@
                         sie nicht von Bestechungen und Erpressungen leben müssen.<lb/>22. Die
                         Blutsteuer (Krivania)[?] soll aufhören, das vergossene Blut des Getödteten
                         mögen nicht die Gemeinden zahlen, sondern der Richter möge den Mörder
-                        einfangen.<lb/>23. <region ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</region> und <region key="herzegowina" ref="#place_9d63a8134213aea9965ddd12f9ea4f85">Hercegovina</region> möge wiederum unter einem Vezir vereinigt werden,
+                        einfangen.<lb/>23. <rs type="place" subtype="region" ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</rs> und <rs type="place" subtype="region" key="herzegowina" ref="#place_9d63a8134213aea9965ddd12f9ea4f85">Hercegovina</rs> möge wiederum unter einem Vezir vereinigt werden,
                         dies wäre sowohl für das Volk als für die Landeskassa aus ökonomischer
                         Hinsicht vortheilhaft.<lb/>24. Handel und Gewerbe zu betreiben, möge jedem
                         ohne Unterschied der Religion erlaubt sein.<lb/>25. Über alle
@@ -220,15 +219,15 @@
                         wüßten, was uns befohlen und aufgetragen werde.<lb/>27. Es soll uns erlaubt
                         sein, sich zu versammeln ohne Waffen und zu berathen über unsere
                         Schullitteratur und Öconomienangelegenheiten.<lb/>28. Es möge uns erlaubt
-                        sein, in andere Länder außer dem <country key="osmanisches-reich" ref="#place_25abcd35ea96cd277520f60c733d42ac">Kaiserreiche</country> auszuwandern.<lb/>Dies sind unsere
+                        sein, in andere Länder außer dem <rs type="place" subtype="country" key="osmanisches-reich" ref="#place_25abcd35ea96cd277520f60c733d42ac">Kaiserreiche</rs> auszuwandern.<lb/>Dies sind unsere
                         unterthänigsten Wünsche und Bitten, begründet auf dem Grundsatze der
-                        Gleichberechtigung, die noch der <persName key="mahmud-II">Vater Euerer
-                            Majestät</persName> frommen Andenkens und auch Euere Majestät selbst,
+                        Gleichberechtigung, die noch der <rs type="person" ref="mahmud-II" key="mahmud-II">Vater Euerer
+                            Majestät</rs> frommen Andenkens und auch Euere Majestät selbst,
                         sein Nachfolger, so oft bereits öffentlich und feierlich versprochen habt,
-                        welche jedoch bei uns in <region ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</region> wegen manchen unangenehmen
+                        welche jedoch bei uns in <rs type="place" subtype="region" ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</rs> wegen manchen unangenehmen
                         Umständen ins Leben nicht treten konnten.<lb/>Wir bitten Gott inbrünstig,
                         damit er das Herz Euerer Majestät rühre und Euere Majestät sich unser
-                        erbarmen möchte gewährend uns unsere obbenannten Bitten, wodurch <country key="osmanisches-reich" ref="#place_25abcd35ea96cd277520f60c733d42ac">das Reich</country> besser befestiget wird, wenn
+                        erbarmen möchte gewährend uns unsere obbenannten Bitten, wodurch <rs type="place" subtype="country" key="osmanisches-reich" ref="#place_25abcd35ea96cd277520f60c733d42ac">das Reich</rs> besser befestiget wird, wenn
                         Euere Majestät uns, so vielen Sclaven diese Gnaden angedeihen
                         lassen.<lb/>Der allmächtige Gott segne die Regierung Euerer Majestät.
                         Amen.<lb/>Geschrieben in Bosnien, den 1. April 1850</p>

@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="schulte-friedrich" role="sender:gelehrter">Johann Friedrich
-                        Schulte</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="schulte-friedrich" key="schulte-friedrich" role="sender:gelehrter">Johann Friedrich
+                        Schulte</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, <date when="1859-12-22">22. Dezember 1859</date>
+                    <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1859-12-22">22. Dezember 1859</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -38,7 +37,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -51,13 +50,13 @@
                 <p>Hochgeborner, Hochzuverehrender Herr Minister!<lb/>Euere Excellenz!</p>
                 <p>Gleichzeitig mit diesem Briefe sende ich an ein <orgName key="ministerium-fuer-kultus-und-unterricht">hohes k.k.
                         Ministerium</orgName> direct 1. den Bericht nebst Endanträgen der Commission
-                    zur Reorganisirung des <placeName key="altbunzlau" ref="#place_be4d28c63b944c1aaa4ebf83317e9ef3">Altbunzlauer</placeName>
+                    zur Reorganisirung des <rs type="place" subtype="place" key="altbunzlau" ref="#place_be4d28c63b944c1aaa4ebf83317e9ef3">Altbunzlauer</rs>
                     Kapitels in einer Originalausfertigung, 2. die Zuschrift des Hochgeehrten
-                        <persName key="schwarzenberg-friedrich">Cardinals</persName> an mich und
-                    Abschrift des Berichts der Commission an <persName key="schwarzenberg-friedrich">Seine Eminenz</persName>, 3. meinen Bericht an das <orgName key="ministerium-fuer-kultus-und-unterricht">hohe Ministerium</orgName>. Ich
+                        <rs type="person" ref="schwarzenberg-friedrich" key="schwarzenberg-friedrich">Cardinals</rs> an mich und
+                    Abschrift des Berichts der Commission an <rs type="person" ref="schwarzenberg-friedrich" key="schwarzenberg-friedrich">Seine Eminenz</rs>, 3. meinen Bericht an das <orgName key="ministerium-fuer-kultus-und-unterricht">hohe Ministerium</orgName>. Ich
                     sende diese Stücke direct, weil ich es im Interesse der Sache finde, damit die
-                    Absendung der Anträge <persName key="schwarzenberg-friedrich">Seiner
-                        Eminenz</persName> nicht zu lange auf sich warten lasse und damit, wenn die
+                    Absendung der Anträge <rs type="person" ref="schwarzenberg-friedrich" key="schwarzenberg-friedrich">Seiner
+                        Eminenz</rs> nicht zu lange auf sich warten lasse und damit, wenn die
                     Sachen vorher durch die Statthalterei gehen, da es bekanntlich vorkommt, daß
                     solche Dinge zur Kenntnis Unberufener kommen, nicht auf Verschleppung und dgl.
                     intriguirt werden könne. Euerer Excellenz kann ich die offene und wahrhaftige
@@ -69,7 +68,7 @@
                     und demüthig, auch nicht um ein Haarbreit abzugehen; denn das kommt ihr
                     unbedingt zu. Ich habe, das kann ich offen sagen, mich dieser Sache mit ganzer
                     Seele hingegeben, alle Zeit darauf verwendet, so daß ich von der Erlaubnis, die
-                    Bibliothek in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> zu benutzen, fast keinen, von der die
+                    Bibliothek in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> zu benutzen, fast keinen, von der die
                     hiesigen Manuskripte im Hause zu benutzen, noch gar keinen Gebrauch gemacht
                     habe. Ich werde glücklich sein, wenn Euere Excellenz die Ansicht gewinnen, daß
                     ich meine Aufgabe gewissenhaft und vollständig gelöst habe. Daß ich die Leitung
@@ -81,30 +80,30 @@
                     in der That Alles darauf ankommt, daß die Beamten unter der unseeligen modernen
                     Staatstheorie vor allem sich bewußt werden, daß die Gewalt von Gottes Gnaden dem
                     Monarchen zu eignem Rechte zusteht und an Ihm hängen, Gelegenheit fand, indirect
-                        <persName key="franz-joseph">Seiner k.k. Apostolischen Majestät</persName>
+                        <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner k.k. Apostolischen Majestät</rs>
                     unmittelbar zu dienen, sondern auch Euerer Excellenz meine stets gleiche
                     persönliche Liebe und Anhänglichkeit dadurch am Besten zu beweisen, daß ich
                     Hochderen Aufträgen nachzukommen über jede andre Leistung setzte, welche ich
                     neben meinen directen Amtspflichten hervorzubringen vermag.<lb/>Gestatten mir
                     Euere Excellenz gnädig, bei dieser Gelegenheit auf meinen Brief vom August l.
-                    Jahres zurückzukommen und für Dr. <persName key="czyhlarz-karl">Czyhlař</persName> und Dr. <persName key="randa-antonin">Randa</persName>
+                    Jahres zurückzukommen und für Dr. <rs type="person" ref="czyhlarz-karl" key="czyhlarz-karl">Czyhlař</rs> und Dr. <rs type="person" ref="randa-antonin" key="randa-antonin">Randa</rs>
                     eine herzliche Bitte anzubringen. Ersterer dozirt jetzt im 4. Semester mit dem
                     besten Erfolg. Es ist bei unsern Verhältnissen unmöglich, daß ein Privatdozent
                     ein Obligatcolleg neben einem Fachprofessor zu Stande bringe; in einem andern
                     Semester hört es Niemand, Spezialcollegien nur sehr Wenige. So muß ein solcher
                     rein aus Eignem leben. Das stößt zurück und wird uns die Leute entziehen. Auch
-                    Dr. <persName key="czyhlarz-karl">C[zyhlař]</persName> arbeitet auf meinen
+                    Dr. <rs type="person" ref="czyhlarz-karl" key="czyhlarz-karl">C[zyhlař]</rs> arbeitet auf meinen
                     eignen Rath nebenbei seit Herbst als Praktikant beim Bezirksgerichte, was ihm
                     gewiß sehr gut ist, aber auf die Dauer die nöthige Muße raubt. Wäre es denn
-                    nicht möglich, ihm in Gratz [<placeName ref="#place_ca7668a05b2a3dbf29ca3d768c0febe8">Graz</placeName>] eine außerordentliche
+                    nicht möglich, ihm in Gratz [<rs type="place" subtype="place" ref="#place_ca7668a05b2a3dbf29ca3d768c0febe8">Graz</rs>] eine außerordentliche
                     Professur für römisches Recht zu geben? Oder, falls das noch nicht geht, ihm z.
                     B. 300 fl Gratifikation zu geben, solange bis er eine erhält? Das kommt in
-                        <country key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</country> oft vor und war ja auch schon zu
-                        <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> der Fall. Ihn zum Examinator zu machen – für
+                        <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> oft vor und war ja auch schon zu
+                        <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> der Fall. Ihn zum Examinator zu machen – für
                     welchen Fall er sicher Obligatcollegien zu Stande brächte – kann ich nach meinen
                     früher ausgesprochenen Grundsätzen nicht rathen, obwohl ich deren Unrichtigkeit
                     aus dem Grunde selbst bekenne, daß bei uns Advokaten fungiren, die auch kein
-                    Staatsamt haben.<lb/>Was Dr. <persName key="randa-antonin">Randa</persName>
+                    Staatsamt haben.<lb/>Was Dr. <rs type="person" ref="randa-antonin" key="randa-antonin">Randa</rs>
                     betrifft, so wiederhole ich nochmals die Bitte um Verleihung des Stipendiums. Es
                     wäre schade, eine solche Kraft der Universität entgehen zu lassen. Ein Jahr Muße
                     – er ist Actuar – wird seine Bildung nach der Natur der Sache unendlich fördern.

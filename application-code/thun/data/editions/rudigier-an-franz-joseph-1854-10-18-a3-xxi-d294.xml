@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="rudigier-franz-joseph" role="sender:kleriker">Franz Joseph
-                        Rudigier</persName> an <persName key="franz-joseph" role="recipient">Kaiser
-                        Franz Joseph</persName>
+                    <rs type="person" ref="rudigier-franz-joseph" key="rudigier-franz-joseph" role="sender:kleriker">Franz Joseph
+                        Rudigier</rs> an <rs type="person" ref="franz-joseph" key="franz-joseph" role="recipient">Kaiser
+                        Franz Joseph</rs>
                     <lb/>
-                    <placeName ref="#place_443befbacdaa99c161dd11495b82b99b">Linz</placeName>, <date when="1854-10-18">18. Oktober 1854</date>
+                    <rs type="place" subtype="place" ref="#place_443befbacdaa99c161dd11495b82b99b">Linz</rs>, <date when="1854-10-18">18. Oktober 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -50,7 +49,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -69,7 +68,7 @@
                     tiefster Ehrfurcht in Folgendem zu thun.<lb/>Es liegen sehr beachtenswerthe,
                     beinahe unzweifelhafte Anzeigen vor, daß das ehemalige <orgName key="stift-engelszell">Cisterzienserstift Engelszell</orgName>, am rechten
                     Ufer der Donau bei ihrem Eintritte in das österreichische Gebieth gelegen,
-                    nunmehr eine Besitzung des baierischen Reichsrahtes <persName key="wrede-karl-theodor">Fürsten Wrede</persName>, an den <orgName key="gustav-adolf-verein">Gustav-Adolph-Verein</orgName> verkauft, und von
+                    nunmehr eine Besitzung des baierischen Reichsrahtes <rs type="person" ref="wrede-karl-theodor" key="wrede-karl-theodor">Fürsten Wrede</rs>, an den <orgName key="gustav-adolf-verein">Gustav-Adolph-Verein</orgName> verkauft, und von
                     diesem alldort eine Pflanzschule für protestantische Missionäre angelegt werden
                     soll.<lb/>Meine allerunterthänigste und angelegenste Bitte ging nun dahin, Eure
                     Majestät wollen, wenn etwa der Ankauf dieser Besitzung durch den gedachten
@@ -82,43 +81,43 @@
                     bewilligt werden könne, und daß es vielleicht auch noch möglich sei, den
                     projektirten Ankauf selbst zu verhindern – eine Erklärung, die überall, wo ich
                     sie mittheilte, Freude erweckte, und namentlich in der Gemeinde
-                        <placeName ref="#place_f89f5a18425bb95587ff97109a4b976e">Engelszell</placeName>, der ich sie sogleich nach meiner Ankunft
+                        <rs type="place" subtype="place" ref="#place_f89f5a18425bb95587ff97109a4b976e">Engelszell</rs>, der ich sie sogleich nach meiner Ankunft
                     in Linz eröffnete, große Freude erweckt haben wird, nachdem dieselbe durch die
                     Kunde über das fragliche Projekt sehr konsternirt gewesen war.<lb/>Die Gründe
                     für das wirkliche Vorhandensein dieses – beim ersten Anblick unwahrscheinlichen
-                    – Projektes sind:<lb/>1. das Schreiben des General-Mandatars <persName key="wrede-karl-theodor">des Fürsten Wrede</persName>, <persName key="eschborn-a">Dr. Eschborn</persName>, an den <persName key="strobl">fürstlichen Hofgärtner Strobl</persName> in Engelszell <note xml:id="note_1">Vgl. die <ref target="#D294_1">Beilage zu diesem
+                    – Projektes sind:<lb/>1. das Schreiben des General-Mandatars <rs type="person" ref="wrede-karl-theodor" key="wrede-karl-theodor">des Fürsten Wrede</rs>, <rs type="person" ref="eschborn-a" key="eschborn-a">Dr. Eschborn</rs>, an den <rs type="person" ref="strobl" key="strobl">fürstlichen Hofgärtner Strobl</rs> in Engelszell <note xml:id="note_1">Vgl. die <ref target="#D294_1">Beilage zu diesem
                         Brief</ref>.</note>, das mir bei Gelegenheit der kanonischen Visitation zu
-                        <placeName ref="#place_f89f5a18425bb95587ff97109a4b976e">Engelszell</placeName> am 30. vorigen und 1. dieses Monates in
+                        <rs type="place" subtype="place" ref="#place_f89f5a18425bb95587ff97109a4b976e">Engelszell</rs> am 30. vorigen und 1. dieses Monates in
                     Originali gezeigt wurde, und auch in diesem Augenblicke in Originali vor mir
                     liegt.<lb/>Ich unterbreite gehorsamst davon eine Abschrift.<lb/>2. dem hiesigen
                     landschäftlichen Concipisten und Referenten bei der
-                    Grundentlastungsfonds-Direktion, <persName key="edelbacher-joseph">Joseph
-                        Edelbacher</persName>, der von dem oberwähnten <persName key="eschborn-a">General-Mandatar</persName> zu Verhandlungen mit dem <orgName key="stift-schlaegl">Stifte Schlägel</orgName> wegen des Verkaufes der
+                    Grundentlastungsfonds-Direktion, <rs type="person" ref="edelbacher-joseph" key="edelbacher-joseph">Joseph
+                        Edelbacher</rs>, der von dem oberwähnten <rs type="person" ref="eschborn-a" key="eschborn-a">General-Mandatar</rs> zu Verhandlungen mit dem <orgName key="stift-schlaegl">Stifte Schlägel</orgName> wegen des Verkaufes der
                     Besitzung Engelszell aufgestellt worden war, ist, wie ich aus dem Munde seines
-                    Bruders, des hiesigen Landesgerichtsrathes <persName key="edelbacher">Edelbacher</persName>, weiß, von dem genannten Mandateur jüngst vor 2 bis 3
-                    Wochen, aufgegeben worden, die Verhandlungen mit <orgName key="stift-schlaegl">Schlägel</orgName> abzubrechen, mit dem Beisatze, der <persName key="wrede-karl-theodor">Fürst</persName> wolle seine Besitzung an den
+                    Bruders, des hiesigen Landesgerichtsrathes <rs type="person" ref="edelbacher" key="edelbacher">Edelbacher</rs>, weiß, von dem genannten Mandateur jüngst vor 2 bis 3
+                    Wochen, aufgegeben worden, die Verhandlungen mit <orgName key="stift-schlaegl">Schlägel</orgName> abzubrechen, mit dem Beisatze, der <rs type="person" ref="wrede-karl-theodor" key="wrede-karl-theodor">Fürst</rs> wolle seine Besitzung an den
                         <orgName key="gustav-adolf-verein">Gustav-Adolph-Verein</orgName>
                     verkaufen.<lb/>3. Was dieses Projekt ferner wenigstens wahrscheinlich macht,
                     wenn auch nicht beweiset, ist der Umstand, daß der <orgName key="gustav-adolf-verein">Gustav-Adolph-Verein</orgName> sicherem Vernehmen
                     nach seit Jahren große Summen für protestantische Cultuszwecke in
-                        <region ref="#place_f4333826b9c5251a45388331b1911f53">Oberösterreich</region> verwendet, und auf Erlangung eines
-                    protestantischen Tempels in <placeName ref="#place_32bcc08cf92b6fbbdcd91c75cb3814a2">Passau</placeName> auch aus der Ursache
+                        <rs type="place" subtype="region" ref="#place_f4333826b9c5251a45388331b1911f53">Oberösterreich</rs> verwendet, und auf Erlangung eines
+                    protestantischen Tempels in <rs type="place" subtype="place" ref="#place_32bcc08cf92b6fbbdcd91c75cb3814a2">Passau</rs> auch aus der Ursache
                     ein sehr großes Gewicht legt, weil er von dort auf das nahe
-                        <region ref="#place_f4333826b9c5251a45388331b1911f53">Oberösterreich</region> herüberzuwirken hofft. Der Bauplatz zum
-                    Tempel in <placeName ref="#place_32bcc08cf92b6fbbdcd91c75cb3814a2">Passau</placeName> ist bereits angekauft, und die
+                        <rs type="place" subtype="region" ref="#place_f4333826b9c5251a45388331b1911f53">Oberösterreich</rs> herüberzuwirken hofft. Der Bauplatz zum
+                    Tempel in <rs type="place" subtype="place" ref="#place_32bcc08cf92b6fbbdcd91c75cb3814a2">Passau</rs> ist bereits angekauft, und die
                     königliche Bewilligung zum Bau ertheilt. Die Nähe zwischen
-                        <placeName ref="#place_32bcc08cf92b6fbbdcd91c75cb3814a2">Passau</placeName> und <placeName ref="#place_f89f5a18425bb95587ff97109a4b976e">Engelszell</placeName> ist
+                        <rs type="place" subtype="place" ref="#place_32bcc08cf92b6fbbdcd91c75cb3814a2">Passau</rs> und <rs type="place" subtype="place" ref="#place_f89f5a18425bb95587ff97109a4b976e">Engelszell</rs> ist
                     unter diesen Umständen ein neuer Grund, das Projekt wahrscheinlich, aber auch
                     ein neuer Grund, es sehr gefährlich zu finden.<lb/>Ich setze nur noch bei, daß
-                    dem Bezirksamte und dem Steueramte in <placeName ref="#place_f89f5a18425bb95587ff97109a4b976e">Engelszell</placeName> die
-                    Wohnungsmiethe von dem <persName key="wrede-karl-theodor">Fürsten</persName>
+                    dem Bezirksamte und dem Steueramte in <rs type="place" subtype="place" ref="#place_f89f5a18425bb95587ff97109a4b976e">Engelszell</rs> die
+                    Wohnungsmiethe von dem <rs type="person" ref="wrede-karl-theodor" key="wrede-karl-theodor">Fürsten</rs>
                     bereits gekündet ist.<lb/>Nach allem dem ist kaum zu zweifeln, daß das fragliche
                     Projekt wirklich besteht, und daß es zudem bald ausgeführt werden sollte. Um so
                     größer und inniger ist mein Dank gegen Eure Majestät, den allergnädigsten
                     Schutzherren der Kirche, für das kaiserliche Wort, wonach die Errichtung eines
                     protestantischen Seminars in <orgName key="stift-engelszell">Engelszell</orgName> nie bewilligt werden wird. Dieses hohe Wort ist mir
                     ein neuer Sporn, mein Amt treu und freudig zu verwalten, um der katholischen
-                    Kirche in <region ref="#place_f4333826b9c5251a45388331b1911f53">Oberösterreich</region> treue Kinder und eben dadurch Eurer
+                    Kirche in <rs type="place" subtype="region" ref="#place_f4333826b9c5251a45388331b1911f53">Oberösterreich</rs> treue Kinder und eben dadurch Eurer
                     Majestät treue, mit Gut und Blut ergebene Unterthanen zu erziehen.<lb/>Gott
                     erhalte und segne Eure Majestät!<lb/>Ich ersterbe in der allertiefsten
                     Ehrfurcht</p>
@@ -127,24 +126,24 @@
                 <div type="enclosure" xml:id="D294_1">
                     <p>Ad N. 110 Pr.<lb/>Abschrift</p>
                     <p>Herrn Hofgärtner Strobl, Engelszell</p>
-                    <p>Der Unterzeichnete als <persName key="eschborn-a">General-Mandatar</persName>
-                        Seiner Durchlaucht des Herrn Reichsrathes <persName key="wrede-karl-theodor">Fürsten Wrede zu Ellingen</persName> soll Sie als fürstlichen Diener
+                    <p>Der Unterzeichnete als <rs type="person" ref="eschborn-a" key="eschborn-a">General-Mandatar</rs>
+                        Seiner Durchlaucht des Herrn Reichsrathes <rs type="person" ref="wrede-karl-theodor" key="wrede-karl-theodor">Fürsten Wrede zu Ellingen</rs> soll Sie als fürstlichen Diener
                         von Nachfolgendem in Kenntnis setzen:<lb/>Nachdem die seither mit dem
-                            <persName key="lebschy-dominik">Herrn Prälaten des Klosters
-                            Schlägl</persName> geführten Verkaufsunterhandlungen über <orgName key="stift-engelszell">Engelszell</orgName> zu keinem erheblichen
+                            <rs type="person" ref="lebschy-dominik" key="lebschy-dominik">Herrn Prälaten des Klosters
+                            Schlägl</rs> geführten Verkaufsunterhandlungen über <orgName key="stift-engelszell">Engelszell</orgName> zu keinem erheblichen
                         Resultate geführt haben, so soll nunmehr das vom protestantischen <orgName key="gustav-adolf-verein">Gustav-Adolph-Verein</orgName> gemachte
                         Anerbieten, <orgName key="stift-engelszell">Engelszell</orgName> kaufen zu
                         wollen, und daselbst eine Pflanzschule für protestantische Missionäre, die
                         zugleich in Ökonomie und Bierbrauerei unterrichtet werden sollen, anzulegen.
-                        Nachdem der Herr Direktor <persName key="hillebrand">Prof.
-                            Hillebrand</persName> zu <placeName ref="#place_4312d5c8cdda027420c474e2221abc34">Frankfurt</placeName> der
-                        diesseitigen Vorstellung ungeachtet, daß an der Gränze von <region key="bayern" ref="#place_5afc76bc69955ce317651a3dc1dbb0d6">Baiern</region> in dieser österreichischen erzkatholischen
+                        Nachdem der Herr Direktor <rs type="person" ref="hillebrand" key="hillebrand">Prof.
+                            Hillebrand</rs> zu <rs type="place" subtype="place" ref="#place_4312d5c8cdda027420c474e2221abc34">Frankfurt</rs> der
+                        diesseitigen Vorstellung ungeachtet, daß an der Gränze von <rs type="place" subtype="region" key="bayern" ref="#place_5afc76bc69955ce317651a3dc1dbb0d6">Baiern</rs> in dieser österreichischen erzkatholischen
                         Region eine solche Anstalt leicht dem einen oder anderen Theile zum Ärgernis
                         werden könnte, darauf besteht, daß mit seinem Bevollmächtigten, der in
                         diesen Tagen eintreffen wird, der Kauf abgeschlossen werden soll, so gebe
                         ich Ihnen hievon Nachricht, um innerhalb drei Tagen von Ihnen die Erklärung
                         zu erhalten, ob Sie als Hofgärtner mit an diese <orgName key="gustav-adolf-verein">Missionsgesellschaft</orgName> übergeben, oder
-                        im fürstlichen Dienste verbleiben und nach <placeName ref="#place_6fff0c87148a112e9c5de8c71add2bc7">Mondsee</placeName>
+                        im fürstlichen Dienste verbleiben und nach <rs type="place" subtype="place" ref="#place_6fff0c87148a112e9c5de8c71add2bc7">Mondsee</rs>
                         zur Gärtnerei versetzt werden wollen, versteht sich in gleicher Eigenschaft
                         und Besoldung. Mit freundlichem Gruß</p>
                     <p>Ihr ergebenster Diener<lb/>Ad. Eschborn m/p</p>

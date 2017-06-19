@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="rauscher-joseph" role="recipient:kleriker">Joseph Othmar
-                        Rauscher</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="rauscher-joseph" key="rauscher-joseph" role="recipient:kleriker">Joseph Othmar
+                        Rauscher</rs>
                     <lb/>
-                    <placeName ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</placeName>, <date when="--05-24">24. Mai [post 1855]</date>
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, <date when="--05-24">24. Mai [post 1855]</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -35,7 +34,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -49,7 +48,7 @@
                 <p>den 24. Mai</p>
                 <p>Hochwürdigster Herr Cardinal!</p>
                 <p>Bezüglich der italienischen Bücherfrage habe ich schon vor geraumer Zeit
-                        <persName key="franz-joseph">Seiner Majestät</persName> den Antrag
+                        <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät</rs> den Antrag
                     erstattet, daß die im Index enthaltenen oder von einzelnen Bischöfen
                     beanstandeten Bücher nicht öffentlich ausgelegt oder angekündigt werden sollen;
                     ich habe aber noch keine Resoluzion erhalten.<lb/>Der Wunsch der Bischöfe
@@ -74,9 +73,9 @@
                     werde, an welcher nicht geprüfte Lehrer angestellt werden, und die sich nicht
                     inspizieren lässt. Die Frage bezüglich der Wohlthätigkeitsanstalten ist mir ganz
                     neu, und ich vermag deshalb darüber heute keine Auskunft zu ertheilen.<lb/>Ich
-                    bitte um Entschuldigung, daß ich auch bezüglich der <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">siebenbürgischen</region> Angelegenheit noch nichts zu berichten im Stande
+                    bitte um Entschuldigung, daß ich auch bezüglich der <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">siebenbürgischen</rs> Angelegenheit noch nichts zu berichten im Stande
                     bin. Wollen Euere Eminenz mir erlauben Montag mündlich Auskunft zu ertheilen.
-                    Auch über die <placeName key="olmuetz" ref="#place_c0ce3216e3cb050a80363757086a42f0">Olmützer</placeName> Angelegenheit
+                    Auch über die <rs type="place" subtype="place" key="olmuetz" ref="#place_c0ce3216e3cb050a80363757086a42f0">Olmützer</rs> Angelegenheit
                     wünsche ich mit Euerer Eminenz zu sprechen.<lb/>Mit ausgezeichnetster
                     Hochachtung habe ich die Ehre zu verharren</p>
                 <p>Euerer Eminenz</p>

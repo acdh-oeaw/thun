@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="farina-modesto" role="sender:kleriker">Modesto
-                        Farina</persName> an <persName key="franz-joseph" role="recipient">Kaiser
-                        Franz Joseph</persName>
+                    <rs type="person" ref="farina-modesto" key="farina-modesto" role="sender:kleriker">Modesto
+                        Farina</rs> an <rs type="person" ref="franz-joseph" key="franz-joseph" role="recipient">Kaiser
+                        Franz Joseph</rs>
                     <lb/>
-                    <placeName ref="#place_48a09f4956b196a2489d69e3c117000d">Padua</placeName>, <date when="1854-09-09">9. September 1854</date>
+                    <rs type="place" subtype="place" ref="#place_48a09f4956b196a2489d69e3c117000d">Padua</rs>, <date when="1854-09-09">9. September 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -36,7 +35,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -51,18 +50,18 @@
                 <p>Scusi Sacra Maestà, se mi prendo l’ardire di scriverLe sopra un affare, che
                     interessa la mia coscienza, ed il pubblico bene. È vacante in questa mia
                     Cattedrale da qualche tempo l’arcipretura in cura d’anime per la morte del fu
-                        <persName key="scarpa-vincenzo">arciprete Scarpa</persName> morto in codesta
-                        <placeName key="padua" ref="#place_9c088c23f40f0e332029d782807d7234">Città</placeName> Imperiale. Si è fatta la terna
-                    diretta a <persName key="franz-joseph">Vostra Maestà</persName> sino dal giorno
+                        <rs type="person" ref="scarpa-vincenzo" key="scarpa-vincenzo">arciprete Scarpa</rs> morto in codesta
+                        <rs type="place" subtype="place" key="padua" ref="#place_9c088c23f40f0e332029d782807d7234">Città</rs> Imperiale. Si è fatta la terna
+                    diretta a <rs type="person" ref="franz-joseph" key="franz-joseph">Vostra Maestà</rs> sino dal giorno
                     22. gennaio dell’anno corrente. L’arciprete di questo Duomo ha fra gli altri
                     doveri quello di fare la dottrina cristiana ai figli maschi, facendo la dottrina
                     alle femine nell’oratorio del Vescovado col mezzo dei coadiutori
                     della’arciprete. All’oggetto di meglio regolare l’insegnamento cattolico mi si
-                    rende necessario, che <persName key="franz-joseph">Vostra Maestà</persName> mi
-                    nomini l’arciprete successore al <persName key="scarpa-vincenzo">Defunto</persName>. Il primo da me messo in terna, sarebbe opportunissimo
+                    rende necessario, che <rs type="person" ref="franz-joseph" key="franz-joseph">Vostra Maestà</rs> mi
+                    nomini l’arciprete successore al <rs type="person" ref="scarpa-vincenzo" key="scarpa-vincenzo">Defunto</rs>. Il primo da me messo in terna, sarebbe opportunissimo
                     per suoi meriti e per la sua abilità nell’ insegnamento religioso, di cui tanto
                     abbisogniamo in questi tempi perversi. Questi è l’arciprete Rossi di
-                        <placeName ref="#place_6379e443edb8331172ed971d4798ccaf">Cittadella</placeName>, di cui imploro la nomina.</p>
+                        <rs type="place" subtype="place" ref="#place_6379e443edb8331172ed971d4798ccaf">Cittadella</rs>, di cui imploro la nomina.</p>
                 <p>Devotissimo, Obligatissimo Servitore Suddito</p>
                 <p>+ Modesto. Vescovo di Padova.</p>
                 <p>&lt;wegen Besetzung der Erzpriesterstelle an der Kathedrale zu Padua&gt;<note xml:id="note_1">Notiz von fremder Hand am unteren Blattrand.</note>

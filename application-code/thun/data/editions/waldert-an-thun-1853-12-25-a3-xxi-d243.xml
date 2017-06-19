@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="waldert-anton" role="sender:kleriker">Anton Waldert</persName>
-                    an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="waldert-anton" key="waldert-anton" role="sender:kleriker">Anton Waldert</rs>
+                    an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName key="goerkau" ref="#place_6f7cc055d11cf2cbbaa605d5449eb44c">Görkau</placeName> [Jirkov],
+                    <rs type="place" subtype="place" key="goerkau" ref="#place_6f7cc055d11cf2cbbaa605d5449eb44c">Görkau</rs> [Jirkov],
                         <date when="1853-12-25">25. Dezember 1853</date>
                 </title>
             </titleStmt>
@@ -40,7 +39,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -51,8 +50,8 @@
                 </index>
                 <p>Euer Excellenz,<lb/>hochgeborener, gnädigster Herr Graf!</p>
                 <p>Den wohlwollenden Absichten Euer Excellenz gemäß wurde mir von der k.k.
-                    Landesschulbehörde für <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</region> eine Anstellung am
-                    Gymnasium zu <placeName ref="#place_24c87409776f0c35cc5176266b753b28">Eger</placeName> zugedacht. Da mir aber dort zu meiner
+                    Landesschulbehörde für <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> eine Anstellung am
+                    Gymnasium zu <rs type="place" subtype="place" ref="#place_24c87409776f0c35cc5176266b753b28">Eger</rs> zugedacht. Da mir aber dort zu meiner
                     nicht geringen Überraschung <hi rend="ul">Philologie</hi> übertragen werden
                     wollte, so fand ich mich veranlaßt und <hi rend="ul">verpflichtet</hi>, auf das
                     mir verliehene Lehramt zu verzichten. Nichtsdestoweniger fühle ich mich
@@ -66,26 +65,26 @@
                         <hi rend="ul">ehrenhafte</hi> Stellung in einem adelichen Hause nicht
                     ausschlagen. Nun, Euer Excellenz werden mit der Zeit und in huldvoller Fürsorge
                     für meine Wenigkeit schon etwas aufzufinden wissen!<lb/>Auf das Schreiben von
-                        <placeName ref="#place_da90eb3328276934d8dbcbbff3aba4ee">Tetschen</placeName>, was an mich ergangen, hat sofort einer der
+                        <rs type="place" subtype="place" ref="#place_da90eb3328276934d8dbcbbff3aba4ee">Tetschen</rs>, was an mich ergangen, hat sofort einer der
                     Priester, deren ich in einem früheren Schreiben Hochdieselben gedacht, – Pater
-                        <persName key="weber">Weber</persName> – sein Bittgesuch gehörigen Orts
-                    vorgelegt. Dem Zweiten, Pater <persName key="michl">Michl</persName> aus der
-                        <placeName key="leitmeritz" ref="#place_a808e5c57f7af6870dafa78db5ce4321">Leitmeritzer</placeName> Diözese, wurde jedoch
+                        <rs type="person" ref="weber" key="weber">Weber</rs> – sein Bittgesuch gehörigen Orts
+                    vorgelegt. Dem Zweiten, Pater <rs type="person" ref="michl" key="michl">Michl</rs> aus der
+                        <rs type="place" subtype="place" key="leitmeritz" ref="#place_a808e5c57f7af6870dafa78db5ce4321">Leitmeritzer</rs> Diözese, wurde jedoch
                     von seinem Bischofe die Weisung gegeben, vorläufig noch zu warten mit der
                     Einsendung eines solchen Gesuches, „da augenblicklicher Priestermangel Vorsorge
-                    für die Seelsorge [?]“.<lb/>Pater <persName key="weber">
+                    für die Seelsorge [?]“.<lb/>Pater <rs type="person" ref="weber" key="weber">
                         <hi rend="ul">Weber</hi>
-                    </persName> und Pater <persName key="michl">
+                    </rs> und Pater <rs type="person" ref="michl" key="michl">
                         <hi rend="ul">Michl</hi>
-                    </persName> – zwei seltene junge Priester, reich an Talent,
+                    </rs> – zwei seltene junge Priester, reich an Talent,
                     ausgerüstet mit vielseitigen Kenntnissen, mit einem entschiedenem christlich
                     loyalen Charakter; Männer, Priester, "die Geist und Leben sich bewahrt und in
                     die Ansprüche der Zeit mit ihrer Person bezahlen".<lb/>Und rüstige, gewandte
                     Geister braucht die Wissenschaft, nicht flache, verschlissene Leute. Namentlich
-                    möchte Pater <persName key="weber">Weber</persName> durch sein geniales Talent,
+                    möchte Pater <rs type="person" ref="weber" key="weber">Weber</rs> durch sein geniales Talent,
                     ausgezeichnet reiches Wissen in jedem Kreise Tüchtiges schaffen. Haben Euer
-                    Excellenz die Gnaden in dem "Jahrbuch 39[?]" vom Schulrathe <persName key="maresch-johann">Maresch</persName> einen flüchtig geschriebenen Artikel
-                    zu lesen, der <persName key="weber">Weber</persName> zum Verfasser hat. Derselbe
+                    Excellenz die Gnaden in dem "Jahrbuch 39[?]" vom Schulrathe <rs type="person" ref="maresch-johann" key="maresch-johann">Maresch</rs> einen flüchtig geschriebenen Artikel
+                    zu lesen, der <rs type="person" ref="weber" key="weber">Weber</rs> zum Verfasser hat. Derselbe
                     macht jetzt ausgebreitete Studien und hat "Beiträge zur <hi rend="ul">Christianisirung</hi> der Wissenschaft" unter der Feder. Das wird eine
                     geistvolle, anregende Arbeit werden! Solche Bestrebungen erscheinen freilich den
                     "Juden" als ein Ärgernis und den "<hi rend="ul">Heiden</hi>" als eine Thorheit;
@@ -107,7 +106,7 @@
                     den deutschen Ländern getrieben wird, denken und urtheilen?! Und die
                     Karlsruhigen – nun die wollen die Kirche knebeln, in Fesseln schlagen, "doch der
                     Herr wird schon noch einmal reden, aber nicht durch seinen Sohn" – könnten auf
-                        <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</country> erleuchtete Staatsmänner
+                        <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> erleuchtete Staatsmänner
                     schauen und in reifliche Erwägung ziehen, daß nichts die Absichten einer
                     vernünftigen Politik kräftiger befördere als die katholische Religion, wenn sie
                         <hi rend="ul">nicht</hi> politisch behandelt wird, und daß dieselbe für die

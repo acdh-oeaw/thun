@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -32,7 +31,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -45,13 +44,13 @@
                 <div>
                     <p>Katholische Kirche in <hi rend="ul">Ungarn</hi>
                     </p>
-                    <p>a) In <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> hat das Corpus Juris canonici sowie das
+                    <p>a) In <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> hat das Corpus Juris canonici sowie das
                         Concilium Tridentinum volle Rechtsgültigkeit und Anwendung.<lb/>b) Besteht
                         der Primatial- und Metropolitan-Verband (mit Ausnahme des Erzbischofs von
                             <hi rend="ul">
-                            <placeName ref="#place_dc99ae826de653f8eda03c7b3d728ed1">Colocza</placeName>
+                            <rs type="place" subtype="place" ref="#place_dc99ae826de653f8eda03c7b3d728ed1">Colocza</rs>
                         </hi>, welcher direct nach
-                            <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName> appeliert) und die instanzmäßige
+                            <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs> appeliert) und die instanzmäßige
                         Appelations-Zuständigkeit in Bezug auf die Suffraganbischöfe, deren Clerus
                         und Gläubige.<lb/>c) Der Episcopat pari die Capitalur-Generalvicäre sind in
                         Erläßen und Hirtenschreiben an den Clerus und Gläubige nicht an die
@@ -94,7 +93,7 @@
                         vorgeschriebene canonische Prüfung wird erst nach der Praesentation des
                         Patrons zum Behufe der Investitur vorgenommen.<lb/>n) der Regularclerus hat
                         in der Aufnahme und Profession seiner Novizen frei Hand.<lb/>Außer diesen
-                        Punkten ist Conformität zwischen der Kirche in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> und
+                        Punkten ist Conformität zwischen der Kirche in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> und
                         den deutsch-österreichischen Provinzen.</p>
                 </div>
             </div>

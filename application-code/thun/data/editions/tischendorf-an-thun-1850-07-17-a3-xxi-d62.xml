@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="tischendorf-constantin" role="sender:gelehrter">Constantin
-                        Tischendorf</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="tischendorf-constantin" key="tischendorf-constantin" role="sender:gelehrter">Constantin
+                        Tischendorf</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_4a887b8a68acf9b04d9d027bddedb06b">Leipzig</placeName>,
+                    <rs type="place" subtype="place" ref="#place_4a887b8a68acf9b04d9d027bddedb06b">Leipzig</rs>,
                         <date when="1850-07-17">17. Juli 1850</date>
                 </title>
             </titleStmt>
@@ -41,7 +40,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -52,33 +51,33 @@
                     <term>Theologie</term>
                 </index>
                 <p>Eure Excellenz,</p>
-                <p>haben mir in <placeName ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</placeName> eine so wohlwollende Aufnahme und schon
+                <p>haben mir in <rs type="place" subtype="place" ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</rs> eine so wohlwollende Aufnahme und schon
                     längst ein so huldvolles Interesse geschenkt, daß ich Ihre Anwesenheit in
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> für einen Zweck zu nützen wage, den ich der
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> für einen Zweck zu nützen wage, den ich der
                     Protektion eines so erleuchteten Staatsmannes würdig glaube.<lb/>Ich habe unterm
-                    16. April Seiner Erlaucht dem <persName key="kuefstein-franz-seraph">Grafen
-                        Kuefstein</persName>, nicht ohne seiner eigenen Veranlassung, den Antrag
+                    16. April Seiner Erlaucht dem <rs type="person" ref="kuefstein-franz-seraph" key="kuefstein-franz-seraph">Grafen
+                        Kuefstein</rs>, nicht ohne seiner eigenen Veranlassung, den Antrag
                     einer wissenschaftlichen Mission übergeben, den derselbe sofort hochgeneigtest
-                    an den Herrn <persName key="schwarzenberg-felix">Fürsten
-                        Ministerpräsidenten</persName> selbst einsandte. Dieser Antrag bezweckt
+                    an den Herrn <rs type="person" ref="schwarzenberg-felix" key="schwarzenberg-felix">Fürsten
+                        Ministerpräsidenten</rs> selbst einsandte. Dieser Antrag bezweckt
                     zunächst eine wissenschaftliche Mission nach dem Morgenlande, soweit ich
                     dasselbe schon früher bereist habe, theils um einen großen einzigen Bibelschatz
                     zu erwerben oder wenigstens an Ort und Stelle für die Wissenschaft und Kirche
                     auszubeuten, theils um über sämmtliche dortige größtentheils erst durch mich in
-                        <country ref="#place_5c4b925bf527c4f8581815a35a10d658">Europa</country> näher bekannt gewordenen Bibliotheken eine
+                        <rs type="place" subtype="country" ref="#place_5c4b925bf527c4f8581815a35a10d658">Europa</rs> näher bekannt gewordenen Bibliotheken eine
                     Catalogue raisonné zu fertigen, unter sofortiger Erwerbung aller wichtigen
                     Handschriften, soweit dies möglich wäre. Zugleich hab‘ ich es aber
                     ausgesprochen, daß mir diese Mission doppelt erwünscht sein würde, knüpfte sich
-                    daran eine förmliche Berufung nach <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>. Dabei hob ich
+                    daran eine förmliche Berufung nach <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>. Dabei hob ich
                     den Wunsch hervor, vorzugsweise den Bibliotheken des Kaiserstaats, wie denen zu
-                        <placeName ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</placeName>, zu <placeName ref="#place_ab21db0a2aa2e84be73932be6063b033">Mailand</placeName>, zu
-                        <placeName ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</placeName>, in <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</region>
+                        <rs type="place" subtype="place" ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</rs>, zu <rs type="place" subtype="place" ref="#place_ab21db0a2aa2e84be73932be6063b033">Mailand</rs>, zu
+                        <rs type="place" subtype="place" ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</rs>, in <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs>
                     meine Thätigkeit zu widmen, und deutete mehrere Gesichtspunkte an, unter denen
                     meine Forschungen der <orgName key="akademie-der-wissenschaften">Kaiserlichen
                         Akademie der Wissenschaften</orgName> nicht unwillkommen sein
-                    möchten.<lb/>Da ich nun, so gut wie <persName key="kuefstein-franz-seraph">Graf
-                        Kuefstein</persName>, bis jetzt noch ohne Bescheid geblieben, so wage ich
-                    Eurer Excellenz unterthänigst zu ersuchen Seiner Durchlaucht dem <persName key="schwarzenberg-felix">Fürsten Ministerpräsidenten</persName> mein
+                    möchten.<lb/>Da ich nun, so gut wie <rs type="person" ref="kuefstein-franz-seraph" key="kuefstein-franz-seraph">Graf
+                        Kuefstein</rs>, bis jetzt noch ohne Bescheid geblieben, so wage ich
+                    Eurer Excellenz unterthänigst zu ersuchen Seiner Durchlaucht dem <rs type="person" ref="schwarzenberg-felix" key="schwarzenberg-felix">Fürsten Ministerpräsidenten</rs> mein
                     Schreiben vom 16. April in Erinnerung zu bringen, und für dasselbe, wenn es
                     anders mit dem gnädigen Urtheile Eurer Excellenz über mich vereinbar ist, der
                     gewichtigste Fürsprecher werden zu wollen.<lb/>Wie sehr meine im letzten

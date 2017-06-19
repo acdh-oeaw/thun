@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="phillips-george" role="sender:gelehrter">George
-                        Phillips</persName> an <persName key="thun-hohenstein-leo">Leo
-                        Thun</persName>
+                    <rs type="person" ref="phillips-george" key="phillips-george" role="sender:gelehrter">George
+                        Phillips</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1852-02-24">24.
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1852-02-24">24.
                         Februar 1852</date>
                 </title>
             </titleStmt>
@@ -47,7 +46,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -58,18 +57,18 @@
                     <term>Geschichtswissenschaften</term>
                 </index>
                 <p>Hochgeborner Herr Graf</p>
-                <p>Euer Exzellenz beehre ich mich über den Rector <persName key="mutzl-sebastian">Seb[astian] Mutzl</persName> die nachstehenden Notizen mitzutheilen, welche
+                <p>Euer Exzellenz beehre ich mich über den Rector <rs type="person" ref="mutzl-sebastian" key="mutzl-sebastian">Seb[astian] Mutzl</rs> die nachstehenden Notizen mitzutheilen, welche
                     mir heute auf meine Anfragen zugegangen sind. Der eine meiner Correspondenten
                     äußert sich nur ganz kurz über ihn unter lobender Anerkennung seiner
                     schriftstellerischen Leistungen (Urgeschichte, Lateinische Grammatik), und zwar
-                    dahin: „<persName key="mutzl-sebastian">Mutzl</persName> halte ich für geeignet,
-                    viel geeigneter als <persName key="fertig-michael">Fertig</persName>
+                    dahin: „<rs type="person" ref="mutzl-sebastian" key="mutzl-sebastian">Mutzl</rs> halte ich für geeignet,
+                    viel geeigneter als <rs type="person" ref="fertig-michael" key="fertig-michael">Fertig</rs>
                     <note xml:id="note_2">Vgl. dazu den Brief <ref target="thun/thun-korrespondenz/tetschen/phillips-an-thun_1852-01-24_A3-XXI-D154.xml">A3 XXI D154</ref>.</note>; seine Gesinnung ist gut; wenn er einen Ruf
                     erhält und ihn annimmt, so wird er ihm Ehre machen.“<lb/>Ausführlichere
-                    Mittheilungen macht mir ein Professor aus <placeName key="eichstaett" ref="#place_5cf6a77064d5d368e7bd500399dacfd2">Eichstätt</placeName>: „Über Herrn <persName key="mutzl-sebastian">Seb[astian] Mutzl</persName> bin ich im Stande Ihnen die gewünschte
-                    Auskunft zu geben. Im Jahre 1845 kam er auf den Vorschlag des <persName key="reisach-karl-august">Erzbischofs von Reisach</persName> von
-                        <placeName ref="#place_9ae0133b9256a87352801c2a37fdd149">Landshut</placeName> nach <placeName key="eichstaett" ref="#place_5cf6a77064d5d368e7bd500399dacfd2">Eichstätt</placeName> als Rector der hiesigen Studienanstalt. Weil ich
-                    früher im Auftrage des Ordinariates <placeName key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</placeName> sein Buch über die Urgeschichte<note xml:id="note_3">
+                    Mittheilungen macht mir ein Professor aus <rs type="place" subtype="place" key="eichstaett" ref="#place_5cf6a77064d5d368e7bd500399dacfd2">Eichstätt</rs>: „Über Herrn <rs type="person" ref="mutzl-sebastian" key="mutzl-sebastian">Seb[astian] Mutzl</rs> bin ich im Stande Ihnen die gewünschte
+                    Auskunft zu geben. Im Jahre 1845 kam er auf den Vorschlag des <rs type="person" ref="reisach-karl-august" key="reisach-karl-august">Erzbischofs von Reisach</rs> von
+                        <rs type="place" subtype="place" ref="#place_9ae0133b9256a87352801c2a37fdd149">Landshut</rs> nach <rs type="place" subtype="place" key="eichstaett" ref="#place_5cf6a77064d5d368e7bd500399dacfd2">Eichstätt</rs> als Rector der hiesigen Studienanstalt. Weil ich
+                    früher im Auftrage des Ordinariates <rs type="place" subtype="place" key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs> sein Buch über die Urgeschichte<note xml:id="note_3">
                         <ref target="http://books.google.at/books?id=H39AAAAAcAAJ&amp;printsec=frontcover&amp;hl=de#v=onepage&amp;q&amp;f=false">Sebastian Mutzl, Urgeschichte der Erde und des Menschengeschlechtes
                             nach der Mosaischen Urkunde und den Ergebnissen der Wissenschaften,
                             Landshut 1843</ref>.</note> censirt[?] hatte, so wurde ich mit ihm
@@ -81,9 +80,9 @@
                     angenehm. Seine Rede ist fließend und klar, der Ausdruck gewählt, die
                     Declamation mit kräftiger Baßstimme natürlich, Gesticulation ruhig, ganze
                     Haltung ernst und würdevoll. Ich nehme also keinen Anstand zu erklären, daß
-                        <persName key="mutzl-sebastian">Mutzl’s</persName> Vortrag für eine
+                        <rs type="person" ref="mutzl-sebastian" key="mutzl-sebastian">Mutzl’s</rs> Vortrag für eine
                     Lehrkanzel der allgemeinen Geschichte an einer Universität sich sehr wohl
-                    eignet. Ich zweifle keinen Augenblick, daß <persName key="mutzl-sebastian">Mutzl</persName> eine solche Stelle annehme, wenn, was vorausgesetzt werden
+                    eignet. Ich zweifle keinen Augenblick, daß <rs type="person" ref="mutzl-sebastian" key="mutzl-sebastian">Mutzl</rs> eine solche Stelle annehme, wenn, was vorausgesetzt werden
                     kann, er dadurch in materieller Beziehung einen Vortheil gewinnt.“<lb/>Mit
                     ausgezeichnetster Verehrung bestehe ich als</p>
                 <p>Euer Excellenz</p>

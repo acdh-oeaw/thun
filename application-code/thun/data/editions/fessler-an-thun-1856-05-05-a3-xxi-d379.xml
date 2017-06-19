@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="fessler-joseph" role="sender:kleriker">Joseph
-                        Fessler</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="fessler-joseph" key="fessler-joseph" role="sender:kleriker">Joseph
+                        Fessler</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName>, <date when="1856-05-05">5. Mai 1856</date>
+                    <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs>, <date when="1856-05-05">5. Mai 1856</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -45,7 +44,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -57,10 +56,10 @@
                 </index>
                 <p>Euer Excellenz!</p>
                 <p>Die besondere Huld, womit Euer Excellenz mich stets behandelten und insbesondere
-                    meine Reise nach <placeName key="rom" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</placeName> beförderten, macht es mir
+                    meine Reise nach <rs type="place" subtype="place" key="rom" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs> beförderten, macht es mir
                     zur angenehmen Pflicht, über den bisherigen Erfolg meines Aufenthaltes dahier
                     Euer Excellenz Nachricht zu geben. Der erste Monat, oder besser gesagt, halbe
-                    Monat (da ich am 11. März in <placeName key="rom" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</placeName> eintraf)
+                    Monat (da ich am 11. März in <rs type="place" subtype="place" key="rom" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs> eintraf)
                     verfloß in allerlei Besuchen, wodurch ich mich in den Verhältnissen etwas
                     orientirte und im Kirchenbesuch, wozu die Charwoche und Osterwoche so dringend
                     einluden. Nirgends in der Welt ist diese heilige Zeit so schön und erhebend,
@@ -70,13 +69,13 @@
                     langen Zügen. Als die Osterwoche verflossen war, begann mit dem April auch die
                     Arbeit, wozu ich von allen Seiten die bereitwilligste Unterstützung fand mit
                     einer Freundlichkeit und Offenheit, die ich nicht genug rühmend anerkennen kann.
-                        <persName key="antonelli-giacomo">Cardinal Antonelli</persName> beauftragte
-                    den Monsignor <persName key="capalti-annibale">Capalti</persName>, ehemals
+                        <rs type="person" ref="antonelli-giacomo" key="antonelli-giacomo">Cardinal Antonelli</rs> beauftragte
+                    den Monsignor <rs type="person" ref="capalti-annibale" key="capalti-annibale">Capalti</rs>, ehemals
                     Professor des Dekretalenrechtes an der <orgName key="universitaet-sapienza-rom">Universität</orgName>, jetzt Sekretär der Congregatio S. Rituum, mir an die
-                    Hand zu gehen. <persName key="nina-lorenzo">Monsignor Nina</persName>, an den
-                    ich von Herrn Kardinal <persName key="rauscher-joseph">Rauscher</persName>
+                    Hand zu gehen. <rs type="person" ref="nina-lorenzo" key="nina-lorenzo">Monsignor Nina</rs>, an den
+                    ich von Herrn Kardinal <rs type="person" ref="rauscher-joseph" key="rauscher-joseph">Rauscher</rs>
                     empfohlen wurde, erbot sich zu Allem, was ich wünsche für meinen Zweck. Die
-                    Cardinäle <persName key="santucci-vincenzo">Santucci</persName> und <persName key="brunelli-giovanni">Brunelli</persName> (letzterer vor <persName key="capalti-annibale">Capalti</persName> Professor des Dekretalenrechtes an
+                    Cardinäle <rs type="person" ref="santucci-vincenzo" key="santucci-vincenzo">Santucci</rs> und <rs type="person" ref="brunelli-giovanni" key="brunelli-giovanni">Brunelli</rs> (letzterer vor <rs type="person" ref="capalti-annibale" key="capalti-annibale">Capalti</rs> Professor des Dekretalenrechtes an
                     der Universität) nahmen mich mit der größten Freundlichkeit auf und gaben mir in
                     wiederholten Besprechungen alle erwünschten Aufschlüsse. Eben so machte ich die
                     Bekanntschaft des dermaligen Professors des Dekretalenrechtes an der <orgName key="universitaet-sapienza-rom">Universität</orgName> hier. Die genannten
@@ -93,16 +92,16 @@
                     veranlaßt finde. Für den praktischen Theil sorge ich durch Proceßakten, welche
                     ich vollständig aus den Kanzleien erhalte und bis in’s kleinste Detail genau
                     durchstudire, um danach im Wesentlichen unsere künftige Praxis zu gestalten,
-                    wobei mich <persName key="reisach-karl-august">Cardinal Reisach</persName>, der
+                    wobei mich <rs type="person" ref="reisach-karl-august" key="reisach-karl-august">Cardinal Reisach</rs>, der
                     das deutsche Verfahren vollständig kennt, auf die nötigen Modifikationen
                     hinweist. Für die Bibliothek, welche meines Erachtens den jungen Leuten gezeigt
                     werden muß, um sie mit der Literatur des Faches vertraut zu machen, sorge ich
                     durch reichliche Ankäufe, da die auf kanonischen Gebiet so wichtige Literatur
-                    des vorigen Jahrhunderts aus <country ref="#place_389962c9dec540ab28d04517e82c3996">Italien</country> in <country key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschland</country> wenig oder gar nicht gekannt ist.
+                    des vorigen Jahrhunderts aus <rs type="place" subtype="country" ref="#place_389962c9dec540ab28d04517e82c3996">Italien</rs> in <rs type="place" subtype="country" key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschland</rs> wenig oder gar nicht gekannt ist.
                     Ich habe schon eine große Anzahl der trefflichsten Werke angekauft und bin mit
                     Suchen noch nicht zu Ende. Natürlich sind hiezu namhafte Summen erforderlich, da
-                    diese Werke aus <country key="frankreich" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreich</country>,
-                        <country ref="#place_64f607906be7598a02d75dbc1e979662">England</country> und <country key="amerika" ref="#place_1ce9287a63e38534efb11b85339cbe59">Amerika</country> hier
+                    diese Werke aus <rs type="place" subtype="country" key="frankreich" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreich</rs>,
+                        <rs type="place" subtype="country" ref="#place_64f607906be7598a02d75dbc1e979662">England</rs> und <rs type="place" subtype="country" key="amerika" ref="#place_1ce9287a63e38534efb11b85339cbe59">Amerika</rs> hier
                     stark gesucht werden. Ich möchte daher auch aus diesem Grunde wünschen, daß
                     endlich meine Kirchengeschichte approbirt oder doch mir zurückgestellt würde,
                     damit ich im ersteren Fall den dafür bestimmten Preis, im letzteren Fall das
@@ -112,20 +111,20 @@
                     es noch für das nächste Studienjahr dem Druck zu übergeben. Wenn Euer Excellenz
                     die Gnade haben wollten, in dieser Beziehung die Sache zu fördern, wäre ich wohl
                     sehr zu Dank verbunden.<lb/>Auch die deutschen Künstler habe ich bereits
-                    besucht, unter denen nach dem rühmlichen Zeugnis von <persName key="cornelius-peter">Cornelius</persName> die österreichischen eine sehr
-                    ehrenvolle Rolle einnehmen, vor allem <persName key="flatz-gebhard">Flatz</persName>, dann <persName key="vogel-ludwig">Vogel</persName>, [?],
-                        <persName key="plattner-franz">Platner</persName> u. a. Ich habe aus dem
-                    Mund von <persName key="cornelius-peter">Cornelius</persName> selbst gehört:
+                    besucht, unter denen nach dem rühmlichen Zeugnis von <rs type="person" ref="cornelius-peter" key="cornelius-peter">Cornelius</rs> die österreichischen eine sehr
+                    ehrenvolle Rolle einnehmen, vor allem <rs type="person" ref="flatz-gebhard" key="flatz-gebhard">Flatz</rs>, dann <rs type="person" ref="vogel-ludwig" key="vogel-ludwig">Vogel</rs>, [?],
+                        <rs type="person" ref="plattner-franz" key="plattner-franz">Platner</rs> u. a. Ich habe aus dem
+                    Mund von <rs type="person" ref="cornelius-peter" key="cornelius-peter">Cornelius</rs> selbst gehört:
                     „Die österreichischen Künstler, die machen mir Freude.“<lb/>Schließlich bitte
                     ich Euer Excellenz mir noch gütigst zu erlauben, ein paar Angelegenheiten zu
-                    gnädiger Berücksichtigung zu empfehlen. In <placeName ref="#place_478686b5e2ebec6de738cf25710e7108">Brixen</placeName> ist
-                    unser tüchtigster junger Theologieprofessor, <persName key="messmer-alois">Mesmer Aloys</persName>, durch öfter wiederholte Anfälle von Bluthusten in
+                    gnädiger Berücksichtigung zu empfehlen. In <rs type="place" subtype="place" ref="#place_478686b5e2ebec6de738cf25710e7108">Brixen</rs> ist
+                    unser tüchtigster junger Theologieprofessor, <rs type="person" ref="messmer-alois" key="messmer-alois">Mesmer Aloys</rs>, durch öfter wiederholte Anfälle von Bluthusten in
                     größter Gefahr unbrauchbar zu werden. Der Arzt erklärt es für nothwendig, auf
                     längere Zeit in ein anderes Klima zu gehen und sich Ruhe zu gönnen. Daher die
                     dringende Bitte, ihm ein Jahr Urlaub zu gewähren mit Belassung seines Gehaltes
                     und Aufstellung eines Supplenten mit der gewöhnlichen Supplentengebühr.<lb/>In
-                    Trient ist der Gymnasialprofessor <persName key="tevini-simon">Tevini Simon
-                        Petrus</persName> im Jahre 1850, als ihm nur noch wenige Monate zur
+                    Trient ist der Gymnasialprofessor <rs type="person" ref="tevini-simon" key="tevini-simon">Tevini Simon
+                        Petrus</rs> im Jahre 1850, als ihm nur noch wenige Monate zur
                     40jährigen Dienstzeit fehlten, ohne sein Ansuchen in den Ruhestand versetzt
                     worden mit dem halben Gehalt, der ihm später im Gnadenweg auf 2/3 erhöht wurde,
                     während seine Collegen 1200 fl Pension erhielten. Sein ihm Lehramt bewiesener
@@ -133,7 +132,7 @@
                     armen Studenten sich sehr wohlthätig zeigte, dürften ihn, wenn er ein
                     Gnadengesuch um die volle Pension an Seine Majestät richtet, aus dem
                     Gesichtspunkt der Billigkeit wohl der Befürwortung seiner Bitte von Seite Eurer
-                    Excellenz würdig machen.<lb/>Mein liebenswürdiger Hausherr, Rector <persName key="flir-alois">Flir</persName>, läßt sich Euer Excellenz in Ehrfurcht
+                    Excellenz würdig machen.<lb/>Mein liebenswürdiger Hausherr, Rector <rs type="person" ref="flir-alois" key="flir-alois">Flir</rs>, läßt sich Euer Excellenz in Ehrfurcht
                     empfehlen, womit ich meinerseits die Versicherung meiner tiefsten Verehrung und
                     innigsten Dankbarkeit verbinde, in der ich stets geharre,</p>
                 <p>Euer Excellenz<lb/>gehorsamster Diener<lb/>J. Feßler</p>

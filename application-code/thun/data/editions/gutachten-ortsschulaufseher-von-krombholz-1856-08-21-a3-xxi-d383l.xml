@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Gutachten von <persName key="krombholz-anton">Anton Krombholz</persName> zu §
+                <title>Gutachten von <rs type="person" ref="krombholz-anton" key="krombholz-anton">Anton Krombholz</rs> zu §
                     14 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des
                         Konkordats<lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1856-08-21">21.
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1856-08-21">21.
                         August 1856</date>
                 </title>
             </titleStmt>
@@ -49,7 +48,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

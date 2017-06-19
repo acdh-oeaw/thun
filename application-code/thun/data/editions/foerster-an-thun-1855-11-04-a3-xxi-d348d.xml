@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="foerster-heinrich" role="sender:kleriker">Heinrich
-                        Förster</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="foerster-heinrich" key="foerster-heinrich" role="sender:kleriker">Heinrich
+                        Förster</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</placeName>, <date when="1855-11-04">4. November 1855</date>
+                    <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs>, <date when="1855-11-04">4. November 1855</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -56,7 +55,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -68,14 +67,14 @@
                 </index>
                 <p>Hochgebietender Herr Minister,<lb/>Hochgeborener Her Graf!</p>
                 <p>In der betrübenden Teschner Angelegenheit bin ich seither von dem Direktor
-                        <persName key="gabriel-philipp">Gabriel</persName> in Wahrheit mit einer
+                        <rs type="person" ref="gabriel-philipp" key="gabriel-philipp">Gabriel</rs> in Wahrheit mit einer
                     Fluth von Klagen, Hilferufen und Bitten überschwemmt worden. Die <ref target="#D348d_1">neueste gestern</ref> empfangene scheint mir der Art, daß
                     ich es Euer Excellenz nicht ersparen kann, Hochdieselben damit zu belästigen und
                     um Abhilfe dieser Übelstände, namentlich aber um Amotion jenes früher
-                    bezeichneten <persName key="lukas-florian">Lehrers</persName> ganz gehorsamst zu
+                    bezeichneten <rs type="person" ref="lukas-florian" key="lukas-florian">Lehrers</rs> ganz gehorsamst zu
                     bitten, von welchem die anonymen Briefe ausgegangen sind und dem jedes Mittel
                     recht zu sein scheint, sein Ziel – die Amotion der Priester und namentlich des
-                        <persName key="gabriel-philipp">Gabriel</persName> vom Gymnasium – zu
+                        <rs type="person" ref="gabriel-philipp" key="gabriel-philipp">Gabriel</rs> vom Gymnasium – zu
                     erreichen.<lb/>Eine, wenn auch noch so kurze Notiz von dem, was in dieser Sache
                     geschehen wird, würde mich sehr beruhigen als dankbar
                     verpflichten.<lb/>Genehmigen Hochdieselben den Ausdruck der besonderen
@@ -85,11 +84,11 @@
                 <div type="enclosure" xml:id="D348d_1">
                     <p>Hochwürdigster Fürstbischof!<lb/>Gnädigster Herr!</p>
                     <p>Mit tiefer Betrübnis gebe ich Euer Fürstbischöflichen Gnaden bekannt, daß
-                            <placeName ref="#place_27f77677310f3f4e0b878e7f7f0f0dd1">Teschen</placeName> von der Thatsache erfüllt ist: die
-                        katholischen Priester am Gymnasium seien sowol bei <persName key="thun-hohenstein-leo">Seiner Excellenz dem k.k.
-                            Cultusminister</persName> als auch bei Euer Fürstbischöflichen Gnaden
+                            <rs type="place" subtype="place" ref="#place_27f77677310f3f4e0b878e7f7f0f0dd1">Teschen</rs> von der Thatsache erfüllt ist: die
+                        katholischen Priester am Gymnasium seien sowol bei <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Seiner Excellenz dem k.k.
+                            Cultusminister</rs> als auch bei Euer Fürstbischöflichen Gnaden
                         verklagt; ebenso wurde der Innhalt des anonymen Schreibens in öffentlichen
-                        Häusern bereits kund gegeben. Dies meldeten mir heute der Katechet <persName key="sobetzky-leopold">Sobetzki</persName> und der Lehrer <persName key="danel-franz">Danel</persName>.<lb/>Da ich bis jetzt von dem mir auf
+                        Häusern bereits kund gegeben. Dies meldeten mir heute der Katechet <rs type="person" ref="sobetzky-leopold" key="sobetzky-leopold">Sobetzki</rs> und der Lehrer <rs type="person" ref="danel-franz" key="danel-franz">Danel</rs>.<lb/>Da ich bis jetzt von dem mir auf
                         vertraulichen Wege bekannt gewordenen Innhalte des anonymen Schreibens gegen
                         Niemand Erwähnung gemacht habe, so muß der Schluß nahe liegen, daß der
                         Verfasser selbst oder einer der Helfershelfer – denen der Erfolg zu lange
@@ -106,7 +105,7 @@
                         Verfassers zugleich die destructive Tendenz deßelben in sittlicher und
                         religiöser Beziehung und erklären: „Daß der Sittlichkeit und Religiosität
                         der Jugend und katholischen Bevölkerung hohe Gefahr drohe, wenn nicht der
-                        Verfasser – sogleich von <placeName ref="#place_27f77677310f3f4e0b878e7f7f0f0dd1">Teschen</placeName> übersetzt wird,
+                        Verfasser – sogleich von <rs type="place" subtype="place" ref="#place_27f77677310f3f4e0b878e7f7f0f0dd1">Teschen</rs> übersetzt wird,
                         welcher überdies kaum solche freventliche, die Zwecke des Staates und der
                         Kirche untergrabende Schritte gewagt haben würde, hätte derselbe nicht auf
                         die Gunst und den Schutz des vorgesetzten Herrn Schulrates – vermeßentlich
@@ -119,7 +118,7 @@
                         Rücksichten der religiös-sittlichen Erziehung der Jugend im Angesichte der
                         Bevölkerung dringend geboten, daß Euere Fürstbischöflichen Gnaden, als
                         Oberhirt dieses Anteils, die allsogleiche Versetzung und Entfernung dieses
-                        Lehrers von <placeName ref="#place_27f77677310f3f4e0b878e7f7f0f0dd1">Teschen</placeName> postulieren und wenn – aus
+                        Lehrers von <rs type="place" subtype="place" ref="#place_27f77677310f3f4e0b878e7f7f0f0dd1">Teschen</rs> postulieren und wenn – aus
                         persönlichen Rücksichten noch Verzögerungen eintreten sollten – aus
                         unverschiebbaren Dringlichkeitsgründen, diese systematische Revolution,
                         wegen ihrer bedeutungsvollen Tragweite für den Staat und die Kirche,
@@ -129,7 +128,7 @@
                         Fürstbischöflichen Gnaden des Seelenheiles der Hochihrem Schutze
                         anvertrauten Priester und Diöcesanen wegen, so wie aus Rücksichten für das
                         katholische Gymnasium, der einzigen Pflanzschule des diesseitigen Clerus,
-                        selbst eine Reise nach <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> unternehmen müssen; so
+                        selbst eine Reise nach <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> unternehmen müssen; so
                         mögen Sie, Hochwürdigster Fürstbischof, dieses Opfer, des erhabenen Zweckes
                         und der Zukunft wegen, im Hinblicke auf die religiös-sittliche Bildung der
                         Generation, nicht scheuen. Der Herr wird Ihnen dafür segensreich edle
@@ -159,7 +158,7 @@
                         katholischen Institute aufzulösen oder mit dem evangelischen Gymnasium in
                         Teschen zu vereinigen – ein Lehrer für Latein, welcher zugleich in der
                         katholischen Richtung erprobt ist, hieher schleunigst berufen, derselbe aber
-                        angewiesen werde, <placeName ref="#place_27f77677310f3f4e0b878e7f7f0f0dd1">Teschen</placeName> sogleich zu verlassen.
+                        angewiesen werde, <rs type="place" subtype="place" ref="#place_27f77677310f3f4e0b878e7f7f0f0dd1">Teschen</rs> sogleich zu verlassen.
                         Könnte eine solche Berufung auch für den Lehrer S., welcher eben auch Latein
                         lehrt geschehen, da derselbe in diese Angelegenheit mitverflochten ist – den
                         kein Piaristenrector wegen gleicher Zerwürfnisse in seiner Familie dulden
@@ -167,8 +166,8 @@
                         gebracht hat; – dann glaube ich, dürfte der Herd des schmachvollen
                         Zerwürfnisses, gleich hemmend für den wissenschaftlichen als
                         sittlich-religiösen Fortschritt der Jugend, für die Gegenwart gesprengt
-                        sein!<lb/>Indem die katholischen Priester <persName key="bitta-josef">Bitta</persName>, <persName key="danel-franz">Danel</persName>,
-                            <persName key="sobetzky-leopold">Sobetzky</persName> mit dem Gefertigten
+                        sein!<lb/>Indem die katholischen Priester <rs type="person" ref="bitta-josef" key="bitta-josef">Bitta</rs>, <rs type="person" ref="danel-franz" key="danel-franz">Danel</rs>,
+                            <rs type="person" ref="sobetzky-leopold" key="sobetzky-leopold">Sobetzky</rs> mit dem Gefertigten
                         ihre zur Beseitigung dieses gewiß beklagenswerten Ereignisses unerläßliche
                         Bitte Euer Fürstbischöflichen Gnaden ehrfurchtsvollst unterbreiten,
                         empfehlen sich dieselben zu weiteren Gnaden mit der Versicherung, daß sie

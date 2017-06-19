@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="kuzmany-karl" role="sender:gelehrter">Karl Kuzmány</persName>
-                    an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="kuzmany-karl" key="kuzmany-karl" role="sender:gelehrter">Karl Kuzmány</rs>
+                    an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1860-07-08">8.
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1860-07-08">8.
                         Juli 1860</date>
                 </title>
             </titleStmt>
@@ -39,7 +38,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -52,17 +51,17 @@
                 </index>
                 <p>Euere Excellenz!</p>
                 <p>Um Euere Excellenz über meine Absichten hinsichtlich meiner geschehenen Wahl zum
-                    Superintendenten der <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</placeName>
+                    Superintendenten der <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</rs>
                     Superintendenz in den gegebenen Verhältnissen und Zeitumständen auf keine Weise
                     in irgend einer Unsicherheit zu lassen, finde ich es für nothwendig, mich
                     hierüber ohne weitere Motivirung des Einzelnen kurz auszusprechen.<lb/>Ich nehme
-                    die Wahl <hi rend="ul">definitiv</hi> an, wenn es <persName key="franz-joseph">Seine Majestät</persName> geradezu befiehlt; oder aber unter folgenden
-                    Bedingungen, wenn <persName key="franz-joseph">Seine Majestät</persName> die
-                    Wahl einfach nur genehmigt:<lb/>1. Wenn <persName key="franz-joseph">Seine
-                        Majestät</persName> über die seit dem 15. Mai gegen allerhöchst Seinen
-                    deutlich ausgesprochenen Befehl vorgefallenen Beirrungen der <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</placeName> Superintendenz allerhöchst Seinen
+                    die Wahl <hi rend="ul">definitiv</hi> an, wenn es <rs type="person" ref="franz-joseph" key="franz-joseph">Seine Majestät</rs> geradezu befiehlt; oder aber unter folgenden
+                    Bedingungen, wenn <rs type="person" ref="franz-joseph" key="franz-joseph">Seine Majestät</rs> die
+                    Wahl einfach nur genehmigt:<lb/>1. Wenn <rs type="person" ref="franz-joseph" key="franz-joseph">Seine
+                        Majestät</rs> über die seit dem 15. Mai gegen allerhöchst Seinen
+                    deutlich ausgesprochenen Befehl vorgefallenen Beirrungen der <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</rs> Superintendenz allerhöchst Seinen
                     Unwillen öffentlich kund gibt und demgemäß<lb/>2. die in dem Sprengel der
-                        <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</placeName> Superintendenz seit dem
+                        <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</rs> Superintendenz seit dem
                     15. Mai zur Desorganisirung der coordinirt gewesenen Gemeinden und Seniorate
                     geschehenen Umtriebe für illegal und strafbar, die durch sie eingesetzten
                     kirchlichen Behörden und die erfolgten Desorganisationen der Gemeinden und
@@ -72,22 +71,22 @@
                     aufgeworfener kirchlichen Behörden und bestellten kirchlichen Beamten
                     strengstens verbietet; die im revolutionären Trotz verharrenden aber, nach
                     geschehener Einklage von Seite der legalen kirchlichen Behörden einer
-                    gesetzlichen Verfolgung zuweist, insbesondere:<lb/>a. den durch den <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</placeName> Pfarrer <persName key="stromszky-samuel">Sztromsky</persName> [Stromszky] auf den 12. Juli
+                    gesetzlichen Verfolgung zuweist, insbesondere:<lb/>a. den durch den <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</rs> Pfarrer <rs type="person" ref="stromszky-samuel" key="stromszky-samuel">Sztromsky</rs> [Stromszky] auf den 12. Juli
                     einberufenen Convent der gewesenen A.C. Donau-Superintendenz verbietet und
                     nöthigenfalls selbst durch Gewalt verhindert;<lb/>b. das in
-                        <placeName ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</placeName> unter dem Namen eines Centralcomités
+                        <rs type="place" subtype="place" ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</rs> unter dem Namen eines Centralcomités
                     usurpatorischer Weise aufgestellte kirchlich-revolutionäre Institut einfach und
-                    geradezu aufhebt;<lb/>c. gegen den etwa nicht gehorchenden Pfarrer <persName key="stromszky-samuel">Sztromsky</persName> und die eben so etwa nicht
+                    geradezu aufhebt;<lb/>c. gegen den etwa nicht gehorchenden Pfarrer <rs type="person" ref="stromszky-samuel" key="stromszky-samuel">Sztromsky</rs> und die eben so etwa nicht
                     gehorchen wollenden Mitglieder des Centralcomités mit gesetzmäßiger Verfolgung
-                    einschreiten läßt; endlich<lb/>d. den nach <placeName ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</placeName> auf den
+                    einschreiten läßt; endlich<lb/>d. den nach <rs type="place" subtype="place" ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</rs> auf den
                     17. Juli zusammenberufenen Convent der gewesenen Montan-Superintendenz dahin
                     bedeutet, daß dessen Beschlüsse nur dann für giltig erachtet werden würden, wenn
                     der Convent nicht unter dem Rechtstitel der gewesenen Montan-Superintendenz,
                     sondern unter dem durch das Patent vom 1. Sept. vorigen Jahres bezeichneten der
-                        <placeName key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pester</placeName> Superintendenz fungirt und in
+                        <rs type="place" subtype="place" key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pester</rs> Superintendenz fungirt und in
                     seinen Beschlüssen die durch das Patent vom 1. Sept. vorigen Jahres begränzte
-                    Superintendenz nicht beirrt. Sollte jedoch der <placeName key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pester</placeName> erwähnte Convent dies nicht beachten, so würden nach dem
-                    Befehle <persName key="franz-joseph">Seiner Majestät</persName> alle seine
+                    Superintendenz nicht beirrt. Sollte jedoch der <rs type="place" subtype="place" key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pester</rs> erwähnte Convent dies nicht beachten, so würden nach dem
+                    Befehle <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät</rs> alle seine
                     Beschlüsse für null und nichtig erklärt; gegen diejenigen aber, welche sie
                     dennoch ins Leben zu rufen wagen, sollen die Strafgesetze in aller ihrer Schärfe
                     in Anwendung kommen.<lb/>Ich nehme die Wahl <hi rend="ul">provisorisch</hi> an,
@@ -95,9 +94,9 @@
                     eingehet und dasselbe noch vor meinem Amtsantritte öffentlich kundgibt;
                     dasjenige aber, was ich oben unter a., b., c. und d. gesagt, nicht in der Lage
                     sein sollte mit ihrer Gewalt zu gewährleisten, sondern nur die Beschlüsse des
-                        <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</placeName> am 12. Juli abzuhaltenden
+                        <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</rs> am 12. Juli abzuhaltenden
                     Conventes und die des am 17. letzten Monats zu Pest abzuhaltenden, in so weit
-                    diese Schlußfassungen den Bestand der <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</placeName> Superintendenz beirren sollten zum Voraus und noch
+                    diese Schlußfassungen den Bestand der <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</rs> Superintendenz beirren sollten zum Voraus und noch
                     vor meinem Amtsantritt für null und nichtig öffentlich erklärt.<lb/>Was meine
                     persönliche Subsistenz anbelangt, so wage ich gehorsamst folgende Bitten zu
                     stellen:<lb/>1. Es geruhe das <orgName key="ministerium-fuer-kultus-und-unterricht">hohe k.k.
@@ -121,7 +120,7 @@
                     Genehmigung der letzten zwei Puncte verständigt werde. Endlich bitte ich noch,
                     daß mir bis zu der Zeit einer definitiven Regelung der Superintendenz
                     hinsichtlich ihrer Cassa (Übernahme der Cassa der bestandenen
-                    Donau-Superintendenz und Verabfinden hinsichtlich der Cassa mit der <placeName key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pester</placeName> Superintendenz) zur Aushaltung eines Secretärs
+                    Donau-Superintendenz und Verabfinden hinsichtlich der Cassa mit der <rs type="place" subtype="place" key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pester</rs> Superintendenz) zur Aushaltung eines Secretärs
                     jährlich 800 fl ÖW in monatlichen Raten zahlbar angewiesen werden.<lb/>Mich der
                     oft erfahrenen Gnade Euerer Excellenz bestens empfehlend verharre mit
                     unwandelbarer Hochachtung</p>

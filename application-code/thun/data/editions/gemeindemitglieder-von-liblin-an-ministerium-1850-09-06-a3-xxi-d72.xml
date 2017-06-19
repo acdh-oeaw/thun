@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Gemeindemitglieder von Liblin an den
                         Ministerrat<lb/>
-                    <placeName ref="#place_200d3a0659f46cd698498ba67207932a">Liblin</placeName>, <date when="1850-09-06">6.
+                    <rs type="place" subtype="place" ref="#place_200d3a0659f46cd698498ba67207932a">Liblin</rs>, <date when="1850-09-06">6.
                         September 1850</date>
                 </title>
             </titleStmt>
@@ -50,7 +49,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -61,9 +60,9 @@
                     <term>Neoabsolutismus</term>
                 </index>
                 <p>Hohes k.k. Gesammtministerium!</p>
-                <p>Vor beiläufig einem Jahre erschien der damalige <placeName key="pilsen" ref="#place_a34e0f46bbb459f556a06e299d572929">Pilsner</placeName> Herr Kreiskommissär <persName key="merkel-bernard">Ritter von Merkl</persName> [Merkel] bei dem damaligen Herrschaft Libliner
+                <p>Vor beiläufig einem Jahre erschien der damalige <rs type="place" subtype="place" key="pilsen" ref="#place_a34e0f46bbb459f556a06e299d572929">Pilsner</rs> Herr Kreiskommissär <rs type="person" ref="merkel-bernard" key="merkel-bernard">Ritter von Merkl</rs> [Merkel] bei dem damaligen Herrschaft Libliner
                     Amte, berief die Ortsrichter mehrerer Gemeinden, welche zur ehemaligen
-                    Herrschaft <placeName ref="#place_200d3a0659f46cd698498ba67207932a">Liblin</placeName> gehörten, zusammen; machte ihnen
+                    Herrschaft <rs type="place" subtype="place" ref="#place_200d3a0659f46cd698498ba67207932a">Liblin</rs> gehörten, zusammen; machte ihnen
                     bekannt, aus welchen Ortschaften und alten Gemeinden die neuen großen Gemeinden
                     zusammengesetzt werden sollten und forderte die Richter auf, ihr Einverständnis
                     mit dieser Zusammensetzung oder ihre etwaigen anderweitigen Wünsche anzugeben.
@@ -87,32 +86,32 @@
                     daß zwar jede der alten Gemeinden am liebsten für sich allein bliebe, daß sie
                     aber mit dem ihnen bekannt gegebenen Vorschlage einverstanden seien, wenn ihr
                     obiger Wunsch nicht erfüllt werden könnte. So viel wir uns erinnern, war damals
-                    darauf angetragen, daß die Ortschaften: <placeName ref="#place_200d3a0659f46cd698498ba67207932a">Liblin</placeName> – Libstein
-                        [<placeName ref="#place_0b2950da137a57c3c4e35298274ef639">Liebstein</placeName>] – <placeName ref="#place_5db3c7329778b64f4e4c5954834568c3">Bujesil</placeName> –
-                        <placeName ref="#place_6faa88e37e50360390808da2d8e2eebb">Wrch</placeName> – <placeName ref="#place_927ab7134c95b933c10dd253b1cd410b">Lhotka</placeName> –
-                        <placeName ref="#place_9bb58cc73b1890af5bd4a0edf920fb25">Kockow</placeName> – der ehemaligen Herrschaft
-                        <placeName ref="#place_200d3a0659f46cd698498ba67207932a">Liblin</placeName> und die Ortschaften:
-                        <placeName ref="#place_1fa06aa76cd7fc7754a96abd7d333df1">Rakolaus</placeName> – <placeName ref="#place_46a01162109763b003c34c5db44f3dff">Rohy</placeName> –
-                        <placeName ref="#place_2e374d88fed27256031648ac7e3fcfeb">Kraschau</placeName> – <placeName ref="#place_28d8f1888ec7d791fbafe9f568b1923b">Brodeslad</placeName> –
-                        <placeName ref="#place_6e7f1b720c7f2283a88eeba35a940f95">Kozojed</placeName> – <placeName ref="#place_4a325ef7f6cae9b7faac7b5cf6cc2708">Borek</placeName> – Wschrd
-                        [<placeName key="vsehrdy" ref="#place_68f2096e334510b63d4433ced4f4e480">Všehrdy</placeName>] –
-                        <placeName ref="#place_bcfe66ba37b1a58e8421928d11600436">Lednitz</placeName> – <placeName ref="#place_b0dfe294f5f1448875d017a903b777ae">Unterhradischt</placeName> – der
-                    ehemaligen Herrschaft <placeName key="plass" ref="#place_4301875630bc997edf491c694ae1f8a9">Plaß</placeName> – zusammen eine
+                    darauf angetragen, daß die Ortschaften: <rs type="place" subtype="place" ref="#place_200d3a0659f46cd698498ba67207932a">Liblin</rs> – Libstein
+                        [<rs type="place" subtype="place" ref="#place_0b2950da137a57c3c4e35298274ef639">Liebstein</rs>] – <rs type="place" subtype="place" ref="#place_5db3c7329778b64f4e4c5954834568c3">Bujesil</rs> –
+                        <rs type="place" subtype="place" ref="#place_6faa88e37e50360390808da2d8e2eebb">Wrch</rs> – <rs type="place" subtype="place" ref="#place_927ab7134c95b933c10dd253b1cd410b">Lhotka</rs> –
+                        <rs type="place" subtype="place" ref="#place_9bb58cc73b1890af5bd4a0edf920fb25">Kockow</rs> – der ehemaligen Herrschaft
+                        <rs type="place" subtype="place" ref="#place_200d3a0659f46cd698498ba67207932a">Liblin</rs> und die Ortschaften:
+                        <rs type="place" subtype="place" ref="#place_1fa06aa76cd7fc7754a96abd7d333df1">Rakolaus</rs> – <rs type="place" subtype="place" ref="#place_46a01162109763b003c34c5db44f3dff">Rohy</rs> –
+                        <rs type="place" subtype="place" ref="#place_2e374d88fed27256031648ac7e3fcfeb">Kraschau</rs> – <rs type="place" subtype="place" ref="#place_28d8f1888ec7d791fbafe9f568b1923b">Brodeslad</rs> –
+                        <rs type="place" subtype="place" ref="#place_6e7f1b720c7f2283a88eeba35a940f95">Kozojed</rs> – <rs type="place" subtype="place" ref="#place_4a325ef7f6cae9b7faac7b5cf6cc2708">Borek</rs> – Wschrd
+                        [<rs type="place" subtype="place" key="vsehrdy" ref="#place_68f2096e334510b63d4433ced4f4e480">Všehrdy</rs>] –
+                        <rs type="place" subtype="place" ref="#place_bcfe66ba37b1a58e8421928d11600436">Lednitz</rs> – <rs type="place" subtype="place" ref="#place_b0dfe294f5f1448875d017a903b777ae">Unterhradischt</rs> – der
+                    ehemaligen Herrschaft <rs type="place" subtype="place" key="plass" ref="#place_4301875630bc997edf491c694ae1f8a9">Plaß</rs> – zusammen eine
                     neue Gemeinde bilden sollen, welche einen Grundbesitz von 9.125 Joch haben und
                     2.759 Seelen zählen würde.<lb/>Unterm 15. September vorigen Jahres erschien auch
-                    der von dem damaligen <placeName key="pilsen" ref="#place_a34e0f46bbb459f556a06e299d572929">Pilsner</placeName> Herrn
-                    Kreishauptmann <persName key="fortwaengler-casimir">Fortwängler</persName>
+                    der von dem damaligen <rs type="place" subtype="place" key="pilsen" ref="#place_a34e0f46bbb459f556a06e299d572929">Pilsner</rs> Herrn
+                    Kreishauptmann <rs type="person" ref="fortwaengler-casimir" key="fortwaengler-casimir">Fortwängler</rs>
                     unterschriebene Ausweis über die zusammengesetzten selbstständigen Gemeinden des
-                        <placeName key="pilsen" ref="#place_a34e0f46bbb459f556a06e299d572929">Pilsner</placeName> Kreises und in diesem Ausweise
-                    war die Gemeinde „<placeName ref="#place_200d3a0659f46cd698498ba67207932a">Liblin</placeName>“ oder
-                        „<placeName ref="#place_6e7f1b720c7f2283a88eeba35a940f95">Kozojed</placeName>“ thatsächlich so aufgeführt, wie wir es oben
+                        <rs type="place" subtype="place" key="pilsen" ref="#place_a34e0f46bbb459f556a06e299d572929">Pilsner</rs> Kreises und in diesem Ausweise
+                    war die Gemeinde „<rs type="place" subtype="place" ref="#place_200d3a0659f46cd698498ba67207932a">Liblin</rs>“ oder
+                        „<rs type="place" subtype="place" ref="#place_6e7f1b720c7f2283a88eeba35a940f95">Kozojed</rs>“ thatsächlich so aufgeführt, wie wir es oben
                     angegeben haben. Von diesem Zeitpunkte an haben wir über die Konstituirung der
                     neuen Gemeinde nichts mehr gehört, bis wir im Anfange des heurigen Prüfjahres
-                    zur Bezirkshauptmannschaft nach <placeName ref="#place_6ca0ddda635b8945070e68b07f4a1814">Kralowitz</placeName> vorgerufen und
+                    zur Bezirkshauptmannschaft nach <rs type="place" subtype="place" ref="#place_6ca0ddda635b8945070e68b07f4a1814">Kralowitz</rs> vorgerufen und
                     uns dort bekannt gemacht wurde, daß sich die Gemeinde
-                        <placeName ref="#place_200d3a0659f46cd698498ba67207932a">Liblin</placeName> aus den Ortschaften <placeName key="ober-und-unterliblin" ref="#place_21f89e0ac5af34ae0230ae853e30e9b8">Ober- und Unterliblin</placeName>,
-                        <placeName ref="#place_5db3c7329778b64f4e4c5954834568c3">Bujesil</placeName>, <placeName ref="#place_927ab7134c95b933c10dd253b1cd410b">Lhotka</placeName> und
-                        <placeName ref="#place_17899a91b93211aedea375d74dd16717">Kotzkow</placeName> zu konstiuiren und unsere Richter die
+                        <rs type="place" subtype="place" ref="#place_200d3a0659f46cd698498ba67207932a">Liblin</rs> aus den Ortschaften <rs type="place" subtype="place" key="ober-und-unterliblin" ref="#place_21f89e0ac5af34ae0230ae853e30e9b8">Ober- und Unterliblin</rs>,
+                        <rs type="place" subtype="place" ref="#place_5db3c7329778b64f4e4c5954834568c3">Bujesil</rs>, <rs type="place" subtype="place" ref="#place_927ab7134c95b933c10dd253b1cd410b">Lhotka</rs> und
+                        <rs type="place" subtype="place" ref="#place_17899a91b93211aedea375d74dd16717">Kotzkow</rs> zu konstiuiren und unsere Richter die
                     Ausweise über alle jene, welche nicht unter 1 fl CM Steuer zahlen, einzusenden
                     haben. <lb/>Von den meisten Anwesenden wurde wieder verlautet, daß es am besten
                     wäre, wenn jede Gemeinde für sich selbstständig bliebe; jedoch wurde gegen die
@@ -132,19 +131,19 @@
                     ersten noch die Möglichkeit biethen können, aus diesem Wirrnis bald
                     herauszukommen und seinen verderblichen Folgen möglichst vorzubeugen.<lb/>Ad
                     A.<lb/>1. Sämmtliche Gemeindeglieder der alten Gemeinden
-                        <placeName ref="#place_200d3a0659f46cd698498ba67207932a">Liblin</placeName>, mit Ausnahme des Herrn <persName key="wurmbrand-stuppach-johann-wilhelm">Grafen Wurmbrand</persName>, zahlen
+                        <rs type="place" subtype="place" ref="#place_200d3a0659f46cd698498ba67207932a">Liblin</rs>, mit Ausnahme des Herrn <rs type="person" ref="wurmbrand-stuppach-johann-wilhelm" key="wurmbrand-stuppach-johann-wilhelm">Grafen Wurmbrand</rs>, zahlen
                     270 fl 27 kr Haus-, Grund- und Erwerbsteuer und besitzen 209 Joch 1.275
-                    Quadratklafter. Die frühere Obrigkeit, das jetzige Gemeindeglied Herr <persName key="wurmbrand-stuppach-johann-wilhelm">Wilhelm Graf Wurmbrand</persName>,
+                    Quadratklafter. Die frühere Obrigkeit, das jetzige Gemeindeglied Herr <rs type="person" ref="wurmbrand-stuppach-johann-wilhelm" key="wurmbrand-stuppach-johann-wilhelm">Wilhelm Graf Wurmbrand</rs>,
                     zahlt aber allein 444 fl 4 kr und besitzt 876 Joch 1.385 Quadratklafter. Hat er
                     im Ausschuße nicht mehr zu sagen als ein Ausschußmitglied von uns (wenn
-                        <placeName ref="#place_200d3a0659f46cd698498ba67207932a">Liblin</placeName> nämlich in der Größe der früheren Gemeinde
+                        <rs type="place" subtype="place" ref="#place_200d3a0659f46cd698498ba67207932a">Liblin</rs> nämlich in der Größe der früheren Gemeinde
                     bleibt), so muß er zu allen Einrichtungen, die es uns zu treffen, zu allen
                     Zahlungen, die es uns auszuschreiben beliebt, 2/3 zahlen, wenn er auch für seine
                     Person nicht den mindesten Nutzen, ja vielleicht noch Unannehmlichkeit und
                     Schaden davon hat; und wenn wir ihn nicht zum Ausschußmitgliede gewählt hätten,
                     so wäre er im Ausschuße gar nicht vertreten. Wir müßten Räuber sein, um uns ein
                     solches Verhältnis zu ihm zu wünschen und wir müßten Narren sein, um zu glauben,
-                    daß ein solches Verhältnis Bestand haben könne. Würde aber des Herrn <persName key="wurmbrand-stuppach-johann-wilhelm">Grafen</persName> Stimme in dem
+                    daß ein solches Verhältnis Bestand haben könne. Würde aber des Herrn <rs type="person" ref="wurmbrand-stuppach-johann-wilhelm" key="wurmbrand-stuppach-johann-wilhelm">Grafen</rs> Stimme in dem
                     Verhältnisse ins Gewicht fallen, in welchem Verhältnisse seine Steuer und sein
                     Grund zu unserer Steuer und zu unserem Grunde stehen, so würde er im
                     Gemeinderathe unser absoluter Herr werden; denn er hätte dann für seine Meinung
@@ -152,10 +151,10 @@
                     Stimmen.<lb/>Das eine ist so ungerecht und unbillig wie das andere; beides aber
                     liegt in der Zuweisung einzelner großer Grundbesitzer zu kleinen Gemeinden. Bei
                     mittleren Gemeinden ist das Verhältnis etwas, aber nicht viel besser.<lb/>Bei
-                    der Gemeinde <placeName ref="#place_200d3a0659f46cd698498ba67207932a">Liblin</placeName>, wie sie am 20. vorigen Monat
+                    der Gemeinde <rs type="place" subtype="place" ref="#place_200d3a0659f46cd698498ba67207932a">Liblin</rs>, wie sie am 20. vorigen Monat
                     konstituirt wurde, und die eine solche mittelgroße Gemeinde wäre, entfallen auf
-                    Herrn <persName key="wurmbrand-stuppach-johann-wilhelm">Grafen
-                        Wurmbrand</persName> 523 fl 3 kr, an die übrigen Gemeindeglieder 1.070 fl 34
+                    Herrn <rs type="person" ref="wurmbrand-stuppach-johann-wilhelm" key="wurmbrand-stuppach-johann-wilhelm">Grafen
+                        Wurmbrand</rs> 523 fl 3 kr, an die übrigen Gemeindeglieder 1.070 fl 34
                     1/2 kr an Steuer. Er hat also als Gemeindebürger nur 1/96, als Ausschuß nur 1/8
                     Recht; von der Pflicht aber hat er ein Drittheil. Diese Unbilligkeit kann nur
                     bei sehr großen Gemeinden und da nur theilweise ausgeglichen werden; bei
@@ -207,8 +206,8 @@
                     Gemeinden ist die Zwietracht und Eifersucht, welche zwischen den verschiedenen
                     Ortschaften bei jedem Anlasse entstehet, wie ein Waldstrom von Tag zu Tag
                     anschwillt und endlich im bittern Haß ausarten würde. Durch Jahrhunderte leben
-                    die Ortschaften <placeName ref="#place_200d3a0659f46cd698498ba67207932a">Liblin</placeName>, <placeName ref="#place_5db3c7329778b64f4e4c5954834568c3">Bujesil</placeName>
-                    und <placeName ref="#place_927ab7134c95b933c10dd253b1cd410b">Lhotka</placeName> in Friede und Eintracht; seit der Zeit aber,
+                    die Ortschaften <rs type="place" subtype="place" ref="#place_200d3a0659f46cd698498ba67207932a">Liblin</rs>, <rs type="place" subtype="place" ref="#place_5db3c7329778b64f4e4c5954834568c3">Bujesil</rs>
+                    und <rs type="place" subtype="place" ref="#place_927ab7134c95b933c10dd253b1cd410b">Lhotka</rs> in Friede und Eintracht; seit der Zeit aber,
                     als ihnen bekannt gegeben wurde, daß sie eine Gemeinde bilden und unter dem
                     Namen „Vorstand“ thatsächlich doch einen und denselben Richter haben müssen,
                     was, man möge hierüber noch so schöne Worte von Brüderlichkeit usw. machen,
@@ -300,7 +299,7 @@
                         sein und diese im Allgemeinen begründen.</note>
                     <lb/>Unsere Bitte
                     ist:<lb/>„Das hohe Ministerium wolle anordnen, daß die zwei Ortschaften
-                        <placeName ref="#place_200d3a0659f46cd698498ba67207932a">Liblin</placeName> und <placeName ref="#place_5db3c7329778b64f4e4c5954834568c3">Bujesil</placeName>, welche bis
+                        <rs type="place" subtype="place" ref="#place_200d3a0659f46cd698498ba67207932a">Liblin</rs> und <rs type="place" subtype="place" ref="#place_5db3c7329778b64f4e4c5954834568c3">Bujesil</rs>, welche bis
                     jetzt eine und dieselbe Katastralgemeinde bilden, sich als zwei selbstständige
                     Gemeinden konstituiren können.“<lb/>Die Gründe, welche wir zur Bekräftigung
                     dieser Bitte noch insbesondere anführen, sind:<note xml:id="note_4">An dieser
@@ -311,7 +310,7 @@
                     wie unsere Äußerung, wir seien einfache Landleute dadurch nicht Lügen gestraft
                     wird, daß wir eine Bittschrift einsenden, die so einfache Leute als wir zu sein
                     behaupten, nicht leicht hätten verfassen können. Sie ist auch nicht von uns
-                    selbst, sondern vom Herrn <persName key="wurmbrand-stuppach-johann-wilhelm">Wilh[elm] Grafen Wurmbrand</persName> verfaßt worden. Nachdem er sich bei
+                    selbst, sondern vom Herrn <rs type="person" ref="wurmbrand-stuppach-johann-wilhelm" key="wurmbrand-stuppach-johann-wilhelm">Wilh[elm] Grafen Wurmbrand</rs> verfaßt worden. Nachdem er sich bei
                     der ganzen Gemeindekonstituirung und dem Wahlakte vollkommen neutral verhalten
                     hatte und dies ferner auch in allem, was die Zusammensetzung und Wahl anbelangt,
                     thun wollte, hat er unsern dringenden Bitten und unserer Vorstellung, daß wir

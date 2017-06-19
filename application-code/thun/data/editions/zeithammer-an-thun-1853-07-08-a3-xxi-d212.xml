@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="zeithammer-gregor" role="sender:beamter">Gregor
-                        Zeithammer</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="zeithammer-gregor" key="zeithammer-gregor" role="sender:beamter">Gregor
+                        Zeithammer</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, <date when="1853-07-08">8. Juli 1853</date>
+                    <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1853-07-08">8. Juli 1853</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -52,7 +51,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -65,25 +64,25 @@
                 </index>
                 <p>Euere Excellenz!</p>
                 <p>Der hohe Erlaß vom 27. Juni letzten Jahres Z. 6086 lautet für das <orgName key="gymnasium-altstadt">Altstädter Gymnasium</orgName> ungünstiger, als ich
-                    es erwartete, umso ungünstiger, da die beiden andern <placeName key="prag" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prager</placeName> Gymnasien belobt werden, und doch hat das <orgName key="gymnasium-altstadt">Altstädter</orgName> ebenso tüchtige, wenn nicht
+                    es erwartete, umso ungünstiger, da die beiden andern <rs type="place" subtype="place" key="prag" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prager</rs> Gymnasien belobt werden, und doch hat das <orgName key="gymnasium-altstadt">Altstädter</orgName> ebenso tüchtige, wenn nicht
                     tüchtigere Kräfte, die im Ganzen das Angemessene leisten. Daß die Leistungen der
                     Schüler im Deutschen geringer waren, liegt mehr in dem dieser Lehranstalt
                     gegebenen Plane, sie müßten auch in den andern Gegenständen hie und da,
-                    namentlich im Untergymnasium, geringer erscheinen, da der Herr <persName key="kleemann-johann">Sectionsrath</persName> durchgehend deutsch prüfte,
+                    namentlich im Untergymnasium, geringer erscheinen, da der Herr <rs type="person" ref="kleemann-johann" key="kleemann-johann">Sectionsrath</rs> durchgehend deutsch prüfte,
                     obwohl ich ihn ein- und das andermal erinnerte, daß der Gegenstand böhmisch
                     vorgetragen wird. Manche Beschuldigungen, die den Lehrern gemacht werden, sind
-                    nicht erwiesen; dann hat der Herr <persName key="kleemann-johann">Sectionsrath</persName> keinen vortragen, die wenigsten examiniren gehört,
-                    den <persName key="svoboda-wenzel">Swoboda</persName> gar nicht und <persName key="frencl-innozenz">Frencls</persName> Vortrag ist eher zu lebhaft als
+                    nicht erwiesen; dann hat der Herr <rs type="person" ref="kleemann-johann" key="kleemann-johann">Sectionsrath</rs> keinen vortragen, die wenigsten examiniren gehört,
+                    den <rs type="person" ref="svoboda-wenzel" key="svoboda-wenzel">Swoboda</rs> gar nicht und <rs type="person" ref="frencl-innozenz" key="frencl-innozenz">Frencls</rs> Vortrag ist eher zu lebhaft als
                     matt und schläfrig. Gegen die Versetzung oder gar Entlassung der Lehrer ohne
                     formulirte Anklage, ohne förmliche Untersuchung und Verurtheilung sträubt sich
-                    mein ganzes Gefühl. <persName key="klicpera-vaclav-kliment">Klicpera</persName>
+                    mein ganzes Gefühl. <rs type="person" ref="klicpera-vaclav-kliment" key="klicpera-vaclav-kliment">Klicpera</rs>
                     ist wegen seiner fortdauernden Kränklichkeit reif zur Pensionirung, um die er
                     aber vielleicht selbst anzusuchen hätte, damit sie nicht einer Absetzung
-                    gleichsähe. Was sich gegen <persName key="stulc-vaclav">Stulc</persName> in der
+                    gleichsähe. Was sich gegen <rs type="person" ref="stulc-vaclav" key="stulc-vaclav">Stulc</rs> in der
                     Untersuchung wegen der Zeitschriften oder am Hradschin ergeben wird, weiß ich
-                    nicht, der Herr <persName key="mecsery-von-tsoor-karl">Statthalter</persName>
-                    und <persName key="klingler-joseph">Klingler</persName> ist sehr gegen ihn. Die
-                    Anzeige wegen <persName key="pecirka-josef">Pečirkas</persName> Erfahrung in
+                    nicht, der Herr <rs type="person" ref="mecsery-von-tsoor-karl" key="mecsery-von-tsoor-karl">Statthalter</rs>
+                    und <rs type="person" ref="klingler-joseph" key="klingler-joseph">Klingler</rs> ist sehr gegen ihn. Die
+                    Anzeige wegen <rs type="person" ref="pecirka-josef" key="pecirka-josef">Pečirkas</rs> Erfahrung in
                     einer Classe und der daraus erfolgten Ausweisung eines Schülers stellt er selbst
                     in Abrede. Auch die Angabe ist falsch, daß mit den Primanern auf der <orgName key="gymnasium-altstadt">Altstadt</orgName> keine Aufnahmsprüfung
                     vorgenommen worden; sie erhielten 3 deutsche Sätze zum Übersetzen ins Böhmische
@@ -118,13 +117,13 @@
                     in Bezug auf die noch übrigen Gymnasien bereits abgegeben, da ich am 10. schon
                     zu den Maturitätsprüfungen abreise, welche bis zum letzten des Monats währen.
                     Wie verlautet, kommen Eure Excellenz anfangs August nach
-                        <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>; eine Besprechung über manche wichtige
+                        <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>; eine Besprechung über manche wichtige
                     Gegenstände wäre mir da sehr erwünscht, und jetzt schon mache ich aufmerksam auf
                     die definitive Regelung der provisorischen Gymnasien, auf das Supplentenunwesen,
                     auf die Maturitätsprüfungen nach dem 1. Semester, auf die
                     Lehramtscandidatenprüfungen, auf die in Aussicht gestellten Versetzungen und
-                    Pensionirungen, bei welcher Gelegenheit ich hinweise auf den braven <persName key="padera-joseph">Padera</persName> in <placeName key="koeniggraetz" ref="#place_b19bff5a3b79c0971a99eefa36cc1670">Königgrätz</placeName>, welcher der rechte Mann wäre für den <orgName key="gymnasium-altstadt">Altstädter</orgName> Directorsposten. Bei dem
-                    letzten Examen waren wenige neue Lehramtscandidaten, für <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</region> nur 7, die meisten vervollständigten ihre Gegenstände fürs
+                    Pensionirungen, bei welcher Gelegenheit ich hinweise auf den braven <rs type="person" ref="padera-joseph" key="padera-joseph">Padera</rs> in <rs type="place" subtype="place" key="koeniggraetz" ref="#place_b19bff5a3b79c0971a99eefa36cc1670">Königgrätz</rs>, welcher der rechte Mann wäre für den <orgName key="gymnasium-altstadt">Altstädter</orgName> Directorsposten. Bei dem
+                    letzten Examen waren wenige neue Lehramtscandidaten, für <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> nur 7, die meisten vervollständigten ihre Gegenstände fürs
                     Obergymnasium, im Ganzen ging es besser als früher.<lb/>Indem ich mich mit
                     meinen freimüthigen Äußerungen und mit meiner ergebensten Bitte an Eurer
                     Excellenz Edelmuth wende, habe ich die Ehre, mit der größten Ehrerbietung und
@@ -134,11 +133,11 @@
                 <p>Prag, am 8. Juli 1853</p>
                 <div type="enclosure" xml:id="D212_1">
                     <p>
-                        <hi rend="ul">Vom k.k. <placeName key="prag" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prager</placeName>
+                        <hi rend="ul">Vom k.k. <rs type="place" subtype="place" key="prag" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prager</rs>
                             <orgName key="gymnasium-altstadt">Altstädter akademischen
                                 Gymnasium</orgName> N. 627</hi>
                     </p>
-                    <p>Namen der am k.k. <placeName key="prag" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prager</placeName>
+                    <p>Namen der am k.k. <rs type="place" subtype="place" key="prag" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prager</rs>
                         <orgName key="gymnasium-altstadt">Altstädter Gymnasium</orgName> für das
                         Schuljahr 1852 <hi rend="ul">neu</hi> aufgenommenen Schüler, sammt den
                         Gründen der Aufnahme.</p>

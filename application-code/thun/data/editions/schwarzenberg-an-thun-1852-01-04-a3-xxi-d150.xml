@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="schwarzenberg-felix" role="sender:beamter">Felix
-                        Schwarzenberg</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="schwarzenberg-felix" key="schwarzenberg-felix" role="sender:beamter">Felix
+                        Schwarzenberg</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1852-01-04">4. Januar 1852</date>
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1852-01-04">4. Januar 1852</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -51,7 +50,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -63,11 +62,11 @@
                     <term>Verfassung</term>
                 </index>
                 <p>In Folge Allerhöchsten Handschreibens vom 31. vorigen Monats habe ich die Ehre
-                    Euerer Exzellenz in der Beilage die von <persName key="franz-joseph">Seiner
-                        Majestät dem Kaiser</persName> nach Anhörung des Minister- und Reichsrathes
+                    Euerer Exzellenz in der Beilage die von <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner
+                        Majestät dem Kaiser</rs> nach Anhörung des Minister- und Reichsrathes
                     in den zunächst wichtigsten und dringendsten Richtungen der organischen
                     Gesetzgebung festgestellten Grundsätze mit der Bemerkung zu übermitteln, daß die
-                    Resultate der sich auf die Ausführung beziehenden Arbeiten <persName key="franz-joseph">Seiner k.k. Apostolischen Majestät</persName> vorzulegen
+                    Resultate der sich auf die Ausführung beziehenden Arbeiten <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner k.k. Apostolischen Majestät</rs> vorzulegen
                     seyn werden.</p>
                 <p>Wien, am 4. Jänner [1]852</p>
                 <p>F. Schwarzenberg</p>
@@ -148,7 +147,7 @@
                         Gewerbsbetriebe aber in dem Verhältnisse zu dem Gesammtgrundbesitze, in den
                         Stadtgemeinden insbesondere dem Hausbesitze – dann so viel möglich den
                         Korporazionen für geistige und materielle Zwecke das entscheidende
-                        Übergewicht gesichert werde.<lb/>Im <country key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">Lombardisch-Venezianischen Königreiche</country> ist die daselbst
+                        Übergewicht gesichert werde.<lb/>Im <rs type="place" subtype="country" key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">Lombardisch-Venezianischen Königreiche</rs> ist die daselbst
                         bestehende Gemeindeordnung mit dem Vorbehalte allfälliger durch Erfahrung
                         hervorgerufener Verbesserungen aufrecht zu erhalten.<lb/>17. Das Richteramt
                         wird im ganzen Reiche von den dazu bestellten Behörden und Gerichten nach
@@ -159,7 +158,7 @@
                         nach den für die Staatsbeamten bestehenden Vorschriften zu behandeln.
                         <lb/>19. Die Trennung der Justizpflege von den Verwaltungsbehörden soll bei
                         den Justizkollegialgerichten, dann den 2. und 3. Instanzen allgemein, bei
-                        den 1. Instanzen aber im <country key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">Lombardisch-Venezianischen Königreiche</country> und dort, wo es als
+                        den 1. Instanzen aber im <rs type="place" subtype="country" key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">Lombardisch-Venezianischen Königreiche</rs> und dort, wo es als
                         unerläßlich anerkannt wird, statt finden.<lb/>Sonst ist bei den
                         Einzelngerichten als 1. Instanzen die Vereinigung mit der Verwaltung im
                         Bezirksamte anzunehmen.<lb/>In der inneren Einrichtung dieser Bezirksämter

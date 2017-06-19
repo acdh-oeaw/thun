@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="hingenau-otto" role="sender:gelehrter">Otto
-                        Hingenau</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="hingenau-otto" key="hingenau-otto" role="sender:gelehrter">Otto
+                        Hingenau</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>o. O., <date when="1860-05-11">11. Mai
                     1860</date>
                 </title>
@@ -37,7 +36,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -54,25 +53,25 @@
                     die Arbeiten des Laboratoriums der <orgName key="geologische-reichsanstalt">Anstalt</orgName> enthält.<lb/>Zugleich kann ich nicht umhin zu bemerken,
                     daß wenn man schon <hi rend="ul">sparen</hi> will, die Benützung der <orgName key="geologische-reichsanstalt">geologischen Reichsanstalt</orgName> als
                     Vorbereitungsschule für den Bergbau – als eine Art Bergakademie jetzt nahe läge;
-                    man könnte in <placeName ref="#place_792be515410368f1ac3c6e58ea01814c">Schemnitz</placeName> und
-                        <placeName ref="#place_2afe09ea9df3cd3ebecd5963ff467916">Pribram</placeName> und <placeName ref="#place_11d0d59cb52c192443c5c21e0bc5c201">Leoben</placeName> allenfalls
+                    man könnte in <rs type="place" subtype="place" ref="#place_792be515410368f1ac3c6e58ea01814c">Schemnitz</rs> und
+                        <rs type="place" subtype="place" ref="#place_2afe09ea9df3cd3ebecd5963ff467916">Pribram</rs> und <rs type="place" subtype="place" ref="#place_11d0d59cb52c192443c5c21e0bc5c201">Leoben</rs> allenfalls
                         <hi rend="ul">einen praktischen</hi> Curs als Schluß der Ausbildung lassen;
-                    jeder der Hauptmitglieder der <orgName key="geologische-reichsanstalt">Reichsanstalt</orgName> Hauer (beide, der <persName key="hauer-franz">Bergrath</persName> und der <persName key="hauer-karl">Chemiker</persName>), <persName key="foetterle-franz">Fötterle</persName>,
-                        <persName key="stur-dionys">Stur</persName> u. a. sind vollkommen zu
-                    Vorträgen befähigt (<persName key="stur-dionys">Stur</persName> nebenbei sehr
+                    jeder der Hauptmitglieder der <orgName key="geologische-reichsanstalt">Reichsanstalt</orgName> Hauer (beide, der <rs type="person" ref="hauer-franz" key="hauer-franz">Bergrath</rs> und der <rs type="person" ref="hauer-karl" key="hauer-karl">Chemiker</rs>), <rs type="person" ref="foetterle-franz" key="foetterle-franz">Fötterle</rs>,
+                        <rs type="person" ref="stur-dionys" key="stur-dionys">Stur</rs> u. a. sind vollkommen zu
+                    Vorträgen befähigt (<rs type="person" ref="stur-dionys" key="stur-dionys">Stur</rs> nebenbei sehr
                     guter Botaniker, wäre überhaupt ein guter Professor zumal er auch <hi rend="ul">slavisch</hi> vortragen kann, wo es nöthig wäre) – die mechanischen und
                     mathematischen Fächer am Polytechnikum, Bergrecht und Nationalökonomie durch <hi rend="ul">mich</hi> versehen, hätte man die 3 ersten Jahre der
-                    bergmännischen Ausbildung in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, für die geologischen
+                    bergmännischen Ausbildung in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, für die geologischen
                     Aufnamen etwa July, August und September jährlich und gar nicht einmal die
                     Hälfte der Kosten, welche jetzt die Vorbereitung und jene Fächer an der
                     Bergakademie kosten, welche nicht nothwendig am Bergwerk studirt oder geübt zu
-                    werden pflegen. In <placeName ref="#place_e1130816453e2a8a5b851e933ee2d142">
+                    werden pflegen. In <rs type="place" subtype="place" ref="#place_e1130816453e2a8a5b851e933ee2d142">
                         <hi rend="ul">Berlin</hi>
-                    </placeName> macht man
-                    etwas Ähnliches, in <placeName ref="#place_59ead8d1e124ccfb79f3ace06f43e703">London</placeName>
-                    <hi rend="ul">hat</hi> man es länger schon gethan; in <placeName ref="#place_62821493278bf116dc56484583d33d98">
+                    </rs> macht man
+                    etwas Ähnliches, in <rs type="place" subtype="place" ref="#place_59ead8d1e124ccfb79f3ace06f43e703">London</rs>
+                    <hi rend="ul">hat</hi> man es länger schon gethan; in <rs type="place" subtype="place" ref="#place_62821493278bf116dc56484583d33d98">
                         <hi rend="ul">Paris</hi>
-                    </placeName> ist die geologische Aufname mit der École
+                    </rs> ist die geologische Aufname mit der École
                     centrale des Mines vereinigt!<lb/>Es wäre nur von Anregung, um der
                     Unausführbarkeit einer administrativen Function der <orgName key="akademie-der-wissenschaften">Academie</orgName> vielleicht
                     zuvorzukommen und ein Fiasco zu vermeiden.</p>

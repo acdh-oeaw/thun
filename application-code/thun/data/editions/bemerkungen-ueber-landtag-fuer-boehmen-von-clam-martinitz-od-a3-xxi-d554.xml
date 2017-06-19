@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,7 +42,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -68,7 +67,7 @@
                         Wahlberechtigung</hi> muß im Allgemeinen ebenfalls auf denselben Kreis
                     beschränkt bleiben. Da es aber eine sehr wichtige Auffassung ist, daß die
                     unentbehrliche Lebensbedingung jedes wahren Selfgovernements in der Betheiligung
-                    der höheren und mittleren Stände an der Selbstverwaltung liegt (was <persName key="gneist-rudolf">Gneist</persName> in seinem Buch über die englische
+                    der höheren und mittleren Stände an der Selbstverwaltung liegt (was <rs type="person" ref="gneist-rudolf" key="gneist-rudolf">Gneist</rs> in seinem Buch über die englische
                     Communalverfassung sehr gut entwickelt <note xml:id="note_3">Vgl. Rudolf Gneist,
                         Die heutige englische Kommunalverfassung und Kommunalverwaltung oder das
                         System des Selfgovernment in seiner heutigen Gestalt, Berlin 1860.</note>
@@ -106,8 +105,8 @@
                     und geistlichen Genossenschaften mit Curiatstimmen zu berufen und diesen der
                     Rektor der Universität und da und dort vielleicht die Superintendenten
                     beizufügen wären, so habe ich wohl alle Elemente zusammengefasst, aus welchen in
-                    jeder Provinz – <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country>, <region ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</region> und
-                        <country ref="#place_389962c9dec540ab28d04517e82c3996">Italien</country> ausgenommen – der Landtag zu bilden sein wird.
+                    jeder Provinz – <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs> und
+                        <rs type="place" subtype="country" ref="#place_389962c9dec540ab28d04517e82c3996">Italien</rs> ausgenommen – der Landtag zu bilden sein wird.
                     Die eigentliche detaillirte Construction hängt für jedes Land von den positiven
                     Zahlenverhältnissen ab, die mir nicht zu Gebote stehen: sie ist aber noch mehr
                     von der Vorfrage bedingt, ob man die Vertreter aller Stände in Eine Versammlung
@@ -123,7 +122,7 @@
                     nach links sich neigen. Bei <hi rend="ul">Einer Versammlung</hi> kömmt auch das
                     zu bedenken, daß nothwendigerweise die Zahl der Vertreter der einzelnen Stände
                     eine wesentlich beschränkte sein muß, um nicht ganz unlenkbare Massen zusammen
-                    zu bringen. In einem großen Lande wie <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</region>
+                    zu bringen. In einem großen Lande wie <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs>
                     würde dadurch die Theilnahme an dem Landtag für die einzelnen Stände und Gruppen
                     nahezu illusorisch. Wenn aus jedem Kreis z. B. zwei Gutsbesitzer im Landtag
                     sitzen – und mehr könnten bei Einer Versammlung kaum berufen werden –, so muß
@@ -158,7 +157,7 @@
                     macht und endlich sehr leicht ein Zahlenverhältnis von 3 zu 1 zu Ungunsten der
                     konservativen Interessen herstellen kann. Ich neige daher auch wieder <hi rend="ul">mit Entschiedenheit zu einer Theilung in zwei Curien</hi>
                     hin.<lb/>Dies vorausgesetzt würde es wohl nicht schwer sein, die eigentliche
-                    Zusammensetzung des Landtages z. B. für <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</region> zu
+                    Zusammensetzung des Landtages z. B. für <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> zu
                     entwerfen, doch fehlt mir das nothwendige statistische Material. In crudo kann
                     ich nur skizziren allenfalls:<lb/>I. für die Curie der Gemeinden:<lb/>A. für die
                     Landgemeinden: die Bezirksausschüsse eines jeden Kreises (oder wenn man will:
@@ -167,13 +166,13 @@
                     je 3–4 Abgeordnete. <note xml:id="note_5">Anmerkung Thuns: Die Sprachenfrage
                         wird da wieder große Schwierigkeit biethen.</note>
                     <lb/>B. a. die städtische
-                    Vertretung von <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> wählt zwei Abgeordnete,<lb/>b. die
+                    Vertretung von <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> wählt zwei Abgeordnete,<lb/>b. die
                     größten Städte (allenfalls über 10.000 oder 12.000 Seelen) je Einen (ich glaube
-                    es sind dies <placeName ref="#place_d08263375d4ab4ccd1b00f39389801d7">Reichenberg</placeName> – <placeName ref="#place_547ed8b517d6aa2705f2fd3b8eeae874">Pilsen</placeName>
-                    – <placeName ref="#place_24c87409776f0c35cc5176266b753b28">Eger</placeName> – <placeName ref="#place_73a427f5d9b418ded933f495406c46a0">Budweis</placeName> –
-                        <placeName ref="#place_73c5d000ed83f00ae8bfedf6ee9632f9">Kuttenberg</placeName> – dann die Dörfer
-                        <placeName ref="#place_919e7bf7b5ca968e83c7223665eb2265">Warnsdorf</placeName> [Varnsdorf] und
-                        <placeName ref="#place_dbcf55136afae5bf7022294142a82359">Karolinenthal</placeName>) [Karlin],<lb/>c. die kleineren
+                    es sind dies <rs type="place" subtype="place" ref="#place_d08263375d4ab4ccd1b00f39389801d7">Reichenberg</rs> – <rs type="place" subtype="place" ref="#place_547ed8b517d6aa2705f2fd3b8eeae874">Pilsen</rs>
+                    – <rs type="place" subtype="place" ref="#place_24c87409776f0c35cc5176266b753b28">Eger</rs> – <rs type="place" subtype="place" ref="#place_73a427f5d9b418ded933f495406c46a0">Budweis</rs> –
+                        <rs type="place" subtype="place" ref="#place_73c5d000ed83f00ae8bfedf6ee9632f9">Kuttenberg</rs> – dann die Dörfer
+                        <rs type="place" subtype="place" ref="#place_919e7bf7b5ca968e83c7223665eb2265">Warnsdorf</rs> [Varnsdorf] und
+                        <rs type="place" subtype="place" ref="#place_dbcf55136afae5bf7022294142a82359">Karolinenthal</rs>) [Karlin],<lb/>c. die kleineren
                     städtisch organisirten Stadtgemeinden je Einen für jeden Kreis,<lb/>d. der
                     Bürgermeister von Prag als solcher,<lb/>e. je ein Vertreter für jede
                     Handelskammer.<lb/>Bei den Wahlen ad B. stünde das passive Wahlrecht den
@@ -204,7 +203,7 @@
                     zweite wesentliche Aufgabe für den Landtag ist, in Angelegenheiten der
                     communalen und municipalen Verwaltung obere Instanz und Aufsichtsbehörde zu
                     sein. <note xml:id="note_7">Anmerkung Thuns: Darin scheint es mir unvermeidlich
-                        weiter zu gehen, so weit wie der Vorschlag aus <region key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tyrol</region>.</note>
+                        weiter zu gehen, so weit wie der Vorschlag aus <rs type="place" subtype="region" key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tyrol</rs>.</note>
                     <lb/>Endlich hat er in Landesangelegenheiten über
                     Befragen der Regierung Gutachten zu erstatten und andererseits auch mittels
                     eigener Initiative Anträge und Bitten zu stellen.</p>

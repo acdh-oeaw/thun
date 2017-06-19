@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Promemoria über die evangelische Geistlichkeit A.B. in Siebenbürgen von
-                        <persName key="binder-georg-paul">Georg Binder</persName>
+                        <rs type="person" ref="binder-georg-paul" key="binder-georg-paul">Georg Binder</rs>
                     <lb/>o. O., <date when="1850">1850</date>
                 </title>
             </titleStmt>
@@ -47,7 +46,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -58,17 +57,17 @@
                     <term>Siebenbürgen</term>
                 </index>
                 <p>Einem Hohen k.k. Cultus- und Unterrichtsministerium</p>
-                <p>Der sächsische evangelische Geistliche A.C. in <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</region>, insonderheit seine Beziehungen zu dem Volke und sein
+                <p>Der sächsische evangelische Geistliche A.C. in <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>, insonderheit seine Beziehungen zu dem Volke und sein
                     Einfluß auf dasselbe.</p>
                 <p>Euer Excellenz haben mich mit vertrauensvoller Gewogenheit beauftragt, ein Bild
-                    von dem sächsischen evangelischen Geistlichen A.C. in <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</region> wenigstens nach seinen
+                    von dem sächsischen evangelischen Geistlichen A.C. in <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> wenigstens nach seinen
                     hervorstehendsten Umrissen zu entwerfen, woraus das Wesen und Wirken desselben,
                     und zwar nicht sowohl von seiner kirchlichen, als vielmehr und vornehmlich von
                     seiner bürgerlichen Seite erkannt werden könne. Ich beehre mich, dem
                     theilnehmenden Auftrage zu entsprechen, nur verwahre ich mich im Voraus gegen
                     den Anspruch, in diesen einfachen Umrissen das volle Bild mit seiner ganzen
                     lebendigen Kraft und Färbung wiedergeben zu wollen.<lb/>Der sächsische
-                    evangelische Geistliche in <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</region> ist
+                    evangelische Geistliche in <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> ist
                     nicht nur deswegen ein Mann des Volkes, in dem vollen und dabei doch
                     unverfänglichsten Sinne des Wortes, weil er von dem Volke oder von seinen
                     Kirchenkindern und künftigen Pflegebefohlenen durch die Wahl in sein kirchliches
@@ -94,7 +93,7 @@
                     Weiterstudiren an auswärtigen Hochschulen geeignet und befähigt auszuweisen;
                     dann erhält er die ämtliche Erlaubnis dazu und es steht nun bei ihm, von dieser
                     Erlaubnis Gebrauch zu machen oder nicht. Ehemals kamen dem siebenbürgischen
-                    Theologen in dem sprach- und glaubensverwandten <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country>
+                    Theologen in dem sprach- und glaubensverwandten <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs>
                     hier dort[sic!] allerlei Stipendien und Freitische zu statten und erleichterten
                     auch dem Ärmern seine akademischen Fachstudien; in der neuern Zeit sind diese
                     Unterstützungen auf einen minderbedeutenden Zuschuß herabgesunken oder ganz und
@@ -133,7 +132,7 @@
                     im vollsten, sondern auch im hellsten Lichte der Öffentlichkeit; und es kann
                     nicht leicht einen Vorzug oder einen Mangel an demselben geben, welcher nicht
                     zur allgemeinen Kenntnis käme; denn wiewohl unsre alte Handweste von König
-                        <persName key="andreas-II">Andreas II.</persName> vom Jahre 1224 zunächst
+                        <rs type="person" ref="andreas-II" key="andreas-II">Andreas II.</rs> vom Jahre 1224 zunächst
                     nur von dem künftigen bürgerlichen Beamten des Sachsenvolkes verlangt, ut inter
                     illos resideat, so ist dieses in dem letzten Jahrhundert doch auch bei den
                     kirchlichen Beamten Regel geworden, daß nicht leicht einer außer seinem
@@ -158,7 +157,7 @@
                     derselben von allen seinen künftigen Pfarrkindern einstimmig gewählt wird,
                     wenigstens kann niemand an einem Orte Pfarrer werden, den nicht die bezügliche
                     Mehrheit der Gemeindeglieder mit ihrem Zutrauen dazu berufen hätte. In den
-                    Städten und in den volkreichern Ortschaften des <placeName key="kronstadt" ref="#place_3341ffed6fa9ac4acf64535f4f9a72e5">Kronstädter</placeName> Capitels werden auch die Pfarrerswahlen herkömmlich
+                    Städten und in den volkreichern Ortschaften des <rs type="place" subtype="place" key="kronstadt" ref="#place_3341ffed6fa9ac4acf64535f4f9a72e5">Kronstädter</rs> Capitels werden auch die Pfarrerswahlen herkömmlich
                     bloß von den evangelischen Mitgliedern der die ganze Gemeinde vertretenden
                     Ortscommunitäten vollzogen. Die im Laufe eines Jahres statt gefundenen Wahlen
                     und Veränderungen im Pfarramt wurden, als noch die Confirmationstaxen bestanden,
@@ -214,7 +213,7 @@
                     leisten bei allen, welche sich nahe und fern mit ihm berühren, ein Umstand,
                     welchen vorzugsweise ich es zuschreibe, daß unser Volk im Ganzen auf einer Stufe
                     geistiger, sogar politischer Entwicklung und Aufklärung steht, wie kaum ein
-                    zweites in <country ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</country>. Denn mögen auch wirklich einzelne
+                    zweites in <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs>. Denn mögen auch wirklich einzelne
                     Landschaften des Gesammtstaates in manchem Stücke, namentlich in solchen, welche
                     äußerlich ersehn und gemessen werden, uns übertreffen, im Ganzen besonders in
                     den Stücken, wo die geistige Entwicklung und Aufklärung sich mit dem Leben und
@@ -240,7 +239,7 @@
                     Weisel mehr mit seiner stillen Wirksamkeit regiere und erhalte.<lb/>Euer
                     Excellenz werden mir daher gewogenst erlauben, daß ich zuletzt noch an die
                     Bedingungen erinnere, auf welchen neben der innern Kraft der Charaktere dieser
-                    segensreiche Einfluß des sächsischen Geistlichen in <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</region> bis jetzt beruhte und zum Theil noch immer beruht. Es
+                    segensreiche Einfluß des sächsischen Geistlichen in <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> bis jetzt beruhte und zum Theil noch immer beruht. Es
                     waren diese keine andern als das innige Ineinandergreifen unserer Kirche und
                     Schule, indem die künftigen Kirchen- und Religionslehrer ohne Ausnahme vorher
                     oft längere Zeit in der Schule als Präceptoren und Professoren Muße und
@@ -258,7 +257,7 @@
                     waren doch alle durch die Aussicht darauf auf die Bahn gelockt und in ihrem
                     mühevollen Wetteifer ermuntert worden. Indessen, wenn nur ich als dermaliger
                     Vorstand dieser noch vor kurzem eben wegen ihrer Zehenten so viel beneideten und
-                    bedrohten evangelischen Geistlichkeit in <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</region> auch fernerhin auf die freisinnige und freigebige
+                    bedrohten evangelischen Geistlichkeit in <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> auch fernerhin auf die freisinnige und freigebige
                     Stellung und Ausstattung derselben dränge, so könnte man mein Ansuchen leicht
                     nur für die Eingebung der Selbstliebe und des Eigennutzes halten; aber mit mir
                     verlangt eine solche Stellung und Ausstattung unserer Geistlichen auch noch die
@@ -274,7 +273,7 @@
                     durch die Propyläen der freien Wissenschaft in den Tempel evangelischer
                     Frömmigkeit und Gottesfurcht, dann gehabe dich wohl, aufblühende und
                     aufstrebende Bildung des theuern tieferschütterten Vaterlandes, ja gehabe dich
-                    wohl siebenhundertjähriges Deutschthum im Osten des auferstandenen <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</country>, weil wie die Geschichte lehrt,
+                    wohl siebenhundertjähriges Deutschthum im Osten des auferstandenen <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs>, weil wie die Geschichte lehrt,
                     alle wahre höhere und innere Bildung und Gesittung nur in der milden Sommerwärme
                     eines mäßigen äußern Wohlstandes sich erhalten oder gar wachsen und gedeihen
                     kann.</p>

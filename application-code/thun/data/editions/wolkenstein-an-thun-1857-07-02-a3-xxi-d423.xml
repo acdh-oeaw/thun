@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="wolkenstein-karl" role="sender:beamter">Karl
-                        Wolkenstein</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                    Thun</persName>
+                    <rs type="person" ref="wolkenstein-karl" key="wolkenstein-karl" role="sender:beamter">Karl
+                        Wolkenstein</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                    Thun</rs>
                     <lb/>
-                    <placeName ref="#place_856c6e6d864e89a9e54edf46d1f5a8b2">Brunnersdorf</placeName>, <date when="1857-07-02">2. Juli 1857</date>
+                    <rs type="place" subtype="place" ref="#place_856c6e6d864e89a9e54edf46d1f5a8b2">Brunnersdorf</rs>, <date when="1857-07-02">2. Juli 1857</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -50,7 +49,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -61,7 +60,7 @@
                     <term>Konservativismus</term>
                 </index>
                 <p>Lieber Freund!</p>
-                <p>In der benachbarten Stadt Kaaden [<placeName ref="#place_37a6d7a71c4f7c2469e4f01b70dd90c2">Kadaň</placeName>] tauchte vor 2
+                <p>In der benachbarten Stadt Kaaden [<rs type="place" subtype="place" ref="#place_37a6d7a71c4f7c2469e4f01b70dd90c2">Kadaň</rs>] tauchte vor 2
                     Jahren das Project auf, an die dort bestehende Realschule eine Art
                     landwirthschaftliches Lehrinstitut anzulehnen. Wie ich hörte, nahm sich ein
                     geistlicher Schulrath sehr eifrig um das Project an – die benachbarten
@@ -145,7 +144,7 @@
                     gegenwärtige Zeit auch abmüht, Widersprechendes zu vermitteln, Dissonanzen
                     einzuschläfern – dennoch gibt es, wie ich glaube, kein dauerndes Compromiß entre
                     l’Evangile, qui a quitté les trônes de l’Europe et le rationalisme plus on moins
-                    dequité y monté a sa place (<persName key="lacordaire-jean-baptiste">Lacordaire</persName>) zwischen den katholischen Weltanschauungen und den
+                    dequité y monté a sa place (<rs type="person" ref="lacordaire-jean-baptiste" key="lacordaire-jean-baptiste">Lacordaire</rs>) zwischen den katholischen Weltanschauungen und den
                     in Staat und Gesellschaft siegreichen modernen Prinzipien – Prinzipien, welche
                     nichts anderes sind, als das von Deisten und Atheisten aufgestellte, ihrem
                     antireligiösen Sinne congruente politische Symbolum.<lb/>Ich fand hier meinen

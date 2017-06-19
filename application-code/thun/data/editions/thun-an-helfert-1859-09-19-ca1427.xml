@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="helfert-joseph-alexander" role="recipient">Joseph Alexander
-                        Helfert</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="helfert-joseph-alexander" key="helfert-joseph-alexander" role="recipient">Joseph Alexander
+                        Helfert</rs>
                     <lb/>
-                    <placeName ref="#place_da90eb3328276934d8dbcbbff3aba4ee">Tetschen</placeName>, <date when="1859-09-19">19. September 1859</date>
+                    <rs type="place" subtype="place" ref="#place_da90eb3328276934d8dbcbbff3aba4ee">Tetschen</rs>, <date when="1859-09-19">19. September 1859</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -40,7 +39,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -53,21 +52,21 @@
                 </index>
                 <p>Tetschen den 19. September 1859</p>
                 <p>Verehrtester Freund!</p>
-                <p>Die Aufnahme des jungen <persName>Ghika</persName> in das <orgName key="theresianische-ritterakademie">Theresianum</orgName> muß allerdings
+                <p>Die Aufnahme des jungen <rs type="person" ref="">Ghika</rs> in das <orgName key="theresianische-ritterakademie">Theresianum</orgName> muß allerdings
                     bewilligt werden. Gut wäre es freilich wenn sich ein Modus finden ließe für ihn
                     in Beziehung auf Religionsunterricht mehr zu thun, als ihn nur einem Popen zu
-                    überlassen. Doch darüber möge <persName key="demel-heinrich-johann">Demel</persName> nach meiner Rückkehr mit mir sprechen.<lb/>In Betreff
-                        <persName key="gindely-anton">Gindelys</persName> werde ich unmittelbar bei
-                        <persName key="franz-joseph">Seiner Majestät</persName> einen neuerlichen
+                    überlassen. Doch darüber möge <rs type="person" ref="demel-heinrich-johann" key="demel-heinrich-johann">Demel</rs> nach meiner Rückkehr mit mir sprechen.<lb/>In Betreff
+                        <rs type="person" ref="gindely-anton" key="gindely-anton">Gindelys</rs> werde ich unmittelbar bei
+                        <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät</rs> einen neuerlichen
                     Versuch machen, sobald ich zurückkomme. Ich bitte inzwischen sein Gesuch
-                    exhibieren zu lassen, damit es nicht in Vorstoß gerathe und <persName key="altmann-adolf">Altmann</persName> soll mir's bei meiner Heimkehr
-                    übergeben.<lb/>Für diesen Zeitpunkt wolle mir <persName key="ehrhart-vincenz">Erhart</persName> die von <persName key="maassen-friedrich">Maaßen</persName> gewünschten Empfehlungsschreiben an unsere Gesandten in
-                        <placeName ref="#place_ce573fb3b837e6d0517b8fa5011ed041">Brüssel</placeName>, <placeName ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</placeName> und
-                        <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName> entwerfen.<lb/>
-                    <persName key="altmann-adolf">Altmann</persName> wolle sich im <orgName key="ministerium-des-innern">Ministerium des Innern</orgName> erkundigen, ob man schon weiß, wann
-                        <persName key="goluchowski-agenor">Goluchowski</persName> zurückerwartet
+                    exhibieren zu lassen, damit es nicht in Vorstoß gerathe und <rs type="person" ref="altmann-adolf" key="altmann-adolf">Altmann</rs> soll mir's bei meiner Heimkehr
+                    übergeben.<lb/>Für diesen Zeitpunkt wolle mir <rs type="person" ref="ehrhart-vincenz" key="ehrhart-vincenz">Erhart</rs> die von <rs type="person" ref="maassen-friedrich" key="maassen-friedrich">Maaßen</rs> gewünschten Empfehlungsschreiben an unsere Gesandten in
+                        <rs type="place" subtype="place" ref="#place_ce573fb3b837e6d0517b8fa5011ed041">Brüssel</rs>, <rs type="place" subtype="place" ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</rs> und
+                        <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs> entwerfen.<lb/>
+                    <rs type="person" ref="altmann-adolf" key="altmann-adolf">Altmann</rs> wolle sich im <orgName key="ministerium-des-innern">Ministerium des Innern</orgName> erkundigen, ob man schon weiß, wann
+                        <rs type="person" ref="goluchowski-agenor" key="goluchowski-agenor">Goluchowski</rs> zurückerwartet
                     wird, und mir darüber Nachricht geben. Wenn es angeht, so möchte ich bis zum
-                    letzten des Monats ausbleiben.<lb/>Die Angelegenheit des <persName key="sykora-carl">Sykora</persName> muß doch bis zu meiner Rückkehr warten,
+                    letzten des Monats ausbleiben.<lb/>Die Angelegenheit des <rs type="person" ref="sykora-carl" key="sykora-carl">Sykora</rs> muß doch bis zu meiner Rückkehr warten,
                     dann freilich muß sie einmal zur Entscheidung kommen. Seien Sie überzeugt, daß
                     es meiner Natur völlig widerstreitet, eine aufrichtige und zumal aus einem
                     Pflichtgefühl entspringende Meinungsäußerung jemals übel aufzunehmen; ich werde
@@ -78,7 +77,7 @@
                     gemacht haben, wie es scheint, nicht ohne Beschwerde. Es hat wirklich mein
                     Gewissen belastet, daran zu gehen, und Ihnen das aufzulegen. Ich bin begierig
                     wenn ich heimkehre über den Verlauf und die nächsten Resultate in
-                        <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> näheres zu hören.</p>
+                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> näheres zu hören.</p>
                 <p>Aufrichtig der Ihrige<lb/>Leo Thun</p>
             </div>
         </body>

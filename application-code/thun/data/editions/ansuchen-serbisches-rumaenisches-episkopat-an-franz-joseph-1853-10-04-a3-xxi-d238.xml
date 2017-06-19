@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Gesuch des griechisch-orthodoxen Episkopats der Serben und Ruthenen an Kaiser
-                        <persName key="franz-joseph" role="recipient">Franz Joseph</persName> für
+                        <rs type="person" ref="franz-joseph" key="franz-joseph" role="recipient">Franz Joseph</rs> für
                     den Bau einer Kirche in Wien<lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1853-10-04">4. Oktober 1853</date>
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1853-10-04">4. Oktober 1853</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -41,7 +40,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -58,12 +57,12 @@
                     führte und der Herr der Heerscharen den Mordstahl abstumpfte, gab es keinen
                     treuen Unterthan, der nicht in den Tempel des Herrn eilte und dem Allmächtigen
                     das inbrünstigste Opfer für die Rettung des geheiligten Hauptes nicht
-                    darbrachte. Das ganze weite <country ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</country> erklang damals von
+                    darbrachte. Das ganze weite <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs> erklang damals von
                     heiligen Hymnen und dem Lobe des Ewigen, welches aus der Brust der dankbaren
                     Völker zu seinem Throne emporstieg. Der nächste am Throne, der geliebte Bruder
                     Euerer Majestät , gab das Zeichen und rief die treuen Völker zur Verewigung
-                    dieses Dankes gegen den Allvater auf. Der Ruf des geliebten <persName key="ferdinand-maximilian-erzherzog">Prinzen</persName> verhallte nicht in
-                    der Wüste, sondern fand ein lautes würdiges Echo, wodurch in der <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Haupt- und Residenzstadt des Reiches</placeName> ein großartiges
+                    dieses Dankes gegen den Allvater auf. Der Ruf des geliebten <rs type="person" ref="ferdinand-maximilian-erzherzog" key="ferdinand-maximilian-erzherzog">Prinzen</rs> verhallte nicht in
+                    der Wüste, sondern fand ein lautes würdiges Echo, wodurch in der <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Haupt- und Residenzstadt des Reiches</rs> ein großartiges
                     Monument, ein Tempel des Herrn zum ewigen Danke für die wunderbare Rettung
                     Euerer Majestät aufgeführt werden soll.<lb/>Wie wir meinen, wird diese
                     Votivkirche dem römisch-katholischen Gottesdienste gewidmet sein, woran aber
@@ -72,21 +71,21 @@
                     Monument der ewigen Dankbarkeit zu besitzen wünschten. Man wird aber mit wenig
                     Mühe einsehen, daß sich diese Wünsche in einem und demselben Tempel nicht
                     vereinigen lassen. Auch ist für mehrere dieser Nazionen und Religionsparteien
-                    nicht die absolute Nothwendigkeit vorhanden; indem sie doch in der <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Haupt- und Residenzstadt</placeName> ihre Tempel besitzen, wo sie
+                    nicht die absolute Nothwendigkeit vorhanden; indem sie doch in der <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Haupt- und Residenzstadt</rs> ihre Tempel besitzen, wo sie
                     Gott anbethen und ihre Dankgebethe für die wunderbare Rettung Euerer Majestät
                     ihm darbringen können. Nur die Serben, Ruthenen und andere Slaven wie auch die
                     Romanen der orientalisch-orthodoxen Kirche sind es, die in der Haupt- und
-                    Residenzstadt <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> ihre Kirchen nicht haben; daher sowohl
+                    Residenzstadt <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> ihre Kirchen nicht haben; daher sowohl
                     den Gottesdienst als auch alle anderen Tröstungen der Religion in ihrer Sprache
                     Jahr ein, Jahr aus entbehren müssen.<lb/>Jetzt bei dem traurigsten Anlasse des
-                    von Seiner kaiserlichen Hoheit, dem <persName key="ferdinand-maximilian-erzherzog">Herrn Erzherzoge</persName> gemachten
+                    von Seiner kaiserlichen Hoheit, dem <rs type="person" ref="ferdinand-maximilian-erzherzog" key="ferdinand-maximilian-erzherzog">Herrn Erzherzoge</rs> gemachten
                     Gelübdes zur Erbauung eines ewige Dankbarkeit beurkundenden Monuments hat der
                     lange vorher schon in unseren und unserer Glaubensgenossen Herzen gehegte und in
-                    der Nothwendigkeit tief begründete Wunsch, in der <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Hauptstadt Oesterreichs</placeName> eine Kirche für den slavischen und eine
+                    der Nothwendigkeit tief begründete Wunsch, in der <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Hauptstadt Oesterreichs</rs> eine Kirche für den slavischen und eine
                     für den romanischen Gottesdienst zu besitzen, neue und mächtige Nahrung
                     gefunden, so zwar, daß wir nicht umhin können, ihn dem väterlichen Herzen Euerer
                     Majestät zu offenbaren und anheim zu stellen. Auch wir wünschen vom ganzen
-                    Herzen Gott dem Allmächtigen geweihete Tempel in der <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Hauptstadt</placeName> zu haben, wo wir von Geschlecht zu Geschlecht für
+                    Herzen Gott dem Allmächtigen geweihete Tempel in der <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Hauptstadt</rs> zu haben, wo wir von Geschlecht zu Geschlecht für
                     die wunderbare Rettung unseres allergnädigsten Kaisers ihm unseren ewigen Dank
                     darbringen und für Seine fernere Beschirmung und lange Erhaltung täglich zu ihm
                     flehen können.<lb/>Diese dankbare und fromme Gesinnung der slavischen und
@@ -96,8 +95,8 @@
                     außerordentlichen Anlasse sich auch zu außerordentlichen Opfern für die
                     Aufbauung erwähnter Tempel Gottes bereit finden werden.<lb/>Erlauben
                     allergnädigst Euere Majestät, daß wir die Gründe, welche die Erbauung solcher
-                    Gottestempel in dieser <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Haupt- und
-                        Residenzstadt</placeName>, und wir möchten sagen in dieser Weltstadt, höchst
+                    Gottestempel in dieser <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Haupt- und
+                        Residenzstadt</rs>, und wir möchten sagen in dieser Weltstadt, höchst
                     nothwendig erscheinen lassen, entwickeln und herzählen dürfen.<lb/>1. Die
                     Religion ist der stärkste Grundpfeiler des Staates. Wir glauben, daß dieser Satz
                     eine apodictische Wahrheit, ein Axiom ist, worüber kein Wort zu verlieren wäre,
@@ -134,8 +133,8 @@
                     Großes und Erhabenes an Kirchen und religiösen Anstalten dem menschlichen Auge
                     begegnet, das alles rührt meistens von dem frommen Sinne der gottesfürchtigen
                     Landesfürsten.<lb/>Alle Nazionen und alle Confessionen des weiten Reiches Euerer
-                    Majestät erfreuen sich ihrer Gottestempel in der <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Haupt-
-                        und Residenzstadt Oesterreichs</placeName>; die deutschen sowohl
+                    Majestät erfreuen sich ihrer Gottestempel in der <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Haupt-
+                        und Residenzstadt Oesterreichs</rs>; die deutschen sowohl
                     römisch-katholischer als beider protestantischer Religion, die Slaven, die
                     unirten Ruthenen, die Italiener, die orientalisch-orthodoxen Griechen, ja selbst
                     die Juden haben da ihre Tempel, wo sie das höchste Wesen anbethen, wo sie die
@@ -143,91 +142,91 @@
                     Ruthenen so wie die Romanen, Söhne der orientalisch-orthodoxen Kirche, haben
                     keine Kirche, keinen Priester, mithin keinen Gottesdienst, keinen
                     Religionsunterricht, keine Beichte, keine Communion, gar keinen Religionstrost,
-                    gar keine religiöse Freude, leben in der <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Residenzstadt</placeName> fortan seit Jahrhunderten unchristlich und
-                    sterben eben so unchristlich.<lb/>2. Zu jeder Zeit hat es in der <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">österreichischen Monarchie</country> mehrere Millionen
+                    gar keine religiöse Freude, leben in der <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Residenzstadt</rs> fortan seit Jahrhunderten unchristlich und
+                    sterben eben so unchristlich.<lb/>2. Zu jeder Zeit hat es in der <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">österreichischen Monarchie</rs> mehrere Millionen
                     Seelen Serben, Ruthenen und Romanen unserer Kirche, treuer Unterthanen Euerer
                     Majestät, gegeben; zu jeder Zeit haben sich Familien dieser Nazionen und dieser
                     Kirche entweder des Handels, der Gewerbe oder der Künste wegen in
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> für immer niedergelassen oder aber längere
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> für immer niedergelassen oder aber längere
                     Aufenthalte daselbst genommen; zu jeder Zeit hat es Beamten- und
                     Offiziersfamilien, viele einzelne Beamte und Offiziere, viele Studenten und
                     Kinder in den verschiedenen Erziehungsanstalten, viele Gesellen und Lehrjungen
                     bei den Handlungshäusern und Zünften, ja nicht selten ganze Battaillone Soldaten
-                    dieser Nazionen und dieser Religion in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> und in seiner
+                    dieser Nazionen und dieser Religion in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> und in seiner
                     Nähe gegeben. Seit jeher sind so viele Reisende jeden Standes nach
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> gekommen, um entweder ihre Geschäfte da zu
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> gekommen, um entweder ihre Geschäfte da zu
                     machen oder an den Stufen des allerhöchsten Thrones Gnade oder Gerechtigkeit zu
                     suchen oder ihre Dankbarkeit für die erhaltenen Wohlthaten dort niederzulegen.
                     Wie gerne hätte sich früher ein Jeder in das Gotteshaus begeben und dort den
                     Segen des Allmächtigen für sein Vorhaben erfleht, auf daß dasselbe mit einem
-                    guten Ende gekrönt werde!! Jetzt, wo die Einheit der <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Monarchie</country> ausgesprochen und fest begründet ist, wo
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> die einzige Hauptstadt der <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Monarchie</country> geworden ist, wo alle Schranken
+                    guten Ende gekrönt werde!! Jetzt, wo die Einheit der <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Monarchie</rs> ausgesprochen und fest begründet ist, wo
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> die einzige Hauptstadt der <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Monarchie</rs> geworden ist, wo alle Schranken
                     zwischen ihm und den andern Provinzen gefallen sind, wo die Communicationen so
                     ungemein erleichtert sind und vom Tage zu Tage noch mehr erleichtert werden,
-                    wird das Zuströmen unserer Glaubensgenossen nach <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>
+                    wird das Zuströmen unserer Glaubensgenossen nach <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>
                     verdoppelt, verdreifacht und vervierfacht. Jetzt schon sieht man nicht nur
                     Kaufleute aus den kleinen Provinzialstädten, sondern auch kleine Krämer aus den
                     entferntesten Grenzdörfern mittelst der Dampfkraft nach
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> eilen und aus der ersten Hand in dessen
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> eilen und aus der ersten Hand in dessen
                     Fabriquen Einkäufe für ihre Waarenlager machen. So ziehen die Handwerker mit
-                    Übergehung ihrer Provinzialzünfte unmittelbar nach <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>,
+                    Übergehung ihrer Provinzialzünfte unmittelbar nach <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>,
                     um sich hier gleichsam auf der besten Hochschule zu tüchtigen und vollkommenen
                     Meistern ihres Handwerks auszubilden.<lb/>Alle diese in
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> wohnenden, in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> wohnenden, in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>
                     kürzere oder längere Zeit weilenden Beamte, Soldaten, Handelsleute, Künstler,
                     Meister, Studenten, Gesellen, Lehrlinge, Reisende entbehren in der Hauptstadt
                     den Gottesdienst, die christliche Lehre, den Trost und die Erbauung ihrer
-                    Religion. Die Nazionalitäten, welche dieses Contigent nach der <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Hauptstadt</placeName> liefern, sind die Serben, die Ruthenen und
+                    Religion. Die Nazionalitäten, welche dieses Contigent nach der <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Hauptstadt</rs> liefern, sind die Serben, die Ruthenen und
                     die Romanen. Nach den Kronländern sind es die Provinzen: Bocche di Cattaro oder
-                    österreichisch <region ref="#place_8c9d10360ee50c84a5561a7f26a90c9d">Albanien</region>, <region key="dalmatien" ref="#place_001331e8b2651f9f78991538c3a7e594">Dalmazien</region>, <region ref="#place_fde20c283b228b19e2990cf5175fa31e">Istrien</region>, <region ref="#place_8be4faaae218289562dc0a8c0e2e0ff1">Triest</region>,
-                        <region ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</region>, <region key="kroatien" ref="#place_46ef149805b1b370596a83886b1e010e">Croazien</region>, <region key="slawonien" ref="#place_15f10264a572e8ce0fe253bc889cdbf5">Slavonien</region>, <region key="woiwodschaft-serbien-und-temeser-banat" ref="#place_35d1161cc45f7c1d2b14ff99f1d259a3">Serbisch-Banater
-                        Wojwodschaft</region> mit der ganzen Militärgrenze,
-                        <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country>, <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</region>
-                    und <region key="bukowina" ref="#place_1e3ed35591fca7321b21f50db5ab75be">Bukovina</region>; mithin der ganze Süden und Osten
+                    österreichisch <rs type="place" subtype="region" ref="#place_8c9d10360ee50c84a5561a7f26a90c9d">Albanien</rs>, <rs type="place" subtype="region" key="dalmatien" ref="#place_001331e8b2651f9f78991538c3a7e594">Dalmazien</rs>, <rs type="place" subtype="region" ref="#place_fde20c283b228b19e2990cf5175fa31e">Istrien</rs>, <rs type="place" subtype="region" ref="#place_8be4faaae218289562dc0a8c0e2e0ff1">Triest</rs>,
+                        <rs type="place" subtype="region" ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</rs>, <rs type="place" subtype="region" key="kroatien" ref="#place_46ef149805b1b370596a83886b1e010e">Croazien</rs>, <rs type="place" subtype="region" key="slawonien" ref="#place_15f10264a572e8ce0fe253bc889cdbf5">Slavonien</rs>, <rs type="place" subtype="region" key="woiwodschaft-serbien-und-temeser-banat" ref="#place_35d1161cc45f7c1d2b14ff99f1d259a3">Serbisch-Banater
+                        Wojwodschaft</rs> mit der ganzen Militärgrenze,
+                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>
+                    und <rs type="place" subtype="region" key="bukowina" ref="#place_1e3ed35591fca7321b21f50db5ab75be">Bukovina</rs>; mithin der ganze Süden und Osten
                     der Monarchie.<lb/>3. Aber nicht allein die Unterthanen Euerer Majestät sind es,
                     welche den Gottesdienst in der slavischen und romanischen Sprache in der
-                        <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Residenzstadt</placeName> ob Mangel der eigenen
+                        <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Residenzstadt</rs> ob Mangel der eigenen
                     Kirchen entbehren müssen. Es sind so viele andere diesen Nazionen verwandte
-                    Völkerschaften, welche ihre Leute nach der <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">österreichischen Hauptstadt</placeName> in Handels- und vielfältigen andern
+                    Völkerschaften, welche ihre Leute nach der <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">österreichischen Hauptstadt</rs> in Handels- und vielfältigen andern
                     Geschäften schicken; so die Serben aus dem Fürstenthume
-                        <country ref="#place_57441f5036e3278df0a7cf7f317c5805">Serbien</country> und aus der noch unter der exclusiven türkischen
-                    Bothmäßigkeit seufzenden altserbischen Gebiethstheilen bis tief nach <country key="makedonien" ref="#place_d168c568e0fe6d782a145f736e5ae891">Macedonien</country>, <country ref="#place_21ad7a4e44b188c0f320e1a57e3a31d8">Tessalien</country> und
-                        <country ref="#place_3c6301c3588230a5dffff3cc69066a19">Epyrus</country> hin, jene aus <country ref="#place_4e92f9d2cdf0b8eb493ae3a19709d121">Montenegro</country>,
-                        <country key="herzegowina" ref="#place_9d63a8134213aea9965ddd12f9ea4f85">Hercegovina</country>, Türkisch-Croazien und
-                        <country ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</country>, so die Bulgaren, so die Macedo-Romanen aus der
+                        <rs type="place" subtype="country" ref="#place_57441f5036e3278df0a7cf7f317c5805">Serbien</rs> und aus der noch unter der exclusiven türkischen
+                    Bothmäßigkeit seufzenden altserbischen Gebiethstheilen bis tief nach <rs type="place" subtype="country" key="makedonien" ref="#place_d168c568e0fe6d782a145f736e5ae891">Macedonien</rs>, <rs type="place" subtype="country" ref="#place_21ad7a4e44b188c0f320e1a57e3a31d8">Tessalien</rs> und
+                        <rs type="place" subtype="country" ref="#place_3c6301c3588230a5dffff3cc69066a19">Epyrus</rs> hin, jene aus <rs type="place" subtype="country" ref="#place_4e92f9d2cdf0b8eb493ae3a19709d121">Montenegro</rs>,
+                        <rs type="place" subtype="country" key="herzegowina" ref="#place_9d63a8134213aea9965ddd12f9ea4f85">Hercegovina</rs>, Türkisch-Croazien und
+                        <rs type="place" subtype="country" ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</rs>, so die Bulgaren, so die Macedo-Romanen aus der
                     großen Halbinsel zwischen den adriatischen, jonischen, ägäischen Meeren, dem
                     Bosphorus, der Donau und der Save, so die Romanen in den Donaufürstenthümern
-                        <country key="fuerstentum-moldau" ref="#place_e815d61c14bcd850f1fff27be8b7b8b5">Moldau</country> und <country key="fuerstentum-walachei" ref="#place_ad4eef1d669a3dca02ec11dcee49a2c2">Walachei</country> und in <country key="bessarabien" ref="#place_de1c9797ad2a9a947cf0dfed1352216c">Besarabien</country>. Alle diese Völkerschaften, die an 9
+                        <rs type="place" subtype="country" key="fuerstentum-moldau" ref="#place_e815d61c14bcd850f1fff27be8b7b8b5">Moldau</rs> und <rs type="place" subtype="country" key="fuerstentum-walachei" ref="#place_ad4eef1d669a3dca02ec11dcee49a2c2">Walachei</rs> und in <rs type="place" subtype="country" key="bessarabien" ref="#place_de1c9797ad2a9a947cf0dfed1352216c">Besarabien</rs>. Alle diese Völkerschaften, die an 9
                     bis 10 Millionen Seelen zählen sind mit ihrem Handel vorzüglich an
-                        <country ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</country>, an dessen <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Hauptstadt</placeName> und ihre Fabriquen angewiesen, alle treiben einen
-                    lebhaften Handel mit <country ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</country> und vorsonderlich mit seiner
-                        <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Hauptstadt</placeName>. Dieses beweisen am besten die
+                        <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs>, an dessen <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Hauptstadt</rs> und ihre Fabriquen angewiesen, alle treiben einen
+                    lebhaften Handel mit <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs> und vorsonderlich mit seiner
+                        <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Hauptstadt</rs>. Dieses beweisen am besten die
                     täglichen Wiener Fremdenlisten, die Register unserer Mautämter und vorsonderlich
                     der lebhafte Verkehr auf unserer Hauptwasserstraße der Donau, weithin bis nach
-                        <placeName ref="#place_2f7df5c4d4621d1db4f29fcafb7305d4">Galatz</placeName> und <placeName key="konstantinopel" ref="#place_5a73d22c67f3af236f91499bf068c1d5">Constantinopel</placeName>.<lb/>Die Kirche ist für diese Nazionen, deren
+                        <rs type="place" subtype="place" ref="#place_2f7df5c4d4621d1db4f29fcafb7305d4">Galatz</rs> und <rs type="place" subtype="place" key="konstantinopel" ref="#place_5a73d22c67f3af236f91499bf068c1d5">Constantinopel</rs>.<lb/>Die Kirche ist für diese Nazionen, deren
                     Gottesdienst, und wir möchten sagen, deren Religion durch vier volle
                     Jahrhunderte unter dem schweren türkischen Joche ganz verkümmert ist, der
                     stärkste Magnet, welcher sie aus allen Gegenden der Welt dorthin zieht, wo der
                     Gottesdienst frei ist und mit Würde, Anstand und Frömmigkeit verrichtet und das
                     Wort Gottes mit dem apostolischen Eifer gepredigt wird. Wir sind des festen
-                    Glaubens, daß, wären in der <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Hauptstadt
-                        Oesterreichs</placeName> Kirchen für den slavischen und romanischen
+                    Glaubens, daß, wären in der <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Hauptstadt
+                        Oesterreichs</rs> Kirchen für den slavischen und romanischen
                     Gottesdienst vorhanden, sich viele Menschen dieser Nazionen mit ihren Capitalien
                     hier häuslich niederlassen würden, daß mithin der Handel mit dem Orient einen
                     viel bedeutenderen Aufschwung im Kurzen erreichen möchte.<lb/>4. Wir sind in der
                     Staatspolitik nicht bewandert, auch wollen wir uns nicht anmaßen, weder in die
                     Rathschlüsse des Cabinets Euerer Majestät, noch in jene der göttlichen Vorsehung
-                    über diese Völker dringen zu wollen, glauben jedoch, daß es der <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">österreichischen Monarchie</country> aus mehreren Gründen
+                    über diese Völker dringen zu wollen, glauben jedoch, daß es der <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">österreichischen Monarchie</rs> aus mehreren Gründen
                     daran liegen müsse, diese mit eigenen Unterthanen dem Blute und dem Glauben nach
                     nächstverwandte Völkerschaften auf jede mögliche Weise in eigenes Interesse zu
-                    ziehen und an <country ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</country> fest zu knüpfen. So weit unsere
+                    ziehen und an <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs> fest zu knüpfen. So weit unsere
                     Erfahrung und Bekanntschaft mit diesen unseren nächsten Nachbarn, Bluts- und
                     Religionsverwandten reicht, können wir Euerer Majestät versichern, daß nichts so
                     sehr geeignet ist, jene Völker an sich zu fesseln, wie die Achtung ihrer
                     Religion und Nazionalität, mithin die freie Ausübung ihrer Religion und der
                     nazionale Unterricht ihrer Jugend. Vierhundert Jahre und mehr entbehren sie
                     diese Güter. Wer sie ihnen wieder giebt, dem huldigen sie vom ganzen
-                    Herzen!!<lb/>5. Man wird vielleicht sagen, daß in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> 2
+                    Herzen!!<lb/>5. Man wird vielleicht sagen, daß in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> 2
                     orientalisch-orthodoxe Kirchen sich befinden und daß diese für die Bevölkerung
                     dieser Glaubensgenossen genügen können. Hierauf müssen wir folgendes bemerken:
                     In beiden diesen Kirchen ist der Gottesdienst in der hellenischen sowohl den
@@ -257,7 +256,7 @@
                     griechischen Kirchen die Wohlthaten der Religion nicht finden, nicht haben und
                     nicht genießen können.<lb/>6. Was die Verdienste dieser Nazionen um den Thron,
                     um die allerdurchlauchtigste Dynastie Euerer Majestät, um den Staat und selbst
-                    um diese <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Haupt- und die Residenzstadt</placeName>
+                    um diese <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Haupt- und die Residenzstadt</rs>
                     anbelangt, darüber wollen wir kein Wort verlieren, sondern überlassen der
                     gerechten und unparteiischen väterlichen Beurtheilung Euerer Majestät darüber
                     allergnädigst abzusprechen. Wir treugehorsamste Oberhirten dieser Nazionen
@@ -269,16 +268,16 @@
                     nicht wenigstens 3mal des Tages für Euere Majestät in allen unseren Kirchen
                     Gebethe zum Himmel gesendet werden. Dies geschieht überall auch in den kleinsten
                     Dörfern, wo sich unsere Christen zur Andacht vereinigen, wo sie einen Priester
-                    und ein Gotteshaus haben. In der <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Hauptstadt</placeName>
+                    und ein Gotteshaus haben. In der <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Hauptstadt</rs>
                     geschieht dies nur von einem kleinen Theile Euerer Unterthanen, den Griechen
                     nämlich; weil sie einen Gottestempel haben. Den Slaven und Romanen aber ist es
-                    nicht gegeben, diese heilige Pflicht in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> zu erfüllen;
+                    nicht gegeben, diese heilige Pflicht in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> zu erfüllen;
                     weil sie keine Kirche, keinen Vereinigungsort und keinen Priester haben.<lb/>8.
                     Wenn wir erwägen, daß in den Staaten Euerer Majestät an sehr vielen Orten für
                     5–7 Familien der römisch-katholischen Religion Pfarren gegründet und Kirchen ab
                     aerario gebaut worden sind, weil sie zu einer andern Gemeinde nicht füglich
                     eingepfarrt werden konnten, so muß unser Herz von Wehmuth ergriffen werden, wenn
-                    wir auf die vielen Hunderte unserer Gläubigen in der <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Haupt- und Residenzstadt der Monarchie</placeName> unseren Blick werfen,
+                    wir auf die vielen Hunderte unserer Gläubigen in der <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Haupt- und Residenzstadt der Monarchie</rs> unseren Blick werfen,
                     welche zur Zeit der Andacht an Sonn- und Feiertagen entweder in den Gassen der
                     Stadt herumirren oder von einem Caffeehause zum andern ziehen und die Zeit des
                     Gottesdienstes und der Andacht durch Zeitunglesen, Politisiren und anderes
@@ -289,7 +288,7 @@
                     und wir halten es für unsere heilige Pflicht Euere Majestät allerunterthänigst
                     darauf aufmerksam zu machen.<lb/>Aus dem Vorangelassenen erhellet zur Genüge
                     nicht allein die Nothwendigkeit, sondern auch der Nutzen für den Staat überhaupt
-                    und insbesondere für die Stadt <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, allda zwei Kirchen,
+                    und insbesondere für die Stadt <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, allda zwei Kirchen,
                     die eine für den slavischen, die andere für den romanischen Gottesdienst nach
                     dem orientalisch-orthodoxen Ritus ehemöglichst zu erbauen.<lb/>Nun erlauben
                     Euere Majestät, allergnädigster Kaiser!, daß wir treu gehorsamste Oberhirten der
@@ -299,11 +298,11 @@
                     Milde, Gnade und Gerechtigkeit in alle Weltgegenden und auf Völker der großen
                     österreichischen Monarchie ewig ausströmen, niederlegen dürfen. Diese heiß
                     gehegten Wünsche – Gegenstand dieser allerunterthänigsten Bittschrift –
-                    sind:<lb/>a. In der Haupt- und Residenzstadt <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> zwei
+                    sind:<lb/>a. In der Haupt- und Residenzstadt <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> zwei
                     Kirchen zu haben, in deren einer der slavische, in der andern der romanische
                     Gottesdienst nach dem orientalisch-orthodoxen Ritus verrichtet werden
                     soll.<lb/>b. Beide diese Kirchen mögen zu Pfarrkirchen erklärt und an der einen
-                    ein slavischer, an der andern ein romanischer Pfarrer der <placeName key="karlowitz" ref="#place_e8dd2a3255e06e628c50a81e52cab7a1">Carlovitzer</placeName> Erzdiöcese angehörig angestellt
+                    ein slavischer, an der andern ein romanischer Pfarrer der <rs type="place" subtype="place" key="karlowitz" ref="#place_e8dd2a3255e06e628c50a81e52cab7a1">Carlovitzer</rs> Erzdiöcese angehörig angestellt
                     werden.<lb/>c. Bei jeder dieser Kirchen möge ein Pfarrhaus dergestalt errichtet
                     werden, daß darin die standesmäßige Wohnung für den Pfarrer, für einen Sänger,
                     für die respective Nazionalschule von 2 Klassen, für 2 Lehrer, für einen
@@ -329,28 +328,28 @@
                 <p>Euerer Majestät </p>
                 <p>allerunterthänigste devoteste<lb/>Patriarch, Erzbischof und Metropolit zu
                         Carlovitz,<lb/>
-                    <persName key="rajacic-joseph">Joseph
-                    Rajacsich</persName>
+                    <rs type="person" ref="rajacic-joseph" key="rajacic-joseph">Joseph
+                    Rajacsich</rs>
                 </p>
                 <p>
-                    <persName key="hakman-eugen">Eugen Hackmann</persName>, Bukoviner Bischof
+                    <rs type="person" ref="hakman-eugen" key="hakman-eugen">Eugen Hackmann</rs>, Bukoviner Bischof
                         <lb/>
-                    <persName key="ivacskovics-prokop">Procop Ivaeskovics</persName>,
+                    <rs type="person" ref="ivacskovics-prokop" key="ivacskovics-prokop">Procop Ivaeskovics</rs>,
                     Araeder Bischof<lb/>
-                    <persName key="maschirevics-samuel">Samuel
-                        Maschirevics</persName>, Temesvarer Bischof<lb/>
-                    <persName key="kengyelatz-emilian">Emilian Kengyelatz</persName> in Verschetzer
+                    <rs type="person" ref="maschirevics-samuel" key="maschirevics-samuel">Samuel
+                        Maschirevics</rs>, Temesvarer Bischof<lb/>
+                    <rs type="person" ref="kengyelatz-emilian" key="kengyelatz-emilian">Emilian Kengyelatz</rs> in Verschetzer
                         Bischof<lb/>
-                    <persName key="athanaczkovicz-plato">Platon
-                        Athanaczkovics</persName>, Bácser Bischof<lb/>
-                    <persName key="sztojkovics-arsenius">Arsenius Sztojkovics</persName>, Ofner Bischof
+                    <rs type="person" ref="athanaczkovicz-plato" key="athanaczkovicz-plato">Platon
+                        Athanaczkovics</rs>, Bácser Bischof<lb/>
+                    <rs type="person" ref="sztojkovics-arsenius" key="sztojkovics-arsenius">Arsenius Sztojkovics</rs>, Ofner Bischof
                         <lb/>
-                    <persName key="knezevic-stefan">Stephan Knezevic</persName>, Dalmatiner
+                    <rs type="person" ref="knezevic-stefan" key="knezevic-stefan">Stephan Knezevic</rs>, Dalmatiner
                         Bischof<lb/>
-                    <persName key="joannovics-eugen">Eugen Joannovics</persName>,
+                    <rs type="person" ref="joannovics-eugen" key="joannovics-eugen">Eugen Joannovics</rs>,
                     Karlstaedter Bischof<lb/>
-                    <persName key="kragujevich-stefan">Stephan
-                        Kragujevich</persName>, Pakzaczer Bischof </p>
+                    <rs type="person" ref="kragujevich-stefan" key="kragujevich-stefan">Stephan
+                        Kragujevich</rs>, Pakzaczer Bischof </p>
                 <p>Wien, am 4. October 1853</p>
             </div>
         </body>

@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Evangelisches Pfarramt A.B. Villach an das Evangelische Pfarramt A.B.
                         Prag<lb/>
-                    <placeName ref="#place_0d630f309cd8eaead4c6693378f162fb">Villach</placeName>, <date when="1850-08-12">12. August
+                    <rs type="place" subtype="place" ref="#place_0d630f309cd8eaead4c6693378f162fb">Villach</rs>, <date when="1850-08-12">12. August
                         1850</date>
                 </title>
             </titleStmt>
@@ -49,7 +48,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -62,26 +61,26 @@
                     <term>Ungarn</term>
                 </index>
                 <p>Abschrift</p>
-                <p>An das löbliche evangelische Pfarramt A. C. zu <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>
+                <p>An das löbliche evangelische Pfarramt A. C. zu <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>
                 </p>
-                <p>Wir unterzeichnete Pfarrer der evangelischen Gemeinden A. C. in <region key="kaernten" ref="#place_ef894a0a9ab2e171eb147ffd9e56cd4b">Kärnten</region> haben es als Pflicht und Bedürfnis erkannt,
-                    bei Gelegenheit einer am 12. dieses Monats zu <placeName ref="#place_0d630f309cd8eaead4c6693378f162fb">Villach</placeName>
+                <p>Wir unterzeichnete Pfarrer der evangelischen Gemeinden A. C. in <rs type="place" subtype="region" key="kaernten" ref="#place_ef894a0a9ab2e171eb147ffd9e56cd4b">Kärnten</rs> haben es als Pflicht und Bedürfnis erkannt,
+                    bei Gelegenheit einer am 12. dieses Monats zu <rs type="place" subtype="place" ref="#place_0d630f309cd8eaead4c6693378f162fb">Villach</rs>
                     abgehaltenen Conferenz neben den besondern Angelegenheiten unserer Gemeinden
                     auch den gegenwärtigen Zuständen und Bedürfnissen der evangelischen Kirche
-                        <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</country> im Allgemeinen unsere
+                        <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> im Allgemeinen unsere
                     Aufmerksamkeit zuzuwenden und unsere Ansichten über die zweckmäßigsten Mittel
                     auszutauschen, durch welche die Zukunft und eine gedeihliche Entwickelung der
                     Kirche gesichert werden könne.<lb/>Nach allen Nachrichten, die uns theils durch
                     öffentliche Blätter, theils durch mündliche und schriftliche Privatmittheilungen
                     bekannt wurden, stehen besonders die evangelischen Consistorialgemeinden durch
-                    die vom <persName key="thun-hohenstein-leo">Herrn Cultusminister</persName>
-                    vorbereitete Octroyirung einer Synodalverfassung für die <hi rend="ul">gesammte</hi> evangelische Kirche <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</country> am entscheidenden Wendepunkte ihrer Zukunft. Wir
+                    die vom <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Herrn Cultusminister</rs>
+                    vorbereitete Octroyirung einer Synodalverfassung für die <hi rend="ul">gesammte</hi> evangelische Kirche <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> am entscheidenden Wendepunkte ihrer Zukunft. Wir
                     haben uns in dieser Beziehung nach rechtlicher Berathung über die folgenden
                     Punkte geeinigt und erachten es bei der Wichtigkeit und Dringlichkeit des
                     Gegenstandes für höchst nothwendig, unsere geliebten Amtsbrüder davon in
                     Kenntnis zu setzen, um in Verbindung mit den Gemeinden so viel als möglich <hi rend="ul">gemeinsam</hi> und in <hi rend="ul">einer</hi> Richtung die
                     gedeihliche Entwickelung dieser Angelegenheit mit fördern zu helfen.<lb/>1. Wir
-                    sind der Ansicht, daß die evangelischen Gemeinden <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</country> (resp. <region key="kaernten" ref="#place_ef894a0a9ab2e171eb147ffd9e56cd4b">Kärntens</region>)
+                    sind der Ansicht, daß die evangelischen Gemeinden <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> (resp. <rs type="place" subtype="region" key="kaernten" ref="#place_ef894a0a9ab2e171eb147ffd9e56cd4b">Kärntens</rs>)
                     zwar an dem verfassungsmäßig zugesicherten Grundsatze der kirchlichen Autonomie
                     und Gleichberechtigung festhalten und denselben, als Prinzip, in keiner Weise
                     Preis geben, daß sie aber, in Berücksichtigung der jetzigen Zeitverhältnisse und
@@ -97,19 +96,19 @@
                     Synode das Recht der Revision, d. h. der gänzlichen oder theilweisen
                     Umgestaltung der Verfassung nach den Bedürfnissen der Kirche zugesteht.<lb/>2.
                     Wir sind ferner der Ansicht, daß hiebei die organische Verbindung der bisherigen
-                    Consistorialgemeinden mit der evangelischen Kirche <country key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">
+                    Consistorialgemeinden mit der evangelischen Kirche <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">
                         <hi rend="ul">Ungarns</hi>
-                    </country> und <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">
+                    </rs> und <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">
                         <hi rend="ul">Siebenbürgens</hi>
-                    </region> zu einem großen Ganzen, bei
+                    </rs> zu einem großen Ganzen, bei
                     möglichst freier Entwickelung seiner einzelnen Theile, für Alle, besonders aber
                     für unsere Gemeinden als <hi rend="ul">Lebensfrage</hi> zu betrachten und mit
                     dem Aufgebote vereinter Kräfte auf geeignetem Wege anzustreben sei, weil nur
                     durch diese Vereinigung die Kraft und das Ansehen der evangelischen Kirche
-                        <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</country> dauernd befestigt werden
+                        <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> dauernd befestigt werden
                     kann. In Erwägung des zur Zeit herrschenden Mißtrauens und der mannigfachen, zum
                     Theile ganz ungegründeten Besorgnisse, welche durch die Stimmführer der beiden
-                    evangelischen Confessionen in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> und <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</region> gegen eine derartige organische
+                    evangelischen Confessionen in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> und <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> gegen eine derartige organische
                     Verbindung laut geworden, bei der bedeutenden Schwierigkeit, auf schriftlichem
                     Wege eine Verständigung hierüber herbeizuführen und in Erwägung des ungarischen
                     Nationalcharakters, der durch ein vertrauensvolles, herzliches Entgegenkommen am
@@ -118,12 +117,12 @@
                     Konsistorialgemeinden mit Vollmachten, wo möglich von sämmtlichen oder doch der
                     Mehrzahl der deutscherbländischen evangelischen Diözesen versehen und mit der
                     Mission betraut werde, sich, so weit als möglich, <hi rend="ul">persönlich</hi>
-                    mit den Hauptstimmführern der evangelischen Kirche <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> und
-                        <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgens</region> über diese hochwichtige
+                    mit den Hauptstimmführern der evangelischen Kirche <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> und
+                        <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgens</rs> über diese hochwichtige
                     Angelegenheit zu besprechen, um dieselben im beiderseitigen Interesse für die
                     gewünschte Vereinigung zu gewinnen. Wir halten zu diesem Geschäfte niemanden für
-                    geeigneter als Herrn Pfarrer <persName key="steinacker-gustav">Steinacker</persName> zu <placeName ref="#place_8be4faaae218289562dc0a8c0e2e0ff1">Triest</placeName>, theils weil
-                    derselbe in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> aufgewachsen, mit den einflußreichsten
+                    geeigneter als Herrn Pfarrer <rs type="person" ref="steinacker-gustav" key="steinacker-gustav">Steinacker</rs> zu <rs type="place" subtype="place" ref="#place_8be4faaae218289562dc0a8c0e2e0ff1">Triest</rs>, theils weil
+                    derselbe in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> aufgewachsen, mit den einflußreichsten
                     Stimmführern beider Confessionen, den örtlichen Verhältnissen und der
                     Landessprache vertraut ist, theils weil er sich bereits seit längerer Zeit
                     vorzugsweise mit den kirchlichen Verfassungsfragen der Gegenwart beschäftigt und
@@ -133,17 +132,17 @@
                         längstens</hi> bis 1. Oktober dieses Jahres, entweder direkt oder durch
                     Vermittelung ihrer betreffenden Seniorate oder Superialtendenten mit uns
                     vereinigen, um sowohl an den löblichen Vorstand der evangelischen Gemeinde A. C.
-                    zu <placeName ref="#place_8be4faaae218289562dc0a8c0e2e0ff1">Triest</placeName> als an Herrn Pfarrer <persName key="steinacker-gustav">Steinacker</persName> selbst ein derartiges Ansuchen
+                    zu <rs type="place" subtype="place" ref="#place_8be4faaae218289562dc0a8c0e2e0ff1">Triest</rs> als an Herrn Pfarrer <rs type="person" ref="steinacker-gustav" key="steinacker-gustav">Steinacker</rs> selbst ein derartiges Ansuchen
                     zu stellen und im Interesse der gegenwärtig mehrfach bedrohten Gesammtkirche
-                        <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</country> deren Mitwirkung zu diesem
+                        <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> deren Mitwirkung zu diesem
                     Vorhaben in Anspruch zu nehmen. Die bei der Wichtigkeit des Gegenstandes und der
                     Vereinigung Aller oder Vieler verhältnismäßig jedenfalls nur geringen Kosten
                     dieser Mission dürften gewiß durch gemeinsame Betheiligung daran leicht
                     aufgebracht werden.<lb/>Wir erwarten daher bis zu dem bezeichneten Termine auf
                     ämtlichem Wege eine geneigte Antwort unter der Adresse: „An das evangelische
-                    Pfarramt zu St. Ruprecht bei <placeName ref="#place_0d630f309cd8eaead4c6693378f162fb">Villach</placeName>“ und empfehlen
+                    Pfarramt zu St. Ruprecht bei <rs type="place" subtype="place" ref="#place_0d630f309cd8eaead4c6693378f162fb">Villach</rs>“ und empfehlen
                     unsere Vorschläge der ernstlichen Prüfung unserer für die Zukunft der
-                    evangelischen Kirche <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</country> gewiß
+                    evangelischen Kirche <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> gewiß
                     nicht minder besorgten Amtsbrüder.<lb/>Der Friede unseres Herrn und Heilandes
                     Jesu Christi sei mit Euch und mit uns! Amen.</p>
                 <p>Villach, am 12. August 1850</p>

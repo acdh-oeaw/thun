@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="tomasek-samuel" role="sender:kleriker">Samuel
-                        Tomášek</persName> an <persName key="kuzmany-karl" role="recipient">Karl
-                        Kuzmany</persName>
+                    <rs type="person" ref="tomasek-samuel" key="tomasek-samuel" role="sender:kleriker">Samuel
+                        Tomášek</rs> an <rs type="person" ref="kuzmany-karl" key="kuzmany-karl" role="recipient">Karl
+                        Kuzmany</rs>
                     <lb/>
-                    <placeName ref="#place_7a9f61d953841dd7ac7507d4919975f3">Chyžno</placeName>, <date when="1860-06-20">20. Juni 1860</date>
+                    <rs type="place" subtype="place" ref="#place_7a9f61d953841dd7ac7507d4919975f3">Chyžno</rs>, <date when="1860-06-20">20. Juni 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -45,7 +44,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -58,12 +57,12 @@
                 <p>Dvojí ctihodný pane barone!</p>
                 <p>Především Vám oznamuji, že já nejsem již více seniorem; dne 8. máje na Conventu
                     autonomickém v Rožnově byl sem svržen z úřadu z příčiny té: „[?]“ zároveň se
-                    mnou byli svrženi: Consenior Bradofka a Decani <persName key="csipkay">Csipkay</persName>, <persName key="homola-stephan">Homola</persName>,
-                        <persName key="chotwas-andreas">Chotwáš</persName>, <persName key="ormis-samuel">Ormisz</persName>, jako patentista a vládě oddaní, na
+                    mnou byli svrženi: Consenior Bradofka a Decani <rs type="person" ref="csipkay" key="csipkay">Csipkay</rs>, <rs type="person" ref="homola-stephan" key="homola-stephan">Homola</rs>,
+                        <rs type="person" ref="chotwas-andreas" key="chotwas-andreas">Chotwáš</rs>, <rs type="person" ref="ormis-samuel" key="ormis-samuel">Ormisz</rs>, jako patentista a vládě oddaní, na
                     Conventu pak Ilšovském dne 12. Junia (Dež sem já přítomen nebyl) vyvolen jest za
-                    seniora <persName key="bartholomeides-johann">Jan Bartolomeidesz</persName>
-                    Csitnický farář, a za Consenioruo <persName key="czekus">Czékus</persName> a
-                        <persName key="schulek">Šulek</persName>, šickni tří fanatickí
+                    seniora <rs type="person" ref="bartholomeides-johann" key="bartholomeides-johann">Jan Bartolomeidesz</rs>
+                    Csitnický farář, a za Consenioruo <rs type="person" ref="czekus" key="czekus">Czékus</rs> a
+                        <rs type="person" ref="schulek" key="schulek">Šulek</rs>, šickni tří fanatickí
                     oppositionalisté; taktéž i noví decáni jí vyjmenování. Všecky týto proměny
                     úřadům bysme jen jako to nejmenší zlé považovali, ale že vám Zemanstvo Církve
                     naší demoralizovalo a fanatizovalo skrze tý ustavičné, v pravdě satanské
@@ -89,18 +88,18 @@
                     Marie se modliti atd. abych jich jen ještě více rozdráždili. Každé pak Církvi
                     natisknutý byl hned Inspector, každé Církvi poslána byla na cedulke jmena těch,
                     na kterých by hlasovati měla na úradu Seniora, Conseniorův, Superintendanta a
-                    Distr. Inspectora. – Mokrolúcký Inspector <persName key="czibur-ludwig">Czibur</persName> dal po [?] Církevníkům 15 holby slivovicy vypít, při čemž
+                    Distr. Inspectora. – Mokrolúcký Inspector <rs type="person" ref="czibur-ludwig" key="czibur-ludwig">Czibur</rs> dal po [?] Církevníkům 15 holby slivovicy vypít, při čemž
                     jich na nejvýš zburcoval proti farářovi a tak svolal do Conventu; není tedy
                     divu, že mu hrozně grobiánili a vyhráželi, a že ho i podpálili, ale je div že ho
                     i nezabili: V těchto okolnostech se mně zošklivily všecky Conventy, a chci
                     toliko v tiché domácnosti hledati pokoje. – Autonomie znamená, teď tolik, jako
                     opposice proti vládě, a již si zemanstvo myslí, že dnes zítra je Se?baldi zde. –
                     Tolik je jisto, že dobrotou a shovívavostí se magyarský fanatismus nezlomí, ale
-                    ještě bujněji zroste.<lb/>Právě mi píše Senior Šarišský <persName key="balint">Bálint</persName>, že tamější Sen. Inspector <persName key="bano">Bánó</persName> 12. Junie držel Convent v Prešově, na němž Senior <persName key="balint">Bálint</persName> byl svržen, ku němuž také hnedky vyslána byla
-                    deputacie, aby mu odňala úradní pečet a archiv; <persName key="balint">Bálint</persName> nic vydati nechtěl, ale vyhlásil celý ten Convent za
+                    ještě bujněji zroste.<lb/>Právě mi píše Senior Šarišský <rs type="person" ref="balint" key="balint">Bálint</rs>, že tamější Sen. Inspector <rs type="person" ref="bano" key="bano">Bánó</rs> 12. Junie držel Convent v Prešově, na němž Senior <rs type="person" ref="balint" key="balint">Bálint</rs> byl svržen, ku němuž také hnedky vyslána byla
+                    deputacie, aby mu odňala úradní pečet a archiv; <rs type="person" ref="balint" key="balint">Bálint</rs> nic vydati nechtěl, ale vyhlásil celý ten Convent za
                     nezákonný a necompetentní, a že on úrad svůj toliko pred zákonitým a
                     competentným Conventem složí (nebo takový dále/déle zastávati nechce a nebude)
-                    Inspector <persName key="bano">Bánó</persName> žaluje proti Seniorovi <persName key="balint">Bálintovi</persName>, že oběžníky rozesílá bez jeho dobrozdání
+                    Inspector <rs type="person" ref="bano" key="bano">Bánó</rs> žaluje proti Seniorovi <rs type="person" ref="balint" key="balint">Bálintovi</rs>, že oběžníky rozesílá bez jeho dobrozdání
                     a podpisu, že agitacie robí mezi Církvémi a Knezemi, proto svolal Convent, v
                     němž žaluje proti Seniorovi, odsoudí ho, zloží ho, a vyšle deputacie aby odňala
                     od něho archiv i pečeť.<lb/>Tito Inspectorové žádají teď od nás, kteří mu byli
@@ -114,8 +113,8 @@
                 <p>V Chyžném, 20. Junia 1860</p>
                 <p>Váš</p>
                 <p>úprimný přítel a ctitel<lb/>Sam. Tomášek</p>
-                <p>V <persName key="pekar">Pekár</persName> a <persName key="loysch-jonas">Loysch</persName> taktéž se žalují. – <persName key="ormis-samuel">Sam[uel]
-                        Ormisz</persName> farář ve Nižné Slané, bývalý Professor Mathematiky a
+                <p>V <rs type="person" ref="pekar" key="pekar">Pekár</rs> a <rs type="person" ref="loysch-jonas" key="loysch-jonas">Loysch</rs> taktéž se žalují. – <rs type="person" ref="ormis-samuel" key="ormis-samuel">Sam[uel]
+                        Ormisz</rs> farář ve Nižné Slané, bývalý Professor Mathematiky a
                     Physiky v Rožnavě, zkušuje též přemnohé odpornosti a pronasledování jako
                     švarcgelb, Patentista, bylby to výborný Professor do Levoči, lingvista
                     znamenitý, v slovenské literatura zbehlý, [?] a milý Professor, račte, ho predce

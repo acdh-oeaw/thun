@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="phillips-george" role="sender:gelehrter">George
-                        Phillips</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="phillips-george" key="phillips-george" role="sender:gelehrter">George
+                        Phillips</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1852-10-26">26. Oktober 1852</date>
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1852-10-26">26. Oktober 1852</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -36,7 +35,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -50,44 +49,44 @@
                 <p>Hochgeborner Herr Graf,<lb/>
                 </p>
                 <p>Euer Excellenz geruthen vor einiger Zeit mich in Betreff der katholischen
-                    Gesinnung des <persName key="halm-karl-felix">Professors Halm</persName> zu
+                    Gesinnung des <rs type="person" ref="halm-karl-felix" key="halm-karl-felix">Professors Halm</rs> zu
                     befragen, und ich befand mich nicht in der Lage hierüber eine nähere Auskunft zu
                     geben als diejenige war, welche ich schon früher mit Hochdero Befehl mir
                     verschafft hatte. Ich habe mich unterdessen an den mir persönlich befreundeten
-                    Herrn <persName key="riedel-valentin">Bischof von Regensburg</persName>
-                    gewendet, der infolge der Verheiratung <persName key="halm-karl-felix">Halms</persName> mit der Wittwe seines Bruders mit ihm verschwägert ist.
-                    Selbst bettlägrig hat der <persName key="riedel-valentin">Herr
-                        Bischof</persName> seinen Secretär beauftragt an mich zu schreiben, und es
+                    Herrn <rs type="person" ref="riedel-valentin" key="riedel-valentin">Bischof von Regensburg</rs>
+                    gewendet, der infolge der Verheiratung <rs type="person" ref="halm-karl-felix" key="halm-karl-felix">Halms</rs> mit der Wittwe seines Bruders mit ihm verschwägert ist.
+                    Selbst bettlägrig hat der <rs type="person" ref="riedel-valentin" key="riedel-valentin">Herr
+                        Bischof</rs> seinen Secretär beauftragt an mich zu schreiben, und es
                     äußert sich derselbe in seinem Brief wie folgt:<lb/>„Seiner Bischöflichen Gnaden
-                    ist zwar nicht bekannt, daß <persName key="halm-karl-felix">Halm</persName> eine
+                    ist zwar nicht bekannt, daß <rs type="person" ref="halm-karl-felix" key="halm-karl-felix">Halm</rs> eine
                     active Thätigkeit in der Verbreitung kirchenfeindlicher Lehren entwickelte –
                     allein derselbe scheint im Herzen kein Katholik zu sein. Aus dem Munde seines
-                    Stiefsohnes hat Reverendissimus vernommen, daß <persName key="halm-karl-felix">H[alm]</persName> in <placeName ref="#place_1729f2972f796c56cb9cc0ecd3c59e91">Hadamar</placeName> an jenen Tagen, an
+                    Stiefsohnes hat Reverendissimus vernommen, daß <rs type="person" ref="halm-karl-felix" key="halm-karl-felix">H[alm]</rs> in <rs type="place" subtype="place" ref="#place_1729f2972f796c56cb9cc0ecd3c59e91">Hadamar</rs> an jenen Tagen, an
                     welchen für den Herzog [?] katholischer Gottesdienst war, sich diesem entzog, um
                     durch sein Beiwohnen nicht als Heuchler zu erscheinen. Seine Bischöflichen
                     Gnaden müssen mit Schmerz auch anführen, daß die ganze häusliche Erziehung eine
                     heidnische sei und daß weder Kind noch Frau einen Glauben zu haben scheinen.
-                    Reverendissimo ist <persName key="halm-karl-felix">Halm</persName> stets als ein
-                    hochmüthiger Schüler von <persName key="thiersch-friedrich-wilhelm">Herrn
-                        Hofrath Thiersch</persName> vorgekommen. <persName key="riedel-valentin">Herr Bischof</persName> trägt mir, als einem Schüler des <persName key="halm-karl-felix">Halm</persName> (am neuen Gymnasium in <placeName key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</placeName>) zugleich die damalige Äußerung desselben
-                    vor allen Schülern mitzutheilen, auf: daß er (<persName key="halm-karl-felix">Halm</persName>), wenn er nämlich ex offo zur Aufsicht in die Kirche ging,
+                    Reverendissimo ist <rs type="person" ref="halm-karl-felix" key="halm-karl-felix">Halm</rs> stets als ein
+                    hochmüthiger Schüler von <rs type="person" ref="thiersch-friedrich-wilhelm" key="thiersch-friedrich-wilhelm">Herrn
+                        Hofrath Thiersch</rs> vorgekommen. <rs type="person" ref="riedel-valentin" key="riedel-valentin">Herr Bischof</rs> trägt mir, als einem Schüler des <rs type="person" ref="halm-karl-felix" key="halm-karl-felix">Halm</rs> (am neuen Gymnasium in <rs type="place" subtype="place" key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs>) zugleich die damalige Äußerung desselben
+                    vor allen Schülern mitzutheilen, auf: daß er (<rs type="person" ref="halm-karl-felix" key="halm-karl-felix">Halm</rs>), wenn er nämlich ex offo zur Aufsicht in die Kirche ging,
                     am liebsten in einem griechischen Classiker – der Name ist mir entfallen – lese
                     und sich daran mehr als an den Gebetbüchern erbaue. Ausfälle gegen die Kirche
                     sind mir jedoch aus seinem Munde nicht bekannt.“<lb/>Bei dieser Gelegenheit
                     erlaube ich mir Euer Excellenz noch eine andere Mittheilung zu machen. Vor
-                    kurzem ist ein sehr gutes Buch von <persName key="segesser-philipp-anton">Segesser</persName> über die „Staats- und Rechtsgeschichte von Luzern“
+                    kurzem ist ein sehr gutes Buch von <rs type="person" ref="segesser-philipp-anton" key="segesser-philipp-anton">Segesser</rs> über die „Staats- und Rechtsgeschichte von Luzern“
                         erschienen.<note xml:id="note_1">Vgl. <ref target="http://www.bsb-muenchen-digital.de/~web/web1062/bsb10623681/images/index.html?digID=bsb10623681&amp;pimage=6&amp;v=pdf&amp;nav=0&amp;l=de">Philipp Anton Segesser, Staats-Rechtsgeschichte der Stadt und Republik
                             Luzern, 1850–1858</ref>.</note> Ich habe in Betreff des talentvollen
                     Verfassers nähere Erkundigung eingezogen und in Erfahrung gebracht, daß er
                     überhaupt ein sehr tüchtiger Mann sei, sehr gut sprechen und sich aus der
-                        <country ref="#place_7a0be5a1ed9675975e678b517f07573c">Schweiz</country> hinweg sehne. Der Fall der Berufung eines
+                        <rs type="place" subtype="country" ref="#place_7a0be5a1ed9675975e678b517f07573c">Schweiz</rs> hinweg sehne. Der Fall der Berufung eines
                     Schweizer Gelehrten in dem Fache der Rechtsgeschichte auf eine deutsche
-                    Universität ist schon vorgekommen, indem <persName key="bluntschli-johann-caspar">Bluntschli</persName>, Verfasser einer
+                    Universität ist schon vorgekommen, indem <rs type="person" ref="bluntschli-johann-caspar" key="bluntschli-johann-caspar">Bluntschli</rs>, Verfasser einer
                     Züricher Rechtsgeschichte<note xml:id="note_2">Vgl. <ref target=" http://data.onb.ac.at/ABO/%2BZ16690680X">Johann Caspar
                             Bluntschli, Staats- und Rechtsgeschichte der Stadt und Landschaft
                             Zürich, Zürich 1838</ref>.</note>, an meiner Stelle in <orgName key="universitaet-muenchen">München</orgName> die Professur des deutschen
-                    Rechtes erhielt. An <persName key="arndts-carl-ludwig">Prof. Arndts</persName>
-                    nach <placeName ref="#place_d0a6343a081a7335baa965ce4fd0845c">München</placeName> habe ich bereits Sonntag vor 8 Tagen
+                    Rechtes erhielt. An <rs type="person" ref="arndts-carl-ludwig" key="arndts-carl-ludwig">Prof. Arndts</rs>
+                    nach <rs type="place" subtype="place" ref="#place_d0a6343a081a7335baa965ce4fd0845c">München</rs> habe ich bereits Sonntag vor 8 Tagen
                     geschrieben und erwarte täglich eine Antwort.<lb/>Genehmigen Hochdieselben den
                     Ausdruck der größten Hochachtung und Verehrung, mit welcher ich mich zeichne
                     als</p>

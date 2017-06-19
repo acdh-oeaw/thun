@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="hasner-von-artha-leopold" role="sender:gelehrter">Leopold
-                        Hasner</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="hasner-von-artha-leopold" key="hasner-von-artha-leopold" role="sender:gelehrter">Leopold
+                        Hasner</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, <date when="1858-07-11">11. Juli 1858</date>
+                    <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1858-07-11">11. Juli 1858</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -43,7 +42,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -63,8 +62,8 @@
                     Dienst dabei nicht im Mindesten leiden wird, weil alle meine Dekanats- und
                     Staatsprüfungsgeschäfte in bester Ordnung sind und abgeschlossen werden in den
                     Ferien, seit die Dekanate bestehen, bisher nie etwas Wichtigeres vorkam, zudem
-                    aber Professor <persName key="schneider-franz-xaver">Schneider</persName>, der
-                    die Ferien in <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> zubringt, mich für alle Fälle zu
+                    aber Professor <rs type="person" ref="schneider-franz-xaver" key="schneider-franz-xaver">Schneider</rs>, der
+                    die Ferien in <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> zubringt, mich für alle Fälle zu
                     substituiren bereit ist.<lb/>Über manches Vorkommnis meines übrigens glücklich
                     zum Ende geführten Dekanats und Assessorats beim akademischen Senate hätte ich
                     sehr gewünscht, Euer Excellenz berichten zu dürfen, da die Acten nicht immer ein
@@ -75,9 +74,9 @@
                     ohne weiteres zu belästigen, kann auch vielleicht hoffen, bei günstigem Anlasse
                     dies mündlich in kürzerer Frist thun zu können. Sollte dies aber nicht möglich
                     sein und mir Euer Excellenz die Erlaubnis dazu ertheilen, so würde ich gerne von
-                        <placeName ref="#place_ca4652977c853dd756cb39a683844938">Wartenberg</placeName> aus, wohin ich mich zu meiner Kur begeben
+                        <rs type="place" subtype="place" ref="#place_ca4652977c853dd756cb39a683844938">Wartenberg</rs> aus, wohin ich mich zu meiner Kur begeben
                     soll, über zwei Punkte wenigstens mich aussprechen, nämlich: der Vorgang
-                    rücksichtlich der Beantragung einer Rangerhöhung des <persName key="chlupp-johann">Prof. Chlupp</persName>; und sodann die Angelegenheit
+                    rücksichtlich der Beantragung einer Rangerhöhung des <rs type="person" ref="chlupp-johann" key="chlupp-johann">Prof. Chlupp</rs>; und sodann die Angelegenheit
                     der im Senate zur Besprechung gekommenen Gymnasialreform, über welche
                     Verhandlung das dem <orgName key="ministerium-fuer-kultus-und-unterricht">hohen
                         Ministerium</orgName> vorgelegte Protokoll, das zudem erst nach Kassirung

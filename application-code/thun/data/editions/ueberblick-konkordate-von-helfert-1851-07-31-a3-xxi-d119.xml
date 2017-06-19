@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Überblick über die seit dem 15. Jahrhundert geschlossenen Konkordate von
-                        <persName key="helfert-joseph-alexander">Joseph Alexander
-                        Helfert</persName>
+                        <rs type="person" ref="helfert-joseph-alexander" key="helfert-joseph-alexander">Joseph Alexander
+                        Helfert</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1851-07-31">31. Juli 1851</date>
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1851-07-31">31. Juli 1851</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -44,7 +43,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -67,15 +66,15 @@
                     Fürsorge ein beiderseitiges Zusammenwirken sowohl der geistlichen als der
                     weltlichen Macht bedingte. Daher berühren sie insgemein als Objekte <hi rend="ul">die geistlichen Personen und Kirchenvorsteher</hi> in Absicht auf
                     deren Anstellung und Ausschließung, deren Gewalt und Gerichtsbarkeit, deren
-                    Verbindung mit <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName> und die Begränzung von deren Sprengel;
+                    Verbindung mit <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs> und die Begränzung von deren Sprengel;
                     die <hi rend="ul">Religionsübungen und heiligen Handlungen</hi> in Absicht auf
                     deren Anordnung und Vornahme; die <hi rend="ul">äußeren</hi> Güter der Kirche in
                     Absicht auf deren Erwerbung, Erhaltung, Verwaltung und Veräußerung.<lb/>Als die
                     älteste Erscheinung dieser Art mag das aus Anlaß des bekannten
-                    Investiturstreites zwischen Kaiser <persName key="heinrich-V">Heinrich
-                        V.</persName> und Pabst <persName key="calixt-II">Calixt II.</persName> am
-                    23. September 1122 zu <placeName ref="#place_8ba2899ede00d981bb3faa9e58dd21b0">Worms</placeName> abgeschlossene Übereinkommen
-                    angesehen werden, dessen Inhalt dahin ging, daß der <persName key="heinrich-V">Kaiser</persName> die Wahlfreiheit rücksichtlich der Prälaturen in
+                    Investiturstreites zwischen Kaiser <rs type="person" ref="heinrich-V" key="heinrich-V">Heinrich
+                        V.</rs> und Pabst <rs type="person" ref="calixt-II" key="calixt-II">Calixt II.</rs> am
+                    23. September 1122 zu <rs type="place" subtype="place" ref="#place_8ba2899ede00d981bb3faa9e58dd21b0">Worms</rs> abgeschlossene Übereinkommen
+                    angesehen werden, dessen Inhalt dahin ging, daß der <rs type="person" ref="heinrich-V" key="heinrich-V">Kaiser</rs> die Wahlfreiheit rücksichtlich der Prälaturen in
                     Hochstiftern [sic!] und Abteien anerkannte, auf die Investitur der Bischöfe und
                     Prälaten mit Ring und Stab verzichtete und ihm blos die Belehnung mit den
                     weltlichen Regalien und den aus diesen abfließenden Rechten vorbehalten wurde –
@@ -83,11 +82,11 @@
                     Calixtinum genannt.</p>
                 <p>I.<lb/>Neue und vielfältigere Veranlaßung zum Abschluße von Concordaten boten die
                     Ereignisse des 15. Jahrhundertes, namentlich beider Concilien von Kostniz
-                        [<placeName ref="#place_7492c6d9128ba8eb418230d46e257d92">Konstanz</placeName>] und <placeName ref="#place_aea93afdf4bee7f4b52526ee5f040cea">Basel</placeName>. Das
+                        [<rs type="place" subtype="place" ref="#place_7492c6d9128ba8eb418230d46e257d92">Konstanz</rs>] und <rs type="place" subtype="place" ref="#place_aea93afdf4bee7f4b52526ee5f040cea">Basel</rs>. Das
                     erstere ging auseinander, ohne die große Reformation in capite et in membris,
                     deren tief und allgemein gefühltes Bedürfnis einer der Haupthebel seines
                     Zustandekommens gewesen, zur Ausführung zu bringen. Allein der auf dieser
-                    Kirchenversammlung gewählte Pabst <persName key="martin-V">Martin V.</persName>
+                    Kirchenversammlung gewählte Pabst <rs type="person" ref="martin-V" key="martin-V">Martin V.</rs>
                     traf mit dreien der auf derselben vertretenen Nationen besondere Bestimmungen,
                     welche sich auf die Abstellung einzelner Mißbräuche wie auf theilweise
                     Verminderung der päbstlichen Reservationen und Vorrechte bezogen.<lb/>
@@ -114,70 +113,70 @@
                     non concedendo,<lb/>V. de dispensationis,<lb/>VI. de Anglis ad officia Romanae
                     curiae assumendis.<lb/>Das englische Concordat wurde unbedingt, das deutsche und
                     französische vorläufig nur auf fünf Jahre geschlossen.<lb/>Während des
-                        <placeName key="basel" ref="#place_7aaf6c53e9feb6c123b1db536cf7c544">Basler</placeName> Kirchenrathes hatte eine zu
-                        <placeName ref="#place_3496da6c1db0a5223edb1fb4c415a154">Mainz</placeName> abgehaltene deutsche Fürsten- und
+                        <rs type="place" subtype="place" key="basel" ref="#place_7aaf6c53e9feb6c123b1db536cf7c544">Basler</rs> Kirchenrathes hatte eine zu
+                        <rs type="place" subtype="place" ref="#place_3496da6c1db0a5223edb1fb4c415a154">Mainz</rs> abgehaltene deutsche Fürsten- und
                     Ständeversammlung eine bestimmte Anzahl (sechsundzwanzig) von den
                     Reformationsdekreten der Synode feierlich angenommen, zugleich aber gegen die
-                    ausgesprochene Suspension Pabst <persName key="eugen-IV">Eugen IV.</persName>
+                    ausgesprochene Suspension Pabst <rs type="person" ref="eugen-IV" key="eugen-IV">Eugen IV.</rs>
                     protestirt (26. März 1439). Mehrere Zwischenfälle hatten die Stimmung der
                     deutschen Fürsten dahin gereizt, daß sie auf einer späteren Fürstenversammlung
-                    zu <placeName ref="#place_4312d5c8cdda027420c474e2221abc34">Frankfurt</placeName> vier Punkte, worunter auch die Superiorität
+                    zu <rs type="place" subtype="place" ref="#place_4312d5c8cdda027420c474e2221abc34">Frankfurt</rs> vier Punkte, worunter auch die Superiorität
                     der Concilien über den Pabst, aufsetzten (21. März 1446) und durch eine eigene
-                    Gesandtschaft in <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName>
-                    <persName key="eugen-IV">Eugen IV.</persName> zur Bestätigung vorlegen ließen.
-                    Der Vermittlung Kaiser Friedrich III. und seines Kanzlers <persName key="pius-II">Äneas Sylvius von Piccolomini</persName> gelang es, die
+                    Gesandtschaft in <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs>
+                    <rs type="person" ref="eugen-IV" key="eugen-IV">Eugen IV.</rs> zur Bestätigung vorlegen ließen.
+                    Der Vermittlung Kaiser Friedrich III. und seines Kanzlers <rs type="person" ref="pius-II" key="pius-II">Äneas Sylvius von Piccolomini</rs> gelang es, die
                     Fürsten zu einer Milderung ihrer Forderungen zu bestimmen, und so kam auf dem
-                    Churfürstenconvente zu <placeName ref="#place_4312d5c8cdda027420c474e2221abc34">Frankfurt</placeName> (September 1446) eine
-                    Vereinigung der Fürsten mit dem <persName key="eugen-IV">Pabste</persName> in
+                    Churfürstenconvente zu <rs type="place" subtype="place" ref="#place_4312d5c8cdda027420c474e2221abc34">Frankfurt</rs> (September 1446) eine
+                    Vereinigung der Fürsten mit dem <rs type="person" ref="eugen-IV" key="eugen-IV">Pabste</rs> in
                     den sog. <hi rend="ul">Concordata principum</hi> zu Stande (4. Oktober 1446), zu
                     Folge welcher sich die Fürsten, die früher auf einer unbedingten Bestätigung
-                    jener <placeName key="basel" ref="#place_7aaf6c53e9feb6c123b1db536cf7c544">Basler</placeName> Decrete bestanden, sich mit
+                    jener <rs type="place" subtype="place" key="basel" ref="#place_7aaf6c53e9feb6c123b1db536cf7c544">Basler</rs> Decrete bestanden, sich mit
                     einer bedingten Bestätigung begnügen wollten, welche durch eine abermalige
-                    Gesandtschaft vom <persName key="eugen-IV">Pabste</persName> begehrt wurde. Den
+                    Gesandtschaft vom <rs type="person" ref="eugen-IV" key="eugen-IV">Pabste</rs> begehrt wurde. Den
                     solchergestalt auf beiderseitige Zugeständnisse basirten Frieden bestätigte noch
-                    sterbend Pabst <persName key="eugen-IV">Eugen IV.</persName> in vier eigenen
+                    sterbend Pabst <rs type="person" ref="eugen-IV" key="eugen-IV">Eugen IV.</rs> in vier eigenen
                     Bullen (5. und 7. Februar 1447), obgleich nicht ohne Verwahrung wegen seiner
                     Krankheit gegen alles, was dabei der Wahrheit, der Kirche oder dem römischen
                     Stuhle nachtheilig werden könnte und nicht ohne mehrfachen Widerspruch der
                     Cardinäle, die darin zu große Beschränkung der Rechte des römischen Stuhles
                     erblickten.<lb/>Dies sind die sogenannten <hi rend="ul">Concordata
                         principum</hi>.<lb/>
-                    <persName key="eugen-IV">Eugen’s</persName> Nachfolger
-                    Pabst <persName key="nikolaus-V">Nicolaus V.</persName> gelang es jedoch am 17.
-                    Februar 1448 zu <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> einen Separatvertrag mit Kaiser
-                        <persName key="friedrich-III">Friedrich III.</persName> zu Stande zu
+                    <rs type="person" ref="eugen-IV" key="eugen-IV">Eugen’s</rs> Nachfolger
+                    Pabst <rs type="person" ref="nikolaus-V" key="nikolaus-V">Nicolaus V.</rs> gelang es jedoch am 17.
+                    Februar 1448 zu <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> einen Separatvertrag mit Kaiser
+                        <rs type="person" ref="friedrich-III" key="friedrich-III">Friedrich III.</rs> zu Stande zu
                     bringen, der weil man sich über den Ort des Abschlußes irrte, unter dem Namen
-                        <placeName key="aschaffenburg" ref="#place_73e9305b2e53d8187a80ebc71e702843">Aschaffenburger</placeName> Concordate in das
+                        <rs type="place" subtype="place" key="aschaffenburg" ref="#place_73e9305b2e53d8187a80ebc71e702843">Aschaffenburger</rs> Concordate in das
                     Reichsgesetz kam, wodurch die von seinem Vorgänger bedingt erfolgte Annahme der
                     Basler Reformationsdekrete aufgehoben, dadurch die meisten der in den
                     sogenannten Fürstenconcordaten der deutschen Kirche zugestandenen Rechte
-                    eingeschränkt wurden und es eigentlich auf die im <placeName key="konstanz" ref="#place_2832feaf9f9a8f842b4cf2dc2de4e696">Costnizer</placeName> Vergleiche vom Jahre 1418 zurückkam.<note xml:id="note_1">Anmerkung Helferts: So hatte z. B. letzteres dem Pabste die
+                    eingeschränkt wurden und es eigentlich auf die im <rs type="place" subtype="place" key="konstanz" ref="#place_2832feaf9f9a8f842b4cf2dc2de4e696">Costnizer</rs> Vergleiche vom Jahre 1418 zurückkam.<note xml:id="note_1">Anmerkung Helferts: So hatte z. B. letzteres dem Pabste die
                         Hälfte aller noch nicht bestimmt reservirten Kirchenämter mit Ausschluß der
                         Dignitäten, dem Pabste zur Vergebung nach dem Wechsel vorbehalten. Das
-                        Concil von <placeName ref="#place_aea93afdf4bee7f4b52526ee5f040cea">Basel</placeName> und die auf dessen Grundlage
+                        Concil von <rs type="place" subtype="place" ref="#place_aea93afdf4bee7f4b52526ee5f040cea">Basel</rs> und die auf dessen Grundlage
                         geschlossenen Fürstenconcordate hatten die sämmtlichen zu übermäßiger
                         Ausdehnung angewachsenen päbstlichen Reservationen wesentlich eingeschränkt.
-                        Allein das <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wiener</placeName> Concordat stellte den
-                        Punkt des <placeName key="konstanz" ref="#place_2832feaf9f9a8f842b4cf2dc2de4e696">Costnizer</placeName> Concordats mit der
+                        Allein das <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wiener</rs> Concordat stellte den
+                        Punkt des <rs type="place" subtype="place" key="konstanz" ref="#place_2832feaf9f9a8f842b4cf2dc2de4e696">Costnizer</rs> Concordats mit der
                         deutschen Nation dadurch wieder her, daß der Pabst in den ungleichen, der
                         ordentliche collator benefici in den gleichen Monaten verleihen solle, und
                         zwar der erstere in dreimonatlicher Frist.</note> Die einzelnen Stände
                     traten gegen mancherlei auf Kosten der Kirche ihnen gewährten Vergünstigungen
-                    dem <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wiener</placeName> Concordate nach der Hand
-                    bei.<lb/>In <country ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</country> hatten die Beschlüsse der <placeName key="basel" ref="#place_7aaf6c53e9feb6c123b1db536cf7c544">Basler</placeName> Synode zu der „pragmatischen Sanction“
-                    geführt, indem <persName key="karl-VII">Karl VII.</persName> auf einer
-                    Versammlung zu <placeName ref="#place_de7a4e22553bc10c07df6dcb6aa786dd">Bourges</placeName> (1438) 23 Sätze desselben annehmen
+                    dem <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wiener</rs> Concordate nach der Hand
+                    bei.<lb/>In <rs type="place" subtype="country" ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</rs> hatten die Beschlüsse der <rs type="place" subtype="place" key="basel" ref="#place_7aaf6c53e9feb6c123b1db536cf7c544">Basler</rs> Synode zu der „pragmatischen Sanction“
+                    geführt, indem <rs type="person" ref="karl-VII" key="karl-VII">Karl VII.</rs> auf einer
+                    Versammlung zu <rs type="place" subtype="place" ref="#place_de7a4e22553bc10c07df6dcb6aa786dd">Bourges</rs> (1438) 23 Sätze desselben annehmen
                     und das Ganze darauf bei den Parlamenten einregistriren ließ. Diese pragmatische
                     Sanction ist als ein Grundgesetz der sog. gallikanischen Freiheiten zu
                     betrachten, dessen Nachwirkung selbst dann nicht an Kraft verlor, als König
-                        <persName key="franz-I-II">Franz I.</persName> und Pabst <persName key="leo-X">Leo X.</persName> im Jahre 1516 durch das <hi rend="ul">Concordat von <placeName ref="#place_7014d0181914fb4722b90a49d53f5471">Bologna</placeName>
+                        <rs type="person" ref="franz-I-II" key="franz-I-II">Franz I.</rs> und Pabst <rs type="person" ref="leo-X" key="leo-X">Leo X.</rs> im Jahre 1516 durch das <hi rend="ul">Concordat von <rs type="place" subtype="place" ref="#place_7014d0181914fb4722b90a49d53f5471">Bologna</rs>
                     </hi> (publicirt 12. Mai 1517)
                     sich in diese Freiheiten getheilt hatten.</p>
                 <p>II.<lb/>Neuerlicher Stoff zur Abschließung von Concordaten war in
-                        <country ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</country> nach der Revolution, in den andern
+                        <rs type="place" subtype="country" ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</rs> nach der Revolution, in den andern
                     europäischen Ländern in der Zeit nach der Restauration gegeben.<lb/>Am 10.
                     September 1801 kam das <hi rend="ul">französische Concordat</hi> zwischen
-                        <persName key="napoleon-bonaparte">Bonaparte</persName> und Pabst<persName key="pius-VII"> Pius VII.</persName> zu Stande. Es berührt in 17 Absätzen
+                        <rs type="person" ref="napoleon-bonaparte" key="napoleon-bonaparte">Bonaparte</rs> und Pabst<rs type="person" ref="pius-VII" key="pius-VII"> Pius VII.</rs> zu Stande. Es berührt in 17 Absätzen
                     folgende Gegenstände: Gewährleistung des römisch-katholischen Cultus, „en se
                     conformant aux règlement de police“, neue Umschreibung der Diöcesen in Aussicht
                     gestellt; Erneuerung der Erzbischöfe und Bischöfe; Eid der Bischöfe und Pfarrer;
@@ -190,11 +189,11 @@
                     enthalten vielmehr; allein sie sind einseitig von der Staatsgewalt erflossen und
                     vom römischen Stuhle vom ersten Augenblicke an nicht anerkannt worden.<lb/>Zu
                     dem <hi rend="ul">zweiten französischen Concordat</hi> ddto.
-                        <placeName ref="#place_e7444ef996bf5c522217cd9100feb4eb">Fontainebleau</placeName>, 25. Jänner 1813 hat <persName key="napoleon-bonaparte">Napoleon</persName> dem gefangenen <persName key="pius-VII">Pius VII.</persName> die Zeichnung seines Namens zu entlocken
+                        <rs type="place" subtype="place" ref="#place_e7444ef996bf5c522217cd9100feb4eb">Fontainebleau</rs>, 25. Jänner 1813 hat <rs type="person" ref="napoleon-bonaparte" key="napoleon-bonaparte">Napoleon</rs> dem gefangenen <rs type="person" ref="pius-VII" key="pius-VII">Pius VII.</rs> die Zeichnung seines Namens zu entlocken
                     gewußt, welche dieser gleich darauf in einem Schreiben an den Kaiser vom 24.
                     März als eine gegen sein Gewissen gegebene zurückrief. Unter dem 11. Juni 1817
-                    kam zwischen Pabst <persName key="pius-VII">Pius VII.</persName> und König
-                    Ludwig XV. [sic! <persName key="ludwig-XVIII">Ludwig XVIII.</persName>] das <hi rend="ul">dritte französische Concordat</hi> zu Stande, welches in seinem
+                    kam zwischen Pabst <rs type="person" ref="pius-VII" key="pius-VII">Pius VII.</rs> und König
+                    Ludwig XV. [sic! <rs type="person" ref="ludwig-XVIII" key="ludwig-XVIII">Ludwig XVIII.</rs>] das <hi rend="ul">dritte französische Concordat</hi> zu Stande, welches in seinem
                     ersten Artikel das Concordat vom Jahre 1816 wieder herstellte, in seinem zweitem
                     die „Articles organiques“ abschaffte; in seinen weiteren Artikeln verschiedene
                     Garantien für die Ansprüche der katholischen Kirche feststellte.<lb/>Nicht
@@ -214,7 +213,7 @@
                     Kirche in deutschen Bundesstaaten“ zusammengetreten und die Bevollmächtigten
                     derselben hatten sich über eine Grundlage geeinigt, die durchaus von dem Geiste
                     des Febronianismus und der Emser Beschlüsse durchweht war. Daher war es
-                    natürlich, daß der <persName key="pius-VII">Pabst</persName> dieser „magna
+                    natürlich, daß der <rs type="person" ref="pius-VII" key="pius-VII">Pabst</rs> dieser „magna
                     charta libertatum ecclesiae catholicae Romanae“ die Berufung auf das göttliche
                     Recht seines Primates und die vigens ecclesiae disciplina entgegensetzte und die
                     Concordate, welche in der Folge mit den einzelnen dieser Länder zu Stande kamen,
@@ -222,22 +221,22 @@
                     Einrichtung und Begränzung der Diöcesen, auf die Anordnung und Ausstattung der
                     Bisthümer und Kapitel beschränken. So entstand das preußische Concordat vom 16.
                     Juli 1821, die Bullen für die <hi rend="ul">oberrheinische Kirchenprovinz</hi>,
-                    – <region key="wuerttemberg" ref="#place_d3339865dfd97ccc0793c342cbd8094f">Würtemberg</region>, <region ref="#place_9a43e84f6e1d406076f2372205804f6d">Baden</region>, die
-                    beiden <region ref="#place_b1955bcdd57fab7b269abbb05a7abd51">Hessen</region>, <region ref="#place_b3a3a0c6d2cb7b5adc8d3568f73ad8b2">Nassau</region>, die <region key="sachsen" ref="#place_ebfc6cb966060a8a33e603c0859ac410">sächsischen Herzogthümer</region>, <region ref="#place_829363207fea4d1cb85b45a8701b591a">Oldenburg</region>,
-                        <region key="waldeck-pyrmont" ref="#place_cc6a66add51a27240d536d2016660637">Waldek</region>,
-                        <placeName ref="#place_4312d5c8cdda027420c474e2221abc34">Frankfurt</placeName>, <placeName key="luebeck" ref="#place_558457f2b9579a9215b40c70f79c8273">Lübek</placeName>
-                    und <placeName ref="#place_92c1f80a07ad537ddb7e00137d6a25f9">Bremen</placeName> vom 16. August 1821 und 11. April 1827,
-                    endlich das <placeName key="hannover" ref="#place_6ea98adbe89dfab2227635ac7d7fe8fe">Hanoversche</placeName> Concordat vom 26.
+                    – <rs type="place" subtype="region" key="wuerttemberg" ref="#place_d3339865dfd97ccc0793c342cbd8094f">Würtemberg</rs>, <rs type="place" subtype="region" ref="#place_9a43e84f6e1d406076f2372205804f6d">Baden</rs>, die
+                    beiden <rs type="place" subtype="region" ref="#place_b1955bcdd57fab7b269abbb05a7abd51">Hessen</rs>, <rs type="place" subtype="region" ref="#place_b3a3a0c6d2cb7b5adc8d3568f73ad8b2">Nassau</rs>, die <rs type="place" subtype="region" key="sachsen" ref="#place_ebfc6cb966060a8a33e603c0859ac410">sächsischen Herzogthümer</rs>, <rs type="place" subtype="region" ref="#place_829363207fea4d1cb85b45a8701b591a">Oldenburg</rs>,
+                        <rs type="place" subtype="region" key="waldeck-pyrmont" ref="#place_cc6a66add51a27240d536d2016660637">Waldek</rs>,
+                        <rs type="place" subtype="place" ref="#place_4312d5c8cdda027420c474e2221abc34">Frankfurt</rs>, <rs type="place" subtype="place" key="luebeck" ref="#place_558457f2b9579a9215b40c70f79c8273">Lübek</rs>
+                    und <rs type="place" subtype="place" ref="#place_92c1f80a07ad537ddb7e00137d6a25f9">Bremen</rs> vom 16. August 1821 und 11. April 1827,
+                    endlich das <rs type="place" subtype="place" key="hannover" ref="#place_6ea98adbe89dfab2227635ac7d7fe8fe">Hanoversche</rs> Concordat vom 26.
                     März 1824.</p>
                 <p>Mit außerdeutschen Ländern kamen in dieser Periode folgende wichtigere Concordate
-                    zu Stande:<lb/>a. mit <country ref="#place_bda7ca450e6e9d5ac998b659ef6ecf3c">
+                    zu Stande:<lb/>a. mit <rs type="place" subtype="country" ref="#place_bda7ca450e6e9d5ac998b659ef6ecf3c">
                         <hi rend="ul">Sardinien</hi>
-                    </country> durch die
+                    </rs> durch die
                     Bulle vom 17. Juni 1817, betrifft Herstellung der Diöcesaneintheilung,
                     Einrichtung der Seminarien, Verhältnisse der Abteien, Organisation der
-                    Capitel;<lb/>b. mit dem <country key="koenigreich-beider-sizilien" ref="#place_f40f64e9f62ad587f6de7a4913473552">
+                    Capitel;<lb/>b. mit dem <rs type="place" subtype="country" key="koenigreich-beider-sizilien" ref="#place_f40f64e9f62ad587f6de7a4913473552">
                         <hi rend="ul">Königreich beider Sizilien</hi>
-                    </country> durch die Bulle vom 16. Febr.
+                    </rs> durch die Bulle vom 16. Febr.
                     1818. Gewährleistung der Rechte der katholischen Kirche im allg. (I.) und
                     insbesondere rücksichtlich des Unterrichtes (II.); Diözesen, Capitel, Abteien
                     und Pfarren (III.–XI.); Kirchengut (XII.–XX.), bischöfliche Gewalt, von
@@ -245,12 +244,12 @@
                     Stuhl (XXII.–XXIV.); bischöfliche Censur über Bücher (XXV.); königliches
                     Ernennungsrecht der Bischöfe und Eid derselben (XXVIII. XXIX.);<lb/>c. mit den
                         <hi rend="ul">
-                        <country key="schweiz" ref="#place_4160709db9e1cdde5a7947ce6d71bb0d">Schweizer</country> Cantonen</hi> durch
-                    die Bulle vom 8. Juli 1823 (Errichtung des Bisthums <placeName ref="#place_2034bb096fbfae1fec1a624cf45a463c">St.
-                        Gallen</placeName>), vom 26. März 1828 (Umschreibung des Bisthums
-                        <placeName ref="#place_aea93afdf4bee7f4b52526ee5f040cea">Basel</placeName>) und vom 23. März 1830 (Beitritt der Cantone
-                        <placeName ref="#place_dea79facf05c526769f25ea6ebdc03ad">Aargau</placeName> und <placeName key="thurgau" ref="#place_2a4be755c8b67c0c6cfe1a447c30b96f">Thürgau</placeName> zu dem Concordat vom 26. März 1828).<lb/>d. mit den
-                        <country ref="#place_dade05c3eff728442570d04fa82752ba">Niederlanden</country> durch die Bulle vom 16. September 1827.</p>
+                        <rs type="place" subtype="country" key="schweiz" ref="#place_4160709db9e1cdde5a7947ce6d71bb0d">Schweizer</rs> Cantonen</hi> durch
+                    die Bulle vom 8. Juli 1823 (Errichtung des Bisthums <rs type="place" subtype="place" ref="#place_2034bb096fbfae1fec1a624cf45a463c">St.
+                        Gallen</rs>), vom 26. März 1828 (Umschreibung des Bisthums
+                        <rs type="place" subtype="place" ref="#place_aea93afdf4bee7f4b52526ee5f040cea">Basel</rs>) und vom 23. März 1830 (Beitritt der Cantone
+                        <rs type="place" subtype="place" ref="#place_dea79facf05c526769f25ea6ebdc03ad">Aargau</rs> und <rs type="place" subtype="place" key="thurgau" ref="#place_2a4be755c8b67c0c6cfe1a447c30b96f">Thürgau</rs> zu dem Concordat vom 26. März 1828).<lb/>d. mit den
+                        <rs type="place" subtype="country" ref="#place_dade05c3eff728442570d04fa82752ba">Niederlanden</rs> durch die Bulle vom 16. September 1827.</p>
                 <p>III.<lb/>Einen abermaligen Wendepunkt bilden endlich die Nachwirkungen der
                     Ereignisse der beiden Revolutionsjahre 1848 und 1849. Das innerlich haltlose und
                     zerklüftete unserer Zustände ist durch diese an den hellen Tag gebracht worden.
@@ -258,18 +257,18 @@
                     die Überzeugung, daß es gegen die Trostlosigkeit der socialen und politischen
                     Zustände wesentlich <hi rend="ul">ein</hi> Heilmittel gebe und daß dieses in der
                     Herstellung von Religiösität und Sittlichkeit bestehe. Mehr und mehr wenden sich
-                    daher die Blicke der Staatsmänner nach <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName>, um der durch
+                    daher die Blicke der Staatsmänner nach <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs>, um der durch
                     die Aufklärungsbestrebungen des vorigen Jahrhunderts vielfach beschränkten und
                     gedrückten Kirche jene Freiheit wieder zu geben, in welcher sie, ohne den
                     Interessen des Staates nahe zu treten, allein im Stande ist, segensreiche
                     Wirkungen zu entfalten und ihr großes Heilswerk erfolgreich zu vollbringen.
                     Diesem Drange entsprungen, liegen bereits zwei Concordate vor uns:<lb/>a. das
-                    mit <country ref="#place_dd90d4124ca1230985ef8a69ffd676e0">
+                    mit <rs type="place" subtype="country" ref="#place_dd90d4124ca1230985ef8a69ffd676e0">
                         <hi rend="ul">Spanien</hi>
-                    </country> vom 16. März 1851<lb/>b. das
-                    mit <country ref="#place_3470c518f7259e73a27df7c6b4e3dc7e">
+                    </rs> vom 16. März 1851<lb/>b. das
+                    mit <rs type="place" subtype="country" ref="#place_3470c518f7259e73a27df7c6b4e3dc7e">
                         <hi rend="ul">Toscana</hi>
-                    </country> vom 31. Juni 1851</p>
+                    </rs> vom 31. Juni 1851</p>
                 <p>Wien, am 31. Juli 1851</p>
                 <p>Helfert</p>
             </div>

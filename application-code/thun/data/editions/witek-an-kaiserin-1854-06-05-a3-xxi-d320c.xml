@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="witek-johann" role="sender:beamter">Johann Witek</persName> an
-                        <persName key="elisabeth" role="recipient">Kaiserin
-                        Elisabeth</persName>
+                    <rs type="person" ref="witek-johann" key="witek-johann" role="sender:beamter">Johann Witek</rs> an
+                        <rs type="person" ref="elisabeth" key="elisabeth" role="recipient">Kaiserin
+                        Elisabeth</rs>
                     <lb/>
-                    <placeName ref="#place_d9a764720128c76e6f6a030d14453db5">Telezí</placeName>, <date when="1854-06-05">5. Juni 1854</date>
+                    <rs type="place" subtype="place" ref="#place_d9a764720128c76e6f6a030d14453db5">Telezí</rs>, <date when="1854-06-05">5. Juni 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -38,7 +37,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -73,7 +72,7 @@
                     Policka in Böhmen</p>
                 <p>Telezí, am 5. Juny 1854</p>
                 <div type="enclosure" xml:id="D320_1">
-                    <p>Von Seiten des gefertigten Pfarramtes wird dem Herrn <persName key="witek-johann">Johann Witek</persName> das wohlverdiente Zeugnis
+                    <p>Von Seiten des gefertigten Pfarramtes wird dem Herrn <rs type="person" ref="witek-johann" key="witek-johann">Johann Witek</rs> das wohlverdiente Zeugnis
                         ertheilt, daß er in den zwei Schuljahren 1847/48 und 1848/49 als exponierter
                         Unterlehrer in Oberslaupnitzer Filialschule in Ertheilung des
                         Schulunterrichtes ohngeachtet seiner wahrhaft drückenden Lage und der
@@ -87,7 +86,7 @@
                         werden verdient, ist, daß er, obwohl er selbst mit der bittersten Armuth zu
                         kämpfen hat, die einstweilige Filialschule, zum unsäglichen Schaden für die
                         katholischen Kinder, aufhöre, er somit samt Weib und Kind brodlos ist, er
-                        demnach den von den in <placeName ref="#place_a3599f1e5e377a1960035ae4e055a97a">Slaupnitz</placeName> [Slupec] die
+                        demnach den von den in <rs type="place" subtype="place" ref="#place_a3599f1e5e377a1960035ae4e055a97a">Slaupnitz</rs> [Slupec] die
                         Überhand habenden, reichen (ev.) helvetischen Insassen gestellten Antrag,
                         durch Abfall von hl. römischkatholischen Glauben gegen die namhafte
                         Remuneration von 100 fl und Verheißung einer splendiden Dotation, die Stelle
@@ -100,7 +99,7 @@
                         Beidrückung des Kirchensigels.</p>
                     <p>Sign. Pfarre Slaupnitz, am 20. Juli 1849</p>
                     <p>
-                        <persName key="burwal-johann">Johann Burwal mp</persName>
+                        <rs type="person" ref="burwal-johann" key="burwal-johann">Johann Burwal mp</rs>
                         <lb/>Pfarrer</p>
                     <p>Coram me</p>
                     <p>Franz Paul<lb/>Schuldistriktvorsteher</p>

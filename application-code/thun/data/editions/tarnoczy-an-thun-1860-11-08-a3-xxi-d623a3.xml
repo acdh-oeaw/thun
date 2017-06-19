@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="tarnoczy-maximilian" role="sender:kleriker">Maximilian
-                        Tarnóczy</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="tarnoczy-maximilian" key="tarnoczy-maximilian" role="sender:kleriker">Maximilian
+                        Tarnóczy</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_ea6515eca27ae68c06c82e8cc2a6d318">Salzburg</placeName>, <date when="1860-11-08">8. November 1860</date>
+                    <rs type="place" subtype="place" ref="#place_ea6515eca27ae68c06c82e8cc2a6d318">Salzburg</rs>, <date when="1860-11-08">8. November 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -41,7 +40,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -63,11 +62,11 @@
                     schmerzliche Empfindung gelöst werden kann. Es steht mir nicht zu und ich
                     überlasse es gerne berechtigteren Händen, Hochdenselben die tiefgefühlte
                     Anerkennung aller der hohen Verdienste auszudrücken, die sich Eure Excellenz in
-                    Bezug auf die Gesammtheit der kirchlichen Interessen in ganz <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</country> unter den schwierigsten Verhältnissen
+                    Bezug auf die Gesammtheit der kirchlichen Interessen in ganz <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</rs> unter den schwierigsten Verhältnissen
                     errungen und unzertrennlich mit Hochdero Namen verknüpft haben, obschon ich mir
                     bewußt bin, in der gerechten Würdigung und Hochschätzung derselben keinem meiner
                     hochwürdigsten Amtsbrüder nachzustehen.<lb/>Was aber die Diöcese und Metropole
-                        <placeName ref="#place_ea6515eca27ae68c06c82e8cc2a6d318">Salzburg</placeName> insbesondere betrifft, so wird sich dieselbe
+                        <rs type="place" subtype="place" ref="#place_ea6515eca27ae68c06c82e8cc2a6d318">Salzburg</rs> insbesondere betrifft, so wird sich dieselbe
                     stets Eurer Excellenz für verpflichtet erachten für die hilfreiche Hand, welche
                     Hochdieselben nach den Unglücksfällen, die meinen Dom und die Kirche zu St.
                     Johann betroffen, bereitwilligst darreichten; – für den Schutz, dessen sich mein

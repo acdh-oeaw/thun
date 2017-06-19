@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="juelg-bernhard" role="sender:gelehrter">Bernhard
-                        Jülg</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="juelg-bernhard" key="juelg-bernhard" role="sender:gelehrter">Bernhard
+                        Jülg</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_fafa41f7e32d84b3a419ca848a2b0880">Krakau</placeName>, <date when="1855-04-20">20. April 1855</date>
+                    <rs type="place" subtype="place" ref="#place_fafa41f7e32d84b3a419ca848a2b0880">Krakau</rs>, <date when="1855-04-20">20. April 1855</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -47,7 +46,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -60,7 +59,7 @@
                 <p>Hochgeborner Herr Graf!<lb/>Hochgebietender Herr Minister!</p>
                 <p>Durch das Schreiben Eurer Excellenz vom 17. dieses Monats<note xml:id="note_1">Vgl. <ref target="thun/thun-korrespondenz/Oesterreichische_Nationalbibliothek/thun-an-juelg_1855-04-17_CA809.xml">Leo Thun an Bernhard Jülg. Wien, 17. April 1855.</ref>
                     </note>, welches
-                        <persName key="mercandin-franz">Graf Mercandin</persName> mir sofort
+                        <rs type="person" ref="mercandin-franz" key="mercandin-franz">Graf Mercandin</rs> mir sofort
                     einhändigte, ist die tiefe Verehrung und Bewunderung, die ich aus innerstem
                     Herzen stets für Hochdieselben gefühlt habe, wenn möglich noch gesteigert
                     worden. Ich kann Nichts thun, als Eurer Excellenz für das darin so lebhaft
@@ -69,9 +68,9 @@
                     spärlich und selbst gegen mein Gefühl, einzelne Notizen an die <orgName key="allgemeine-zeitung">Allgemeine Zeitung</orgName> nach Augsburg gesandt
                     habe, hat seine Richtigkeit. Nur nach wiederholter Bitte habe ich es jedoch
                     gethan und zwar um eine Bücherschuld abzutragen für aus
-                        <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country> direct nach <placeName ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</placeName>
+                        <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> direct nach <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs>
                     bezogene Bücher, die ich bei dem damaligen Stande der Buchhändlerverhältnisse in
-                        <placeName ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</placeName> weit wohlfeiler direct bezog. Um diese Schuld
+                        <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs> weit wohlfeiler direct bezog. Um diese Schuld
                     eher abtragen zu können, lud mich die Cotta’sche Buchhandlung ein, ihr einzelne
                     Notizen und wissenschaftliche Besprechungen zuzusenden, wozu ich mich denn
                     endlich entschloß, so sehr es, ich gestehe es unumwunden, meinem Gefühle
@@ -79,16 +78,16 @@
                     Politik und dergleichen Dingen, die mir gänzlich fremd sind, kam aber in meinen
                     Correspondenzen nie eine Silbe vor, es waren meist culturhistorische und
                     unverfängliche Tagesnotizen. Von einer Verheimlichung aber kann vollends keine
-                    Rede sein, da einmal meine Briefe direct an <persName key="kolb-gustav">Dr.
-                        Kolb</persName> in Augsburg gingen, und dann es in Krakau vielen Personen
-                    bekannt war. Ich wurde namentlich von unserm Herrn Landespräsidenten, <persName key="mercandin-franz">Grafen Mercandin</persName>, wiederholt darin
+                    Rede sein, da einmal meine Briefe direct an <rs type="person" ref="kolb-gustav" key="kolb-gustav">Dr.
+                        Kolb</rs> in Augsburg gingen, und dann es in Krakau vielen Personen
+                    bekannt war. Ich wurde namentlich von unserm Herrn Landespräsidenten, <rs type="person" ref="mercandin-franz" key="mercandin-franz">Grafen Mercandin</rs>, wiederholt darin
                     bestärkt, einzelnen falschen hier herrschenden Ansichten entgegenzutreten und im
                     Interesse der Regierung zur Aufklärung beizutragen, wobei er mich wiederholt
                     versicherte, daß es der Regierung nur erwünscht sein könne so zu wirken.
                     Einzelne Sachen sind geradezu in seinem Auftrage verfaßt, so ist z.B. der
                     Artikel über die Trennung Ost- und Westgaliziens in der außerordentlichen
                     Beilage zu Nr. 165 der Allgemeinen Zeitung vom 14. Juni 1854 nur nach reiflicher
-                    Besprechung mit <persName key="mercandin-franz">Graf Mercandin</persName> und in
+                    Besprechung mit <rs type="person" ref="mercandin-franz" key="mercandin-franz">Graf Mercandin</rs> und in
                     seinem Einvernehmen und speciellen Auftrag geschrieben, und so Anderes nach
                     seinen Ansichten. Und gerade dieser Umstand, nach den Wünschen des hier
                     hochverehrten Landespräsidenten zur Aufklärung hierlands und in weitern Kreisen
@@ -110,15 +109,15 @@
                     sehe, und auf der Stelle hörte ich auf; seit jener Zeit ist keine derartige
                     Zeile mehr geschrieben worden und wird auch nie mehr eine von mir geschrieben
                     werden. Auch ohne Eurer Excellenz hochverehrtes Schreiben war seither das ganze
-                    Verhältnis abgebrochen. Auch dem <persName key="mercandin-franz">Grafen
-                        Mercandin</persName> theilte ich damals diesen Entschluß mit. Und so
+                    Verhältnis abgebrochen. Auch dem <rs type="person" ref="mercandin-franz" key="mercandin-franz">Grafen
+                        Mercandin</rs> theilte ich damals diesen Entschluß mit. Und so
                     wiederhole ich heute auch vor Eurer Excellenz das feierlichste Versprechen, nie
                     mehr eine Zeile in ein anderes als wissenschaftliches Blatt zu schreiben. Die
                     Versicherung aber bitte ich Euer Excellenz huldvollst entgegen nehmen zu wollen,
                     daß meine Gesinnungen und Überzeugungen stets dieselben gewesen sind und
                     unwandelbar bleiben werden, wie Hochdieselben sie aus den Schilderungen meines
-                    greisen Freundes, des hochwürdigen <persName key="vicari-hermann">Erzbischofs
-                        von Freiburg</persName>, kennen.<lb/>Das sind die Verhältnisse, die ich
+                    greisen Freundes, des hochwürdigen <rs type="person" ref="vicari-hermann" key="vicari-hermann">Erzbischofs
+                        von Freiburg</rs>, kennen.<lb/>Das sind die Verhältnisse, die ich
                     Eurer Excellenz mit aller Offenheit darlege, würdig des Vertrauens und
                     Wohlwollens, das aus jedem Worte Hochderselben in Ihrem Schreiben spricht. Die
                     Gefühle der Verehrung und des Dankes, die so lauter und innig von jeher für Euer

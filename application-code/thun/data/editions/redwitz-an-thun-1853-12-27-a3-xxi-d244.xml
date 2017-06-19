@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="redwitz-oskar" role="sender:gelehrter">Oskar
-                        Redwitz</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="redwitz-oskar" key="redwitz-oskar" role="sender:gelehrter">Oskar
+                        Redwitz</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_7662c07d69c12560e2c9652b796714f0">Schellenberg</placeName>, <date when="1853-12-27">27. Dezember 1853</date>
+                    <rs type="place" subtype="place" ref="#place_7662c07d69c12560e2c9652b796714f0">Schellenberg</rs>, <date when="1853-12-27">27. Dezember 1853</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -38,7 +37,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -54,8 +53,8 @@
                     Verehrung Hochihrer Person erlaube ich mir Euerer Excellenz meine
                         „Sieglinde“<note xml:id="note_1">Vgl. <ref target="http://books.google.at/books?id=Jp0uAAAAYAAJ&amp;printsec=frontcover&amp;hl=de#v=onepage&amp;q&amp;f=false">Oskar von Redwitz, Sieglinde: eine Tragödie, Mainz 1854</ref>.</note>
                     zu übersenden mit der Bitte das andere Exemplar als Zeichen größter herzlichster
-                    Ehrerbietung der gnädigen <persName key="thun-hohenstein-caroline">Frau
-                        Gräfin</persName> gütigst einhändigen zu wollen.<lb/>Trotz dem, daß bereits
+                    Ehrerbietung der gnädigen <rs type="person" ref="thun-hohenstein-caroline" key="thun-hohenstein-caroline">Frau
+                        Gräfin</rs> gütigst einhändigen zu wollen.<lb/>Trotz dem, daß bereits
                     die Critik, deren unlautere Motive nur zu leicht zu errathen sind, mit giftigem
                     Hohn alles aufbietet, um mein Werk sogleich beim Erscheinen unterdrücken zu
                     wollen, was mir indes sehr wenig Kummer bereitet, so bin ich doch fest
@@ -77,7 +76,7 @@
                     begeisterter ausharren in Hoffnung des einstigen Sieges, wenn er auch erst überm
                     Grabe mir zutheil wird. Zugleich wage ich es schon jetzt, Euerer Excellenz vor
                     der Hand in privatimer Mittheilung meinen Entschluß freiwillig zu eröffnen, nicht
-                    mehr nach <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> zurückzukehren. Die besonnenste, nichts
+                    mehr nach <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> zurückzukehren. Die besonnenste, nichts
                     weniger als eilige Erwägung aller Umstände, meiner poetischen Aufgabe wie meiner
                     früheren Verhältnisse als Professor, forderte diesen Entschluß unumgänglich,
                     wollte ich mich nicht in die höchst unwürdige Lage versetzen, als Dichter oder
@@ -89,7 +88,7 @@
                     vollkommen erkennen und billigen werden. Der niedrigere Gesichtspunkt, daß ich
                     in meinen jetzigen Verhältnissen in voller Freiheit meiner Zeit und Thätigkeit
                     kaum ein <hi rend="ul">Drittheil</hi> dessen bedarf, was ich in
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> zu meinem Professorengehalt hinzusetzen mußte,
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> zu meinem Professorengehalt hinzusetzen mußte,
                     stand zwar in zweiter Reihe, fiel aber begreiflicherweise immer gewichtig genug
                     in die Waagschale; abgesehen davon, daß meine jetzige Lage die ungestörte,
                     friedliche Einsamkeit, die mit häufigen Ausflügen und größern Reisen zweitweise
@@ -98,9 +97,9 @@
                     großen Stadt.<lb/>Hätte ich dies alles im Voraus so klar eingesehen, so hätte
                     ich mich natürlich nie unterfangen, blos um einen einstweiligen Versuch[?] zu
                     machen, die Zeit Euerer Excellenz in Anspruch zu nehmen. Gott weiß, ich bin mit
-                    großer Freude und Liebe nach <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> gegangen, aber auch,
+                    großer Freude und Liebe nach <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> gegangen, aber auch,
                     lassen Euer Excellenz mich das offen eingestehen, mit anderen Erwartungen. Ich
-                    glaubte als Professor eine Stellung einzunehmen, wie sie z. B. <persName key="geibel-emanuel">Geibel</persName>, dem ich mich wohl an die Seite
+                    glaubte als Professor eine Stellung einzunehmen, wie sie z. B. <rs type="person" ref="geibel-emanuel" key="geibel-emanuel">Geibel</rs>, dem ich mich wohl an die Seite
                     stellen darf, in <orgName key="universitaet-muenchen">München</orgName> zutheil
                     ward, daß eben über dem Professor der Dichter nicht ganz übersehen wird. Euere
                     Excellenz haben mich mit aller denkbaren Liebe und Theilnahme beehrt, die ich
@@ -111,7 +110,7 @@
                     lieben Gott aus dem Grund meines Herzens für die Vereitlung dieser Hoffnung,
                     denn ich sehe es nun ja klar ein, die gütige Vorsehung hat so alles am besten
                     für mich gefügt, denn ich würde als Dichter es immer neu beklagen müssen, wenn
-                    mich die glänzendste Stellung in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> mir die Freiheit
+                    mich die glänzendste Stellung in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> mir die Freiheit
                     geraubt hätte, ganz nach Herzenswunsch in ungestörter Geistesfreude fern von dem
                     Treiben und Glanz der großen Welt meiner Poesie, die mein Leben ausmacht, mich
                     so hingeben zu dürfen, wie der liebe Gott mir es jetzt so gütig
@@ -127,7 +126,7 @@
                     Urlaubs zu zögern, darüber wollen mir Euere Excellenz vielleicht einmal einen
                     gütigen Wink ertheilen lassen. Ich will dann ganz Hochihrem Rathe folgen.
                     Bewahren mir Euere Excellenz dann auch für die Zukunft Ihre Liebe und
-                    Theilnahme, empfehlen Sie mich auf das Ehrerbietigste der gnädigen <persName key="thun-hohenstein-caroline">Frau Gräfin</persName> und nehmen Sie meine
+                    Theilnahme, empfehlen Sie mich auf das Ehrerbietigste der gnädigen <rs type="person" ref="thun-hohenstein-caroline" key="thun-hohenstein-caroline">Frau Gräfin</rs> und nehmen Sie meine
                     rückhaltslose Offenheit zum Pfand der wahrhaftigsten Verehrung hin, mit der ich
                     für immer verharre</p>
                 <p>Euerer Excellenz</p>

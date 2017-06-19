@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="roessler-emil" role="sender:gelehrter">Emil Rössler</persName>
-                    an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="roessler-emil" key="roessler-emil" role="sender:gelehrter">Emil Rössler</rs>
+                    an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_c6e5be183d875851c4d758d5f57fca35">Göttingen</placeName>, <date when="1857-06-20">20. Juni 1857</date>
+                    <rs type="place" subtype="place" ref="#place_c6e5be183d875851c4d758d5f57fca35">Göttingen</rs>, <date when="1857-06-20">20. Juni 1857</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -50,7 +49,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -69,21 +68,21 @@
                     Angelegenheit an Sie zu wenden.<lb/>Mit tiefen Schmerze mußte ich von Hoffnungen
                     der endlichen Wiedererlangung einer academischen Thätigkeit in meinem
                     Vaterlande; von der Hoffnung in einem Fache, welches ich vor 12 Jahren von
-                    rauher Wurzel zum erstenmal in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</country>
+                    rauher Wurzel zum erstenmal in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs>
                     in Ausbau nahm, wieder fortzuarbeiten und, was ich wohl sagen kann, mit manchen
                     neu hinzu erworbenen geistigen Mitteln der endlich zum Rechte gekommenen
                     historischen Schule nützlich zu werden – von diesen Aussichten mußte ich nach
                     monatelangen peinlichen Harren endlich scheiden.<lb/>Kaum hatte ich diesen neuen
                     harten Schlag meines Gemüthslebens überwunden, so brachte nicht minder wieder
                     eine neue äußere Anregung meine Hoffnungen in Spannung. Vor kurzer Zeit ließ
-                    mich der kaiserliche österreichische Gesandte in <placeName ref="#place_c27539167ff9723b32673ddab9dcbe09">Hannover</placeName>
-                    <persName key="ingelheim-friedrich-hugo">Graf von Ingelheim</persName>
+                    mich der kaiserliche österreichische Gesandte in <rs type="place" subtype="place" ref="#place_c27539167ff9723b32673ddab9dcbe09">Hannover</rs>
+                    <rs type="person" ref="ingelheim-friedrich-hugo" key="ingelheim-friedrich-hugo">Graf von Ingelheim</rs>
                     auffordern ein Gesuch um Wiedererlangung einer Professur zu verfassen und dieses
                     ihm zur Einbegleitung zu überreichen. Die Veranlassung dieses für mich eben so
                     unerwarteten als erfreulichen Anerbietens war eine eingehende Besprechung mit
-                    dem hannoveranischen <persName key="bothmer-carl-franz-august"> Minister des
-                        Cultus</persName>, des Curators der <orgName key="universitaet-goettingen">Göttinger Universität</orgName>, über meine bisherige Wirksamkeit und mein
-                    Verhalten in <placeName ref="#place_c6e5be183d875851c4d758d5f57fca35">Göttingen</placeName>. Mit meiner Danksagung vereinigte
+                    dem hannoveranischen <rs type="person" ref="bothmer-carl-franz-august" key="bothmer-carl-franz-august"> Minister des
+                        Cultus</rs>, des Curators der <orgName key="universitaet-goettingen">Göttinger Universität</orgName>, über meine bisherige Wirksamkeit und mein
+                    Verhalten in <rs type="place" subtype="place" ref="#place_c6e5be183d875851c4d758d5f57fca35">Göttingen</rs>. Mit meiner Danksagung vereinigte
                     ich die Erklärung, daß ich dennoch nur dann einen Erfolg und des Gelingens
                     meines heißesten Strebens erwarten könnte, wenn ich diesfalls mich an Euer
                     Excellenz gewendet habe und mir auch Dero Billigung einer ähnlichen Eingabe die

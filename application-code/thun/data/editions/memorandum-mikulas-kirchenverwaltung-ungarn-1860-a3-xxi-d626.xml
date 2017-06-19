@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -49,7 +48,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -64,7 +63,7 @@
                 <p>&lt;Promemoria von Mikulas&gt;<note xml:id="note_1">Eh. Notiz von Leo
                         Thun.</note>
                 </p>
-                <p>Das allerhöchste Patent, welches in der evangelischen Kirchenverwaltung <country key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarns</country> eine mit <hi rend="ul">strenger Ordnung</hi>
+                <p>Das allerhöchste Patent, welches in der evangelischen Kirchenverwaltung <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarns</rs> eine mit <hi rend="ul">strenger Ordnung</hi>
                     gepaarte Freiheit zu begründen und die evangelische Kirche enger an den Staat
                     anzuschließen beabsichtigt, ist nach einer großen Katastrophe, nach einer
                     gewaltigen Bewegung der Geister in Ungarn, zu einer Zeit erschienen, wo die
@@ -75,15 +74,15 @@
                     in Erfüllung gehen können. Nothwendigerweise mußte das kaiserliche Patent vom 1.
                     September zu einer solchen Zeit von der ganzen großen Parthei, die auf ein
                     selbstständiges, von der Centralgewalt möglichst unabhängiges, völlig
-                    magyarisiertes <country key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarn</country> speculiert, mit Schreck
+                    magyarisiertes <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarn</rs> speculiert, mit Schreck
                     und Widerstreben entgegengenommen werden, denn es lag am Tage, daß durch diese
                     kaiserliche Gabe, ein großer und höchst einflußreicher Theil der Bevölkerung
-                        <country key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarns</country> befriedigt und für die
+                        <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarns</rs> befriedigt und für die
                     Centralregierung gewonnen werden konnte. Je liberaler z. Th. der Inhalt dieses
                     Patentes und der Verordnung vom 2. September vorigen Jahres ist, und je
                     sichtbarer das Wohlwollen an vielen Orten im In- und Ausland zu Tage trat, mit
                     dem jene kaiserliche That begrüßt wurde, desto eifriger that sich die von der
-                    ersten Betäubung sich erholende "nationale Partei" in <country key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarn</country> - ohne Unterschied der Konfession – zusammen und bot,
+                    ersten Betäubung sich erholende "nationale Partei" in <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarn</rs> - ohne Unterschied der Konfession – zusammen und bot,
                     selbst von verbrecherischen Handlungen nicht zurückschreckend, alles mögliche
                     auf, um die durch das Patent angebahnte Versöhnung zu vereiteln und das
                     Mißtrauen, den Argwohn und die Unzufriedenheit des Volkes noch zu steigern. War
@@ -118,8 +117,8 @@
                     jeden Preis Konvente gehalten, um "einen solchen öffentlichen Skandal
                     hervorzubringen, der in ganz Europa ruchbar werde" und wer sich dem Willen der
                     tobenden Fraktion nicht fügte, wurde moralisch gemißhandelt, besudelt und wie
-                        <persName key="bathory-gabriel">Báthori</persName> in <placeName ref="#place_75a9f3e28ff164d30bd2a6f8d2db17cf">Nagy
-                        Körös</placeName> verfolgt.<lb/>So standen die Sachen im December, als das
+                        <rs type="person" ref="bathory-gabriel" key="bathory-gabriel">Báthori</rs> in <rs type="place" subtype="place" ref="#place_75a9f3e28ff164d30bd2a6f8d2db17cf">Nagy
+                        Körös</rs> verfolgt.<lb/>So standen die Sachen im December, als das
                         <orgName key="ministerium-fuer-kultus-und-unterricht">Ministerium</orgName>
                     sich zu jener Abhilfe entschloß, die in der Verordnung vom 10. Jänner<note xml:id="note_2">Vgl. RGBl. 4/1860.</note> laufenden Jahres ihren Ausdruck
                     gefunden hat. Diese Verordnung sammt Instruktion verfolgte sichtbar die
@@ -159,13 +158,13 @@
                     Gesetzes und weigerten sich an das Werk der Koordinierung Hand anzulegen. Andere
                     waren durch vorher gefaßte Konventsbeschlüsse umso mehr eingeschüchtert, als
                     sich immer weiter die Kunde verbreitete, daß gerade diejenigen Männer, die in
-                    den Konventen (zu <placeName key="miskolc" ref="#place_af35ec026fddf9c8c4ecda002507bd0e">Miskolz</placeName> und <placeName key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</placeName>) verbrecherischen Widerstand gegen das Gesetz
+                    den Konventen (zu <rs type="place" subtype="place" key="miskolc" ref="#place_af35ec026fddf9c8c4ecda002507bd0e">Miskolz</rs> und <rs type="place" subtype="place" key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs>) verbrecherischen Widerstand gegen das Gesetz
                     zum Beschluß erhoben hatten, in der Deputation, ja sogar an der Spitze der
-                    Deputation sich befinden, welche in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> um Widerrufung
+                    Deputation sich befinden, welche in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> um Widerrufung
                     des Gesetzes petitionierte und angeblich an hohen und höchsten Stellen äußerst
                     huldreich und leutselig empfangen wurde. Am höchsten steigerte sich die Noth,
                     als es offenkundig wurde, daß die Führer der Deputation zum zweitenmale nach
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> sich begaben, angeblich um eine Verständigung
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> sich begaben, angeblich um eine Verständigung
                         <hi rend="ul">bezüglich</hi> des Patentes, nicht auf Grundlage desselben,
                     herbeizuführen.<lb/>Der Ministerialerlass vom 5. Februar konnte den Kern dieses
                     Factums nicht in Abrede stellen, und durfte nur die Beruhigung gewähren, daß es
@@ -176,7 +175,7 @@
                     fassten nicht wenige evangelische Senioren sich das Herz, und trugen bei Seiner
                     Apostolischen Majestät ihre allerunterthänigsten Bitten um Aufrechterhaltung des
                     kaiserlichen Patents und der Verordnung vom 2. September schriftlich vor. Andere
-                    erschienen persönlich in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, um sich tröstliche
+                    erschienen persönlich in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, um sich tröstliche
                     Information zu holen und dann zu Hause in guter Richtung Propaganda zu machen.
                     Die allerunterthänigsten Majestätsgesuche legten dem <orgName key="ministerium-fuer-kultus-und-unterricht">Ministerium</orgName>
                     hinwieder[?] die Verpflichtung auf, den wahren Sachverhalt nochmals im
@@ -187,25 +186,25 @@
                     lap – doch entschlossen sei, die Verheißungen zu verwirklichen. Als nun die
                     Opposition einsah, daß ihre Zänke den erhofften Erfolg nicht haben, so ergriff
                     sie das Mittel der offenen Aneiferung zum Widerstand, der Bedrohung und der
-                    Verfolgung. Es wurden demnach von <placeName ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</placeName> aus Sendschreiben,
+                    Verfolgung. Es wurden demnach von <rs type="place" subtype="place" ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</rs> aus Sendschreiben,
                     "Orientierungsschreiben" nach allen Gegenden verbreitet – enthaltend die
                     Weisung, daß der Widerstand potenciert werden müsse, daß man die Verordnung der
                     Regierung nicht annehmen, nicht verlautbaren, nicht befolgen dürfe. Wer es
                     demnach thäte, wurde und wird, mit Hinweisung auf Konventsbeschlüsse, als
                     Eidbrüchiger und Verräther seines kirchlichen Amtes verlustig erklärt. Daß dies
                     nicht leere Drohung ist, beweist das Schicksal des reformierten Coadjutors,
-                    Curators, <persName key="szentpaly-ladislaus">Ladislaus von
-                    Szentpaly</persName>, des reformierten Pfarrers in
-                        <placeName ref="#place_8f244eef35ba8f636d2ad56d0a0fb674">Börvely</placeName> und des lutherischen Pfarrers [?] in
-                        <placeName ref="#place_333462b4b3c732b0e23792ec5d9fca55">Nyíregyháza</placeName> u.a. Das Ministerium hat für alle diese
+                    Curators, <rs type="person" ref="szentpaly-ladislaus" key="szentpaly-ladislaus">Ladislaus von
+                    Szentpaly</rs>, des reformierten Pfarrers in
+                        <rs type="place" subtype="place" ref="#place_8f244eef35ba8f636d2ad56d0a0fb674">Börvely</rs> und des lutherischen Pfarrers [?] in
+                        <rs type="place" subtype="place" ref="#place_333462b4b3c732b0e23792ec5d9fca55">Nyíregyháza</rs> u.a. Das Ministerium hat für alle diese
                     Umtriebe und Gewaltthätigkeiten unwiderlegliche Beweise hergestellt, und hat
                     rastlos dahin gestrebt, daß einer solchen Agitation, zumal wenn sie – wie im
-                    Stuhlbezirk <placeName key="marghita" ref="#place_a403c190ba77debc8762a40bd4fe8987">Margita</placeName>, in
-                        <placeName ref="#place_75a38b27f4e31f98f3e1168d84f98703">Békés</placeName> und an andern Orten durch Emissare betrieben
+                    Stuhlbezirk <rs type="place" subtype="place" key="marghita" ref="#place_a403c190ba77debc8762a40bd4fe8987">Margita</rs>, in
+                        <rs type="place" subtype="place" ref="#place_75a38b27f4e31f98f3e1168d84f98703">Békés</rs> und an andern Orten durch Emissare betrieben
                     wird, kräftigst entgegengetreten werde. Jedoch ist der Erfolg ein den gerechten
                     Erwartungen nicht entsprechender. Denn wiewohl das <orgName key="ministerium-der-justiz">Justizministerium</orgName>, die
                     Staatsantwaltschaft und die Gerichtsbehörden, mit äußerst wenigen Ausnahmen.
-                    (Prozeß gegen Ráday etc. in <placeName ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</placeName>) die verbrecherischen
+                    (Prozeß gegen Ráday etc. in <rs type="place" subtype="place" ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</rs>) die verbrecherischen
                     Handlungen mit rastlosem Eifer und mit der rühmlichsten Berufstreue der Ahndung
                     zuführen, so liegt es gleichwohl in der vorgeschriebenen Procedur, daß die
                     Angeklagten und Verurtheilten die Vollstreckung des Straferkenntnisses sehr weit
@@ -217,7 +216,7 @@
                     annehmen, sondern sogar gegen die Regierung agitieren, wie der Stuhlrichter
                     Szártko in B. Csaba, der Bürgermeister Tregjas und Stuhlrichter Tatás in
                     Nyíregyháza, ja selbst der dortige Komitatsvorstand Göeröri [?], oder wie die
-                    Montanbeamten in <placeName ref="#place_792be515410368f1ac3c6e58ea01814c">Schemnitz</placeName>. Weiters ist nicht mit
+                    Montanbeamten in <rs type="place" subtype="place" ref="#place_792be515410368f1ac3c6e58ea01814c">Schemnitz</rs>. Weiters ist nicht mit
                     Stillschweigen zu übergehen, daß die Administratoren der lutherischen
                     Superindentenzen eine vollständige Apathie an den Tag legten, ja zum Theil gegen
                     das allerhöchste Patent wirkten, und daß die reformierten Superintendenten
@@ -226,24 +225,24 @@
                     die meistens von Wühlerei leben, insgesammt gegen die Regierung Chores machten.
                     Doch alle diese Journale wurden an Bosheit, Lüge und Forschheit vom Protestans
                     egyházi és iskolai lap überboten, an dessen Spitze der getaufte und
-                    magyarisierte Jude Moritz Bloch (<persName key="ballagi-maurus">Ballagi</persName>) in Gesellschaft eines <persName key="szekacs-josef">Szekács</persName> und eines <persName key="toeroek-paul">Török</persName>
+                    magyarisierte Jude Moritz Bloch (<rs type="person" ref="ballagi-maurus" key="ballagi-maurus">Ballagi</rs>) in Gesellschaft eines <rs type="person" ref="szekacs-josef" key="szekacs-josef">Szekács</rs> und eines <rs type="person" ref="toeroek-paul" key="toeroek-paul">Török</rs>
                     steht. Wenn man sich von der brandstifterischen Thätigkeit dieses Blattes einen
                     Begriff machen will, so sehe man z.B. die Nr. 8 1860 durch, – man lese den
-                    Leitartikel von <persName key="lonyay-meinhardt">Meinhard Lónyay</persName>,
-                    dann die Notiz aus <placeName key="debrezin" ref="#place_ae8effcf53078ebe204e349a55546ca8">Debrezin</placeName> über die dem
-                    Senior <persName key="balogh-peter">Peter Balogh</persName> dargebrachten
-                    Ovationen, die Notiz aus <placeName key="oedenburg" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Oedenburg</placeName> über
+                    Leitartikel von <rs type="person" ref="lonyay-meinhardt" key="lonyay-meinhardt">Meinhard Lónyay</rs>,
+                    dann die Notiz aus <rs type="place" subtype="place" key="debrezin" ref="#place_ae8effcf53078ebe204e349a55546ca8">Debrezin</rs> über die dem
+                    Senior <rs type="person" ref="balogh-peter" key="balogh-peter">Peter Balogh</rs> dargebrachten
+                    Ovationen, die Notiz aus <rs type="place" subtype="place" key="oedenburg" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Oedenburg</rs> über
                     den dortigen Gustav Adolf Verein, die Nachrichten aus
-                        <placeName ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</placeName> über die Beschlüsse der Kirchengemeinde, die
-                    Empfehlung der "Geschichte Ungarns" von dem flüchtigen Bischof Dr. <persName key="horvath-michael">Michael Horváth</persName>. Oder man nehme die neueste
+                        <rs type="place" subtype="place" ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</rs> über die Beschlüsse der Kirchengemeinde, die
+                    Empfehlung der "Geschichte Ungarns" von dem flüchtigen Bischof Dr. <rs type="person" ref="horvath-michael" key="horvath-michael">Michael Horváth</rs>. Oder man nehme die neueste
                     Nr. 13 zur Hand, in der man eine schwungvolle Darstellung der bei Baron
-                        <persName key="pronay-gabriel">Gabriel Prónay</persName> in
-                        <placeName ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</placeName> stattgefundenen, gegen das Patent gerichteten
+                        <rs type="person" ref="pronay-gabriel" key="pronay-gabriel">Gabriel Prónay</rs> in
+                        <rs type="place" subtype="place" ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</rs> stattgefundenen, gegen das Patent gerichteten
                     Demonstration, und eine prahlerische Darstellung der Wichtigkeit und des Glanzes
-                    finden wird, welche die Redaktion dem unter Vorsitz des <persName key="lonyay-meinhardt">Lónyay Menyhért</persName> am 29. März in
-                        <placeName ref="#place_75a38b27f4e31f98f3e1168d84f98703">Békés</placeName> abzuhaltenden, auf das nachdrücklichste <hi rend="ul">verbotenen</hi>, reformierten Senioratskonvents beimißt. Solche
+                    finden wird, welche die Redaktion dem unter Vorsitz des <rs type="person" ref="lonyay-meinhardt" key="lonyay-meinhardt">Lónyay Menyhért</rs> am 29. März in
+                        <rs type="place" subtype="place" ref="#place_75a38b27f4e31f98f3e1168d84f98703">Békés</rs> abzuhaltenden, auf das nachdrücklichste <hi rend="ul">verbotenen</hi>, reformierten Senioratskonvents beimißt. Solche
                     Artikel, Notizen, und Frechheiten erscheinen in der periodischen Presse, in der
-                    Stadt <placeName ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</placeName>, ungeahndet, unbeanstandet!!<lb/>Dies ist nur
+                    Stadt <rs type="place" subtype="place" ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</rs>, ungeahndet, unbeanstandet!!<lb/>Dies ist nur
                     eine cursorische Darstellung der enormen Schwierigkeiten, die das <orgName key="ministerium-fuer-kultus-und-unterricht">Cultusministerium</orgName> zu
                     überwinden hat.<lb/>Und welche Kräfte standen ihm zu Gebote? Es hatte und hat
                     mit keiner einzigen Zeitung zu disponieren, hat keinen einzigen evangelischen
@@ -251,30 +250,30 @@
                     heute im katholischen Departement belassen werden mußten, es hat keinen Gulden
                     um die Aufklärung des irregeleiteten, mit tollen Gerüchten vergifteten Volkes zu
                     fördern, oder um denjenigen, die lediglich im Interesse der Regierung enorme
-                    pekuniäre Verlußte erleiden (wie <persName key="hornyanszky-viktor">Hornyánszky</persName>) eine Entschädigung zu gewähren, oder ihnen, wenn
-                    Sie im Interesse der Regierung reisen (wie <persName key="hornyanszky-viktor">Hornyánszky</persName>, <persName key="hurban-josef">Hurban</persName> und
-                    eventuell <persName key="kuzmany-karl">Kuzmány</persName>) die Kosten zu
+                    pekuniäre Verlußte erleiden (wie <rs type="person" ref="hornyanszky-viktor" key="hornyanszky-viktor">Hornyánszky</rs>) eine Entschädigung zu gewähren, oder ihnen, wenn
+                    Sie im Interesse der Regierung reisen (wie <rs type="person" ref="hornyanszky-viktor" key="hornyanszky-viktor">Hornyánszky</rs>, <rs type="person" ref="hurban-josef" key="hurban-josef">Hurban</rs> und
+                    eventuell <rs type="person" ref="kuzmany-karl" key="kuzmany-karl">Kuzmány</rs>) die Kosten zu
                     vergüten.<lb/>Was hat das <orgName key="ministerium-fuer-kultus-und-unterricht">Ministerium</orgName> demnach seit December vorigen Jahres ungeachtet
                     dessen geleistet, daß – wie ein jeder der die Augen hoffen hält, sehen muß –,
-                        <placeName ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</placeName> im moralischen Sinne, ja sogar mehr als in
+                        <rs type="place" subtype="place" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> im moralischen Sinne, ja sogar mehr als in
                     diesem Sinne, durch und durch verwühlt[?], verhetzt und systematisch
                     revolutioniert ist?<lb/>Das Ministerium hat sich zunächst die Unterstützung der
-                    einflußreichsten evangelischen Männer und Organe <country key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</country>, eines <persName key="schenkel-daniel">Schenkl</persName>, <persName>Stephani</persName>, <persName key="zimmermann-karl">Zimmermann</persName>, <persName key="lechler-gotthard">Lechler</persName>, <persName key="hoffmann-wilhelm">Hofmann</persName> etc. der Darmstädter allgemeinen Kirchenzeitung, der
+                    einflußreichsten evangelischen Männer und Organe <rs type="place" subtype="country" key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</rs>, eines <rs type="person" ref="schenkel-daniel" key="schenkel-daniel">Schenkl</rs>, <rs type="person" ref="">Stephani</rs>, <rs type="person" ref="zimmermann-karl" key="zimmermann-karl">Zimmermann</rs>, <rs type="person" ref="lechler-gotthard" key="lechler-gotthard">Lechler</rs>, <rs type="person" ref="hoffmann-wilhelm" key="hoffmann-wilhelm">Hofmann</rs> etc. der Darmstädter allgemeinen Kirchenzeitung, der
                     neuen evangelischen Kirchenzeitung, der neuen evangelischen Kirchenzeitung in
-                        <placeName ref="#place_ee1611b61f5688e70c12b40684dbb395">Berlin</placeName> (Organ des Bundes), des badischen
+                        <rs type="place" subtype="place" ref="#place_ee1611b61f5688e70c12b40684dbb395">Berlin</rs> (Organ des Bundes), des badischen
                     Kirchenblattes usw. derart zu sichern gewußt, daß obwohl durch ganz
-                        <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country> das tiefste Mißtrauen gegen <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> verbreitet ist, die evangelische
+                        <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> das tiefste Mißtrauen gegen <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> verbreitet ist, die evangelische
                     Presse Deutschlands dennoch <hi rend="ul">bis heute</hi> für die Absichten des
                         <orgName key="ministerium-fuer-kultus-und-unterricht">Ministeriums</orgName>
                     thätig ist.<lb/>Das Ministerium hat ferner bewirkt, daß das Evangelische
-                    Wochenblatt in <placeName ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</placeName> fest und unverrückt für das Patent
-                    einsteht.<lb/>Daß Männer wie <persName key="kolbenheyer-moritz">Kolbenheyer</persName>, <persName key="bauhofer-andreas">Bauhofer</persName>, Válka [?], die früher zur äußersten Linken gehörten,
-                    nunmehr offen für die Regierung sich aussprechen; daß <persName key="hornyanszky-viktor">Hornyanszky</persName>, <persName key="szeberinyi-johann">Johann Szeberinyi</persName> und besonders Pfarrer
-                        <persName key="podhradsky-josef">Josef von Podhradsky</persName> in
-                        <placeName ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</placeName> Abhandlungen schrieben, die zur Durchführung des
+                    Wochenblatt in <rs type="place" subtype="place" ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</rs> fest und unverrückt für das Patent
+                    einsteht.<lb/>Daß Männer wie <rs type="person" ref="kolbenheyer-moritz" key="kolbenheyer-moritz">Kolbenheyer</rs>, <rs type="person" ref="bauhofer-andreas" key="bauhofer-andreas">Bauhofer</rs>, Válka [?], die früher zur äußersten Linken gehörten,
+                    nunmehr offen für die Regierung sich aussprechen; daß <rs type="person" ref="hornyanszky-viktor" key="hornyanszky-viktor">Hornyanszky</rs>, <rs type="person" ref="szeberinyi-johann" key="szeberinyi-johann">Johann Szeberinyi</rs> und besonders Pfarrer
+                        <rs type="person" ref="podhradsky-josef" key="podhradsky-josef">Josef von Podhradsky</rs> in
+                        <rs type="place" subtype="place" ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</rs> Abhandlungen schrieben, die zur Durchführung des
                     Patentes unberechenbares beitragen, und schon in mehr als 12.000 Exemplaren
                     verbreitet sind; daß durch direkte Einwirkung des <orgName key="ministerium-fuer-kultus-und-unterricht">Ministeriums</orgName> eine
-                    slawische evangelische Kirchenzeitung in <placeName ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</placeName> gegründet
+                    slawische evangelische Kirchenzeitung in <rs type="place" subtype="place" ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</rs> gegründet
                     ist, (ein Unternehmen, das sonst <hi rend="ul">immer</hi> fehlschlug) die
                     zahlreichen Abnehmer findet, und bisher in <hi rend="ul">jeder</hi> Nummer Dank,
                     Segen und Unterthanentreue für den so gütigen und so edlen Kaiser athmet. Das
@@ -284,39 +283,39 @@
                     Magyarismus beharrlich Fronte macht.<lb/>Frage: ist es wohl der Regierung seit
                     1848 in irgend einer Sache gelungen, sich eine Partei zu bilden, und wenn diese
                     auch nur aus 50 Männern hätte bestehen sollen?<lb/>Das <orgName key="ministerium-fuer-kultus-und-unterricht">Ministerium</orgName> hat eine
-                    energische Leitung der lutherischen Superintendenzen <placeName key="vrbas" ref="#place_0501e2c4b485250398d1888c0183d808">Verbasz</placeName> [Vrbas], <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburg</placeName>, <placeName ref="#place_1d3a164e45efdad9a1b68b54bd69260c">Eperies</placeName> [Prešov],
-                        <placeName ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</placeName> hergestellt und hat Vorkehrungen getroffen, in
+                    energische Leitung der lutherischen Superintendenzen <rs type="place" subtype="place" key="vrbas" ref="#place_0501e2c4b485250398d1888c0183d808">Verbasz</rs> [Vrbas], <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburg</rs>, <rs type="place" subtype="place" ref="#place_1d3a164e45efdad9a1b68b54bd69260c">Eperies</rs> [Prešov],
+                        <rs type="place" subtype="place" ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</rs> hergestellt und hat Vorkehrungen getroffen, in
                     dieser Richtung ohne Säumnis weiter vorzugehen.<lb/>Das <orgName key="ministerium-fuer-kultus-und-unterricht">Ministerium</orgName> hat das
                     Vertrauen auf die Festigkeit und das Wohlwollen der Regierung gehoben und
                     dadurch bewirkt, daß unter den allerschwierigsten Umständen das Werk der
                     Koordinierung sehr bedeutende Fortschritte machte.<lb/>Welche?<lb/>In der
-                        <placeName key="vrbas" ref="#place_0501e2c4b485250398d1888c0183d808">Neu Verbászer</placeName> Superintendenz sind bis 17.
+                        <rs type="place" subtype="place" key="vrbas" ref="#place_0501e2c4b485250398d1888c0183d808">Neu Verbászer</rs> Superintendenz sind bis 17.
                     März, mit Ausnahme von 2, alle übrigen Gemeinden koordiniert gewesen. Die
                     Organisierung der Seniorate und der Superintendenz steht in 2–3 Wochen
-                    bevor.<lb/>Die <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</placeName> Superintendenz
-                    zählt 11 Seniorate.<lb/>Das <region key="arwa" ref="#place_ae5cb88e76362d21758aaa31b40e5bb3">Arver</region> ist mit allen 12
-                    Gemeinden bereits vollständig koordiniert, das <placeName key="komitat-liptau" ref="#place_7e94e843694214e6576aabc0a94a5291">Liptauer</placeName> [Liptov] zählt 13 Gemeinden wovon nach <hi rend="ul">amtlichen</hi> Berichten – 6 schon <hi rend="ul">längst</hi> koordiniert
-                    waren.<lb/>Das <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburger</placeName> Stadtseniorat
-                    zählt 3 Gemeinden, hiervon ist 1 koordiniert.<lb/>Das <region key="komitat-neutra" ref="#place_d856324689e6964c27e3903e6f63a34e">Neutraer</region> hat 21 Gemeinden, wovon 19 und
-                    bereits auch das Seniorat koordiniert ist.<lb/>Das <region key="bacs" ref="#place_db7bb6884294b5d58ba1c38b5d593888">Bacser</region> hat 5 Gemeinden, hiervorn sind 2 koordiniert, und demnächst
-                    wird Leverz nachfolgen.<lb/>Das <region key="trentschin" ref="#place_8d3cabcc7c52722a2f5924dcd90b01c6">Trencsiner</region>
-                    zählt 14 Gemeinden, von diesen sind 9 längst koordiniert<lb/>das <region key="turz" ref="#place_b0178c876040518dcb1b994bb586f39d">Thuróczer</region> 12, wovon 6, nach anderen Nachrichten 7
-                    koordiniert.<lb/>Das <region key="hont" ref="#place_f54e0f65118d0e897c7ab8d9b1140234">Honther</region> 30, wovon nach
+                    bevor.<lb/>Die <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</rs> Superintendenz
+                    zählt 11 Seniorate.<lb/>Das <rs type="place" subtype="region" key="arwa" ref="#place_ae5cb88e76362d21758aaa31b40e5bb3">Arver</rs> ist mit allen 12
+                    Gemeinden bereits vollständig koordiniert, das <rs type="place" subtype="place" key="komitat-liptau" ref="#place_7e94e843694214e6576aabc0a94a5291">Liptauer</rs> [Liptov] zählt 13 Gemeinden wovon nach <hi rend="ul">amtlichen</hi> Berichten – 6 schon <hi rend="ul">längst</hi> koordiniert
+                    waren.<lb/>Das <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburger</rs> Stadtseniorat
+                    zählt 3 Gemeinden, hiervon ist 1 koordiniert.<lb/>Das <rs type="place" subtype="region" key="komitat-neutra" ref="#place_d856324689e6964c27e3903e6f63a34e">Neutraer</rs> hat 21 Gemeinden, wovon 19 und
+                    bereits auch das Seniorat koordiniert ist.<lb/>Das <rs type="place" subtype="region" key="bacs" ref="#place_db7bb6884294b5d58ba1c38b5d593888">Bacser</rs> hat 5 Gemeinden, hiervorn sind 2 koordiniert, und demnächst
+                    wird Leverz nachfolgen.<lb/>Das <rs type="place" subtype="region" key="trentschin" ref="#place_8d3cabcc7c52722a2f5924dcd90b01c6">Trencsiner</rs>
+                    zählt 14 Gemeinden, von diesen sind 9 längst koordiniert<lb/>das <rs type="place" subtype="region" key="turz" ref="#place_b0178c876040518dcb1b994bb586f39d">Thuróczer</rs> 12, wovon 6, nach anderen Nachrichten 7
+                    koordiniert.<lb/>Das <rs type="place" subtype="region" key="hont" ref="#place_f54e0f65118d0e897c7ab8d9b1140234">Honther</rs> 30, wovon nach
                     amtlichen Berichten 17, nach anderen Nachrichten 25 koordiniert sind.<lb/>Das
-                        <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</placeName> Comitatsseniorat zählt 15
-                    Gemeinden, von denen 13 koordiniert.<lb/>Das <region key="neograd" ref="#place_f90a9311387c69b31f948405b0a6777b">Neográder</region> 41, von denen laut Registern nur 4, laut Mittheilungen
-                    aber 21 koordiniert sind.<lb/>Das <region key="sohl" ref="#place_5ad7de84a84805746cf4d7f7f90cdbff">Sohler</region> zählt 20
+                        <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</rs> Comitatsseniorat zählt 15
+                    Gemeinden, von denen 13 koordiniert.<lb/>Das <rs type="place" subtype="region" key="neograd" ref="#place_f90a9311387c69b31f948405b0a6777b">Neográder</rs> 41, von denen laut Registern nur 4, laut Mittheilungen
+                    aber 21 koordiniert sind.<lb/>Das <rs type="place" subtype="region" key="sohl" ref="#place_5ad7de84a84805746cf4d7f7f90cdbff">Sohler</rs> zählt 20
                     Gemeinden, von denen – nach Angaben des Seniorats – bisher 14 vollständig
                     koordiniert sind.<lb/>Sieht man aber von den Privatmittheilungen gänzlich ab,
                     und zieht man nicht in Betracht, daß die Anzeigen sich immer um 3 Wochen
                     verspäten, so ist doch vollkommen sichergestellt, daß die Regierung in den
-                    Senioraten <region key="arwa" ref="#place_ae5cb88e76362d21758aaa31b40e5bb3">Arvas</region>, <region ref="#place_2cfe62b9921fa114fb63229c0241dafc">Neutra</region>, <region key="trentschin" ref="#place_8d3cabcc7c52722a2f5924dcd90b01c6">Trerczin</region>, <region key="hont" ref="#place_f54e0f65118d0e897c7ab8d9b1140234">Hont</region>,
-                    Comitat <region key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburg</region>, <region key="sohl" ref="#place_5ad7de84a84805746cf4d7f7f90cdbff">Sohl</region>, die überwiegende Majorität hat, daß <region key="turz" ref="#place_b0178c876040518dcb1b994bb586f39d">Thurócz</region>, <region ref="#place_9441d7d7d74728b472c3b4f72fb3dcdd">Liptau</region> und selbst <region ref="#place_f17c90bf404977cc1b7165e1ca91b2a1">Bacs</region>
+                    Senioraten <rs type="place" subtype="region" key="arwa" ref="#place_ae5cb88e76362d21758aaa31b40e5bb3">Arvas</rs>, <rs type="place" subtype="region" ref="#place_2cfe62b9921fa114fb63229c0241dafc">Neutra</rs>, <rs type="place" subtype="region" key="trentschin" ref="#place_8d3cabcc7c52722a2f5924dcd90b01c6">Trerczin</rs>, <rs type="place" subtype="region" key="hont" ref="#place_f54e0f65118d0e897c7ab8d9b1140234">Hont</rs>,
+                    Comitat <rs type="place" subtype="region" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburg</rs>, <rs type="place" subtype="region" key="sohl" ref="#place_5ad7de84a84805746cf4d7f7f90cdbff">Sohl</rs>, die überwiegende Majorität hat, daß <rs type="place" subtype="region" key="turz" ref="#place_b0178c876040518dcb1b994bb586f39d">Thurócz</rs>, <rs type="place" subtype="region" ref="#place_9441d7d7d74728b472c3b4f72fb3dcdd">Liptau</rs> und selbst <rs type="place" subtype="region" ref="#place_f17c90bf404977cc1b7165e1ca91b2a1">Bacs</rs>
                     sich neutralisieren. Folglich ist die Regierungsmajorität im schlechtesten Falle
-                    wie 6 zu 2. In der <placeName ref="#place_bceb3649442c20fdc15c9a39c6d8c1b2">Eperieser</placeName> Superintendenz sind 7
+                    wie 6 zu 2. In der <rs type="place" subtype="place" ref="#place_bceb3649442c20fdc15c9a39c6d8c1b2">Eperieser</rs> Superintendenz sind 7
                     Seniorate:<lb/>Im Klein-Honthes sind von 15 – 7. Nach anderer Mittheilung 8
                     koordiniert.<lb/>Im Siebenbergstädter mit 1 Ausnahme alle,<lb/>Im
-                        <region ref="#place_09d5b0c9a323c6bb4a933c9d8ead9166">Gömöres</region> von 40 Gemeinden bisher 17.<lb/>Im <region key="semplin" ref="#place_f55254df8a847e9285fc46ba3e42fa8b">Sáros-Zempliner</region> von 19 Gemeinden 4.<lb/>Im 13 Städter
+                        <rs type="place" subtype="region" ref="#place_09d5b0c9a323c6bb4a933c9d8ead9166">Gömöres</rs> von 40 Gemeinden bisher 17.<lb/>Im <rs type="place" subtype="region" key="semplin" ref="#place_f55254df8a847e9285fc46ba3e42fa8b">Sáros-Zempliner</rs> von 19 Gemeinden 4.<lb/>Im 13 Städter
                     von 15 – 2.<lb/>Im Seniorate der 6 Freistädte und in Subkarpatischen bisher
                     keine.<lb/>Man kann jedoch darauf mit Sicherheit rechnen, daß wo einmal der
                     Anfang gemacht ist, der Fortschritt immer zunehmen wird. Denn die einzelnen
@@ -326,20 +325,20 @@
                     stehen werden. Dies in einer Superintendenz, welche im Käsmarker Konvente so
                     einhellig und einstimmig gegen das Patent protestiert hat!!<lb/>In den übrigen 3
                     lutherischen Superintendenzen dagegen sind die Fortschritte zwar nicht so
-                    erfreulich, aber es sind doch immerhin Fortschritte. So sind in der <region key="oedenburg" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Oedenburger</region>
+                    erfreulich, aber es sind doch immerhin Fortschritte. So sind in der <rs type="place" subtype="region" key="oedenburg" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Oedenburger</rs>
                     <hi rend="ul">bisher</hi> koordiniert.<lb/>Die Freistadt
-                        <placeName ref="#place_f5e265d607cb720058fc166e00083fe8">Rust</placeName>.<lb/>Im <placeName key="veszprem" ref="#place_dee98a409c92d6df15b591129534021e">Veszprimer</placeName> [Veszprém] Seniorate 4 Gemeinden, – auch
-                        <placeName ref="#place_f6485bf868724d28d5c86117ae8e3adc">Oberschützen</placeName>, <placeName ref="#place_aa2b10ccf3b646e0b88925144c07b6c9">Pinkafeld</placeName> und
-                        <placeName key="allhau" ref="#place_f6aa495e34977404dfb971393cdba2b7">Alhau</placeName>.<lb/>Im <placeName key="eisenburg" ref="#place_5b102f0c1880d8390d1a5b8f6868c51e">Ober-Eisenburger</placeName> [?], im Mitteleisenburger Hodos, im
+                        <rs type="place" subtype="place" ref="#place_f5e265d607cb720058fc166e00083fe8">Rust</rs>.<lb/>Im <rs type="place" subtype="place" key="veszprem" ref="#place_dee98a409c92d6df15b591129534021e">Veszprimer</rs> [Veszprém] Seniorate 4 Gemeinden, – auch
+                        <rs type="place" subtype="place" ref="#place_f6485bf868724d28d5c86117ae8e3adc">Oberschützen</rs>, <rs type="place" subtype="place" ref="#place_aa2b10ccf3b646e0b88925144c07b6c9">Pinkafeld</rs> und
+                        <rs type="place" subtype="place" key="allhau" ref="#place_f6aa495e34977404dfb971393cdba2b7">Alhau</rs>.<lb/>Im <rs type="place" subtype="place" key="eisenburg" ref="#place_5b102f0c1880d8390d1a5b8f6868c51e">Ober-Eisenburger</rs> [?], im Mitteleisenburger Hodos, im
                     Ober-Oedenburger <hi rend="ul">alle</hi>.<lb/>Im Sämeghes Ligrád [?].<lb/>In der
-                    Pester Superintendenz die slawische Gemeinde in <placeName ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</placeName>,
-                    dann <placeName ref="#place_d4dd361519676af4280e8accc235d3ba">Egyháza</placeName> und <placeName ref="#place_50f75150380b0cde9d36a31aa701cce5">Tordas</placeName>.<lb/>In
-                    der <placeName key="szarvas" ref="#place_d7f804208c8417bfc76a3b058c98a5f2">Szarvaser</placeName> Superintendenz bisher 6
+                    Pester Superintendenz die slawische Gemeinde in <rs type="place" subtype="place" ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</rs>,
+                    dann <rs type="place" subtype="place" ref="#place_d4dd361519676af4280e8accc235d3ba">Egyháza</rs> und <rs type="place" subtype="place" ref="#place_50f75150380b0cde9d36a31aa701cce5">Tordas</rs>.<lb/>In
+                    der <rs type="place" subtype="place" key="szarvas" ref="#place_d7f804208c8417bfc76a3b058c98a5f2">Szarvaser</rs> Superintendenz bisher 6
                     Gemeinden.<lb/>Es muß jedoch ausdrücklich bemerkt werden, daß jeder Tag diese
                     Berechnung zu Gunsten der Regierung verändert.<lb/>Unter den Reformierten machte
                     die Koordinierung bisher geringe Fortschritte. Außer den Gemeinden in der
-                    Militärgrenze und im <placeName key="novi-sad" ref="#place_52d08ce39e6c067f42a0366f2239f7c8">Neu-Satzer</placeName> [Novi Sad]
-                    Kreise sind nur wenige, wie [?], <placeName ref="#place_a2579de70254b8fbc9116eb8a259e612">Medina</placeName> sporadisch
+                    Militärgrenze und im <rs type="place" subtype="place" key="novi-sad" ref="#place_52d08ce39e6c067f42a0366f2239f7c8">Neu-Satzer</rs> [Novi Sad]
+                    Kreise sind nur wenige, wie [?], <rs type="place" subtype="place" ref="#place_a2579de70254b8fbc9116eb8a259e612">Medina</rs> sporadisch
                     konstituiert.<lb/>Das aber ist nicht zu verkennen, daß die Reformierten sich
                     bereits auf die Defensive beschränkt sehen.<lb/>Was hat nun nothwendig und
                     dringend zu geschehen, um den Sieg zu sichern?<lb/>1. Man lasse sich ja nicht
@@ -361,18 +360,18 @@
                     Agitatoren gemeinsame Sache machen.<lb/>9. Man setze den Wühlereien der
                     Zeitungen, besonders des egyházi és iskolai lap ein Ziel, und begründe je eher
                     ein magyarisches Kirchenblatt mit loyaler Tendenz in
-                        <placeName ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</placeName>-<placeName ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</placeName>.<lb/>10. Man
+                        <rs type="place" subtype="place" ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</rs>-<rs type="place" subtype="place" ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</rs>.<lb/>10. Man
                     schütze, entschädige und belohne diejenigen, die für die Regierung leiden, Opfer
                     bringen und sich abmühen.<lb/>11. Man kräftige das Nationalgefühl der Slawen und
-                    Deutschen in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country>, weil sie gegen die Revolution
+                    Deutschen in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, weil sie gegen die Revolution
                     wirken.<lb/>12. Man stelle jährlich mindestens 10.000 Gulden dem <orgName key="ministerium-fuer-kultus-und-unterricht">Ministerium</orgName> C &amp; M
                     zur Verfügung, um jene Zwecke zu fördern, Reisekosten zu bestreiten
                     usw.<lb/>Spart man in diesem Momente oder betreibt man die Dinge lau, so wird
-                    man den 300.j[ährigen] Prozess gegen <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> verlieren, und
+                    man den 300.j[ährigen] Prozess gegen <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> verlieren, und
                     man würde einmal wenn es zu spät sein wird, 100 Millionen gern opfern um das
                     Geschehene ungeschehen zu machen.<lb/>13. Man bringe die Kirchenfrage im
                     Consistorialsprengel und bei den Evangelischen A.C. in
-                        <region ref="#place_bafe2294b7fb193dee4992b1ed9dd773">Siebenbürgen</region> binnen 4 Wochen zur Lösung.<lb/>14. Man
+                        <rs type="place" subtype="region" ref="#place_bafe2294b7fb193dee4992b1ed9dd773">Siebenbürgen</rs> binnen 4 Wochen zur Lösung.<lb/>14. Man
                     übergebe die evangelischen Cultus und Schulangelegenheiten überall und
                     ausnahmslos evangelischen Referenten.<lb/>Warum?<lb/>Erstens darum, weil man
                     ein Referat verstehen muß, wenn man es nicht zum öffentlichen Skandal führen
@@ -387,7 +386,7 @@
                     Compromission.<lb/>Zweitens aber und hauptsächlich darum, weil Seine Majestät
                     der Kaiser feierlich die Zusage gemacht haben, das evangelische Referat in
                     evangelische Hände allergnädigst niederlegen zu wollen. <hi rend="ul">Nur</hi>
-                    auf diese Zusage vertrauend ist das evangelische <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country>,
+                    auf diese Zusage vertrauend ist das evangelische <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs>,
                     und jene Partei, zu der auch der Verfasser dieses flüchtigen Memorandum's
                     gehört, für die Septembergesetze in die Schranken getreten. Geht sie nicht in
                     Erfüllung so bleibt dort und hier nichts übrig als <hi rend="ul">offen</hi> zu
@@ -398,7 +397,7 @@
                     mit der Koordinierung anders, und die Anfänge des Gesetzes befänden sich nicht
                     in der bittersten Verlegenheit. Man wartete aber und wartet noch dum defluat
                     amnis und setzt sich der Gefahr tagtäglich aus, vom evangelischen
-                        <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country> in der öffentlichen Meinung <hi rend="ul">vernichtet</hi> zu werden. Man schickt diejenigen, die für die
+                        <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> in der öffentlichen Meinung <hi rend="ul">vernichtet</hi> zu werden. Man schickt diejenigen, die für die
                     Nichtbefolgung des Patentes sprechen, ins Gefängnis, dispensiert sich aber
                     selbst von der Respektierung des selbst gebrachten Gesetzes. Man rechtfertigt
                     den Prof. L. der zu H. sagte: "Beweisen sie mir, daß die Regierung ein einziges

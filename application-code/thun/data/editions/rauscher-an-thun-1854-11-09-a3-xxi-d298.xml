@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="rauscher-joseph" role="sender:kleriker">Joseph Othmar
-                        Rauscher</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="rauscher-joseph" key="rauscher-joseph" role="sender:kleriker">Joseph Othmar
+                        Rauscher</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName>, <date when="1854-11-09">9. November 1854</date>
+                    <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs>, <date when="1854-11-09">9. November 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -38,7 +37,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -48,12 +47,12 @@
                 </index>
                 <p>Rom, am 9. November 1854</p>
                 <p>Hochgeborner Graf!</p>
-                <p>Ich habe die Sachen zu <placeName key="rom" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</placeName> ungefähr so gefunden,
-                    wie ich sie mir vorgestellt; nur sind die Vorurtheile wider <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> wo möglich noch größer als ich
-                    besorgte. Sogar <country key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</country> findet mehr Anklang
-                    und Vertrauen als <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country>. Unter diesen
-                    Umständen war es für den <persName key="scitovsky-jan">Kardinal
-                        Szitovsky</persName> nicht schwer mit seinen Einwendungen wider das
+                <p>Ich habe die Sachen zu <rs type="place" subtype="place" key="rom" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs> ungefähr so gefunden,
+                    wie ich sie mir vorgestellt; nur sind die Vorurtheile wider <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> wo möglich noch größer als ich
+                    besorgte. Sogar <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> findet mehr Anklang
+                    und Vertrauen als <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>. Unter diesen
+                    Umständen war es für den <rs type="person" ref="scitovsky-jan" key="scitovsky-jan">Kardinal
+                        Szitovsky</rs> nicht schwer mit seinen Einwendungen wider das
                     Concordat Eindruck zu machen. Die Verhandlungen, welche ich fast beim Aussteigen
                     aus dem Reisewagen begonnen habe, sind in’s Stocken gerathen. Eine Reihe von
                     capelle Pontificie und die Frage über die unbefleckte Empfängnis (welche, wenn
@@ -63,10 +62,10 @@
                     beschränken. Ich bleibe natürlich dabei, daß Seine Majestät entweder gar kein
                     Concordat oder ein Concordat für das ganze Kaiserthum schließen werde. Unter
                     diesen Umständen ist natürlich doppelte Vorsicht nothwendig und ich bitte daher
-                    Euer Excellenz mir mitzutheilen, was Sie hinsichtlich der vom <persName key="pius-IX">Papste</persName> dem Grafen <persName key="esterhazy-von-galantha-moritz">Esterhazy</persName> mitgetheilten
+                    Euer Excellenz mir mitzutheilen, was Sie hinsichtlich der vom <rs type="person" ref="pius-IX" key="pius-IX">Papste</rs> dem Grafen <rs type="person" ref="esterhazy-von-galantha-moritz" key="esterhazy-von-galantha-moritz">Esterhazy</rs> mitgetheilten
                     Beschwerdepuncte zu thun gedenken? Über mehreres darin Enthaltenes ist mir schon
                     gesprochen worden. Übrigens war es eine ganz unbegreifliche Nachlässigkeit, daß
-                        <persName key="esterhazy-von-galantha-moritz">Esterhazy</persName> dieß
+                        <rs type="person" ref="esterhazy-von-galantha-moritz" key="esterhazy-von-galantha-moritz">Esterhazy</rs> dieß
                     Actenstück so lange in der Tasche behielt. Es ist ganz geeignet auf den Stand
                     der Dinge ein helles Licht zu werfen.<lb/>Zugleich erneuere ich den Ausdruck der
                     vollkommensten Verehrung, womit ich verharre,</p>

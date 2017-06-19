@@ -1,15 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://thun-korrespondenz.uibk.ac.at/svn/thun/thun-korrespondenz/schema/thun-schema.rnc" type="application/relax-ng-compact-syntax"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="robiati-ambrogio" role="sender:gelehrter">Ambrogio Robiati
-                    </persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="robiati-ambrogio" key="robiati-ambrogio" role="sender:gelehrter">Ambrogio Robiati
+                    </rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_ab21db0a2aa2e84be73932be6063b033">Mailand</placeName>, <date when="1853-08-06">6. August 1853</date>
+                    <rs type="place" subtype="place" ref="#place_ab21db0a2aa2e84be73932be6063b033">Mailand</rs>, <date when="1853-08-06">6. August 1853</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -47,7 +45,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -89,14 +87,14 @@
                     sorveglianza.<lb/>Come sia conceduto il mio Istituto di tutti i mezzi
                     occorrenti; e come sia ben ordinato e ricco di suppellettile scientifica,
                     disegni ed altro potrebbe la Sua Signoria interpellarne Sua Eccellenza il Signor
-                    Consigliere Conte <persName key="thun-hohenstein-franz-anton">Francesco de
-                        Thun</persName> di lei fratello; cui ebbi l’alto onore di aver in visita al
+                    Consigliere Conte <rs type="person" ref="thun-hohenstein-franz-anton" key="thun-hohenstein-franz-anton">Francesco de
+                        Thun</rs> di lei fratello; cui ebbi l’alto onore di aver in visita al
                     mio Istituto, e che francamente mi mostrò la sua soddisfazione nel vedere quanto
                     un uomo solo, giovane ancora, sebbene carico di famiglia; per amore
                     dell’istruzione abbia fatto.<lb/>Tutte le pratiche erano anche esaurite per
                     riguardo alla richiesta di parificare il mio Istituto agli studii medii; ma la
                     istanza non può dall’Imperial Regia Luogotenenza essere inoltrata all’Eccelso
-                    Ministero, ostando per ora la massima, benché in <placeName key="mailand" ref="#place_e30630933146ed8683482de23229fd6a">Milano</placeName> vi sia già un esempio di tale parificazione ad
+                    Ministero, ostando per ora la massima, benché in <rs type="place" subtype="place" key="mailand" ref="#place_e30630933146ed8683482de23229fd6a">Milano</rs> vi sia già un esempio di tale parificazione ad
                     un’Istituto di certo inferiore al mio. A questo premio io agogno e spero vorrà
                         <orgName key="ministerium-fuer-kultus-und-unterricht">l’Eccelso
                         Ministero</orgName> accordarmelo, certo che non sarà mai meno in me zelo e

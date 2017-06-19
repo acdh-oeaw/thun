@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="eitelberger-rudolf" role="sender:gelehrter">Rudolf
-                        Eitelberger</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="eitelberger-rudolf" key="eitelberger-rudolf" role="sender:gelehrter">Rudolf
+                        Eitelberger</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1850-03-30"> 30. März
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1850-03-30"> 30. März
                     1850</date>
                 </title>
             </titleStmt>
@@ -44,7 +43,7 @@
                 </p>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -56,26 +55,26 @@
                     <term>Zadar</term>
                 </index>
                 <p>Euer Excellenz!</p>
-                <p>Herr <persName key="filippi-gian-giuseppe">Dr. Filippi</persName>, provisorischer
-                    Podestà von <placeName key="zadar" ref="#place_271d9608b4f6e55e8f4ec78b040ead1a">Zara</placeName> [Zadar] und Vorstand des
+                <p>Herr <rs type="person" ref="filippi-gian-giuseppe" key="filippi-gian-giuseppe">Dr. Filippi</rs>, provisorischer
+                    Podestà von <rs type="place" subtype="place" key="zadar" ref="#place_271d9608b4f6e55e8f4ec78b040ead1a">Zara</rs> [Zadar] und Vorstand des
                     Kirchenvermögens machte mir während meines Aufenthaltes in
-                        <placeName ref="#place_f8c2475361c649af0f3bf7c2e2aa5160">Zara</placeName> die Mittheilung, daß das Kirchenvermögen für den
+                        <rs type="place" subtype="place" ref="#place_f8c2475361c649af0f3bf7c2e2aa5160">Zara</rs> die Mittheilung, daß das Kirchenvermögen für den
                     Dom so angewachsen sei, daß für die Herstellung und den Aufbau des Domes etwas
                     Bedeutenderes geschehen könne.<lb/>Der Dom selbst, ein Bau aus dem 13.
                     Jahrhundert, hat eine dreischiffige Krypta mit einem alten Altare, die einzige
-                    Krypta, die sich in <region ref="#place_3d93c766d980f58a8e989a616a0c72e6">Dalmatien</region> befindet, und eine Apsis, die
+                    Krypta, die sich in <rs type="place" subtype="region" ref="#place_3d93c766d980f58a8e989a616a0c72e6">Dalmatien</rs> befindet, und eine Apsis, die
                     ursprünglich mit Fresken und Mosaiken verziert, gegenwärtig übertüncht ist. Der
                     Campanile ist aus dem fünfzehnten Jahrhundert in sehr einfacher und wenig
                     geschmackvoller Weise angefangen, aber zu keiner bedeutenden Höhe
-                    geführt.<lb/>Als man mich in <placeName key="zadar" ref="#place_271d9608b4f6e55e8f4ec78b040ead1a">Zara</placeName> um Rath
+                    geführt.<lb/>Als man mich in <rs type="place" subtype="place" key="zadar" ref="#place_271d9608b4f6e55e8f4ec78b040ead1a">Zara</rs> um Rath
                     frug, ob das vorhandene Vermögen nicht am besten zum Ausbaue des Thurmes
                     verwendet werden dürfte, so gab ich eine verneinende Antwort, rieth vielmehr,
                     die große und geräumige Krypta, die unter dem Presbyterium liegend, gegenwärtig
                     in ganz unwürdiger Weise zu einer Rumpelkammer verwendet wird, würdig
                     herzustellen, und die Apsis mit Fresken ausmalen zu lassen.<lb/>Vor wenigen
-                    Tagen erhielt ich von Herrn Dr. <persName key="filippi-gian-giuseppe">Filippi</persName> einen Brief mit dem Ersuchen, Eure Excellenz davon in
-                    Kenntnis zu setzen, da auch der <persName key="godeassi-giuseppe">Erzbischof</persName> sich vorgenommen, mit Euer Excellenz in dieser
-                    Angelegenheit zu sprechen.<lb/>Ich habe Dr. <persName key="heider-gustav">Heider</persName> von der Angelegenheit in Kenntnis gesetzt und erlaube mir
+                    Tagen erhielt ich von Herrn Dr. <rs type="person" ref="filippi-gian-giuseppe" key="filippi-gian-giuseppe">Filippi</rs> einen Brief mit dem Ersuchen, Eure Excellenz davon in
+                    Kenntnis zu setzen, da auch der <rs type="person" ref="godeassi-giuseppe" key="godeassi-giuseppe">Erzbischof</rs> sich vorgenommen, mit Euer Excellenz in dieser
+                    Angelegenheit zu sprechen.<lb/>Ich habe Dr. <rs type="person" ref="heider-gustav" key="heider-gustav">Heider</rs> von der Angelegenheit in Kenntnis gesetzt und erlaube mir
                     zu bemerken, daß ich in Nr. 45 des letzten Jahrganges der österreichischen
                     Blätter für Literatur und Kunst darüber einen größeren Bericht veröffentlicht
                     habe.</p>

@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="schulte-friedrich" role="sender:gelehrter">Johann Friedrich
-                        Schulte</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="schulte-friedrich" key="schulte-friedrich" role="sender:gelehrter">Johann Friedrich
+                        Schulte</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, <date when="1854-10-07">7. Oktober 1854</date>
+                    <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1854-10-07">7. Oktober 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -41,7 +40,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -58,7 +57,7 @@
                     vorzustellen, um von Hochderselben noch etwaige gnädige Andeutungen zu
                     empfangen, konnte leider wegen Kürze der Zeit nicht erfüllt werden, weshalb Euer
                     Excellenz ich um gnädige Nachsicht und zugleich die Erlaubniß bitte,
-                    Weihnachten, wo zu einer Reise nach <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</placeName> auf 2
+                    Weihnachten, wo zu einer Reise nach <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> auf 2
                     bis 3 Tage Zeit sein wird, Hochderselben mich vorstellen zu dürfen.<lb/>Euer
                     Excellenz zeige ich ergebenst an, daß ich meine Antrittsvorlesung bereits
                     gehalten habe. Die Rede selbst, „Ueber die historische und juristische Bedeutung
@@ -68,19 +67,19 @@
                     hoffe ich im Laufe des Semesters ausarbeiten, da frei vorgetragen, auch Euer
                     Excellenz gedruckt vorlegen zu können.<lb/>Möge die von Euer Excellenz für das
                     Project der Waffenbruderschaft bereits gewährte und noch verheißene gnädige
-                    Bemühung dies für die Sicherheit <country key="italien" ref="#place_19cb29505c294db5ca9190ea93447e98">Italiens</country>
+                    Bemühung dies für die Sicherheit <rs type="place" subtype="country" key="italien" ref="#place_19cb29505c294db5ca9190ea93447e98">Italiens</rs>
                     vielleicht sehr fruchttragende Institut zur Entstehung bringen. Ich beanstande,
-                    den Herrn Cardinal noch vor seiner Abreise von dem Schreiben des Herrn <persName key="mueller-johann-georg">Bischofs von Münster</persName> zu unterrichten,
+                    den Herrn Cardinal noch vor seiner Abreise von dem Schreiben des Herrn <rs type="person" ref="mueller-johann-georg" key="mueller-johann-georg">Bischofs von Münster</rs> zu unterrichten,
                     weil Seine Eminenz gewiß zu sehr beschäftigt ist. Verzeihen Euer Excellenz
                     gnädigst die Bemerkung, daß nach meinem Dafürhalten von der Sache in
-                        <placeName ref="#place_ee1611b61f5688e70c12b40684dbb395">Berlin</placeName> nichts verlauten dürfe. Ich schließe dies
-                    besonders daraus, daß man in <placeName ref="#place_ee1611b61f5688e70c12b40684dbb395">Berlin</placeName> jetzt gegen die
+                        <rs type="place" subtype="place" ref="#place_ee1611b61f5688e70c12b40684dbb395">Berlin</rs> nichts verlauten dürfe. Ich schließe dies
+                    besonders daraus, daß man in <rs type="place" subtype="place" ref="#place_ee1611b61f5688e70c12b40684dbb395">Berlin</rs> jetzt gegen die
                     Katholiken ein neues Netz spinnt, dagegen omni modo die Protestanten zu
                     kräftigen sucht. Wenn Euer Excellenz wünschen und gnädigst erlauben, werde ich
                     Hochderselben hierüber Mittheilungen machen, die aus dem Cultusministerium
                     selbst kommen, deren Mittheilung an Hochdieselben mir aber freisteht. Auch
                     dürfte es vielleicht Euer Excellenz interessant sein, den näheren Modus zu
-                    kennen, wie in <country key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preussen</country> jetzt die Patronats-
+                    kennen, wie in <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preussen</rs> jetzt die Patronats-
                     und Bestätigungsverhältnisse geordnet sind, welcher auch noch geheim
                     ist.<lb/>Verzeihen Euer Excellenz gnädigst meine Freiheit und genehmigen die
                     Versicherung unbegrenzter Hochachtung, Verehrung und Dankbarkeit, mit der

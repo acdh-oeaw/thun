@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Das Lehrerkollegium des Gymnasiums in Triest an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                <title>Das Lehrerkollegium des Gymnasiums in Triest an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName key="triest" ref="#place_4fd4ef3f46418624bcfdb765d2881356">o. O. [Triest]</placeName>,
+                    <rs type="place" subtype="place" key="triest" ref="#place_4fd4ef3f46418624bcfdb765d2881356">o. O. [Triest]</rs>,
                         <date when="1860">o. D. [1860]</date>
                 </title>
             </titleStmt>
@@ -35,7 +34,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

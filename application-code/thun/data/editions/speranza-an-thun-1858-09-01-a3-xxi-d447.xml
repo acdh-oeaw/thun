@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="speranza-pietro-luigi" role="sender:kleriker">Pietro Luigi
-                        Speranza</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="speranza-pietro-luigi" key="speranza-pietro-luigi" role="sender:kleriker">Pietro Luigi
+                        Speranza</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_3a8f916e8f8560773ac9b8eb6349b1c4">Bergamo</placeName>, <date when="1858-09-01">1. September 1858</date>
+                    <rs type="place" subtype="place" ref="#place_3a8f916e8f8560773ac9b8eb6349b1c4">Bergamo</rs>, <date when="1858-09-01">1. September 1858</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -36,7 +35,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -48,13 +47,13 @@
                 </index>
                 <p>Eccellenza!</p>
                 <p>So che il Professore di Matematica pura in questo nostro Ginnasio Imperiale
-                    Signor <persName key="noris-cesare">Dr. Cesare Noris</persName>, ricorre a
+                    Signor <rs type="person" ref="noris-cesare" key="noris-cesare">Dr. Cesare Noris</rs>, ricorre a
                     Vostra Eccellenza dimandando che siano considerate alcune sue ragioni e
                     bisogni.<lb/>Io mi credo in dovere di attestare a Vostra Eccellenza che il
-                        <persName key="noris-cesare">Dr. Cesare Noris</persName> ha pochi pari in
+                        <rs type="person" ref="noris-cesare" key="noris-cesare">Dr. Cesare Noris</rs> ha pochi pari in
                     merito fra gli Istitutori della gioventù, e la sua pietà è distintissima.<lb/>Se
                     venisse a mancare qui il Direttore, perché trasportato in altro luogo, come
-                    credo che dimandi il <persName key="noris-cesare">Dr. Noris</persName> sarebbe
+                    credo che dimandi il <rs type="person" ref="noris-cesare" key="noris-cesare">Dr. Noris</rs> sarebbe
                     assai opportuno anche per Direttore, almeno se non si adotta la massima, che sia
                     un Sacerdote.<lb/>Colla più alta stima e col più profondo ossequio mi
                     dichiaro</p>

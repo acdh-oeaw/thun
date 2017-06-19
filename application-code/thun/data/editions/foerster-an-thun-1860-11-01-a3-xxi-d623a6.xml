@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="foerster-heinrich" role="sender:kleriker">Heinrich
-                        Förster</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="foerster-heinrich" key="foerster-heinrich" role="sender:kleriker">Heinrich
+                        Förster</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</placeName>, <date when="1860-11-01">1. November 1860</date>
+                    <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs>, <date when="1860-11-01">1. November 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -37,7 +36,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -65,7 +64,7 @@
                     sich Hochdieselben versichert halten, daß es recht viele Segenswünsche und
                     Gebete sind, die Euer Excellenz nachfolgen und Sie begleiten werden auf Ihrem
                     Lebenswege.<lb/>Inzwischen werden die Zeitverhältnisse immer düsterer und
-                    drohender. Gott schütze <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Ostreich</country>. Um die
+                    drohender. Gott schütze <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Ostreich</rs>. Um die
                     Kirche bange ich nicht. Ihr Weg ist der ihres Hauptes und Stifters; er führt aus
                     dem Charfreitag in den Ostermorgen.<lb/>Mögen mir Euere Excellenz ein
                     freundliches Andenken bewahren, wie ich nie aufhören werde, mit dankbarer

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="simor-johann" role="sender:kleriker">János Simor</persName> an
-                        <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="simor-johann" key="simor-johann" role="sender:kleriker">János Simor</rs> an
+                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_db261a80b9b3ec377502a014ab0f4eef">Raab</placeName>, <date when="1858-06-18">18.
+                    <rs type="place" subtype="place" ref="#place_db261a80b9b3ec377502a014ab0f4eef">Raab</rs>, <date when="1858-06-18">18.
                         Juni 1858</date>
                 </title>
             </titleStmt>
@@ -32,7 +31,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

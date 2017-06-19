@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="moy-de-sons-ernst" role="sender:gelehrter">Ernst Moy de
-                        Sons</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="moy-de-sons-ernst" key="moy-de-sons-ernst" role="sender:gelehrter">Ernst Moy de
+                        Sons</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</placeName>, <date when="1851-11-09">9. November 1851</date>
+                    <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs>, <date when="1851-11-09">9. November 1851</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -46,7 +45,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -68,7 +67,7 @@
                     besucht, und ich habe alle Ursache, mit dem Verhalten der jungen Leute im
                     höchsten Grade zufrieden zu seyn. Überraschend ist mir, daß verhältnismäßig die
                     Welschen noch mehr Eifer zeigen als die Deutschen. Es ist ein dankbarer Boden in
-                        <region key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tirol</region>, und es wäre darum überaus schade, wenn
+                        <rs type="place" subtype="region" key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tirol</rs>, und es wäre darum überaus schade, wenn
                     er nicht so ausgebeutet würde, wie er es verdiente. Ein durch öffentliche
                     Blätter verbreitetes, bisher nicht widersprochenes Gerücht, als solle nebst
                     anderen auch die hiesige philosophische Facultät eingezogen werden, hat hier
@@ -77,7 +76,7 @@
                     diese Bitte nicht an finanziellen Rücksichten scheitern! Die Tiroler haben
                     wichtige, im Interesse der Monarchie selbst gegründete Ursachen, die Erhaltung
                     ihrer Studien und Studenten im Lande zu wünschen: die Tirolische Atmosphäre ist
-                    eine mächtig conservirende. Wir haben hier an <persName key="flir-alois">Flir</persName> und Schönach [<persName key="schenach-georg">Schenach</persName>] und <persName key="boehm-josef-georg">Böhm</persName>
+                    eine mächtig conservirende. Wir haben hier an <rs type="person" ref="flir-alois" key="flir-alois">Flir</rs> und Schönach [<rs type="person" ref="schenach-georg" key="schenach-georg">Schenach</rs>] und <rs type="person" ref="boehm-josef-georg" key="boehm-josef-georg">Böhm</rs>
                     für die philosophischen Studien tüchtige Kräfte. Bekämen wir noch einen
                     respektablen Historiker, so ließe sich von den Zöglingen der Innsbrucker Schule
                     etwas Ordentliches erwarten. Und wie wichtig ist eine auf christlichem Boden
@@ -89,19 +88,19 @@
                     den Zeiten schwerer Prüfung vor anderen Kronländern sich ruhmvoll hervorgethan
                     zu haben!<lb/>Geruhen Euer Exzellenz es mir nicht zur Unbescheidenheit
                     anzurechnen, wenn ich an das zu erinnern wage, was ich bezüglich der <orgName key="universitaet-innsbruck">hiesigen Universität</orgName> persönlich
-                    sowohl <persName key="franz-joseph">Seiner Majestät</persName> als Eurer
+                    sowohl <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät</rs> als Eurer
                     Exzellenz persönlich vorzutragen die Ehre hatte. Es scheint mir nicht so fast im
                     Interesse des Landes als vielmehr in dem der ganzen Monarchie von der
                     entscheidendsten Wichtigkeit. Gestatten auch die finanziellen Rücksichten jetzt
                     nicht an eine großartige Schöpfung zu denken, ähnlich dem, was die preußische
-                    Regierung in gleichem Interesse einst in <placeName ref="#place_03b16e0a78b56bb5ada8e43123aaaa62">Bonn</placeName> gethan, so
+                    Regierung in gleichem Interesse einst in <rs type="place" subtype="place" ref="#place_03b16e0a78b56bb5ada8e43123aaaa62">Bonn</rs> gethan, so
                     möchte doch ein allmäliges Aufbauen immerhin statthaft seyn. Dabei wären aber
                     die Bedürfnisse der Bibliothek in erste Linie zu stellen, die vorzüglich im
                     Fache der Geschichte und des Canonischen Rechtes selbst hinter den
                     bescheidensten Anforderungen zurück ist. Wie soll man die jungen Leute zu
                     wissenschaftlicher Thätigkeit anspornen, wenn man ihnen nicht einmal die
                     unentbehrlichsten Quellen und Hilfsmittel dazu an die Hand geben kann?<lb/>Die
-                    Ernennung <persName key="hoefler-karl-adolf-constantin">Höflers</persName> für
+                    Ernennung <rs type="person" ref="hoefler-karl-adolf-constantin" key="hoefler-karl-adolf-constantin">Höflers</rs> für
                         <orgName key="universitaet-prag">Prag</orgName> hat mich innig erfreut, und
                     ich erlaube mir Eurer Exzellenz zu dieser Maßregel meinen herzlichsten
                     Glückwunsch darzubringen. Möchte sie ein glückliches Omen auch für <orgName key="universitaet-innsbruck">Innsbruck</orgName> seyn!<lb/>Genehmigen Eure

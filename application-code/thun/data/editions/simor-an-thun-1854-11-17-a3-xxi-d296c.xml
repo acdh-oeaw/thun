@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="simor-johann" role="sender:kleriker">János Simor</persName> an
-                        <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="simor-johann" key="simor-johann" role="sender:kleriker">János Simor</rs> an
+                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName>, <date when="1854-11-17">17.
+                    <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs>, <date when="1854-11-17">17.
                         November 1854</date>
                 </title>
             </titleStmt>
@@ -54,7 +53,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -66,12 +65,12 @@
                 </index>
                 <p>Euere Excellenz!</p>
                 <p>Gestern sind zwei Consistorien abgehalten worden, ein öffentliches und gleich
-                    darauf ein geheimes, in dem ersteren erhielt der Kardinal <persName key="scitovsky-jan">Scitovszky</persName> den Kardinalshut (Galerum) und in
+                    darauf ein geheimes, in dem ersteren erhielt der Kardinal <rs type="person" ref="scitovsky-jan" key="scitovsky-jan">Scitovszky</rs> den Kardinalshut (Galerum) und in
                     dem zweiten den Ring und die Kirche S. Crucis in Jerosolyma, von welcher er den
-                    Titel führen wird. Auch sind in diesem der <persName key="haynald-lajos">Erzbischof von Alba-Julia</persName>, dann die <persName key="dobra-alexander">Bischöfe von Lugos</persName>, <persName key="alexi-johann                             ">Szamosujvar</persName> und
-                    der <persName key="kraly-johannes">Großpropst von Agram</persName> als Bischof
+                    Titel führen wird. Auch sind in diesem der <rs type="person" ref="haynald-lajos" key="haynald-lajos">Erzbischof von Alba-Julia</rs>, dann die <rs type="person" ref="dobra-alexander" key="dobra-alexander">Bischöfe von Lugos</rs>, <rs type="person" ref="alexi-johann                             " key="alexi-johann                             ">Szamosujvar</rs> und
+                    der <rs type="person" ref="kraly-johannes" key="kraly-johannes">Großpropst von Agram</rs> als Bischof
                     in partibus präconisirt worden. Nach dem geheimen Consistorium wurde ich dem
-                        <persName key="pius-IX">Papste</persName> von dem <persName key="scitovsky-jan">Kardinalprimas</persName> sehr ehrenvoll vorgestellt.
+                        <rs type="person" ref="pius-IX" key="pius-IX">Papste</rs> von dem <rs type="person" ref="scitovsky-jan" key="scitovsky-jan">Kardinalprimas</rs> sehr ehrenvoll vorgestellt.
                     Der Heilige Vater sprach sich über unsere Verhältnisse wie folgt aus: Scio
                     Imperatorem Austriae esse optimum, habere optimas intentiones et Ecclesiae bene
                     velle; sed Bureaucratia effectus harum intentionum saepe impedit, cui denique
@@ -83,22 +82,22 @@
                     habe, aber der Fürst Hohenlohe ist krank, und ich muß auf die Antwort warten.
                     Der Heilige Vater muß ein außerordentlich guter Mann sein, aus seinen Augen und
                     aus seinem ganzen Wesen leuchtet die große Güte und Milde heraus. Hierüber ist
-                    auch bei allen Bischöfen, welche sich jetzt in <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName>
+                    auch bei allen Bischöfen, welche sich jetzt in <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs>
                     befinden, nur eine Stimme.<lb/>Ich habe Gelegenheit gehabt mit dem Kardinal
-                        <persName key="brunelli-giovanni">Brunelli</persName> längere Zeit zu reden.
+                        <rs type="person" ref="brunelli-giovanni" key="brunelli-giovanni">Brunelli</rs> längere Zeit zu reden.
                     Er wird als die beste Capacität des Heiligen Kollegium‘s gepriesen und hat in
                     der Congregation pro extraordinariis negotiis Ecclesiae Sitz und Stimme. Hieher
                     gehören auch die Concordatsverhandlungen. Als ich ihm wegen des so glücklichen
-                    und schnellen Abschlusses des Concordats in <country ref="#place_5ea5f4002712b1a9a4e292d3c83736b9">Spanien</country>
+                    und schnellen Abschlusses des Concordats in <rs type="place" subtype="country" ref="#place_5ea5f4002712b1a9a4e292d3c83736b9">Spanien</rs>
                     gratulirte, sagte er „nun sehen Sie, die Regierung will es nicht halten“, ich
-                    antwortete, „so etwas wird in <country ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</country> nicht geschehen, das
+                    antwortete, „so etwas wird in <rs type="place" subtype="country" ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</rs> nicht geschehen, das
                     Beschlossene wird man dort heilig halten, wie überhaupt alle Tractate nirgends
                     pünktlicher befolgt werden als bei uns.“ „Davon sei er überzeugt“, antwortete
                     er, daher werde er von seiner Seite gewiß kein Hindernis in den Weg legen,
                     vielmehr die Sache des Concordat‘s befördern. Das merke ich, daß der Herr
-                        <persName key="rauscher-joseph">Erzbischof von Wien</persName> sich bereits
-                    in <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName> ein großes Ansehen und die Achtung der Prälaten
-                    erworben hat. Kardinal <persName key="antonelli-giacomo">Antonelli</persName>
+                        <rs type="person" ref="rauscher-joseph" key="rauscher-joseph">Erzbischof von Wien</rs> sich bereits
+                    in <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs> ein großes Ansehen und die Achtung der Prälaten
+                    erworben hat. Kardinal <rs type="person" ref="antonelli-giacomo" key="antonelli-giacomo">Antonelli</rs>
                     behandelt mich sehr freundlich, ich kam mit ihm bereits zweimal zusammen in
                     großen Gesellschaften, jedesmal kam er auf mich zu und sprach mit mir.<lb/>Am
                     15. dieses wohnte ich der großen Preisvertheilung bei, welche an ausgezeichneten
@@ -106,12 +105,12 @@
                     Kirche war hiezu auf das festlichste eingerichtet; Leute aus allen Klassen haben
                     sich in großer Menge eingefunden, und die Preise vertheilte im Namen des Papstes
                     ein Kardinal. Das gedruckte Verzeichnis werde ich nach
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> mitnehmen und mehrere Vorlesungen an dem
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> mitnehmen und mehrere Vorlesungen an dem
                     gedachten Kollegium wie auch an der <orgName key="universitaet-sapienza-rom">„Sapienza“</orgName> besuchen. Am künftigen Sonntage werden wir in der
                     Kirche <orgName key="santa-maria-dell'-anima">dell’Anima</orgName> den Namenstag
-                    unserer <persName key="elisabeth">Kaiserin</persName> feierlichst begehen: da
+                    unserer <rs type="person" ref="elisabeth" key="elisabeth">Kaiserin</rs> feierlichst begehen: da
                     ein Kardinal in Rom außer in seiner Kirche und in den 3 Hauptbasiliken kein
-                    Hochamt haben darf, so wird das Pontificalamt von dem Herrn <persName key="rauscher-joseph">Erzbischofe von Wien</persName> in Anwesenheit der
+                    Hochamt haben darf, so wird das Pontificalamt von dem Herrn <rs type="person" ref="rauscher-joseph" key="rauscher-joseph">Erzbischofe von Wien</rs> in Anwesenheit der
                     beiden österreichischen Kardinäle und der hier anwesenden österreichischen
                     Bischöfe abgehalten werden.<lb/>Der hohen Gnade mich empfehlend, habe ich die
                     Ehre mit der tiefsten Verehrung zu verharren</p>

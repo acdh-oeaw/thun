@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Abschrift einer Rede <persName key="thun-hohenstein-leo">Leo Thuns</persName>
+                <title>Abschrift einer Rede <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Leo Thuns</rs>
                     bei einer Promotion sub auspiciis<lb/>
-                    <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">[Wien]</placeName>,
+                    <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">[Wien]</rs>,
                         <date when="1852-05-11">11. Mai 1852</date>
                 </title>
             </titleStmt>
@@ -41,7 +40,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -52,15 +51,15 @@
                 </index>
                 <p>
                     <hi rend="ul">Rede bei der unter den Auspizien Seiner k.k. Majestät abgehaltenen
-                        juridischen Disputation des <persName key="fierlinger-julius">Julius
-                            Fierlinger</persName> am 11. May [1]852</hi>
+                        juridischen Disputation des <rs type="person" ref="fierlinger-julius" key="fierlinger-julius">Julius
+                            Fierlinger</rs> am 11. May [1]852</hi>
                 </p>
                 <p>Mit wahrer Freude habe ich dem festlichen Akte beigewohnt, durch welchen Ihr
                     mühevolles Streben, in die Zahl der Doktoren <orgName key="universitaet-wien">dieser altehrwürdigen Hochschule</orgName> aufgenommen zu werden, belohnt
                     worden ist.<lb/>Ich habe ihm beigewohnt im allerhöchsten Auftrage unseres
-                        Herrn<persName key="franz-joseph"> und Kaisers</persName> und überreiche
-                    Ihnen als einen Beweis der Theilnahme <persName key="franz-joseph">Seiner
-                        Majestät</persName> an Ihren wissenschaftlichen Erfolgen und zum Andenken an
+                        Herrn<rs type="person" ref="franz-joseph" key="franz-joseph"> und Kaisers</rs> und überreiche
+                    Ihnen als einen Beweis der Theilnahme <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner
+                        Majestät</rs> an Ihren wissenschaftlichen Erfolgen und zum Andenken an
                     dieselbe dieses Zeichen der allerhöchsten Gnade. Empfangen Sie zugleich meinen
                     herzlichsten Glückwunsch. Ich füge ihm den aufrichtigen Wunsch bei, daß ich bald
                     Zeuge Ihrer weiteren Fortschritte auf der Bahn sein möge, in welche Sie hiemit
@@ -81,7 +80,7 @@
                     Anschein gegeben, als ob es jede Rücksicht auf die Rechtsgeschichte bei Seite
                     setze, indem es sogar als Subsidiarquelle der richterlichen Entscheidung nicht
                     jene Rechtssisteme anerkennt, aus denen der Innhalt seiner §§ entnommen ist,
-                    sondern gleichzeitig ist auch das Rechtsstudium in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> nur auf die positiven Gesetze und auf das trügerische
+                    sondern gleichzeitig ist auch das Rechtsstudium in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> nur auf die positiven Gesetze und auf das trügerische
                     Nebelbild des sogenannten Naturrechtes beschränkt worden. Das römische Recht,
                     diese unerschöpfliche Fundgrube juridischen Scharfsinnes, der die wichtigsten
                     Begriffe des österreichischen Rechtes entlehnt sind, wurde in dem
@@ -91,13 +90,13 @@
                     österreichischen Gesetzgebung, wurde gänzlich beseitigt. Von den einheimischen
                     Elementen, die das a. g. b. G. B. in sich aufnahm, wurde keine Spur
                     bewahrt.<lb/>Diese Mißgriffe konnten nicht ohne Nachtheil für die
-                    Rechtswissenschaft in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> bleiben.
-                    Während in <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country> durch den großen Rechtslehrer
-                        <persName key="savigny-friedrich-carl">Savigny</persName> und andere eine
+                    Rechtswissenschaft in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> bleiben.
+                    Während in <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> durch den großen Rechtslehrer
+                        <rs type="person" ref="savigny-friedrich-carl" key="savigny-friedrich-carl">Savigny</rs> und andere eine
                     mächtige Schule begründet und die Rechtsgelehrsamkeit wahrhaft gefördert wurde,
-                    während diese Schule auch in <country ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</country> eine tiefere
+                    während diese Schule auch in <rs type="place" subtype="country" ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</rs> eine tiefere
                     Bearbeitung des dortigen Rechtes hervorrief, mußte die juristische Litteratur
-                        <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</country> in bedauerlicher Weise
+                        <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> in bedauerlicher Weise
                     zurück bleiben. Seit des berühmten Pratobevera Materialien<note xml:id="note_1">Vgl. <ref target="http://books.google.at/books?id=6kBDAAAAcAAJ&amp;dq=pratobevera&amp;hl=de&amp;source=gbs_navlinks_s">Carl Joseph Pratobevera, Materialien für Gesetzkunde und Rechtspflege
                             in den österreichischen Erbstaaten, 8. Bde., 1815–1824</ref>.</note>
                     erschienen sind, hat sie fast nichts aufzuweisen als Handbücher für den
@@ -122,11 +121,11 @@
                     Familienverhältnissen, die bei allen gesitteten Völkern auf religiöser Grundlage
                     beruhten und nur auf ihr beruhen können. Dem Einfluße unserer Gesetze öffnen
                     sich weiter Länder, deren Zustände von den unserigen größtentheils sehr
-                    verschieden sind. <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country>, wo sich die Rechtsbegriffe nicht
-                    auf Grundlage des römischen Rechtes entwickelt haben, <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</region>, wo die verschiedenartigsten
+                    verschieden sind. <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, wo sich die Rechtsbegriffe nicht
+                    auf Grundlage des römischen Rechtes entwickelt haben, <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>, wo die verschiedenartigsten
                     Rechtssysteme neben einander Geltung haben, die südslavischen Länder, wo noch
                     Generationen in patriarchalischer Gemeinschaft die Autorität eines
-                    Familienhauptes anerkennen. Der Lehrer des bürgerlichen Rechtes in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> wird künftig auch für alle diese
+                    Familienhauptes anerkennen. Der Lehrer des bürgerlichen Rechtes in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> wird künftig auch für alle diese
                     Länder Richter, Advokaten und Rechtslehrer zu bilden haben. In der That eine
                     Anregung, tiefer einzudringen in das Wesen der Rechtsinstitute und der
                     Rechtsbegriffe, wie sie bisher nicht dagewesen ist.<lb/>Und während so die

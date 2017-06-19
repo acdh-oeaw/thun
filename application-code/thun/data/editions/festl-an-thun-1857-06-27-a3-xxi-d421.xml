@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="festl-karl" role="sender:kleriker">Karl Festl</persName> an
-                        <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="festl-karl" key="festl-karl" role="sender:kleriker">Karl Festl</rs> an
+                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_c91e119c32c8fd150dc862eb7c4d1735">Maros-Vásárhely</placeName>, <date when="1857-06-27">27. Juni 1857</date>
+                    <rs type="place" subtype="place" ref="#place_c91e119c32c8fd150dc862eb7c4d1735">Maros-Vásárhely</rs>, <date when="1857-06-27">27. Juni 1857</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -41,7 +40,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -53,7 +52,7 @@
                 </index>
                 <p>Euere Excellenz!</p>
                 <p>Durch die Allerhöchste Gnade Seiner k.k. Apostolischen Majestät zum Schulrathe
-                    für <region ref="#place_bafe2294b7fb193dee4992b1ed9dd773">Siebenbürgen</region> ernannt, habe ich das Glück, ein eben so
+                    für <rs type="place" subtype="region" ref="#place_bafe2294b7fb193dee4992b1ed9dd773">Siebenbürgen</rs> ernannt, habe ich das Glück, ein eben so
                     wichtiges als meinen individuellen Neigungen völlig entsprechendes Amt bekleiden
                     zu dürfen. Die hohe Wichtigkeit der mir auf diese Weise gewordenen Aufgabe stets
                     im Auge haltend, hege ich keinen lebhafteren Wunsch, als den durch eifrige
@@ -72,7 +71,7 @@
                     Majestät mir Allergnädigst verliehene kirchliche Stellung, ohne welche ich bei
                     den hierortigen Verhältnissen kaum mit Aussicht auf Erfolg wirken könnte, legt
                     mir Pflichten auf, welchen ich in meiner jetzigen Lage nicht entsprechen
-                    kann.<lb/>Um ferner in <region ref="#place_bafe2294b7fb193dee4992b1ed9dd773">Siebenbürgen</region> auf die bessere Befähigung
+                    kann.<lb/>Um ferner in <rs type="place" subtype="region" ref="#place_bafe2294b7fb193dee4992b1ed9dd773">Siebenbürgen</rs> auf die bessere Befähigung
                     der Lehrer nachhaltig einzuwirken, wäre es sowohl bei dem sehr erschwerten
                     kümmerlichen Bücherhandel, als auch wegen der Armuth der Lehrer nothwendig, daß
                     der Schulrath den Lehrern die zu ihrer Ausbildung nöthigen Hilfsbücher nicht
@@ -86,11 +85,11 @@
                     kleinlichen Lebenssorgen überhoben, mit ungetheilter Hingebung obzuliegen. Indem
                     ich dem Allerhöchsten Dienste freudig mein Leben weihe, diene ich ja auch der
                     katholischen Kirche, und ich kann mich mit gutem Gewissen auf das Zeugnis des
-                    hochwürdigsten <persName key="haynald-lajos">Bischofes von
-                        Siebenbürgen</persName> berufen, daß meine bisherigen Leistungen im Dienste
+                    hochwürdigsten <rs type="person" ref="haynald-lajos" key="haynald-lajos">Bischofes von
+                        Siebenbürgen</rs> berufen, daß meine bisherigen Leistungen im Dienste
                     der Kirche stets zufriedenstellend waren. Zudem dürfte mein Competenzgesuch um
-                    Verleihung der vakanten Domherrnstelle in <placeName key="grosswardein" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Großwardein</placeName> durch den Umstand begründet werden, wonach ich als
-                    Schulrath für <region ref="#place_bafe2294b7fb193dee4992b1ed9dd773">Siebenbürgen</region> auch die Schulen eines
+                    Verleihung der vakanten Domherrnstelle in <rs type="place" subtype="place" key="grosswardein" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Großwardein</rs> durch den Umstand begründet werden, wonach ich als
+                    Schulrath für <rs type="place" subtype="region" ref="#place_bafe2294b7fb193dee4992b1ed9dd773">Siebenbürgen</rs> auch die Schulen eines
                     beträchtlichen Theiles der Großwardeiner Diözese zu besorgen habe, welcher der
                     politischen Verwaltung der Siebenbürger Statthalterei untersteht.<lb/>Ich komme
                     daher zu Euerer Excellenz wie zu meinem Vater mit der vertrauensvollen
@@ -100,7 +99,7 @@
                     unterthäniges Majestätsgesuch einreiche; und erlaube mir noch zur weiteren
                     Begründung meiner Bitte an das uns allen bekannte milde gütig-edle Herz Euerer
                     Excellenz zu appelliren. Ich habe eine alte Mutter und vier unversorgte arme
-                    Geschwister, deren alleinige Stütze ich bin. Als Pfarrer in <placeName key="fuenfkirchen" ref="#place_717976f66a4b7e6e24e6d182fbf0a00a">Fünfkirchen</placeName> [Pécs] – meiner Vaterstadt –
+                    Geschwister, deren alleinige Stütze ich bin. Als Pfarrer in <rs type="place" subtype="place" key="fuenfkirchen" ref="#place_717976f66a4b7e6e24e6d182fbf0a00a">Fünfkirchen</rs> [Pécs] – meiner Vaterstadt –
                     konnte ich sie unterstützen, – jetzt, obwohl höher gestellt, bin ich kaum im
                     Stande, auch nur Weniges für sie zu leisten, und dieser peinliche Gedanke, es
                     mit beinahe 40 in arbeitsamer Thätigkeit zurückgelegten Jahren noch nicht dahin

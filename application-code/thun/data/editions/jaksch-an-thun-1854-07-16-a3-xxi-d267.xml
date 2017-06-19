@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="jaksch-anton" role="sender:gelehrter">Anton Jaksch</persName>
-                    an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="jaksch-anton" key="jaksch-anton" role="sender:gelehrter">Anton Jaksch</rs>
+                    an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, <date when="1854-07-16">16.
+                    <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1854-07-16">16.
                         Juli 1854</date>
                 </title>
             </titleStmt>
@@ -66,7 +65,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -78,7 +77,7 @@
                     <term>Studenten</term>
                 </index>
                 <p>Euer Excellenz!</p>
-                <p>Die Wiedereinführung der 2. medicinischen Klinik in <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>
+                <p>Die Wiedereinführung der 2. medicinischen Klinik in <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>
                     und die Art und Weise, wie der dießfällige hohe Auftrag ertheilt wurde, müssen
                     grade bei denen, welche die Verhältnisse kennen, die Überzeugung rege machen,
                     daß im hohen <orgName key="ministerium-fuer-kultus-und-unterricht">Ministerium</orgName> entweder gegen mein Wissen und mein Lehrtalent und
@@ -96,9 +95,9 @@
                     Handgriffe viel schwerer ist. Übrigens werden die Vortheile, die höchsten Ortes
                     den Studierenden an der <orgName key="medizinisch-chirurgische-militaerakademie-wien">Josephsakademie</orgName> geboten werden, die größte Zahl der Mediciner
                     dahin ableiten, und ich glaube nicht zu irren, wenn ich behaupte, daß in wenigen
-                    Jahren die Zahl der in <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> die praktische Medicin
+                    Jahren die Zahl der in <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> die praktische Medicin
                     Studierenden auf 20, ja vielleicht darunter sinken werde. Auf eine größere Zahl
-                    von Ausländern ist hier in <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> nicht zu rechnen; denn,
+                    von Ausländern ist hier in <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> nicht zu rechnen; denn,
                     obgleich bei weitem mehr als 20 in diesem Semester meine Klinik besuchen, und
                     zwar durch Wochen und Monate, so haben sich doch nur 9 als ordentliche Hörer
                     einschreiben lassen, die anderen finden es bequemer, wenn sie kommen und gehen,
@@ -126,7 +125,7 @@
                     absorbirten, wenn ich das so große für eine kurze Arbeit zu Gebote stehende
                     Material erschöpfen wollte. So habe ich fürs nächste Semester Vorträge über die
                     Größen in meiner Wissenschaft aus den verschiedenen Zeitaltern, zunächst über
-                        <persName key="morgagni-giovanni-batista">Morgagni</persName> angekündigt.
+                        <rs type="person" ref="morgagni-giovanni-batista" key="morgagni-giovanni-batista">Morgagni</rs> angekündigt.
                     Es ist eine tüchtige Aufgabe, das große Werk und den Geist dieses Mannes in etwa
                     30 Vorlesungen zu bringen, doch ich hoffe es zu bewerkstelligen und damit die in
                     der Jugend so sehr erloschene Ehrfurcht vor dem Alten wieder zu wecken; überdieß
@@ -159,7 +158,7 @@
                     ich vielleicht durch Nachsicht und Leichtfertigkeit um die Gunst der Schüler
                     buhlen?<lb/>Nimmer werde ich das, eher trete ich von dem Lehrfache zurück. Daß
                     diese Angaben nicht übertrieben und aus der Luft gegriffen seyen, davon kann ich
-                    Euer Excellenz durch einen von <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> aus geschriebenen
+                    Euer Excellenz durch einen von <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> aus geschriebenen
                     Artikel im „Gränzboten“ überzeugen, in dem meine ehrliche Pflichterfüllung als
                     Quälerei der Studenten geschildert ist. Es ist wohl das erste Mal in meinem
                     Leben, daß ich meiner höchsten Instanz gegenüber mein Wirken hervorhebe, doch
@@ -169,7 +168,7 @@
                     das Urtheil unpartheiischer Männer eingeholt haben und entweder auf Unkenntniß
                     der Verhältnisse oder auf einen persönlichen Widerwillen gegen mich gestoßen
                     sind; denn wie [ich] hier bei meinen Collegen mit Ausnahme weniger stehe, werden
-                    Euer Excellenz am besten daraus ersehen haben, daß wohl <persName key="hamernik-josef">Hamernjk</persName> noch nie, aber ich die zu
+                    Euer Excellenz am besten daraus ersehen haben, daß wohl <rs type="person" ref="hamernik-josef" key="hamernik-josef">Hamernjk</rs> noch nie, aber ich die zu
                     irgendeiner akademischen Würde erforderlichen Stimmen erhielt. Daß ich und mein
                     Thun und Lassen hieran nicht schuld sind, dessen bin ich mir bewußt. So viel zu
                     meiner Rechtfertigung! Wenn ich noch einige Bemerkungen über die Lehr- und
@@ -191,8 +190,8 @@
                     angestrebten Zweck erreicht haben, ich bin vielmehr der Überzeugung, daß das
                     Wirken beider an sich ausgezeichneten Männer fruchtbringender seyn würde, wenn
                     sie, ohne sich Rivalen zu seyn und Partheien hinter sich zu haben, mit Lust und
-                    Liebe lehren könnten, wie es bei einem <persName key="stoll-maximilian">Stoll</persName>, <persName key="de-haen-anton">de Haen</persName>,
-                        <persName key="frank-johann-peter">Frank</persName> der Fall war.<lb/>Nicht
+                    Liebe lehren könnten, wie es bei einem <rs type="person" ref="stoll-maximilian" key="stoll-maximilian">Stoll</rs>, <rs type="person" ref="de-haen-anton" key="de-haen-anton">de Haen</rs>,
+                        <rs type="person" ref="frank-johann-peter" key="frank-johann-peter">Frank</rs> der Fall war.<lb/>Nicht
                     die Menge der Lehrer in einem Fache nützt dem Schüler, im Gegentheile, sie macht
                     ihn häufig nachlässig und bringt ihn auf Abwege; wenn für die Summe, die diese
                     2–3 Männer kosten, eine Notabilität gewonnen würde und dieß wäre durch die
@@ -215,13 +214,13 @@
                     Belege hiefür, die ich in meiner Wissenschaft hie und da zu geben imstande
                     wäre.<lb/>Mir dringt sich von Jahr zu Jahr fester die Überzeugung auf, daß
                     insbesondere die Lernfreiheit und das Schulgeld die Klippen sind, an denen die
-                    Tugend der Lehrer und Schüler nach und nach zugrunde geht, und daß <persName key="riehl-wilhelm-heinrich">Rihl</persName> [Riehl] in seinem Werke über
+                    Tugend der Lehrer und Schüler nach und nach zugrunde geht, und daß <rs type="person" ref="riehl-wilhelm-heinrich" key="riehl-wilhelm-heinrich">Rihl</rs> [Riehl] in seinem Werke über
                     die bürgerliche Gesellschaft Recht habe, wenn er den deutschen Universitäten
                     vorwirft und beweist, daß aus denselben ein bis dahin nie bestandenes neues
                     Proletariat, das der Wissenschaft, hervorgegangen sey, das gefährlichste von
                     allen für den Staat und die Gesellschaft, das in den jüngsten Weltereignissen
                     eine so wichtige Rolle gespielt hat, und sie itzt noch spielt in der Presse, die
-                    es in <country key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschland</country> noch immer zum großen
+                    es in <rs type="place" subtype="country" key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschland</rs> noch immer zum großen
                     Theile in seinen Händen hat. Ich halte es grade für die höchste Pflicht des
                     Staates, die Lehrer streng zu überwachen, sie ist es, die die Generationen zu
                     dem bildet, was sie einst sind. Der Atheismus, der religiöse Indifferentismus,
@@ -236,12 +235,12 @@
                     sind, wie jeder Freigeist nur in der Idee richtig, i.e. unter der Voraussetzung,
                     daß Lehrer und Lernende so sind, wie sie seyn sollen. Allein die Menschen sind
                     überhaupt nur ausnahmsweise so, wie sie seyn sollen.<lb/>Bei dem Congresse der
-                    deutschen Universitätslehrer in <placeName ref="#place_3667cbbafb66c626f2c1d56c1bd96d69">Jena</placeName> im Jahre 1849
-                    [sic!], dem von <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> aus die Professoren <persName key="scheiner-joseph">Scheiner</persName> und <persName key="haeusle-johann-michael">Haeusle</persName> beiwohnten, wurde, wenn ich
+                    deutschen Universitätslehrer in <rs type="place" subtype="place" ref="#place_3667cbbafb66c626f2c1d56c1bd96d69">Jena</rs> im Jahre 1849
+                    [sic!], dem von <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> aus die Professoren <rs type="person" ref="scheiner-joseph" key="scheiner-joseph">Scheiner</rs> und <rs type="person" ref="haeusle-johann-michael" key="haeusle-johann-michael">Haeusle</rs> beiwohnten, wurde, wenn ich
                     nicht irre, gleichfalls einstimmig die Lehr- und Lernfreiheit als das Grab der
-                    Wissenschaft anerkannt. In <country key="daenemark" ref="#place_ff10485af1c4544631f9e96f764ab5e7">Dänemark</country> wurde in
+                    Wissenschaft anerkannt. In <rs type="place" subtype="country" key="daenemark" ref="#place_ff10485af1c4544631f9e96f764ab5e7">Dänemark</rs> wurde in
                     demselben Jahre die Lehr- und Lernfreiheit wieder abgeschafft. In
-                        <placeName ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</placeName> sah ich im Jahre 1852 mit Vergnügen, daß die
+                        <rs type="place" subtype="place" ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</rs> sah ich im Jahre 1852 mit Vergnügen, daß die
                     Universitätsschüler öffentlich geprüft werden. Desgleichen schien mir dort die
                     Art und Weise, wie man Universitätslehrer wird, zweckmäßiger als bei uns und
                     deshalb nachahmenswerth, nämlich: durch einen öffentlichen Conkurs vor einer
@@ -257,7 +256,7 @@
                     einzig durch meine Konkursarbeit Professor geworden bin; bei meiner Art zu
                     denken und handeln, dürfte ich gegenwärtig kaum zu diesem Ziele gelangt
                     seyn.<lb/>Was schließlich das Schulgeld betrifft, so hat es auch bereits in
-                        <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</country> zur Koursgeberei, zu
+                        <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> zur Koursgeberei, zu
                     collegiis privatis und privatissimis, kurz, wie im Auslande, zu einer
                     Spekulation auf den Säckel der Studierenden geführt. Jeder Lehrer ist
                     verpflichtet, alles, was er weiß, ohne Rücksicht auf Honorar seinen Schülern

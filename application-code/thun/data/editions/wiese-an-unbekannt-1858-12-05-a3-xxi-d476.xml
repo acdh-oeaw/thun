@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Auszug aus einem Brief von <persName key="wiese-ludwig-adolf" role="sender:beamter">Ludwig Wiese</persName> an einen unbekannten
+                <title>Auszug aus einem Brief von <rs type="person" ref="wiese-ludwig-adolf" key="wiese-ludwig-adolf" role="sender:beamter">Ludwig Wiese</rs> an einen unbekannten
                         Empfänger<lb/>
-                    <placeName ref="#place_ee1611b61f5688e70c12b40684dbb395">Berlin</placeName>, <date when="1858-12-05">5.
+                    <rs type="place" subtype="place" ref="#place_ee1611b61f5688e70c12b40684dbb395">Berlin</rs>, <date when="1858-12-05">5.
                         Dezember 1858</date>
                 </title>
             </titleStmt>
@@ -44,7 +43,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -55,30 +54,30 @@
                     <term>Österreich</term>
                     <term>Schulgeld</term>
                 </index>
-                <p>Aus einem Briefe des Geheimen Oberregierungsrathes <persName key="wiese-ludwig-adolf">L[udwig] Wiese</persName> in
-                        <placeName ref="#place_ee1611b61f5688e70c12b40684dbb395">Berlin</placeName> vom 5. December 1858.<note xml:id="note_1">Eh.
+                <p>Aus einem Briefe des Geheimen Oberregierungsrathes <rs type="person" ref="wiese-ludwig-adolf" key="wiese-ludwig-adolf">L[udwig] Wiese</rs> in
+                        <rs type="place" subtype="place" ref="#place_ee1611b61f5688e70c12b40684dbb395">Berlin</rs> vom 5. December 1858.<note xml:id="note_1">Eh.
                         Notiz von Leo Thun.</note>
                 </p>
                 <p>Das <hi rend="ul">Schulgeld</hi> auf den <hi rend="ul">Königlichen</hi> Gymnasien
                     betrug seit einer längeren Reihe von Jahren bis 1856 jährlich 20 Rt und 1 Rt
                     Turngeld, Zahlung vierteljährlich. Im Jahre 1856 wurde es auf meinen Antrag auf
                     24 Rt erhöht, mit Beibehaltung des Turngeldes. Die <hi rend="ul">städtischen</hi> Gymnasien hatten bis 1856 meist einen etwas geringeren
-                    Satz, einige aber auch einen höheren (z. B. <placeName ref="#place_59c873cea16c6a7279ea87f99cd1ddaa">Elberfeld</placeName>
+                    Satz, einige aber auch einen höheren (z. B. <rs type="place" subtype="place" ref="#place_59c873cea16c6a7279ea87f99cd1ddaa">Elberfeld</rs>
                     über 40 Rt jährlich). Sie folgten in der Maßregel der Schulgelderhöhung den
                     Königlichen bald größtentheils nach, einige freiwillig, andere durch die
                     Aufforderung genöthigt, die Lehrersbesoldungen zu verbessern. Die städtischen
                     Gymnasien machen übrigens Unterschiede zwischen den oberen und unteren Classen;
                     von den letzteren wird weniger gezahlt, ebenso von einheimischen Schülern
                     weniger als von fremden, doch ist das nicht überall so.<lb/>Es gibt jetzt kein
-                    Gymnasium in <country key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</country>, wo nicht in den oberen
+                    Gymnasium in <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs>, wo nicht in den oberen
                     Classen mindestens 20 Rt gezahlt wurden.<lb/>Eine Verminderung der
                     Schülerfrequenz hat die Schulgelderhöhung nirgends zur Folge gehabt; die Zahl
                     ist durchschnittlich in stetiger Zunahme.<lb/>Bei der Schulgelderhöhung wurde
                     den betreffenden Unterbehörden sogleich mitgetheilt, daß die Absicht sei, von
                     dem Ertrage die Lehrerbesoldungen, wo es nöthig sei, zu verbessern. Dies ist in
-                        <placeName ref="#place_ee1611b61f5688e70c12b40684dbb395">Berlin</placeName> (ausgenommen das Joachimsthal, wo es nicht
+                        <rs type="place" subtype="place" ref="#place_ee1611b61f5688e70c12b40684dbb395">Berlin</rs> (ausgenommen das Joachimsthal, wo es nicht
                     nöthig war, also das Plus in die Schulcasse gieng und geht) bei den Königlichen
-                    Gymnasien sogleich geschehen. So sind an den drei unter dem Direktor <persName key="ranke-ferdinand">Ranke</persName> stehenden Anstalten (Gymnasium,
+                    Gymnasien sogleich geschehen. So sind an den drei unter dem Direktor <rs type="person" ref="ranke-ferdinand" key="ranke-ferdinand">Ranke</rs> stehenden Anstalten (Gymnasium,
                     Realschule, Mädchenschule) im Jahre 1857 die Besoldungen an die Gesammtsumme von
                     4.130 Rt erhöht worden, im Einzelnen von 200 bis 25 Rt. Die städtischen
                     Patronate haben nicht die Schulgelderhöhung gern eintreten lassen, sich aber mit
@@ -90,31 +89,31 @@
                     allerdings nicht ohne bedenkliche Folgen bleibt.<lb/>Bei jeder neuen Anstellung
                     wird dieser Anspruch, wo er bestand, aufgehoben.</p>
                 <div type="enclosure" xml:id="D476_1">
-                    <p>Aus <persName key="muetzel-wilhelm-julius">Mützell’s</persName>
+                    <p>Aus <rs type="person" ref="muetzel-wilhelm-julius" key="muetzel-wilhelm-julius">Mützell’s</rs>
                         Gymnasialzeitschrift 1858. Octoberheft S. 790.</p>
                     <p>Der Aufsatz enthält Data über die Frequenz und die finanziellen Verhältnisse
-                        der Gymnasien in preußisch <region ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</region>. Besonders
+                        der Gymnasien in preußisch <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs>. Besonders
                         beachtenswerth sind die Durchschnittsberechnungen auf S. 794. Die
                         Vergleichung mit den Verhältnissen der österreichischen Gymnasien wird
                         dadurch wichtiger, daß die Gemeindegymnasien Schlesiens den niedrigsten
-                        Schulgeldsatz in <country key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</country> haben.<lb/>Der
+                        Schulgeldsatz in <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> haben.<lb/>Der
                         Durchschnitt des Schulgeldes, der auf den einzelnen Schüler entfällt (mit
                         Einrechnung der Befreiten), schwankt in den verschiedenen Anstalten von 7 ½
-                        Rt = 11 fl – im kleinen Städtchen Lauban [<placeName ref="#place_34c40b32bbca4f2ceb27fff9bbfecaf9">Lubań</placeName>] –
-                        bis 18 7/10 Rt = 28 fl in <placeName ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</placeName> – ungerechnet die
-                        Liegnitzer [<placeName ref="#place_bbd93b1785138d97c8dabe0cf482c855">Legnica</placeName>] Ritterakademie mit 30
+                        Rt = 11 fl – im kleinen Städtchen Lauban [<rs type="place" subtype="place" ref="#place_34c40b32bbca4f2ceb27fff9bbfecaf9">Lubań</rs>] –
+                        bis 18 7/10 Rt = 28 fl in <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs> – ungerechnet die
+                        Liegnitzer [<rs type="place" subtype="place" ref="#place_bbd93b1785138d97c8dabe0cf482c855">Legnica</rs>] Ritterakademie mit 30
                         Rt.<lb/>Als <hi rend="ul">Durchschnitt</hi> der Schulgeldzahlung an
-                        sämmtlichen Gymnasien <region key="schlesien" ref="#place_555f6fe9ebdd56123400b9e628944934">Schlesiens</region> ergibt
+                        sämmtlichen Gymnasien <rs type="place" subtype="region" key="schlesien" ref="#place_555f6fe9ebdd56123400b9e628944934">Schlesiens</rs> ergibt
                         sich für den einzelnen Schüler fast 11 Rt = 16 ½ fl<lb/>In den
                         deutsch-slavischen Kronländern ergibt sich für das Schuljahr 1856/57 als
                         Durchschnitt des Schulgeldes für den einzelnen Schüler:<lb/>
-                        <region key="niederoesterreich" ref="#place_01b2e8cfb34e1d933aa943e42ef15919">Niederösterreich</region> fast 7 fl (für die
-                        drei Gymnasien <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wiens</placeName>, akademisches
-                        Schotten Josefst. allein gerechnet 8 ½ fl), <region key="oberoesterreich" ref="#place_fe6f496ff822ebb804cdda05f226dd55">Oberösterreich</region> fast 5 fl, <region ref="#place_ea6515eca27ae68c06c82e8cc2a6d318">Salzburg</region> 7 1/3 fl,
-                            <region ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</region> fast 6 fl, <region ref="#place_b5e9e75db151e1fff33838003e5fa591">Steiermark</region> fast 6 fl,
-                            <region key="kaernten" ref="#place_ef894a0a9ab2e171eb147ffd9e56cd4b">Kärnten</region> 5 fl, <region ref="#place_1550e04c70115aa1a8f29f8e033676c4">Krain</region> 6
-                        1/3 fl, <region key="kuestenlande" ref="#place_84b12c492f8845dc5c180bbd618cd7bb">Küstenland</region> 5 fl, <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</region> 6 4/5 fl, <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> fast 8 fl, <region ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</region> 7 ½ fl,
-                            <region ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</region> fast 7 fl.</p>
+                        <rs type="place" subtype="region" key="niederoesterreich" ref="#place_01b2e8cfb34e1d933aa943e42ef15919">Niederösterreich</rs> fast 7 fl (für die
+                        drei Gymnasien <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wiens</rs>, akademisches
+                        Schotten Josefst. allein gerechnet 8 ½ fl), <rs type="place" subtype="region" key="oberoesterreich" ref="#place_fe6f496ff822ebb804cdda05f226dd55">Oberösterreich</rs> fast 5 fl, <rs type="place" subtype="region" ref="#place_ea6515eca27ae68c06c82e8cc2a6d318">Salzburg</rs> 7 1/3 fl,
+                            <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs> fast 6 fl, <rs type="place" subtype="region" ref="#place_b5e9e75db151e1fff33838003e5fa591">Steiermark</rs> fast 6 fl,
+                            <rs type="place" subtype="region" key="kaernten" ref="#place_ef894a0a9ab2e171eb147ffd9e56cd4b">Kärnten</rs> 5 fl, <rs type="place" subtype="region" ref="#place_1550e04c70115aa1a8f29f8e033676c4">Krain</rs> 6
+                        1/3 fl, <rs type="place" subtype="region" key="kuestenlande" ref="#place_84b12c492f8845dc5c180bbd618cd7bb">Küstenland</rs> 5 fl, <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> 6 4/5 fl, <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> fast 8 fl, <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs> 7 ½ fl,
+                            <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs> fast 7 fl.</p>
                 </div>
             </div>
         </body>

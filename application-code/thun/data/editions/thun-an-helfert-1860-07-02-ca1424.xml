@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="helfert-joseph-alexander" role="recipient">Joseph Alexander
-                        Helfert</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="helfert-joseph-alexander" key="helfert-joseph-alexander" role="recipient">Joseph Alexander
+                        Helfert</rs>
                     <lb/>o. O., <date when="1860-07-02">o. D. [2. Juli
                         1860]</date>
                     <note xml:id="note_1">Das Datum ist mit Bleistift am Blatt
@@ -35,7 +34,7 @@
                 </p>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -44,7 +43,7 @@
                     <term>Ministerium für Kultus und Unterricht</term>
                     <term>Verwaltung</term>
                 </index>
-                <p>Ich bin heute von <persName key="tomaschek-eduard">Tomaschek</persName>
+                <p>Ich bin heute von <rs type="person" ref="tomaschek-eduard" key="tomaschek-eduard">Tomaschek</rs>
                     aufmerksam gemacht worden, daß wenn ich in Folge von Interpellazionen Auskünfte
                     über erlassene Ministerial Weisungen schnell brauchen sollte, solche in dem
                     Normalienbuch allerdings zu finden wären, aber ohne Repertorium nicht werden mit

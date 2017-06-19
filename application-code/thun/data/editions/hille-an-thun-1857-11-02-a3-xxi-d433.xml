@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="hille-augustin" role="sender:kleriker">Augustin
-                        Hille</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="hille-augustin" key="hille-augustin" role="sender:kleriker">Augustin
+                        Hille</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_a909ae39141fb3cc1161d2103a55ed1b">Leitmeritz</placeName>, <date when="1857-11-02">2. November 1857</date>
+                    <rs type="place" subtype="place" ref="#place_a909ae39141fb3cc1161d2103a55ed1b">Leitmeritz</rs>, <date when="1857-11-02">2. November 1857</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -32,7 +31,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

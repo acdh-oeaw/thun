@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="huebner-alexander" role="sender:beamter">Alexander
-                        Hübner</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="huebner-alexander" key="huebner-alexander" role="sender:beamter">Alexander
+                        Hübner</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</placeName>, <date when="1855-10-16">16. Oktober 1855</date>
+                    <rs type="place" subtype="place" ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</rs>, <date when="1855-10-16">16. Oktober 1855</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -39,7 +38,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -52,7 +51,7 @@
                 <p>Geehrtester Herr Minister,</p>
                 <p>Erlauben Euer Excellenz einem Laien Ihnen zu dem großen Umschwunge, der unter
                     Seiner Majestät Ägide und unter Ihrem unmittelbaren Einflusse heute auf dem
-                    Gebiete der kirchlichen Verhältnisse <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</country> und auf dem des wissenschaftlichen Unterrichts
+                    Gebiete der kirchlichen Verhältnisse <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> und auf dem des wissenschaftlichen Unterrichts
                     vorgeht, seinen wärmsten Glückwunsch darzubringen. Eigentlich gelten diese
                     Wünsche – die aufgehört haben fromme zu sein – dem großen Vaterland, welches
                     nunmehr von den Banden befreit wird, mit welchen es politischer Unverstand,
@@ -64,20 +63,20 @@
                     weittragendsten Maßregeln. Der Staat, der bisher im Zwiespalte mit dem Gewissen
                     und im Kampf mit den lebendigen Kräften des Geistes gelebt hatte, schließt mit
                     beiden Frieden, beruhigt jene und gewinnt diese für sich.<lb/>Wie würde sich der
-                    arme <persName key="jarcke-karl-ernst">Jarcke</persName> freuen, könnte er die
+                    arme <rs type="person" ref="jarcke-karl-ernst" key="jarcke-karl-ernst">Jarcke</rs> freuen, könnte er die
                     erläuternden Artikel der Wiener Zeitung lesen. Ihm hatte der Weg, den wir vor
-                    1848 gingen, das Herz gebrochen. Als die Wiedergeburt <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</country> begann, siechte er bereits dem Grabe entgegen.
+                    1848 gingen, das Herz gebrochen. Als die Wiedergeburt <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> begann, siechte er bereits dem Grabe entgegen.
                         <lb/>
-                    <persName key="nuell-van-der-eduard">Herr van der Nüll</persName>
+                    <rs type="person" ref="nuell-van-der-eduard" key="nuell-van-der-eduard">Herr van der Nüll</rs>
                     unterbricht mich hier, und durch ihn erhielt ich die geehrten Zeilen vom 10.
                     dieses Monats. Euer Excellenz wollen überzeugt sein, daß ich ihn nach Kräften
                     unterstützen werde. Ich fürchte aber, daß unseren Kunstleistungen, hier minder
                     unvortheilig beurtheilt als unsere Industrie, ihr Recht nicht widerfahren wird,
-                    wenigstens nicht in vollem Maße. Ich habe hierüber an <persName key="morny-charles">Graf Morny</persName> geschrieben, und werde auch Graf
-                        <persName key="nieuwerkerke-alfred-emilien">Nuiverkerke</persName> günstig
-                    zu stimmen suchen.<lb/>Von Ihrem <persName key="thun-hohenstein-friedrich">Herrn
-                        Bruder</persName> habe ich einen langen und in heiterster Stimmung
-                    geschriebenen Brief aus <placeName ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</placeName> vor wenigen Tagen
+                    wenigstens nicht in vollem Maße. Ich habe hierüber an <rs type="person" ref="morny-charles" key="morny-charles">Graf Morny</rs> geschrieben, und werde auch Graf
+                        <rs type="person" ref="nieuwerkerke-alfred-emilien" key="nieuwerkerke-alfred-emilien">Nuiverkerke</rs> günstig
+                    zu stimmen suchen.<lb/>Von Ihrem <rs type="person" ref="thun-hohenstein-friedrich" key="thun-hohenstein-friedrich">Herrn
+                        Bruder</rs> habe ich einen langen und in heiterster Stimmung
+                    geschriebenen Brief aus <rs type="place" subtype="place" ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</rs> vor wenigen Tagen
                     erhalten.<lb/>Meine besten Wünsche begleiten ihn auf seinem Wege. Er ist gewiß
                     der richtige. Ich fürchte aber, wenn er nicht außerordentlich kräftig
                     unterstützt wird, daß er ihn schwieriger steiniger und beschwerlicher finden

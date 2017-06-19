@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="schenach-georg" role="sender:gelehrter">Georg
-                        Schenach</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="schenach-georg" key="schenach-georg" role="sender:gelehrter">Georg
+                        Schenach</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</placeName>, <date when="1857-04-20">20. April 1857</date>
+                    <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs>, <date when="1857-04-20">20. April 1857</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -43,7 +42,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -59,7 +58,7 @@
                     zugleich gewagt drei Bitten zu stellen: die Bitte um Bewilligung eines Urlaubs
                     für das Sommersemester, die Bitte um Bewilligung einer Reise- und
                     Übersiedlungsvergütung und die Bitte um Anrechnung der Decenalzulagen vom Jahre
-                    1849 angefangen.<lb/>Es ist mir seitdem durch meinen Freund <persName key="fessler-joseph">Prof. Feßler</persName> mitgetheilt worden, daß die
+                    1849 angefangen.<lb/>Es ist mir seitdem durch meinen Freund <rs type="person" ref="fessler-joseph" key="fessler-joseph">Prof. Feßler</rs> mitgetheilt worden, daß die
                     Bewilligung des Urlaubs keinem Anstand unterliegen, die Bewilligung der beiden
                     andern Bitten aber auf Hindernisse stoßen dürfte.<lb/>Die Sorge für eine
                     gesicherte Subsistenz, die Überzeugung von der Billigkeit meiner Bitten und der

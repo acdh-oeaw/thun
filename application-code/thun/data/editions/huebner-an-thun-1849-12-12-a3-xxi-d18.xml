@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="huebner-rudolf" role="sender:beamter">Rudolf Hübner</persName>
-                    an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="huebner-rudolf" key="huebner-rudolf" role="sender:beamter">Rudolf Hübner</rs>
+                    an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</placeName>, <date when="1849-12-12">12. Dezember
+                    <rs type="place" subtype="place" ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</rs>, <date when="1849-12-12">12. Dezember
                     1849</date>
                 </title>
             </titleStmt>
@@ -37,7 +36,7 @@
                 </p>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -53,7 +52,7 @@
                     letzte in Ihrem Wohlwollen stand und der aus dieser Erinnerung allein so viel
                     Muth schöpft, um zu Ihnen seine gegenwärtige Bitte mit der Zuversicht einer
                     gütigen Gewährung zu erheben.<lb/>Seit 15 Monaten bin ich bei der Armee in
-                        <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> kommandirt, getrennt von Weib, Schwester und fünf
+                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> kommandirt, getrennt von Weib, Schwester und fünf
                     kleinen Kindern, wovon drei Knaben bereits die Schulen besuchen. Alle Leiden und
                     Entbehrungen, die ich, stets mit dem operirenden Hauptquartier marschirend,
                     während des letzten schrecklichen Winterfeldzuges und des noch schrecklicheren
@@ -61,14 +60,14 @@
                     Pflicht und die Hoffnung zur Seite stand, nach und wegen der materiellen
                     Verluste, die man bei jeder Übersiedelung erleidet, neuen Nachtheilen ausgesetzt
                     [zu] seyn.<lb/>Erbarmen sich Euer Excellenz meiner Kinder, meiner alten
-                    Schwester <persName key="huebner-rosa">Rosa</persName>, die ich auch nicht gerne
-                    aus ihren Verhältnissen in <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> reißen möchte, und
+                    Schwester <rs type="person" ref="huebner-rosa" key="huebner-rosa">Rosa</rs>, die ich auch nicht gerne
+                    aus ihren Verhältnissen in <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> reißen möchte, und
                     verhelfen Sie mir durch eine warme Fürsprache zu meiner Beorderung auf den
-                    Anstellungsposten <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>.<lb/>Ein theueres Andenken mit der
+                    Anstellungsposten <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>.<lb/>Ein theueres Andenken mit der
                     Devise: „Memoria amicorum studiis junctorum“ hat mir den Muth gegeben in dieser
                     mein Lebensglück treffenden Angelegenheit Euer Excellenz gnädige persönliche
                     Unterstützung anzurufen, indem ich unter einem auch an den Kriegsministerialrath
-                        <persName key="einkhemmer-von-rechwitz-karl">Einkhemmer</persName> schreibe.
+                        <rs type="person" ref="einkhemmer-von-rechwitz-karl" key="einkhemmer-von-rechwitz-karl">Einkhemmer</rs> schreibe.
                     Das Vertrauen in Ihre felsenfeste hochherzige Gesinnung erfüllt mich mit der
                     Zuversicht einer gütigen Gewährung.<lb/>Genehmigen Euer Excellenz die
                     Versicherung meiner unbegränzten Hochachtung und Dankbarkeit mit der ich

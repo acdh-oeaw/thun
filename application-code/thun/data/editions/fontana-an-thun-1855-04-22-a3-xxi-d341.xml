@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="burger-friedrich" role="sender:beamter">Friedrich
-                        Burger</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="burger-friedrich" key="burger-friedrich" role="sender:beamter">Friedrich
+                        Burger</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName key="mailand" ref="#place_e30630933146ed8683482de23229fd6a">Mailand</placeName>, <date when="1855-04-22">22. April 1855</date>
+                    <rs type="place" subtype="place" key="mailand" ref="#place_e30630933146ed8683482de23229fd6a">Mailand</rs>, <date when="1855-04-22">22. April 1855</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -33,7 +32,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -47,33 +46,33 @@
                 <p>Hochgeborner Graf!</p>
                 <p>Um Eurer Excellenz verehrten Wünschen zu entsprechen, war ich schon seit einiger
                     Zeit mit der Frage beschäftiget, ob und in wie fern es ausführbar erschiene,
-                        <persName key="fontana-johann">Dr. Fontana</persName> den Weg zur lombardischen
+                        <rs type="person" ref="fontana-johann" key="fontana-johann">Dr. Fontana</rs> den Weg zur lombardischen
                     Finanzprokuratur zu bahnen.<lb/>Er hat hier Alles, ohne Ausnahme, gegen
                     sich.<lb/>Der Finanzpräfekt und der ganze Rathskörper der Finanzpräfektur, zur
                     gremialen Berathung und Erstattung des Vorschlages berufen, würden für ihn nicht
-                    stimmen. Der Präfekt, <persName key="cappellari-johannes">Cavaliere
-                        Cappellari</persName>, sagte mir, er kenne aus seiner eigenen früheren
-                    Dienstleistung bei der Hofkammer <persName key="fontana">Fontana</persName> sehr
+                    stimmen. Der Präfekt, <rs type="person" ref="cappellari-johannes" key="cappellari-johannes">Cavaliere
+                        Cappellari</rs>, sagte mir, er kenne aus seiner eigenen früheren
+                    Dienstleistung bei der Hofkammer <rs type="person" ref="fontana" key="fontana">Fontana</rs> sehr
                     genau. Er schätze zwar seine Kenntnisse, tadle aber die ihm eigene Dialektik und
                     scheinbare Sophistik in der Behandlung fast aller Geschäftsmaterien, und finde
                     in den Schärfen seines Charakters und Temperamentes keine Bürgschaft für die
                     gedeihliche Leitung eines Amtskörpers mit zahlreichem Personale und großem
                     Geschäftsumfange.<lb/>Unter solchen Prämissen und da, wie ich besorge, beim
                     Finanzministerium eine mehr oder minder ähnliche Meinung sich festgesetzt haben
-                    dürfte, denke ich, daß die <country key="lombardei" ref="#place_5bde0d174594bcea5b83287afba0850a">Lombardie</country>
-                    <persName key="fontana">Fontana</persName> kaum günstige Chansen bieten würde.
+                    dürfte, denke ich, daß die <rs type="place" subtype="country" key="lombardei" ref="#place_5bde0d174594bcea5b83287afba0850a">Lombardie</rs>
+                    <rs type="person" ref="fontana" key="fontana">Fontana</rs> kaum günstige Chansen bieten würde.
                     Auch fehlt es hier nicht an sehr starken Konkurrenten.<lb/>Günstiger dürfte, wie
-                    ich höre, das Terrain für ihn in <placeName key="venedig" ref="#place_80c239e539544aa459dc13996638cb2f">Venedig</placeName>
+                    ich höre, das Terrain für ihn in <rs type="place" subtype="place" key="venedig" ref="#place_80c239e539544aa459dc13996638cb2f">Venedig</rs>
                     stehen, wo gleichfalls zur Besetzung der Prokuratorsstelle die Verhandlungen im
-                    Zuge sind. In <placeName key="triest" ref="#place_4fd4ef3f46418624bcfdb765d2881356">Triest</placeName>, wo <persName key="fontana">Fontana</persName> die Verhältnisse aus früherer Zeit genau
+                    Zuge sind. In <rs type="place" subtype="place" key="triest" ref="#place_4fd4ef3f46418624bcfdb765d2881356">Triest</rs>, wo <rs type="person" ref="fontana" key="fontana">Fontana</rs> die Verhältnisse aus früherer Zeit genau
                     kennt, ist die Prokuratorsstelle bei der Neuorganisierung eingegangen. Die
                     dortige Fiskalabtheilung soll einen Finanzrath an die Spitze erhalten, und es
                     steht sonach dahin, ob das Finanzministerium für dort bei der ersten Besetzung
                     ausnahmsweise einen Sektionsrath mit 3000 fl auf das Budget nehmen, und ob
-                        <persName key="fontana">Fontana</persName> einen solchen Platz erstreben
+                        <rs type="person" ref="fontana" key="fontana">Fontana</rs> einen solchen Platz erstreben
                     wolle.<lb/>Aus diesen Andeutungen mögen Eure Excellenz den Stand der Sachen
                     hochgeneigt überblicken, und mich zur Förderung Ihren wohlwollenden Absichten
-                    in Betreff <persName key="fontana">Fontana</persName>’s, so weit die
+                    in Betreff <rs type="person" ref="fontana" key="fontana">Fontana</rs>’s, so weit die
                     Verhältnisse dies immer ermöglichen, stäts bereit erklärend, bitte ich Eure
                     Excellenz die erneuerte Versicherung der unbegrenzten Verehrung und Ergebenheit
                     zu genehmigen, womit ich zu verbleiben die Ehre habe</p>

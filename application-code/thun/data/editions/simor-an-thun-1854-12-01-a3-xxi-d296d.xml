@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="simor-johann" role="sender:kleriker">János Simor</persName> an
-                        <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="simor-johann" key="simor-johann" role="sender:kleriker">János Simor</rs> an
+                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName>, <date when="1854-12-01">1.
+                    <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs>, <date when="1854-12-01">1.
                         Dezember 1854</date>
                 </title>
             </titleStmt>
@@ -63,7 +62,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -86,9 +85,9 @@
                     über die Immaculatafrage wird hierorts tief gefühlt, darum werden auch
                     gegenwärtig noch so viele Berathungen darüber gehalten in den hiezu berufenen
                     Congregationen. Die Erz- und Bischöfe haben ihre Conferenzen unter dem Präsidium
-                    des <persName key="brunelli-giovanni">Kardinals Brunelli</persName>, welchem die
-                        <persName key="caterini-prospero">Kardinäle Caterini</persName> und
-                        <persName key="santucci-vincenzo">Santucci</persName> beigegeben worden
+                    des <rs type="person" ref="brunelli-giovanni" key="brunelli-giovanni">Kardinals Brunelli</rs>, welchem die
+                        <rs type="person" ref="caterini-prospero" key="caterini-prospero">Kardinäle Caterini</rs> und
+                        <rs type="person" ref="santucci-vincenzo" key="santucci-vincenzo">Santucci</rs> beigegeben worden
                     waren, beendigt. Zu den Berathungen hat man auch mehrere Theologen beigezogen
                     mit der Bestimmung, vorkommende Zweifel zu lösen und den Bischöfen jeden
                     möglichen Aufschluß zu ertheilen. Der letzten Sitzung wohnten beiläufig 110 Erz-
@@ -124,13 +123,13 @@
                     centrifugalen Kräfte haben in der Kirche zu wirken aufgehört, und der
                     Gallicanismus und Febronianismus, und wie sie alle die falschen Systeme heißen,
                     sehen sich des Bodens unter den Bischöfen beraubt. Aber auch in der Beziehung
-                    ist die hierortige Zusammenkunft der Bischöfe wichtig, daß der <persName key="pius-IX">Papst</persName> und seine Organe Gelegenheit haben über den
+                    ist die hierortige Zusammenkunft der Bischöfe wichtig, daß der <rs type="person" ref="pius-IX" key="pius-IX">Papst</rs> und seine Organe Gelegenheit haben über den
                     Zustand der Particularkirchen und ihre Bedürfnisse unmittelbar und auf das
                     genaueste unterrichtet zu werden. Daß diese Gelegenheit gehörig benützt wird,
                     ist an den langen Audienzen ersichtlich, welche den Bischöfen gewährt werden.
-                    Die leutselige, einnehmende Persönlichkeit des <persName key="pius-IX">Papstes</persName> bezaubert alle Herren, und die zuvorkommende
+                    Die leutselige, einnehmende Persönlichkeit des <rs type="person" ref="pius-IX" key="pius-IX">Papstes</rs> bezaubert alle Herren, und die zuvorkommende
                     Freundlichkeit der Kardinäle flößt Vertrauen ein. Die gegenseitigen
-                    Mittheilungen der Bischöfe werden auch nicht erfolglos bleiben. Der <persName key="pius-IX">Heilige Vater</persName> ist mit dem Ergebnisse der
+                    Mittheilungen der Bischöfe werden auch nicht erfolglos bleiben. Der <rs type="person" ref="pius-IX" key="pius-IX">Heilige Vater</rs> ist mit dem Ergebnisse der
                     bischöflichen Conferenzen im höchsten Grade zufrieden und soll davon nur mit
                     Thränen in den Augen reden. Den Bischöfen wurde übrigens die Verschwiegenheit
                     über die Conferenzen zur Pflicht gemacht: allein auch sie sind Menschenkinder,
@@ -141,39 +140,39 @@
                     öffentlichen Verehrung und Besichtigung ausgesetzt. Die Zahl der hieher
                     gereisten Erz- und Bischöfe kann darum nicht ganz genau angegeben werden, weil
                     noch immer neue ankommen. So kam vor einigen Tagen aus
-                        <country ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</country> der fünfzehnte Bischof an, nemlich der
-                        <persName key="sibour-auguste">Erzbischof von Paris</persName>, um, wie man
+                        <rs type="place" subtype="country" ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</rs> der fünfzehnte Bischof an, nemlich der
+                        <rs type="person" ref="sibour-auguste" key="sibour-auguste">Erzbischof von Paris</rs>, um, wie man
                     sagt, von seinem Gallicanismus, dessen Verfechter er bisher gewesen, gründlich
                     geheilt zu werden.<lb/>Wegen den im Eingange berührten Verhältnissen hätte
                     meines Erachtens keine ungünstigere Zeit zu Verhandlungen über das Concordat
                     gewählt werden können. Das Ganze, was in dieser Hinsicht bis jetzt geschehen
                     ist, besteht meines Wissens darin, daß der Herr Erzbischof mit dem Heiligen
-                    Vater eine Unterredung, mit dem <persName key="antonelli-giacomo">Kardinal
-                        Antonelli</persName> zwei Conferenzen und mit dem <persName key="santucci-vincenzo">Kardinal Santucci</persName> eine Unterredung gehabt
+                    Vater eine Unterredung, mit dem <rs type="person" ref="antonelli-giacomo" key="antonelli-giacomo">Kardinal
+                        Antonelli</rs> zwei Conferenzen und mit dem <rs type="person" ref="santucci-vincenzo" key="santucci-vincenzo">Kardinal Santucci</rs> eine Unterredung gehabt
                     hat, an welchem er durch den Staatssecretär angewiesen wurde. Das Ergebnis
                     hievon soll in der gegenseitigen Annäherung bestehen. Unsere hier weilenden
-                    italienischen Bischöfe sind für das Concordat thätig, vorzüglich die <persName key="riccabona-benedikt">Bischöfe von Verona</persName> und <persName key="verzeri-girolamo">Brescia</persName>, der letztere hat dieser Tage an
-                    den <persName key="antonelli-giacomo">Kardinal Antonelli</persName> die Frage
+                    italienischen Bischöfe sind für das Concordat thätig, vorzüglich die <rs type="person" ref="riccabona-benedikt" key="riccabona-benedikt">Bischöfe von Verona</rs> und <rs type="person" ref="verzeri-girolamo" key="verzeri-girolamo">Brescia</rs>, der letztere hat dieser Tage an
+                    den <rs type="person" ref="antonelli-giacomo" key="antonelli-giacomo">Kardinal Antonelli</rs> die Frage
                     gestellt, ob denn doch das österreichische Concordat zu Stande kommen werde, die
                     lombardisch-venetianischen Bischöfe wünschten hierüber eine bestimmte Antwort zu
                     erhalten, damit sie sich darnach richten können; der Kardinal antwortete „Ich
-                    hoffe, daß es zu Stande kommen werde, da der <persName key="rauscher-joseph">Erzbischof von Wien</persName> bei der letzten Unterredung sich
+                    hoffe, daß es zu Stande kommen werde, da der <rs type="person" ref="rauscher-joseph" key="rauscher-joseph">Erzbischof von Wien</rs> bei der letzten Unterredung sich
                     willfähriger gezeigt habe.“ Wie dies zu verstehen sei, weiß ich nicht, glaube
-                    jedoch, daß der <persName key="rauscher-joseph">Herr Erzbischof</persName> seine
+                    jedoch, daß der <rs type="person" ref="rauscher-joseph" key="rauscher-joseph">Herr Erzbischof</rs> seine
                     Vollmachten nicht überschritten hat, noch ohne Ermächtigung überschreiten werde.
                     Auch er ist der Ansicht, daß in dieser Hinsicht vor der Erledigung der
                     Immaculatafrage nichts ernstliches geschehen werde.<lb/>Die andere
                     Angelegenheit, welche der Aufmerksamkeit der hohen Regierung würdig und zu
                     empfehlen ist, betrifft die Regelung der deutschen Stiftung an der <orgName key="santa-maria-dell'-anima">Kirche dell‘Anima</orgName>. Aus den Akten
-                    geht hervor, daß zu den vorhandenen Stiftungen <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> unter allen Ländern <country key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</country> das wenigste beigesteuert habe. Damit der Einfluß
+                    geht hervor, daß zu den vorhandenen Stiftungen <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> unter allen Ländern <rs type="place" subtype="country" key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</rs> das wenigste beigesteuert habe. Damit der Einfluß
                     Österreichs wegen diesem Umstande in Folge der Regelung durch die Sagra Visita
                     nicht geschmälert werde, so wäre von unserer Seite ein Opfer zu bringen, welches
                     in der theilweisen Besoldung des Rectors der Kirche bestehen würde. Dieser
                     erhält jetzt aus der Stiftung selbst an Gehalt 25 Scudi monatlich. Mit diesem
-                    Gehalte kann er in <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName> bei der auch hier herrschenden
+                    Gehalte kann er in <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs> bei der auch hier herrschenden
                     Theuerung durchaus nicht standesgemäß leben. Das Opfer wäre unter zwei
                     Bedingnissen zu resolviren<lb/>a.) daß der Rector immer ein Österreicher sei und
-                    vom Kaiser ernannt werde. Hiedurch würde <country ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</country> den
+                    vom Kaiser ernannt werde. Hiedurch würde <rs type="place" subtype="country" ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</rs> den
                     gehörigen Einfluß auch auf die innere Administration des Hauses behalten, weil
                     der Rector durch die Sagra Visita in die statutengemäße Stellung und Wirksamkeit
                     zuversichtlich eingesetzt werden wird, welche ihm dermalen entzogen ist.<lb/>b.)
@@ -195,39 +194,39 @@
                         <orgName key="santa-maria-dell'-anima">dell’Anima</orgName> zu ihrem
                     Absteigequartiere auf mehrere Jahre in Pacht nehmen.<lb/>Gestern wurde ein
                     Publicumsconsistorium abgehalten wegen Übergabe des Kardinalhutes an den
-                        <persName key="henriques-de-carvalho-guilherme">Patriarch von
-                        Lissabon</persName> und den <persName key="bonel-y-orbe-juan-jose">Erzbischof von Toledo</persName>. Der spanische Gesandte hat aus diesem
+                        <rs type="person" ref="henriques-de-carvalho-guilherme" key="henriques-de-carvalho-guilherme">Patriarch von
+                        Lissabon</rs> und den <rs type="person" ref="bonel-y-orbe-juan-jose" key="bonel-y-orbe-juan-jose">Erzbischof von Toledo</rs>. Der spanische Gesandte hat aus diesem
                     Anlasse eine große Feierlichkeit zu Ehren der spanischen Kardinäle veranstaltet
-                    und damit ganz <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName> allarmirt. Man hat einen unliebsamen
-                    Vergleich zwischen <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> und dem sonst
-                    so elenden <country ref="#place_5ea5f4002712b1a9a4e292d3c83736b9">Spanien</country> angestellt. In dem gleich darauf
-                    abgehaltenen Consistorium secretum wurden 11 Bischöfe präconisirt. Der <persName key="kunszt-jozef">Erzbischof von Kalocsa</persName> beklagt sich in seinem
-                    Briefe über die ihm bekannt gewordenen Bestrebungen des <persName key="scitovsky-jan">Primas</persName>, auch das Erzbistum Kalocsa seiner
+                    und damit ganz <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs> allarmirt. Man hat einen unliebsamen
+                    Vergleich zwischen <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> und dem sonst
+                    so elenden <rs type="place" subtype="country" ref="#place_5ea5f4002712b1a9a4e292d3c83736b9">Spanien</rs> angestellt. In dem gleich darauf
+                    abgehaltenen Consistorium secretum wurden 11 Bischöfe präconisirt. Der <rs type="person" ref="kunszt-jozef" key="kunszt-jozef">Erzbischof von Kalocsa</rs> beklagt sich in seinem
+                    Briefe über die ihm bekannt gewordenen Bestrebungen des <rs type="person" ref="scitovsky-jan" key="scitovsky-jan">Primas</rs>, auch das Erzbistum Kalocsa seiner
                     Primatialgerichtbarkeit zu unterwerfen. Ich schrieb ihm, er möge nun die auf
                     seinen Befehl verfasste Abhandlung über das bisherige Verhältnis der zweien
                     Erzbisthümer zu einander ohne Verzug drucken lassen und davon einige Exemplare
-                    nach <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName> einsenden. Ich bin überzeugt, daß auch die
+                    nach <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs> einsenden. Ich bin überzeugt, daß auch die
                     diesfälligen Bestrebungen des Primas fruchtlos bleiben werden. Diesem Herrn
                     gefällt übrigens der hierortige Aufenthalt sehr wohl. Die Römer erzählen sich
                     über ihn Wunderdinge, nemlich daß er täglich ein Einkommen von 12.000 Gulden und
                     ein ganzes Regiment solcher Huszaren habe, wie er mitgebracht hat. Er läßt sich
-                    aus <country key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarn</country> Berichte kommen über die von ihm
+                    aus <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarn</rs> Berichte kommen über die von ihm
                     angeordneten Missionen und liest sie vor dem Heiligen Vater, der ihn übrigens
                     bereits gut zu kennen scheint, heute erzählte mir ein sehr gut unterrichteter
-                    Mann, der <persName key="pius-IX">Papst</persName> empfange ihn nur aus und
+                    Mann, der <rs type="person" ref="pius-IX" key="pius-IX">Papst</rs> empfange ihn nur aus und
                     wegen Unterhaltung. Der Primas hat bereits ausgemittelt, wohin die einstigen
                     großen ungarischen Stiftungen gekommen sind, aus dem hierüber erhaltenen und von
                     mir gelesenen Berichte ist zu ersehen, jene Stiftungen seien dem Collegio
                     Germanico-Hungarico einverleibt, weshalb auch dieses verpflichtet ist, 12
-                    ungarische Alumnen zu erhalten und auch die aus <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> nach
-                        <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName> kommenden Pilger zu versorgen. Dermalen sind nur
+                    ungarische Alumnen zu erhalten und auch die aus <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> nach
+                        <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs> kommenden Pilger zu versorgen. Dermalen sind nur
                     7 Alumnen da, und ich habe schon im September meinen Bischof ersucht, doch auch
-                    einen hoffnungsvollen Alumnen nach <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName> zu schicken, und
+                    einen hoffnungsvollen Alumnen nach <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs> zu schicken, und
                     als er sich mit dem Mangel an Mitteln, d. h. Reisekosten des Alumnen,
                     entschuldigte, ihm erklärt, ich sei bereit diese Kosten aus meinem Eigenen zu
                     bestreiten. Ich hoffe, daß er auf das künftige Jahr das mir hierauf gegebene
-                    Wort halten werde. Der <persName key="beckx-pierre-jean">General der
-                        Jesuiten</persName> möchte das Ergebnis seiner Eingabe wissen, die
+                    Wort halten werde. Der <rs type="person" ref="beckx-pierre-jean" key="beckx-pierre-jean">General der
+                        Jesuiten</rs> möchte das Ergebnis seiner Eingabe wissen, die
                     Ungewissheit hierüber hindert ihn über so manche tüchtigen Kräfte der
                     Gesellschaft zu verfügen in einer Zeit, wo diese von allen Seiten so sehr in
                     Anspruch genommen wird. Ich kann nicht verschweigen, daß ich ein Exemplar der
@@ -242,9 +241,9 @@
                     des in Rede stehenden Büchleins in dem Preßburger Verwaltungsgebiete mit nicht
                     geringem Nachtheile des Unterrichts noch immer auf sich warten läßt. Endlich
                     habe ich Euerer Excellenz gehorsamst zu melden, daß ich vom 22.–25. November
-                    einen Ausflug nach <placeName ref="#place_8b6f0975edbb61684a14fc0b1891e1b1">Neapel</placeName> unternommen habe, um die
-                    dortigen Merkwürdigkeiten hauptsächlich aber <placeName ref="#place_6f1d35d511be7a1f29234d7dda06e2dd">Herculanum</placeName>,
-                        <placeName key="pompeji" ref="#place_48e23d043764ef6b2d7d7acd9ac09860">Pompei</placeName> und das Museo Borbonico zu
+                    einen Ausflug nach <rs type="place" subtype="place" ref="#place_8b6f0975edbb61684a14fc0b1891e1b1">Neapel</rs> unternommen habe, um die
+                    dortigen Merkwürdigkeiten hauptsächlich aber <rs type="place" subtype="place" ref="#place_6f1d35d511be7a1f29234d7dda06e2dd">Herculanum</rs>,
+                        <rs type="place" subtype="place" key="pompeji" ref="#place_48e23d043764ef6b2d7d7acd9ac09860">Pompei</rs> und das Museo Borbonico zu
                     sehen.<lb/>Genehmigen Euere Excellenz die Versicherung meiner aufrichtigsten und
                     tiefsten Verehrung, mit welcher ich die Ehre habe zu verharren</p>
                 <p>Rom, den 1. Dezember 1854</p>

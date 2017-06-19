@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="tomek-vaclav-vladivoi" role="sender:gelehrter">Václav Vladivoj
-                        Tomek</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="tomek-vaclav-vladivoi" key="tomek-vaclav-vladivoi" role="sender:gelehrter">Václav Vladivoj
+                        Tomek</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>o. O., <date notAfter="1853">o. D.</date> [ante
                         1853]<note xml:id="note_1">Der Brief muss vor 1853 entstanden sein, da das
                         in dem Brief erwähnte, von Thun in Auftrag gegebene Buch im Jahr 1853
@@ -40,7 +39,7 @@
                 </p>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

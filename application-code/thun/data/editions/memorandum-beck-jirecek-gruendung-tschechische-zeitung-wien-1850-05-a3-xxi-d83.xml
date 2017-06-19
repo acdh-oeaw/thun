@@ -1,18 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Undatiertes Memorandum von <persName key="beck-anton">Anton Beck</persName>
-                    und <persName key="jirecek-josef">Josef Jireček</persName> zur Gründung einer
+                <title>Undatiertes Memorandum von <rs type="person" ref="beck-anton" key="beck-anton">Anton Beck</rs>
+                    und <rs type="person" ref="jirecek-josef" key="jirecek-josef">Josef Jireček</rs> zur Gründung einer
                     tschechisch-konservativen Tageszeitung in Wien<lb/>
                     <date from="1850-02" to="1850-04">[Februar bis April 1850]</date>
                     <note xml:id="note_1">Offenbar
                         handelt es sich hier um die Anregung bzw. Vorbereitung zur Gründung der
                         Zeitung Vídeňský denník, die am 9. Juli 1850 erstmals erschien und deren
-                        erster Herausgeber <persName key="beck-anton">Anton Beck</persName> war. Der
+                        erster Herausgeber <rs type="person" ref="beck-anton" key="beck-anton">Anton Beck</rs> war. Der
                         im Memorandum erwähnte Zeitpunkt, „wo das Feld für kurze Zeit beinahe ganz
-                        frei ist“, dürfte sich auf das Verbot von <persName key="havlicek-karel">Havlíčeks</persName> Národní Nowiny Anfang 1850 beziehen. Somit wäre
+                        frei ist“, dürfte sich auf das Verbot von <rs type="person" ref="havlicek-karel" key="havlicek-karel">Havlíčeks</rs> Národní Nowiny Anfang 1850 beziehen. Somit wäre
                         das Memorandum auf den Zeitraum zwischen dem Verbot der Zeitung (19. Januar
                         1850 auf Anordnung des Prager Militärkommandos) und dem erstmaligen
                         Erscheinen der Zeitung Slovan am 8. Mai 1850 (eingestellt am 14. August
@@ -54,7 +53,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -65,13 +64,13 @@
                     <term>Vídeňský denník</term>
                 </index>
                 <p>Programm</p>
-                <p>Die čechoslawische Nation, eine der bedeutendsten in der Völkerfamilie <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</country>, hat gegenwärtig nicht Ein tüchtiges
+                <p>Die čechoslawische Nation, eine der bedeutendsten in der Völkerfamilie <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs>, hat gegenwärtig nicht Ein tüchtiges
                     Organ des öffentlichen Lebens. Die wenigen vorhandenen Blätter sind theils auf
                     die Bedürfnisse der niedern Volksklassen berechnet, wie die „Slowenské Nowiny“,
                     „Wlastimil“, „Wesnické Noviny“, „Wečerní list“, theils muß man ihnen jede
                     publizistische Tüchtigkeit absprechen, wie die „Pražské“ und „Morawské
                     Nowiny“.<lb/>Und doch ist der gegenwärtige Zeitpunkt für die Zukunft des
-                    čechoslawischen Volkstammes, ja <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</country>
+                    čechoslawischen Volkstammes, ja <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs>
                     zu wichtig, um ihn unbenützt verstreichen zu lassen. Wenn jetzt in der Zeit der
                     Ruhe nicht Hand angelegt wird, um gesunden politischen Ansichten durch das
                     Mittel einer ruhigen Überzeugung die Bahn zu öffnen, um die Elemente der Ordnung
@@ -104,19 +103,19 @@
                     Sprache zu reden, sehr klug zu benützen, denn sie verstehen zu gut den Einfluß
                     zu berechnen, den man über das Volk gewinnt, wenn man zu ihm in seiner Sprache
                     spricht.<lb/>Ein solcher, auf die Bildung einer großen politischen Partei
-                    berechneter Einfluß ist nur aus <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> möglich. Ein
+                    berechneter Einfluß ist nur aus <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> möglich. Ein
                     publizistisches Unternehmen in böhmischer Sprache, so lange es von einer
                     Provinzialstadt ausgeht, wäre es auch aus dem altehrwürdigen
-                        <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, wird sich nur mit schwerer Mühe dem
+                        <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, wird sich nur mit schwerer Mühe dem
                     provinziellen Gesichtskreise zu entwinden und den lokalen Bestrebungen gegenüber
                     seine Unabhängigkeit kaum zu behaupten imstande sein. Hingegen dürfte der
-                    Wirkungskreis eines von <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> aus redigirten Blattes,
+                    Wirkungskreis eines von <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> aus redigirten Blattes,
                     wohin die Blicke aller Provinzen mit Interesse gewendet sind, ein weit
-                    ausgedehnterer werden, indem dasselbe publizistische Organ nicht nur für <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</region>, sondern auch für <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> und die <region key="slowakei" ref="#place_9407b313284cff3f93683a4f1aae36b8">Slovakei</region> in
+                    ausgedehnterer werden, indem dasselbe publizistische Organ nicht nur für <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs>, sondern auch für <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> und die <rs type="place" subtype="region" key="slowakei" ref="#place_9407b313284cff3f93683a4f1aae36b8">Slovakei</rs> in
                     gleicher Weise benützt werden kann, ohne der provinziellen Eitelkeit irgend nahe
                     zu treten.<lb/>In Erwägung aller dieser Vortheile ist es eine durch die
                     gegenwärtigen Verhältnisse gebothene Nothwendigkeit, in thunlich kurzer Zeit in
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> ein böhmisches Blatt zu begründen, welches sich
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> ein böhmisches Blatt zu begründen, welches sich
                     die Aufgabe stellt, <hi rend="ul">den besonnenen Fortschritt im Sinne des
                         jetzigen Ministeriums auf Grundlage der Verfassung vom 4. März 1849 zu
                         verfechten</hi>.<lb/>In politischer Beziehung wäre diese als ein
@@ -134,16 +133,16 @@
                     gleicher Offenheit besprochen und besonders ihre Rückwirkung auf Österreich in
                     den Vordergrund gehoben werden.<lb/>Überhaupt sollte das Hauptziel des Blattes
                     dahin gerichtet sein, einestheils auf die Bildung einer aufgeklärten
-                    conservativen Partei, insbesondere in <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</region>,
-                        <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> und <region ref="#place_ac9e05d1d4aab0ae1a4d1ff04b08f714">Nordungarn</region>
+                    conservativen Partei, insbesondere in <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs>,
+                        <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> und <rs type="place" subtype="region" ref="#place_ac9e05d1d4aab0ae1a4d1ff04b08f714">Nordungarn</rs>
                     hinzuwirken, anderntheils die Weckung eines allgemeinen österreichischen
                     Staatsbewußtseins auf Grundlage einer richtigen Kenntnis der faktischen
                     Verhältnisse und Interessen unseres Gesammtvaterlandes und seiner Bestandtheile
                     zu erstreben.<lb/>Die Stellung des Blattes dem Publikum gegenüber müßte
                     unabhängig bloß durch Private gegründet erscheinen.<lb/>Die unmittelbare Leitung
                     des Journals würde in den Händen eines Comités von 5 Personen beruhen, welche in
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> ihren Wohnsitz haben und an dem Unternehmen
-                    betheiligt sind. Die Kontrolle führt Herr <persName key="thun-hohenstein-leo">Graf Leo Thun</persName>, mit dem das Comité in schwierigern Fragen
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> ihren Wohnsitz haben und an dem Unternehmen
+                    betheiligt sind. Die Kontrolle führt Herr <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Graf Leo Thun</rs>, mit dem das Comité in schwierigern Fragen
                     Rücksprache zu nehmen hätte. Eine weitere Einflußnahme würde nur hemmend und
                     beirrend wirken.<lb/>Der Aufwand würde durch Aktien nach folgendem Plane
                     gedeckt.<lb/>1. Die Zeitung erscheint unter dem Titel „Wĕstník od Dunaje“

@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="kuzmany-karl" role="sender:gelehrter">Karl Kuzmány</persName>
-                    an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="kuzmany-karl" key="kuzmany-karl" role="sender:gelehrter">Karl Kuzmány</rs>
+                    an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1850-02-20">20. Februar
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1850-02-20">20. Februar
                     1850</date>
                 </title>
             </titleStmt>
@@ -57,7 +56,7 @@
                 </p>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -144,10 +143,10 @@
                     Professor der praktischen Theologie<lb/>an der theologisch-protestantischen
                     Lehranstalt</p>
                 <div xml:id="D35_1" type="enclosure">
-                    <p>Es wurden hier gestern zwei neue Lehrkanzeln eröffnet: Prof. <persName key="sembera-alois-vojtech">Sembera</persName> beginnt seine Vorlesungen
-                        über böhmische Sprache und Literatur an der <orgName key="universitaet-wien">Universität</orgName>, Prof. <persName key="kuzmany-karl">Kuzmany</persName> seine theologischen Vorträge an der <orgName key="evangelisch-theologische-fakultaet">evangelischen
+                    <p>Es wurden hier gestern zwei neue Lehrkanzeln eröffnet: Prof. <rs type="person" ref="sembera-alois-vojtech" key="sembera-alois-vojtech">Sembera</rs> beginnt seine Vorlesungen
+                        über böhmische Sprache und Literatur an der <orgName key="universitaet-wien">Universität</orgName>, Prof. <rs type="person" ref="kuzmany-karl" key="kuzmany-karl">Kuzmany</rs> seine theologischen Vorträge an der <orgName key="evangelisch-theologische-fakultaet">evangelischen
                             Lehranstalt</orgName>. Wegen der großen Zahl slawischer Besucher dieses
-                        Instituts wird Prof. <persName key="kuzmany-karl">Kuzmany</persName> seine
+                        Instituts wird Prof. <rs type="person" ref="kuzmany-karl" key="kuzmany-karl">Kuzmany</rs> seine
                         Vorlesungen auch in böhmischer Sprache halten, um die Studierenden in die
                         Lage zu setzen, einst in ihrem Berufe als slawische Prediger mit Erfolg
                         wirken zu können. So sucht das <orgName key="ministerium-fuer-kultus-und-unterricht">Ministerium des

@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Bericht von <persName key="szaszkewycz-gregor">Gregor Szazskewycz</persName>
+                <title>Bericht von <rs type="person" ref="szaszkewycz-gregor" key="szaszkewycz-gregor">Gregor Szazskewycz</rs>
                     über die Situation der katholischen Kirche in Galizien<lb/>
                     <date when="1850">1850</date>
                 </title>
@@ -48,7 +47,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -67,14 +66,14 @@
                         Bleistift von fremder Hand am oberen Blattrand.</note>
                 </p>
                 <p>
-                    <region ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</region> hat in kirchlicher Hinsicht ganz eigenthümliche
+                    <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs> hat in kirchlicher Hinsicht ganz eigenthümliche
                     Verhältnisse, wie sie in andern Kronländern nicht zu finden sind.<lb/>Die
-                    Hauptstadt <placeName ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</placeName> hat <hi rend="ul">drei
+                    Hauptstadt <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs> hat <hi rend="ul">drei
                         katholische</hi> Erzbischöfe; innerhalb derselben politischen Gränzen
-                        <region key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galiziens</region> bestehen zwei <hi rend="ul">katholische Kirchenprovinzen</hi>, nicht neben einander, eine an die andere
+                        <rs type="place" subtype="region" key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galiziens</rs> bestehen zwei <hi rend="ul">katholische Kirchenprovinzen</hi>, nicht neben einander, eine an die andere
                     angränzend, sondern eine mit der andern coincidirend, jede mit einem
                     Metropoliten an der Spitze. (Es ist ein Irrthum, wenn man in
-                        <region ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</region> nur eine katholische Kirchenprovinz annimmt.) Es
+                        <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs> nur eine katholische Kirchenprovinz annimmt.) Es
                     sind dies die katholischen Kirchen des lateinischen und des griechischen oder
                     eigentlich ruthenisch-slavischen Ritus. Beide bilden jede für sich ein
                     hierarchisch gegliedertes Ganzes, eine von der andern ganz unabhängig durch
@@ -88,7 +87,7 @@
                     zählt, so ist sie viel zu unbedeutend, um auf den Namen und die Befugnisse einer
                     Kirchenprovinz Anspruch zu machen. Auch macht der armenische Erzbischof keinen
                     Anspruch darauf. Er nahm auch an der bischöflichen Versammlung hier in
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> nicht theil, läßt seine Kleriker im lateinischen
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> nicht theil, läßt seine Kleriker im lateinischen
                     Seminario erziehen und da der armenisch-katholische Ritus von jenem des
                     lateinischen Ritus sich bloß in der beim Gottesdienste gebrauchten Sprache und
                     einigen Theilen des Kirchenrituals unterscheidet, sonst aber im Kalender, der
@@ -119,14 +118,14 @@
                     zu diesem höheren Studium finden werden und daß zunächst die beiderseitigen
                     geistlichen Seminarien diejenigen sein werden, welche der Fakultät Zuhörer zu
                     bringen haben.<lb/>In dieser Beziehung wird aber das lateinische Seminar, da es
-                    nur auf die lateinische <placeName key="lemberg" ref="#place_3ff694e5c82611cda53341a9bae21735">Lemberger</placeName> Diözese,
+                    nur auf die lateinische <rs type="place" subtype="place" key="lemberg" ref="#place_3ff694e5c82611cda53341a9bae21735">Lemberger</rs> Diözese,
                     die in Ansehung der Zahl des Klerus und der Seelsorgstationen die mindest
                     Zahlreiche unter allen dreien lateinischen Diözesen in
-                    <region ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</region>, berechnet ist, die Fakultät mit weit weniger
+                    <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs>, berechnet ist, die Fakultät mit weit weniger
                     genügender Anzahl Zuhörer zu versehen im Stande sein, als dies von Seiten des
                     ruthenischen Seminars, in welchen aus weiter unten dargelegten Ursachen fast
                     alle angehenden Kleriker der beiden griechisch-katholischen Diözesen in
-                        <region ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</region> werden erzogen werden müssen, wird geschehen
+                        <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs> werden erzogen werden müssen, wird geschehen
                     können, wie dies auch bis jetzt geschehen ist, wo das Verhältnis der
                     theologischen Zuhörer des lateinischen Ritus zu jenen des ruthenischen in
                     einzelnen Jahrgängen im Durchschnitte wie 5:20, manchmal auch wie 2:30 war. Es
@@ -134,38 +133,38 @@
                     gar kein Zuhörer des lateinischen Ritus befand.<lb/>Daß aber das ruthenische
                     Seminar voraussichtlich immer zahlreich genug sein werde, um auch für die
                     Fakultät Zuhörer liefern zu können, läßt sich aus folgendem entnehmen. Es hat
-                    bis jetzt Schwierigkeiten gehabt, die Kleriker der Peremyschler [<placeName key="przemysl" ref="#place_06929365a95f6fe8db033da195ee7498">Przemyśl</placeName>] ruthenisch-katholischen Diözese, so wie
-                    man es anfangs beabsichtiget hatte, in <placeName key="przemysl" ref="#place_06929365a95f6fe8db033da195ee7498">Peremyschl</placeName> zu unterbringen, man hat sie somit in
-                        <placeName ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</placeName> im Generalseminar belassen. Nur die Theologen
+                    bis jetzt Schwierigkeiten gehabt, die Kleriker der Peremyschler [<rs type="place" subtype="place" key="przemysl" ref="#place_06929365a95f6fe8db033da195ee7498">Przemyśl</rs>] ruthenisch-katholischen Diözese, so wie
+                    man es anfangs beabsichtiget hatte, in <rs type="place" subtype="place" key="przemysl" ref="#place_06929365a95f6fe8db033da195ee7498">Peremyschl</rs> zu unterbringen, man hat sie somit in
+                        <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs> im Generalseminar belassen. Nur die Theologen
                     des IV. Jahrganges hören seit einigen Jahren die Pastoral und Katechetik zu
-                        <placeName key="przemysl" ref="#place_06929365a95f6fe8db033da195ee7498">Peremyschl</placeName> von einem Professor in der
-                    ruthenischen Sprache, zu welchem Zwecke der selige Bischof <persName key="snigurski-jan">Snigurski</persName> eine Stiftung von 10.000 fl gemacht
+                        <rs type="place" subtype="place" key="przemysl" ref="#place_06929365a95f6fe8db033da195ee7498">Peremyschl</rs> von einem Professor in der
+                    ruthenischen Sprache, zu welchem Zwecke der selige Bischof <rs type="person" ref="snigurski-jan" key="snigurski-jan">Snigurski</rs> eine Stiftung von 10.000 fl gemacht
                     hat. Es hat allen Anschein, daß es auch für die Zukunft bei dieser Einrichtung
                     wird verbleiben müssen. Sollte es auch einmal zur Errichtung eines dritten
-                    griechisch-katholischen Bisthumes in <region ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</region> kommen, so wird
+                    griechisch-katholischen Bisthumes in <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs> kommen, so wird
                     es auch mit den Seminaristen dieses Bisthumes ähnlich, wie mit jenen des
-                        <placeName key="przemysl" ref="#place_06929365a95f6fe8db033da195ee7498">Peremyszler</placeName>, gehalten werden müssen.
+                        <rs type="place" subtype="place" key="przemysl" ref="#place_06929365a95f6fe8db033da195ee7498">Peremyszler</rs>, gehalten werden müssen.
                     Hiezu kann es sehr leicht kommen, daß die ruthenischen Bischöfe aus
-                        <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country>, welchen es schwer kommen dürfte, eigene
+                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, welchen es schwer kommen dürfte, eigene
                     Diözesanlehranstalten zu bekommen oder zu erhalten, ihre Kleriker der ersten
                     drei theologischen Jahrgänge ebenfalls in die ruthenische Diözesanlehranstalt
-                    nach <placeName ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</placeName> schicken werden, da sie bis jetzt ihre
-                    Alumnen in den lateinischen Seminarien zu <placeName ref="#place_f07d757cdeb5acd661d89d1d54ed7e3c">Gran</placeName>,
-                        <placeName key="fuenfkirchen" ref="#place_717976f66a4b7e6e24e6d182fbf0a00a">Fünfkirchen</placeName>,
-                        <placeName ref="#place_ee867171f9b64c8c5bd0d84df32c0d38">Erlau</placeName> u. a. unterbringen mußten.<lb/>Es ist sonst
+                    nach <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs> schicken werden, da sie bis jetzt ihre
+                    Alumnen in den lateinischen Seminarien zu <rs type="place" subtype="place" ref="#place_f07d757cdeb5acd661d89d1d54ed7e3c">Gran</rs>,
+                        <rs type="place" subtype="place" key="fuenfkirchen" ref="#place_717976f66a4b7e6e24e6d182fbf0a00a">Fünfkirchen</rs>,
+                        <rs type="place" subtype="place" ref="#place_ee867171f9b64c8c5bd0d84df32c0d38">Erlau</rs> u. a. unterbringen mußten.<lb/>Es ist sonst
                     nicht wahrscheinlich, daß außer den Seminaristen sich noch andere <hi rend="ul">freiwillige</hi> Zuhörer oder gar aus anderen Diözesen oder Ländern
-                    einfinden werden, wenigstens anfangs nicht. Die <placeName key="lemberg" ref="#place_3ff694e5c82611cda53341a9bae21735">Lemberger</placeName> theologische Fakultät braucht noch Zeit, um etwas
+                    einfinden werden, wenigstens anfangs nicht. Die <rs type="place" subtype="place" key="lemberg" ref="#place_3ff694e5c82611cda53341a9bae21735">Lemberger</rs> theologische Fakultät braucht noch Zeit, um etwas
                     berühmter zu werden. Ihr Beruf in nächster Zukunft und noch lange wird sein, für
-                    die theologische wissenschaftliche Bildung des beiderseitigen <placeName key="lemberg" ref="#place_3ff694e5c82611cda53341a9bae21735">Lemberger</placeName> Seminarklerus zu wirken. Sollte der in
+                    die theologische wissenschaftliche Bildung des beiderseitigen <rs type="place" subtype="place" key="lemberg" ref="#place_3ff694e5c82611cda53341a9bae21735">Lemberger</rs> Seminarklerus zu wirken. Sollte der in
                     der Erledigung ausgesprochene Gedanke, daß die theologische Fakultät in
-                        <placeName ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</placeName> nur einen der beiden Erzbischöfe, d. i. dem
+                        <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs> nur einen der beiden Erzbischöfe, d. i. dem
                     lateinischen oder dem ruthenischen, zu unterstellen wäre, zum Grundsatze erhoben
                     werden, so folgt nach dem Vorausgeschickten aus der Natur der Sache, daß dieser
                     Erzbischof der des griechisch-katholischen Ritus weit eher als jener des
                     lateinischen sein müßte, weil der griechisch-katholische Klerus ein bei Weitem
                     größeres Feld für die Wirksamkeit der Fakultät darbiethet als der lateinische.
                     <lb/>Nur ist es zweifelhaft, ob der lateinische Erzbischof sich dieser Maßnahme
-                    fügen werde. Die lateinische Geistlichkeit in <region ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</region>, seit
+                    fügen werde. Die lateinische Geistlichkeit in <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs>, seit
                     jeher gewohnt, in Allem und Jedem den ersten Rang behaupten zu wollen, sieht
                     noch immer, und wird es auch künftig so thun, ihren Ritus als einen besondere
                     Vorrechte genießenden, <hi rend="ul">herrschenden</hi> Ritus an. Es ist somit
@@ -188,7 +187,7 @@
                     ausgeübt werden. Dieser Turnus müßte nicht an bestimmte Lehrkanzeln, sondern an
                     die Reihenfolge, in welcher die Kanzeln zur Erledigung oder neuerrichtete
                     Kanzeln zur Besetzung kommen, gebunden sein.<lb/>Da bis jetzt auf die Besetzung
-                    der theologischen Fakultätslehrkanzeln zu <placeName ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</placeName> bloß
+                    der theologischen Fakultätslehrkanzeln zu <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs> bloß
                     der lateinische Erzbischof Einfluß genommen hat, so müßte bei der nächsten
                     Besetzung die Priorität dem ruthenischen zustehen. Um die erledigten Lehrkanzeln
                     sollen aber Priester ohne Unterschied des Ritus kompetiren dürfen und die Wahl
@@ -253,8 +252,8 @@
                     vorgetragen werden, nur müßte in das Gebiet der Vorträge die Geschichte der
                     ruthenischen Kirche vorzugsweise einbezogen werden, was bis jetzt gar nicht
                     geschah. Und so geschah es, daß der ruthenische Priester die Geschichte der
-                    Kirche in <country ref="#place_5ea5f4002712b1a9a4e292d3c83736b9">Spanien</country>, <country ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</country>,
-                        <country ref="#place_64f607906be7598a02d75dbc1e979662">England</country> usw. eminenter wußte, dagegen von der Geschichte
+                    Kirche in <rs type="place" subtype="country" ref="#place_5ea5f4002712b1a9a4e292d3c83736b9">Spanien</rs>, <rs type="place" subtype="country" ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</rs>,
+                        <rs type="place" subtype="country" ref="#place_64f607906be7598a02d75dbc1e979662">England</rs> usw. eminenter wußte, dagegen von der Geschichte
                     seiner eigenen Kirche nicht das Geringste zu hören bekam. Er war Fremdling in
                     eigenem Hause.<lb/>Eben so müßte das Studium des <hi rend="ul">Kirchenrechtes</hi> von Seiten der ruthenischen Theologen dem Wesen und dem
                     eigenthümlichen Verhältnissen der ruthenischen Kirche angepaßt werden. Das

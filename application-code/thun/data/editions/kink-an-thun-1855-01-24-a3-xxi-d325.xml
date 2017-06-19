@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="kink-rudolph" role="sender:beamter">Rudolf Kink</persName> an
-                        <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="kink-rudolph" key="kink-rudolph" role="sender:beamter">Rudolf Kink</rs> an
+                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</placeName>, <date when="1855-01-24">24. Januar 1855</date>
+                    <rs type="place" subtype="place" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs>, <date when="1855-01-24">24. Januar 1855</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -53,7 +52,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -72,7 +71,7 @@
                     unter Euerer Excellenz Befehlen zu dienen und zugleich mit literarischen
                     Arbeiten mich beschäftigen zu können, ist für mich zu lockend, als daß ich nicht
                     dieses gnädige Anerbieten gerne annehmen möchte. Es ist mir zwar bei Anlaß
-                    meiner letzten Competenz für <placeName ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</placeName> von Seite eines
+                    meiner letzten Competenz für <rs type="place" subtype="place" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> von Seite eines
                     andern, und zwar sehr hohen Ortes, die etwas seltsame Bemerkung gemacht worden,
                     daß gerade die Verwendung für literarische Arbeiten mich den Geschäften
                     entfremden und folglich in meiner Diensteslaufbahn mich behindern könnte, auch
@@ -89,23 +88,23 @@
                     Excellenz die Gnade haben wollten, mir es zu ersparen, so würde ich sehr dankbar
                     dafür sein.<lb/>In Betreff der Schulrathsstelle für Troppau würde es von hier
                     aus sehr schwer sein, einen passenden Antrag zu stellen. Ich habe zwar gehört,
-                    daß der Dechant von Freistadt, <persName key="plasun-josef">Plasuń</persName>,
-                    (ein Verwandter des Concipisten <persName key="hermann-alois">Herrman</persName>) dafür genannt wurde und kann in dieser Beziehung nur sagen,
-                    daß der Herr <persName key="halbhuber-von-festwill-anton">Landespräsident</persName> in seiner Ernennung keine glückliche Wahl sehen
-                    würde. <persName key="plasun-josef">Plasuń</persName> ist zwar sehr thätig für
+                    daß der Dechant von Freistadt, <rs type="person" ref="plasun-josef" key="plasun-josef">Plasuń</rs>,
+                    (ein Verwandter des Concipisten <rs type="person" ref="hermann-alois" key="hermann-alois">Herrman</rs>) dafür genannt wurde und kann in dieser Beziehung nur sagen,
+                    daß der Herr <rs type="person" ref="halbhuber-von-festwill-anton" key="halbhuber-von-festwill-anton">Landespräsident</rs> in seiner Ernennung keine glückliche Wahl sehen
+                    würde. <rs type="person" ref="plasun-josef" key="plasun-josef">Plasuń</rs> ist zwar sehr thätig für
                     das Schulwesen, das heißt die äußere Ausstattung, Baulichkeiten und dergleichen
-                    und hat großen Einfluß bei dem reichen Grafen <persName key="larisch-von-moennich-johann">Larisch-Männich</persName>. Aber für das
+                    und hat großen Einfluß bei dem reichen Grafen <rs type="person" ref="larisch-von-moennich-johann" key="larisch-von-moennich-johann">Larisch-Männich</rs>. Aber für das
                     eigentliche Fach fehlen ihm die Vorkenntnisse, insbesondere in Betreff der
                     Realschule. Von Charakter ist er sehr heftig und ein enragirter Pole. Dieses
                     letztere verstehe ich nicht in politischer, sondern in provinzieller Bedeutung.
-                    In <region ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</region> liegen sich nämlich die böhmische (zum Theile
+                    In <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs> liegen sich nämlich die böhmische (zum Theile
                     mährische) und die polnische Mundart in den Haaren und ihre wechselseitige
                     Anfeindung ist bei vorkommenden Fällen größer als gegen das Deutsche. Es ist
                     erst kürzlich wieder der Fall vorgekommen, daß er in einer Schule seines
                     Schuldistrictes die polnische Sprache mit Gewalt der böhmischen Einwohnerschaft
-                    aufdringen wollte, und hiebei gegen den Schulrath <persName key="wilhelm-andreas">Wilhelm</persName> sich in einem Berichte Ausfälle
+                    aufdringen wollte, und hiebei gegen den Schulrath <rs type="person" ref="wilhelm-andreas" key="wilhelm-andreas">Wilhelm</rs> sich in einem Berichte Ausfälle
                     erlaubte, wegen derer ihn die Landesregierung zurechtweisen mußte. Da nun der
-                    Sprachenstreit in <region ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</region> ohnedieß ein wichtiges Moment ist,
+                    Sprachenstreit in <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs> ohnedieß ein wichtiges Moment ist,
                     so würde seine Ernennung mancherlei Präjudiz mit sich führen.<lb/>Bei einem
                     Schulinspector kömmt es hauptsächlich darauf an, daß er selbst ein Schul- und
                     Fachmann sei. Hiebei geht aber, Alles in Allem betrachtet und mit Rücksicht auf

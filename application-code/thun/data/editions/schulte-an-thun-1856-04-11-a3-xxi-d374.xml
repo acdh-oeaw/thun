@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="schulte-friedrich" role="sender:gelehrter">Johann Friedrich
-                        Schulte</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="schulte-friedrich" key="schulte-friedrich" role="sender:gelehrter">Johann Friedrich
+                        Schulte</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, <date when="1856-04-11">11. April 1856</date>
+                    <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1856-04-11">11. April 1856</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -47,7 +46,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -60,11 +59,11 @@
                     <term>Rechtswissenschaften</term>
                 </index>
                 <p>Hochzuverehrender Herr Minister!<lb/>Euer Excellenz</p>
-                <p>habe ich die Ehre ganz ergebenst anzuzeigen, daß der Oberlehrer <persName key="goebel-anton">Dr. Anton Goebel</persName> mir am gestrigen Tage
+                <p>habe ich die Ehre ganz ergebenst anzuzeigen, daß der Oberlehrer <rs type="person" ref="goebel-anton" key="goebel-anton">Dr. Anton Goebel</rs> mir am gestrigen Tage
                     mitgetheilt hat, daß er – einerseits bewogen von der Rücksicht auf seinen Oheim,
                     welcher sein Vormund war und ihm sehr zugesetzt hat, eine so schöne Aussicht
                     nicht auszuschlagen, andererseits, um nicht bei dem gleichzeitigen Abtreten von
-                    drei Lehrern in <placeName ref="#place_91511dfac7f900abdbf8617392b65eeb">Bedburg</placeName>, da die Regierung keine
+                    drei Lehrern in <rs type="place" subtype="place" ref="#place_91511dfac7f900abdbf8617392b65eeb">Bedburg</rs>, da die Regierung keine
                     hinreichende Anzahl von Candidaten hat, die Ritterakademie ins Stocken zu
                     bringen – die ihm übertragene Stelle eines wirklichen Studiendirectors (800 R.Th.
                     Gehalt, freie Wohnung, Tisch usf. bez. nach der Verheirathung Entschädigung
@@ -104,7 +103,7 @@
                     1/20 der Studienzeit für das canonische Recht gebraucht und letzteres dem
                     Umfange selbst nach, größer als das römische ist, jedenfalls den meisten
                     Studierenden mehr Schwierigkeiten macht, weil sie nicht historisch genug
-                    vorgebildet sind (in <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country> ganz ebenso). Für die erste
+                    vorgebildet sind (in <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> ganz ebenso). Für die erste
                     Staatsprüfung (nach dem neuen Studienplane) dürfte wohl gewiß römisches und
                     canonisches Recht unbedingt genügend absolvirt sein, um approbirt zu werden,
                     während ich der Meinung wäre, der deutschen Rechtsgeschichte nicht ganz dieselbe
@@ -132,7 +131,7 @@
                     auszuführen die Ehre hatte.<lb/>Nochmals erlaube ich mir, Euer Excellenz
                     vorzustellen, ob sich nicht ermöglichen ließe, auch den Candidaten des 3. und 4.
                     Jahres die Rigorosen nach der neuen Ordnung zu gestatten?<lb/>
-                    <persName key="buhl-eduard">Dr. Buhl</persName> hat eine Habilitationsschrift
+                    <rs type="person" ref="buhl-eduard" key="buhl-eduard">Dr. Buhl</rs> hat eine Habilitationsschrift
                     eingereicht, in Folge derer derselbe auf mein Referat von dem Collegium zum
                     Colloquium (auf künftigen Montag) admittirt ist. Ich habe das Referat
                     absichtlich ausführlich und allseitig gemacht, um Euer Excellenz nach Hochderen
