@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="kopp-josef" role="sender:gelehrter">Josef Eutych
-                        Kopp</persName> an <persName key="meyer-bernhard" role="recipient">Bernhard
-                        Meyer</persName>
+                    <rs type="person" ref="kopp-josef" key="kopp-josef" role="sender:gelehrter">Josef Eutych
+                        Kopp</rs> an <rs type="person" ref="meyer-bernhard" key="meyer-bernhard" role="recipient">Bernhard
+                        Meyer</rs>
                     <lb/>
-                    <placeName ref="#place_cceafad713406bc4d8421dbdd142523a">Luzern</placeName>, <date when="1856-06-09">9. Juni 1856</date>
+                    <rs type="place" subtype="place" ref="#place_cceafad713406bc4d8421dbdd142523a">Luzern</rs>, <date when="1856-06-09">9. Juni 1856</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -44,7 +43,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -121,10 +120,10 @@
                     auch dieses Heft zugesendet haben, wenn Sie nicht, da der kaiserlichen Akademie
                     jedesmal zwei Exemplare zugeschickt werden, von da es am leichtesten erhalten
                     könnten. <hi rend="ul">Ich wünsche aber sehr, daß Sie meine Aufsätze im vierten
-                        Hefte eines Blickes würdigen</hi>; theils meinetwegen, theils wegen <country key="sardinien" ref="#place_591cce2c0b9ced801c5b5929c9a46a61">Sardiniens</country>. So seltsam (um nicht mehr zu sagen)
+                        Hefte eines Blickes würdigen</hi>; theils meinetwegen, theils wegen <rs type="place" subtype="country" key="sardinien" ref="#place_591cce2c0b9ced801c5b5929c9a46a61">Sardiniens</rs>. So seltsam (um nicht mehr zu sagen)
                     die politische Rolle ist, die es gegenwärtig spielt, immerhin lobenswerth ist
                     es, was es für <hi rend="ul">
-                        <persName key="wurstemberger-ludwig">Wurstemberger</persName>
+                        <rs type="person" ref="wurstemberger-ludwig" key="wurstemberger-ludwig">Wurstemberger</rs>
                     </hi> thut.<lb/>Ich glaube nun alles gesagt zu
                     haben, was zur Aufhellung der Sache dienlich sein mag und wiederhole nur die
                     Hauptpuncte:<lb/>Soll und kann eine Berücksichtigung dessen eintreten, was Sie
@@ -137,20 +136,20 @@
                     wie ich will, bringe ich nicht heraus; finden Sie etwas Brauchbares daran, nun
                     so lege ich es getrost und mit voller Beruhigung in Ihre Hände; und damit mag
                     die Angelegenheit wenigstens aus meinen [?] fallen.<lb/>Nur eines noch. Sie
-                    kennen den Wedekind'schen Geschichtspreis in <placeName key="goettingen" ref="#place_bb924613631a24955ccdde82d6af5cc2">Göttingen</placeName> und <persName key="boehmer-johann-friedrich">wem</persName> derselbe im März dieses Jahres wegen seiner "Forschungen"
-                    zuerkannt wurde; nun, der <persName key="boehmer-johann-friedrich">edle
-                        Empfänger</persName> schrieb mir am 26. April: <lb/>"Wenn es nun dort, wo es
+                    kennen den Wedekind'schen Geschichtspreis in <rs type="place" subtype="place" key="goettingen" ref="#place_bb924613631a24955ccdde82d6af5cc2">Göttingen</rs> und <rs type="person" ref="boehmer-johann-friedrich" key="boehmer-johann-friedrich">wem</rs> derselbe im März dieses Jahres wegen seiner "Forschungen"
+                    zuerkannt wurde; nun, der <rs type="person" ref="boehmer-johann-friedrich" key="boehmer-johann-friedrich">edle
+                        Empfänger</rs> schrieb mir am 26. April: <lb/>"Wenn es nun dort, wo es
                     am nächsten läge, Leistungen zu stützen und zu ehren, in denen die Anfänge
                     Habsburgischer Größe von späteren Vertuschungen[?] gereinigt werden und für die
-                    Erkenntnis und Würdigung der Periode, in der <persName key="rudolph-I">Rudolf
-                        I.</persName> und <persName key="albrecht-I">Albrecht I.</persName> noch
+                    Erkenntnis und Würdigung der Periode, in der <rs type="person" ref="rudolph-I" key="rudolph-I">Rudolf
+                        I.</rs> und <rs type="person" ref="albrecht-I" key="albrecht-I">Albrecht I.</rs> noch
                     einmal die Wiederherstellung der deutschen [?] versuchten, Bahn gebrochen wird,
                     an der entsprechenden Aufmerksamkeit zu fehlen scheint"; was (denken Sie) war
-                    der Nachsatz? Im Vertrauen sei es Ihnen gesagt: der edle <persName key="boehmer-johann-friedrich">Empfänger</persName> des Preises, um
+                    der Nachsatz? Im Vertrauen sei es Ihnen gesagt: der edle <rs type="person" ref="boehmer-johann-friedrich" key="boehmer-johann-friedrich">Empfänger</rs> des Preises, um
                     wenigstens von seiner Seite die Fortsetzung meiner Reichsgeschichte möglich zu
                     machen, trat den vollen Preis, so wie <hi rend="ul">er</hi> ihn erhalten,
                     ungeschmälert <hi rend="ul">mir</hi> ab. <lb/>"Ehre, dem Ehre gebührt!" schloß
-                    ich mein letztes viertes Heft, ohne zu ahnen, daß das, was mir von <country key="sardinien" ref="#place_591cce2c0b9ced801c5b5929c9a46a61">Sardinien</country> und <persName key="wurstemberger-ludwig">Wurstemberger</persName> vorschwebte, mit nicht minderem Recht auf einen
+                    ich mein letztes viertes Heft, ohne zu ahnen, daß das, was mir von <rs type="place" subtype="country" key="sardinien" ref="#place_591cce2c0b9ced801c5b5929c9a46a61">Sardinien</rs> und <rs type="person" ref="wurstemberger-ludwig" key="wurstemberger-ludwig">Wurstemberger</rs> vorschwebte, mit nicht minderem Recht auf einen
                     Anderen, einen [?], anzuwenden sei.<lb/>Und nun Gott zum Gruß!</p>
                 <p>Ganz der Ihrige</p>
                 <p>J. E. Kopp, Professor</p>

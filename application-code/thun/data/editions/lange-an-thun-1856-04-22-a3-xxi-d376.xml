@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="lange-ludwig" role="sender:gelehrter">Ludwig Lange</persName>
-                    und <persName key="bippart-georg" role="sender:gelehrter">Georg
-                        Bippart</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="lange-ludwig" key="lange-ludwig" role="sender:gelehrter">Ludwig Lange</rs>
+                    und <rs type="person" ref="bippart-georg" key="bippart-georg" role="sender:gelehrter">Georg
+                        Bippart</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, <date when="1856-04-22">22. April 1856</date>
+                    <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1856-04-22">22. April 1856</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -50,7 +49,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -69,8 +68,8 @@
                     werden würde, waren dieselben darüber sehr erfreut und begannen sofort, ihre im
                     nächsten Seminarberichte zu stellenden Anträge vorzubereiten. Inzwischen sind
                     diese überflüssig geworden, da es sich gefügt hat, daß die philologische
-                    Bibliothek des in <placeName ref="#place_c6e5be183d875851c4d758d5f57fca35">Göttingen</placeName> verstorbenen Professors
-                        <persName key="hermann-karl-friedrich">Karl Friedrich Hermann</persName> zum
+                    Bibliothek des in <rs type="place" subtype="place" ref="#place_c6e5be183d875851c4d758d5f57fca35">Göttingen</rs> verstorbenen Professors
+                        <rs type="person" ref="hermann-karl-friedrich" key="hermann-karl-friedrich">Karl Friedrich Hermann</rs> zum
                     Verkauf kam, und Euer Excellenz, aufmerksam geworden auf die vortreffliche,
                     nicht so leicht wiederkehrende Gelegenheit, die Leiden der Prager Bibliothek im
                     philologischen Fache mit Einem Schlage auszufüllen, den hochherzigen Entschluß
@@ -105,7 +104,7 @@
                     werden kann, wenn nur je ein Exemplar solcher Werke vorhanden ist. Es erscheint
                     uns daher im Interesse der hiesigen Studierenden wünschenswerth, wenn Doubletten
                     der bezeichneten Art der Prager Universitätsbibliothek erhalten blieben. Auch
-                    der Herr Bibliothekar <persName key="safarik-pavel-josef">Safarik</persName> ist
+                    der Herr Bibliothekar <rs type="person" ref="safarik-pavel-josef" key="safarik-pavel-josef">Safarik</rs> ist
                     dieser Ansicht, und wir richten an Euer Excellenz daher die ehrfurchtsvolle
                     Bitte, dem Antrage darauf, welchen derselbe später amtlich stellen wird, Ihre
                     Genehmigung zu ertheilen.<lb/>Zweitens wird es nothwendig sein, wenn anders die

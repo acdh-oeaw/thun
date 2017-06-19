@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="gruenne-karl-ludwig" role="sender:beamter">Karl
-                        Grünne</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="gruenne-karl-ludwig" key="gruenne-karl-ludwig" role="sender:beamter">Karl
+                        Grünne</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName key="schoenbrunn" ref="#place_42ab28f20850d0a6784eb688c875d846">Schönbrunn</placeName>, <date when="1853-09-11">11. September
+                    <rs type="place" subtype="place" key="schoenbrunn" ref="#place_42ab28f20850d0a6784eb688c875d846">Schönbrunn</rs>, <date when="1853-09-11">11. September
                     1853</date>
                 </title>
             </titleStmt>
@@ -36,7 +35,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -47,8 +46,8 @@
                 <p>Schönbrunn, 11. September 1853</p>
                 <p>Hochgeborner Graf,</p>
                 <p>Auf das geehrte Schreiben vom 12. dieses habe ich das Vergnügen Euer Excellenz
-                    erwidern zu können, daß <persName key="franz-joseph">Seine Majestät der
-                        Kaiser</persName> die Äußerung Ihrer freudigen Theilnahme und Ihre
+                    erwidern zu können, daß <rs type="person" ref="franz-joseph" key="franz-joseph">Seine Majestät der
+                        Kaiser</rs> die Äußerung Ihrer freudigen Theilnahme und Ihre
                     Glückwünsche zu Allerhöchstdessen bevorstehender Vermählung mit huldreichem
                     Wohlwollen entgegen zu nehmen geruhten.<lb/>Ich ergreife diese Gelegenheit, um
                     Ihnen den Ausdruck der ausgezeichneten Hochachtung zu erneuern, mit welcher ich
@@ -59,8 +58,8 @@
                 <div xml:id="D231_1" type="enclosure">
                     <p/>
                     <p>Kaiser und Erzherzog Albrecht</p>
-                    <p>Nebst dem Handbilletchen auch der Dank des <persName key="franz-joseph">Kaisers</persName> für Leos Glückwunsch zur Verlobung 1853. (durch
-                            <persName key="gruenne-karl-ludwig">Graf Grünne</persName> an Leo
+                    <p>Nebst dem Handbilletchen auch der Dank des <rs type="person" ref="franz-joseph" key="franz-joseph">Kaisers</rs> für Leos Glückwunsch zur Verlobung 1853. (durch
+                            <rs type="person" ref="gruenne-karl-ludwig" key="gruenne-karl-ludwig">Graf Grünne</rs> an Leo
                             bestellt)<note xml:id="note_1">Notiz von unbekannter Hand [Thun?] auf
                             dem Kuvert.</note>
                     </p>

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="jesz-carl" role="sender:beamter">Carl Jesz</persName> an
-                        <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="jesz-carl" key="jesz-carl" role="sender:beamter">Carl Jesz</rs> an
+                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_f0cb899d2f50889980d12f59807d7ae0">Hermannstadt</placeName> [Sibiu], <date when="1859-06-16">16. Juni 1859</date>
+                    <rs type="place" subtype="place" ref="#place_f0cb899d2f50889980d12f59807d7ae0">Hermannstadt</rs> [Sibiu], <date when="1859-06-16">16. Juni 1859</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -41,7 +40,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -52,10 +51,10 @@
                 </index>
                 <p>Euere Excellenz!</p>
                 <p>Unterm 29. Juli 1857 Präs. Z. 6652 hat das k.k. Statthaltereipräsidium für
-                        <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</region> ein von mir verfaßtes
+                        <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> ein von mir verfaßtes
                     allerunterthänigstes Majestätsgesuch um Verleihung eines Stallum canonicale am
-                        <placeName key="grosswardein" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Großwardeiner</placeName> Domkapitel Euerer
-                    Excellenz zur hochgeneigten Befürwortung bei <persName key="franz-joseph">Allerhöchst Seiner k.k. Apostolischen Majestät</persName> unterbreitet und
+                        <rs type="place" subtype="place" key="grosswardein" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Großwardeiner</rs> Domkapitel Euerer
+                    Excellenz zur hochgeneigten Befürwortung bei <rs type="person" ref="franz-joseph" key="franz-joseph">Allerhöchst Seiner k.k. Apostolischen Majestät</rs> unterbreitet und
                     dasselbe zu diesem Zwecke bestens zu empfehlen befunden.<lb/>Konnte auch dieses
                     Gesuch zufolge Allerhöchster Entschließung vom 31. October 1857 nicht
                     berücksichtigt werden, so geruhten Euere Excellenz mir doch die Hoffnung und
@@ -65,14 +64,14 @@
                     Statthaltereiberichte enthaltene belobende Anordnung meiner bisherigen
                     Verwendung durch Nichts verwirkt zu haben, erlaube ich mir das anliegende
                     allerunterthänigste Majestätsgesuch um Verleihung des am Domkapitel der
-                        <placeName key="fuenfkirchen" ref="#place_717976f66a4b7e6e24e6d182fbf0a00a">Fünfkirchner</placeName> Diözese <note xml:id="note_1">Das erwähnte Gesuch liegt dem Brief nicht bei.</note>,
+                        <rs type="place" subtype="place" key="fuenfkirchen" ref="#place_717976f66a4b7e6e24e6d182fbf0a00a">Fünfkirchner</rs> Diözese <note xml:id="note_1">Das erwähnte Gesuch liegt dem Brief nicht bei.</note>,
                     welcher ich noch immer angehöre, erledigten Stallum canonicale Euerer Excellenz
-                    mit der unterthänigsten Bitte vorzulegen, dasselbe der <persName key="franz-joseph">Allerhöchsten Gnade Seiner k.k. Apostolischen
-                        Majestät</persName> gnädigst befürwortend empfehlen zu wollen.<lb/>Der
+                    mit der unterthänigsten Bitte vorzulegen, dasselbe der <rs type="person" ref="franz-joseph" key="franz-joseph">Allerhöchsten Gnade Seiner k.k. Apostolischen
+                        Majestät</rs> gnädigst befürwortend empfehlen zu wollen.<lb/>Der
                     Grund, aus welchem ich dieses Gnadengesuch unmittelbar und nicht im Wege meines
                     Ordinariates an Euere Excellenz zu leiten mich bemüßigt sehe, liegt in der
-                    völligen Hoffnungslosigkeit, von <persName key="haynald-lajos">meinem
-                        Bischofe</persName> über mein Einschreiten zur Erreichung dieses Zweckes in
+                    völligen Hoffnungslosigkeit, von <rs type="person" ref="haynald-lajos" key="haynald-lajos">meinem
+                        Bischofe</rs> über mein Einschreiten zur Erreichung dieses Zweckes in
                     Vorschlag gebracht zu werden, da bei den hochwürdigen Ordinariaten die
                     Anschauung vorherrschend ist, daß diejenigen Geistlichen, welche im
                     unmittelbaren Dienste der hohen Regierung zu stehen die Ehre haben, keiner
@@ -88,7 +87,7 @@
                     Gnadengesuches zu bitten. Die mißliche Lage, in der ich mich befinde, nöthigt
                     mich Euere Excellenz mit dieser Bitte wiederholt zu behelligen. Ich habe eine
                     betagte Mutter und unversorgte Geschwister zu unterstützen; zudem die große
-                    Theuerung der Lebensmittel in <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</region>
+                    Theuerung der Lebensmittel in <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>
                     und noch mehr die vielfältigen Ansprüche auf meinen Visitationsreisen, die man
                     überhaupt an einen höher gestellten Geistlichen zu stellen gewohnt ist, machen
                     oft Verlegenheiten unvermeidlich, welche auf die ungetheilte Entfaltung der hier

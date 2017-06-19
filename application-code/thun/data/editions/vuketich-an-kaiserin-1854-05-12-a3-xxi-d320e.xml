@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="vuketich-maria-antonia" role="sender:kleriker">Maria Antonia
-                        Vuketich</persName> an <persName key="elisabeth" role="recipient">Kaiserin
-                        Elisabeth</persName>
-                    <lb/>Lesina [<placeName ref="#place_57e334eca1d4813a6748c74bd094e0e9">Hvar</placeName>], <date when="1854-05-12">12. Mai 1854</date>
+                    <rs type="person" ref="vuketich-maria-antonia" key="vuketich-maria-antonia" role="sender:kleriker">Maria Antonia
+                        Vuketich</rs> an <rs type="person" ref="elisabeth" key="elisabeth" role="recipient">Kaiserin
+                        Elisabeth</rs>
+                    <lb/>Lesina [<rs type="place" subtype="place" ref="#place_57e334eca1d4813a6748c74bd094e0e9">Hvar</rs>], <date when="1854-05-12">12. Mai 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -37,7 +36,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -50,10 +49,10 @@
                 <p>Alla novella madre comune, alla Imperiale Reale Maestà Vostra, umiliano
                     riverentissima Supplicazione le devotissime figlie e suddite Vostre, vergini
                     Suore dell’Ordine regolare di S. Benedetto del Convento della Città di Lesina
-                        [<placeName ref="#place_57e334eca1d4813a6748c74bd094e0e9">Hvar</placeName>]. Queste vergini, che abbandonato per sempre il
+                        [<rs type="place" subtype="place" ref="#place_57e334eca1d4813a6748c74bd094e0e9">Hvar</rs>]. Queste vergini, che abbandonato per sempre il
                     secolo, e raccolte in un Chiostro, innalzano continue preghiere all’Altissimo
                     per la conservazione dell’Augustissimo ed adoratissimo Monarca Nostro Imperatore
-                        <persName key="franz-joseph">Francesco Giuseppe Primo</persName> e per la
+                        <rs type="person" ref="franz-joseph" key="franz-joseph">Francesco Giuseppe Primo</rs> e per la
                     conservazione del pari dell’Augustissima Maestà Vostra, scarse di rendite appena
                     bastanti al proprio moderatissimo sostentamento ed alle spese pel Culto del
                     Tempio di Dio Signore, vedono con pena mancare loro i mezzi pella conservazione

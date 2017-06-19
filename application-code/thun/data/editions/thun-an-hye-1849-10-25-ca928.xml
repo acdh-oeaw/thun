@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="hye-von-gluneck-anton" role="recipient">Anton Hye von
-                        Gluneck</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="hye-von-gluneck-anton" key="hye-von-gluneck-anton" role="recipient">Anton Hye von
+                        Gluneck</rs>
                     <lb/>
-                    <placeName ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</placeName>, <date when="1849-10-25">25. Oktober [1849]</date>
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, <date when="1849-10-25">25. Oktober [1849]</date>
                     <note xml:id="note_1">Die Datierung in das Jahr
                         1849 ergibt sich aus Briefen, die die im Brief angesprochene versuchte
                         Berufung von Leopold Warnkönig betreffen. Vgl. dazu <ref target="thun/thun-korrespondenz/tetschen/wessenberg-an-thun_1849-10-23_A3-XXI-D10.xml">Johann Philipp Wessenberg an Leo Thun. Karlsbad, 23. Oktober
@@ -38,7 +37,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -53,14 +52,14 @@
                         zurück<note xml:id="note_2">Dabei könnte es sich um Briefe von Warnkönig und
                         Vangerow handeln, die sich im Nachlass von Hye finden.</note>. Daß mich ihr
                     Inhalt in hohem Grade befriedigt und erfreut hat, brauche ich nicht erst zu
-                    sagen. <persName key="vangerow-karl-adolph">Wangerow’s</persName> Andeutungen
+                    sagen. <rs type="person" ref="vangerow-karl-adolph" key="vangerow-karl-adolph">Wangerow’s</rs> Andeutungen
                     rechtfertigen es allerdings, in einer Beziehung[?] in den Verhandlungen einen
                     Stillstand eintreten zu lassen. Ich werde inzwischen die Zeit nicht verlieren,
                     und habe bereits weitere vorbereitende Schritte, insbesondere in Betreff
-                        <persName key="warnkoenig-leopold-august">Warnkönigs</persName> eingeleitet.
+                        <rs type="person" ref="warnkoenig-leopold-august" key="warnkoenig-leopold-august">Warnkönigs</rs> eingeleitet.
                     Führen sie zu einem günstigen Erfolge, so habe ich es großentheils der
                     vortrefflichen Weise zu danken, in welcher Sie den Weg bahnten, wodurch Sie mich
-                    in hohem Grade verpflichten und dem <placeName key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Vaterlande</placeName> und der Wissenschaft wie ich hoffe einen
+                    in hohem Grade verpflichten und dem <rs type="place" subtype="place" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Vaterlande</rs> und der Wissenschaft wie ich hoffe einen
                     wesentlichen Dienst geleistet haben.</p>
                 <p>Mit der Versicherung der ausgezeichnetsten Hochachtung verharre ich</p>
                 <p>Ihr<lb/>Ergebener<lb/>L. Thun</p>

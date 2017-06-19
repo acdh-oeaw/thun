@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Das Lehrerkollegium der Oberrealschule in Innsbruck an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                <title>Das Lehrerkollegium der Oberrealschule in Innsbruck an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</placeName>, <date when="1860-11-15">15. November 1860</date>
+                    <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs>, <date when="1860-11-15">15. November 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -39,7 +38,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -50,7 +49,7 @@
                 </index>
                 <p>Eure Excellenz!</p>
                 <p>Wie ein hellleuchtendes Gestirn, dessen Strahlen mildfreundlich nach allen
-                    Richtungen sich verbreiten, glänzt in den Annalen des <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">österreichischen Kaiserstaates</country> das überaus segenreiche Wirken
+                    Richtungen sich verbreiten, glänzt in den Annalen des <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">österreichischen Kaiserstaates</rs> das überaus segenreiche Wirken
                     Eurer Excellenz als höchsten Leiters des Unterrichtswesens.<lb/>Der allbelebende
                     Hauch der Kunst und Wissenschaft hat alle Gaue unseres großen Vaterlandes
                     durchdrungen; ein neues, reges Geistesleben ist erwacht; der Erziehung und dem
@@ -66,7 +65,7 @@
                     auf höhere wissenschaftliche Bildung gründlich abgeholfen und der Monarchie die
                     reichste Segensquelle eröffnet.<lb/>Deshalb erachten es die Unterzeichneten,
                     welche das Glück hatten, in ihrer Lehrthätigkeit an der Oberrealschule zu
-                        <placeName ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</placeName> unter der Fürsorge Eurer Excellenz zu
+                        <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs> unter der Fürsorge Eurer Excellenz zu
                     stehen, für ihre heilige Verpflichtung, den ehrerbietigsten Dank für Ihr
                     hochherziges, opferfreudiges Wirken und die zahlreichen Beweise Ihrer Huld
                     auszusprechen und damit den innigsten Wunsch zu verbinden, daß der Segen des

@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="weiss-johann-baptist" role="recipient">Johann Baptist
-                        Weiß</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="weiss-johann-baptist" key="weiss-johann-baptist" role="recipient">Johann Baptist
+                        Weiß</rs>
                     <lb/>Wien, <date when="1855-08-08">8. August 1855</date>
                 </title>
             </titleStmt>
@@ -54,7 +53,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -66,12 +65,12 @@
                 </index>
                 <p>Wien, den 8. August 1855</p>
                 <p>Werther Herr Professor!</p>
-                <p>Die Lage, in die Sie mich durch Ihre frühere Anempfehlung zu <persName key="bock-cornelius-peter">Professor Bock</persName> gebracht haben, zwingt
+                <p>Die Lage, in die Sie mich durch Ihre frühere Anempfehlung zu <rs type="person" ref="bock-cornelius-peter" key="bock-cornelius-peter">Professor Bock</rs> gebracht haben, zwingt
                     mich, in die persönlichen Verhältnisse zwischen ihm und Ihnen tiefer einzugehen,
                     als es unter andern Umständen mir zustände. Er ist mir auch von vielen andern
                     Seiten empfohlen worden; ich kann nicht ohne gründliche Überzeugung über ihn den
                     Stab brechen, zumal in einem Augenblicke, wo nicht nur die Möglichkeit einer
-                    Existenz in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country>, sondern zugleich
+                    Existenz in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>, sondern zugleich
                     seine Ehre auf dem Spiele steht.<lb/>Ihr Benehmen gegen ihn, wie Ihr Brief es
                     mir darstellt, ist mir unbegreiflich. Nicht etwa der tiefe Schmerz, den es Ihnen
                     gemacht haben muß, von ihm Dinge zu hören, die die Natur eines hinterlistigen
@@ -82,8 +81,8 @@
                     in’s Gesicht zu sagen. Hier handelte es sich aber um mehr; Sie haben nicht nur
                     die Freundschaft zu ihm aufgegeben, sondern Sie haben gethan, was man nur thun
                     kann, um einen Menschen moralisch zu ruiniren. Sie haben, wie Sie selbst
-                    schreiben, es dahin gebracht, daß man ihn in <placeName key="graz" ref="#place_6e00929feb7fb02acaa548f47f67c61c">Graz</placeName> gemieden hat, wie eine Pestbeule, – und nun soll er
-                    gebrandmarkt von <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> abziehen. Und
+                    schreiben, es dahin gebracht, daß man ihn in <rs type="place" subtype="place" key="graz" ref="#place_6e00929feb7fb02acaa548f47f67c61c">Graz</rs> gemieden hat, wie eine Pestbeule, – und nun soll er
+                    gebrandmarkt von <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> abziehen. Und
                     das haben Sie gethan, gegen ihn, der die Thatsachen, auf deren Grundlage Sie
                     gehandelt haben, in Abrede stellt, ohne ihn gehört zu haben. Ich gestehe Ihnen
                     offen, das scheint mir an sich unverantwortlich, – noch mehr, wenn ich Ihre und
@@ -100,7 +99,7 @@
                 <p>Hochachtungsvoll<lb/>Thun</p>
                 <p>Auch kann ich mich der Aufforderung nicht enthalten, daß Sie mir die Personen
                     nennen, vor welchen Bock Ihren Charakter und Ihre wissenschaftliche Thätigkeit
-                    angegriffen und geäußert haben soll: „<persName key="weiss-johann-baptist">Weiß</persName> ist ein Ultramontaner, ich bin kein Ultramontaner etc.“</p>
+                    angegriffen und geäußert haben soll: „<rs type="person" ref="weiss-johann-baptist" key="weiss-johann-baptist">Weiß</rs> ist ein Ultramontaner, ich bin kein Ultramontaner etc.“</p>
             </div>
         </body>
     </text>

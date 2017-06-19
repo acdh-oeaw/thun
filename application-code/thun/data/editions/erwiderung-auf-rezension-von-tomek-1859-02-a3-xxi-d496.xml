@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Erwiderung <persName key="tomek-vaclav-vladivoi" role="sender:gelehrter">Václav Tomeks</persName> auf die Rezension seines "Handbuches der
+                <title>Erwiderung <rs type="person" ref="tomek-vaclav-vladivoi" key="tomek-vaclav-vladivoi" role="sender:gelehrter">Václav Tomeks</rs> auf die Rezension seines "Handbuches der
                     österreichischen Geschichte" im Literarischen Centralblatt für Deutschland vom
                     12. Februar 1859<lb/>o. O., <date when="1859-02">Februar 1859</date>
                 </title>
@@ -42,7 +41,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -51,13 +50,13 @@
                     <term>Geschichtswissenschaften</term>
                     <term>Österreichische Geschichte</term>
                 </index>
-                <p>Literarisches Centrallblatt für Deutschland von Prof. Dr. <persName key="zarncke-friedrich">Fr[iedrich] Zarncke</persName>. Verlegt von
-                        <persName key="avenarius-eduard">Eduard Avenarius</persName> in
-                        <placeName ref="#place_4a887b8a68acf9b04d9d027bddedb06b">Leipzig</placeName>. 1859. 12. Febr. Nr. 7.</p>
+                <p>Literarisches Centrallblatt für Deutschland von Prof. Dr. <rs type="person" ref="zarncke-friedrich" key="zarncke-friedrich">Fr[iedrich] Zarncke</rs>. Verlegt von
+                        <rs type="person" ref="avenarius-eduard" key="avenarius-eduard">Eduard Avenarius</rs> in
+                        <rs type="place" subtype="place" ref="#place_4a887b8a68acf9b04d9d027bddedb06b">Leipzig</rs>. 1859. 12. Febr. Nr. 7.</p>
                 <p>Wir sind gewohnt in böhmischen Geschichtswerken einen exclusiv tschechischen
                     Standpunct zu finden, aber immer gewährt es ein gewisses Interesse den Grad zu
                     beobachten, in welchem ungescheut diese tendenziöse Geschichtsschreibung
-                    getrieben wird. Prof. <persName key="tomek-vaclav-vladivoi">Tomek</persName> hat
+                    getrieben wird. Prof. <rs type="person" ref="tomek-vaclav-vladivoi" key="tomek-vaclav-vladivoi">Tomek</rs> hat
                     uns nun mit einer österreichischen Geschichte<note xml:id="note_1">Vgl. Václav
                         Vladivoi Tomek, Handbuch der österreichischen Geschichte, Theil 1, Prag
                         1858.</note> beschenkt, die fast am Weitesten geht unter Allem, was uns in
@@ -77,74 +76,74 @@
                     wo es möglich war, nach der Herrschaft über andere Völker oder nach Beute bei
                     ihren Nachbarn, um sich von der Arbeit dieser zu nähren." Ganz ähnliches finden
                     wir auch schon S. 75, wo ebenfalls Arbeitscheu der Deutschen hervorgehoben wird.
-                    Demgemäß sind dann auch die Kriege <persName key="heinrich-I">Heinrichs
-                        I.</persName> und <persName key="otto-I">Ottos I</persName>., "der zu seinem
+                    Demgemäß sind dann auch die Kriege <rs type="person" ref="heinrich-I" key="heinrich-I">Heinrichs
+                        I.</rs> und <rs type="person" ref="otto-I" key="otto-I">Ottos I</rs>., "der zu seinem
                     Nachfolger <hi rend="ul">aufgenommen wurde</hi>", S. 148 nicht viel besser wie
                     räuberische Einfälle behandelt. Um so viel größere Einwirkung dagegen üben die
-                    Tschechen auf ihre Nachbarn aus. In <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> finden sich deren
-                    schon zu <persName key="geysa">Geisas</persName> Zeit, S. 161: "<persName key="stephan-I">Stephan I.</persName> trifft seine staatlichen Einrichtungen
+                    Tschechen auf ihre Nachbarn aus. In <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> finden sich deren
+                    schon zu <rs type="person" ref="geysa" key="geysa">Geisas</rs> Zeit, S. 161: "<rs type="person" ref="stephan-I" key="stephan-I">Stephan I.</rs> trifft seine staatlichen Einrichtungen
                     nach böhmischem Muster." S. 163: "Die unmittelbare Herrschaft über alle Župen
-                    der Magyaren befand sich nun bei dem Könige, und <persName key="stephan-I">Stephan</persName> richtete dieselbe ganz nach dem Muster der damaligen
+                    der Magyaren befand sich nun bei dem Könige, und <rs type="person" ref="stephan-I" key="stephan-I">Stephan</rs> richtete dieselbe ganz nach dem Muster der damaligen
                     slawischen Verfassung ein, wie diese in dem befreundeten Böhmen gestaltet war."
-                    Auf gleiche Weise bildet sich die Verfassung <country key="polen" ref="#place_f7e32af910ea100716664681d1244a74">Polens</country> aus der von <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</region> (S.
+                    Auf gleiche Weise bildet sich die Verfassung <rs type="place" subtype="country" key="polen" ref="#place_f7e32af910ea100716664681d1244a74">Polens</rs> aus der von <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> (S.
                     167).<lb/>Wie die deutsche Kaisergeschichte behandelt wird, kann man schon aus
-                    dem Vorhergehenden ermessen. Die Friedensbedingungen, die <persName key="heinrich-III">Heinrichs III.</persName> Stellung zu <persName key="bretislaw">Bretislaw</persName> charakterisiren, sind "nicht
-                    hinreichend bekannt". S. 172 sind die Kriege <persName key="heinrich-V">Heinrichs V.</persName> in <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</region> nur ganz
-                    nebenbei erwähnt. S. 219 wird von Kaiser <persName key="friedrich-I">Friedrich
-                        I.</persName> gesagt, dass er in dem böhmischen Streite "die Parteien zu
-                    sich nach <placeName ref="#place_26cf926782fe0bf1a37ac9960658499f">Regensburg</placeName> lud, wo er die böhmischen Herren
+                    dem Vorhergehenden ermessen. Die Friedensbedingungen, die <rs type="person" ref="heinrich-III" key="heinrich-III">Heinrichs III.</rs> Stellung zu <rs type="person" ref="bretislaw" key="bretislaw">Bretislaw</rs> charakterisiren, sind "nicht
+                    hinreichend bekannt". S. 172 sind die Kriege <rs type="person" ref="heinrich-V" key="heinrich-V">Heinrichs V.</rs> in <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> nur ganz
+                    nebenbei erwähnt. S. 219 wird von Kaiser <rs type="person" ref="friedrich-I" key="friedrich-I">Friedrich
+                        I.</rs> gesagt, dass er in dem böhmischen Streite "die Parteien zu
+                    sich nach <rs type="place" subtype="place" ref="#place_26cf926782fe0bf1a37ac9960658499f">Regensburg</rs> lud, wo er die böhmischen Herren
                     durch Bedrohung mit Hinrichtungen erschreckte" und S. 220 wird dann von den
                     gefährlichen Neuerungen desselben Kaisers gesprochen. S. 222 finden wir die
-                    Behauptung: dass Přemysl <persName key="ottokar-I-premysl">Ottokar</persName> im
+                    Behauptung: dass Přemysl <rs type="person" ref="ottokar-I-premysl" key="ottokar-I-premysl">Ottokar</rs> im
                     Jahre 1202 (!) vom Papste "die Bestätigung der Königswürde erhielt, welche
                     dadurch von der Anerkennung der deutschen Kaiser unabhängig wurde". Bei den
-                    deutschen Colonisten in <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</region> bemerkt der
+                    deutschen Colonisten in <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> bemerkt der
                     Verfasser S. 275: Beeinträchtigungen, welche dabei der böhmischen Bevölkerung
                     widerfuhren und Hochmuth der fremden Ankömmlinge, welche sich durch die
                     Ansichziehung der besten Nahrungszweige im Lande bald sehr bereicherten usw.
-                    Dabei ist es wahrhaft komisch, wenn die Colonien in <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</region> vorherrschend französisch sind (S. 251), denn Flandrer und
+                    Dabei ist es wahrhaft komisch, wenn die Colonien in <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> vorherrschend französisch sind (S. 251), denn Flandrer und
                     ebenso S. 312 Luxemburger sind für den Verfasser "mehr französisch als deutsch".
-                        <persName key="matthias-corvinus">Mathias Corvinus</persName> ist ein
-                    Nachahmer <persName key="podebrad-georg-von">Podiebrads</persName>, "dessen
-                    Regierungsweise in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> der seinigen im Ganzen nachgebildet
-                    war". (S. 391) Papst <persName key="pius-II">Pius II.</persName> hatte sich "<hi rend="ul">einige Kenntniss</hi> der Zustände <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmens</region> verschafft".<lb/>Neben solchen absichtlichen Entstellungen
+                        <rs type="person" ref="matthias-corvinus" key="matthias-corvinus">Mathias Corvinus</rs> ist ein
+                    Nachahmer <rs type="person" ref="podebrad-georg-von" key="podebrad-georg-von">Podiebrads</rs>, "dessen
+                    Regierungsweise in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> der seinigen im Ganzen nachgebildet
+                    war". (S. 391) Papst <rs type="person" ref="pius-II" key="pius-II">Pius II.</rs> hatte sich "<hi rend="ul">einige Kenntniss</hi> der Zustände <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmens</rs> verschafft".<lb/>Neben solchen absichtlichen Entstellungen
                     der Wahrheit finden sich indessen Irrthümer anderer Art. So wenn S. 173 ein
-                        <persName key="samuel-aba">Samuel Aba</persName> als König <persName key="stephan-I">Stephans</persName> Schwestersohn bezeichnet oder S. 249 der
+                        <rs type="person" ref="samuel-aba" key="samuel-aba">Samuel Aba</rs> als König <rs type="person" ref="stephan-I" key="stephan-I">Stephans</rs> Schwestersohn bezeichnet oder S. 249 der
                     Begriff der Souverainetät auf die alten böhmischen und polnischen Fürsten
                     angewendet wird; S. 220 wird von steirischen <hi rend="ul">Privilegien</hi> (!)
                     gesprochen, die das Recht testamentarischer Verfügung dem Herzoge einräumen. S.
-                    259 ist der Streit zwischen Kaiser <persName key="friedrich-II">Friedrich
-                        II.</persName> und <persName key="gregor-IX">Gregor IX.</persName> so irrig
+                    259 ist der Streit zwischen Kaiser <rs type="person" ref="friedrich-II" key="friedrich-II">Friedrich
+                        II.</rs> und <rs type="person" ref="gregor-IX" key="gregor-IX">Gregor IX.</rs> so irrig
                     und so oberflächlich erwähnt, daß weder von der Excommunication des Kaisers noch
                     von dessen wirklich ausgeführtem Kreuzzuge die Rede und nur gesagt ist, daß der
                     Kaiser "gefährliche Anschläge gegen die Kirche im Schilde führte, welche durch
                     vielfache <hi rend="ul">Unterwerfung der letzern</hi> unter die weltliche
                     Staatsgewalt im <hi rend="ul">
-                        <country key="koenigreich-beider-sizilien" ref="#place_f40f64e9f62ad587f6de7a4913473552">Königreiche Sizilien</country>
+                        <rs type="place" subtype="country" key="koenigreich-beider-sizilien" ref="#place_f40f64e9f62ad587f6de7a4913473552">Königreiche Sizilien</rs>
                     </hi> offenkundig wurden"; als ob es sich
                     hauptsächlich um Sizilien gehandelt hätte. S. 358 f. sind die Theilungsverträge
-                    zwischen den Herzögen <persName key="albrecht-III">Albrecht III.</persName> und
-                        <persName key="leopold-III">Leopold III.</persName> nur halb mitgetheilt.
+                    zwischen den Herzögen <rs type="person" ref="albrecht-III" key="albrecht-III">Albrecht III.</rs> und
+                        <rs type="person" ref="leopold-III" key="leopold-III">Leopold III.</rs> nur halb mitgetheilt.
                     Eine ganz verkehrte Darstellung ist die der Erwerbung von
-                    <region ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</region>, wo gesagt wird, "um ohne Hindernis
-                        <region ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</region>
-                    <hi rend="ul">in Besitz nehmen zu können</hi>", habe sich (1364) <persName key="rudolph-IV">Rudolf IV.</persName> um die Freundschaft <persName key="karl-IV">Karls IV.</persName> beworben und einen Erbvertrag
+                    <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs>, wo gesagt wird, "um ohne Hindernis
+                        <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs>
+                    <hi rend="ul">in Besitz nehmen zu können</hi>", habe sich (1364) <rs type="person" ref="rudolph-IV" key="rudolph-IV">Rudolf IV.</rs> um die Freundschaft <rs type="person" ref="karl-IV" key="karl-IV">Karls IV.</rs> beworben und einen Erbvertrag
                     geschlossen, während doch jenes schon 1363 geschah.<lb/>Doch wird man nicht mehr
                     für nöthig erachten, aus einem Werke noch weitere Stellen zu hören, über welches
                     wir schon viel zu viel gesagt hätten, wenn wir in demselben nicht eine ganze
-                    Richtung der Geschichtschreibung <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</country> characterisiren wollten. Es sei uns daher erlaubt,
+                    Richtung der Geschichtschreibung <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> characterisiren wollten. Es sei uns daher erlaubt,
                     nur einiges Wenige noch über die deutsche Übersetzung des Werkes anzuführen. Wir
-                    rathen dem Herrn <persName key="tomek-vaclav-vladivoi">Prof. Tomek</persName> in
+                    rathen dem Herrn <rs type="person" ref="tomek-vaclav-vladivoi" key="tomek-vaclav-vladivoi">Prof. Tomek</rs> in
                     dieser Beziehung, sich künftig lieber an solche Übersetzer zu wenden, die der
                     deutschen Grammatik mächtig sind. Wir wollen nur die stärksten Verstöße
                     anführen. S. 221 wird König Richard "<hi rend="ul">auf</hi> das Ufer geworfen",
                     dagegen S. 246: "an den Landtagen hatte er seinen Platz neben dem Herrenstande";
-                    S. 335: "auf beide Augen erblindet"; S. 361: "<country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> schien
+                    S. 335: "auf beide Augen erblindet"; S. 361: "<rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> schien
                     damals die breiteste Grundfeste zu sein." Zu diesen und vielen ähnlichen Sätzen
-                    paßt dann allerdings auch eine Aufschrift wie: "Begebenheiten Kaiser <persName key="maximilian-I">Maximilians I.</persName>"</p>
+                    paßt dann allerdings auch eine Aufschrift wie: "Begebenheiten Kaiser <rs type="person" ref="maximilian-I" key="maximilian-I">Maximilians I.</rs>"</p>
                 <p/>
                 <p>
-                    <persName key="tomek-vaclav-vladivoi">Tomek</persName>. Handbuch der
+                    <rs type="person" ref="tomek-vaclav-vladivoi" key="tomek-vaclav-vladivoi">Tomek</rs>. Handbuch der
                     österreichischen Geschichte. Erwiederung zu Nr. 7.</p>
                 <p>Es sei mir erlaubt auf eine kurze Rede kurze Antwort zu geben. Es wird mir ein
                     exclusiv tschechischer Standpunkt in der österreichischen Geschichtschreibung
@@ -170,10 +169,10 @@
                     Arbeitscheu der Deutschen wird von mir S. 75 (und auch sonst nirgends) nicht nur
                     nicht <hi rend="ul">hervorgehoben</hi>, sondern auch mit keiner Sylbe erwähnt.
                     Ebenso sage ich (S. 148, 149) von Räubereien der Deutschen in den Kriegen
-                        <persName key="heinrich-I">Heinrichs I.</persName> und <persName key="otto-I">Ottos I.</persName> mit <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</region>
-                    keine Sylbe, es möchte denn der Recensent die Worte, daß sie in <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</region>
-                    <hi rend="ul">einbrachen</hi>, dahin deuten. Statt, daß <persName key="otto-I">Otto I.</persName> zum Nachfolger <persName key="heinrich-I">Heinrichs
-                        I.</persName>
+                        <rs type="person" ref="heinrich-I" key="heinrich-I">Heinrichs I.</rs> und <rs type="person" ref="otto-I" key="otto-I">Ottos I.</rs> mit <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs>
+                    keine Sylbe, es möchte denn der Recensent die Worte, daß sie in <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs>
+                    <hi rend="ul">einbrachen</hi>, dahin deuten. Statt, daß <rs type="person" ref="otto-I" key="otto-I">Otto I.</rs> zum Nachfolger <rs type="person" ref="heinrich-I" key="heinrich-I">Heinrichs
+                        I.</rs>
                     <hi rend="ul">aufgenommen wurde</hi>, hätte ich vielleicht sagen sollen, daß er
                         <hi rend="ul">gewählt</hi> wurde. Aber wer nur etwas von den damaligen
                     deutschen Königswahlen weiß (wer es nicht weiß, der lese darüber das neueste
@@ -182,10 +181,10 @@
                     bekannt, daß dies wenigstens nicht polnische Königswahlen waren und das habe ich
                     für den minder unterrichteten Leser durch das von mir gewählte Wort kurz
                     andeuten wollen. Das Eine begreife ich nicht, daß etwas Tschechisches dahinter
-                    stecken sollte. Böhmen hielten sich schon unter <persName key="geysa">Geysa</persName> in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> auf, so wahr der Heilige
-                    Adalbert ein Böhme gewesen ist und <persName key="geysa">Geysas</persName> Sohn
-                    getauft hat (S. 161). Daß <persName key="stephan-I">Stephans</persName>
-                    Einrichtungen in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> den slawischen und mit Rücksicht auf
+                    stecken sollte. Böhmen hielten sich schon unter <rs type="person" ref="geysa" key="geysa">Geysa</rs> in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> auf, so wahr der Heilige
+                    Adalbert ein Böhme gewesen ist und <rs type="person" ref="geysa" key="geysa">Geysas</rs> Sohn
+                    getauft hat (S. 161). Daß <rs type="person" ref="stephan-I" key="stephan-I">Stephans</rs>
+                    Einrichtungen in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> den slawischen und mit Rücksicht auf
                     die damalige Zeit den böhmischen nachgebildet waren (S. 163), begreift derjenige
                     ganz wohl, welcher ungarische, slawische und deutsche Einrichtungen gewißenhaft
                     miteinander verglichen hat. Es werden dadurch die Ähnlichkeiten ungarischer mit
@@ -193,55 +192,55 @@
                     Geschichtschreiber, welche die erstern aus den letztern ableiteten, weil sie die
                     slawischen nicht kannten, wird vermieden. Denn Ähnlichkeiten gab es auch
                     zwischen den deutschen und slawischen Einrichtungen jener Zeit, aber die der
-                    slawischen und insbesondere böhmischen mit denen <persName key="stephan-I">Stephans</persName> sind von einer entschieden wichtigern Bedeutung. Die
-                    Verfassung <country key="polen" ref="#place_f7e32af910ea100716664681d1244a74">Polens</country> bildet sich bei mir nicht, wie
-                    der Recensent sagt, aus der <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmens</region>, sondern sie
-                    gleicht ihr nur seit <persName key="boleslaw-chrabry">Boleslaw
-                        Chrabri</persName> vollkommen (S. 167).<lb/>Daß ich die deutsche
+                    slawischen und insbesondere böhmischen mit denen <rs type="person" ref="stephan-I" key="stephan-I">Stephans</rs> sind von einer entschieden wichtigern Bedeutung. Die
+                    Verfassung <rs type="place" subtype="country" key="polen" ref="#place_f7e32af910ea100716664681d1244a74">Polens</rs> bildet sich bei mir nicht, wie
+                    der Recensent sagt, aus der <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmens</rs>, sondern sie
+                    gleicht ihr nur seit <rs type="person" ref="boleslaw-chrabry" key="boleslaw-chrabry">Boleslaw
+                        Chrabri</rs> vollkommen (S. 167).<lb/>Daß ich die deutsche
                     Kaisergeschichte nicht ausführlich oder wie sich der Recensent ausspricht, daß
                     ich sie oberflächlich behandle, läßt sich aus dem einfachen Grunde erklären, daß
                     ich keine deutsche Kaisergeschichte geschrieben habe, sondern eben nur
                     österreichische Geschichte. Wenn dem Recensenten die Friedensbedingungen
-                    zwischen <persName key="heinrich-III">Heinrich III.</persName> und <persName key="bretislaw">Bretislaw</persName> "hinreichend bekannt" sind, so erkläre
-                    er mir, wie es kam, daß <persName key="bretislaw">Bretislaw</persName> auch nach
-                    jenem Frieden einen so großen Theil <region key="schlesien" ref="#place_555f6fe9ebdd56123400b9e628944934">Schlesiens</region>
+                    zwischen <rs type="person" ref="heinrich-III" key="heinrich-III">Heinrich III.</rs> und <rs type="person" ref="bretislaw" key="bretislaw">Bretislaw</rs> "hinreichend bekannt" sind, so erkläre
+                    er mir, wie es kam, daß <rs type="person" ref="bretislaw" key="bretislaw">Bretislaw</rs> auch nach
+                    jenem Frieden einen so großen Theil <rs type="place" subtype="region" key="schlesien" ref="#place_555f6fe9ebdd56123400b9e628944934">Schlesiens</rs>
                     noch immer behalten konnte und ich werde ihm dafür dankbar sein. Über die
                     Geschichte von der Bedrohung der böhmischen Herren mit Hinrichtungen von Kaiser
-                        <persName key="friedrich-I">Friedrich I.</persName> (S.219) lese der
+                        <rs type="person" ref="friedrich-I" key="friedrich-I">Friedrich I.</rs> (S.219) lese der
                     Recensent nur Gerlachs Chronik bei Dobner I., p. 97<note xml:id="note_3">Vgl. G.
                         Dobner, Monum. hist. Bohemiae, Prag 1764–1786.</note>, daß aber die
-                    besprochenen Neuerungen desselben Kaisers für <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</region> gefährlich waren, geht aus der Sache selbst hervor. Trotz
+                    besprochenen Neuerungen desselben Kaisers für <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> gefährlich waren, geht aus der Sache selbst hervor. Trotz
                     dem Ausrufungszeichen, welches der Recensent so frei ist beizusetzen, steht S.
-                    222 bei der Bestätigung der böhmischen Königswürde von <persName key="innozenz-III">Innocenz III.</persName> nicht die Jahreszahl 1202 (!),
+                    222 bei der Bestätigung der böhmischen Königswürde von <rs type="person" ref="innozenz-III" key="innozenz-III">Innocenz III.</rs> nicht die Jahreszahl 1202 (!),
                     sondern 1204. Die Belege für das Factum selbst sind bei Palacky (Geschichte der
                     Böhmen II, 67)<note xml:id="note_4">Vgl. Frantisek Palacky, Geschichte von
                         Böhmen, Bd. 2, 1847.</note> angeführt.<lb/>Was ich S. 275 von
                     Beeinträchtigungen der böhmischen Bevölkerung bei der deutschen Colonisation
-                    unter <persName key="ottokar-II">Ottokar II.</persName> sage, darf ich zur
+                    unter <rs type="person" ref="ottokar-II" key="ottokar-II">Ottokar II.</rs> sage, darf ich zur
                     Steuer der historischen Wahrheit sagen; andere haben es vor mir gesagt und ich
                     habe die Sache in meiner Geschichte der Stadt Prag ohnehin etwas weitläufiger
                     auseinandergesetzt. Hinsichtlich des Vorherrschens französischer Colonien in
-                        <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</region> kann nur das komisch sein, daß der
+                        <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> kann nur das komisch sein, daß der
                     Recensent die Behauptung eines solchen S. 251 findet, während doch nichts
                     dergleichen weder dort noch anderswo in meinem Buche vorkommt. Das Vorkommen
-                    französischer Colonien in <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> und <placeName key="bruenn" ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünn</placeName> läßt sich allerdings urkundlich nachweisen.
+                    französischer Colonien in <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> und <rs type="place" subtype="place" key="bruenn" ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünn</rs> läßt sich allerdings urkundlich nachweisen.
                     Aber nur Franzosen, nicht Flandrer habe ich S. 251 für Franzosen ausgegeben und
-                    S. 312 ist nicht von Luxemburgern, sondern von <persName key="heinrich-VII-luxemburg">Heinrich VII. von Luxemburg</persName> und
-                    seinen Vorfahren die Rede. Hier bin ich dem Meister <persName key="boehmer-johann-friedrich">Böhmer</persName> gefolgt, in dessen
-                    Einleitung zu den Regesten <persName key="heinrich-VII-luxemburg">Heinrichs
-                        VII.</persName> das darauf Bezügliche zu finden ist. Über <persName key="matthias-corvinus">Mathias Corvinus</persName> und <persName key="pius-II">Pius II.</persName> möchte ich doch erst wissen, was der
+                    S. 312 ist nicht von Luxemburgern, sondern von <rs type="person" ref="heinrich-VII-luxemburg" key="heinrich-VII-luxemburg">Heinrich VII. von Luxemburg</rs> und
+                    seinen Vorfahren die Rede. Hier bin ich dem Meister <rs type="person" ref="boehmer-johann-friedrich" key="boehmer-johann-friedrich">Böhmer</rs> gefolgt, in dessen
+                    Einleitung zu den Regesten <rs type="person" ref="heinrich-VII-luxemburg" key="heinrich-VII-luxemburg">Heinrichs
+                        VII.</rs> das darauf Bezügliche zu finden ist. Über <rs type="person" ref="matthias-corvinus" key="matthias-corvinus">Mathias Corvinus</rs> und <rs type="person" ref="pius-II" key="pius-II">Pius II.</rs> möchte ich doch erst wissen, was der
                     Recensent gegen meine Behauptungen einzuwenden hat.<lb/>Dasselbe muß ich
                     hinsichtlich der Souveränität der böhmischen und polnischen Fürsten (S. 249)
-                    bemerken, ungeachtet mir die Ansichten <persName key="duemmler-ernst">Dümmlers</persName> und seiner Anhänger über die ältesten Zustände <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmens</region>, von denen der Recensent etwa ausgehen mag,
+                    bemerken, ungeachtet mir die Ansichten <rs type="person" ref="duemmler-ernst" key="duemmler-ernst">Dümmlers</rs> und seiner Anhänger über die ältesten Zustände <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmens</rs>, von denen der Recensent etwa ausgehen mag,
                     recht wohl bekannt sind. Hinsichtlich der steirischen Privilegien S. 220 wird
                     von mir eine "Vermuthung" aufgestellt, um eine feststehende Thatsache zu <hi rend="ul">erklären</hi>, welche bisher noch von niemanden anders als durch
                     Vermuthungen erklärt werden konnte. Von den unerquicklichen Händeln zwischen
-                        <persName key="albrecht-III">Albrecht III.</persName> und <persName key="leopold-III">Leopold III.</persName> ist so viel mitgetheilt, als nach
-                    dem Umfang des Buches aufgenommen werden konnte.<lb/>Für die Berichtigung <hi rend="ul">zweier</hi> Versehen bin ich dem Recensenten dankbar. <persName key="samuel-aba">Samuel Aba</persName> war nicht Schwestersohn, sondern
-                    Schwager des heiligen <persName key="stephan-I">Stephan</persName> und S. 354,
-                    wo von <region ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</region> gesprochen wird, sollte stehen "sich im Besitze
+                        <rs type="person" ref="albrecht-III" key="albrecht-III">Albrecht III.</rs> und <rs type="person" ref="leopold-III" key="leopold-III">Leopold III.</rs> ist so viel mitgetheilt, als nach
+                    dem Umfang des Buches aufgenommen werden konnte.<lb/>Für die Berichtigung <hi rend="ul">zweier</hi> Versehen bin ich dem Recensenten dankbar. <rs type="person" ref="samuel-aba" key="samuel-aba">Samuel Aba</rs> war nicht Schwestersohn, sondern
+                    Schwager des heiligen <rs type="person" ref="stephan-I" key="stephan-I">Stephan</rs> und S. 354,
+                    wo von <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs> gesprochen wird, sollte stehen "sich im Besitze
                     befestigen" nicht "in Besitz nehmen zu können", während alles übrige über die
-                    Erwerbung <region key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tirols</region> durch <persName key="rudolph-IV">Rudolf IV.</persName> von mir richtig angegeben ist. Dafür bin ich
+                    Erwerbung <rs type="place" subtype="region" key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tirols</rs> durch <rs type="person" ref="rudolph-IV" key="rudolph-IV">Rudolf IV.</rs> von mir richtig angegeben ist. Dafür bin ich
                     hinreichend entschädigt durch das Geständniss des Recensenten, daß in meinem
                     Werke vieles Neue vorkommt. Belege und Beweise konnte ich freilich in einem
                     bloßen Handbuche nicht geben. Aber es ist vieles darin enthaltene nicht gar so

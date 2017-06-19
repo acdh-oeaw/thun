@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="purkinje-johann" role="sender:gelehrter">Johann
-                        Purkinje</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="purkinje-johann" key="purkinje-johann" role="sender:gelehrter">Johann
+                        Purkinje</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</placeName>, <date when="1849-10-22">22. Oktober 1849</date>
+                    <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs>, <date when="1849-10-22">22. Oktober 1849</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -49,7 +48,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -64,12 +63,12 @@
                 <p>Hochgeborner Herr Graf!</p>
                 <p>Hochgebietender Herr Minister!</p>
                 <p>Eure Excellenz!</p>
-                <p>Es ist mir zu Anfang dieses Monats durch <persName key="hamernik-josef">Dr.
-                        D’Hamerník</persName> in <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> die Mittheilung
+                <p>Es ist mir zu Anfang dieses Monats durch <rs type="person" ref="hamernik-josef" key="hamernik-josef">Dr.
+                        D’Hamerník</rs> in <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> die Mittheilung
                     geworden, daß der Lehrkörper der dortigen medicinischen Facultät mich bei Eurer
                     Excellenz zum Professor der Physiologie an der <orgName key="universitaet-prag">Prager Hochschule</orgName> in Vorschlag gebracht hat, mit der Andeutung
                     des Wunsches der dortigen Collegen, daß mit meiner etwaigen Berufung die
-                    Errichtung eines physiologischen Instituts in <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>
+                    Errichtung eines physiologischen Instituts in <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>
                     verbunden werde, wobei ich aufgefordert wurde die Gelegenheit zu ergreifen und
                     deshalb an Eure Excellenz meine Anträge zu richten. Wenn ich es nun wage dieser
                     Anregung zu folgen und Eurer Excellenz in Betreff der Errichtung eines
@@ -126,7 +125,7 @@
                     physiologische Institut hier zu <orgName key="universitaet-breslau">Breslau</orgName> ins Leben getreten ist, was seitdem zu Stiftung mehrerer
                     an verschiedenen Hochschulen die Veranlassung gab.<lb/>Bei meinem hiesigen
                     Eintreffen übernahm ich das Lehrfach der Physiologie von meinem Vorgänger
-                        <persName key="bartels-ernst">Prof. Bartels</persName> als einen meist
+                        <rs type="person" ref="bartels-ernst" key="bartels-ernst">Prof. Bartels</rs> als einen meist
                     discursiven Gegenstand, mit Übergehung aller Anschaulichkeit, höchstens mit
                     bloßen Berufungen auf die Erfahrungen und Experimente anderer, von denen
                     gelegentlich referirt wurde. Es war eine bequeme Lehrkanzel, man konnte mit
@@ -142,8 +141,8 @@
                     physiologisch-propädeutische Erfahrung auch wohl geeignet sei als Grundlage der
                     klinischen therapeutischen und chirurgischen zu dienen. Bei dieser Gesinnung
                     gelang es mir allmählig mit Unterstützung des Universitätskurators, bei der
-                    bekannten Munificenz des damaligen Ministers <persName key="altenstein-karl">von
-                        Altenstein</persName>, das hiesige physiologische Institut so weit zu
+                    bekannten Munificenz des damaligen Ministers <rs type="person" ref="altenstein-karl" key="altenstein-karl">von
+                        Altenstein</rs>, das hiesige physiologische Institut so weit zu
                     realisiren, daß es alle Organe der materiellen Beziehungen der Wissenschaft und
                     die keiner weiteren Entwicklung in sich enthält und auch eine nach Außen
                     ostensible Existenz zu behaupten im Stande ist. Eure Excellenz können sich wohl
@@ -226,7 +225,7 @@
                     könnte, müßte ein Haus, möglichst ohne fremde Mitbewohner, gemiethet werden, bis
                     indes anderweitig Rath geschafft würde.<lb/>Eure Excellenz ersehen aus diesen
                     Angaben, wie ein physiologisches Institut in großartiger Weise, wie es die
-                    Culturlage <placeName key="prag" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prags</placeName> in <country ref="#place_5c4b925bf527c4f8581815a35a10d658">Europa</country>
+                    Culturlage <rs type="place" subtype="place" key="prag" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prags</rs> in <rs type="place" subtype="country" ref="#place_5c4b925bf527c4f8581815a35a10d658">Europa</rs>
                     wohl mit sich brächte, errichtet werden müßte. Außerdem gäbe es natürlich
                     mehrere Abstufungen des Preises und des Leistungswerthes physiologischer
                     Institute nach Maßgabe der Mittel, die zu ihrer Realisation verwendet würden und

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="phillips-george" role="sender:gelehrter">George
-                        Phillips</persName> an <persName key="thun-hohenstein-leo">Leo
-                        Thun</persName>
+                    <rs type="person" ref="phillips-george" key="phillips-george" role="sender:gelehrter">George
+                        Phillips</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</placeName>, <date when="1852-04-03">3. April 1852</date>
+                    <rs type="place" subtype="place" key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs>, <date when="1852-04-03">3. April 1852</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -40,14 +39,14 @@
                     </msContents>
                     <physDesc>
                         <p>Beilage: <ref target="#D160_1">
-                                <persName key="arndts-carl-ludwig">Carl
-                                    Ludwig Arndts</persName> an <persName key="phillips-george">George Phillips</persName>. München, <date when="1852-03-30">30. März 1852</date>.</ref>
+                                <rs type="person" ref="arndts-carl-ludwig" key="arndts-carl-ludwig">Carl
+                                    Ludwig Arndts</rs> an <rs type="person" ref="phillips-george" key="phillips-george">George Phillips</rs>. München, <date when="1852-03-30">30. März 1852</date>.</ref>
                         </p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -59,11 +58,11 @@
                     <term>Römisches Recht</term>
                 </index>
                 <p>Hochgeborner Herr Graf</p>
-                <p>Euer Excellenz gnädigem Auftrage gemäß habe ich mit <persName key="arndts-carl-ludwig">Professor Arndts</persName> dahier wegen Übernahme
+                <p>Euer Excellenz gnädigem Auftrage gemäß habe ich mit <rs type="person" ref="arndts-carl-ludwig" key="arndts-carl-ludwig">Professor Arndts</rs> dahier wegen Übernahme
                     einer Lehrkanzel an der juridischen Facultät zu <orgName key="universitaet-wien">Wien</orgName> Rücksprache genommen. Derselbe erscheint geneigt einen
                     solchen Ruf anzunehmen und hat mir in dem beifolgenden Schreiben<note xml:id="note_1">Vgl. den beigelegten Brief <ref target="#D160_1">Carl Ludwig
                             Arndts an George Phillips. München, 30. März 1852</ref>.</note> die
-                    Bedingungen näher bezeichnet, unter welchen er sein Domizil in <placeName key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</placeName> mit dem in <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</placeName> vertauschen würde. Nach Durchlesung dieses Schreibens bin
+                    Bedingungen näher bezeichnet, unter welchen er sein Domizil in <rs type="place" subtype="place" key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs> mit dem in <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> vertauschen würde. Nach Durchlesung dieses Schreibens bin
                     ich nochmals zu ihm gegangen und habe ihm die Bemerkung gemacht, daß die k.k.
                     Regierung wohl nicht füglich auf den Wunsch, ihm ein Gehalt von 3.000 fl CM zu
                     gewähren, eingehen könne. Er gab mir hierauf die Erklärung ab, daß er weniger
@@ -71,11 +70,11 @@
                     wenn mit Ausschluß der Honorarien und sonstigen Gebühren sein Gesammtbezug mit
                     Einschluß des Quartiergeldes sich auf jene Summe belaufe, z. B. wie er
                     hinzufügte 2.700 fl Gehalt und 300 fl Quartiergeld oder 2.800 fl und 200
-                    fl.<lb/>Zu einem Professor der deutschen Sprache und Literatur hat mir <persName key="doellinger-ignaz">Döllinger</persName> einen <persName key="hofmann-konrad">Dr. Konrad Hoffmann</persName> als einen jungen
+                    fl.<lb/>Zu einem Professor der deutschen Sprache und Literatur hat mir <rs type="person" ref="doellinger-ignaz" key="doellinger-ignaz">Döllinger</rs> einen <rs type="person" ref="hofmann-konrad" key="hofmann-konrad">Dr. Konrad Hoffmann</rs> als einen jungen
                     Gelehrten empfohlen, der alle für dieses Fach erforderlichen Eigenschaften in
                     sich vereine. Ich werde mich noch näher nach ihm erkundigen, um dann Euer
                     Excellenz die gehörigen Mittheilungen hierüber machen zu können.<lb/>Ich gedenke
-                        <placeName ref="#place_d0a6343a081a7335baa965ce4fd0845c">München</placeName> am 13. dieses Monats zu verlassen; sollten
+                        <rs type="place" subtype="place" ref="#place_d0a6343a081a7335baa965ce4fd0845c">München</rs> am 13. dieses Monats zu verlassen; sollten
                     Hochdieselben mich noch mit einem Auftrag beehren wollen, so würde mich derselbe
                     dahier Schönfeldstraße Nr. 16 bis zum 12. erreichen.<lb/>Mit der
                     ausgezeichnetsten Hochachtung und Verehrung bestehe ich als</p>
@@ -96,8 +95,8 @@
                         habe, damit zugleich denn auch meine mir lieb gewordene Besitzung am
                         Ammersee aufzugeben. Daher habe ich auch im vorigen Jahre einen sehr
                         vortheilhaften Ruf nach <orgName key="universitaet-giessen">Gießen</orgName>, obgleich er mich meiner ursprünglichen Heimath näher
-                        gebracht hätte, abgelehnt. Allein die <placeName ref="#place_b2547ef2260da5616849719f119a3de9">Kaiserstadt</placeName> und
-                        der in frisch erneuter Kraft sich aufschwingende <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Kaiserstaat</country> übt anderseits eine solche Anziehungskraft aus,
+                        gebracht hätte, abgelehnt. Allein die <rs type="place" subtype="place" ref="#place_b2547ef2260da5616849719f119a3de9">Kaiserstadt</rs> und
+                        der in frisch erneuter Kraft sich aufschwingende <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Kaiserstaat</rs> übt anderseits eine solche Anziehungskraft aus,
                         daß sich dem Rufe dahin mein Ohr mehr und mehr zuneigte und gegenwärtig
                         schon in meinem Innern ein ziemlich vernehmliches Ja den Sieg nach dieser
                         Seite zu wenden scheint. Dabei gehe ich aber vor allem von der Voraussetzung
@@ -111,9 +110,9 @@
                         Einrichtung mir übrigens unbekannt ist, gewährt werde. Sodann wird mein
                         Entschluß natürlich bedingt sein durch Gewährung entsprechender pecuniärer
                         Vortheile. Wenn ich erwäge, daß mir in <orgName key="universitaet-giessen">Gießen</orgName> eine fixe Besoldung von 2.500 fl angeboten worden, daß
-                        in <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</placeName> notorisch das Leben
+                        in <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> notorisch das Leben
                         unverhältnismäßig theurer ist als dort und hier, daß ich auch durch die
-                        Übersiedlung nach <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</placeName> muthmaßlich hier
+                        Übersiedlung nach <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> muthmaßlich hier
                         bezüglich meines hiesigen Eigenthums nicht unerheblichen Verlust zu befahren
                         [sic!] habe, so glaube ich ohne Unbescheidenheit ein fixes Einkommen von
                         beiläufig 3.000 fl CM begehren zu können, indem ich dabei voraussetzen zu
@@ -125,7 +124,7 @@
                         sehr günstige Pensionsansprüche erworben habe. Ich wünschte über diesen
                         Punkt, namentlich was die Pensionen der Wittwe betrifft, noch erst genauere
                         Aufklärung zu haben. Übrigens wird wohl nicht daran gedacht werden, daß ich
-                        noch vor dem Herbst nach <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</placeName> übersiedeln
+                        noch vor dem Herbst nach <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> übersiedeln
                         solle. Es würde also noch Zeit genug sein, die nähern Bestimmungen genauer
                         zu formuliren, wenn anders die hohe k.k. Regierung nach vorstehender
                         vorläufiger Erklärung meiner Gesinnung mich nach <orgName key="universitaet-wien">Wien</orgName> zu berufen den ernstlichen Willen

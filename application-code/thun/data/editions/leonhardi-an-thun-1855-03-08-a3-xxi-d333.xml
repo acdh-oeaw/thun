@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="leonhardi-hermann" role="sender:gelehrter">Hermann
-                        Leonhardi</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="leonhardi-hermann" key="leonhardi-hermann" role="sender:gelehrter">Hermann
+                        Leonhardi</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, <date when="1855-03-08">08. März 1855</date>
+                    <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1855-03-08">08. März 1855</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -56,7 +55,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -70,16 +69,16 @@
                 </index>
                 <p>Hochgeborner Graf!</p>
                 <p>Dr. phil. <hi rend="ul">
-                        <persName key="schimper-karl-friedrich">Karl
-                            Schimper</persName> aus <placeName ref="#place_bd2b145b873049a539012fea08bfa71a">Mannheim</placeName>
+                        <rs type="person" ref="schimper-karl-friedrich" key="schimper-karl-friedrich">Karl
+                            Schimper</rs> aus <rs type="place" subtype="place" ref="#place_bd2b145b873049a539012fea08bfa71a">Mannheim</rs>
                     </hi> – (nicht zu
-                    verwechseln mit dem <persName key="schimper-wilhelm">abessinischen Reisenden und
-                        Statthalter in Ubis</persName>, seinem Bruder, noch mit dem <persName key="schimper-wilhelm-philipp">Preßburger Professor</persName> der Geologie
+                    verwechseln mit dem <rs type="person" ref="schimper-wilhelm" key="schimper-wilhelm">abessinischen Reisenden und
+                        Statthalter in Ubis</rs>, seinem Bruder, noch mit dem <rs type="person" ref="schimper-wilhelm-philipp" key="schimper-wilhelm-philipp">Preßburger Professor</rs> der Geologie
                     und Botanik, seinem Vetter) – <hi rend="ul">der berühmte Gründer der neuen
                         biologisch morphologischen Richtung der Naturforschung</hi>, insbesondre
                     auch der Botanik, ist <hi rend="ul">der einzig lebende Mann, der geeignet ist,
                         nicht nur</hi> wie sein berühmter botanischer Mitforscher Professor
-                        <persName key="braun-alexander">Alexander Braun</persName> in <orgName key="universitaet-berlin">Berlin</orgName>
+                        <rs type="person" ref="braun-alexander" key="braun-alexander">Alexander Braun</rs> in <orgName key="universitaet-berlin">Berlin</orgName>
                     <hi rend="ul">für Botanik, sondern zugleich für Physik und für die gesammte
                         Naturwissenschaft Schüler zu bilden in dieser neuen, bessern</hi>, dem
                     geistig-ethischen und religiösen, sowie dem darauf zu stützenden pädagogischen
@@ -98,12 +97,12 @@
                     Geltung noch anderer als der materiellen Interessen und dessen was menschlicher
                     Eitelkeit schmeichelt, <hi rend="ul">wissenschaftlich und zwar vom
                         naturwissenschaftlichen Boden selbst</hi> aus überzeugt werden, so ist
-                        <persName key="schimper-karl-friedrich">
+                        <rs type="person" ref="schimper-karl-friedrich" key="schimper-karl-friedrich">
                         <hi rend="ul">Karl
                         Schimper</hi>
-                    </persName> ein für <country ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</country>, der durch
+                    </rs> ein für <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs>, der durch
                     eine zeitgemäße Höherbildung des Universitätswesens im Geiste der Einen
-                    Wissenschaft ganz <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country>
+                    Wissenschaft ganz <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs>
                     <hi rend="ul">voranzuleuchten</hi> berufen scheint, unentbehrlicher <hi rend="ul">Mann</hi>.<lb/>Seine Physica pauperum, eine Anleitung zum Studium
                     der Naturgesetze und Kräfte auch ohne kostspielige künstliche Apparate, zumeist
                     mit Benutzung der von der Natur selbst auf Weg und Steg eingerichteten
@@ -127,7 +126,7 @@
                         und mit andern Forschungsgebieten harmonischen Naturerfassung</hi> – eine
                     Maßregel, die sich dazu noch auch ganz besonders mit Rücksicht auf <hi rend="ul">Pflege des geistig-ethischen Interesses unter den Studierenden der Medizin
                         empfiehlt</hi>, wie ich bereits vor einiger Zeit so frei war, dem Herrn
-                        <persName key="helfert-joseph-alexander">Unterstaatssekretär</persName>
+                        <rs type="person" ref="helfert-joseph-alexander" key="helfert-joseph-alexander">Unterstaatssekretär</rs>
                     brieflich auszusprechen und zwar unter Anführung mehrerer erfreulicher Erfolge,
                     die schon ich mit meiner verhältnismäßig geringen Kenntnis der
                     biologisch-morphologischen Methode an, die <orgName key="universitaet-prag">Prager Universität</orgName> besuchenden, von auswärtigen Professoren mir
@@ -135,7 +134,7 @@
                     hinzufügen, daß diese Wiederbesetzung, wie ich mich inzwischen zu überzeugen
                     Gelegenheit hatte, selbst als ein naturwissenschaftliches und allgemeines
                     Bildungsbedürfnis bereits von den urtheilsfähigeren Lehrern einzelner
-                    naturwissenschaftlicher Fächer empfunden wird.<lb/>Indem <persName key="schimper-karl-friedrich">Karl Schimper</persName>, ursprünglich
+                    naturwissenschaftlicher Fächer empfunden wird.<lb/>Indem <rs type="person" ref="schimper-karl-friedrich" key="schimper-karl-friedrich">Karl Schimper</rs>, ursprünglich
                     evangelisch theologischen Studiums und diesem nur durch seinen angebornen
                     Naturforscherberuf entzogen, ein Mann gründlicher klassischer und literarischer
                     Bildung, wie sie jetzt selten sind, überhaupt ein Mann von dem umfassendsten
@@ -146,47 +145,47 @@
                     historisch-philologischen und dem mathematisch-naturwissenschaftlichen; wie dieß
                     die rege Theilnahme berühmter Professoren verschiedener Fächer, zugleich mit
                     strebenden Jünglingen, Künstlern, Beamten, Militärs, an seinen (im Ganzen
-                    während eilf Jahren) zu <placeName ref="#place_d0a6343a081a7335baa965ce4fd0845c">München</placeName> gehaltenen Lehrkursen
+                    während eilf Jahren) zu <rs type="place" subtype="place" ref="#place_d0a6343a081a7335baa965ce4fd0845c">München</rs> gehaltenen Lehrkursen
                     beweist. <hi rend="ul">
-                        <persName key="schelling-friedrich-wilhelm">Schelling</persName>, <persName key="thiersch-friedrich-wilhelm">Thiersch</persName>, <persName key="oken-lorenz">Oken</persName>,
-                            <persName key="doellinger-ignaz">Döllinger</persName>, <persName key="schubert-gotthilf-heinrich">Schubert</persName>, <persName key="martius-carl">Martius</persName>, <persName key="zuccarini-joseph">Zuckarini</persName>, <persName key="hermann-gottfried">Herrmann</persName>, <persName key="foerster-heinrich">Förster</persName>, <persName key="massmann-hans-ferdinand">Maßmann</persName>
+                        <rs type="person" ref="schelling-friedrich-wilhelm" key="schelling-friedrich-wilhelm">Schelling</rs>, <rs type="person" ref="thiersch-friedrich-wilhelm" key="thiersch-friedrich-wilhelm">Thiersch</rs>, <rs type="person" ref="oken-lorenz" key="oken-lorenz">Oken</rs>,
+                            <rs type="person" ref="doellinger-ignaz" key="doellinger-ignaz">Döllinger</rs>, <rs type="person" ref="schubert-gotthilf-heinrich" key="schubert-gotthilf-heinrich">Schubert</rs>, <rs type="person" ref="martius-carl" key="martius-carl">Martius</rs>, <rs type="person" ref="zuccarini-joseph" key="zuccarini-joseph">Zuckarini</rs>, <rs type="person" ref="hermann-gottfried" key="hermann-gottfried">Herrmann</rs>, <rs type="person" ref="foerster-heinrich" key="foerster-heinrich">Förster</rs>, <rs type="person" ref="massmann-hans-ferdinand" key="massmann-hans-ferdinand">Maßmann</rs>
                     </hi> und andere waren zu Ende der zwanziger und
                     Anfang der dreißiger Jahre seine regelmäßigen Zuhörer. Die gemeinsame Wohnung
-                    der damaligen Studenten und jungen Doktoren: <persName key="schimper-karl-friedrich">Karl Schimper</persName>, <persName key="braun-alexander">Alexander Braun</persName> und <persName key="agassiz-louis">Agassiz</persName>, die daselbst mit dem Vortrage neuer
+                    der damaligen Studenten und jungen Doktoren: <rs type="person" ref="schimper-karl-friedrich" key="schimper-karl-friedrich">Karl Schimper</rs>, <rs type="person" ref="braun-alexander" key="braun-alexander">Alexander Braun</rs> und <rs type="person" ref="agassiz-louis" key="agassiz-louis">Agassiz</rs>, die daselbst mit dem Vortrage neuer
                     Ansichten und Entdeckungen wechselten, wurden mit ihren Bewohnern von jenen sie
                     besuchenden Münchner Akademikern „die kleine Akademie“ genannt, „bei der die
-                    große in die Schule geht“. Aus jener Zeit stammen unter Andern als <hi rend="ul">Schüler <persName key="schimper-karl-friedrich">Schimpers</persName>
+                    große in die Schule geht“. Aus jener Zeit stammen unter Andern als <hi rend="ul">Schüler <rs type="person" ref="schimper-karl-friedrich" key="schimper-karl-friedrich">Schimpers</rs>
                     </hi>
                     die, in der biologisch-morphologischen Richtung fortarbeitenden, dermaligen
                     Professoren der Botanik: <hi rend="ul">
-                        <persName key="wydler-heinrich">Wydler</persName>
+                        <rs type="person" ref="wydler-heinrich" key="wydler-heinrich">Wydler</rs>
                     </hi> in <orgName key="universitaet-bern">Bern</orgName>, <hi rend="ul">
-                        <persName key="sendtner-otto">Sendtner</persName>
+                        <rs type="person" ref="sendtner-otto" key="sendtner-otto">Sendtner</rs>
                     </hi> in <orgName key="universitaet-muenchen">München</orgName>, <hi rend="ul">
-                        <persName key="schnizlein-adalbert">Schnitzlein</persName>
-                    </hi> in <orgName key="universitaet-erlangen">Erlangen</orgName>.<lb/>Wie <persName key="schimper-karl-friedrich">Dr.
-                        Schimper</persName> vor dritthalb Jahren die <hi rend="ul">Versammlung der
-                        deutschen Naturforscher zu <placeName ref="#place_9974545279455eb03bf50b1b1b4d7fea">Wiesbaden</placeName> mit ganzen
+                        <rs type="person" ref="schnizlein-adalbert" key="schnizlein-adalbert">Schnitzlein</rs>
+                    </hi> in <orgName key="universitaet-erlangen">Erlangen</orgName>.<lb/>Wie <rs type="person" ref="schimper-karl-friedrich" key="schimper-karl-friedrich">Dr.
+                        Schimper</rs> vor dritthalb Jahren die <hi rend="ul">Versammlung der
+                        deutschen Naturforscher zu <rs type="place" subtype="place" ref="#place_9974545279455eb03bf50b1b1b4d7fea">Wiesbaden</rs> mit ganzen
                         Reihen neuer wichtiger, sowohl botanischer als physikalischer, Beobachtungen
                         aus bisher brachgelegenen Gebieten dieser Wissenschaften</hi> überraschte,
                     so hat sich sein vielseitig und mächtig anregender Geist allerneustens auch
                     wieder in <hi rend="ul">
-                        <placeName ref="#place_3667cbbafb66c626f2c1d56c1bd96d69">Jena</placeName>
+                        <rs type="place" subtype="place" ref="#place_3667cbbafb66c626f2c1d56c1bd96d69">Jena</rs>
                     </hi> bewährt, wohin er sich
                     vor etwa dreiviertel Jahren in einer wissenschaftlichen Angelegenheit,
-                    unterstützt vom <persName key="leopold-baden">Prinz Regenten von
-                        Baden</persName>, begab und wo ihn noch das Interesse verweilen läßt, das
+                    unterstützt vom <rs type="person" ref="leopold-baden" key="leopold-baden">Prinz Regenten von
+                        Baden</rs>, begab und wo ihn noch das Interesse verweilen läßt, das
                     die dortige wissenschaftliche Welt an seinen naturwissenschaftlichen Forschungen
                     im allgemeinen und an seinen Bereicherungen der physischen Kenntnis der dortigen
                     Gegend insbesondre nimmt. Von verschiedenen Ehrenbezeugungen, die ihm dort zu
                     Theil wurden, erwähne ich nur die Übergabe einer nach einem Daguerrotyp
                     gefertigten Zeichnung, ihn selbst darstellend vor seiner zahlreichen und
                     gelehrten Jenaer Zuhörerschaft. <lb/>
-                    <persName key="schimper-karl-friedrich">Dr.
-                        Karl Schimper</persName>, <hi rend="ul">ordentliches Mitglied der
+                    <rs type="person" ref="schimper-karl-friedrich" key="schimper-karl-friedrich">Dr.
+                        Karl Schimper</rs>, <hi rend="ul">ordentliches Mitglied der
                         leopoldinisch-carolinischen Akademie der Naturforscher</hi> und von den
                     Naturforschern aller Länder aufgesucht, <hi rend="ul">vermochte bisher in seinem
-                        engeren Vaterlande <country ref="#place_9a43e84f6e1d406076f2372205804f6d">Baden</country>
+                        engeren Vaterlande <rs type="place" subtype="country" ref="#place_9a43e84f6e1d406076f2372205804f6d">Baden</rs>
                     </hi>, dessen physischer
                     Erforschung er seit einer Reihe von Jahren mit besondrer Vorliebe oblag, keine
                     entsprechende Lehrstelle zu erlangen. Hauptsächlich weil er den kleineren
@@ -199,36 +198,36 @@
                     dürften sich aber jetzt gebessert haben und die Abneigung badnischer
                     Zunftgelehrter ihm nicht lange mehr mit Erfolg entgegenwirken.<lb/>Es sind
                     nämlich augenblicklich drei Professuren in Baden erledigt, die sich für
-                        <persName key="schimper-karl-friedrich">Dr. Schimper</persName> eignen:
-                    durch <persName key="bischoff-gottlieb-wilhelm">Bischoff’s</persName> Tod die
+                        <rs type="person" ref="schimper-karl-friedrich" key="schimper-karl-friedrich">Dr. Schimper</rs> eignen:
+                    durch <rs type="person" ref="bischoff-gottlieb-wilhelm" key="bischoff-gottlieb-wilhelm">Bischoff’s</rs> Tod die
                     Professur der Botanik in <orgName key="universitaet-heidelberg">Heidelberg</orgName>, wo in den letzten Wochen auch der talentvolle
-                    Privatdozent <persName key="hoefle-mark-aurel">Dr. Höfle</persName> gestorben
-                    ist; die gleiche Professur in <orgName key="universitaet-freiburg">Freiburg</orgName> durch den nun beschlossenen Abgang <persName key="naegeli-carl-wilhelm">Nägeli’s</persName> nach <orgName key="universitaet-zuerich">Zürich</orgName>, und gleichfalls in <orgName key="universitaet-freiburg">Freiburg</orgName> durch <persName key="fromherz-carl">Frommherz</persName> Tod die geologische
+                    Privatdozent <rs type="person" ref="hoefle-mark-aurel" key="hoefle-mark-aurel">Dr. Höfle</rs> gestorben
+                    ist; die gleiche Professur in <orgName key="universitaet-freiburg">Freiburg</orgName> durch den nun beschlossenen Abgang <rs type="person" ref="naegeli-carl-wilhelm" key="naegeli-carl-wilhelm">Nägeli’s</rs> nach <orgName key="universitaet-zuerich">Zürich</orgName>, und gleichfalls in <orgName key="universitaet-freiburg">Freiburg</orgName> durch <rs type="person" ref="fromherz-carl" key="fromherz-carl">Frommherz</rs> Tod die geologische
                     Professur.<lb/>Dazu kommt, daß Professor <hi rend="ul">
-                        <persName key="schleiden-matthias">Schleiden</persName>
+                        <rs type="person" ref="schleiden-matthias" key="schleiden-matthias">Schleiden</rs>
                     </hi> in <orgName key="universitaet-jena">Jena</orgName>, der die biologisch-morphologische
                     Richtung solange unterschätzte, als er sie nicht näher kannte, nunmehr im
-                    persönlichen Verkehr mit <persName key="schimper-karl-friedrich">Dr.
-                        Schimper</persName> eines Besseren belehrt, – als er kürzlich von Baden aus
+                    persönlichen Verkehr mit <rs type="person" ref="schimper-karl-friedrich" key="schimper-karl-friedrich">Dr.
+                        Schimper</rs> eines Besseren belehrt, – als er kürzlich von Baden aus
                     um Empfehlung eines Botanikers für <orgName key="universitaet-heidelberg">Heidelberg</orgName> angegangen wurde, nicht auf irgend einen Andern,
-                    sondern <hi rend="ul">auf den bisher dort verschmähten <persName key="schimper-karl-friedrich">Dr. Karl Schimper</persName> hinwies</hi>.
+                    sondern <hi rend="ul">auf den bisher dort verschmähten <rs type="person" ref="schimper-karl-friedrich" key="schimper-karl-friedrich">Dr. Karl Schimper</rs> hinwies</hi>.
                     Auch von <hi rend="ul">theologischer</hi> Seite interessiert man sich in
                         <orgName key="universitaet-heidelberg">Heidelberg</orgName>, wie ich direkt
-                    weiß, für <persName key="schimper-karl-friedrich">Schimpers</persName>
+                    weiß, für <rs type="person" ref="schimper-karl-friedrich" key="schimper-karl-friedrich">Schimpers</rs>
                     Anstellung an dortiger Universität. <hi rend="ul">Verwirklicht sich diese, so
-                        wird <persName key="schimper-karl-friedrich">Schimper’s</persName> Berufung
-                        nach <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> sicher weit
+                        wird <rs type="person" ref="schimper-karl-friedrich" key="schimper-karl-friedrich">Schimper’s</rs> Berufung
+                        nach <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> sicher weit
                         bedeutendere Auslagen erfordern, als mit welchen sie dermalen noch möglich
                         ist</hi>, wo ihn wohl der systemisirte Gehalt eines Ordinarius befriedigen
                     würde.<lb/>Hiemit glaube ich Euer Hochgeboren hinreichende Gründe für eine
-                    baldige Berufung <persName key="schimper-karl-friedrich">Dr. Karl
-                        Schimpers</persName> nach <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</country>
+                    baldige Berufung <rs type="person" ref="schimper-karl-friedrich" key="schimper-karl-friedrich">Dr. Karl
+                        Schimpers</rs> nach <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs>
                     und zwar an hiesige Universität dargelegt zu haben. Auch glaube ich nachgewiesen
                     zu haben, daß wenn dieser geniale Naturforscher und ausgezeichnete Lehrer ohne
                     größere Opfer für den Kaiserstaat gewonnen werden soll, bereits periculum in
                     mora ist.<lb/>Sehr geehrt würde ich mich fühlen, wenn Hochdieselben meiner
                     freimüthigen Darstellung Berücksichtigung zu Theil werden ließen, und vielleicht
-                    mich selbst zu beauftragen geruthen, mit Herrn <persName key="schimper-karl-friedrich">Dr. Schimper</persName> behufs seiner
+                    mich selbst zu beauftragen geruthen, mit Herrn <rs type="person" ref="schimper-karl-friedrich" key="schimper-karl-friedrich">Dr. Schimper</rs> behufs seiner
                     möglichen Berufung an <orgName key="universitaet-prag">hiesige
                         Universität</orgName> eine vorläufige Korrespondenz zu
                     eröffnen.<lb/>Genehmigen Euer Excellenz die Versicherung der ausgezeichneten

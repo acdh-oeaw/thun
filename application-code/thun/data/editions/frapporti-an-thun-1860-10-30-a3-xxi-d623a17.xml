@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="frapporti-joseph" role="sender:gelehrter">Joseph
-                        Frapporti</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="frapporti-joseph" key="frapporti-joseph" role="sender:gelehrter">Joseph
+                        Frapporti</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_48a09f4956b196a2489d69e3c117000d">Padua</placeName>, <date when="1860-10-30">30. Oktober 1860</date>
+                    <rs type="place" subtype="place" ref="#place_48a09f4956b196a2489d69e3c117000d">Padua</rs>, <date when="1860-10-30">30. Oktober 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -36,7 +35,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -48,7 +47,7 @@
                 <p>Euer Excellenz,</p>
                 <p>Ich hatte das Glück durch eilf Jahre im Lehrfache während des von Euer Excellenz
                     geführten Ministeriums in Verwendung zu stehen und bin nun durch die Veränderung
-                    schmerzlich berührt, daß Euer Excellenz aus Anlaß des von <persName key="franz-joseph">Seiner Majestät</persName> zugewiesenen neuen
+                    schmerzlich berührt, daß Euer Excellenz aus Anlaß des von <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät</rs> zugewiesenen neuen
                     Wirkungskreises ein Ministerium verlassen, dessen Chef den Unterricht und die
                     wissenschaftliche Bildung in religiöser und intellektueller Hinsicht auf eine
                     solche Stufe und zu solch' edler Blüthe gebracht hatte.<lb/>Da ich überdies die

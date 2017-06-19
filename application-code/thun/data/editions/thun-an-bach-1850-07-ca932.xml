@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="bach-alexander" role="recipient">Alexander
-                        Bach</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="bach-alexander" key="bach-alexander" role="recipient">Alexander
+                        Bach</rs>
                     <lb/>
-                    <placeName ref="#place_bf6573f6b4391f3dce0ade23235e6c4a">[Wien]</placeName>, <date when="1850-07">o.
+                    <rs type="place" subtype="place" ref="#place_bf6573f6b4391f3dce0ade23235e6c4a">[Wien]</rs>, <date when="1850-07">o.
                         D. [Juli 1850]</date>
                     <note xml:id="note_1">Das Datum ist mit Bleistift auf
                         dem Blatt vermerkt.</note>
@@ -30,7 +29,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -39,7 +38,7 @@
                     <term>Verwaltung</term>
                 </index>
                 <p>Lieber Bach!</p>
-                <p>Eben erhalte ich die Einladung zum heutigen Diner in <placeName key="schoenbrunn" ref="#place_42ab28f20850d0a6784eb688c875d846">Schönbrunn</placeName>. Könnten wir da nicht heute nach Tische zu der
+                <p>Eben erhalte ich die Einladung zum heutigen Diner in <rs type="place" subtype="place" key="schoenbrunn" ref="#place_42ab28f20850d0a6784eb688c875d846">Schönbrunn</rs>. Könnten wir da nicht heute nach Tische zu der
                     Besprechung bei Ihnen zusammenkommen, statt morgen wieder hinaus zu fahren!</p>
                 <p>Herzlich der Ihrige</p>
                 <p>Thun</p>

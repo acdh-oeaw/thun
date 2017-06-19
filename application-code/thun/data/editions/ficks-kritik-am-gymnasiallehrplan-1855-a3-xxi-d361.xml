@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Memorandum über den Zweck des Gymnasiums<lb/>von <persName key="fick-joseph">Joseph Fick</persName>[?]<note xml:id="note_1">Der Text ist nicht signiert.
+                <title>Memorandum über den Zweck des Gymnasiums<lb/>von <rs type="person" ref="fick-joseph" key="fick-joseph">Joseph Fick</rs>[?]<note xml:id="note_1">Der Text ist nicht signiert.
                         Am Ende findet sich jedoch die eh. Notiz von Leo Thun: "Dr. Fick. Kritik des
                         Gymn. Plans".</note>
                     <lb/>o. D. [1855]</title>
@@ -42,7 +41,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -221,7 +220,7 @@
                     politischen Parteikämpfe oder Staatsformen der alten Welt, deren naiver Vortrag,
                     wenn nur nicht von dem Lehrer absichtlich Anwendungen gemacht werden, ohne
                     Schaden ist – ein besonderes Gewicht gelegt, oder gar die Streitigkeiten der
-                    Patricier und Plebejer in Rom zu einem obligaten Lehrstück aus dem <persName key="livius">Livius</persName>, mit schon vorgeschriebener Nutzanwendung
+                    Patricier und Plebejer in Rom zu einem obligaten Lehrstück aus dem <rs type="person" ref="livius" key="livius">Livius</rs>, mit schon vorgeschriebener Nutzanwendung
                     gemacht werden.<lb/>Mit jedem gründlichen Vortrage der Geographie erklärt sich
                     der Humanistische Standpunkt mit Vergnügen einverstanden, er fürchtet nur
                     allein, daß etwa in übergroßer Sorgfalt fürs praktische Leben, den industriellen

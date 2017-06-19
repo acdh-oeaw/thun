@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="pino-francesco" role="sender:beamter">Francesco
-                        Pino</persName> an <persName key="elisabeth" role="recipient">Kaiserin
-                        Elisabeth</persName>
+                    <rs type="person" ref="pino-francesco" key="pino-francesco" role="sender:beamter">Francesco
+                        Pino</rs> an <rs type="person" ref="elisabeth" key="elisabeth" role="recipient">Kaiserin
+                        Elisabeth</rs>
                     <lb/>
-                    <placeName ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</placeName>, <date when="1854-06-13">13. Juni 1854</date>
+                    <rs type="place" subtype="place" ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</rs>, <date when="1854-06-13">13. Juni 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -39,7 +38,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -68,10 +67,10 @@
                     maggiore attaccato da dolori artritici generali da 26 anni a questa parte che lo
                     rende incapace di lavorare, e persino di muoversi, non percependo [?] che la
                     semplice paga senza alcun altro sussidio, per tutte queste identiche verità Sua
-                    Maestà <persName key="franz-I-II">Francesco Primo</persName> (di felice memoria)
+                    Maestà <rs type="person" ref="franz-I-II" key="franz-I-II">Francesco Primo</rs> (di felice memoria)
                     lo graziava ogni anno dell’Imperiale Gratificazione di fiorini 50: Cinquanta
-                    Monete di Convenzione. Sua Maestà <persName key="ferdinand-I-oesterreich">Ferdinando Primo</persName> rimunerava il povero Veterano della medesima
-                    annua Gratificazione, e l’Imperiale Maestà di <persName key="franz-joseph">Francesco Giuseppe</persName> Gloriosamente Regnante degnosi egli pure [?]
+                    Monete di Convenzione. Sua Maestà <rs type="person" ref="ferdinand-I-oesterreich" key="ferdinand-I-oesterreich">Ferdinando Primo</rs> rimunerava il povero Veterano della medesima
+                    annua Gratificazione, e l’Imperiale Maestà di <rs type="person" ref="franz-joseph" key="franz-joseph">Francesco Giuseppe</rs> Gloriosamente Regnante degnosi egli pure [?]
                     di graziare il Sottoscritto dalla medesima Gratificazione fino lo scorso anno
                     1853: ma in quest’anno che più si fanno sentire i bisogni e le contingenze in
                     quest’anno, che mette il misero sottoscritto alla assoluta disperazione per non

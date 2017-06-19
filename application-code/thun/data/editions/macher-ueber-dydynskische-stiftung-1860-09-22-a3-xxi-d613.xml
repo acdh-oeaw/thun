@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="macher-andreas" role="sender:beamter">Andreas Macher
-                    </persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="macher-andreas" key="macher-andreas" role="sender:beamter">Andreas Macher
+                    </rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_fafa41f7e32d84b3a419ca848a2b0880">Krakau</placeName>, <date when="1860-09-22">22. September 1860</date>
+                    <rs type="place" subtype="place" ref="#place_fafa41f7e32d84b3a419ca848a2b0880">Krakau</rs>, <date when="1860-09-22">22. September 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -48,7 +47,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -66,20 +65,20 @@
                     Angelegenheit betreffenden Geschäftsstücke betraut, und besichtigte den
                     Stiftungsfond Godowa im Jahre 1856, daher mir der ganze Sachverhalt sehr genau
                     bekannt ist. Der Umstand, daß die betreffende Verhandlungs-Akten bereits nach
-                        <placeName key="lemberg" ref="#place_3ff694e5c82611cda53341a9bae21735">Lemberg</placeName> abgeschickt wurden und ich mir
+                        <rs type="place" subtype="place" key="lemberg" ref="#place_3ff694e5c82611cda53341a9bae21735">Lemberg</rs> abgeschickt wurden und ich mir
                     einige Daten erst auf anderem Wege verschaffen mußte, ist Ursache, daß diese
                     Darstellung Euer Excellenz so spät zukommt!</p>
                 <p>Krakau, am 22. September 1860.</p>
                 <div type="enclosure" xml:id="D613_1">
                     <p>Krakau, den 17. September 1860</p>
-                    <p>Der Herr Reichsrat <persName key="starowiejski-biberstein-stanislaus">Starowiejski von Biberstein</persName> hat in der Sitzung vom 11.
+                    <p>Der Herr Reichsrat <rs type="person" ref="starowiejski-biberstein-stanislaus" key="starowiejski-biberstein-stanislaus">Starowiejski von Biberstein</rs> hat in der Sitzung vom 11.
                         September 1860 zu dem Budget für das <orgName key="ministerium-fuer-kultus-und-unterricht">Ministerium des Cultus und
                             Unterrichtes</orgName> die Bemerkung gemacht, daß seines Wissens
                         Privatstiftungen, welche zur Ausbildung der Jugend gewidmet sind, dieser
                         Bestimmung nicht immer zugeführt würden, wodurch der Wille des Stifters
                         vereitelt werde. Er müsse zur Unterstützung dieser Behauptung auf eine
-                        Stiftung in <region ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</region> hinweisen, welche im Jahre 1808 von
-                        einem gewissen <persName key="dydynski-anton">Dydynski</persName> errichtet
+                        Stiftung in <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs> hinweisen, welche im Jahre 1808 von
+                        einem gewissen <rs type="person" ref="dydynski-anton" key="dydynski-anton">Dydynski</rs> errichtet
                         und zur Erhaltung von 4 Jünglingen aus adeligen Geschlechtern bestimmt
                         wurde. Diese sei im Jahre 1860 noch nicht ins Leben getreten. Im Stiftbriefe
                         heiße es, daß die Stiftung durch einen Curator verwaltet werden und unter
@@ -103,88 +102,88 @@
                         mitgetheilt wurden, die einen ganz ungegründeten Vorwurf gegen die
                         Regierungs-Behörden involvieren und durch die Tagespresse leider schon der
                         Öffentlichkeit übergeben wurden.<lb/>Es hat seine Richtigkeit, daß diese
-                        Stiftung im Jahre 1808 von <persName key="dydynski-anton">Anton
-                            Dydynski</persName> gegründet wurde und bis nun noch nicht ins Leben
+                        Stiftung im Jahre 1808 von <rs type="person" ref="dydynski-anton" key="dydynski-anton">Anton
+                            Dydynski</rs> gegründet wurde und bis nun noch nicht ins Leben
                         trat. Doch würde man sehr irren, wollte man die Ursache dieser auffallenden
                         Verzögerung in einer etwa ordnungswidrigen Behandlung dieser
                         Stiftungsangelegenheit seitens der Regierungsbehörden suchen. Der
                         eigentliche Grund liegt in ganz andern Umständen, wie dies aus nachfolgender
                         Darstellung zu entnehmen ist.<lb/>
-                        <persName key="dydynski-anton">Anton von
-                            Dydynski</persName> hat mittelst der in lateinischer Sprache verfaßten
+                        <rs type="person" ref="dydynski-anton" key="dydynski-anton">Anton von
+                            Dydynski</rs> hat mittelst der in lateinischer Sprache verfaßten
                         Urkunde vom 2. Februar 1808, das ihm gehörige Gut
-                            <placeName ref="#place_1f4618e511a0092e1476716e8a76a84c">Godowa</placeName> (<placeName key="jaslo" ref="#place_07169bb4bd949dbcbb526e756fb7980c">Jasloer</placeName> Kreis) zur Gründung einer Familienstiftung gewidmet
+                            <rs type="place" subtype="place" ref="#place_1f4618e511a0092e1476716e8a76a84c">Godowa</rs> (<rs type="place" subtype="place" key="jaslo" ref="#place_07169bb4bd949dbcbb526e756fb7980c">Jasloer</rs> Kreis) zur Gründung einer Familienstiftung gewidmet
                         und in den Punkten I. II. und IV. bestimmt, daß 4 Jünglinge und zwar
                         Namensverwandte des Stifters (de nomine meo) und in Ermangelung derselben
                         Namensverwandte der Gattin des Stifters (Rosnowska) und beim Mangel auch
                         dieser Verwandten 4 andere adelige und eheliche Jünglinge aus den Einkünften
-                        des Gutes <placeName ref="#place_1f4618e511a0092e1476716e8a76a84c">Godowa</placeName> so lange erhalten werden sollen, bis
+                        des Gutes <rs type="place" subtype="place" ref="#place_1f4618e511a0092e1476716e8a76a84c">Godowa</rs> so lange erhalten werden sollen, bis
                         sie einen sichern Lebensunterhalt oder ein öffentliches Amt erlangt haben
                         werden. Der Administrator dieses Institutes hat mittelst des in den
                         Zeitungsblättern einzuschaltenden Edicts den Concurs zur Besetzung der vier
                         Stiftungsplätze auszuschreiben und die sich meldenden Jünglinge vom 7. bis
-                        11. Lebensjahr aufzunehmen. Das Gut <placeName ref="#place_1f4618e511a0092e1476716e8a76a84c">Godowa</placeName> soll nie
+                        11. Lebensjahr aufzunehmen. Das Gut <rs type="place" subtype="place" ref="#place_1f4618e511a0092e1476716e8a76a84c">Godowa</rs> soll nie
                         veräußert, sondern stets administriert werden.<lb/>Zum ersten Administrator
-                        ernannte der Stifter seinen Freund, den gewesenen Grenzkämmerer <persName key="niedzwiecki-rafael">Rafael von Niedzwiecki</persName>. In Hinkunft
+                        ernannte der Stifter seinen Freund, den gewesenen Grenzkämmerer <rs type="person" ref="niedzwiecki-rafael" key="niedzwiecki-rafael">Rafael von Niedzwiecki</rs>. In Hinkunft
                         soll der Administrator vom betreffenden Landrechte bestättigt werden und bei
                         diesem den Eid der Treue leisten. Im Punkte X. der Stiftungsurkunde wurde
-                        festgesetzt, daß der erste Administrator <persName key="niedzwiecki-rafael">Niedzwiecki</persName> von jeder Rechnungslage befreit werde; dagegen
+                        festgesetzt, daß der erste Administrator <rs type="person" ref="niedzwiecki-rafael" key="niedzwiecki-rafael">Niedzwiecki</rs> von jeder Rechnungslage befreit werde; dagegen
                         solle jeder nachfolgende Administrator dem betreffenden Landrechte
                         alljährlich Rechnung legen, und zugleich über Moralität und Fortgang der
                         Stiftlinge Bericht erstatten.<lb/>Im Punkte XI. wurde ferner bestimmt, daß
                         dieses Institut nicht eher eröffnet werde, als bis der zwischen dem Stifter
-                        und dem <persName key="niedzwiecki-rafael">Rafael von Niedzwiecki</persName>
+                        und dem <rs type="person" ref="niedzwiecki-rafael" key="niedzwiecki-rafael">Rafael von Niedzwiecki</rs>
                         abgeschlossenen Vertrag aufgehört und Letzterer den Zeitpunkt zur Eröffnung
-                        dieses Institutes bestimmt haben wird.<lb/>In dem zwischen <persName key="dydynski-anton">Anton von Dydynski</persName> und <persName key="niedzwiecki-rafael">Rafael von Niedzwiecki</persName>
+                        dieses Institutes bestimmt haben wird.<lb/>In dem zwischen <rs type="person" ref="dydynski-anton" key="dydynski-anton">Anton von Dydynski</rs> und <rs type="person" ref="niedzwiecki-rafael" key="niedzwiecki-rafael">Rafael von Niedzwiecki</rs>
                         abgeschlossenen Vertrage vom 4. Februar 1808, wovon mir eine beglaubigte
                         Abschrift vorliegt, wurde (Punkt 10) bestimmt, daß erst dann, wenn die auf
-                        dem Gute <placeName ref="#place_1f4618e511a0092e1476716e8a76a84c">Godowa</placeName> intabulierte Forderung des <persName key="dydynski-stanislaus">Stanislaus von Dydynski</persName> pro[?]
-                        34.000 fl [?] und die Forderung des <persName key="dydynski-ignaz">Ignaz
-                            von Dydynski</persName> pro 100.000 fl in Banknoten bezahlt, ferner die
+                        dem Gute <rs type="place" subtype="place" ref="#place_1f4618e511a0092e1476716e8a76a84c">Godowa</rs> intabulierte Forderung des <rs type="person" ref="dydynski-stanislaus" key="dydynski-stanislaus">Stanislaus von Dydynski</rs> pro[?]
+                        34.000 fl [?] und die Forderung des <rs type="person" ref="dydynski-ignaz" key="dydynski-ignaz">Ignaz
+                            von Dydynski</rs> pro 100.000 fl in Banknoten bezahlt, ferner die
                         im Punkte 5 und 6 angeführten Gebäude (Bräuhaus, Speicher und Kapelle des St.
-                        Michael auf dem Friedhofe in <placeName ref="#place_6f7ec601e2433726ee7ed81a99a9a00d">Strzyzów</placeName>) hergestellt
-                        sein werden, der Administrator <persName key="niedzwiecki-rafael">Niedzwiecki</persName> diese Stiftung zu eröffnen haben wird.<lb/>Durch
+                        Michael auf dem Friedhofe in <rs type="place" subtype="place" ref="#place_6f7ec601e2433726ee7ed81a99a9a00d">Strzyzów</rs>) hergestellt
+                        sein werden, der Administrator <rs type="person" ref="niedzwiecki-rafael" key="niedzwiecki-rafael">Niedzwiecki</rs> diese Stiftung zu eröffnen haben wird.<lb/>Durch
                         diese Stipulation hat schon der Stifter selbst den Zeitpunkt zur Aktivierung
-                        der Stiftung in eine sehr weite Ferne hinausgeschoben. <persName key="niedzwiecki-rafael">Niedzwiecki</persName> administrierte
-                            <placeName ref="#place_1f4618e511a0092e1476716e8a76a84c">Godowa</placeName> bis zum Jahre 1822. Kurz vor seinem Tode
-                        überließ er das Stiftungsgut dem <persName key="romer-josef">Josef
-                            Romer</persName> auf 6 Jahre in Pacht. Bis zum Jahre 1828 – also durch
+                        der Stiftung in eine sehr weite Ferne hinausgeschoben. <rs type="person" ref="niedzwiecki-rafael" key="niedzwiecki-rafael">Niedzwiecki</rs> administrierte
+                            <rs type="place" subtype="place" ref="#place_1f4618e511a0092e1476716e8a76a84c">Godowa</rs> bis zum Jahre 1822. Kurz vor seinem Tode
+                        überließ er das Stiftungsgut dem <rs type="person" ref="romer-josef" key="romer-josef">Josef
+                            Romer</rs> auf 6 Jahre in Pacht. Bis zum Jahre 1828 – also durch
                         20 Jahre wurden keine der obigen Bedingungen von denen das Inslebentreten
                         der Stiftung abhängig gemacht wurde, erfüllt. Der Zustand der
                         Stiftungsgebäude war ein erbärmlicher. Im Jahre 1828 wurde die
-                        Administration des Stiftungsgutes <placeName ref="#place_1f4618e511a0092e1476716e8a76a84c">Godowa</placeName> dem
-                            <persName key="dydynski-anton-verwandter">Anton von Dydynski</persName>
+                        Administration des Stiftungsgutes <rs type="place" subtype="place" ref="#place_1f4618e511a0092e1476716e8a76a84c">Godowa</rs> dem
+                            <rs type="person" ref="dydynski-anton-verwandter" key="dydynski-anton-verwandter">Anton von Dydynski</rs>
                         einem Verwandten des Stifters übertragen. Gleich nach Übername der
                         Administration wurde wegen der Forderung pro 34.000 fl das
                         Executionsverfahren auf Godowa eingeleitet und bis zur gerichtlichen
-                        Abschätzung fortgeführt. Dem Administrator <persName key="dydynski-anton-verwandter">Anton Dydynski</persName> gelang es
+                        Abschätzung fortgeführt. Dem Administrator <rs type="person" ref="dydynski-anton-verwandter" key="dydynski-anton-verwandter">Anton Dydynski</rs> gelang es
                         jedoch, dieses Kapital theils aus den Stiftungsrenten theils aus Eigenem
                         aufzutreiben und diese Forderung zu befriedigen. Er wollte dem Willen des
                         Stifters wenigstens theilweise entsprechen und verabreichte durch 8 Jahre
                         aus den Stiftungsrenten Handstipendien a 100 fl Cmze an 6 adelige Jünglinge
-                        und zwar Ludwig, Marcell, Leopold, Zygmunt, Leo und <persName key="dydynski-nicodem">Nicodem Dydynski</persName> – letzterer ist der
+                        und zwar Ludwig, Marcell, Leopold, Zygmunt, Leo und <rs type="person" ref="dydynski-nicodem" key="dydynski-nicodem">Nicodem Dydynski</rs> – letzterer ist der
                         gegenwärtige Stiftungsadministrator. Die Fondsmittel waren jedoch durch die
-                        dringend gewesenen Bauten derart in Anspruch genommen, daß <persName key="dydynski-anton-verwandter">Anton Dydynski</persName> mit der
+                        dringend gewesenen Bauten derart in Anspruch genommen, daß <rs type="person" ref="dydynski-anton-verwandter" key="dydynski-anton-verwandter">Anton Dydynski</rs> mit der
                         weiteren Verleihung dieser Handstipendien aufhören musste.<lb/>Im Jahre
-                        1845 war das bestandene <placeName key="lemberg" ref="#place_3ff694e5c82611cda53341a9bae21735">Lemberger</placeName>
+                        1845 war das bestandene <rs type="place" subtype="place" key="lemberg" ref="#place_3ff694e5c82611cda53341a9bae21735">Lemberger</rs>
                         Landesgubernium nahe daran, diese Stiftung, welcher damals jede
                         Lebensfähigkeit zu fehlen schien, ihrem Schicksale zu überlassen. Doch hat
                         die kk. Studienhof-Commission diese Angelegenheit einer sorgfältigen Prüfung
                         unterzogen und dem Landesgubernium die Richtung vorgezeichnet, in welcher
                         dieselbe mit Aussicht auf ein erfreuliches Resultat weiter zu behandeln
                         wäre. Zur Erzielung derselben fand man es für nothwendig die Administration
-                        des <persName key="dydynski-anton-verwandter">Anton von Dydynski</persName>
+                        des <rs type="person" ref="dydynski-anton-verwandter" key="dydynski-anton-verwandter">Anton von Dydynski</rs>
                         aufzuheben, was im Jahre 1850 stattfand. Wie traurig es bis zu diesem Jahre
                         um die Dydynskische Familienstiftung stand, möge aus dem Umstand entnommen
                         werden, daß bis dahin sämmtliche Stiftungsrenten durch die Bauten erschöpft
-                        wurden, und der Administrator <persName key="dydynski-anton-verwandter">Anton von
-                            Dydynski</persName>, welcher dabei auch sein eigenes Gut
-                            <placeName ref="#place_c1bcd21d8f5cbe7db3b740d7ded72c4e">Sieklówka</placeName> einbüßte, eine Forderung von ungefährt
+                        wurden, und der Administrator <rs type="person" ref="dydynski-anton-verwandter" key="dydynski-anton-verwandter">Anton von
+                            Dydynski</rs>, welcher dabei auch sein eigenes Gut
+                            <rs type="place" subtype="place" ref="#place_c1bcd21d8f5cbe7db3b740d7ded72c4e">Sieklówka</rs> einbüßte, eine Forderung von ungefährt
                         20.000 fl Cmz gegenüber dem Stiftungsfond liquidierte. Hierüber wurde der
                         Rechnungsprozess anhängig gemacht, welcher schon aus dem Grund verzögert
                         werden mußte, weil die vom Administrator bis zum Jahre 1848 gelegten und der
                         Staatsbuchhaltung übergebenen Rechnungen bei Gelegenheit des Bombardement von
-                            <placeName ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</placeName> ein Raub der Flammen wurden und auf
+                            <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs> ein Raub der Flammen wurden und auf
                         langem Wege durch Dupplicate ergänzt werden mußten.<lb/>Im Jahre 1850
                         übernahm die Regierung resp. das Jasloer kk. Kreisamt die Verwaltung des
                         Stiftungsgutes Godowa, welches in 2 Sectionen verpachtet wurde und erst mit
@@ -196,16 +195,16 @@
                         nur ein Pachtschilling von 1250 fl CM erzielt.<lb/>Bemüht, die Stiftung ganz
                         im Sinne des Stifters sobald als möglich zu eröffnen, hat das hohe <orgName key="ministerium-fuer-kultus-und-unterricht">kk.
                             Unterrichts-Ministerium</orgName> im November 1857 einen
-                        Stiftungs-Administrator in der Person des <persName key="dydynski-nicodem">Nicodem Ritter von Dydynski</persName> provisorisch bestellt, welcher
+                        Stiftungs-Administrator in der Person des <rs type="person" ref="dydynski-nicodem" key="dydynski-nicodem">Nicodem Ritter von Dydynski</rs> provisorisch bestellt, welcher
                         sein neues wichtiges Amt am 1. Jänner 1858 übernam. Bei den redlichsten
                         Bestrebungen der Regierungsbehörden und den eifrigsten Bemühungen des
                         genannten Administrators war es bis nun durchaus unthunlich diese Stiftung
                         ihrem ganzen Umfange schon zu aktivieren. Die oben erwähnten zwei
                         Forderungen pro 34.000 fl und 100.000 fl in Banknoten sind zwar bereits
                         getilgt, doch sind auch beide Sekzionen des Stiftungsgutes
-                            <placeName ref="#place_1f4618e511a0092e1476716e8a76a84c">Godowa</placeName> sehr viele kostspielige Bauten, dringend
+                            <rs type="place" subtype="place" ref="#place_1f4618e511a0092e1476716e8a76a84c">Godowa</rs> sehr viele kostspielige Bauten, dringend
                         nothwendig, ferner ist die Kapelle des h. Michael noch immer nicht
-                        hergestellt, der Rechnungsprozess des gewesenen Administrators <persName key="dydynski-anton-verwandter">Anton Dydynski</persName> noch lange
+                        hergestellt, der Rechnungsprozess des gewesenen Administrators <rs type="person" ref="dydynski-anton-verwandter" key="dydynski-anton-verwandter">Anton Dydynski</rs> noch lange
                         nicht beendet, endlich daß für aufgehobene Urbarialleistungen dem
                         Stiftungsfonde gebührende Entschädigungcapital pro 35.000 fl CM ungeachtet
                         wiederholter Betreibungen dem Fonde gerichtlich noch nicht zugewiesen. Bei
@@ -214,7 +213,7 @@
                         der Stiftung auslangen dürften. Nach einer bei der hiesigen kk.
                         Landeshauptkasse bei mir eingeholten Auskunft beträgt der Kassarest im
                         Dydynskischen Stiftungsfond bis 20. September 1860 in Barem 104 fl 17 kr.
-                        und in Obligationen 20.270 fl.<lb/>Die bestandene <placeName key="krakau" ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Krakauer</placeName> kk. Landes-Regierung beabsichtigte schon jetzt ein
+                        und in Obligationen 20.270 fl.<lb/>Die bestandene <rs type="place" subtype="place" key="krakau" ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Krakauer</rs> kk. Landes-Regierung beabsichtigte schon jetzt ein
                         Lebenszeichen dieser Stiftung zu geben und stellte in den letzten Tagen
                         August laufenden Jahres ans <orgName key="ministerium-fuer-kultus-und-unterricht">Hohe
                             Unterrichtsministerium</orgName> den Antrag, daß vorläufig 2

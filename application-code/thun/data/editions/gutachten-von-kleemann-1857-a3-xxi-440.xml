@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Gutachten von <persName key="kleemann-johann">Johann Kleemann</persName> zur
+                <title>Gutachten von <rs type="person" ref="kleemann-johann" key="kleemann-johann">Johann Kleemann</rs> zur
                         Gymnasialreform<lb/>
                     <date when="1857">o. D. [1857/58]</date>
                     <note xml:id="note_1">Das Gutachten ist im Nachlass auf das Jahr 1857 datiert. Die
@@ -45,7 +44,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -77,13 +76,13 @@
                     zuwenden, muß zugestanden werden; sie bestand aber auch und in vielleicht
                     größerem Umfange vor der Reform der Gymnasien. Ursache hiefür ist nicht der
                     Lehrergehalt; dieselbe liegt in der Wesenheit des Lehramtes für Mittelschulen
-                    und in den eigenthümlichen Grundanschauungen, welche in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> über Bildung und Beruf herrschen.
+                    und in den eigenthümlichen Grundanschauungen, welche in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> über Bildung und Beruf herrschen.
                     Während in Deutschland als Regel anzunehmen ist, daß nur der Bemittelte
-                    "studiere", kann in Betreff <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</country>
+                    "studiere", kann in Betreff <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs>
                     ohne Übertreibung behauptet werden, daß zwei Drittel der Gymnasialschüler nicht
                     so viele Mittel von zu Hause besitzen, um damit die mit dem Gymnasialstudium
-                    verbundenen Auslagen bestreiten zu können. (<placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>
-                    ausgenommen, aber <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> kann hier weder den Maßstab noch
+                    verbundenen Auslagen bestreiten zu können. (<rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>
+                    ausgenommen, aber <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> kann hier weder den Maßstab noch
                     den Ausschlag geben.) Wer kein Vermögen besitzt, läßt eben deshalb seine Söhne
                     studieren; bemittelte oder gar wohlhabende Familien betrachten eben weil ihre
                     Söhne Mittel zur selbständigen Existenz zu erwarten haben, das Studieren an
@@ -123,7 +122,7 @@
                     man in anderen Ständen als jenen des Lehramts so viele Männer findet, die in
                     literärischen und wissenschaftlichen Kreisen sich einen rühmlichen Namen
                     erworben haben.<lb/>Eine dritte Ursache liegt in der hergebrachten bürgerlichen
-                    und sozialen Stellung der Lehrer. Das Ansehen des Lehrstandes in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> war und ist verhältnißmäßig ein
+                    und sozialen Stellung der Lehrer. Das Ansehen des Lehrstandes in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> war und ist verhältnißmäßig ein
                     geringes. Mag die moralische Achtung, die derselbe genießt auch noch so
                     ehrenvoll sein, die äußere Ehre in der bürgerlichen Gesellschaft und neben
                     anderen Beamten reduziert sich auf das kleinste unerläßliche Maß. Der
@@ -158,9 +157,9 @@
                         Lehrer</hi>, um welche gegenwärtig sich der Bedarf bloß an den mit
                     weltlichen Lehrer besetzten, von der Regierung unmittelbar abhängigen Gymnasien
                     gesteigert hat. Hiebei sind, wie gesagt, die Ordensgymnasien, die
-                    protestantischen Gymnasien in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country>, die zum Theile mit
-                    weltlichen Lehrern besetzten katholischen Gymnasien in <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</region>, die Gymnasien der Militärgränze
-                    und des <region key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">venetianischen Königreichs</region>,
+                    protestantischen Gymnasien in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, die zum Theile mit
+                    weltlichen Lehrern besetzten katholischen Gymnasien in <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>, die Gymnasien der Militärgränze
+                    und des <rs type="place" subtype="region" key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">venetianischen Königreichs</rs>,
                     dann jene Volksschulräthe nicht gerechnet, welche, wie Lankossky, Linzlaner[?],
                     Bojdoch[?]) dem Gymnasiallehrstande entnommen wurden.<lb/>In Anbetracht dieser
                     Ziffer muß man die gedachten Kosten als eine Nothwendigkeit, aber zugleich als
@@ -218,8 +217,8 @@
                     Korrepetitionsgelder angesehen werden kann, läßt sich nicht in Abrede stellen,
                     da an manchem Gymnasium diese Gelder wenigsten das doppelte betrugen. Allein
                     dieß war nur an den übermäßig besuchten Gymnasien zu
-                    <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, <placeName ref="#place_e33aa4ba5c56cc07714ea6d6520cf548">Brünn</placeName>,
-                        <placeName ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</placeName> und <placeName ref="#place_4c08517eb5fb97b0e860b2e0b82d5f05">Laibach</placeName> der Fall.
+                    <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <rs type="place" subtype="place" ref="#place_e33aa4ba5c56cc07714ea6d6520cf548">Brünn</rs>,
+                        <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs> und <rs type="place" subtype="place" ref="#place_4c08517eb5fb97b0e860b2e0b82d5f05">Laibach</rs> der Fall.
                     Dagegen muß nicht übersehen werden, daß nunmehr auch die Pension um 200 fl. CM
                     erhöht ist.<lb/>2. bei Beförderung und Vorrückung in einen höheren Gehalt
                     bleiben die bereits erworbenen Dezennalzulagen <hi rend="ul">unverkürzt</hi>.
@@ -299,11 +298,11 @@
                     genüge der für mich erfreulichen Thatsache zu erwähnen, daß die von mir als
                     ehemaligem Schulrathe und als inspizierendem Ministerial-Comissär veranlaßten
                     Vereine zur Unterstützung armer, braver und fleißiger Gymnasialschüler in vielen
-                    Städten (<placeName ref="#place_4e67f300598f977a698defa89fe4e7bf">Cilli</placeName> [<placeName ref="#place_1563f0890ca9564b24de375c526e50eb">Celje</placeName>], Marburg
-                        [<placeName ref="#place_a12dd3982304a79b79376cd332e03ce7">Maribor</placeName>], Gratz [<placeName ref="#place_ca7668a05b2a3dbf29ca3d768c0febe8">Graz</placeName>],
-                        <placeName ref="#place_a620921af9eef09d01368fb2c1a2fd88">Agram</placeName>, <placeName ref="#place_ea6515eca27ae68c06c82e8cc2a6d318">Salzburg</placeName>,
-                        <placeName ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</placeName> [<placeName ref="#place_d4ec090cfd48a471d8eadbce16f43c0c">Opava</placeName>],
-                        <placeName ref="#place_a87c18c322f6b2feece9018bcd4027e5">Olmütz</placeName> [Olomouc] u.a.) sehr viel Anklang gefunden und
+                    Städten (<rs type="place" subtype="place" ref="#place_4e67f300598f977a698defa89fe4e7bf">Cilli</rs> [<rs type="place" subtype="place" ref="#place_1563f0890ca9564b24de375c526e50eb">Celje</rs>], Marburg
+                        [<rs type="place" subtype="place" ref="#place_a12dd3982304a79b79376cd332e03ce7">Maribor</rs>], Gratz [<rs type="place" subtype="place" ref="#place_ca7668a05b2a3dbf29ca3d768c0febe8">Graz</rs>],
+                        <rs type="place" subtype="place" ref="#place_a620921af9eef09d01368fb2c1a2fd88">Agram</rs>, <rs type="place" subtype="place" ref="#place_ea6515eca27ae68c06c82e8cc2a6d318">Salzburg</rs>,
+                        <rs type="place" subtype="place" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> [<rs type="place" subtype="place" ref="#place_d4ec090cfd48a471d8eadbce16f43c0c">Opava</rs>],
+                        <rs type="place" subtype="place" ref="#place_a87c18c322f6b2feece9018bcd4027e5">Olmütz</rs> [Olomouc] u.a.) sehr viel Anklang gefunden und
                     gedeihen, indem nicht bloß der Unterstützungsfond jährlich vermehrt, sondern
                     unter Obsorge und Leitung der Lehrkörper, insbesondere der Religionslehrer,
                     wobei dieselben zugleich mehr Einfluß auf die häusliche sittliche Erziehung und
@@ -320,9 +319,9 @@
                     lassen. Ein hoher Schulgeld-Ansatz und eine indirekte Ausschließung fähiger
                     Schüler vom Gymnasialstudium bloß deshalb weil sie mittellos sind, widerstreitet
                     aber sehr den festgewurzelten hergebrachten Anschauungen der Provinz- und selbst
-                    Städtebevölkerungen in <country ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</country>. Eine solche Maßregel
+                    Städtebevölkerungen in <rs type="place" subtype="country" ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</rs>. Eine solche Maßregel
                     dürfte für Oberrealschulen für gerechtfertigter und gerathener gehalten werden.
-                    Trotzdem möchte ich, soweit meine Kenntnis <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</country> Verhältnisse reicht, zweifeln, daß die betreffenden
+                    Trotzdem möchte ich, soweit meine Kenntnis <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> Verhältnisse reicht, zweifeln, daß die betreffenden
                     politischen Behörden darauf einrathen würden.<lb/>Eine Parallele mit dem
                     Auslande ist hier nicht zutreffend, da dort eben die hier berührten Bedingungen
                     sämmtlich ganz anders, d.h. in Betreff der Mittel zur wissenschaftlichen
@@ -331,7 +330,7 @@
                     Communalanstalten sind, zu deren Erhaltung eben das Schulgeld das Meiste
                     beitragen muß. Dort giebt es aber auch Gymnasien, an welchen die erste
                     Anstellung nur mit 100 oder 200 Thalern Einkommen verbunden ist. Da that es
-                    z.B. vor 1 1/2 Jahren in <country ref="#place_c27539167ff9723b32673ddab9dcbe09">Hannover</country> allerdings noth, auf
+                    z.B. vor 1 1/2 Jahren in <rs type="place" subtype="country" ref="#place_c27539167ff9723b32673ddab9dcbe09">Hannover</rs> allerdings noth, auf
                     Verbesserung der Gehalte bedacht zu nehmen und dieß, um den Staatsschatz zu
                     schonen, nicht ohne lange Debatten durch Erhöhung des Schulgeldes
                     durchzusetzen.<lb/>2. Würde aber bei erhöhtem Schulgeld von der bisherigen

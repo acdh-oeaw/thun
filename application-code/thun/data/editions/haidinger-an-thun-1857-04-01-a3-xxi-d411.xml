@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="haidinger-wilhelm" role="sender:gelehrter">Wilhelm
-                        Haidinger</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="haidinger-wilhelm" key="haidinger-wilhelm" role="sender:gelehrter">Wilhelm
+                        Haidinger</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1857-04-01">1. April 1857</date>
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1857-04-01">1. April 1857</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -36,7 +35,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -47,11 +46,11 @@
                 </index>
                 <p>Eure Excellenz,</p>
                 <p>Gestern konnte ich nicht widerstehen, in der Unruhe des Augenblickes Eurer
-                    Excellenz mächtigen und nachhaltigen wohlwollenden Einfluß für Herrn <persName key="maly-josef-karl">Dr. Maly</persName> ehrfurchtsvoll anzurufen.<note xml:id="note_1">Vgl. <ref target="thun/thun-korrespondenz/tetschen/haidinger-an-thun_1857-03-31_A3-XXI-D410.xml">Wilhelm Haidinger an Leo Thun. Wien, 31. März 1857.</ref>
+                    Excellenz mächtigen und nachhaltigen wohlwollenden Einfluß für Herrn <rs type="person" ref="maly-josef-karl" key="maly-josef-karl">Dr. Maly</rs> ehrfurchtsvoll anzurufen.<note xml:id="note_1">Vgl. <ref target="thun/thun-korrespondenz/tetschen/haidinger-an-thun_1857-03-31_A3-XXI-D410.xml">Wilhelm Haidinger an Leo Thun. Wien, 31. März 1857.</ref>
                     </note> Mit um
                     desto größerer Freude kann ich heute gehorsamst Nachricht geben, daß die k.k.
                     geographische Gesellschaft in ihrer gestrigen Sitzung auf den Antrag des
-                    Ausschußes Herrn <persName key="maly-josef-karl">Dr. Maly</persName> als
+                    Ausschußes Herrn <rs type="person" ref="maly-josef-karl" key="maly-josef-karl">Dr. Maly</rs> als
                     Ehrengeschenk die Summe von 250 fl Conv. Mze. zuerkannt hat, für seine wichtigen
                     botanischen Arbeiten, namentlich auch für Begründung vaterländischer
                     pflanzengeographischer Forschungen und Studien. Zwischen den Zeilen wird man

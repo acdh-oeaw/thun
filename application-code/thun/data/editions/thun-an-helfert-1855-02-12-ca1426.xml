@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="helfert-joseph-alexander" role="recipient">Joseph Alexander
-                        Helfert</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="helfert-joseph-alexander" key="helfert-joseph-alexander" role="recipient">Joseph Alexander
+                        Helfert</rs>
                     <lb/>o. O., <date when="1855-02-12">o. D. [12. Februar
                         1855]</date>
                     <note xml:id="note_1">Das Datum ist mit Bleistift am oberen
@@ -32,7 +31,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -40,7 +39,7 @@
                 <index>
                     <term>Ministerium für Kultus und Unterricht</term>
                 </index>
-                <p>Beiliegend <persName key="tempsky-friedrich">Tempskys</persName> Angelegenheit,
+                <p>Beiliegend <rs type="person" ref="tempsky-friedrich" key="tempsky-friedrich">Tempskys</rs> Angelegenheit,
                     nebst einem Brief<note xml:id="note_2">Diese Dokumente sind hier nicht
                         enthalten.</note> an mich, worin er sich zu Änderungen bereit
                     erklärt.<lb/>Ich kompromittiere also auf eine Zulassungserklärung, und stelle

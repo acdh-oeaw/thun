@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="albrecht-erzherzog" role="sender">Erzherzog
-                        Albrecht</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="albrecht-erzherzog" key="albrecht-erzherzog" role="sender">Erzherzog
+                        Albrecht</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_b5c560f53ce85e0faf7f2e01352c6e6c">Debrezin</placeName>, <date when="1858-05-05">5. Mai 1858</date>
+                    <rs type="place" subtype="place" ref="#place_b5c560f53ce85e0faf7f2e01352c6e6c">Debrezin</rs>, <date when="1858-05-05">5. Mai 1858</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -32,7 +31,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -45,23 +44,23 @@
                 <p>Erlauben Sie mir, lieber Herr Graf!</p>
                 <p>Ihnen im engsten Vertrauen, einen unangenehmen Vorfall mitzutheilen, dem
                     wahrscheinlich ein Versehen während Ihrer letzteren Abwesenheit zu Grunde liegen
-                    dürfte. Der stets unruhige <persName key="szantofy-anton">Szántoffy</persName>
-                    kam neulich von <placeName key="esztergom" ref="#place_cde856980f41b5362c96273d9c84431d">Gran</placeName> zurück und erzählte
-                    dem Propst <persName key="haas-michael">Haas</persName>, daß man dort wisse, daß
+                    dürfte. Der stets unruhige <rs type="person" ref="szantofy-anton" key="szantofy-anton">Szántoffy</rs>
+                    kam neulich von <rs type="place" subtype="place" key="esztergom" ref="#place_cde856980f41b5362c96273d9c84431d">Gran</rs> zurück und erzählte
+                    dem Propst <rs type="person" ref="haas-michael" key="haas-michael">Haas</rs>, daß man dort wisse, daß
                     in Ihrem <orgName key="ministerium-fuer-kultus-und-unterricht">Ministerium</orgName> ein nicht unterschriebener (was wahr ist) Antrag von
-                    mir eingelangt ist, um nach dem Tode des jetzigen <persName key="scitovsky-jan">Primas</persName> das Tyrnauer Generalvikariat als selbstständiges Bisthum
-                    mit dem Sitze in <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</placeName> abzutrennen und
+                    mir eingelangt ist, um nach dem Tode des jetzigen <rs type="person" ref="scitovsky-jan" key="scitovsky-jan">Primas</rs> das Tyrnauer Generalvikariat als selbstständiges Bisthum
+                    mit dem Sitze in <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</rs> abzutrennen und
                     als Dotation die Einkünfte des Großpropstes von Preßburg zu bestimmen und
                     deswegen letztere Stelle unbesetzt bleiben solle bis dahin. Daß diese Nachricht
-                    sehr unangenehm in <placeName key="esztergom" ref="#place_cde856980f41b5362c96273d9c84431d">Gran</placeName> vernommen wurde,
+                    sehr unangenehm in <rs type="place" subtype="place" key="esztergom" ref="#place_cde856980f41b5362c96273d9c84431d">Gran</rs> vernommen wurde,
                     läßt sich denken; aber auch für die Regierung ist es nicht angenehm; denn darin
                     wird ein nationales Gravamen mehr ausgebeutet werden, um das Primatiat, diesen
                     Hort der Nationalität, abzuschwächen.<lb/>Unter diesen Umständen wird es am
-                    besten seyn, für den Moment zu pausiren. Wird <persName key="viber-joseph">Vibér</persName> jetzt ernannt, so hält er sich schon designirt, einstens
+                    besten seyn, für den Moment zu pausiren. Wird <rs type="person" ref="viber-joseph" key="viber-joseph">Vibér</rs> jetzt ernannt, so hält er sich schon designirt, einstens
                     Bischof von Preßburg zu werden, während vielleicht die Andern darin ein Aufgeben
                     unseres Projektes und einen Sieg ihrer kirchlich wie staatlich separatistischen
                     Richtung erkennen könnten.<lb/>In den ersten Tagen Juni bin ich in
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> und bis dahin hat es jedenfalls Zeit, wo wir,
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> und bis dahin hat es jedenfalls Zeit, wo wir,
                     wenn es Ihnen Recht ist, die Sache weiter besprechen können.<lb/>Der hiesige
                     ref. Superintend. Convent scheint in seiner letzten Sitzung wieder viel Albernes
                     über Autonomie der Schulen, Aufgeben der Öffentlichkeit des hiesigen
@@ -69,7 +68,7 @@
                     beschlossen zu haben. Das Sitzungsprotocoll ist noch nicht eingereicht; sie
                     scheinen inzwischen Besorgnisse bekommen zu haben, daß es Schaden bringen
                     könnte, und so wird vielleicht das Protokoll sehr zahm und annehmbar ausfallen;
-                    wo nicht, so wird Graf <persName key="zichy-franz">Zichy</persName>
+                    wo nicht, so wird Graf <rs type="person" ref="zichy-franz" key="zichy-franz">Zichy</rs>
                     (Vicepräsident), mit dem ich bereits darüber sprach, das Nöthige gleich
                     veranstalten, um jedem faktischen Vorgehen vorzubeugen.</p>
                 <p>Mit den herzlichsten Wünschen für Ihr und Ihrer Frau Gemahlin

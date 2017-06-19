@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -37,7 +36,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -52,136 +51,136 @@
                         kirchlichen Rechtes der Protestanten in den österreichischen
                     Staaten</hi>
                 </p>
-                <p>1. <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">
+                <p>1. <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">
                         <hi rend="ul">Böhmen</hi>
-                    </region>:<lb/>In <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</region> und <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> hat
+                    </rs>:<lb/>In <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> und <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> hat
                     die Reformation einen bereits tief gelockerten Boden vorgefunden. Schon 1521 kam
-                    Thomas Münzer [<persName key="muentzer-thomas">Müntzer</persName>] nach
-                        <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> und 1522 <persName key="speratus-paul">Paul
-                        Speratus</persName> nach <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region>, nachdem
-                    bereits 1519 in beiden Ländern <persName key="luther-martin">Luthers</persName>
+                    Thomas Münzer [<rs type="person" ref="muentzer-thomas" key="muentzer-thomas">Müntzer</rs>] nach
+                        <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> und 1522 <rs type="person" ref="speratus-paul" key="speratus-paul">Paul
+                        Speratus</rs> nach <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs>, nachdem
+                    bereits 1519 in beiden Ländern <rs type="person" ref="luther-martin" key="luther-martin">Luthers</rs>
                     Lehre Eingang gefunden hatte. Weil man sich mit den Calixtinern schon 1433
-                    mittelst der Compaktaten, die durch die Abgeordneten des <placeName key="basel" ref="#place_7aaf6c53e9feb6c123b1db536cf7c544">Basler</placeName> Concils zu Wege gebracht worden, ausgesöhnt hatte, desto
+                    mittelst der Compaktaten, die durch die Abgeordneten des <rs type="place" subtype="place" key="basel" ref="#place_7aaf6c53e9feb6c123b1db536cf7c544">Basler</rs> Concils zu Wege gebracht worden, ausgesöhnt hatte, desto
                     mehr aber den böhmischen Brüdern, welche aus den Taboriten entstanden waren,
-                    gram war, so verfolgte <persName key="ferdinand-I">Ferdinand I.</persName> die
+                    gram war, so verfolgte <rs type="person" ref="ferdinand-I" key="ferdinand-I">Ferdinand I.</rs> die
                     Evangelischen zwar nicht, es hatte jedoch auf diese Länder der Religionsfriede
                     von 1532 keinen Einfluß. Bereits 1549 wurden die böhmischen Brüder zur
                     Auswanderung gezwungen und selbst die Utraquisten hart bedrängt; 1561 das
-                        <region key="erzbistum-prag" ref="#place_733ca454560e5910f6c51f13e2637d1b">Prager Erzbisthum</region> wieder errichtet und
+                        <rs type="place" subtype="region" key="erzbistum-prag" ref="#place_733ca454560e5910f6c51f13e2637d1b">Prager Erzbisthum</rs> wieder errichtet und
                     1562 eine <orgName key="clementinum">jesuitische Hochschule</orgName> in
-                        <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> gestiftet. <persName key="maximilian-II">Maximilian I.</persName> [sic! gemeint ist Maximilian II.] hat die
-                    Utraquisten dem Papste <persName key="pius-IV">Pius IV.</persName> anempfohlen
+                        <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> gestiftet. <rs type="person" ref="maximilian-II" key="maximilian-II">Maximilian I.</rs> [sic! gemeint ist Maximilian II.] hat die
+                    Utraquisten dem Papste <rs type="person" ref="pius-IV" key="pius-IV">Pius IV.</rs> anempfohlen
                     und dieser ihnen nicht nur den Kelch gestattet, sondern auch die Weihe ihrer
                     Geistlichen durch die katholischen Bischöfe angeordnet.<lb/>Durch die Aufhebung
                     der Compaktaten 1567 verloren die Utraquisten nichts mehr, die Protestanten
                     wurden dagegen schweigend anerkannt, welche nehmlich, <hi rend="ul">Lutheraner
                         und Reformirte mit den böhmischen Brüdern gemeinschaftlich, eine
-                        Bekenntnisschrift</hi> verfertigt, die durch den <persName key="maximilian-II">Kaiser</persName> 1575 angenommen wurde, der indessen
-                    schon im Jahr darauf starb. Sein Nachfolger <persName key="rudolf-II">Rudolf
-                        II.</persName> bethätigte bald seine intolerante Gesinnung; indeß hatte er
-                    dennoch theils, um seinem jüngern Bruder <persName key="mathias-I">Mathias</persName>, der 1609 in <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region>
+                        Bekenntnisschrift</hi> verfertigt, die durch den <rs type="person" ref="maximilian-II" key="maximilian-II">Kaiser</rs> 1575 angenommen wurde, der indessen
+                    schon im Jahr darauf starb. Sein Nachfolger <rs type="person" ref="rudolf-II" key="rudolf-II">Rudolf
+                        II.</rs> bethätigte bald seine intolerante Gesinnung; indeß hatte er
+                    dennoch theils, um seinem jüngern Bruder <rs type="person" ref="mathias-I" key="mathias-I">Mathias</rs>, der 1609 in <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs>
                     Religionsfreiheit publizirte, ein Gegengewicht zu halten und noch mehr durch die
                     drohende Stellung und das Drängen der beinahe schon durchaus protestantischen
-                        <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</region> erschreckt, den Majestätsbrief am 12.
-                    Juli 1609 gegeben. 1612 starb er. Nachdem sein Bruder <persName key="mathias-I">Mathias</persName> den Kaisersitz nach <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> verlegt,
+                        <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> erschreckt, den Majestätsbrief am 12.
+                    Juli 1609 gegeben. 1612 starb er. Nachdem sein Bruder <rs type="person" ref="mathias-I" key="mathias-I">Mathias</rs> den Kaisersitz nach <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> verlegt,
                     ging sogleich alles rückwärts. Die Utraquisten, welche der böhmischen Confession
                     von 1575 auch beigetreten waren, hatten zwar 1618 eine energische Deklaration
-                    unter dem Namen Defension auf dem Landtage zu <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>
-                    verfaßt; <persName key="mathias-I">Mathias</persName> aber starb 1619 und
-                        <persName key="ferdinand-II">Ferdinand II.</persName> kam auf den Thron. Die
+                    unter dem Namen Defension auf dem Landtage zu <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>
+                    verfaßt; <rs type="person" ref="mathias-I" key="mathias-I">Mathias</rs> aber starb 1619 und
+                        <rs type="person" ref="ferdinand-II" key="ferdinand-II">Ferdinand II.</rs> kam auf den Thron. Die
                     höchst traurige Katastrophe vom 8. November 1620 hat mit einem Schlage alles
                     vernichtet. Die Patente vom 30. April 1626 und vom 10. Mai 1627 haben jede
                     andere als die römisch-katholische Religion strengstens verpönt, ja, das Patent
                     vom 29. Mai 1627 hat den Majestätsbrief ausdrücklich aufgehoben, worauf über
                     36.000 Familien auswanderten. Der Westphälische Friede von 1648 hatte auf
-                        <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</region> und <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> keinen Einfluß. <persName key="ferdinand-III">Ferdinand
-                        III.</persName> neues Patent vom 26. November 1650 verpönte wiederholt jede
+                        <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> und <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> keinen Einfluß. <rs type="person" ref="ferdinand-III" key="ferdinand-III">Ferdinand
+                        III.</rs> neues Patent vom 26. November 1650 verpönte wiederholt jede
                     andere Religion als die römisch-katholische so wie das vom 23. März und 4. Mai
                     1641; ja durch die Erlässe vom 17. December 1697 und 23. August 1701 so wie
                     durch den 19. Artikel § 3 vom Jahre 1707 wurde sogar jeder evangelische<hi rend="ul"> Privatgottesdienst zum Capitalverbrechen</hi> gestämpelt.
-                        <persName key="karl-VI">Karl VI.</persName> hat die bekannte
+                        <rs type="person" ref="karl-VI" key="karl-VI">Karl VI.</rs> hat die bekannte
                     Religionsklausel durch Dekrete vom 21. December 1725 und 29. Jänner 1726
                     angeordnet und der Genuß des Abendmahles sub utraque wurde mit den härtesten
                     Strafen: Schanzarbeit, Verbannung und Tod bestraft. Erst nach 150 Jahren kam das
-                        <hi rend="ul">Toleranzedikt Kaiser <persName key="joseph-II">Josef’s
-                            II.</persName> vom 13. Oktober 1781</hi> und machte diesem Zustand ein
+                        <hi rend="ul">Toleranzedikt Kaiser <rs type="person" ref="joseph-II" key="joseph-II">Josef’s
+                            II.</rs> vom 13. Oktober 1781</hi> und machte diesem Zustand ein
                     Ende, obwohl auch diese neugewährte Freiheit vielfach durch mehrere Hofdekrete
                     verkümmert wurde, bis das jüngst vom <date when="1849-03-04">4. März 1849</date>
                     erlassene Patent Freiheit und Gleichberechtigung den anerkannten Religionen und
                     Kirchen wenigstens im Prinzipe verkündigte.</p>
-                <p>2. <region ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</region>:<lb/>Die Geschichte des protestantisch kirchlichen
-                    Rechtes in <region key="ober-und-niederschlesien" ref="#place_600b5215fe55383381a2d9aca7dec16c">Östreichisch
-                        Schlesien</region> hat beinahe denselben Gang wie die von <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</region> und <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region>.
-                    Vermöge der Gehörigkeit <region key="ober-und-niederschlesien" ref="#place_600b5215fe55383381a2d9aca7dec16c">Schlesiens</region> zu der Krone <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmens</region> war
+                <p>2. <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs>:<lb/>Die Geschichte des protestantisch kirchlichen
+                    Rechtes in <rs type="place" subtype="region" key="ober-und-niederschlesien" ref="#place_600b5215fe55383381a2d9aca7dec16c">Östreichisch
+                        Schlesien</rs> hat beinahe denselben Gang wie die von <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> und <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs>.
+                    Vermöge der Gehörigkeit <rs type="place" subtype="region" key="ober-und-niederschlesien" ref="#place_600b5215fe55383381a2d9aca7dec16c">Schlesiens</rs> zu der Krone <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmens</rs> war
                     durch die Vorgänge daselbst auch hier die Reformation angebahnt und nachdem sie
                     sich rasch ausgebreitet, alle die Rückwirkungen erfahren, welche die Schlacht am
                     Weißen Berge hervorrief. Nur die <hi rend="ul">
-                        <placeName key="altranstaedt" ref="#place_4905720867750a9d9b1d37a88a0a2b5f">Altranstädter</placeName> Convention</hi> zwischen <hi rend="ul">
-                        <persName key="karl-XII-von-schweden">Karl XII. von Schweden</persName>
-                        und <persName key="joseph-I">Josef I.</persName> vom 1. September 1707</hi>
-                    hat das herbe Schicksal der evangelischen Kirche in <region key="ober-und-niederschlesien" ref="#place_600b5215fe55383381a2d9aca7dec16c">Schlesien</region> einigermaßen gemäßigt,
+                        <rs type="place" subtype="place" key="altranstaedt" ref="#place_4905720867750a9d9b1d37a88a0a2b5f">Altranstädter</rs> Convention</hi> zwischen <hi rend="ul">
+                        <rs type="person" ref="karl-XII-von-schweden" key="karl-XII-von-schweden">Karl XII. von Schweden</rs>
+                        und <rs type="person" ref="joseph-I" key="joseph-I">Josef I.</rs> vom 1. September 1707</hi>
+                    hat das herbe Schicksal der evangelischen Kirche in <rs type="place" subtype="region" key="ober-und-niederschlesien" ref="#place_600b5215fe55383381a2d9aca7dec16c">Schlesien</rs> einigermaßen gemäßigt,
                     durch welche den Evangelischen freie Religionsausübung und die Zurückgabe an sie
                     von 118 Kirchen und Schulen ausgewirkt, zu der Regierung der Kirche aber ein
                     Collegium unter dem Namen Religionscommission eingerichtet.<lb/>Indessen ging
-                    der größte Theil des Landes durch den 7jährigen Krieg für <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oestreich</country> verloren und in dem erhaltenen Theile
-                    gewährte die erwähnte Convention den Evangelischen in <region key="ober-und-niederschlesien" ref="#place_600b5215fe55383381a2d9aca7dec16c">Schlesien</region>
+                    der größte Theil des Landes durch den 7jährigen Krieg für <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oestreich</rs> verloren und in dem erhaltenen Theile
+                    gewährte die erwähnte Convention den Evangelischen in <rs type="place" subtype="region" key="ober-und-niederschlesien" ref="#place_600b5215fe55383381a2d9aca7dec16c">Schlesien</rs>
                     <hi rend="ul"> über die
                         Toleranzrechte bloß die zwei: daß die gemischten Ehen durch den Geistlichen
                         der Braut eingesegnet und die Kinder in Betreff der Religion dem Geschlechte
                         der Eltern</hi> folgen sollen. Die bestandene Religionscommission wurde nun
-                    zu einem <hi rend="ul">Consistorium in <placeName ref="#place_27f77677310f3f4e0b878e7f7f0f0dd1">Teschen</placeName>
+                    zu einem <hi rend="ul">Consistorium in <rs type="place" subtype="place" ref="#place_27f77677310f3f4e0b878e7f7f0f0dd1">Teschen</rs>
                     </hi>
                     umgestaltet, von wo es aber durch ein Hofdekret vom <hi rend="ul">20. September
-                        1784 nach <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>
+                        1784 nach <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>
                     </hi> verlegt wurde.</p>
-                <p>3. <region key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">
+                <p>3. <rs type="place" subtype="region" key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">
                         <hi rend="ul">Galicien</hi>
-                    </region>:<lb/>Im ehemaligen
-                    Königreiche <country ref="#place_c5d7f540c8bc591b128caf6c923206f8">Polen</country> fand die Reformation ebenfalls durch die
+                    </rs>:<lb/>Im ehemaligen
+                    Königreiche <rs type="place" subtype="country" ref="#place_c5d7f540c8bc591b128caf6c923206f8">Polen</rs> fand die Reformation ebenfalls durch die
                     ausgewanderten böhmischen Brüder einen vorbereiteten Boden. Schon unter des
-                    Königs <persName key="sigismund-II-august">Sigismund</persName> Regierung
+                    Königs <rs type="person" ref="sigismund-II-august" key="sigismund-II-august">Sigismund</rs> Regierung
                     1548–72 bestand die Hälfte des Senates aus evangelischen Mitgliedern und die
                     größere Hälfte des Adels wurde evangelisch. Synoden hielt man zu
-                        <placeName ref="#place_ffbd4e34a383bc8e8fa74f0bad77a437">Kozmin</placeName> 1555, <hi rend="ul">
-                        <placeName ref="#place_a85271a608ed0c1eaef31ec4610f8640">Sendomir</placeName> 1570, wo ein Vergleich zwischen den
+                        <rs type="place" subtype="place" ref="#place_ffbd4e34a383bc8e8fa74f0bad77a437">Kozmin</rs> 1555, <hi rend="ul">
+                        <rs type="place" subtype="place" ref="#place_a85271a608ed0c1eaef31ec4610f8640">Sendomir</rs> 1570, wo ein Vergleich zwischen den
                         Lutheranern, Reformirten und den böhmischen Brüdern</hi> zu Stande kam,
-                    worauf sie auf dem <hi rend="ul">Reichstage zu <placeName ref="#place_fafa41f7e32d84b3a419ca848a2b0880">Krakau</placeName>
+                    worauf sie auf dem <hi rend="ul">Reichstage zu <rs type="place" subtype="place" ref="#place_fafa41f7e32d84b3a419ca848a2b0880">Krakau</rs>
                         1573, wo sie auch eine Synode hielten</hi>, gleiche Rechte mit den
                     Katholiken unter dem Namen der Dissidenten erhielten. Eine Generalsynode hielten
-                    sie zu <placeName ref="#place_cacda66e814c030cdb2a60b673ef8506">Wegrow</placeName> [Węgrów] 1780, auf welcher nach den
+                    sie zu <rs type="place" subtype="place" ref="#place_cacda66e814c030cdb2a60b673ef8506">Wegrow</rs> [Węgrów] 1780, auf welcher nach den
                     Traktaten von 1768 und 1775 ein neues Kirchenrecht ausgearbeitet wurde, welches
-                    nicht ohne Einfluß in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> geblieben ist. (Scheidemantel,
-                    Prof. zu <placeName ref="#place_3667cbbafb66c626f2c1d56c1bd96d69">Jena</placeName>, Kirchengesetzbuch für die beiden
+                    nicht ohne Einfluß in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> geblieben ist. (Scheidemantel,
+                    Prof. zu <rs type="place" subtype="place" ref="#place_3667cbbafb66c626f2c1d56c1bd96d69">Jena</rs>, Kirchengesetzbuch für die beiden
                     Confessionen in Polen und Lithauen. Augsburg 1783) Die in
-                        <country ref="#place_c5d7f540c8bc591b128caf6c923206f8">Polen</country> eingeführten Jesuiten wütheten gegen die
+                        <rs type="place" subtype="country" ref="#place_c5d7f540c8bc591b128caf6c923206f8">Polen</rs> eingeführten Jesuiten wütheten gegen die
                     Protestanten und sogenannten Schismatiker wie kaum anders wo; bekannt sind die
-                    Vorfälle von Thorn, bis nach vielfachen Wechselfällen durch <country key="russland" ref="#place_5c0704d47c0a58a0922e25b5b9b66b27">Rußlands</country>, <country key="schweden" ref="#place_d8e4c34bc0c1f6c408444a98830108e7">Schwedens</country> und <country key="england" ref="#place_f48861ca24e26a23a923ca68657079f4">Englands</country>
+                    Vorfälle von Thorn, bis nach vielfachen Wechselfällen durch <rs type="place" subtype="country" key="russland" ref="#place_5c0704d47c0a58a0922e25b5b9b66b27">Rußlands</rs>, <rs type="place" subtype="country" key="schweden" ref="#place_d8e4c34bc0c1f6c408444a98830108e7">Schwedens</rs> und <rs type="place" subtype="country" key="england" ref="#place_f48861ca24e26a23a923ca68657079f4">Englands</rs>
                     Bemühungen die ihnen zum Nachtheil gebrachten Landtagsbeschlüsse aufgehoben und
                     ihnen ein gleiches Recht mit den Katholiken 1768 gewährleistet wurde; bald
-                    hernach wurde das Land getheilt. In Russisch <country ref="#place_c5d7f540c8bc591b128caf6c923206f8">Polen</country>, in
-                        <placeName ref="#place_d1be5c800653e4addaca193b664e9c0f">Posen</placeName> und in <placeName ref="#place_fafa41f7e32d84b3a419ca848a2b0880">Krakau</placeName> behielten
-                    die Protestanten Rechtsgleichheit mit den Katholiken; für die <region key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galizianer</region> aber wurde das <hi rend="ul">Toleranzedikt vom 10. November 1781</hi> publicirt.</p>
+                    hernach wurde das Land getheilt. In Russisch <rs type="place" subtype="country" ref="#place_c5d7f540c8bc591b128caf6c923206f8">Polen</rs>, in
+                        <rs type="place" subtype="place" ref="#place_d1be5c800653e4addaca193b664e9c0f">Posen</rs> und in <rs type="place" subtype="place" ref="#place_fafa41f7e32d84b3a419ca848a2b0880">Krakau</rs> behielten
+                    die Protestanten Rechtsgleichheit mit den Katholiken; für die <rs type="place" subtype="region" key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galizianer</rs> aber wurde das <hi rend="ul">Toleranzedikt vom 10. November 1781</hi> publicirt.</p>
                 <p>4. <hi rend="ul">
-                        <region key="ober-und-niederoesterreich" ref="#place_0d6e091e8b09916310d20b7f21e9acd1">Oesterreich</region>,
-                            <region ref="#place_b5e9e75db151e1fff33838003e5fa591">Steiermark</region>, <region key="kaernten" ref="#place_ef894a0a9ab2e171eb147ffd9e56cd4b">Kärnthen</region>,
-                            <region ref="#place_1550e04c70115aa1a8f29f8e033676c4">Krain</region>
+                        <rs type="place" subtype="region" key="ober-und-niederoesterreich" ref="#place_0d6e091e8b09916310d20b7f21e9acd1">Oesterreich</rs>,
+                            <rs type="place" subtype="region" ref="#place_b5e9e75db151e1fff33838003e5fa591">Steiermark</rs>, <rs type="place" subtype="region" key="kaernten" ref="#place_ef894a0a9ab2e171eb147ffd9e56cd4b">Kärnthen</rs>,
+                            <rs type="place" subtype="region" ref="#place_1550e04c70115aa1a8f29f8e033676c4">Krain</rs>
                     </hi>:<lb/>Auch in diesen Ländern war der Boden
                     für den Samen der Reformation großentheils vorbereitet. Die Waldenser einerseits
                     an 80.000 und die böhmisch-mährischen Brüder anderseits, ja einzelne von diesen
                     Einflüssen unabhängige durch den Geist bewegte eifrige Prediger wider den Ablaß
                     und die Reliquien, haben bei dem Bürgerthum und dem Adel durchweg einen
-                    Widerwillen gegen die kirchlichen Mißbräuche hervorgerufen; <persName key="speratus-paul">Paul Speratus a Rutilis</persName> hat hier noch früher
-                    als in <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> erfolgreich gewirkt 1524 und
-                        <persName key="tauber-caspar">Tauber</persName> wurde schon 1524 hinter dem
-                    Stuben Thor hingerichtet. In <placeName ref="#place_b2f3f42d45ff2c1018a9d3b9e6c37ece">Krems</placeName> waren schon früher und
+                    Widerwillen gegen die kirchlichen Mißbräuche hervorgerufen; <rs type="person" ref="speratus-paul" key="speratus-paul">Paul Speratus a Rutilis</rs> hat hier noch früher
+                    als in <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> erfolgreich gewirkt 1524 und
+                        <rs type="person" ref="tauber-caspar" key="tauber-caspar">Tauber</rs> wurde schon 1524 hinter dem
+                    Stuben Thor hingerichtet. In <rs type="place" subtype="place" ref="#place_b2f3f42d45ff2c1018a9d3b9e6c37ece">Krems</rs> waren schon früher und
                     lange vor der Reformation sehr viele (Waldenser) verbrannt (über 1000) – 1509
-                        predigte<persName key="turrian-philipp"> Philipp Turrian</persName> im
+                        predigte<rs type="person" ref="turrian-philipp" key="turrian-philipp"> Philipp Turrian</rs> im
                     Kloster zum Heiligen Geist und ein Bernhardiner in der Petrikirche wider den
-                    Ablaß und die Reliquien; ja schon 1483 wurde Magister <persName key="kaltenmarkt-johann">Johann Kaltenmarkt</persName>, Professor des
-                    kanonischen Rechtes an der Universität, nach <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName> citirt.
+                    Ablaß und die Reliquien; ja schon 1483 wurde Magister <rs type="person" ref="kaltenmarkt-johann" key="kaltenmarkt-johann">Johann Kaltenmarkt</rs>, Professor des
+                    kanonischen Rechtes an der Universität, nach <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs> citirt.
                     Am 13. December 1541 überreichten die ober- und niederösterreichischen und die
-                    steiermärkischen Stände sammt denen von <region key="kaernten" ref="#place_ef894a0a9ab2e171eb147ffd9e56cd4b">Kärnthen</region>
-                    und <region ref="#place_1550e04c70115aa1a8f29f8e033676c4">Krain</region> dem Kaiser <persName key="ferdinand-I">Ferdinand</persName> zu <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> eine Bittschrift um
+                    steiermärkischen Stände sammt denen von <rs type="place" subtype="region" key="kaernten" ref="#place_ef894a0a9ab2e171eb147ffd9e56cd4b">Kärnthen</rs>
+                    und <rs type="place" subtype="region" ref="#place_1550e04c70115aa1a8f29f8e033676c4">Krain</rs> dem Kaiser <rs type="person" ref="ferdinand-I" key="ferdinand-I">Ferdinand</rs> zu <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> eine Bittschrift um
                     freie Religionsübung, auf welche sie jedoch eine wenig befriedigende Antwort und
                     eine bloße Vertröstung auf ein allgemeines Concil am 8. Jänner 1542 erhielten.
                     Indeß waren denn doch einige Edikte über die Zulassung des Kelches in Kraft.
@@ -195,62 +194,62 @@
                     und derselben gemäß und nicht zuwider, sowohl die Lehren als die Ceremonien
                     anstellen und in das Werk ziehen mögen. Alles bis zu einer allgemeinen
                     christlichen Reformation und gottseliger Vergleichung der Religion in deutscher
-                    Nation“. Die erwähnte Agenda war durch die aus <region ref="#place_2b599b5935723d14cbf88a2b4bd8f5db">Sachsen</region>
-                    berufenen Theologen <persName key="camerarius-joachim">Camerar[ius]</persName>
-                    und <persName key="chytraeus-nathan">Chytraeus</persName> 1568, die das
+                    Nation“. Die erwähnte Agenda war durch die aus <rs type="place" subtype="region" ref="#place_2b599b5935723d14cbf88a2b4bd8f5db">Sachsen</rs>
+                    berufenen Theologen <rs type="person" ref="camerarius-joachim" key="camerarius-joachim">Camerar[ius]</rs>
+                    und <rs type="person" ref="chytraeus-nathan" key="chytraeus-nathan">Chytraeus</rs> 1568, die das
                     evangelische Kirchenwesen ordneten, ausgearbeitet; unterdessen die beiden Stände
-                        <region key="ober-und-niederoesterreich" ref="#place_0d6e091e8b09916310d20b7f21e9acd1">Ober- und Nieder-Östreichs</region>
-                    sammt den 7 landesfürstlichen Städten 1568 von Kaiser <persName key="maximilian-II">Maximilian II.</persName> freie Religionsübung erhalten
+                        <rs type="place" subtype="region" key="ober-und-niederoesterreich" ref="#place_0d6e091e8b09916310d20b7f21e9acd1">Ober- und Nieder-Östreichs</rs>
+                    sammt den 7 landesfürstlichen Städten 1568 von Kaiser <rs type="person" ref="maximilian-II" key="maximilian-II">Maximilian II.</rs> freie Religionsübung erhalten
                     hatten; ihre Freiheit dennoch, was die Städte anbelangt, durch die obige
-                    Assecuration beschränkt worden. 1580 wurde auf <persName key="chytraeus-nathan">Chytraeus</persName> Rath <persName key="backmeister-lucas">Backmeister</persName> aus <region key="mecklenburg" ref="#place_9be53a31fb326931f764c2e6022332fe">Meklenburg</region>
+                    Assecuration beschränkt worden. 1580 wurde auf <rs type="person" ref="chytraeus-nathan" key="chytraeus-nathan">Chytraeus</rs> Rath <rs type="person" ref="backmeister-lucas" key="backmeister-lucas">Backmeister</rs> aus <rs type="place" subtype="region" key="mecklenburg" ref="#place_9be53a31fb326931f764c2e6022332fe">Meklenburg</rs>
                     zur Verfassung einer neuen Kirchenordnung berufen, der solche auch in den drei
-                    Conventen zu <placeName ref="#place_5cf73e808193af68b60d465bf312e789">Horn</placeName> ausführte. Die Übergriffe des
+                    Conventen zu <rs type="place" subtype="place" ref="#place_5cf73e808193af68b60d465bf312e789">Horn</rs> ausführte. Die Übergriffe des
                     katholischen Clerus und immerwährende Bedrückungen veranlaßten leider mehrere<hi rend="ul"> Bauernunruhen 1594</hi>, welche gewaltsam unterdrückt nun auch
                     die Unterdrückung der Protestanten zur Folge hatten; sogar der Gebrauch des
                     Kelches, so oft feierlich zugesichert, wurde 1600 verpönt und die Verfolgungen
-                    wurden nach einem Aufstande im Salzamt noch gesteigert, bis endlich <hi rend="ul">1609 König <persName key="mathias-I">Mathias</persName>
+                    wurden nach einem Aufstande im Salzamt noch gesteigert, bis endlich <hi rend="ul">1609 König <rs type="person" ref="mathias-I" key="mathias-I">Mathias</rs>
                     </hi> die
-                    Concession <persName key="rudolf-II">Rudolfs II.</persName> als bona fide
+                    Concession <rs type="person" ref="rudolf-II" key="rudolf-II">Rudolfs II.</rs> als bona fide
                     gegeben bestätigen eine <hi rend="ul">Capitulationsresolution</hi> zur
                     Erleichterung des Loses der Protestanten am 19. März erließ und am 12. Mai vor
                     der Huldigung einen Revers darüber an Jörger ausgestellt. Indessen nutzte auch
                     dies ebenso wenig wie die häufigen Verwendungen der mährischen, böhmischen und
                     ungarischen Stände. Die Bedrückungen und gerufenen Verfolgungen wurden immer
-                    häufiger, ja die Vorfälle in <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</region> hatten hier
+                    häufiger, ja die Vorfälle in <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> hatten hier
                     1626 die völlige Verbannung der Protestanten zur Folge. Der Westphälische Friede
                     von 1648 hatte hier keine Geltung; die Intercessionen von
-                        <country ref="#place_ff8b6a7eb9b23e2fee8a59bad1a6164c">Schweden</country>, <country ref="#place_64f607906be7598a02d75dbc1e979662">England</country> und <country key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</country> brachten nur momentan Abhülfe, bis zum
-                        Toleranzedict<persName key="joseph-II"> Joseph II.</persName> vom 11. Sept.
+                        <rs type="place" subtype="country" ref="#place_ff8b6a7eb9b23e2fee8a59bad1a6164c">Schweden</rs>, <rs type="place" subtype="country" ref="#place_64f607906be7598a02d75dbc1e979662">England</rs> und <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> brachten nur momentan Abhülfe, bis zum
+                        Toleranzedict<rs type="person" ref="joseph-II" key="joseph-II"> Joseph II.</rs> vom 11. Sept.
                     1781 und dem Circulare vom 13. Oct. desselben Jahres, endlich dem Erlaß vom 30.
                     Jänner [1]849 und dem Patent vom <date when="1849-03-04">4. März
                     1849</date>.</p>
-                <p>5. <country ref="#place_c0a9a4a0bf3a5c96be3c143015fcf53e">
+                <p>5. <rs type="place" subtype="country" ref="#place_c0a9a4a0bf3a5c96be3c143015fcf53e">
                         <hi rend="ul">Ungarn</hi>
-                    </country>:<lb/>Die Reformation machte in
-                        <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> gleich anfangs riesenhafte Fortschritte. Die hier
+                    </rs>:<lb/>Die Reformation machte in
+                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> gleich anfangs riesenhafte Fortschritte. Die hier
                     sehr zahlreichen hussitischen Gemeinden schlossen sich ihr sogleich an. Die
-                    Zipser-Deutschen setzten sich mit <placeName ref="#place_1b43bb0f366138fad83180674f53143a">Wittenberg</placeName> in
+                    Zipser-Deutschen setzten sich mit <rs type="place" subtype="place" ref="#place_1b43bb0f366138fad83180674f53143a">Wittenberg</rs> in
                     unmittelbare Verbindung; der Adel aber trat ihr in Massen bei. Zwar wurden
-                    dagegen sehr scharfe Gesetze gebracht; der 54. Artikel des <placeName key="ofen" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofner</placeName> Landtags von 1523 lautete: „Omnes lutheranos et illorum
+                    dagegen sehr scharfe Gesetze gebracht; der 54. Artikel des <rs type="place" subtype="place" key="ofen" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofner</rs> Landtags von 1523 lautete: „Omnes lutheranos et illorum
                     fautores ac fautioni [sic! factioni] ipsi adhaerentes tamquam haereticos
                     hostesque sacratissimae virginis Mariae poena capitis et ablatione omnium
                     bonorum majestas regia velut catholicus princeps punire dignetur.“ und der 4 §
-                    des 5. Artikels des <placeName key="rakos" ref="#place_9122d0e9bbbd29c7356549ed03d5f23f">Rakoscher</placeName> [Rákoš]
+                    des 5. Artikels des <rs type="place" subtype="place" key="rakos" ref="#place_9122d0e9bbbd29c7356549ed03d5f23f">Rakoscher</rs> [Rákoš]
                     Landtags 1524 „Lutherani etiam omnes e regno exstirpentur et ubicunque reperti
                     fuerint, non solum per ecclesiasticas, verum etiam per saeculares personas
                     libere capianturet comburantur.“ Indeß hatte dies, einzelne Opfer ausgenommen,
                     keinen weiteren Erfolg, weil die Bischöfe selbst die Augsburgische Confession
-                    gut hießen, die Könige aber, als <persName key="ferdinand-I">Ferdinand
-                        I.</persName> 1548 und 1549 und 1551, <persName key="maximilian-II">Maximilian II.</persName> 1555 und <persName key="rudolf-II">Rudolf</persName> 1578 vollen Schutz und Privilegien zusicherten. 1603 hat
-                    der kaiserliche Heerführer <persName key="belgiojoso-johann-jakob">Belgiojoso</persName> in und um Katschau [<placeName ref="#place_dd51fef1ae0877c04e8b4e19eddbabd5">Kaschau</placeName>,
+                    gut hießen, die Könige aber, als <rs type="person" ref="ferdinand-I" key="ferdinand-I">Ferdinand
+                        I.</rs> 1548 und 1549 und 1551, <rs type="person" ref="maximilian-II" key="maximilian-II">Maximilian II.</rs> 1555 und <rs type="person" ref="rudolf-II" key="rudolf-II">Rudolf</rs> 1578 vollen Schutz und Privilegien zusicherten. 1603 hat
+                    der kaiserliche Heerführer <rs type="person" ref="belgiojoso-johann-jakob" key="belgiojoso-johann-jakob">Belgiojoso</rs> in und um Katschau [<rs type="place" subtype="place" ref="#place_dd51fef1ae0877c04e8b4e19eddbabd5">Kaschau</rs>,
                     Košice] die härtesten Maaßregln gegen die Protestanten ergriffen, wie er sagte
-                    auf höheren Befehl. Weil dies auch <persName key="bocskay-stephan">Bocskay’s</persName> Güter betraf, so begab sich dieser an der Spitze einer
-                    protestantischen Deputation nach <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> zum <persName key="rudolf-II">Kaiser</persName>, konnte jedoch nichts ausrichten. Ja auf
+                    auf höheren Befehl. Weil dies auch <rs type="person" ref="bocskay-stephan" key="bocskay-stephan">Bocskay’s</rs> Güter betraf, so begab sich dieser an der Spitze einer
+                    protestantischen Deputation nach <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> zum <rs type="person" ref="rudolf-II" key="rudolf-II">Kaiser</rs>, konnte jedoch nichts ausrichten. Ja auf
                     dem <hi rend="ul">Landtage 1604</hi> wirkte der römische <hi rend="ul">Clerus
                         vom Kaiser, nachdem die Stände bereits auseinander</hi> gegangen waren, das
                         <hi rend="ul">furchtbare 22. Dekret</hi> aus, welches die Protestanten zur
-                    Verzweiflung brachte. So erhob sich der auf der bulla aurea <persName key="andreas-II">Andreas II.</persName> rechtlich begründete <persName key="bocskay-stephan">Boczkay’sche</persName> Widerstand, der den <hi rend="ul">
-                        <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wiener</placeName> Friedensschluß von
+                    Verzweiflung brachte. So erhob sich der auf der bulla aurea <rs type="person" ref="andreas-II" key="andreas-II">Andreas II.</rs> rechtlich begründete <rs type="person" ref="bocskay-stephan" key="bocskay-stephan">Boczkay’sche</rs> Widerstand, der den <hi rend="ul">
+                        <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wiener</rs> Friedensschluß von
                         1606</hi> zu Wege brachte, <hi rend="ul">welcher 1608 in die Diaetalartikel
                         § 1 und 2</hi> gebracht wurde: „Ut religionis exercitium tam baronibus,
                     magnatibus, nobilibus, quam etiam liberis civitatis ac universis statibus ac
@@ -260,125 +259,125 @@
                     omnium in libero ejusdem usu ac exercitio a quocunque impodiatur. – § 2. Quinimo
                     ad praecavenda inter status et ordines aliqua odia et dissensiones ut quaelibet
                     religio suae professionis superiores seu superintendentes habeant statutum est.“
-                    Hierauf wurde die erste Synode zu <placeName ref="#place_18f1c012b36296eccde93197c10f9147">
+                    Hierauf wurde die erste Synode zu <rs type="place" subtype="place" ref="#place_18f1c012b36296eccde93197c10f9147">
                         <hi rend="ul">Silein</hi>
-                    </placeName> durch den Palatin <hi rend="ul">Georg Turso
-                            [<persName key="thurzo-georg">Thurzo</persName>] 1610</hi> gehalten, die
+                    </rs> durch den Palatin <hi rend="ul">Georg Turso
+                            [<rs type="person" ref="thurzo-georg" key="thurzo-georg">Thurzo</rs>] 1610</hi> gehalten, die
                     zweite aber zu <hi rend="ul">
-                        <placeName key="kirchdrauf" ref="#place_bdc6c1ff1eaf18e7dae9e2e3e37e0260">Kirchtrauf</placeName>
-                        [sic!] durch Christoph Turso [<persName key="thurzo-christoph">Thurzo</persName>] 1614</hi>. Die in dem <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wiener</placeName> Friedensschluße § 2 vorkommenden Worte „absque
+                        <rs type="place" subtype="place" key="kirchdrauf" ref="#place_bdc6c1ff1eaf18e7dae9e2e3e37e0260">Kirchtrauf</rs>
+                        [sic!] durch Christoph Turso [<rs type="person" ref="thurzo-christoph" key="thurzo-christoph">Thurzo</rs>] 1614</hi>. Die in dem <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wiener</rs> Friedensschluße § 2 vorkommenden Worte „absque
                     praejudicio catholicae romanae religionis“ gaben aber Anlaß zu ferneren
                     Bedrückungen der Protestanten und weil diese selbst nach der Bestätigung der
-                    Freiheiten der Protestanten durch <persName key="ferdinand-II">Ferdinand
-                        II.</persName>, nehmlich den 77. Artikel des <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Presburger</placeName> Landtages von 1618, nicht aufhörten, so verband sich
-                        <persName key="bethlen-gabor">
+                    Freiheiten der Protestanten durch <rs type="person" ref="ferdinand-II" key="ferdinand-II">Ferdinand
+                        II.</rs>, nehmlich den 77. Artikel des <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Presburger</rs> Landtages von 1618, nicht aufhörten, so verband sich
+                        <rs type="person" ref="bethlen-gabor" key="bethlen-gabor">
                         <hi rend="ul">Gabriel Bethlen</hi>
-                    </persName>
-                    1619 mit den Böhmen, drang bis nach <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> vor
+                    </rs>
+                    1619 mit den Böhmen, drang bis nach <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> vor
                     und erzwang den <hi rend="ul">
-                        <placeName key="nikolsburg" ref="#place_283d661287f3e6b517a6bbae7a052afd">Nikolsburger</placeName> Frieden</hi>, welcher in den 22. Artikel des
-                        <placeName key="oedenburg" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Oedenburger</placeName> [Sopron] Landtages von
-                        <hi rend="ul">1622</hi> überging. Der Palatin Stanislaus Turso [<persName key="thurzo-stanislaus">Thurzo</persName>] hat nur das <hi rend="ul">
-                        <placeName key="semptau" ref="#place_9bd0fa060888762d8b4b8aede409636c">Semptauer</placeName> Consistorium A.C.
-                        1622</hi> gehalten, die <hi rend="ul">Reformirten</hi> aber die <hi rend="ul">Komjather [<placeName ref="#place_132e0fe90d8b4aaff130f37a740bae90">Komjat</placeName>] Synoden 1626</hi>
+                        <rs type="place" subtype="place" key="nikolsburg" ref="#place_283d661287f3e6b517a6bbae7a052afd">Nikolsburger</rs> Frieden</hi>, welcher in den 22. Artikel des
+                        <rs type="place" subtype="place" key="oedenburg" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Oedenburger</rs> [Sopron] Landtages von
+                        <hi rend="ul">1622</hi> überging. Der Palatin Stanislaus Turso [<rs type="person" ref="thurzo-stanislaus" key="thurzo-stanislaus">Thurzo</rs>] hat nur das <hi rend="ul">
+                        <rs type="place" subtype="place" key="semptau" ref="#place_9bd0fa060888762d8b4b8aede409636c">Semptauer</rs> Consistorium A.C.
+                        1622</hi> gehalten, die <hi rend="ul">Reformirten</hi> aber die <hi rend="ul">Komjather [<rs type="place" subtype="place" ref="#place_132e0fe90d8b4aaff130f37a740bae90">Komjat</rs>] Synoden 1626</hi>
                     hielten, auf welcher sie die sogenannten Komjather Kanonen feststellten. Die
                     Errungenschaften der Protestanten wurden nun immerfort auf den Landtagen von
                     1630, Artikel 33, 1635 Artikel 29, 1638 Artikel 1 bestätigt; dennoch hatte der
                     ebenso mächtige als talentvolle römische katholische Clerus seinen Vorsatz, die
                     Protestanten aufs Äußerste zu treiben, nicht aufgegeben. Georg Rákóczy
-                        [<persName key="rakoczi-georg-I">Rákóczi</persName>] griff daher zu den
-                    Waffen und zwang <persName key="ferdinand-III">Ferdinand III.</persName> zum <hi rend="ul">
-                        <placeName key="linz" ref="#place_907e6aad95b11593946e28f6e29860aa">Linzer</placeName> Friedensschluß 1647</hi>,
-                    dessen Bedingungen am <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Presburger</placeName> Landtag
-                    desselben Jahres, Artikel 5, zum Gesetz erhoben wurden, welches <persName key="leopold-I">Leopold</persName> 1655 durch ein besonderes Diplom
+                        [<rs type="person" ref="rakoczi-georg-I" key="rakoczi-georg-I">Rákóczi</rs>] griff daher zu den
+                    Waffen und zwang <rs type="person" ref="ferdinand-III" key="ferdinand-III">Ferdinand III.</rs> zum <hi rend="ul">
+                        <rs type="place" subtype="place" key="linz" ref="#place_907e6aad95b11593946e28f6e29860aa">Linzer</rs> Friedensschluß 1647</hi>,
+                    dessen Bedingungen am <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Presburger</rs> Landtag
+                    desselben Jahres, Artikel 5, zum Gesetz erhoben wurden, welches <rs type="person" ref="leopold-I" key="leopold-I">Leopold</rs> 1655 durch ein besonderes Diplom
                     bestätigte und 1659 in Presburger Diaetalartikel einreihen ließ. Die
                     Protestation des katholischen Clerus wurde durch die ausdrücklichen Worte
                     „contradictionibus dominorum cleri et aliorum quorum saecularorum catholicorum
                     non obstantibus imo iisdem in perpetuum nullum vigorem habentibus“ verworfen.
                     Dennoch gingen die Protestanten dem grausamsten Schicksal entgegen. <hi rend="ul">Zwischen 1670 und 1680</hi> wurden gegen <hi rend="ul">300
                         evangelische Prediger</hi> zu Galeeren abgeführt, andere des Landes
-                    verwiesen durch <placeName key="tyrnau" ref="#place_facae5ac432fd5974d5bbd7d9e5d8ae0">Tyrnauer</placeName> und <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburger</placeName> Commissionen. Und so hatte auch die
+                    verwiesen durch <rs type="place" subtype="place" key="tyrnau" ref="#place_facae5ac432fd5974d5bbd7d9e5d8ae0">Tyrnauer</rs> und <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburger</rs> Commissionen. Und so hatte auch die
                     festere Gestalt, welche die reformirte Kirche nach der <hi rend="ul">Synode zu
-                        Szathmár Nemethi</hi> [Szatmárnémeti, <placeName ref="#place_5649651ddc9d141d70020700dec9011b">Satu Mare</placeName>], auf
-                    welcher Stephan <persName key="katona-stephan-gelei">
+                        Szathmár Nemethi</hi> [Szatmárnémeti, <rs type="place" subtype="place" ref="#place_5649651ddc9d141d70020700dec9011b">Satu Mare</rs>], auf
+                    welcher Stephan <rs type="person" ref="katona-stephan-gelei" key="katona-stephan-gelei">
                         <hi rend="ul">Katona
                             Geleji</hi>
-                    </persName> [Gelei] die Kanonen redigirte und nachdenselben
+                    </rs> [Gelei] die Kanonen redigirte und nachdenselben
                         <hi rend="ul">1649</hi> auf der Synode zu <hi rend="ul">Maros Vásárhely</hi>
-                        [<placeName ref="#place_b54709ec140e6c62b1ba4c9ccd9be219">Marosvásárhely</placeName>] angenommen wurden publicirte, sehr
-                    wenig gefruchtet. Die Bestätigung der Rechte der Protestanten auf dem <placeName key="oedenburg" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Oedenburger</placeName> Landtage von 1681 war so gut wie
+                        [<rs type="place" subtype="place" ref="#place_b54709ec140e6c62b1ba4c9ccd9be219">Marosvásárhely</rs>] angenommen wurden publicirte, sehr
+                    wenig gefruchtet. Die Bestätigung der Rechte der Protestanten auf dem <rs type="place" subtype="place" key="oedenburg" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Oedenburger</rs> Landtage von 1681 war so gut wie
                     nicht geschehen; <hi rend="ul">Karafa wüthete furchtbar 1687</hi> in der
                     Eperiefer Schlachtbank. Zwar wurde diese Commission, nachdem sie ihre Opfer
                     verschlungen, durch den 21. Artikel des Landtages von demselben Jahre
                     abgeschafft und die Oedenburger Beschlüsse bestätigt; allein nur aus gratia et
                     clementia regis, wodurch das Loos der Protestanten zur Privatsache des Monarchen
-                    wurde, dessen <hi rend="ul">Resolution von 1691</hi>, die jene Rechte näher <hi rend="ul">bestimmen sollte, sie völlig vernichtete</hi>. Nachdem <persName key="leopold-I">Leopold</persName> 1704 gestorben war, betrat<persName key="joseph-I"> Josef I.</persName> unter großen durch <hi rend="ul">Franz
-                        Rakoczy</hi> [<persName key="rakoczi-franz-II">Rákóczi</persName>] erfolgten
-                    Unruhen den Thron, die jedoch durch den <hi rend="ul">Sathmarer [<placeName ref="#place_442dccf767fa1107f06d42404d2798b7">Satu
-                            Mare</placeName>] Vergleich 1711</hi> beigelegt wurden. Die A.C. hielten
+                    wurde, dessen <hi rend="ul">Resolution von 1691</hi>, die jene Rechte näher <hi rend="ul">bestimmen sollte, sie völlig vernichtete</hi>. Nachdem <rs type="person" ref="leopold-I" key="leopold-I">Leopold</rs> 1704 gestorben war, betrat<rs type="person" ref="joseph-I" key="joseph-I"> Josef I.</rs> unter großen durch <hi rend="ul">Franz
+                        Rakoczy</hi> [<rs type="person" ref="rakoczi-franz-II" key="rakoczi-franz-II">Rákóczi</rs>] erfolgten
+                    Unruhen den Thron, die jedoch durch den <hi rend="ul">Sathmarer [<rs type="place" subtype="place" ref="#place_442dccf767fa1107f06d42404d2798b7">Satu
+                            Mare</rs>] Vergleich 1711</hi> beigelegt wurden. Die A.C. hielten
                     nun zu <hi rend="ul">
-                        <placeName ref="#place_4572b2c8c24e71cd33427ff79bed297f">Rosenberg</placeName> ihre 4. Synode</hi>, deren
+                        <rs type="place" subtype="place" ref="#place_4572b2c8c24e71cd33427ff79bed297f">Rosenberg</rs> ihre 4. Synode</hi>, deren
                     Beschlüsse aber auf dem Landtage von <hi rend="ul">1715 mit dem 30. Artikel</hi>
                     aufgehoben wurden. Von Rechten war nur von solchen die Rede, welche die Gnade
                     des Monarchen noch hielt und die <hi rend="ul">
-                        <placeName key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pester</placeName> Commission</hi> unter <hi rend="ul">
-                        <persName key="karl-VI">Karl VI.</persName> von 1721 hat alles in völlig
+                        <rs type="place" subtype="place" key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pester</rs> Commission</hi> unter <hi rend="ul">
+                        <rs type="person" ref="karl-VI" key="karl-VI">Karl VI.</rs> von 1721 hat alles in völlig
                         rechtlosen Zustand</hi> versetzt. Die <hi rend="ul">resolutio Carolina 1734
                         bestimmte je zu 4 Superintendenten</hi> für beide Confessionen und dieser
                     Zustand dauerte bis 1781, <hi rend="ul">wo am 21. Oktober das
                         Toleranzpatent</hi> publicirt wurde und <hi rend="ul">
-                        <persName key="leopold-II">Leopold II.</persName> durch den 26. § von 1791 den
+                        <rs type="person" ref="leopold-II" key="leopold-II">Leopold II.</rs> durch den 26. § von 1791 den
                         rechtlichen</hi> Zustand wiederherstellte, worauf die<hi rend="ul"> A.C. in
-                            <placeName ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</placeName>
+                            <rs type="place" subtype="place" ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</rs>
                     </hi>, die <hi rend="ul">H.C. in
-                            <placeName ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</placeName>
+                            <rs type="place" subtype="place" ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</rs>
                     </hi> eine Synode hielten, oft aber zusammen
                     beriethen. Die seit der Zeit erlassenen Intimate haben den 26. § vielfach
                     verletzt, namentlich die Angelegenheit der gemischten Ehen sehr verwirrt und den
                     Übertritt beinahe unmöglich gemacht, bis der <hi rend="ul">3. Artikel von 1844
                         beides geregelt und der 20. Artikel 1848 allen anerkannten Confessionen in
-                            <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country>
+                            <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>
                     </hi> vollkommene <hi rend="ul">Gleichheit und
                         Wechselseitigkeit</hi> zusicherte.</p>
-                <p>6. <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">
+                <p>6. <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">
                         <hi rend="ul">Siebenbürgen</hi>
-                    </region>:<lb/>Durch die aus <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country>
+                    </rs>:<lb/>Durch die aus <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs>
                     zurückkehrenden Kaufleute bekannt geworden, gewann die lutherische Lehre
-                    besonders durch zwei schlesische Geistliche <persName key="ambrosius-moibanus">Ambrosius</persName> und <persName key="gregor">Gregor</persName> eine sehr
-                    schnelle Ausbreitung, wogegen die Anordnungen des <placeName key="esztergom" ref="#place_cde856980f41b5362c96273d9c84431d">Graner</placeName> Erzbischofs wegen der türkischen Kriege nichts
-                    vermochten. Als nach der Schlacht bei <placeName key="mohacs" ref="#place_f4a93182f52c275e53cbcffcd600f929">Mohac</placeName>
-                    1526 Johann von Zipsen [<persName key="zapolya-johann">Johann
-                    Zápolya</persName>] zum König von <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> sich aufgeworfen,
+                    besonders durch zwei schlesische Geistliche <rs type="person" ref="ambrosius-moibanus" key="ambrosius-moibanus">Ambrosius</rs> und <rs type="person" ref="gregor" key="gregor">Gregor</rs> eine sehr
+                    schnelle Ausbreitung, wogegen die Anordnungen des <rs type="place" subtype="place" key="esztergom" ref="#place_cde856980f41b5362c96273d9c84431d">Graner</rs> Erzbischofs wegen der türkischen Kriege nichts
+                    vermochten. Als nach der Schlacht bei <rs type="place" subtype="place" key="mohacs" ref="#place_f4a93182f52c275e53cbcffcd600f929">Mohac</rs>
+                    1526 Johann von Zipsen [<rs type="person" ref="zapolya-johann" key="zapolya-johann">Johann
+                    Zápolya</rs>] zum König von <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> sich aufgeworfen,
                     fing er, um die Prälaten auf seiner Seite zu behalten, die Bedrückung der
-                    Protestanten. <persName key="bethlen-alexius">Alexius Bethlen</persName>, jedoch
-                    von <persName key="ferdinand-I">Ferdinand I.</persName> nach der Niederlage
-                        <persName key="zapolya-johann">Johanns</persName> am Tokay zum Gouverneur
+                    Protestanten. <rs type="person" ref="bethlen-alexius" key="bethlen-alexius">Alexius Bethlen</rs>, jedoch
+                    von <rs type="person" ref="ferdinand-I" key="ferdinand-I">Ferdinand I.</rs> nach der Niederlage
+                        <rs type="person" ref="zapolya-johann" key="zapolya-johann">Johanns</rs> am Tokay zum Gouverneur
                     ernannt, schützte sie, so zwar, daß nachdem der Friede wieder hergestellt und
-                    Peter Petrowich [<persName key="petrovich-peter">Petrovich</persName>] von der
-                    verwittweten Königin <persName key="isabella-jagiellonica">Isabella</persName>
-                    zum Gouverneur von <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</region> bestellt
-                    worden, auf dem Landtage von <placeName ref="#place_e1596fb5477bf0a334849441bb331cbb">Klausenburg</placeName> 1556 der
+                    Peter Petrowich [<rs type="person" ref="petrovich-peter" key="petrovich-peter">Petrovich</rs>] von der
+                    verwittweten Königin <rs type="person" ref="isabella-jagiellonica" key="isabella-jagiellonica">Isabella</rs>
+                    zum Gouverneur von <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> bestellt
+                    worden, auf dem Landtage von <rs type="place" subtype="place" ref="#place_e1596fb5477bf0a334849441bb331cbb">Klausenburg</rs> 1556 der
                     Kathedralcensus die Güter der Kapitel und Bischöfe dem königlichen Fiskus
                     zugeschlagen wurde. Die Evangelischen hielten ihre erste Synode zu <hi rend="ul">
-                        <placeName key="erdoed" ref="#place_f29567ac1e18706e954223eaab87d2c7">Erdöd</placeName> 1545</hi>, auf welcher sie
+                        <rs type="place" subtype="place" key="erdoed" ref="#place_f29567ac1e18706e954223eaab87d2c7">Erdöd</rs> 1545</hi>, auf welcher sie
                     der A.C. gemäße Artikel feststellten. Die <hi rend="ul">Secession der H.C.</hi>
                     fing schon auf den Versammlungen zu <hi rend="ul">
-                        <placeName ref="#place_27359b67dd5a2d5504cd1b7f5f2e7d0a">Torda</placeName>
+                        <rs type="place" subtype="place" ref="#place_27359b67dd5a2d5504cd1b7f5f2e7d0a">Torda</rs>
                         1558</hi>, <hi rend="ul">
-                        <placeName ref="#place_e1596fb5477bf0a334849441bb331cbb">Klausenburg</placeName> 1560</hi> und
+                        <rs type="place" subtype="place" ref="#place_e1596fb5477bf0a334849441bb331cbb">Klausenburg</rs> 1560</hi> und
                         <hi rend="ul">
-                        <placeName ref="#place_3a0ef7f393fdd2f83c32f3a26a89f03a">Medias</placeName> 1561</hi> und vollendete sich
-                    auf der zu <placeName key="grossenyed" ref="#place_2261bbfdf1dae066e0e3a0b013cf5569">Groß-Enyed</placeName> 1564 durch
-                        <persName key="zapolya-johann-sigismund">Johann II.</persName> abgehaltenen
-                    Synode. Weil 1542 <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</region> von
-                        <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> getrennt wurde, so willigte schon <hi rend="ul">1557 <persName key="isabella-jagiellonica">Isabella</persName>
+                        <rs type="place" subtype="place" ref="#place_3a0ef7f393fdd2f83c32f3a26a89f03a">Medias</rs> 1561</hi> und vollendete sich
+                    auf der zu <rs type="place" subtype="place" key="grossenyed" ref="#place_2261bbfdf1dae066e0e3a0b013cf5569">Groß-Enyed</rs> 1564 durch
+                        <rs type="person" ref="zapolya-johann-sigismund" key="zapolya-johann-sigismund">Johann II.</rs> abgehaltenen
+                    Synode. Weil 1542 <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> von
+                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> getrennt wurde, so willigte schon <hi rend="ul">1557 <rs type="person" ref="isabella-jagiellonica" key="isabella-jagiellonica">Isabella</rs>
                     </hi> mit
                     souverainer Macht „ut quisque teneat eam fidem quam vellet“. So bestimmte auch
-                    der <placeName key="torda" ref="#place_3fb5a1e6aeae0776955edf872a734f19">Tordaer</placeName>
+                    der <rs type="place" subtype="place" key="torda" ref="#place_3fb5a1e6aeae0776955edf872a734f19">Tordaer</rs>
                     <hi rend="ul">Landtag von 1563</hi> „ut unusquisque eam quam maluerit religionem
                     amplecti valeat et neutra partium altei damno impedimentoque esse aut injuriam
                     inferre debeat.“ Weil indessen selbst unitarische Lehren von
-                        <country ref="#place_c5d7f540c8bc591b128caf6c923206f8">Polen</country> aus in <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</region> Eingang und nicht unbeträchtliche Verbreitung
+                        <rs type="place" subtype="country" ref="#place_c5d7f540c8bc591b128caf6c923206f8">Polen</rs> aus in <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> Eingang und nicht unbeträchtliche Verbreitung
                     gefunden, so bestimmte die geordnete <hi rend="ul">Constitution von 1653</hi>
                     parte I. titulo I. articulo 2: „Quatuor receptae religiones juxta communes et
                     mutuo consensu regnicolarum factas constitutiones deinceps quoque in perpetuum
@@ -390,12 +389,12 @@
                     juxta constitutionis regni solitis deinceps quoque concedatur“, welche
                     Bestimmungen nicht nur durch einen jeden nahen Fürsten im 1. Artikel de quatuor
                     receptis religionibus non Turbandis bestätigt werden mußten, sondern auch durch
-                        <persName key="leopold-I">Leopolds I.</persName> 1691 gegebenes besondere
+                        <rs type="person" ref="leopold-I" key="leopold-I">Leopolds I.</rs> 1691 gegebenes besondere
                     Diplom in causa religionum nihil alterabitur so wie dies schon durch den
-                    Sadmarer [Sathmarer, <placeName ref="#place_5649651ddc9d141d70020700dec9011b">Satu Mare</placeName>] Vergleich vom 6. Mai 1711
+                    Sadmarer [Sathmarer, <rs type="place" subtype="place" ref="#place_5649651ddc9d141d70020700dec9011b">Satu Mare</rs>] Vergleich vom 6. Mai 1711
                     wieder durch den 3. Artikel in religionis negotio receptas regni constitutiones
                     manutenebimus sanktionirt wurde. Im Verlaufe des 18. Jahrhunderts ist freilich
-                    vielfach im Einzelnen anders bestimmt worden. Allein <persName key="leopold-II">Leopold II.</persName> erneuerte sie durch den 53. Artikel 1791 „Quatuor
+                    vielfach im Einzelnen anders bestimmt worden. Allein <rs type="person" ref="leopold-II" key="leopold-II">Leopold II.</rs> erneuerte sie durch den 53. Artikel 1791 „Quatuor
                     receptae religiones vigore legum patriarum benigno diplomate firmatarum ac
                     titulis illis, qui religioni catholicae praedicassent, per articulum 6 et 7
                     novellarium articulorum anni 1744 jam sublatis in aequalitate jurium ac
@@ -405,9 +404,9 @@
                     anheimgestellt. <hi rend="ul">Durch den 57. Artikel</hi> aber festgesetzt, daß
                     die <hi rend="ul">Kinder gemischter Ehen in religiöser</hi> Hinsicht dem <hi rend="ul">Geschlechte der Eltern nachzufolgen hätten und dieses Gesetz</hi>
                     ist jedes Mal vor der Huldigung durch die neuesten Fürsten eigens bestätigt
-                    worden, <hi rend="ul">so 1837 am 18. April durch <persName key="ferdinand-karl-von-oesterreich-este">Ferdinand Ferd. Karl
-                            d’Este</persName>
-                    </hi> für den Kaiser <persName key="ferdinand-I-oesterreich">Ferdinand</persName>.</p>
+                    worden, <hi rend="ul">so 1837 am 18. April durch <rs type="person" ref="ferdinand-karl-von-oesterreich-este" key="ferdinand-karl-von-oesterreich-este">Ferdinand Ferd. Karl
+                            d’Este</rs>
+                    </hi> für den Kaiser <rs type="person" ref="ferdinand-I-oesterreich" key="ferdinand-I-oesterreich">Ferdinand</rs>.</p>
             </div>
         </body>
     </text>

@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Der Trivialschullehrer von Louchov an <persName key="elisabeth" role="recipient">Kaiserin
-                        Elisabeth</persName>
+                <title>Der Trivialschullehrer von Louchov an <rs type="person" ref="elisabeth" key="elisabeth" role="recipient">Kaiserin
+                        Elisabeth</rs>
                     <lb/>
-                    <placeName ref="#place_6674e988eca2870a152f640ea23af1b1">Laucha</placeName> [Louchov], <date when="1854-06-28">28. Juni 1854</date>
+                    <rs type="place" subtype="place" ref="#place_6674e988eca2870a152f640ea23af1b1">Laucha</rs> [Louchov], <date when="1854-06-28">28. Juni 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -36,7 +35,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -52,8 +51,8 @@
                     ehrfurchtvollste Bitte um eine allergnädigste Unterstützung in meiner Noth und
                     gedrängten Lage, in der zuversichtlichen Hoffnung, nicht unerhört zu
                     bleiben.<lb/>Ich unterthänigst Gefertigter bin an der Trivialschule zu
-                        <placeName ref="#place_6674e988eca2870a152f640ea23af1b1">Laucha</placeName> [Louchov] am Fuße des böhmischen armen
-                    Erzgebirges nächst <placeName key="pressnitz" ref="#place_ba6ec62aba9016a406ea334f3e41beaf">Preßnitz</placeName> [Přísečnice]
+                        <rs type="place" subtype="place" ref="#place_6674e988eca2870a152f640ea23af1b1">Laucha</rs> [Louchov] am Fuße des böhmischen armen
+                    Erzgebirges nächst <rs type="place" subtype="place" key="pressnitz" ref="#place_ba6ec62aba9016a406ea334f3e41beaf">Preßnitz</rs> [Přísečnice]
                     als Lehrer angestellt und arbeite als solcher an derselben nun durch 43 Jahre
                     zur allseitigen Zufriedenheit, habe 10 eheliche Kinder erzogen, wovon 5 noch am
                     Leben und noch unversorgt sind, habe mehrere theure Zeiten, Kriegs- und
@@ -94,7 +93,7 @@
                     Pflichterfüllung und täglich eifriges Gebet für das Wohlergehen unseres
                     allgeliebtesten Allerhöchsten Kaiserpaares mich der Würdigung einer hilfreichen
                     Unterstützung in dieser bedrängten Lage für die alten Tage verdient zu machen
-                    und rufe in froher Hoffnung aus: „Hoch lebe unser allgeliebster Kaiser <persName key="franz-joseph">Franz Joseph</persName>! Hoch lebe unsere allgeliebteste
+                    und rufe in froher Hoffnung aus: „Hoch lebe unser allgeliebster Kaiser <rs type="person" ref="franz-joseph" key="franz-joseph">Franz Joseph</rs>! Hoch lebe unsere allgeliebteste
                     Landesmutter Elisabeth!</p>
                 <p>allerunterthänigster<lb/>Joseph [?]<lb/>Schullehrer</p>
                 <p>Laucha, am 28. Juni 1854</p>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -44,7 +43,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -113,7 +112,7 @@
                     philosophischen Facultät so viel wie <hi rend="ul">nichts</hi> tragen
                     werden;<lb/>c. weil insbesondere in <orgName key="universitaet-olmuetz">Olmütz</orgName>, <orgName key="universitaet-graz">Gratz</orgName> und
                         <orgName key="universitaet-innsbruck">Insbruck</orgName> die Gehalte der
-                    philosophischen und theologischen altangestellten Professoren stets <hi rend="ul">absolut zu geringe</hi> waren, 700–900, 800–1.000,<note xml:id="note_3">Anmerkung am rechten Rand: <persName key="jaeger-albert">Prof. Jäger</persName> hatte in <orgName key="universitaet-innsbruck">Innsbruck</orgName> jährlich 600 fl.</note> und somit viele
+                    philosophischen und theologischen altangestellten Professoren stets <hi rend="ul">absolut zu geringe</hi> waren, 700–900, 800–1.000,<note xml:id="note_3">Anmerkung am rechten Rand: <rs type="person" ref="jaeger-albert" key="jaeger-albert">Prof. Jäger</rs> hatte in <orgName key="universitaet-innsbruck">Innsbruck</orgName> jährlich 600 fl.</note> und somit viele
                     Universitätsprofessoren schlechter darin sind als Gymnasiallehrer.<lb/>d. weil
                     die philosophischen und theologischen Professoren früher bedeutend weniger
                     bezogen als die juridischen, woraus in Folge des neuen Systems eine doppelte

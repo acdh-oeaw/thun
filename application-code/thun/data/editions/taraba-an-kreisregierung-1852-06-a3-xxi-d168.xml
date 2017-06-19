@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="taraba-josef" role="sender:gelehrter">Josef Taraba</persName>
+                    <rs type="person" ref="taraba-josef" key="taraba-josef" role="sender:gelehrter">Josef Taraba</rs>
                     an die Kreisregierung in Jičín<lb/>
-                    <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, <date when="1852-06">Juni 1852</date>
+                    <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1852-06">Juni 1852</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -46,7 +45,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -57,14 +56,14 @@
                 </index>
                 <p>Wohllöbliche k.k. Kreisregierung!</p>
                 <p>Mit meinem sub % anrufenden an die k.k. Bezirkshauptmannschaft zu Nimburg
-                        [<placeName ref="#place_059cbe1849eb175fb5cf7b7bf78516f7">Nymburk</placeName>] um Erwirkung eines k.k.
+                        [<rs type="place" subtype="place" ref="#place_059cbe1849eb175fb5cf7b7bf78516f7">Nymburk</rs>] um Erwirkung eines k.k.
                     Kreisregierungspasses, welchen ich zum Behufe einer Reise zur wissenschaftlichen
                     Ausbildung angesucht habe, wurde ich laut Bescheides vom 25. Mai dieses Jahres
                     Z. 6445<note xml:id="note_1">Vgl. <ref target="#D168_1">Abschlägiger Bescheid
                             der Bezirkshauptmannschaft vom 25. Mai 1852</ref>.</note> aus dem Grunde
                     abgewiesen, weil ich angeblich an <orgName key="universitaet-prag">unserer
                         vaterländischen Hochschule</orgName> genug Gelegenheit finde mein
-                    vorgesetztes Ziel zu erreichen und weil meine nach der Ansicht des <persName key="komers-karl">Herrn Bezirkshauptmanns</persName> materiellen
+                    vorgesetztes Ziel zu erreichen und weil meine nach der Ansicht des <rs type="person" ref="komers-karl" key="komers-karl">Herrn Bezirkshauptmanns</rs> materiellen
                     Verhältnisse keine beruhigende (?) Aussicht darbiethen, die vorhabenden Reisen
                     mit Erfolg benützen zu können.<lb/>Bei einer so grundlosen Abweisung bleibt mir
                     nur der Weg der Berufung an die k.k. Kreisregierung übrig, welchen ich
@@ -73,7 +72,7 @@
                     zu besuchen.“<lb/>Wenn ich auch aus persönlicher Überzeugung alle Achtung für
                         <orgName key="universitaet-prag">unsere vaterländische Hochschule</orgName>
                     fühle und sie auch überall ausspreche, so muß ich doch behaupten, andererseits,
-                    daß der <persName key="komers-karl">Nimburger Herr Bezirkshauptmann</persName>
+                    daß der <rs type="person" ref="komers-karl" key="komers-karl">Nimburger Herr Bezirkshauptmann</rs>
                     in der Beurtheilung der Naturwissenschaften ein Laie ist und seine Ansicht, als
                     könnte eine andere Lehranstalt nichts Neues zur Erlernung biethen, blos auf
                     seiner subjectiv falschen Überzeugung zu beruhen scheine.<lb/>So gut es an
@@ -81,18 +80,18 @@
                     gibt es auch deren im Auslande, wofür deren nicht seltene Berufung an unsere
                     Lehranstalten ein deutlicher und unwiderlegbarer Beweis ist.<lb/>Auch dürfte es
                     der erste Fall sein, daß ein Candidat der Medizin und Chirurgie an den Ort, wo
-                    er seine öffentlichen Studien beendet, gebunden bleiben müßte, wie der <persName key="komers-karl">k.k. Herr Bezirkshauptmann</persName> in seiner Erledigung
-                    durch die Worte: „so dürfte Ihnen dermal in <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> immerhin
+                    er seine öffentlichen Studien beendet, gebunden bleiben müßte, wie der <rs type="person" ref="komers-karl" key="komers-karl">k.k. Herr Bezirkshauptmann</rs> in seiner Erledigung
+                    durch die Worte: „so dürfte Ihnen dermal in <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> immerhin
                     soviel Gelegenheit etc[?] zu wünschen und zu befehlen scheint.“<lb/>Denn bisher
                     wurde einem jeden im ähnlichen Falle jeder mögliche Vorschub geleistet, damit er
                     ja reisen, sich bilden und dann seinem Vaterlande nützen könne.<lb/>Was den
                     zweiten meiner Abweisung zu Grunde liegenden Umstand anbelangt, daß meine
                     materiellen Verhältnisse keine beruhigende Aussicht darbiethen, daß ich die
                     vorhabende Reise mit Erfolg benützen könnte, so glaube ich, daß er nur in einer
-                    übertriebenen Besorgnis des <persName key="komers-karl">k.k. Herrn
-                        Bezirkshauptmannes</persName> beruht.<lb/>Ich bin 27 Jahre alt und muthe mir
+                    übertriebenen Besorgnis des <rs type="person" ref="komers-karl" key="komers-karl">k.k. Herrn
+                        Bezirkshauptmannes</rs> beruht.<lb/>Ich bin 27 Jahre alt und muthe mir
                     ohne Unbescheidenheit soviel Überlegung zu, daß ich eine wissenschaftliche Reise
-                    ohne zureichende Mittel nicht antreten könne und dürfe.<lb/>Der <persName key="komers-karl">k.k. Bezirkshauptmann von Nimb[urg]</persName> hat in
+                    ohne zureichende Mittel nicht antreten könne und dürfe.<lb/>Der <rs type="person" ref="komers-karl" key="komers-karl">k.k. Bezirkshauptmann von Nimb[urg]</rs> hat in
                     meinem Falle nicht geschaut und ebensowenig mich gefragt, ob ich im Besitze der
                     nöthigen Mittel bin oder ob nicht vielleicht ein Gönner mir dieselben
                     vorschießen oder zu eben dem Zwecke gar schenken will.<lb/>Selbst unter den
@@ -103,7 +102,7 @@
                     verfolgt und glücklich erreicht.<lb/>Ich will so wenig als möglich fremder
                     Beihilfe mich bedienen und kann noch über soviel disponiren, daß ich die
                     vorhabende Reise ohne jede Besorgnis antreten kann.<lb/>Wiewohl ich dem
-                        <persName key="komers-karl">k.k. Bezirkshauptmann von Nimburg</persName>
+                        <rs type="person" ref="komers-karl" key="komers-karl">k.k. Bezirkshauptmann von Nimburg</rs>
                     keine Persönlichkeit imputiren will, so kann ich doch nichts weniger als einen
                     Grund für die von ihm ausgesprochene Paßverweigerung finden, zumal ich weder
                     politisch compromittirt, noch in einem solchen Rufe stehe, daß ich die
@@ -119,7 +118,7 @@
                             Hochschule</orgName> und Krankenanstalten sich eines so ausgezeichneten
                         Rufes erfreuen, daß dieselben von auswärtigen Studierenden und Ärzten Behufs
                         ihrer Ausbildung besucht werden, so dürfte Ihnen dermal in
-                            <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> immerhin soviel Gelegenheit hierlandes
+                            <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> immerhin soviel Gelegenheit hierlandes
                         geboten seyn, um Ihr vorgesetztes Ziel zu erreichen, und es geht mir bei dem
                         Umstande, wo Ihre materiellen Verhältnisse keine beruhigende Aussicht
                         darbiethen, daß Sie die vorhabenden Reisen mit Erfolg benützen könnten,
@@ -146,17 +145,17 @@
                     <p/>
                     <p>Nr. 209<lb/>
                         <hi rend="ul">An den absolvierten Hörer der Medicin Herrn
-                                <persName key="taraba-josef">Taraba Jos[ef]</persName>
+                                <rs type="person" ref="taraba-josef" key="taraba-josef">Taraba Jos[ef]</rs>
                         </hi>
                     </p>
-                    <p>Nach der vom Herrn <persName key="patruban-carl">Prof. von
-                            Patruban</persName> mit den Unterrichtszustandsberichte für das
+                    <p>Nach der vom Herrn <rs type="person" ref="patruban-carl" key="patruban-carl">Prof. von
+                            Patruban</rs> mit den Unterrichtszustandsberichte für das
                         Studienjahr 1847/8 erstatteten Anzeige haben Sie bei der Anfertigung von
                         Präparaten für die physiologische Lehranstalt mit seltner Ausdauer und sehr
                         lobenswerther Fertigkeit sich betheiligt.<lb/>Für diese Ihre Leistungen wird
                         Ihnen die verdiente Anerkennung von Seite des Lehrkörpers eröffnet.</p>
                     <p>Vom k.k. medizinisch-chirurgischen Studiendirektorate<lb/>
-                        <persName key="nadherny-ignaz">Nadherny</persName>
+                        <rs type="person" ref="nadherny-ignaz" key="nadherny-ignaz">Nadherny</rs>
                     </p>
                     <p>Prag, vom 7. Jänner 1849</p>
                 </div>

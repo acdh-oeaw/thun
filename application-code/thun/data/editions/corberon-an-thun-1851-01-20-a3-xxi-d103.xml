@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="corberon-edgar" role="sender">Edgar Corberon</persName> an
-                        <persName key="thun-hohenstein-leo">Leo
-                        Thun</persName>
+                    <rs type="person" ref="corberon-edgar" key="corberon-edgar" role="sender">Edgar Corberon</rs> an
+                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_fb54da6c683f708847e8ebdb7b72b097">Januševec</placeName>, <date when="1851-01-20">20. Januar 1851</date>
+                    <rs type="place" subtype="place" ref="#place_fb54da6c683f708847e8ebdb7b72b097">Januševec</rs>, <date when="1851-01-20">20. Januar 1851</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -34,7 +33,7 @@
                             Unterrichts sowie die Unterrichtssprache ein. Letzteres behandelt er
                             ausführlich und schlägt vor, an der theologischen Fakultät lateinisch zu
                             lehren. Die Medizin und die Naturwissenschaften sollten in einer
-                            Übergangsphase zunächst in deutscher, dann&#160;– nach Ablauf dieser
+                            Übergangsphase zunächst in deutscher, dann – nach Ablauf dieser
                             Übergangsphase – in kroatischer Sprache gelehrt werden. Für die übrigen
                             Fächer sollte indes Kroatisch sofort als Unterrichtssprache gelten.
                             Corberon glaubt, dass nur mit diesem Vorgehen eine echte kroatische
@@ -55,7 +54,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -81,7 +80,7 @@
                     ich, hochgeborener Graf, Ihrem Gedanken, ohne früher denselben gekannt zu haben,
                     dennoch im voraus entgegengekommen, indem ich, wenn nicht alle, doch mehrere
                     Vorlesungen in <hi rend="ul">deutscher</hi> Sprache als durchaus unumgänglich
-                    erachtete. Obgleich ich meiner engeren Heimath, dem <region key="kroatien-slawonien" ref="#place_6fe90dd680c4a571ed89e631ef2d48ed">Königreiche Croatien</region>, sehr anhänglich und
+                    erachtete. Obgleich ich meiner engeren Heimath, dem <rs type="place" subtype="region" key="kroatien-slawonien" ref="#place_6fe90dd680c4a571ed89e631ef2d48ed">Königreiche Croatien</rs>, sehr anhänglich und
                     einer von denen bin, die gern das reiche schöne slavische Idiom um jeden Preis
                     beförderten und ausbildeten, weil ich dies in jeder Hinsicht für zweckmäßig und
                     wohlthätig halte, so gehöre ich doch nicht zu jenen blind exaltirten Patrioten,
@@ -92,8 +91,8 @@
                     wahren Standpunkt unserer gegenwärtigen Unbildung.<lb/>Wie ist aber da zu
                     helfen? Denn etwas muß sonder Zweifel für dieses verwaiste Land geschehen, wenn
                     man größeren Gefahren vorbeugen will. Es sind mir dazu nur zwei Wege bekannt.
-                        <hi rend="ul">Entweder</hi> läßt man talentvolle Jünglinge aus <region key="kroatien" ref="#place_46ef149805b1b370596a83886b1e010e">Croatien</region>, <region ref="#place_299612e0d182b014fab16ff4af53cb95">Slawonien</region> und
-                        <region ref="#place_3d93c766d980f58a8e989a616a0c72e6">Dalmatien</region> in der Ferne studiren; <hi rend="ul">oder</hi>
+                        <hi rend="ul">Entweder</hi> läßt man talentvolle Jünglinge aus <rs type="place" subtype="region" key="kroatien" ref="#place_46ef149805b1b370596a83886b1e010e">Croatien</rs>, <rs type="place" subtype="region" ref="#place_299612e0d182b014fab16ff4af53cb95">Slawonien</rs> und
+                        <rs type="place" subtype="region" ref="#place_3d93c766d980f58a8e989a616a0c72e6">Dalmatien</rs> in der Ferne studiren; <hi rend="ul">oder</hi>
                     man stiftet hierzulande sobald wie nur möglich eine Hochschule, wo sie
                     Gründliches erlernen können, damit wir nach einigen Jahren gute Professoren
                     selber besitzen, welche dann in der Nationalsprache zu dociren im Stande seyen.
@@ -109,7 +108,7 @@
                     in croatischer Sprache zu veranstalten, und es scheint mir <hi rend="ul">weise</hi>, dies zu befördern. Die Hauptsache wäre nur, für diese letzteren
                     Lehrcurse mit Tact und Talent solche Männer zu wählen, denen man die Erziehung
                     der Jugend anvertrauen dürfte. Aber auch diese Wahl wäre am Ende nicht so enorm
-                    schwierig. Freilich müßte man Persönlichkeiten wie Berlić [<persName key="brlic-andrija">Brlić</persName>] und Consorten entfernt halten oder sie
+                    schwierig. Freilich müßte man Persönlichkeiten wie Berlić [<rs type="person" ref="brlic-andrija" key="brlic-andrija">Brlić</rs>] und Consorten entfernt halten oder sie
                         <hi rend="ul">unschädlich</hi> zu machen wissen. Aus allen diesen Gründen
                     habe ich zum Kanzler der Universität einen Mann gewünscht, der vielfachst
                     gebildet, einen energischen und makellosen Charakter mit dem reinsten und besten
@@ -122,13 +121,13 @@
                     es verlangte, die Hefte dem Kanzler zu genauer Prüfung im voraus unterbreitet
                     werden. Für die Medicin hätten wir hier einige Männer, auf die ich schon
                     gerechnet habe, denn auch ich würde nicht gern gar zu viele Ausländer berufen
-                    sehen. Dr. <persName key="vancas-aleksa">Vancaš</persName>, Physikus und
+                    sehen. Dr. <rs type="person" ref="vancas-aleksa" key="vancas-aleksa">Vancaš</rs>, Physikus und
                     gerühmter Augenarzt, wäre zum Professor der Stadt- und Landklinik, dann auch der
-                    ophthalmiatrischen Klinik ganz geeignet. Dr. <persName key="mraovic-aleksandar">Mraović</persName>, beliebter und geschickter Damenarzt und Accoucheur,
+                    ophthalmiatrischen Klinik ganz geeignet. Dr. <rs type="person" ref="mraovic-aleksandar" key="mraovic-aleksandar">Mraović</rs>, beliebter und geschickter Damenarzt und Accoucheur,
                     paßte vortrefflich für das Entbindungsinstitut usw. Diese Herren könnten füglich
                     in croatischer Sprache dociren und so den Ansprüchen der Nationalität Rechnung
                     tragen. Ich glaube ganz sicher, daß die Universitätssache gut einzuleiten wäre,
-                    wenn man mit Vorsicht zu Werke gienge. Die Mehrzahl in <region key="kroatien" ref="#place_46ef149805b1b370596a83886b1e010e">Croatien</region> würde unbedingt die Errichtung der Universität als eine
+                    wenn man mit Vorsicht zu Werke gienge. Die Mehrzahl in <rs type="place" subtype="region" key="kroatien" ref="#place_46ef149805b1b370596a83886b1e010e">Croatien</rs> würde unbedingt die Errichtung der Universität als eine
                     große Wohlthat betrachten und dem <orgName key="ministerium-fuer-kultus-und-unterricht">Ministerio</orgName> sehr
                     dankbar dafür seyn. Aber auch die excentrisch Nationalen würden keine erhebliche
                     Opposition bilden. Als ich mein Programm schrieb, theilte ich, um den
@@ -138,15 +137,15 @@
                     ich ergriff die Gelegenheit, um ihnen derbe Wahrheiten zu sagen, und nachdem ich
                     ihnen auseinandergesetzt hatte, daß mit ihren Ansichten und Begriffen das Land
                     niemals emporkommen würde, sagte ich: „Dieses Programm sende ich nach
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>. Ob das <orgName key="ministerium-fuer-kultus-und-unterricht">Ministerium</orgName> es
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>. Ob das <orgName key="ministerium-fuer-kultus-und-unterricht">Ministerium</orgName> es
                     annehmen wird, ob Ihr es verschmähen werdet, das weiß ich nicht, und es kümmert
                     mich auch wenig. Ihr habt es gehört: Alles Theologische soll <hi rend="ul">lateinisch</hi>, Naturwissenschaften und Medicin <hi rend="ul">deutsch</hi>, alles Übrige, also Alles, wo keine eiserne Nothwendigkeit das
                     Gegentheil gebietet, <hi rend="ul">croatisch</hi> vorgetragen werden. Geht mein
                     Vorschlag durch, so werdet Ihr die glücklichen Folgen davon binnen mäßiger Frist
                         <hi rend="ul">sehen</hi>. Binnen zehn Jahren wird hier Alles croatisch
                     gelehrt werden, und wir, die wir heute um ein Jahrhundert zurück sind, werden
-                    dann auf der Culturstufe stehen, welche <country ref="#place_64f607906be7598a02d75dbc1e979662">England</country>,
-                        <country ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</country> und <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country> bereits
+                    dann auf der Culturstufe stehen, welche <rs type="place" subtype="country" ref="#place_64f607906be7598a02d75dbc1e979662">England</rs>,
+                        <rs type="place" subtype="country" ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</rs> und <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> bereits
                     erreicht haben. Wird mein Programm verworfen, von welcher Seite dies auch
                     geschehe, so thue ich alsdann, was Ihr heute von mir vergebens verlangt, d. h.
                     ich lasse es drucken, deponire einige Exemplare davon in den Landesarchiven und
@@ -173,7 +172,7 @@
                     figura docet, im Schatten seiner Bäume und Bücher mit seinem guten
                     Gewissen.<lb/>Abgesehen von den Motiven für die Universität glaube ich die
                     Aufmerksamkeit Euer Excellenz vorzüglich noch auf die Medicin, dann die
-                    Volksschulen und endlich die Gymnasien in <region key="kroatien" ref="#place_46ef149805b1b370596a83886b1e010e">Croatien</region> lenken zu sollen.<lb/>Der medicinischen Facultät bedürfen
+                    Volksschulen und endlich die Gymnasien in <rs type="place" subtype="region" key="kroatien" ref="#place_46ef149805b1b370596a83886b1e010e">Croatien</rs> lenken zu sollen.<lb/>Der medicinischen Facultät bedürfen
                     wir, außer den schon im Programm erörterten Gründen, schon deshalb dringend
                     nöthig, weil unser Land so großen Mangel an Ärzten hat. Ganze Districte von
                     3-4.000 und auch noch mehr Seelen sind oft ganz ohne ärztliche Hülfe, und das
@@ -184,7 +183,7 @@
                     durch mich selbst viele Bauern, viele von meinen Dienern und Nachbarn mit Salz
                     und Franzbranntwein, mit Brechmitteln, Chinin usw. gerettet und hergestellt
                     worden. Aber nicht bloß in den südslavischen Ländern ist der Mangel an Ärzten
-                    fühlbar. Ihre Anzahl ist in der ganzen <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Monarchie</country> so gering, daß, wenn der Krieg ausgebrochen wäre, es
+                    fühlbar. Ihre Anzahl ist in der ganzen <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Monarchie</rs> so gering, daß, wenn der Krieg ausgebrochen wäre, es
                     kaum gelungen seyn würde, ohne Ausländer den Bedarf der Armee zu decken.<lb/>Die
                     Volksschulen bestehen bei uns fast nur dem Namen nach; in Civilcroatien ist kaum
                     hie und da eine obenein sehr schlechte Schule zu finden. Auch die Schullehrer
@@ -197,19 +196,19 @@
                     Aufsicht des Clerus, wenn auch unter der Obercontrolle des Universitätskanzlers,
                     stehen. Ich würde dafür stimmen, die <hi rend="ul">Primar</hi>schulen sogar
                     ausschließlich dem Clerus anzuvertrauen, wie es neuerdings in
-                        <country ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</country> geschieht.<lb/>Endlich die Gymnasien. Auch an
+                        <rs type="place" subtype="country" ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</rs> geschieht.<lb/>Endlich die Gymnasien. Auch an
                     diesen ist notorisch gar viel zu bessern. Aber wie können wir gute
                     Gymnasiallehrer erhalten, wenn keine Universität da ist, um sie zu bilden? In
                     der Fremde können diese Lehrer nicht studiren, schon der größeren Kosten
                     wegen.<lb/>Um mich zu resumiren, so bin ich der Ansicht, daß die Errichtung
                     einer Universität zu Agram von immenser Tragweite, nicht bloß für das
-                    südslavische Gebiet, sondern auch für die ganze <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Monarchie</country> wäre. Unser schönes Gebiet ist arm, sehr arm, so lange
+                    südslavische Gebiet, sondern auch für die ganze <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Monarchie</rs> wäre. Unser schönes Gebiet ist arm, sehr arm, so lange
                     nichts geschieht, um die materielle und intellectuelle Cultur desselben zu
                     heben. Aber es würde sehr reich werden, wenn die Naturwissenschaften, bei uns
                     eingebürgert, uns die materiellen Quellen des Wohlstandes besser kennen und
                     ausbeuten lehrten, und wenn die Wissenschaften überhaupt, durch eine Universität
                     gepflegt, vielseitige Intelligenz unter uns verallgemeinerten. Der gesteigerte
-                    materielle und geistige Reichthum unseres Gebiets als eines Gliedes der <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Gesammtmonarchie</country> würde auch dem Ganzen derselben
+                    materielle und geistige Reichthum unseres Gebiets als eines Gliedes der <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Gesammtmonarchie</rs> würde auch dem Ganzen derselben
                     gewonnen seyn. Ich behaupte ferner, daß die Verwirklichung der Hochschule bei
                     weitem nicht so große Schwierigkeiten bietet, wie man es Euer Excellenz
                     vorgestellt hat. Ich glaube fest und sicher, daß die nothwendige Berufung
@@ -221,11 +220,11 @@
                     bei einer ihm gegebenen sehr kitzlichen Aufgabe: „was möglich ist, ist bereits
                     geschehen; was nicht möglich ist, wird geschehen.“ Der Satz ist gewiß für viele
                     Fälle ganz weise; nur soll man, um seine Zwecke zu erreichen, die rechten
-                    Werkzeuge gebrauchen. Wäre General <persName key="kerpan-josef">Kerpan</persName> oder Dr. <persName key="gaj-ljudevit">Gaj</persName>
-                    Banus geworden oder <persName key="haller-von-hallerkeoe-franz">Graf
-                        Haller</persName> Ban geblieben, so war <hi rend="ul">Alles</hi> verloren.
+                    Werkzeuge gebrauchen. Wäre General <rs type="person" ref="kerpan-josef" key="kerpan-josef">Kerpan</rs> oder Dr. <rs type="person" ref="gaj-ljudevit" key="gaj-ljudevit">Gaj</rs>
+                    Banus geworden oder <rs type="person" ref="haller-von-hallerkeoe-franz" key="haller-von-hallerkeoe-franz">Graf
+                        Haller</rs> Ban geblieben, so war <hi rend="ul">Alles</hi> verloren.
                     In der Art, wie man handelt, und in der Individuenwahl besonders liegt die
-                    Lösung der Probleme, und <persName key="napoleon-bonaparte">Napoleon</persName>
+                    Lösung der Probleme, und <rs type="person" ref="napoleon-bonaparte" key="napoleon-bonaparte">Napoleon</rs>
                     verdankt seiner unglaublichen Menschenkenntnis vielleicht den größten Theil
                     seines Ruhms. Ich spreche gegen Euer Excellenz aus offenem Herzen. Nicht die
                     Maßregeln selbst pflegen es zu seyn, welche hier bisweilen die nationale
@@ -236,19 +235,19 @@
                     strafbaren <hi rend="ul">Mangel an Tact</hi>. Es ist freilich hier, wie in jedem
                     unaufgeklärten Lande von stark ausgeprägter Eigenthümlichkeit, sehr schwer zu
                     reüssiren; deßwegen müßten aber diejenigen, welche berufen sind, die k.k.
-                    Regierung in <region key="kroatien" ref="#place_46ef149805b1b370596a83886b1e010e">Croatien</region> zu vertreten, vor allem
+                    Regierung in <rs type="place" subtype="region" key="kroatien" ref="#place_46ef149805b1b370596a83886b1e010e">Croatien</rs> zu vertreten, vor allem
                     die Grundzüge des Charakters unserer Nation genau studiren und
                     beachten.<lb/>Ohne Ausländer würde die Besetzung der medicinischen und
-                    naturwissenschaftlichen Professuren in <placeName ref="#place_a620921af9eef09d01368fb2c1a2fd88">Agram</placeName> beinahe
+                    naturwissenschaftlichen Professuren in <rs type="place" subtype="place" ref="#place_a620921af9eef09d01368fb2c1a2fd88">Agram</rs> beinahe
                     unmöglich seyn; und wollte man <hi rend="ul">nur</hi> in
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> recrutiren, so würde es hier alsbald heißen, daß
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> recrutiren, so würde es hier alsbald heißen, daß
                     das <orgName key="ministerium-fuer-kultus-und-unterricht">Ministerium</orgName>
                     seine österreichischen Germanisirungspläne bei uns, wie in
-                        <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country>, zu verfolgen entschlossen sey. Nimmt man hingegen
+                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, zu verfolgen entschlossen sey. Nimmt man hingegen
                     ausgezeichnete Lehrer aus dem <hi rend="ul">nicht</hi> „österreichischen“
-                        <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country>, und zwar aus verschiedenen Gegenden
+                        <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs>, und zwar aus verschiedenen Gegenden
                     desselben, so wird es nicht bloß viel leichter seyn, <hi rend="ul">vorzügliche</hi> Männer zu erhalten, sondern es wird dies auch hier umso
-                    mehr mit Ruhe aufgenommen werden, als es allgemein bekannt ist, wie <country key="russland" ref="#place_5c0704d47c0a58a0922e25b5b9b66b27">Rußland</country>, trotz kaiserlichen Ukases gegen Anstellung
+                    mehr mit Ruhe aufgenommen werden, als es allgemein bekannt ist, wie <rs type="place" subtype="country" key="russland" ref="#place_5c0704d47c0a58a0922e25b5b9b66b27">Rußland</rs>, trotz kaiserlichen Ukases gegen Anstellung
                     von Fremden, dennoch für die Wissenschaft (besonders die Medicin) und sogar für
                     die Armee (hauptsächlich den Generalstab) noch täglich Ausländer beruft,
                     einreiht und auszeichnet.<lb/>Jedenfalls aber müßte das <orgName key="ministerium-fuer-kultus-und-unterricht">k.k. hohe Ministerium</orgName>
@@ -282,8 +281,8 @@
                     einer Universität erwähnt werden dürfte und man eine umfassende Discussion
                     darüber anfinge. Ich möchte fast dafür einstehen, daß ich alles zu Wünschende
                     erreichen würde. Ich bin, hochgeborener Graf, in einem constitutionellen Lande,
-                        <country ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</country> nämlich, geboren; das parlamentarische System
-                        <country key="england" ref="#place_f48861ca24e26a23a923ca68657079f4">Englands</country> ist mir ebenfalls genau bekannt,
+                        <rs type="place" subtype="country" ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</rs> nämlich, geboren; das parlamentarische System
+                        <rs type="place" subtype="country" key="england" ref="#place_f48861ca24e26a23a923ca68657079f4">Englands</rs> ist mir ebenfalls genau bekannt,
                     und was ich auch in anderen mit Verfassungen <hi rend="ul">beladenen</hi>
                     Ländern erlernt und erfahren habe, alles dies hat mir bewiesen, daß beim
                     constitutionellen Regieren das Schlechte meistens leicht, das Gute hingegen fast
@@ -303,7 +302,7 @@
                     kosten, aber <hi rend="ul">Wollen</hi> ist Synonym von <hi rend="ul">Siegen</hi>.<lb/>Es bleibt mir noch ein Punkt des Briefes Euer Excellenz zu
                     berühren übrig, wobei ich im Voraus um große Nachsicht bitten muß. Ich bin weit
                     entfernt, zudringlich werden zu wollen, allein ich erachte es als Pflicht, mein
-                    Gesuch wegen der Berufung eines Ausländers, des Professors <persName key="phoebus-philipp">Phoebus</persName> nämlich, noch nachträglich
+                    Gesuch wegen der Berufung eines Ausländers, des Professors <rs type="person" ref="phoebus-philipp" key="phoebus-philipp">Phoebus</rs> nämlich, noch nachträglich
                     einigermaßen vor Euer Excellenz zu rechtfertigen. Die in Ihrem hochgeehrten
                     Schreiben an den Tag gelegten Ansichten stimmen der Art mit den meinigen
                     überein, daß ich keine Sylbe mehr über diesen Gegenstand verlieren würde, wenn
@@ -312,8 +311,8 @@
                     besonders der Grund hervorgehoben, daß bei unseren drei höheren medicinischen
                     Lehranstalten den Bewerbern sich selten Aussichten eröffnen. Allein der
                     Gelehrte, den ich empfahl, ist so hervorragend, daß gerade in seiner Branche
-                    weder die <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">österreichische Monarchie</country> noch
-                    ganz <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country> einen ihm gleich stehenden aufzuweisen hat.
+                    weder die <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">österreichische Monarchie</rs> noch
+                    ganz <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> einen ihm gleich stehenden aufzuweisen hat.
                     Seine Berufung dürfte also umso weniger jemanden verletzen oder zurücksetzen,
                     als sein Fach in <orgName key="universitaet-wien">Wien</orgName>
                     <hi rend="ul">sehr mittelmäßig</hi>, um nicht mehr zu sagen, vertreten ist. Dazu
@@ -324,13 +323,13 @@
                     einer <hi rend="ul">kleinen</hi> deutschen Universität leicht <hi rend="ul">mehr</hi> lernen könne. Dürfte diese Überfüllung der Auditorien nicht eine
                     mehrfache Besetzung der wichtigeren Lehrkanzeln ober vielmehr die Gründung
                     anderer Universitäten empfehlen? Dies wäre vielleicht auch ein Grund mehr zur
-                    Stiftung einer Hochschule in <placeName ref="#place_a620921af9eef09d01368fb2c1a2fd88">Agram</placeName>, und sollte das eine
+                    Stiftung einer Hochschule in <rs type="place" subtype="place" ref="#place_a620921af9eef09d01368fb2c1a2fd88">Agram</rs>, und sollte das eine
                     oder das andre wirklich erfolgen, dann dürfte ich vielleicht wiederum wegen des
-                    Professors <persName key="phoebus-philipp">Phöbus</persName> Euer Excellenz
+                    Professors <rs type="person" ref="phoebus-philipp" key="phoebus-philipp">Phöbus</rs> Euer Excellenz
                     Gnade in Anspruch nehmen, und dies umso mehr als ich stets befürchte, er werde
-                    nächstens nach <country key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</country> berufen werden, wo er
+                    nächstens nach <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> berufen werden, wo er
                     dann für uns wahrscheinlich auf immer verloren wäre.<lb/>Es war aber noch ein
-                    anderer Grund, der mich bestimmte, zunächst gerade <persName key="phoebus-philipp">Phoebus</persName> und keinen anderen zur Berufung
+                    anderer Grund, der mich bestimmte, zunächst gerade <rs type="person" ref="phoebus-philipp" key="phoebus-philipp">Phoebus</rs> und keinen anderen zur Berufung
                     gehorsamst vorzuschlagen. Hierüber erlaube ich mir auf folgende von Euer
                     Excellenz gewiß in gleicher Weise gewürdigte Puncte hinzuweisen.<lb/>Nachdem die
                         <hi rend="ul">Naturwissenschaften</hi> in den letzten Decennien bekanntlich
@@ -401,41 +400,41 @@
                     die Zahl der ausländischen Mediciner sehr abgenommen hatte, so lag dies daran,
                     daß die meisten klinischen Lehrer hinter jeder billigen Anforderung weit
                     zurückgeblieben, was gegenwärtig Gottlob in erfreulichster Weise geändert
-                    ist.)<lb/>Für den <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">österreichischen Staat</country>
+                    ist.)<lb/>Für den <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">österreichischen Staat</rs>
                     aber ist es gewiß von hoher Wichtigkeit, daß seine medicinischen Facultäten –
-                    zumal die erste derselben, die <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wiener</placeName> – auch
+                    zumal die erste derselben, die <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wiener</rs> – auch
                     ihren <hi rend="ul">zweiten</hi> Zweck, die Fortbildung der medicinischen
                     Wissenschaft und Kunst, bestens erfüllen. Es ist dies nicht bloß Ehrensache,
                     sondern es würde auch dem Staate vielseitiger Nutzen daraus hervorgehen. Soll
                     aber auch dies geleistet werden, so muß noch ein anderer Geist als der bisherige
-                    sich in dem medicinischen Wien etabliren. Ich halte <persName key="rokitansky-karl">Rokitansky</persName>, <persName key="skoda-josef">Skoda</persName>, <persName key="oppolzer-johann">Oppolzer</persName>, die
+                    sich in dem medicinischen Wien etabliren. Ich halte <rs type="person" ref="rokitansky-karl" key="rokitansky-karl">Rokitansky</rs>, <rs type="person" ref="skoda-josef" key="skoda-josef">Skoda</rs>, <rs type="person" ref="oppolzer-johann" key="oppolzer-johann">Oppolzer</rs>, die
                     für ihre Person Ausgezeichnetes leisten, und die man Sterne erster Größe am <hi rend="ul">gegenwärtigen</hi> medicinischen Himmel nennen kann, in allen
-                    Ehren; ich halte auch viel von <persName key="hyrtl-josef">Hyrtl</persName>,
-                        <persName key="bruecke-ernst">von Brücke</persName> (der auch noch so jung
+                    Ehren; ich halte auch viel von <rs type="person" ref="hyrtl-josef" key="hyrtl-josef">Hyrtl</rs>,
+                        <rs type="person" ref="bruecke-ernst" key="bruecke-ernst">von Brücke</rs> (der auch noch so jung
                     ist, daß man schon deßhalb noch viel von ihm erwarten kann); ich glaube gern,
-                    daß <persName key="hebra-ferdinand">Hebra</persName>, <persName key="mauthner-ludwig-wilhelm">Mauthner</persName> und andere sehr
+                    daß <rs type="person" ref="hebra-ferdinand" key="hebra-ferdinand">Hebra</rs>, <rs type="person" ref="mauthner-ludwig-wilhelm" key="mauthner-ludwig-wilhelm">Mauthner</rs> und andere sehr
                     respectable Praktiker und Specialisten sind; ich glaube gerne, daß es zahlreihe
-                    Ärzte am <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wiener</placeName> medicinischen Lehrkörper und
+                    Ärzte am <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wiener</rs> medicinischen Lehrkörper und
                     in den dortigen Krankenhäusern giebt, welche mit großem Beifall und Nutzen
                     unterrichten (z. B. in den physikalischen Explorationsmethoden). Alle diese
                     Männer werden noch auf lange hinaus den Ruf des medicinischen
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, den sie wieder zu Ehren gebracht haben, in
-                    Ehren erhalten, und die Praktiker unter ihnen (also, <persName key="hyrtl-josef">Hyrtl</persName> und <persName key="bruecke-ernst">Brücke</persName>
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, den sie wieder zu Ehren gebracht haben, in
+                    Ehren erhalten, und die Praktiker unter ihnen (also, <rs type="person" ref="hyrtl-josef" key="hyrtl-josef">Hyrtl</rs> und <rs type="person" ref="bruecke-ernst" key="bruecke-ernst">Brücke</rs>
                     ausgenommen, die übrigen) werden auch fortan junge Mediciner des Auslands sehr
-                    zahlreich in die <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Kaiserstadt</placeName> und in ihre Säle
+                    zahlreich in die <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Kaiserstadt</rs> und in ihre Säle
                     ziehen. <hi rend="ul">Aber</hi> es haftet der Wienerschule, im Ganzen genommen,
                     noch eine gewisse Einseitigkeit an, die von den Beurtheilern des Auslands, wohl
                     ganz treffend, als eine pathologisch-anatomische bezeichnet wird. Das junge
-                    medicinische <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> ist durch die pathologische Anatomie
+                    medicinische <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> ist durch die pathologische Anatomie
                     berühmt geworden; es gefällt sich darin, in dieser ihm geläufig gewordenen
                     Richtung weiter zu gehen und einigermaßen zu vergessen, daß es für die Medicin
                     auch noch gar manche andere werthvolle und wichtige Richtung des Forschens
                     giebt. Es bildet eben noch eine medicinische Schule, und ich sehe auch keinen
                     unter den gegenwärtigen Lehrern, dem ich zutrauen könnte, daß er mit echt
                     reformatorischem Sinne der neuen exacten Medicin Bahn brechen werde. (Über
-                        <persName key="oppolzer-johann">Oppolzer</persName> und <persName key="bruecke-ernst">Brücke</persName> steht mir freilich, weil sie noch zu
+                        <rs type="person" ref="oppolzer-johann" key="oppolzer-johann">Oppolzer</rs> und <rs type="person" ref="bruecke-ernst" key="bruecke-ernst">Brücke</rs> steht mir freilich, weil sie noch zu
                     wenig <hi rend="ul">geschrieben</hi> haben, kein vollgültiges Urtheil in dieser
-                    Beziehung zu.)<lb/>Das medicinische <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> braucht Männer,
+                    Beziehung zu.)<lb/>Das medicinische <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> braucht Männer,
                     die im Mittelpunkt der neueren Bestrebungen stehen; es braucht eine Akademie der
                     Medicin, die so eifrig und so in der <hi rend="ul">rechten</hi> Weise thätig sey
                     wie die zu Paris; es braucht Zeitschriften, die an richtiger Erkennung und
@@ -444,8 +443,8 @@
                     Zeitschriften wetteifern; es braucht junge Arbeitsbienen, die nach <hi rend="ul">allen</hi> Seiten hin das große medicinische Feld ausbeuten.<lb/>Ich
                     glaube, daß ein einziger Mann, richtig gewählt, hier den nöthigen Impuls zur
                     Anregung der vielfachen und gewiß auch großen Talente, welche
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> besitzt, geben könnte, und gerade in dieser
-                    Rücksicht habe ich <persName key="phoebus-philipp">Phoebus</persName>
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> besitzt, geben könnte, und gerade in dieser
+                    Rücksicht habe ich <rs type="person" ref="phoebus-philipp" key="phoebus-philipp">Phoebus</rs>
                     vorgeschlagen. Er ist ausgerüstet mit den gründlichsten Schulkenntnissen und mit
                     umfassender Kenntnis der Naturwissenschaften wie der Medicin; er ist gleich
                     gewöhnt, am Krankenbette wie am Mikroskop und beim Reagirglase zu beobachten; er
@@ -466,11 +465,11 @@
                     Professors, der österreichische Medicin vielleicht um ein Decennium früher zu
                     dem Range in der medicinischen Welt, der ihr gewissermaßen gebührt, und zu der
                     Bedeutung für das Volkswohl, welche ihr zu wünschen ist, zu verhelfen.<lb/>Nicht
-                    also bloß deshalb hatte ich <persName key="phoebus-philipp">Phoebus</persName>
+                    also bloß deshalb hatte ich <rs type="person" ref="phoebus-philipp" key="phoebus-philipp">Phoebus</rs>
                     für <orgName key="universitaet-wien">Wien</orgName> empfohlen, damit er den
                     Studirenden zeige, wie man China und Rhabarber von anderen Dingen unterscheide –
-                    das können sie von <persName key="schroff-karl-damian">Schroff</persName> oder
-                        <persName key="kainzbauer-josef">Kainzbauer</persName> auch lernen, wenn
+                    das können sie von <rs type="person" ref="schroff-karl-damian" key="schroff-karl-damian">Schroff</rs> oder
+                        <rs type="person" ref="kainzbauer-josef" key="kainzbauer-josef">Kainzbauer</rs> auch lernen, wenn
                     auch vielleicht etwas weniger treffend – oder damit er Pharmakodynamik oder
                     Arzneiverordnungslehre vortrage – die können sie zur Noth, wenn gleich sehr
                     ungenügend, aus Büchern erlernen –, sondern <hi rend="ul">damit er dem Ganzen
@@ -478,20 +477,20 @@
                     überschritten hat, <hi rend="ul">zuerst</hi> empfohlen und nicht irgendeinen
                     talentvollen <hi rend="ul">jüngeren</hi> Mann, von dem man, <hi rend="ul">weil</hi> er jünger wäre, noch mehr <hi rend="ul">persönliche</hi>
                     Leistungen erwarten könnte, der aber dafür nicht so viel Erfahrung, Besonnenheit
-                    und Umsicht mitbringen <hi rend="ul">könnte</hi>. Wie der treffliche <persName key="haidinger-wilhelm">Haidinger</persName> nicht bloß durch eigene
+                    und Umsicht mitbringen <hi rend="ul">könnte</hi>. Wie der treffliche <rs type="person" ref="haidinger-wilhelm" key="haidinger-wilhelm">Haidinger</rs> nicht bloß durch eigene
                     Thätigkeit, sondern auch durch vielseitiges Anregen und Unterstützen anderer das
-                        <hi rend="ul">geologische</hi> Studium in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> so
-                    bedeutend gehoben hat, daß es jetzt nicht bloß <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> zur
+                        <hi rend="ul">geologische</hi> Studium in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> so
+                    bedeutend gehoben hat, daß es jetzt nicht bloß <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> zur
                     größten Ehre gereicht, sondern auch bald, zumal durch die neu gegründete
                         <orgName key="geologische-reichsanstalt">geologische
-                    Reichsanstalt</orgName>, der <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">gesammten
-                        Monarchie</country> reiche materielle und geistige Früchte tragen wird, so
-                    würde <persName key="phoebus-philipp">Phoebus</persName>, davon bin ich fest
+                    Reichsanstalt</orgName>, der <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">gesammten
+                        Monarchie</rs> reiche materielle und geistige Früchte tragen wird, so
+                    würde <rs type="person" ref="phoebus-philipp" key="phoebus-philipp">Phoebus</rs>, davon bin ich fest
                     überzeugt, ähnliches auf einem noch ausgedehnteren und wohl noch schwieriger zu
                     bearbeitenden Felde leisten.<lb/>Verzeihen Euer Excellenz mir diesen übermäßig
                     langen Brief. Es thut mir unendlich leid, Hochderselben damit zur Last zu
                     fallen; allein ich hielt es für meine Pflicht, zum Wohl des croatischen Volkes
-                    und nicht minder zum Heil des <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Gesammtvaterlandes</country> meine Gedanken unumwunden zu bekennen. Viribus
+                    und nicht minder zum Heil des <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Gesammtvaterlandes</rs> meine Gedanken unumwunden zu bekennen. Viribus
                     unitis: sprach unser allergnädigster Kaiser, König und Herr, und was in meinen
                     schwachen Kräften stand, glaubte ich thun und sagen zu müssen. Indem ich,
                     hochverehrter Herr Minister, so oft und so viel, wie ich es nur vermag zu Befehl

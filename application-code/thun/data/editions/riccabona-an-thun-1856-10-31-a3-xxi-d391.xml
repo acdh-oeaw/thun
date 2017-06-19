@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="riccabona-benedikt" role="sender:kleriker">Benedikt
-                        Riccabona</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="riccabona-benedikt" key="riccabona-benedikt" role="sender:kleriker">Benedikt
+                        Riccabona</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</placeName>, <date when="1856-10-31">31. Oktober 1856</date>
+                    <rs type="place" subtype="place" ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</rs>, <date when="1856-10-31">31. Oktober 1856</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -41,7 +40,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -58,12 +57,12 @@
                 </p>
                 <p/>
                 <p>Es zeiget sich immer mehr wie nützlich, ja wie nothwendig es ist, daß das
-                    bischöfliche Obergimnasium in <placeName ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</placeName> den öffentlichen
+                    bischöfliche Obergimnasium in <rs type="place" subtype="place" ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</rs> den öffentlichen
                     k.k. Obergimnasien gleichgestellt werde.<lb/>Ein einziges öffentliches Gimnasium
-                    ist für <placeName ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</placeName>, dem Mittelpunkte einer so stark
+                    ist für <rs type="place" subtype="place" ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</rs>, dem Mittelpunkte einer so stark
                     bevölkerten Provinz, wohin von allen Seiten die studierende Jugend zusammen
                     strömt, nicht hinreichend.<lb/>Das bischöfliche Gimnasium in
-                        <placeName ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</placeName>, welches immer nach dem von der hohen
+                        <rs type="place" subtype="place" ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</rs>, welches immer nach dem von der hohen
                     Regierung vorgeschriebenem Studienplane eingerichtet war, wurde auch stets von
                     der Veroneser Jugend sehr besucht. Als in der Folge der neue Studienplan
                     eingeführt wurde, richtete sich auch das bischöfliche Gimnasium darnach ein, und
@@ -91,7 +90,7 @@
                     Ernennung der Professoren steht dem Bischofe zu.<lb/>4. Die Professoren des
                     Untergimnasiums sollten, wenn sie von dem Bischofe für tauglich erklärt werden,
                     ohne weitere Prüfung zugelassen werden. Da Seine Excellenz der Herr Minister des
-                    Unterrichtes den in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> versammelten Bischöfen die
+                    Unterrichtes den in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> versammelten Bischöfen die
                     Zusicherung gab, daß die bischöflichen Untergimnasien mit den öffentlichen
                     parificirt werden, so wäre in diesem Punkte kein Anstand zu finden.<lb/>5. Die
                     Professoren des Obergimnasiums sollten erst nach Ablegung der vorgeschriebenen

@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="rohanyi-johann" role="sender:kleriker">Johann
-                        Rohanyi</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="rohanyi-johann" key="rohanyi-johann" role="sender:kleriker">Johann
+                        Rohanyi</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_09b56af7a7b3db4c379236467ad18d99">Gložan</placeName>, <date when="1854-10-14">14. Oktober 1854</date>
+                    <rs type="place" subtype="place" ref="#place_09b56af7a7b3db4c379236467ad18d99">Gložan</rs>, <date when="1854-10-14">14. Oktober 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -50,7 +49,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -63,15 +62,15 @@
                 <p>Euer Excellenz!</p>
                 <p>Gemäß der hohen Weisung, welche an den unterthänigst Gefertigten den 14.
                     September laufenden Jahres bei Gelegenheit der unterthänigsten Unterbreitung
-                    seiner von einem Theile der <region key="syrmien" ref="#place_6d08e9172a94b389e5e7337da4e9786c">Bács Syrmier</region>
+                    seiner von einem Theile der <rs type="place" subtype="region" key="syrmien" ref="#place_6d08e9172a94b389e5e7337da4e9786c">Bács Syrmier</rs>
                     evangelischen Geistlichkeit ausgestellten Creditive in Angelegenheit der
                     bevorstehenden Coordination der evangelischen Kirche in
-                        <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country>, und der <country key="serbische-woiwodschaft" ref="#place_3b7d6bda0785d2523c2551de79a7d017">Serbischen Woiwodschaft</country> von Eurer Excellenz erging, er habe im
+                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, und der <rs type="place" subtype="country" key="serbische-woiwodschaft" ref="#place_3b7d6bda0785d2523c2551de79a7d017">Serbischen Woiwodschaft</rs> von Eurer Excellenz erging, er habe im
                     Namen seiner Committenten die auf diesen Gegenstand sich beziehenden Aussichten
                     und Wünsche, nebst Beischluß seiner Vollmachtsurkunde schriftlich zu
                     unterbreiten, und glaubte er seiner Aufgabe durch folgendes am geeignetsten
                     nachzukommen.<lb/>Die im Bereiche der evangelischen Kirchengemeinschaft
-                    Augsburger Confession in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country>, einer langen Vergangenheit
+                    Augsburger Confession in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, einer langen Vergangenheit
                     nicht zu gedenken, seit mehr denn einem halben Jahrhundert durch eine
                     unbefangene Beobachtung erworben, auf zahllose Vorfälle begründete Erfahrung
                     stellte aus dem Mangelhaftem ihrer Einrichtung, dem Ungeregelten ihrer
@@ -80,8 +79,8 @@
                     Umgestaltung dermaßen heraus, daß hiefür nicht nur die achtbarsten Männer ihre
                     Stimmen erhoben, sondern ein allgemein reges Verlangen sich darnach wiederholt
                     offenbarte. Es lag zwar das Synodal-Werk vom Jahr 1791, welches auf Befehl
-                    Seiner Majestät des höchstseligen <persName key="leopold-II">Kaisers Leopold des
-                        II</persName>. verfasst, eine Regelung der evangelischen Kirche beider
+                    Seiner Majestät des höchstseligen <rs type="person" ref="leopold-II" key="leopold-II">Kaisers Leopold des
+                        II</rs>. verfasst, eine Regelung der evangelischen Kirche beider
                     Confessionen zur Aufgabe hatte, der königlichen Sanction gewärtig, eine lange
                     Zeit hindurch da, ohne jedoch in’s Leben gerufen zu werden. Der Geist, in
                     welchem es durchgeführt, der Einfluß, welcher es geleitet, waren sämtlich für
@@ -101,10 +100,10 @@
                     erfreuliche Zukunft sichern zu können.<lb/>Daher fiel die wichtige Aufgabe
                     dieser Umgestaltung, wie so manche großartige Unternehmung der thätigen
                     Jetztzeit, und die Lösung dieser Aufgabe gleichfalls der Allerhöchsten Gnade S.
-                    Majestät, dem <persName key="franz-joseph">regierenden Kaiser</persName>, unserm
+                    Majestät, dem <rs type="person" ref="franz-joseph" key="franz-joseph">regierenden Kaiser</rs>, unserm
                     Herrn anheim. Wir betrachten somit das hohe Decret vom 10. Februar 1850 als den
                     Verkünder eines neuen Stadiums für die evangelische Kirche in
-                        <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country>, da es eine neue Regelung derselben im gereinigten
+                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, da es eine neue Regelung derselben im gereinigten
                     Kircheninteresse in nahe Aussicht stellt, eben so wie den hohen Erlaß Eures
                     hohen kaiserlichen <orgName key="ministerium-fuer-kultus-und-unterricht">Ministeriums für Cultus und Unterricht</orgName> vom 11. Juli laufenden
                     Jahres, laut dessen die beiden evangelischen Confessionen über die Coordination
@@ -154,40 +153,40 @@
                     <p>N. Schova [Nove Šove], in der serbischen Woiwodschaft, Bezirk Neusatz [Novi
                         Sad], den 21ten August 1854.</p>
                     <p>
-                        <persName key="hutter-friedrich">Hutter Friedrich</persName>,<lb/>Pfarrer zu
-                        Alt Werbaß [<placeName ref="#place_1b77a45aa33f60221bb09409de2d03c0">Stari Vrbas</placeName>]</p>
+                        <rs type="person" ref="hutter-friedrich" key="hutter-friedrich">Hutter Friedrich</rs>,<lb/>Pfarrer zu
+                        Alt Werbaß [<rs type="place" subtype="place" ref="#place_1b77a45aa33f60221bb09409de2d03c0">Stari Vrbas</rs>]</p>
                     <p>
-                        <persName key="borofski-samuel">Samuel Borofsky</persName>[?]
+                        <rs type="person" ref="borofski-samuel" key="borofski-samuel">Samuel Borofsky</rs>[?]
                         mp<lb/>Consenior</p>
                     <p>
-                        <persName key="langhoffer-karl">Carl Langhoffer</persName> mp<lb/>Cooperator
-                        zu Glozsan [<placeName ref="#place_09b56af7a7b3db4c379236467ad18d99">Gložan</placeName>]</p>
+                        <rs type="person" ref="langhoffer-karl" key="langhoffer-karl">Carl Langhoffer</rs> mp<lb/>Cooperator
+                        zu Glozsan [<rs type="place" subtype="place" ref="#place_09b56af7a7b3db4c379236467ad18d99">Gložan</rs>]</p>
                     <p>
-                        <persName key="jehzenhzky-georg">Georg Jehzenhzky</persName>
-                        mp<lb/>Evangelischer Pfarrer zu <placeName ref="#place_d9c760d2f9fb1d5170c2517c7be64c75">Risran</placeName>[?]</p>
+                        <rs type="person" ref="jehzenhzky-georg" key="jehzenhzky-georg">Georg Jehzenhzky</rs>
+                        mp<lb/>Evangelischer Pfarrer zu <rs type="place" subtype="place" ref="#place_d9c760d2f9fb1d5170c2517c7be64c75">Risran</rs>[?]</p>
                     <p>
-                        <persName key="jeszenszky-emerich">Emerich von
-                        Jeszenszky</persName>
-                        <lb/>Pfarrer zu Neusatz [<placeName ref="#place_108aac51cd5867b081839e02fbb2dc37">Novi
-                            Sad</placeName>]</p>
+                        <rs type="person" ref="jeszenszky-emerich" key="jeszenszky-emerich">Emerich von
+                        Jeszenszky</rs>
+                        <lb/>Pfarrer zu Neusatz [<rs type="place" subtype="place" ref="#place_108aac51cd5867b081839e02fbb2dc37">Novi
+                            Sad</rs>]</p>
                     <p>
-                        <persName key="kolenyi-daniel">Daniel Kolenyi</persName> mp<lb/>Pfarrer zu
-                            <placeName ref="#place_0bc96c617c17e3bba46dce40845396a3">Kulpin</placeName>
+                        <rs type="person" ref="kolenyi-daniel" key="kolenyi-daniel">Daniel Kolenyi</rs> mp<lb/>Pfarrer zu
+                            <rs type="place" subtype="place" ref="#place_0bc96c617c17e3bba46dce40845396a3">Kulpin</rs>
                     </p>
                     <p>
-                        <persName key="korossy-johann">Johann Korossy</persName>
+                        <rs type="person" ref="korossy-johann" key="korossy-johann">Johann Korossy</rs>
                         <lb/>Pfarrer zu Jarek
-                            [<placeName ref="#place_21773ab3eab38472938bd9db3ee7b69d">Bački Jarak</placeName>]</p>
+                            [<rs type="place" subtype="place" ref="#place_21773ab3eab38472938bd9db3ee7b69d">Bački Jarak</rs>]</p>
                     <p>
-                        <persName key="abraham-stefan">Stefan Abraham</persName> mp<lb/>Evangelischer
-                        Pfarer zu Neu Sove [<placeName ref="#place_5fc33d91af7794ea85d74bd49847b28e">Nove Šove</placeName>]</p>
+                        <rs type="person" ref="abraham-stefan" key="abraham-stefan">Stefan Abraham</rs> mp<lb/>Evangelischer
+                        Pfarer zu Neu Sove [<rs type="place" subtype="place" ref="#place_5fc33d91af7794ea85d74bd49847b28e">Nove Šove</rs>]</p>
                     <p>
-                        <persName key="pabilon-samuel">Samuel Pabilon</persName>[?]<lb/>Pfarrer zu
-                            <placeName ref="#place_a86a6088f4f3738d2b406f89edb5f880">Schilbesch</placeName>[?]</p>
+                        <rs type="person" ref="pabilon-samuel" key="pabilon-samuel">Samuel Pabilon</rs>[?]<lb/>Pfarrer zu
+                            <rs type="place" subtype="place" ref="#place_a86a6088f4f3738d2b406f89edb5f880">Schilbesch</rs>[?]</p>
                     <p>
-                        <persName key="spannagel-josef">Josef Spannagel</persName>
+                        <rs type="person" ref="spannagel-josef" key="spannagel-josef">Josef Spannagel</rs>
                         <lb/>Pfarrer zu
-                        Bulkesz [<placeName ref="#place_e7108583b8d7a3f5c012f276c8cf236a">Bački Maglić</placeName>]</p>
+                        Bulkesz [<rs type="place" subtype="place" ref="#place_e7108583b8d7a3f5c012f276c8cf236a">Bački Maglić</rs>]</p>
                 </div>
             </div>
         </body>

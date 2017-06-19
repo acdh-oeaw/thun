@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="pfeiffer-franz" role="recipient">Franz
-                        Pfeiffer</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="pfeiffer-franz" key="pfeiffer-franz" role="recipient">Franz
+                        Pfeiffer</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1855-04-01">1. April 1855</date>
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1855-04-01">1. April 1855</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -41,7 +40,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -54,17 +53,17 @@
                 <p>Wien den 1. April 1855</p>
                 <p>Geehrter Herr Bibliothekar!</p>
                 <p>
-                    <persName key="handel-maximilian">Baron Handel</persName> hat mir in diesen Tagen
+                    <rs type="person" ref="handel-maximilian" key="handel-maximilian">Baron Handel</rs> hat mir in diesen Tagen
                     mitgetheilt, daß Sie ihm Ihren Wunsch eröffnet haben, eine Professur der
                     deutschen Literatur an der <orgName key="universitaet-wien">Wiener
                         Universität</orgName> zu erlangen, daß Sie ihn zugleich Ihrer aufrichtigen
                     katholischen Gesinnung, für welche Ihre literarischen Arbeiten Zeugnis geben
                     versichert und die Erklärung beigefügt haben, daß wenn Sie Ihre Kinder in der
                     protestantischen Konfession erziehen ließen, solches nur nach dem Wunsch der
-                    Familie <persName key="mueller-emilie">Ihrer Gemahlin</persName>, um dem
+                    Familie <rs type="person" ref="mueller-emilie" key="mueller-emilie">Ihrer Gemahlin</rs>, um dem
                     Fortkommen der Kinder kein Hindernis zu bereiten geschehen sei, und daß Sie
-                    gesonnen seien, im Falle Ihrer Anstellung in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> mit der
-                    Zustimmung <persName key="mueller-emilie">Ihrer Gemahlin</persName> Ihre Kinder
+                    gesonnen seien, im Falle Ihrer Anstellung in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> mit der
+                    Zustimmung <rs type="person" ref="mueller-emilie" key="mueller-emilie">Ihrer Gemahlin</rs> Ihre Kinder
                     in der katholischen Religion erziehen zu lassen. Ich weiß nicht, ob hierdurch
                     gesagt sein soll, daß Ihre Gemahlin für diesen Fall bereits in die katholische
                     Erziehung der Kinder eingewilligt habe, oder ob diese Zustimmung noch als eine
@@ -78,14 +77,14 @@
                     nothwendig bedinge, daß die Kinder dem Glaubensbekenntnisse der Mutter folgen.
                     Die berührten Fragen sind solche, die so sehr dem Heiligthume des Familienlebens
                     angehören, daß ich mir niemals anmaßen würde, sie unaufgefordert zu berühren.
-                    Nachdem jedoch Ihre Unterredung mit dem <persName key="handel-maximilian">Gesandten seiner kaiserlichen Majestät</persName> dazu eine Aufforderung
+                    Nachdem jedoch Ihre Unterredung mit dem <rs type="person" ref="handel-maximilian" key="handel-maximilian">Gesandten seiner kaiserlichen Majestät</rs> dazu eine Aufforderung
                     enthält, so wollen Sie mir erlauben mich mit voller Offenheit
                     auszusprechen.<lb/>Einen tüchtigen Lehrer der deutschen Literatur für die
                         <orgName key="universitaet-wien">Wiener Universität</orgName> zu gewinnen,
                     liegt mir sehr am Herzen. Es bedarf Ihnen gegenüber nicht mehr als der Erwähnung
                     wie sehr die religiöse Überzeugung der Schüler durch die Behandlung des
                     Unterrichtes in diesem Gegenstand berührt werden kann. Bei der Sorge für die
-                    Besetzung der Lehrkanzel in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, welche von großem
+                    Besetzung der Lehrkanzel in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, welche von großem
                     Einfluß auf die Heranbildung der Lehrer an den Gymnasien werden muß, fühlte ich
                     mich im Gewissen verpflichtet darauf bedacht zu sein, daß nicht nur die Gefahr
                     einer der religiösen Überzeugung schädlichen Auffassung der deutschen Literatur
@@ -95,7 +94,7 @@
                     Schülern so klar werde, wie es nothwendig ist, damit sie als Lehrer an
                     katholischen Gymnasien heilsam, und die religiöse Überzeugung kräftigend auf die
                     Jugend zu wirken befähiget werden. Ich zweifle weder daran, daß Sie dieser
-                    Aufgabe gewachsen sind, noch an der Aufrichtigkeit Ihrer dem <persName key="handel-maximilian">Baron Handel</persName> gegebenen Versicherung daß
+                    Aufgabe gewachsen sind, noch an der Aufrichtigkeit Ihrer dem <rs type="person" ref="handel-maximilian" key="handel-maximilian">Baron Handel</rs> gegebenen Versicherung daß
                     Sie in diesem Sinne zu wirken gesonnen seien. Allein nichts scheint mir
                     mißlicher, als die Lage eines Lehrers dessen Handlungsweise nicht in vollem
                     Einklang steht, mit der Richtung seiner Lehre, nichts gefährlicher für die
@@ -115,7 +114,7 @@
                     entziehen, daß ihm sein Glaube nicht die heiligste Angelegenheit sei. Wird der
                     Vorwurf des Indifferentismus bei den Einen, der Verdacht bei den Anderen
                     schwinden, wenn Sie Ihrer Kinder erst dann in den Schoß der Kirche führen, wenn
-                    Sie eine Anstellung in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> erhalten
+                    Sie eine Anstellung in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> erhalten
                     haben, oder wenigstens die Zusicherung einer solchen haben? Werfen Sie in die
                     Seelen Ihrer Kinder selbst nicht den Keim des Unglaubens, wenn früher oder
                     später in ihnen der Gedanke erwachen kann, nur irdischer Vortheile wegen habe

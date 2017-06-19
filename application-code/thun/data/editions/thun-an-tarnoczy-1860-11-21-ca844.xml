@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="tarnoczy-maximilian" role="recipient">Maximilian Joseph
-                        Tarnóczy</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="tarnoczy-maximilian" key="tarnoczy-maximilian" role="recipient">Maximilian Joseph
+                        Tarnóczy</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1860-11-21">21. November 1860</date>
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1860-11-21">21. November 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -35,7 +34,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -58,11 +57,11 @@
                     erweisen. An Gelegenheit dazu wird es wohl nicht fehlen. Wer den Gang der
                     Ereignisse beobachtet, kann nicht zweifeln, daß die Triumphe welche die immer
                     entschiedener gegen die Kirche gerichtete Revoluzion in
-                        <country ref="#place_389962c9dec540ab28d04517e82c3996">Italien</country> feiert, auch bei uns ihre Nachwirkungen haben
+                        <rs type="place" subtype="country" ref="#place_389962c9dec540ab28d04517e82c3996">Italien</rs> feiert, auch bei uns ihre Nachwirkungen haben
                     werden. Da wird es Noth thun, daß vertrauensvoll alle zusammenhalten, die es
                     erkennen, daß die Kirche die Grundlage aller Ordnung und allen Gedeihens ist!
                     Die Muße die mir jetzt geworden, gestattet mir endlich eine längst begonnene
-                    Lecture zu vollenden, die berühmten Conférences des <persName key="celestin-joseph-felix">P. Felix</persName> "Le Progrès par le
+                    Lecture zu vollenden, die berühmten Conférences des <rs type="person" ref="celestin-joseph-felix" key="celestin-joseph-felix">P. Felix</rs> "Le Progrès par le
                         Christianisme"<note xml:id="note_1">
                         <ref target="http://catalog.hathitrust.org/Record/011556843">Célestin-Joseph
                             Félix, Le Progrès par le christianisme. Conférences de Notre-Dame de

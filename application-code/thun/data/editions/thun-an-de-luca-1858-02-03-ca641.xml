@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="luca-antonio-de" role="recipient">Antonio Saverio de
-                        Luca</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="luca-antonio-de" key="luca-antonio-de" role="recipient">Antonio Saverio de
+                        Luca</rs>
                     <lb/>
-                    <placeName ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</placeName>, <date when="1858-02-03">3.
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, <date when="1858-02-03">3.
                         Februar 1858</date>
                 </title>
             </titleStmt>
@@ -37,7 +36,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -49,10 +48,10 @@
                 <p>Monseigneur !</p>
                 <p>Je viens de recevoir la résolution depuis longtemps attendue relative à
                     l'aliénation des liens de l'Eglise; mais elle n'est point encore publiée, fort
-                    au contraire la <persName key="franz-joseph">Majesté</persName> a ordonné de ne
+                    au contraire la <rs type="person" ref="franz-joseph" key="franz-joseph">Majesté</rs> a ordonné de ne
                     pas encore la publier, et de faire d'abord seulement au Saint Siège une
                     communication préalable des intentions du gouvernement autrichien. Ma note au
-                        <persName key="buol-schauenstein-karl-ferdinand">Cte Buol</persName>
+                        <rs type="person" ref="buol-schauenstein-karl-ferdinand" key="buol-schauenstein-karl-ferdinand">Cte Buol</rs>
                     relative à ce sujet sera expédiée demain.<lb/>Agréez Monseigneur l'expression de
                     ma haute considération</p>
                 <p>Le 3 février 1858</p>

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="moy-de-sons-ernst" role="sender:gelehrter">Ernst Moy de
-                        Sons</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="moy-de-sons-ernst" key="moy-de-sons-ernst" role="sender:gelehrter">Ernst Moy de
+                        Sons</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</placeName>, <date when="1852-02-01">1. Februar 1852</date>
+                    <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs>, <date when="1852-02-01">1. Februar 1852</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -48,7 +47,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -61,7 +60,7 @@
                     <term>Universitätsbibliothek</term>
                 </index>
                 <p>Euer Exzellenz</p>
-                <p>haben mich vor einiger Zeit durch <persName key="heufler-von-hohenbuehel-ludwig">Herrn von Heufler</persName> auffordern lassen, für die Professur der
+                <p>haben mich vor einiger Zeit durch <rs type="person" ref="heufler-von-hohenbuehel-ludwig" key="heufler-von-hohenbuehel-ludwig">Herrn von Heufler</rs> auffordern lassen, für die Professur der
                     Geschichte an <orgName key="universitaet-innsbruck">hiesiger
                         Universität</orgName> einen Vorschlag zu machen. So sehr ich das mir dadurch
                     bewiesene Vertrauen zu schätzen weiß, eben so sehr fühle ich die Schwierigkeit,
@@ -71,59 +70,59 @@
                     gerichtet, ob es nicht möglich wäre, einen schon erprobten Historiker von
                     anerkanntem Rufe für unsere Hochschule zu gewinnen. Da bieten sich nun drei
                     Namen dar, die mehr oder minder unsere Anstalt zieren würden, das sind:
-                    Professor <persName key="aschbach-joseph">Aschbach</persName> in <orgName key="universitaet-bonn">Bonn</orgName>, bekannt durch seine Geschichte der
+                    Professor <rs type="person" ref="aschbach-joseph" key="aschbach-joseph">Aschbach</rs> in <orgName key="universitaet-bonn">Bonn</orgName>, bekannt durch seine Geschichte der
                     Westgothen, der Grafen von Wertheim, des Kaisers Sigismund etc.; dann
-                    Privatdocent <persName key="ficker-julius">Dr. Ficker</persName> in <orgName key="universitaet-bonn">Bonn</orgName>, der über Erzbischof Reinhold von
+                    Privatdocent <rs type="person" ref="ficker-julius" key="ficker-julius">Dr. Ficker</rs> in <orgName key="universitaet-bonn">Bonn</orgName>, der über Erzbischof Reinhold von
                     Köln, Kaiser Heinrich VI., die Münstersche Chronik geschrieben hat und schon für
                         <orgName key="universitaet-graz">Gratz</orgName> im Vorschlag gewesen seyn
-                    soll; endlich Dr. Meis [sic!, richtig <persName key="muys-gottfried">Muys</persName>]<note xml:id="note_1">Hier dürfte es sich um einen
+                    soll; endlich Dr. Meis [sic!, richtig <rs type="person" ref="muys-gottfried" key="muys-gottfried">Muys</rs>]<note xml:id="note_1">Hier dürfte es sich um einen
                         Schreibfehler von Moy de Sons handeln. Mehrere Hinweise sprechen dafür, dass
                         es sich hierbei um Gottfried Muys handelt. Muys war Mitarbeiter von Oskar
                         Redwitz. Außerdem befasste sich Muys mit der Geschichte antiker
-                        Völker.</note>, ein Freund <persName key="redwitz-oskar">Oscars von
-                        Redwitz</persName>, Verfasser einer Preisschrift über altassyrische
+                        Völker.</note>, ein Freund <rs type="person" ref="redwitz-oskar" key="redwitz-oskar">Oscars von
+                        Redwitz</rs>, Verfasser einer Preisschrift über altassyrische
                     Geschichte, die ebenso viel Talent als Gelehrsamkeit, besonders auch in den
-                    orientalischen Sprachen beurkundet. <persName key="muys-gottfried">Dr.
-                        Meis</persName> dürfte an Gabe geistreicher Auffassung die beiden
+                    orientalischen Sprachen beurkundet. <rs type="person" ref="muys-gottfried" key="muys-gottfried">Dr.
+                        Meis</rs> dürfte an Gabe geistreicher Auffassung die beiden
                     Vorgenannten übertreffen, die sich mehr als fleißige Sammler empfehlen, und
                     daher den Vorzug verdienen. Er befindet sich, so viel ich gehört, gegenwärtig in
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> bei <persName key="redwitz-oskar">Baron
-                        Redwitz</persName>, und Euer Exzellenz können sich daher leicht selbst
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> bei <rs type="person" ref="redwitz-oskar" key="redwitz-oskar">Baron
+                        Redwitz</rs>, und Euer Exzellenz können sich daher leicht selbst
                     überzeugen, ob er für den fraglichen Posten passend und zu gewinnen
                     wäre.<lb/>Sollte eine derlei Acquisition für <orgName key="universitaet-innsbruck">Innsbruck</orgName> nicht zu realisiren seyn,
                     so müßte ein Talent im Lande gesucht und herangebildet werden. In diesem Falle
                     dürften folgende drei Individuen der Aufmerksamkeit Eurer Exzellenz besonders zu
-                    empfehlen seyn:<lb/>1) <persName key="zwerger-johann">N. Zwerger</persName>, ein
-                    junger Priester der <placeName key="trient" ref="#place_8f37567814d3a88b7c487c48699476fa">Trientiner</placeName> Diöcese, der
-                    jetzt in <placeName ref="#place_34f36b9454115e3b99acdf7913509e12">Trient</placeName> das 4. Jahr Theologie studirt und in
-                        <placeName ref="#place_478686b5e2ebec6de738cf25710e7108">Brixen</placeName>, wo er früher 2 Jahre zubrachte, schöne
+                    empfehlen seyn:<lb/>1) <rs type="person" ref="zwerger-johann" key="zwerger-johann">N. Zwerger</rs>, ein
+                    junger Priester der <rs type="place" subtype="place" key="trient" ref="#place_8f37567814d3a88b7c487c48699476fa">Trientiner</rs> Diöcese, der
+                    jetzt in <rs type="place" subtype="place" ref="#place_34f36b9454115e3b99acdf7913509e12">Trient</rs> das 4. Jahr Theologie studirt und in
+                        <rs type="place" subtype="place" ref="#place_478686b5e2ebec6de738cf25710e7108">Brixen</rs>, wo er früher 2 Jahre zubrachte, schöne
                     Elaborate über Kirchengeschichte geliefert hat. Er empfiehlt sich durch einen
                     ruhigen, besonnenen Charakter, Zuverlässigkeit und eine verständige, echt
-                    katholische Auffassung.<lb/>2) <persName key="bole-franz">Professor
-                        Bole</persName> in <placeName ref="#place_fef029496b06aa0f5a4468390461f12c">Feldkirch</placeName>, geweiht 1848, als
-                    Geschichtslehrer approbirt 1851, von dem <persName key="fessler-joseph">Professor Feßler</persName> in <placeName ref="#place_478686b5e2ebec6de738cf25710e7108">Brixen</placeName> mir schreibt,
-                    daß sein Talent zwar bedeutend sey, er (<persName key="fessler-joseph">Feßler</persName>) aber in ihn nicht so viel Zutrauen wie in <persName key="zwerger-johann">Zwerger</persName> setzen würde. Ich halte <persName key="fessler-joseph">Feßlers</persName> Urtheil für verlässig, sowohl seines
+                    katholische Auffassung.<lb/>2) <rs type="person" ref="bole-franz" key="bole-franz">Professor
+                        Bole</rs> in <rs type="place" subtype="place" ref="#place_fef029496b06aa0f5a4468390461f12c">Feldkirch</rs>, geweiht 1848, als
+                    Geschichtslehrer approbirt 1851, von dem <rs type="person" ref="fessler-joseph" key="fessler-joseph">Professor Feßler</rs> in <rs type="place" subtype="place" ref="#place_478686b5e2ebec6de738cf25710e7108">Brixen</rs> mir schreibt,
+                    daß sein Talent zwar bedeutend sey, er (<rs type="person" ref="fessler-joseph" key="fessler-joseph">Feßler</rs>) aber in ihn nicht so viel Zutrauen wie in <rs type="person" ref="zwerger-johann" key="zwerger-johann">Zwerger</rs> setzen würde. Ich halte <rs type="person" ref="fessler-joseph" key="fessler-joseph">Feßlers</rs> Urtheil für verlässig, sowohl seines
                     Verstandes als seiner Redlichkeit und kirchlichen Gesinnung wegen.<lb/>3)
-                        <persName key="wolf-franz-joseph">Joseph Wolf</persName>, jetzt Kaplan,
-                    vielmehr Pfarrvicar in <placeName key="loeffingen" ref="#place_a28c4827072a33cc684a6f36d714c8f7">Löffingen</placeName> im
-                    Schwarzwald, von <persName key="galura-bernhard">unserem Fürstbischof</persName>
-                    dahin abgegeben auf Ersuchen des <persName key="vicari-hermann">Erzbischofs von
-                        Freiburg</persName>, Verfasser der Artikel über Josephinismus, ein junger
+                        <rs type="person" ref="wolf-franz-joseph" key="wolf-franz-joseph">Joseph Wolf</rs>, jetzt Kaplan,
+                    vielmehr Pfarrvicar in <rs type="place" subtype="place" key="loeffingen" ref="#place_a28c4827072a33cc684a6f36d714c8f7">Löffingen</rs> im
+                    Schwarzwald, von <rs type="person" ref="galura-bernhard" key="galura-bernhard">unserem Fürstbischof</rs>
+                    dahin abgegeben auf Ersuchen des <rs type="person" ref="vicari-hermann" key="vicari-hermann">Erzbischofs von
+                        Freiburg</rs>, Verfasser der Artikel über Josephinismus, ein junger
                     Mann, der einen regen Forschungstrieb mit einem glücklichen Darstellungstalent
                     und vortrefflicher Gesinnung verbindet, aber ein etwas schroffes und hitziges
                     Wesen hat, das ihm unter dem Klerus viele Gegner bereitet.<lb/>Außer den
                     Genannten hat sich mir noch einer dargeboten, der durch Talent, Kenntnisse und
-                    kirchliche Gesinnung Empfehlung verdient. <persName key="strodl-michael">Dr.
-                        Strodl</persName> aus <placeName ref="#place_629fcb51dff180b0ea65e6dc70684f02">Mittenwald</placeName> in
-                        <country ref="#place_51150b7b6309d23b7d292c0be9fd3f21">Bayern</country>, Priester, ein eifriger Schüler von <persName key="goerres-johann">Görres</persName>; allein ich nehme Anstand ihn zu
+                    kirchliche Gesinnung Empfehlung verdient. <rs type="person" ref="strodl-michael" key="strodl-michael">Dr.
+                        Strodl</rs> aus <rs type="place" subtype="place" ref="#place_629fcb51dff180b0ea65e6dc70684f02">Mittenwald</rs> in
+                        <rs type="place" subtype="country" ref="#place_51150b7b6309d23b7d292c0be9fd3f21">Bayern</rs>, Priester, ein eifriger Schüler von <rs type="person" ref="goerres-johann" key="goerres-johann">Görres</rs>; allein ich nehme Anstand ihn zu
                     empfehlen, weil er durch sein krankhaft hitziges Wesen oft in seinen Ausdrücken
                     über die Schranken der Mäßigung und selbst des Anstands hinausgerissen wird.
                     Übrigens compromittire ich in dieser Beziehung auch das Urtheil meines Freundes
-                        <persName key="phillips-george">Phillips</persName>. Sollte auf einen
-                    jüngeren Mann die Wahl fallen und nicht <persName key="muys-gottfried">Dr.
-                        Meis</persName> genommen werden können, so schiene mir Herr <persName key="zwerger-johann">Zwerger</persName> den Vorzug zu verdienen, obwohl ich
-                    dem talentvollen <persName key="wolf-franz-joseph">Wolf</persName> eine
-                    Verwendung im Lehrfache wohl wünschen möchte. <persName key="zwerger-johann">Zwerger</persName> könnte vorläufig als Supplent gebraucht werden.<lb/>Das
+                        <rs type="person" ref="phillips-george" key="phillips-george">Phillips</rs>. Sollte auf einen
+                    jüngeren Mann die Wahl fallen und nicht <rs type="person" ref="muys-gottfried" key="muys-gottfried">Dr.
+                        Meis</rs> genommen werden können, so schiene mir Herr <rs type="person" ref="zwerger-johann" key="zwerger-johann">Zwerger</rs> den Vorzug zu verdienen, obwohl ich
+                    dem talentvollen <rs type="person" ref="wolf-franz-joseph" key="wolf-franz-joseph">Wolf</rs> eine
+                    Verwendung im Lehrfache wohl wünschen möchte. <rs type="person" ref="zwerger-johann" key="zwerger-johann">Zwerger</rs> könnte vorläufig als Supplent gebraucht werden.<lb/>Das
                     Schlimme bei der Ergreifung eines solchen Auskunftsmittels ist aber, daß einem
                     jungen Historiker außer den Quellen der Landesgeschichte hier gar keine
                     Hilfsmittel zur Ausbildung in seinem Fache zu Gebote stehen. Hiemit komme ich
@@ -132,10 +131,10 @@
                     Anstalt zu machen rein unmöglich. Es ist dieses unläugbar sehr niederschlagend,
                     zumal wenn man nicht reich genug ist, um sich selber zu helfen. Selbst für die
                     Ausarbeitung meiner Rechtsphilosophie finde ich hier so gut wie gar kein
-                    Material und werde mir wohl auch einmal einen Urlaub nach <placeName key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</placeName> erbitten müssen, ohne übrigens wie
-                        <persName key="phillips-george">Phillips</persName> meinen Gehalt daran
+                    Material und werde mir wohl auch einmal einen Urlaub nach <rs type="place" subtype="place" key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs> erbitten müssen, ohne übrigens wie
+                        <rs type="person" ref="phillips-george" key="phillips-george">Phillips</rs> meinen Gehalt daran
                     geben zu können. Umso mehr werden es, hoffe ich, Euer Exzellenz entschuldigen,
-                    daß ich mich nicht entschließen kann, neben <persName key="schuler-johannes">Schuler</persName> und <persName key="schenach-georg">Schennach</persName>
+                    daß ich mich nicht entschließen kann, neben <rs type="person" ref="schuler-johannes" key="schuler-johannes">Schuler</rs> und <rs type="person" ref="schenach-georg" key="schenach-georg">Schennach</rs>
                     [sic!] als dritter Docent der Rechtsphilosophie aufzutreten.<lb/>Es ist übrigens
                     schade, daß es hier an den wissenschaftlichen Hilfsmitteln so sehr gebricht;
                     denn größere Empfänglichkeit habe ich bei der Jugend noch nirgend
@@ -146,24 +145,24 @@
                 <p>Innsbruck, 1. Februar 1852</p>
                 <p/>
                 <p>&lt;<hi rend="ul">Geschichte</hi>:<lb/>
-                    <persName key="ficker-julius">
+                    <rs type="person" ref="ficker-julius" key="ficker-julius">
                         <hi rend="ul">Ficker</hi>
-                    </persName>, die Abhandlung über Erzbischof
-                    Reinhold ist nach <persName key="phillips-george">Phillipps</persName> [sic!]
+                    </rs>, die Abhandlung über Erzbischof
+                    Reinhold ist nach <rs type="person" ref="phillips-george" key="phillips-george">Phillipps</rs> [sic!]
                     Urtheil wirklich ausgezeichnet.<lb/>
-                    <persName key="muys-gottfried">
+                    <rs type="person" ref="muys-gottfried" key="muys-gottfried">
                         <hi rend="ul">Dr. Meis</hi>
-                    </persName>, erst 22 Jahre alt, nach <persName key="phillips-george">Ph[illips]</persName> Äußerung, der ihn hier
+                    </rs>, erst 22 Jahre alt, nach <rs type="person" ref="phillips-george" key="phillips-george">Ph[illips]</rs> Äußerung, der ihn hier
                     kennenzulernen Gelegenheit hatte, allerdings ungewöhnlich unterrichtet, hat aber
                     eine außerordentliche Meinung von sich und ist ein unumgänglicher Mensch. Muß
                     sich jedenfalls erst auswachsen.<lb/>
-                    <persName key="strodl-michael">
+                    <rs type="person" ref="strodl-michael" key="strodl-michael">
                         <hi rend="ul">Dr. Strodl</hi>
-                    </persName>, <persName key="phillips-george">Ph[illips]</persName> könnte zu ihm nicht rathen, ebenso wenig zu den
-                    Tyrolern, die ohne alle Schule sind.<lb/>dazu <persName key="hennes-johann-heinrich">
+                    </rs>, <rs type="person" ref="phillips-george" key="phillips-george">Ph[illips]</rs> könnte zu ihm nicht rathen, ebenso wenig zu den
+                    Tyrolern, die ohne alle Schule sind.<lb/>dazu <rs type="person" ref="hennes-johann-heinrich" key="hennes-johann-heinrich">
                         <hi rend="ul">Hennes</hi>
-                    </persName>,
-                    Gymnasiallehrer in <placeName ref="#place_3496da6c1db0a5223edb1fb4c415a154">Mainz</placeName>&gt;<note xml:id="note_2">Eh.
+                    </rs>,
+                    Gymnasiallehrer in <rs type="place" subtype="place" ref="#place_3496da6c1db0a5223edb1fb4c415a154">Mainz</rs>&gt;<note xml:id="note_2">Eh.
                         Anmerkung Thuns zu den Vorschlägen Moys.</note>
                 </p>
             </div>

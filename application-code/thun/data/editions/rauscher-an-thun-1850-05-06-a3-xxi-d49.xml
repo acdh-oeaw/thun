@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="rauscher-joseph" role="sender:kleriker">Joseph Othmar
-                        Rauscher</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="rauscher-joseph" key="rauscher-joseph" role="sender:kleriker">Joseph Othmar
+                        Rauscher</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_ca7668a05b2a3dbf29ca3d768c0febe8">Graz</placeName>, <date when="1850-05-06">6. Mai 1850</date>
+                    <rs type="place" subtype="place" ref="#place_ca7668a05b2a3dbf29ca3d768c0febe8">Graz</rs>, <date when="1850-05-06">6. Mai 1850</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -42,7 +41,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -57,26 +56,26 @@
                 <p>Hochgeborner Graf!</p>
                 <p>Euer Excellenz verehrtes Schreiben habe ich sammt der gütig mitgetheilten
                     Erledigung am 3. Mai richtig erhalten und schon am 2. hatte ich über die zu
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> herrschende Aufregung durch zwei Briefe
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> herrschende Aufregung durch zwei Briefe
                     bestimmte Nachrichten empfangen. Auf die Mißbilligung der meisten Tagesblätter
                     mußte man gefaßt seyn; sie erhalten ihre Artikel größtentheils von Juden und
                     Rongeanern; auch übt die Presse, deren Ansehen überall im Sinken begriffen ist,
-                    nirgends weniger den Einfluß, welchen sie sich zuschreibt, als in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country>. Auch der Mißbilligung von Seite der
+                    nirgends weniger den Einfluß, welchen sie sich zuschreibt, als in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>. Auch der Mißbilligung von Seite der
                     alten Beamten sowie der Radicalen war ich gewiß; ich glaubte aber nicht, daß sie
                     so laut schreien würden. Ohne Zweifel haben die geheimen Leiter der
                     Revolutionspartei sich dieser Sache bemächtigt; es ist ihnen nur darum zu thun,
                     Lärm zu machen. Wahrscheinlich ermuthigen manche Beamte den Tumult statt ihn zu
-                    beschwichtigen. Der Verfasser der Briefe aus <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> ist
+                    beschwichtigen. Der Verfasser der Briefe aus <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> ist
                     offenbar kein Katholik mehr; er möge dies offen bekennen und sich allenfalls zu
-                        <persName key="kossuth-lajos">Kossuth’s</persName> Herde gesellen; dann hat
-                    er keinen Grund mehr sich zu beklagen. Übrigens ist <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</region> allerdings das Land, wo die Wiedergestaltung der
+                        <rs type="person" ref="kossuth-lajos" key="kossuth-lajos">Kossuth’s</rs> Herde gesellen; dann hat
+                    er keinen Grund mehr sich zu beklagen. Übrigens ist <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> allerdings das Land, wo die Wiedergestaltung der
                     katholischen Kirche am meisten Hindernisse finden wird; aber neben den bösen
                     Elementen gibt es auch gute.<lb/>Ich beschwöre Euer Excellenz nur einige Monate
                     lang zu warten; das richtige Verhältnis der Parteien wird sich, wenn einmal die
                     erste Überraschung vorüber ist, in nicht langer Zeit herausstellen. Übrigens
-                    scheint die Krise, welcher <country ref="#place_5c4b925bf527c4f8581815a35a10d658">Europa</country> nicht entgehen kann,
+                    scheint die Krise, welcher <rs type="place" subtype="country" ref="#place_5c4b925bf527c4f8581815a35a10d658">Europa</rs> nicht entgehen kann,
                     ohnehin nicht mehr fern zu seyn. Daß die Radicalen dann zu
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> alles aufbieten werden, um einen Sturm zu
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> alles aufbieten werden, um einen Sturm zu
                     erregen, ist gewiß. Der Vorwand ist gleichgiltig. Wir leben in einer feigen
                     Zeit; die Bösen haben etwas mehr Muth als die Guten, sind aber auch keine großen
                     Helden, sobald man ihnen mit Entschlossenheit entgegentritt, weichen sie
@@ -89,15 +88,15 @@
                     einen schlimmen Eindruck machen, wenn ich von der Voraussetzung ausginge, als
                     könnte es bei Geistlichen einer Rechtfertigung der Veränderungen bedürfen; doch
                     über die Mißverständnisse von Seite der Laien ist ziemlich viel gesagt. Ich habe
-                    dem <persName key="schwarzenberg-friedrich">Herrn Kardinale</persName> wegen
+                    dem <rs type="person" ref="schwarzenberg-friedrich" key="schwarzenberg-friedrich">Herrn Kardinale</rs> wegen
                     einer Danksagung geschrieben, welche im Namen sämmtlicher versammelt gewesenen
-                    Bischöfe nach meinem Wunsche dem <persName key="franz-joseph">Kaiser</persName>
+                    Bischöfe nach meinem Wunsche dem <rs type="person" ref="franz-joseph" key="franz-joseph">Kaiser</rs>
                     zu überreichen wäre. Eine Antwort ist noch nicht erfolgt. Auch eine Erklärung
                     von Seite des Comité dürfte nützlich seyn. Endlich wünsche ich auch den
                     Actenstücken, deren Druck begonnen hat, eine Einleitung vorauszuschicken. Aber
                     es sind nun die Bitttage und ich muß bei den Processionen erscheinen. Morgen
-                    reise ich ab, um den <persName key="franz-joseph">Kaiser</persName> auf dem
-                        <placeName ref="#place_8627b9def9e6e2fd2353f5f3822fba9c">Semmering</placeName> zu empfangen. Donnerstag bleibt <persName key="franz-joseph">Seine Majestät</persName> zu <placeName key="graz" ref="#place_6e00929feb7fb02acaa548f47f67c61c">Grätz</placeName>. Indessen werde ich das Äußerste thun.<lb/>Über die zu
+                    reise ich ab, um den <rs type="person" ref="franz-joseph" key="franz-joseph">Kaiser</rs> auf dem
+                        <rs type="place" subtype="place" ref="#place_8627b9def9e6e2fd2353f5f3822fba9c">Semmering</rs> zu empfangen. Donnerstag bleibt <rs type="person" ref="franz-joseph" key="franz-joseph">Seine Majestät</rs> zu <rs type="place" subtype="place" key="graz" ref="#place_6e00929feb7fb02acaa548f47f67c61c">Grätz</rs>. Indessen werde ich das Äußerste thun.<lb/>Über die zu
                     druckenden Actenstücke mußte ich mich mit den übrigen Comitémitgliedern
                     verständigen, was sehr viel Zeit kostete. Da in der Wiener Zeitung nur der Druck
                     der Eingaben, auf welche die Vorträge sich beziehen, angekündigt wurde, so

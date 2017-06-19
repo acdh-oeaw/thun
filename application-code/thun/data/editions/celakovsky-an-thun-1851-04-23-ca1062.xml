@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="celakovsky-frantisek-ladislav" role="sender">František
-                        Ladislaus Čelakovšký</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="celakovsky-frantisek-ladislav" key="celakovsky-frantisek-ladislav" role="sender">František
+                        Ladislaus Čelakovšký</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</placeName>, <date when="1851-04-23">23. April [1851]<note xml:id="note_1">Die Datierung in das
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, <date when="1851-04-23">23. April [1851]<note xml:id="note_1">Die Datierung in das
                             Jahr 1851 ergibt sich aus den übrigen Briefen Thuns und Čelakovškýs in
                             dieser Angelegenheit.</note>
                     </date>
@@ -42,7 +41,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

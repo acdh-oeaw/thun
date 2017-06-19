@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -37,7 +36,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -54,8 +53,8 @@
                     Religionspartheyen<lb/>2. Alle Verhandlungen in Koheränzsachen so wie die
                     Beschwerden über Kränkung der Toleranz, Freyheiten, deren Schmälerung über die
                     diesfälligen höchsten Normalverordnungen.<lb/>3. Die Taxe und Collectesachen in
-                        <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">allen kaiserlichen österreichischen
-                        Provinzen</country>.<lb/>4. Die gehörigen Amtshandlungen und Vertheilungen
+                        <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">allen kaiserlichen österreichischen
+                        Provinzen</rs>.<lb/>4. Die gehörigen Amtshandlungen und Vertheilungen
                     des frommen Vermächtnisses und Legates über die Vorschläge der sämtlichen
                     Superintendenten aus sämtlichen Provinzen.<lb/>5. Alle weltlichen und
                     geistlichen Stiftungen, ihre Einleitung und Handhabung und theilweise auch die
@@ -63,12 +62,12 @@
                     Kanzleydirectialgeschäfte.<lb/>7. Streitigkeiten in den Religionsgemeinden
                     selbst oder auch mit andern Gemeinden.<lb/>8. Die Vocations- und
                     Dotationsgegenstände der Pastoren und Vicarien, ihre Sicherstellung u.
-                    dgl.<lb/>9. Die Anstellung und Bestätigung aller Pastoren in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">allen Provinzen des österreichischen
-                        Kaiserstaats</country>, nachdem sie ordentlich gewählt, den Consistorien
+                    dgl.<lb/>9. Die Anstellung und Bestätigung aller Pastoren in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">allen Provinzen des österreichischen
+                        Kaiserstaats</rs>, nachdem sie ordentlich gewählt, den Consistorien
                     präsentirt und allenfalls schon geprüft oder ihre Prüfung von den Consistorien
                     erst angeordnet und eingeleitet worden ist.<lb/>10. Alle Urlaubsgesuche der
-                    denen Consistorien unterstehenden Geistlichen in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">allen österreichischen kaiserlichen Provinzen</country>.<lb/>11. Die
-                    Bestellung der Consenioren, Senioren und Superintendenten in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">allen österreichischen kaiserlichen Provinzen</country>,
+                    denen Consistorien unterstehenden Geistlichen in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">allen österreichischen kaiserlichen Provinzen</rs>.<lb/>11. Die
+                    Bestellung der Consenioren, Senioren und Superintendenten in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">allen österreichischen kaiserlichen Provinzen</rs>,
                     ihre Besoldungsangelegenheiten, ebenso wie die Pensionirung und in vorkommenden
                     Fällen die provisorische Verwaltung dieser Ämter und Würden und die Pensionirung
                     der Wittwen.<lb/>12. Die Brandsteuersammlungen, welche höhern Orts bewilliget
@@ -80,8 +79,8 @@
                     unruhiger Gemüthsart.<lb/>17. Alle liturgische auf Gottesdienst, Religionslehre,
                     Gebet, Gesang und Erbauungsbücher Bezug habende Gegenstände so wie jene der
                     Confirmanden.<lb/>18. Alle Visitationsoperate und Berichte der Superintendenten
-                    und Senioren in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">allen kaiserlichen
-                        Provinzen</country>.<lb/>19. Alle Ehesachen, Scheidungen und Streitigkeiten,
+                    und Senioren in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">allen kaiserlichen
+                        Provinzen</rs>.<lb/>19. Alle Ehesachen, Scheidungen und Streitigkeiten,
                     welche durch geistliche Vermittlung und Zureden und Vorstellungen abgethan
                     werden können, ehe sie vor die weltliche oder politische Rechtsbehörde
                     gelangen.<lb/>20. Atteste über Verwandtschaftsgrade.<lb/>21. Ausstellung der
@@ -94,21 +93,21 @@
                     Übertrittsfälle von einer Confession zur andern oder zur katholischen Religion
                     oder einer Seite zur einer der protestantischen Kirchen.<lb/>26. Begutachtungen
                     in Dispensationsfällen vom ehelichen Aufgeboth.<lb/>27. Die Ministerialausweise
-                    von allen Diöcesen der <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">österreichischen
-                        Provinzen</country>.<lb/>28. Alle Kirchenrechnungsgegenstände dieser
+                    von allen Diöcesen der <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">österreichischen
+                        Provinzen</rs>.<lb/>28. Alle Kirchenrechnungsgegenstände dieser
                     Diöcesen so wie jene der Kirchen- und Schulvorsteher.<lb/>29. Die Gymnasial- und
-                    Ephoratsangelegenheiten von <placeName ref="#place_27f77677310f3f4e0b878e7f7f0f0dd1">Teschen</placeName> im kaiserlichen
-                        <region key="ober-und-niederschlesien" ref="#place_600b5215fe55383381a2d9aca7dec16c">Schlesien</region>.<lb/>30. Alle
-                    Angelegenheiten des theologischen Studiums in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> so wie
+                    Ephoratsangelegenheiten von <rs type="place" subtype="place" ref="#place_27f77677310f3f4e0b878e7f7f0f0dd1">Teschen</rs> im kaiserlichen
+                        <rs type="place" subtype="region" key="ober-und-niederschlesien" ref="#place_600b5215fe55383381a2d9aca7dec16c">Schlesien</rs>.<lb/>30. Alle
+                    Angelegenheiten des theologischen Studiums in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> so wie
                     die Anstellung, Beförderung und Pensionirung der dabey angestellten
                     Professoren.<lb/>31. Die Stipendiensachen dieses theologischen Studiums und in
                     einigen Provinzen.<lb/>32. Die von der Hofkanzley abgeforderten Begutachtungen
                     und Erinnerungen über die von den Superintendenten und Senioren in allen
                     Länderstellen erstatteten und dahin einlangenden Berichte in
                     Schulsachen.<lb/>33. Die Correspondenz mit allen kaiserlich königlichen
-                    Landrechten der <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Provinzen des österreichischen
-                        Kaiserstaates</country> als Abhandlungsbehörden in Sterbfällen der Vicare,
-                    Pastoren, Senioren und Superintendenten der <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">kaiserlichen Provinzen</country>.<lb/>34. Untersuchung und Würdigung der
+                    Landrechten der <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Provinzen des österreichischen
+                        Kaiserstaates</rs> als Abhandlungsbehörden in Sterbfällen der Vicare,
+                    Pastoren, Senioren und Superintendenten der <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">kaiserlichen Provinzen</rs>.<lb/>34. Untersuchung und Würdigung der
                     von Pastoren hinterlassenen Wittwenfondsrechnungen, welche jede Provinz des
                     Kaiserreiches für sich führt und denen Consistorien darüber Rechnung zu legen
                     haben.</p>

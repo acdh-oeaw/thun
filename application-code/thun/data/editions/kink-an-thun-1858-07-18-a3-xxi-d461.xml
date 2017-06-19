@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="kink-rudolph" role="sender:beamter">Rudolph Kink</persName> an
-                        <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="kink-rudolph" key="kink-rudolph" role="sender:beamter">Rudolph Kink</rs> an
+                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_8be4faaae218289562dc0a8c0e2e0ff1">Triest</placeName>, <date when="1858-07-18">18. Juli 1858</date>
+                    <rs type="place" subtype="place" ref="#place_8be4faaae218289562dc0a8c0e2e0ff1">Triest</rs>, <date when="1858-07-18">18. Juli 1858</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -37,7 +36,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -47,44 +46,44 @@
                     <term>Unterrichtsreferenten</term>
                 </index>
                 <p>Euere Exzellenz!</p>
-                <p>Bei meiner Rückkehr nach <placeName ref="#place_8be4faaae218289562dc0a8c0e2e0ff1">Triest</placeName> wurde ich auf der
-                    Durchreise durch <placeName ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</placeName> von dem Herrn Statthalter
-                        <persName key="bissingen-cajetan">Grafen von Bissingen</persName>
+                <p>Bei meiner Rückkehr nach <rs type="place" subtype="place" ref="#place_8be4faaae218289562dc0a8c0e2e0ff1">Triest</rs> wurde ich auf der
+                    Durchreise durch <rs type="place" subtype="place" ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</rs> von dem Herrn Statthalter
+                        <rs type="person" ref="bissingen-cajetan" key="bissingen-cajetan">Grafen von Bissingen</rs>
                     aufgefordert, mich zu erklären, ob ich die Unterrichtsreferentenstelle in
-                        <placeName ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</placeName> an <persName key="martelli-johann">Martelli</persName>’s statt übernehmen wolle.<lb/>Obgleich nun mein Wunsch
-                    nicht nach <placeName ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</placeName> und überhaupt nach
-                        <country ref="#place_389962c9dec540ab28d04517e82c3996">Italien</country>, sondern wie Euer Exzellenz wohl bekannt ist, auf
-                    die baldmögliche Rückkehr nach <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> gerichtet ist und
+                        <rs type="place" subtype="place" ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</rs> an <rs type="person" ref="martelli-johann" key="martelli-johann">Martelli</rs>’s statt übernehmen wolle.<lb/>Obgleich nun mein Wunsch
+                    nicht nach <rs type="place" subtype="place" ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</rs> und überhaupt nach
+                        <rs type="place" subtype="country" ref="#place_389962c9dec540ab28d04517e82c3996">Italien</rs>, sondern wie Euer Exzellenz wohl bekannt ist, auf
+                    die baldmögliche Rückkehr nach <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> gerichtet ist und
                     obgleich ich wohl weiß, daß mit dieser Stelle, welche eine genaue
                     Personalkenntnis und ein taktvolles Vorgehen erheischt, mancherlei
                     Schwierigkeiten, besonders für den Anfang, verknüpft sind, so überwog doch die
-                    Betrachtung, daß mein Wirkungskreis in <placeName ref="#place_8be4faaae218289562dc0a8c0e2e0ff1">Triest</placeName> mir je
+                    Betrachtung, daß mein Wirkungskreis in <rs type="place" subtype="place" ref="#place_8be4faaae218289562dc0a8c0e2e0ff1">Triest</rs> mir je
                     länger je weniger zusagen kann. Das Volksschulwesen ist in den Händen des
-                    Schulrathes <persName key="laukotsky-vinzenz">Laukotsky</persName> sehr gut
+                    Schulrathes <rs type="person" ref="laukotsky-vinzenz" key="laukotsky-vinzenz">Laukotsky</rs> sehr gut
                     aufgehoben; die Gymnasien geben, einzelne Ausnahmen abgerechnet, den Referenten
                     wenig zu schaffen. Auch die nautische Akademie ist, wie ich mich täglich mehr
-                    überzeuge, bei <persName key="littrow-heinrich">Littrow</persName> – einzelne
+                    überzeuge, bei <rs type="person" ref="littrow-heinrich" key="littrow-heinrich">Littrow</rs> – einzelne
                     Übereilungen und Ausschreitungen abgerechnet – in sehr guten Händen; sie wird
-                    gewiß in Kurzem überraschende Forstschritte zeigen. Ich bin <persName key="littrow-heinrich">Herrn von Littrow</persName> das Zeugnis schuldig.
+                    gewiß in Kurzem überraschende Forstschritte zeigen. Ich bin <rs type="person" ref="littrow-heinrich" key="littrow-heinrich">Herrn von Littrow</rs> das Zeugnis schuldig.
                     Daß diese Fortschritte kommen, dazu kann ebenfalls wieder der Referent nur sehr
                     mäßig beitragen. In wissenschaftlicher Hinsicht kann ich hier nicht nur selbst
                     nichts thun, sondern auch nicht einmal irgendwo oder auf irgend Jemand Einfluß
                     nehmen. Beides, hoffe ich, kann sich in Venedig günstiger gestalten.<lb/>Ich gab
                     daher dem Herrn Statthalter meine Einwilligung und erhielt die Nachricht, daß
-                    sein Vorschlag sogleich und ohne die Genehmigung der von <persName key="martelli-johann">Martelli</persName> eingereichten Pensionirung erst
+                    sein Vorschlag sogleich und ohne die Genehmigung der von <rs type="person" ref="martelli-johann" key="martelli-johann">Martelli</rs> eingereichten Pensionirung erst
                     abzuwarten, schon ablief.<lb/>Da ich nun bei meinem letzten Aufenthalte in
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> Eurer Exzellenz die Bitte um die Übersetzung zur
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> Eurer Exzellenz die Bitte um die Übersetzung zur
                     niederösterreichischen Statthalterei vorbrachte, so halte ich mich verpflichtet,
                     von dem obigen Vorgange die Anzeige zu machen, damit es nicht den Anschein habe,
                     als ob ich bei zweierlei Thüren zugleich habe anklopfen wollen. Dies ist
                     wahrlich nicht der Fall, ich kann vielmehr beifügen, daß, wenn die Übersetzung
-                    nach <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> möglich wäre, ich dieselbe jedenfalls jener
-                    nach <placeName ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</placeName> vorziehen würde. Überdies hatten Eure
-                    Exzellenz selbst einmal den Wunsch, nach <placeName ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</placeName>
+                    nach <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> möglich wäre, ich dieselbe jedenfalls jener
+                    nach <rs type="place" subtype="place" ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</rs> vorziehen würde. Überdies hatten Eure
+                    Exzellenz selbst einmal den Wunsch, nach <rs type="place" subtype="place" ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</rs>
                     überzutreten, rücksichtlich meiner ausgesprochen.<lb/>Ich darf mir daher wohl
                     erlauben, auch für diesen Fall um Euer Exzellenz gnädige Unterstützung zu bitten
                     und hiebei auch die schon einmal gestellte Bitte zu wiederholen, daß Eure
-                    Exzellenz mich nicht für immer in <country ref="#place_389962c9dec540ab28d04517e82c3996">Italien</country> lassen und dort
+                    Exzellenz mich nicht für immer in <rs type="place" subtype="country" ref="#place_389962c9dec540ab28d04517e82c3996">Italien</rs> lassen und dort
                     vergessen mögen.</p>
                 <p>In tiefer Verehrung<lb/>Eurer Exzellenz<lb/>gehorsamster Diener<lb/>Rudolf
                     Kink</p>

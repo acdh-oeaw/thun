@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="beck-iganz" role="sender:kleriker">Ignaz Beck</persName> an
-                        <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="beck-iganz" key="beck-iganz" role="sender:kleriker">Ignaz Beck</rs> an
+                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_8be4faaae218289562dc0a8c0e2e0ff1">Triest</placeName>, <date when="1853-05-18">18. Mai 1853</date>
+                    <rs type="place" subtype="place" ref="#place_8be4faaae218289562dc0a8c0e2e0ff1">Triest</rs>, <date when="1853-05-18">18. Mai 1853</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -45,7 +44,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -67,22 +66,22 @@
                     Verhältnissen sozusagen um seine Existenz zittern und bei der unsicheren Zukunft
                     um sein Stückchen Brot gewissermaßen betteln muß.<lb/>Millionen und
                     Millionenmahl schon habe ich es bereut, meine wunderschöne und reiche Pfarre in
-                        <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> aufgegeben zu haben und auf einen
+                        <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> aufgegeben zu haben und auf einen
                     Posten gegangen zu seyn, den ich nicht gesucht habe. Drey Monathe überlegte ich,
                     nachdem ich schon zum Gubernialrathe ernannt war, ob ich gehen oder nicht gehen
                     soll! Die höchsten Würdenträger und die dem <hi rend="ul">Throne
                         zunächststehenden</hi> Personen redeten mir zu: „der Ernennung zu folgen; es
                     werde nicht zu meinem Schaden seyn etc.“ Meine mit 600 h Ackerland, Wiesen und
                     Weingärten, nebst einem bedeutenden Zehend dotirte Pfarre (Herr Minister
-                        <persName key="bach-alexander">Bach</persName>
+                        <rs type="person" ref="bach-alexander" key="bach-alexander">Bach</rs>
                     <hi rend="ul">kennt</hi> sie, denn er war zweimahl, als er noch Advokateur, mit
                     andern guten Freunden bei mir!) wäre mir, bei dem <hi rend="ul">jetzigen Stand
                         der Dinge lieber, selbst viel lieber</hi> als jedes noch so fette Bisthum.
                     Ich dürste nicht nach Reichthümern und Würden und wäre <hi rend="ul">meinestheils</hi> auch in einer <hi rend="ul">Klosterzelle</hi> zufrieden,
                     (wo ich ungetheilt Gott und den Wissenschaften dienen könnte), allein leider
-                    fallen mir und meinem Bruder <persName key="beck-anton">Anton</persName> in
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> 8 unversorgte Waisen (Neffen und Nichten nach
-                    dem Tode Bruder <persName key="beck-martin">Martin</persName> und der <persName key="steyskal-hans">Schwester Mann</persName>), deren Obsorge wir
+                    fallen mir und meinem Bruder <rs type="person" ref="beck-anton" key="beck-anton">Anton</rs> in
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> 8 unversorgte Waisen (Neffen und Nichten nach
+                    dem Tode Bruder <rs type="person" ref="beck-martin" key="beck-martin">Martin</rs> und der <rs type="person" ref="steyskal-hans" key="steyskal-hans">Schwester Mann</rs>), deren Obsorge wir
                     übernahmen, zur Last!<lb/>Es würde wahrscheinlich „der <hi rend="ul">Revoluzionszeit die Krone</hi> aufgesetzt“, wenn man nun die geistlichen
                     und Studienreferenten zum Lohne für die tausendfältigen Qualen, Distel und
                     Donner, die sie insbesondere seit dem Jahre 1848 bis nun zu erdulden hatten, wie
@@ -110,20 +109,20 @@
                     ungeschminkte Frömmigkeit ist (wie dies seyn sollte) ihr Zielpunkt, sed virga
                     ferrea regiminis Gregoriani!! Ich hoffe der österreichische Staat und Monarch
                     werde seine Kraft und Würde zu wahren wissen! Man schrie hierarchischer Seite
-                    fortwährend gegen <hi rend="ul">Josephinismus</hi>. Warum mußte <persName key="joseph-II">Kaiser Joseph</persName> gegen horrende königliche
+                    fortwährend gegen <hi rend="ul">Josephinismus</hi>. Warum mußte <rs type="person" ref="joseph-II" key="joseph-II">Kaiser Joseph</rs> gegen horrende königliche
                     Mißbräuche josephinische <hi rend="ul">Maßregeln</hi> ergreifen? Warum blieb der
-                    weise <persName key="franz-I-II">Kaiser Franz</persName> durch die 42 Jahre
+                    weise <rs type="person" ref="franz-I-II" key="franz-I-II">Kaiser Franz</rs> durch die 42 Jahre
                     seiner Regierung <hi rend="ul">dabei</hi>? Ich fürchte, daß man kaum nach 10
                     Jahren <hi rend="ul">genöthiget</hi> seyn wird, <hi rend="ul">schon von den
                         dermahligen kirchlichen Conceßionen manches</hi> zurückzunehmen! Wann war
                     denn das <hi rend="ul">goldene</hi> Zeitalter der Kirche? Etwa <hi rend="ul">vor</hi>
-                    <persName key="maria-theresia">Maria Theresia</persName>? Warum trat die fromme
+                    <rs type="person" ref="maria-theresia" key="maria-theresia">Maria Theresia</rs>? Warum trat die fromme
                     weise Regentin <hi rend="ul">dagegen</hi> auf? Das <hi rend="ul">meiste</hi> im
                         <hi rend="ul">Josephinismus</hi> ist ja <hi rend="ul">Mariatheresianisch</hi>!! Das corpus juris <hi rend="ul">canonici</hi> ist
                     ein corpus controversiarum seit Jahrhunderten und wird es stets bleiben, in
-                        <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">
+                        <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">
                         <hi rend="ul">Oestreich</hi>
-                    </country> war die
+                    </rs> war die
                         <hi rend="ul">Kirche</hi> nicht gedrückt, man sage was man wolle! <hi rend="ul">Einige Reformen</hi> waren und sind ohne gänzliche Überstürzung
                         <hi rend="ul">möglich</hi>, aber so, wie die Dinge jetzt stehen, ist der <hi rend="ul">subordinirte Clerus</hi> im höchsten Grade unzufrieden. Ich höre
                     es hundertfältig von allen Seiten und halte es für meine heilige Pflicht, dies
@@ -146,9 +145,9 @@
                     wahrlich ohne Ruhmredigkeit sagen, daß ich mir eine <hi rend="ul">Leidenkrone</hi> verdient habe. Acht Jahre des Fegefeuers hätten unmöglich
                     gründlicher seyn können, besonders die seit 1848–1853! <lb/>Alles – beinahe –
                     hat durch die Revolution gewonnen; meine Praktikanten, Concepisten oder
-                    Secretaire sind <hi rend="ul">Kreisräthe</hi>, <hi rend="ul">Ministerialsecretäre</hi> (<persName key="klinkowstroem-joseph">Klinkowström</persName>, <persName key="bosizio-johann">Bosizio</persName>,
-                        <persName key="heufler-von-hohenbuehel-ludwig">Heufler</persName>), <hi rend="ul">Delegaten</hi> (<persName key="jordis-johann">Jordis</persName>),
-                    ja sogar <hi rend="ul">Statthalter</hi> (<persName key="toggenburg-georg-otto">Toggenburg</persName>) geworden; eine Anzahl von hiesigen u. f. Bürgern,
+                    Secretaire sind <hi rend="ul">Kreisräthe</hi>, <hi rend="ul">Ministerialsecretäre</hi> (<rs type="person" ref="klinkowstroem-joseph" key="klinkowstroem-joseph">Klinkowström</rs>, <rs type="person" ref="bosizio-johann" key="bosizio-johann">Bosizio</rs>,
+                        <rs type="person" ref="heufler-von-hohenbuehel-ludwig" key="heufler-von-hohenbuehel-ludwig">Heufler</rs>), <hi rend="ul">Delegaten</hi> (<rs type="person" ref="jordis-johann" key="jordis-johann">Jordis</rs>),
+                    ja sogar <hi rend="ul">Statthalter</hi> (<rs type="person" ref="toggenburg-georg-otto" key="toggenburg-georg-otto">Toggenburg</rs>) geworden; eine Anzahl von hiesigen u. f. Bürgern,
                     Beamten haben rühmliche Anerkennungen, Orden etc. erhalten (manche von ihnen
                     sagten <hi rend="ul">selbst</hi>, daß sie nicht wußten <hi rend="ul">wofür</hi>!) und die <hi rend="ul">einzigen</hi> unglücklichen geistlichen
                     Referenten hatten niemanden, der sich um sie annahm, giengen <hi rend="ul">überall ganz leer aus</hi> und mußten, als hätten sie etwas verbrochen,
@@ -160,9 +159,9 @@
                     seyn.<lb/>Sonst würdigte man höchsten Orts die Anstrengungen, schwierigen
                     Stellungen und Verdienste der erwähnten Referenten und sie waren der höchsten
                     Beförderungen, die ihnen in der Regel zutheil wurden, <hi rend="ul">wahrhaft</hi> würdig – noch jetzt sind die vorzüglichsten und
-                    ausgezeichnetsten Kirchenvorsteher (Lußin [<persName key="luschin-franz-xaver">Luschin</persName>], <persName key="wolf-anton-alois">Wolf</persName>, [?],
-                        <persName key="godeassi-giuseppe">Godeassi</persName>, <persName key="haulik-georg">Haulik</persName>, <persName key="gruber-augustin">Gruber</persName>, <persName key="zimmermann">Zimmermann</persName>,
-                        <persName key="mayer-georg">Mayer</persName>, <persName key="buchmayer-anton-alois">Buchmayer</persName>, <persName key="lindauer-joseph-andreas">Lindauer</persName>, <persName key="lidmansky-adalbert">Lidmanski</persName>, <persName key="hanl-karl-borromaeus">Hanl</persName> etc.) aus ihrer Zahl! Seit dem
+                    ausgezeichnetsten Kirchenvorsteher (Lußin [<rs type="person" ref="luschin-franz-xaver" key="luschin-franz-xaver">Luschin</rs>], <rs type="person" ref="wolf-anton-alois" key="wolf-anton-alois">Wolf</rs>, [?],
+                        <rs type="person" ref="godeassi-giuseppe" key="godeassi-giuseppe">Godeassi</rs>, <rs type="person" ref="haulik-georg" key="haulik-georg">Haulik</rs>, <rs type="person" ref="gruber-augustin" key="gruber-augustin">Gruber</rs>, <rs type="person" ref="zimmermann" key="zimmermann">Zimmermann</rs>,
+                        <rs type="person" ref="mayer-georg" key="mayer-georg">Mayer</rs>, <rs type="person" ref="buchmayer-anton-alois" key="buchmayer-anton-alois">Buchmayer</rs>, <rs type="person" ref="lindauer-joseph-andreas" key="lindauer-joseph-andreas">Lindauer</rs>, <rs type="person" ref="lidmansky-adalbert" key="lidmansky-adalbert">Lidmanski</rs>, <rs type="person" ref="hanl-karl-borromaeus" key="hanl-karl-borromaeus">Hanl</rs> etc.) aus ihrer Zahl! Seit dem
                     Jahr 1848 ist <hi rend="ul">keiner etwas</hi> geworden, als läge der große Bann
                     auf ihnen; aus großer Gnade ließ man sie <hi rend="ul">angelehnt</hi>, in einer
                     wahrhaft schmählichen Stellung, die sie gewiß nicht verdient haben! Auf <hi rend="ul">solche</hi> Aussichten und Bedingungen ist gewiß keiner von ihnen
@@ -178,22 +177,22 @@
                     Ministerium erstatten) verwandelt werden, und so dürfte es auch am besten seyn,
                     wenn sich der Staat nicht allzu viel Pensionirungen aufbürden will. Ich bin
                     gegenwärtig hier der <hi rend="ul">älteste</hi> Gubernialrath, meine beiden
-                    Vormänner <persName key="wander-franz">Wander</persName> und <persName key="englert-joseph-franz">Englert</persName> sind todt und fort. Ich
+                    Vormänner <rs type="person" ref="wander-franz" key="wander-franz">Wander</rs> und <rs type="person" ref="englert-joseph-franz" key="englert-joseph-franz">Englert</rs> sind todt und fort. Ich
                     schmeichle mir, daß mir meine Ancienität mit dem höhern Gehalt nicht verkümmert
                     werden wird, schon das <hi rend="ul">Quartiergeld</hi> (900 fl!!) nimmt den <hi rend="ul">Drittel Theil</hi> des Gehalts in Anspruch, dazu die excessive
                     hiesige Theuerung den reichen Kaufleuten, Juden [?] und so vielen Fremden
                     gegenüber!<lb/>Ich bin manchmal hier so kleinmüthig und niedergedrückt, daß ich
                     wahrhaftig sagen kann „taedet animam meam vitae meae“, dazu die Maße der
-                    Amtsgeschäfte – Herr <persName key="kuen">Kuen</persName> auf 3 Monathe und noch
-                    länger in Italien, [?] am Land, Concipist <persName key="stockler">Stockler</persName> auf Urlaub – ich also mit ein paar steinalten Invaliden
+                    Amtsgeschäfte – Herr <rs type="person" ref="kuen" key="kuen">Kuen</rs> auf 3 Monathe und noch
+                    länger in Italien, [?] am Land, Concipist <rs type="person" ref="stockler" key="stockler">Stockler</rs> auf Urlaub – ich also mit ein paar steinalten Invaliden
                     allein zu der Menge von Amtsgeschäften; kein Wunder, wenn man sonach psychisch
                     und physisch leidend wird. Deswegen geruhen Euer Excellenz auch gnädige
                     Nachsicht zu haben, wenn aus einem verstimmten Instrument ein schriller Ton hie
                     und da das Ohr verletzt. Als Fürsprecher möge meine Wohlmeinung und
                     Aufrichtigkeit auftreten! Sumus in manu Dei! Eben als ich ganz trostlos dahin
                     brüte, erfreut mich Gottes Güte durch einen Engel in Menschengestalt! Seine
-                    kaiserliche Hoheit, der Herr <persName key="karl-ferdinand-erzherzog">Erzherzog
-                        C[arl] Ferdinand</persName>, sendeten mir durch Ihren Secretair ein sehr
+                    kaiserliche Hoheit, der Herr <rs type="person" ref="karl-ferdinand-erzherzog" key="karl-ferdinand-erzherzog">Erzherzog
+                        C[arl] Ferdinand</rs>, sendeten mir durch Ihren Secretair ein sehr
                     kostbares Bild als <hi rend="ul">höchst überraschendes</hi> Geschenk,
                     wahrscheinlich als gute Gabe, weil ich ihn neulich komunizirte, und so glaube
                     und vertraue ich auch <hi rend="ul">hinfort</hi> auf Gottes gütige Fürsehung und

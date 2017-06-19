@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="juelg-bernhard" role="sender:gelehrter">Bernhard
-                        Jülg</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="juelg-bernhard" key="juelg-bernhard" role="sender:gelehrter">Bernhard
+                        Jülg</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</placeName>, <date when="1852-01-07">7. Januar 1852</date>
+                    <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs>, <date when="1852-01-07">7. Januar 1852</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -52,7 +51,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -72,15 +71,15 @@
                     Excellenz diese Zeilen, mit denen ich mich an Hochdieselben zu wenden wage,
                     huldvoll aufnehmen!<lb/>Vor allem bin ich Eurer Excellenz verpflichtet für die
                     Erleichterung der Arbeit, die mir durch die Ernennung eines Collegen, des Herrn
-                        <persName key="kergel-wilhelm">Professors Kergel</persName>, geworden ist.
+                        <rs type="person" ref="kergel-wilhelm" key="kergel-wilhelm">Professors Kergel</rs>, geworden ist.
                     So wird es mir möglich sein, mich nicht ausschließlich auf die klassische
                     Literatur zu beschränken, sondern auch Gegenstände allgemein
                     sprachwissenschaftlichen Inhalts wieder aufzunehmen. Dies war sicherlich wohl
                     auch die Absicht Eurer Excellenz, die Hochdieselben mir schon bei dem Empfange,
-                    dem Sie mir bei meiner Durchreise in <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</placeName>
+                    dem Sie mir bei meiner Durchreise in <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>
                     gewährten, anzudeuten die Güte hatten.<lb/>Der Sinn für philologische und
                     namentlich klassische Studien ist hier im Allgemeinen noch sehr gering. Außer
-                    den Supplenten an den <placeName key="lemberg" ref="#place_3ff694e5c82611cda53341a9bae21735">Lemberger</placeName> Gymnasien
+                    den Supplenten an den <rs type="place" subtype="place" key="lemberg" ref="#place_3ff694e5c82611cda53341a9bae21735">Lemberger</rs> Gymnasien
                     haben sich nur wenige eigentliche Studirende der Philologie für meine
                     Vorlesungen gemeldet. Für die Antigone haben sich im Ganzen nur 6 Zuhörer
                     gemeldet, und zwar 3 Supplenten, 1 Studirender der Philologie und 2 Dilettanten,
@@ -128,10 +127,10 @@
                     haben, suchte ich in gegenwärtigem Semester eine allgemeine ethnographische
                     Übersicht der Hauptsprachstämme zu geben. Dies hat, wie es scheint, Beifall
                     gefunden; es haben sich ziemlich viele Hörer gemeldet. Euer Excellenz sprachen
-                    bei meiner Anwesenheit in <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</placeName> Ihre Billigung
+                    bei meiner Anwesenheit in <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> Ihre Billigung
                     aus, wenn wenigstens der Versuch zum Sanskrit hier gemacht würde. Da einmal
                     durch die Errichtung des philologischen Seminars, dann durch die Vorlesungen des
-                    Professors <persName key="kergel-wilhelm">Kergel</persName> sowie durch fünf
+                    Professors <rs type="person" ref="kergel-wilhelm" key="kergel-wilhelm">Kergel</rs> sowie durch fünf
                     wöchentliche Vorlesungen über klassische Literatur von meiner Seite für die
                     Lehramtscandidaten hinreichend gesorgt ist, indem sie schwerlich diese
                     sämmtlichen Vorlesungen hören werden, so könnte ich wohl noch einige Stunden für
@@ -178,7 +177,7 @@
                     Excellenz angeboten wurde, billiger Weise ausschlagen mußte, eine Stellung, wo
                     Gehaltserhöhung nicht von Zeit und Ort abhängt und auch nicht blos an die
                     ordentliche Professur geknüpft ist, so hat mich die Wahrnehmung dieses
-                    Verhältnisses in <country ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</country> gewissermaßen besorgt gemacht.
+                    Verhältnisses in <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs> gewissermaßen besorgt gemacht.
                     Doch im Vertrauen auf die Huld und Gewogenheit Eurer Excellenz gebe ich mich der
                     freudigen Hoffnung hin, daß Hochdieselben dieses mein Verhältnis nicht allzu
                     lange möchten andauern lassen. Es würde für mich umso empfindlicher sein, als
@@ -189,7 +188,7 @@
                     hiesigen Bibliothek außerdem zu zahlreichen Anschaffungen neuen Bedarfs
                     genöthigt bin, bei welch’ letztern die ungünstigen Valutaverhältnisse mich noch
                     einer namhaften Summe berauben. Außerdem sind die Preise der Lebensmittel und
-                    der sonstigen Utensilien in <placeName ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</placeName> theurer als in
+                    der sonstigen Utensilien in <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs> theurer als in
                     irgendeiner Stadt, in der ich gelebt.<lb/>Nur das unbedingte Vertrauen, das ich
                     zu Eurer Excellenz hege, und der Gedanke, daß ich in Hochdenselben als Fremdling
                     und mit den neuen Verhältnissen noch zu wenig vertraut, alles, Schutz und Hort,

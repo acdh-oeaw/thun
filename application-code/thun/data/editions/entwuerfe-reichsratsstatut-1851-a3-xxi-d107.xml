@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -67,7 +66,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -228,7 +227,7 @@
                     Präsident und die Reichsräthe, dann die Beamtenschaft des Reichsrathes können
                     außer Ordens- und Hofwürden nebstbei weder ein anderes Staatsamt bekleiden noch
                     Mitglieder repräsentativer Körperschaften seyn.<lb/>§ 29. Der Reichsrath hat
-                    seinen regelmäßigen Sitz in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, doch kann ihn Seine
+                    seinen regelmäßigen Sitz in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, doch kann ihn Seine
                     Majestät der Kaiser auch an einen anderen Ort berufen.</p>
                 <p>
                     <hi rend="ul">IV. Allgemeine Grundzüge der Geschäftsordnung</hi>
@@ -428,7 +427,7 @@
                         Präsidenten wird von Uns aus den Reichsräthen bestimmt.<lb/>Zur Besorgung
                         der Hilfs- und Ordnungsgeschäfte wird ihm das nöthige Personale in
                         entsprechender Anzahl zugewiesen.<lb/>
-                        <hi rend="ul">Zusatz nach dem Antrage des <persName key="bach-alexander">Ministers des Innern</persName>:</hi> und die Benützung des
+                        <hi rend="ul">Zusatz nach dem Antrage des <rs type="person" ref="bach-alexander" key="bach-alexander">Ministers des Innern</rs>:</hi> und die Benützung des
                         Cabinetsarchives eingeräumt.<lb/>
                         <hi rend="italic">§ 13. Der Reichsrath besteht aus seinem Präsidenten, den
                             Reichsräthen und zeitlichen Theilnehmern. Ein Stellvertreter des
@@ -473,7 +472,7 @@
                             Thuns: D. i. freilich zu wenig; der Reichsrath muß an der Enquete mit
                             theilnehmen.</note>
                         <lb/>
-                        <hi rend="ul">Oder nach dem Vorschlage des <persName key="bach-alexander">Ministers des Innern</persName>:</hi> Wir behalten Uns übrigens vor
+                        <hi rend="ul">Oder nach dem Vorschlage des <rs type="person" ref="bach-alexander" key="bach-alexander">Ministers des Innern</rs>:</hi> Wir behalten Uns übrigens vor
                         in besonderen Fällen, wo Wir es zur gründlichen Erörterung und Aufklärung
                         einzelner Gesetzvorschläge und Fragen für nothwendig oder nützlich erkennen,
                         Männer aus allen Ständen und Theilen der Monarchie als Beisitzer zum

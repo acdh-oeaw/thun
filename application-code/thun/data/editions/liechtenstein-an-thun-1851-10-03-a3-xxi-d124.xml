@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="liechtenstein-alois" role="sender">Alois
-                        Liechtenstein</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="liechtenstein-alois" key="liechtenstein-alois" role="sender">Alois
+                        Liechtenstein</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1851-10-03">3. Oktober 1851</date>
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1851-10-03">3. Oktober 1851</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -32,7 +31,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -42,13 +41,13 @@
                 </index>
                 <p>Euer Excellenz!</p>
                 <p>Da nach der erhaltenen Anzeige vom 20/26 vorigen Monats [September] Nr. 8917/1414
-                    durch den Austritt des <persName key="menshengen-ferdinand">Ferdinand Freyherr
-                        von Menshengen</persName> ein herzoglich Savoy‘scher Stiftungsplatz in der
+                    durch den Austritt des <rs type="person" ref="menshengen-ferdinand" key="menshengen-ferdinand">Ferdinand Freyherr
+                        von Menshengen</rs> ein herzoglich Savoy‘scher Stiftungsplatz in der
                         <orgName key="theresianische-ritterakademie">k.k. Theresianischen
                         Academie</orgName> in Erledigung kam, so beehre ich mich hiermit anzuzeigen,
-                    daß ich diesen erledigten Stiftungsplatz dem <persName key="tibolth-coloman">Coloman von Tibolth</persName>, Sohn des k.k. Bezirkscommissairs in
-                        <placeName ref="#place_8d8850eb122df8685285743838fb6abf">Eisenstadt</placeName>, Herrn <persName key="tibolth-carl">Carl
-                        von Tibolth</persName>, verliehen habe.<lb/>Von dieser Verleihung wurde der
+                    daß ich diesen erledigten Stiftungsplatz dem <rs type="person" ref="tibolth-coloman" key="tibolth-coloman">Coloman von Tibolth</rs>, Sohn des k.k. Bezirkscommissairs in
+                        <rs type="place" subtype="place" ref="#place_8d8850eb122df8685285743838fb6abf">Eisenstadt</rs>, Herrn <rs type="person" ref="tibolth-carl" key="tibolth-carl">Carl
+                        von Tibolth</rs>, verliehen habe.<lb/>Von dieser Verleihung wurde der
                     letztere mit dem Beifügen in Kenntnis gesetzt, daß er sich wegen Aufnahme seines
                     Sohnes an die Direction der gedachten <orgName key="theresianische-ritterakademie">Acadmie</orgName> zu verwenden und die
                     hiezu erforderlichen Documente dort vorzulegen habe.<lb/>Ich verharre mit

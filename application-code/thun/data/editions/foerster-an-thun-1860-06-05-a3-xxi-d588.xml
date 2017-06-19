@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="foerster-heinrich" role="sender:kleriker">Heinrich
-                        Förster</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="foerster-heinrich" key="foerster-heinrich" role="sender:kleriker">Heinrich
+                        Förster</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</placeName>, <date when="1860-06-05">5. Juni 1860</date>
+                    <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs>, <date when="1860-06-05">5. Juni 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -36,7 +35,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -53,25 +52,25 @@
                     unbekannt war, um für die Erfüllung dieses Wunsches um so thätiger zu sein, als
                     dadurch einem längst gefühlten Bedürfnisse Abhilfe geschehen werde. Die mir
                     gütigst zugesandten Papiere haben lediglich auf eine Begräbniskapelle Bezug, die
-                    in weiter Entfernung von <placeName ref="#place_47bd78cdef6baa3a99c18903c828e623">Freiwaldau</placeName> auf hohem Berge ein
-                    nicht eben glücklich gewähltes Monument für den verstorbenen <persName key="priessnitz-vincenz">Priesnitz</persName> aber zur Abhaltung des
+                    in weiter Entfernung von <rs type="place" subtype="place" ref="#place_47bd78cdef6baa3a99c18903c828e623">Freiwaldau</rs> auf hohem Berge ein
+                    nicht eben glücklich gewähltes Monument für den verstorbenen <rs type="person" ref="priessnitz-vincenz" key="priessnitz-vincenz">Priesnitz</rs> aber zur Abhaltung des
                     heiligen Meßopfers in keiner Weise geeignet ist. Am besten wäre es, wenn die
                     Betreibung dieser Angelegenheit bis zu meiner Ankunft in
-                        <placeName ref="#place_f5d1d90d4e3636d686a4e8ac3c2e7cd7">Johannesberg</placeName> ausgesetzt bleiben könnte. Da ich bei
+                        <rs type="place" subtype="place" ref="#place_f5d1d90d4e3636d686a4e8ac3c2e7cd7">Johannesberg</rs> ausgesetzt bleiben könnte. Da ich bei
                     meiner fortdauernden Krankheit verurtheilt bin, das Laubad in
-                        <placeName ref="#place_8be4faaae218289562dc0a8c0e2e0ff1">Triest</placeName> zu gebrauchen, so werde ich im Laufe künftiger
-                    Woche nach <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> kommen und dort einen Tag verweilen,
-                    lediglich, um dem <persName key="luca-antonio-de">Herrn Nuntius</persName> und
+                        <rs type="place" subtype="place" ref="#place_8be4faaae218289562dc0a8c0e2e0ff1">Triest</rs> zu gebrauchen, so werde ich im Laufe künftiger
+                    Woche nach <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> kommen und dort einen Tag verweilen,
+                    lediglich, um dem <rs type="person" ref="luca-antonio-de" key="luca-antonio-de">Herrn Nuntius</rs> und
                     Eurer Excellenz meine Aufwartung zu machen. Ich werde dann die Ehre haben, mich
                     mündlich des Weiteren über diese Sache auszusprechen.<lb/>Das amtliche Schreiben
-                    bezüglich des Rektors <persName key="schneider">Schneider</persName> ist gar
+                    bezüglich des Rektors <rs type="person" ref="schneider" key="schneider">Schneider</rs> ist gar
                     nicht gegen meine Wünsche. Es wäre meinerseits der größte Undank, wollte ich
                     auch nur einen Augenblick verkennen, mit welcher gütigen Rücksicht und mit welch
                     großem Wohlwollen Euer Excellenz meinen diesfältigen Anträgen stets entgegen
                     gekommen sind. Leider ist Euer Excellenz und mein Vertrauen dabei oft getäuscht
                     worden. Hochdieselben wissen aber aus eigener Erfahrung, wie schwer es ist, sich
                     dergleichen Vermittelungen immer zu entziehen. Meine Empfehlung für den
-                        <persName key="schneider">Schneider</persName> war übrigens eine sehr matte
+                        <rs type="person" ref="schneider" key="schneider">Schneider</rs> war übrigens eine sehr matte
                     und karge. Was Euer Excellenz über die Verhältnisse im Großen und Ganzen sagen,
                     theile ich vollkommen. Es hat wohl nie eine Zeit gegeben, wo man der Wahrheit
                     und Gerechtigkeit so rückhaltslos ins Angesicht geschlagen als die unsere; wo
@@ -79,12 +78,12 @@
                     bald durch das, was sie thun, bald durch das, was sie nicht thun, die sichere
                     Grundlage ihrer Threue so erschüttert und untergraben worden als jetzt. Alles
                     alte Recht soll aufhören, nur eine einzige Macht hat dahin mannhaft sich erhoben
-                    und gekämpft. Zu <placeName ref="#place_d0bd9c240e6ab7a295fc49d89da2d0d7">Solferino</placeName> hat man diesem Recht sein Grab
-                    gegraben und in <placeName key="villafranca" ref="#place_29e9418659d3096351f3040a0f97310e">Villafranka</placeName> ihm den
+                    und gekämpft. Zu <rs type="place" subtype="place" ref="#place_d0bd9c240e6ab7a295fc49d89da2d0d7">Solferino</rs> hat man diesem Recht sein Grab
+                    gegraben und in <rs type="place" subtype="place" key="villafranca" ref="#place_29e9418659d3096351f3040a0f97310e">Villafranka</rs> ihm den
                     Leichenstein gesetzt. Ich fürchte, der Weg zurück in das gelobte Land der
                     Ordnung und des Friedens wird durch das rothe Meer und durch lange Bußfahrt in
                     der Wüste führen; ich hoffe aber auch, daß nach den schwersten und bittersten
-                    Erfahrungen es <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</country> vor allem sein
+                    Erfahrungen es <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</rs> vor allem sein
                     wird, das groß und kräftig sich erhebt. Gott geht wie mit den einzelnen Menschen
                     so mit Völkern und Staaten seine eigenen Wege – per aspera ad astra. Geht ja dem
                     leuchtenden Ostermorgen und seinem freudigen Halleluja auch die Trauer der
@@ -93,7 +92,7 @@
                             Ein Lebensbild von seinem Nachfolger, Breslau 1859.</ref>
                     </note> über
                     meinen Vorgänger im schweren Amte sich auch den Beifall Hochdero verehrten
-                        <persName key="thun-hohenstein-caroline">Gemahlin</persName> errungen, hat
+                        <rs type="person" ref="thun-hohenstein-caroline" key="thun-hohenstein-caroline">Gemahlin</rs> errungen, hat
                     mich innig gefreut. Ich bitte Ihrer Excellenz meine Verehrung zu bezeugen.
                     Habent sua fata libelli – von diesem kleinen Schriftchen, das noch dazu im
                     Drange der Umstände sehr flüchtig gefertigt werden mußte, habe ich mir die Gunst

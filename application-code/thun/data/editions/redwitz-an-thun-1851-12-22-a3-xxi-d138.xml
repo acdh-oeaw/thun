@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="redwitz-oskar" role="sender:gelehrter">Oskar
-                        Redwitz</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="redwitz-oskar" key="redwitz-oskar" role="sender:gelehrter">Oskar
+                        Redwitz</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1851-12-22">22. Dezember 1851</date>
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1851-12-22">22. Dezember 1851</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -40,7 +39,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -59,18 +58,18 @@
                     vorzutragen, auf die ich im Eifer der Rede, als ich die Ehre hatte von Euerer
                     Excellenz huldvollst [empfangen] zu werden, vergessen hatte, und die ich nun
                     Euerer Excellenz auf diesem Wege, um nicht nochmals stören zu müssen,
-                    ehrfurchtsvollst mitzutheilen mir erlaube. Als Höchst <persName key="thun-hohenstein-friedrich">Ihr Herr Bruder</persName> in
-                        <placeName ref="#place_4312d5c8cdda027420c474e2221abc34">Frankfurt</placeName> mir die Berufung gütigst mittheilte, in
+                    ehrfurchtsvollst mitzutheilen mir erlaube. Als Höchst <rs type="person" ref="thun-hohenstein-friedrich" key="thun-hohenstein-friedrich">Ihr Herr Bruder</rs> in
+                        <rs type="place" subtype="place" ref="#place_4312d5c8cdda027420c474e2221abc34">Frankfurt</rs> mir die Berufung gütigst mittheilte, in
                     welcher tausend Gulden Conventionsmünze als Besoldung ausgesprochen waren, da
                     erklärte ich mich damals für den Anfang mit einverstanden, als ich die
-                    Verhältnisse <placeName ref="#place_23a3951726f7dafaf2c5fa4dc957ddae">Wiens</placeName> nach denen in <country key="bayern" ref="#place_5afc76bc69955ce317651a3dc1dbb0d6">Bayern</country> beurtheilte, und theilte diese Erklärung Höchst <persName key="thun-hohenstein-friedrich">Ihrem Herrn Bruder</persName> auch
-                    schriftlich mit, wogegen jedoch <persName key="thun-hohenstein-friedrich">Herr
-                        Graf</persName> mir zu erwiedern die Liebe hatte: „Ich möge mir doch vorher
-                    bezüglich der Besoldung das Leben in <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</placeName>
+                    Verhältnisse <rs type="place" subtype="place" ref="#place_23a3951726f7dafaf2c5fa4dc957ddae">Wiens</rs> nach denen in <rs type="place" subtype="country" key="bayern" ref="#place_5afc76bc69955ce317651a3dc1dbb0d6">Bayern</rs> beurtheilte, und theilte diese Erklärung Höchst <rs type="person" ref="thun-hohenstein-friedrich" key="thun-hohenstein-friedrich">Ihrem Herrn Bruder</rs> auch
+                    schriftlich mit, wogegen jedoch <rs type="person" ref="thun-hohenstein-friedrich" key="thun-hohenstein-friedrich">Herr
+                        Graf</rs> mir zu erwiedern die Liebe hatte: „Ich möge mir doch vorher
+                    bezüglich der Besoldung das Leben in <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>
                     etwas ansehen.“ In der kurzen Zeit meines hiesigen Aufenthalts bin ich nun aber
-                    zu der Überzeugung gekommen, daß das Leben in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> gerade
-                    noch einmal soviel pecuniäre Mittel erfordert als in <region key="bayern" ref="#place_5afc76bc69955ce317651a3dc1dbb0d6">Baiern</region>, und sonach ohne Zweifel die mir ausgesprochene Besoldung
-                    kaum die Hälfte ist von dem, wie ich sie in <placeName ref="#place_4312d5c8cdda027420c474e2221abc34">Frankfurt</placeName> mir
+                    zu der Überzeugung gekommen, daß das Leben in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> gerade
+                    noch einmal soviel pecuniäre Mittel erfordert als in <rs type="place" subtype="region" key="bayern" ref="#place_5afc76bc69955ce317651a3dc1dbb0d6">Baiern</rs>, und sonach ohne Zweifel die mir ausgesprochene Besoldung
+                    kaum die Hälfte ist von dem, wie ich sie in <rs type="place" subtype="place" ref="#place_4312d5c8cdda027420c474e2221abc34">Frankfurt</rs> mir
                     berechnet hatte. Euere Excellenz werden mich daher gewiß nicht der Übertreibung
                     zeihen, wenn ich die Gewißheit auszusprechen mir ehrerbietigst erlaube, daß auch
                     bei Verdoppelung des mir anfangs ausgesprochenen Gehaltes noch immer bedeutende
@@ -85,7 +84,7 @@
                     Euere Excellenz nur aus ganzem vertrauensvollem Herzen bitten, mir diese sehr
                     unpoetischen Erklärungen verzeihen und den Dichter mit dem angehenden
                     Familienvater liebreich entschuldigen zu wollen.<lb/>Ich war so glücklich, von
-                    Höchst <persName key="thun-hohenstein-friedrich">Ihrem Herrn Bruder</persName>
+                    Höchst <rs type="person" ref="thun-hohenstein-friedrich" key="thun-hohenstein-friedrich">Ihrem Herrn Bruder</rs>
                     mit so hochwollender Liebe beschenkt zu werden und habe der freudigsten Hoffnung
                     durch treues und gewissenhaftes Wirken, dem der liebe Gott seinen reichsten
                     Segen geben möge, auch Euerer Excellenz liebreiche Huld erwerben zu

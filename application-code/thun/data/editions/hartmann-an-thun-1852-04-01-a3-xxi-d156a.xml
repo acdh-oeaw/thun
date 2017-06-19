@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="hartmann-franz" role="sender:beamter">Franz
-                        Hartmann</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="hartmann-franz" key="hartmann-franz" role="sender:beamter">Franz
+                        Hartmann</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_443befbacdaa99c161dd11495b82b99b">Linz</placeName>, <date when="1852-04-01">1. April 1852</date>
+                    <rs type="place" subtype="place" ref="#place_443befbacdaa99c161dd11495b82b99b">Linz</rs>, <date when="1852-04-01">1. April 1852</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -48,7 +47,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -59,16 +58,16 @@
                     <term>Geschichtswissenschaften</term>
                 </index>
                 <p>Eure Excellenz!<lb/>Hochgeborner Herr Graf!</p>
-                <p>Ich erhielt heute abends, nach Abgang der Post, das <ref target="#D156a_1">anliegende Schreiben des Studiendirectors <persName key="mutzl-sebastian">Sebastian Mutzl</persName>
+                <p>Ich erhielt heute abends, nach Abgang der Post, das <ref target="#D156a_1">anliegende Schreiben des Studiendirectors <rs type="person" ref="mutzl-sebastian" key="mutzl-sebastian">Sebastian Mutzl</rs>
                     </ref> nebst dessen <ref target="#D156a_2">Curriculum vitae und Verzeichnis seiner Werke</ref>; daher ich mich beeile,
                     diese Schriften Eurer Excellenz ehrfurchtsvoll zu übersenden.<lb/>Recht innig
                     bedaure ich, daß sich nach den in dem beiliegenden Briefe dargestellten
-                    Umständen die Enthebung <persName key="mutzl-sebastian">Mutzls</persName> aus
+                    Umständen die Enthebung <rs type="person" ref="mutzl-sebastian" key="mutzl-sebastian">Mutzls</rs> aus
                     dem bayerschen [sic!] Staatsdienste so weit in das zweite Semester hinausziehen
-                    würde. Daß <country ref="#place_51150b7b6309d23b7d292c0be9fd3f21">Bayern</country> ihm ein so vortheilhaftes Anerbiethen
+                    würde. Daß <rs type="place" subtype="country" ref="#place_51150b7b6309d23b7d292c0be9fd3f21">Bayern</rs> ihm ein so vortheilhaftes Anerbiethen
                     machen würde, wie jenes Eurer Excellenz ist, glaube ich, wie die Dinge jetzt
-                    dort stehen, nicht, so sehr auch der bayersche Herr Cultusminister <persName key="ringelmann-friedrich">Ringelmann</persName> ihm wohl will.<lb/>Wenn
-                    Eure Excellenz von den Schriften <persName key="mutzl-sebastian">Mutzls</persName> Einsicht zu nehmen wünschen oder was immer sonst durch
+                    dort stehen, nicht, so sehr auch der bayersche Herr Cultusminister <rs type="person" ref="ringelmann-friedrich" key="ringelmann-friedrich">Ringelmann</rs> ihm wohl will.<lb/>Wenn
+                    Eure Excellenz von den Schriften <rs type="person" ref="mutzl-sebastian" key="mutzl-sebastian">Mutzls</rs> Einsicht zu nehmen wünschen oder was immer sonst durch
                     mich besorgen zu lassen für gut fänden, bitte ich gehorsamst mir Ihre Befehle
                     zukommen zu lassen, die mich so glücklich machen.<lb/>Mit dem wiederholten
                     Ausdrucke der tiefsten Verehrung und Anhänglichkeit verharre ich</p>
@@ -80,12 +79,12 @@
                     <p>Theurer Freund!</p>
                     <p>Deinen höchst überraschenden Brief vom 22. dieses Monats erhielt ich gestern
                         und will nach reiflicher Erwägung die Hauptfrage vor allem
-                        beantworten.<lb/>Der Antrag jener Lehrstelle in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>
-                        sowie das Vertrauen des Titl. Herrn Cultusministers <persName key="thun-hohenstein-leo">Grafen von Thun</persName> ist für mich im
+                        beantworten.<lb/>Der Antrag jener Lehrstelle in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>
+                        sowie das Vertrauen des Titl. Herrn Cultusministers <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Grafen von Thun</rs> ist für mich im
                         höchsten Grade ehrend, und die Bedingungen nebst den damit verbundenen
                         Verpflichtungen gehe ich ein. Nur muß ich hinsichtlich der Bedingungen
                         bemerken, daß ich voraussetze, die mir zugestandene Pensionsfähigkeit
-                        erstrecke sich auch nach dem in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> gesetzlichen Maßstabe auf meine <hi rend="ul">Frau</hi>. Weiters muß ich mir noch die Bemerkung erlauben, daß mir die
+                        erstrecke sich auch nach dem in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> gesetzlichen Maßstabe auf meine <hi rend="ul">Frau</hi>. Weiters muß ich mir noch die Bemerkung erlauben, daß mir die
                         Pietät gegen ein Land, das mir meine Jugendbildung und nun seit beinahe 28
                         Jahren meinen Unterhalt gegeben hat, verbieten würde, es mit einem andern zu
                         vertauschen, <hi rend="ul">falls</hi> die königlich bayerische
@@ -94,9 +93,9 @@
                         besonders da ich erst im verflossenen Jahre durch das Ritterkreuz des
                         Verdienstordens vom Heiligen Michael öffentliche Auszeichnung erfuhr. Ein
                         letzter Punkt endlich, der mir am Herzen liegt, ist folgender. Mein ältester
-                        Sohn <persName key="mutzl-eduard">
+                        Sohn <rs type="person" ref="mutzl-eduard" key="mutzl-eduard">
                             <hi rend="ul">Eduard</hi>
-                        </persName>,
+                        </rs>,
                         welcher immer unter den Ersten studirt und das Gymnasium mit der
                         Absolutorialnote „ausgezeichnet“ absolvirt hatte, hat im Oktober vorigen
                         Jahres nach zurückgelegten Lyceal- und Universitätsstudien den Staatsconcurs
@@ -104,28 +103,28 @@
                         Concursnote, nach deren Vorlegung ihm eine Anstellung als Assistent dahier
                         versprochen ist. Meine Auswanderung könnte der Zukunft desselben leicht ein
                         großes Hemmnis bereiten. Sollte es nicht möglich seyn, daß er auf den Grund
-                        des in <country key="bayern" ref="#place_5afc76bc69955ce317651a3dc1dbb0d6">Bayern</country> bestandenen Staatsconcurses in
-                            <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> eine Anstellung im
+                        des in <rs type="place" subtype="country" key="bayern" ref="#place_5afc76bc69955ce317651a3dc1dbb0d6">Bayern</rs> bestandenen Staatsconcurses in
+                            <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> eine Anstellung im
                         Lehramte fände? Ich würde hierin große Beruhigung finden und einen Akt
                         besonderer Gnade und Huld erblicken.<lb/>Dieses, theurer Freund, sind meine
                         Bedenklichkeiten. Ich bitte Dich nun, die Sache dem Titl. Herrn
-                        Cultusminister <persName key="thun-hohenstein-leo">Grafen von
-                            Thun</persName> nebst dem Ausdrucke meiner unterthänigsten Ehrfurcht
+                        Cultusminister <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Grafen von
+                            Thun</rs> nebst dem Ausdrucke meiner unterthänigsten Ehrfurcht
                         vorzutragen.<lb/>Daß ich am philologischen Seminar mitzuwirken hätte, freut
                         mich besonders. Das Geschäft, an der so hochnothwendigen Heranbildung junger
                         Lehrer zu arbeiten, ist eines der schönsten, die ich kenne.<lb/>Mein
                         Dienstantritt könnte, da ich Vorstand der hiesigen Anstalt bin, und ich
                         daher den Zeitpunkt abwarten müßte, wo ich meinem Nachfolger alles zu
                         extradiren hätte, wohl kaum eher als Mitte oder Ende <hi rend="ul">Junius</hi> erfolgen. Dabei muß ich noch bemerken, daß ich hoffe, es
-                        werde auch in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country>, wie es nach
+                        werde auch in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>, wie es nach
                         bayerischen Gesetzen der Fall ist, die <hi rend="ul">Besoldung</hi> eines
                         Staatsdieners vom Tage seiner <hi rend="ul">Anstellung</hi> an (a die
                         decreti) <hi rend="ul">fließen</hi>. Da ich nämlich vom Tage meines
                         Abtretens vom Dienste hier nichts mehr bezöge, so könnte ich bedeutend zu
-                        Schaden kommen, wenn ich in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> meinen Gehalt erst
+                        Schaden kommen, wenn ich in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> meinen Gehalt erst
                         vom Tage meines Dienstantrittes an erhielte. Als Vater einer Familie muß ich
                         in pekuniärer Hinsicht umso genauer seyn, als die Wohnung in
-                            <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> für unser 7–8 Personen die systemmäßige
+                            <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> für unser 7–8 Personen die systemmäßige
                         Quartiersumme von 150 fl CM auch bei großer Beschränkung ziemlich weit
                         übersteigen wird, und daher auch der ausgesprochene Jahresgehalt von 2.400
                         fl dadurch eine Verminderung erleidet; hier habe ich freie Wohnung und 6
@@ -147,88 +146,88 @@
                         <hi rend="ul">Curriculum vitae</hi>
                     </p>
                     <p>
-                        <persName key="mutzl-sebastian">Sebastian Mutzl</persName>, Sohn eines
-                        Schullehrers, ist geboren zu <placeName ref="#place_c4642ee7864fbacb66428f29230ac901">
+                        <rs type="person" ref="mutzl-sebastian" key="mutzl-sebastian">Sebastian Mutzl</rs>, Sohn eines
+                        Schullehrers, ist geboren zu <rs type="place" subtype="place" ref="#place_c4642ee7864fbacb66428f29230ac901">
                             <hi rend="ul">Lofer</hi>
-                        </placeName>
+                        </rs>
                         im Salzburgischen, am 25. September 1797. Da sein Vater im Jahre 1801 nach
-                                <placeName ref="#place_67da6314413129bb9af4299bc0a96296">
+                                <rs type="place" subtype="place" ref="#place_67da6314413129bb9af4299bc0a96296">
                             <hi rend="ul">Radstadt</hi>
-                        </placeName> (an der Enns) im
-                            <region ref="#place_6b3d1e0157967d3de7e3374d34e7835c">Pongau</region> versetzt wurde, so erhielt der Sohn hier seine
+                        </rs> (an der Enns) im
+                            <rs type="place" subtype="region" ref="#place_6b3d1e0157967d3de7e3374d34e7835c">Pongau</rs> versetzt wurde, so erhielt der Sohn hier seine
                         Jugendbildung und kam, von jenem bereits in der lateinischen Grammatik
-                        unterwiesen, im November des Jahres 1810 nach <region ref="#place_ea6515eca27ae68c06c82e8cc2a6d318">Salzburg</region>,
-                        welches eben damals an <country ref="#place_51150b7b6309d23b7d292c0be9fd3f21">Bayern</country> gekommen war. Hier
+                        unterwiesen, im November des Jahres 1810 nach <rs type="place" subtype="region" ref="#place_ea6515eca27ae68c06c82e8cc2a6d318">Salzburg</rs>,
+                        welches eben damals an <rs type="place" subtype="country" ref="#place_51150b7b6309d23b7d292c0be9fd3f21">Bayern</rs> gekommen war. Hier
                         vollendete er im Jahr 1816 die Gymnasialstudien, verweilte noch ein Jahr an
-                        dem k.k. Lyceum und begab sich 1817 an das k. Lyceum zu <placeName key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</placeName>, weil sein Vater eben in dem Jahre
-                        1816, in welchem <region ref="#place_ea6515eca27ae68c06c82e8cc2a6d318">Salzburg</region> wieder an <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> abgetreten ward, nach
-                                <placeName ref="#place_6ffee4ede13d99b209989b84f0111c66">
+                        dem k.k. Lyceum und begab sich 1817 an das k. Lyceum zu <rs type="place" subtype="place" key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs>, weil sein Vater eben in dem Jahre
+                        1816, in welchem <rs type="place" subtype="region" ref="#place_ea6515eca27ae68c06c82e8cc2a6d318">Salzburg</rs> wieder an <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> abgetreten ward, nach
+                                <rs type="place" subtype="place" ref="#place_6ffee4ede13d99b209989b84f0111c66">
                             <hi rend="ul">Teisendorf</hi>
-                        </placeName> versetzt und
+                        </rs> versetzt und
                         durch jene Landesänderung bayerischer Unterthan geblieben war. Nach
-                        Vollendung des zweiten Lycealkurses begann <persName key="mutzl-sebastian">Mutzl</persName>, von dem damaligen Lycealprofessor der
-                        Naturgeschichte, Akademiker <persName key="oppel-nikolaus-michael">
+                        Vollendung des zweiten Lycealkurses begann <rs type="person" ref="mutzl-sebastian" key="mutzl-sebastian">Mutzl</rs>, von dem damaligen Lycealprofessor der
+                        Naturgeschichte, Akademiker <rs type="person" ref="oppel-nikolaus-michael" key="oppel-nikolaus-michael">
                             <hi rend="ul">Oppel</hi>
-                        </persName>, zum Studium dieser Wissenschaft
+                        </rs>, zum Studium dieser Wissenschaft
                         aufgemuntert, unter der Leitung dieses wahrhaft väterlich gesinnten Freundes
                         das Studium der Naturwissenschaften an der <orgName key="universitaet-landshut">Universität zu Landshut</orgName> und hörte
                         drei Jahre hindurch die ihm zu diesem Zwecke als nothwendig bezeichneten
-                        Vorlesungen, als ihn plötzlich die Kunde von <persName key="oppel-nikolaus-michael">
+                        Vorlesungen, als ihn plötzlich die Kunde von <rs type="person" ref="oppel-nikolaus-michael" key="oppel-nikolaus-michael">
                             <hi rend="ul">Oppels</hi>
-                        </persName> Tode
+                        </rs> Tode
                         überraschte. Seines einzigen Leiters auf der bisherigen Bahn beraubt,
-                        verließ er im März 1822 die <orgName key="universitaet-landshut">Universität</orgName> und ging nach <placeName key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</placeName>, um sich dem Lehrfache zu widmen. In <placeName key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</placeName> erhielt er eine Hofmeisterstelle bei
-                        dem damaligen großherzoglich badenschen Gesandten, <persName key="fahnenberg-friedrich">Baron <hi rend="ul">von
+                        verließ er im März 1822 die <orgName key="universitaet-landshut">Universität</orgName> und ging nach <rs type="place" subtype="place" key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs>, um sich dem Lehrfache zu widmen. In <rs type="place" subtype="place" key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs> erhielt er eine Hofmeisterstelle bei
+                        dem damaligen großherzoglich badenschen Gesandten, <rs type="person" ref="fahnenberg-friedrich" key="fahnenberg-friedrich">Baron <hi rend="ul">von
                             Fahnenberg</hi>
-                        </persName>, bestand im Sommer 1823 den Staatsconcurs für
+                        </rs>, bestand im Sommer 1823 den Staatsconcurs für
                         das „höhere (auch Gymnasial- und Lyceal) Lehramt“ und wurde unterm 20.
-                        Oktober 1824 als Lehrer der I. Vorbereitungsklasse zu <placeName ref="#place_4f97f58e48582166a1ed65d1b0515548">
+                        Oktober 1824 als Lehrer der I. Vorbereitungsklasse zu <rs type="place" subtype="place" ref="#place_4f97f58e48582166a1ed65d1b0515548">
                             <hi rend="ul">Landshut</hi>
-                        </placeName> angestellt. Nachdem er im Jahre
+                        </rs> angestellt. Nachdem er im Jahre
                         1828 in die II. Klasse, 1830 in die IV. vorgerückt war und von 1830 bis 1834
                         als Subrector die gesammte Lateinschule geleitet hatte, ward er 1834 in das
                         Gymnasium befördert, wo er bis 1835 die I., von 1835 bis 1845 die II.
                         Gymnasialklasse inne hatte. Am 18. März 1845 wurde er als Professor der III.
                         und IV. Gymnasialklasse und als Rector des Gymnasiums und der Lateinschule
-                        nach <placeName key="eichstaett" ref="#place_5cf6a77064d5d368e7bd500399dacfd2">
+                        nach <rs type="place" subtype="place" key="eichstaett" ref="#place_5cf6a77064d5d368e7bd500399dacfd2">
                             <hi rend="ul">Eichstätt</hi>
-                        </placeName>
+                        </rs>
                         versetzt; ein ungemein anstrengender Posten, der ihm aber nach einem halben
                         Jahre dadurch erleichtert wurde, daß die III. Gymnasialklasse einen eigenen
                         Professor erhielt. Seitdem ist er Vorstand der Anstalt und Professor der IV.
                         Gymnasialklasse. Außer den Lehrgegenständen seiner Klasse hat er vom Jahre
-                        1826 an in <placeName ref="#place_9ae0133b9256a87352801c2a37fdd149">Landshut</placeName> und später hier in <placeName key="eichstaett" ref="#place_5cf6a77064d5d368e7bd500399dacfd2">Eichstätt</placeName> den öffentlichen Unterricht in
+                        1826 an in <rs type="place" subtype="place" ref="#place_9ae0133b9256a87352801c2a37fdd149">Landshut</rs> und später hier in <rs type="place" subtype="place" key="eichstaett" ref="#place_5cf6a77064d5d368e7bd500399dacfd2">Eichstätt</rs> den öffentlichen Unterricht in
                         der französischen und italienischen Sprache ertheilt.<lb/>Zu Anfang des
-                        Jahres 1851 erhielt er von <persName key="maximilian-II-von-bayern">Seiner
-                            Majestät dem Könige</persName> das Ritterkreuz des Verdienstordens vom
+                        Jahres 1851 erhielt er von <rs type="person" ref="maximilian-II-von-bayern" key="maximilian-II-von-bayern">Seiner
+                            Majestät dem Könige</rs> das Ritterkreuz des Verdienstordens vom
                         Heiligen Michael. Im November desselben Jahres erwählte ihn die k. Akademie
                         der Wissenschaften zum korrespondirenden Mitgliede der historischen Klasse.
-                        Die k.k. Akademien Ateneo zu <placeName ref="#place_9fa41ec12d99720833b10d3a9ab6a5cb">Treviso</placeName> und <orgName key="accademia-roveretana-degli-agiati">degli Agiati</orgName> zu
-                            <placeName ref="#place_b725cc6ca49236ce040301dcd7b7d36c">Rovereto</placeName> hatten ihn schon im Jahre 1842 mit der
-                        Zusendung ihrer Diplome beehrt.<lb/>Im Jahre 1827 hat er sich mit <persName key="zehentner-rosina">
+                        Die k.k. Akademien Ateneo zu <rs type="place" subtype="place" ref="#place_9fa41ec12d99720833b10d3a9ab6a5cb">Treviso</rs> und <orgName key="accademia-roveretana-degli-agiati">degli Agiati</orgName> zu
+                            <rs type="place" subtype="place" ref="#place_b725cc6ca49236ce040301dcd7b7d36c">Rovereto</rs> hatten ihn schon im Jahre 1842 mit der
+                        Zusendung ihrer Diplome beehrt.<lb/>Im Jahre 1827 hat er sich mit <rs type="person" ref="zehentner-rosina" key="zehentner-rosina">
                             <hi rend="ul">Rosina Zehentner</hi>
-                        </persName>,
-                        Müllerstochter von <placeName ref="#place_1e5cf21588369d0be291520ee93a38b3">Teisendorf</placeName>, vermählt. Die fünf
+                        </rs>,
+                        Müllerstochter von <rs type="place" subtype="place" ref="#place_1e5cf21588369d0be291520ee93a38b3">Teisendorf</rs>, vermählt. Die fünf
                         noch lebenden Kinder (das erste starb, 8 Tage alt) sind:<lb/>
-                        <persName key="mutzl-eduard">
+                        <rs type="person" ref="mutzl-eduard" key="mutzl-eduard">
                             <hi rend="ul">Eduard</hi>
-                        </persName>, geprüfter
+                        </rs>, geprüfter
                         Lehramtscandidat, 22 Jahre 4 Monate alt;<lb/>
-                        <persName key="mutzl-sebastian-jun">
+                        <rs type="person" ref="mutzl-sebastian-jun" key="mutzl-sebastian-jun">
                             <hi rend="ul">Sebastian</hi>
-                        </persName>,
+                        </rs>,
                         Lycealcandidat im II. Cursus, 20 Jahre 11 Monate alt;<lb/>
-                        <persName key="mutzl-heinrich">
+                        <rs type="person" ref="mutzl-heinrich" key="mutzl-heinrich">
                             <hi rend="ul">Heinrich</hi>
-                        </persName>, Gymnasiast
+                        </rs>, Gymnasiast
                         der Oberklasse; 18 Jahre 2 Monate alt;<lb/>
-                        <persName key="mutzl-rosina">
+                        <rs type="person" ref="mutzl-rosina" key="mutzl-rosina">
                             <hi rend="ul">Rosina</hi>
-                        </persName>, 16 Jahre 11 Monate
+                        </rs>, 16 Jahre 11 Monate
                             alt;<lb/>
-                        <persName key="mutzl-anna">
+                        <rs type="person" ref="mutzl-anna" key="mutzl-anna">
                             <hi rend="ul">Anna</hi>
-                        </persName>,
+                        </rs>,
                         15 Jahre alt.</p>
                     <p/>
                     <p>

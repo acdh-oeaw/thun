@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="diepenbrock-melchior" role="sender:kleriker">Melchior
-                        Diepenbrock</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="diepenbrock-melchior" key="diepenbrock-melchior" role="sender:kleriker">Melchior
+                        Diepenbrock</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</placeName>,
+                    <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs>,
                         <date when="1850-05-28">28. Mai 1850</date>
                 </title>
             </titleStmt>
@@ -60,7 +59,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -78,34 +77,34 @@
                     <note xml:id="note_2">Siehe die Beilage.</note> einiger tüchtiger Männer für das
                     Lehrfach zu übersenden, welches ich nach möglichst sorgfältiger Erkundigung
                     zusammengestellt habe. Ich habe die Vorsicht gebraucht, auch noch das competente
-                    Urtheil des Geheimenraths <persName key="brueggemann-theodor">Dr.
-                        Brüggemann</persName>, der seit einer Reihe von Jahren das höhere
-                    katholische Studienwesen in <country ref="#place_774f9d94ed4c4251aa38a88f2fbcd542">Preussen</country> leitet, über diese
+                    Urtheil des Geheimenraths <rs type="person" ref="brueggemann-theodor" key="brueggemann-theodor">Dr.
+                        Brüggemann</rs>, der seit einer Reihe von Jahren das höhere
+                    katholische Studienwesen in <rs type="place" subtype="country" ref="#place_774f9d94ed4c4251aa38a88f2fbcd542">Preussen</rs> leitet, über diese
                     Männer zu vernehmen und die anderweitigen Vorschläge und Empfehlungen darnach zu
                     berichtigen; doch stimmte es bei den meisten mit dem Gegebenen überein. Bei
                     allen diesen Männern ist vorzüglich auch auf ihre kirchliche Gesinnung und
                     Haltung, nicht minder jedoch auch auf ihre sonstige Tüchtigkeit Rücksicht
                     genommen.<lb/>Unter den von Eurer Excellenz Bezeichneten konnte ich über
-                        <persName key="becker-jakob">Becker</persName> in
-                        <placeName ref="#place_1729f2972f796c56cb9cc0ecd3c59e91">Hadamar</placeName>, <persName key="thomat">Thomat</persName> in
-                        <placeName key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</placeName>, <persName key="lichtenstein-karl">Lichtenstein</persName> in
-                        <placeName ref="#place_6462f2be0dddae6642a4fa1ac281c647">Trauchburg</placeName> nichts Näheres erfahren; Dr. Dünzer
-                        [<persName key="duentzer-johann-heinrich">Düntzer</persName>], Bibliothekar
-                    in <placeName key="koeln" ref="#place_f05bb634bb7db5dab69c443430ae9927">Cöln</placeName>, ist wohl als ein sehr
+                        <rs type="person" ref="becker-jakob" key="becker-jakob">Becker</rs> in
+                        <rs type="place" subtype="place" ref="#place_1729f2972f796c56cb9cc0ecd3c59e91">Hadamar</rs>, <rs type="person" ref="thomat" key="thomat">Thomat</rs> in
+                        <rs type="place" subtype="place" key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs>, <rs type="person" ref="lichtenstein-karl" key="lichtenstein-karl">Lichtenstein</rs> in
+                        <rs type="place" subtype="place" ref="#place_6462f2be0dddae6642a4fa1ac281c647">Trauchburg</rs> nichts Näheres erfahren; Dr. Dünzer
+                        [<rs type="person" ref="duentzer-johann-heinrich" key="duentzer-johann-heinrich">Düntzer</rs>], Bibliothekar
+                    in <rs type="place" subtype="place" key="koeln" ref="#place_f05bb634bb7db5dab69c443430ae9927">Cöln</rs>, ist wohl als ein sehr
                     kenntnisreicher Philologe bekannt, allein zur Leitung eines Mustergymnasiums
                     hält man ihn wegen seiner unbedeutenden Persönlichkeit und großen Schüchternheit
                     nicht für geeignet.<note xml:id="note_3">Randbemerkung Thuns nicht
-                        lesbar.</note>Auch nicht den Director <persName key="enger-robert">Enger</persName> in <placeName ref="#place_dd9a9d2afccb4eea1d3d2d56951a7f69">Ostrowo</placeName>, den seine Kenntnis des
-                    Polnischen für diesen Posten vorzüglich empfohlen hat. <persName key="wentzel-eduard">Wentzel</persName> in <placeName ref="#place_7a2756414c347584268b1e26fcb6a94a">Glogau</placeName> ist
+                        lesbar.</note>Auch nicht den Director <rs type="person" ref="enger-robert" key="enger-robert">Enger</rs> in <rs type="place" subtype="place" ref="#place_dd9a9d2afccb4eea1d3d2d56951a7f69">Ostrowo</rs>, den seine Kenntnis des
+                    Polnischen für diesen Posten vorzüglich empfohlen hat. <rs type="person" ref="wentzel-eduard" key="wentzel-eduard">Wentzel</rs> in <rs type="place" subtype="place" ref="#place_7a2756414c347584268b1e26fcb6a94a">Glogau</rs> ist
                     allerdings ein tüchtiger Mann; allein er ist uns für die wichtige dortige
-                    Anstalt unentbehrlich; und auch an dem wackern <persName key="zastra-julius">Dr.
-                        Zastra</persName> in <placeName key="neisse" ref="#place_c9bfa1cea49dab52be2b1735db4d6b6f">Neiße</placeName> würde ich ein
-                    schweres Opfer bringen. <persName key="schraut-johannes">Schraut</persName> in
-                        <placeName key="neuss" ref="#place_97379f64084ef6aea118318c91e32df5">Neuß</placeName> bei <placeName key="koeln" ref="#place_f05bb634bb7db5dab69c443430ae9927">Cöln</placeName> wird als ein gelehrter und energischer Mann gerühmt; doch
+                    Anstalt unentbehrlich; und auch an dem wackern <rs type="person" ref="zastra-julius" key="zastra-julius">Dr.
+                        Zastra</rs> in <rs type="place" subtype="place" key="neisse" ref="#place_c9bfa1cea49dab52be2b1735db4d6b6f">Neiße</rs> würde ich ein
+                    schweres Opfer bringen. <rs type="person" ref="schraut-johannes" key="schraut-johannes">Schraut</rs> in
+                        <rs type="place" subtype="place" key="neuss" ref="#place_97379f64084ef6aea118318c91e32df5">Neuß</rs> bei <rs type="place" subtype="place" key="koeln" ref="#place_f05bb634bb7db5dab69c443430ae9927">Cöln</rs> wird als ein gelehrter und energischer Mann gerühmt; doch
                     will man an ihm ein zu ehrgeiziges, zu wenig religiöses Streben wahrgenommen
                     haben; wenigstens in früherer Zeit.<lb/>Unter allen von mir Genannten bezeichnet
-                    Herr Geheimrath <persName key="brueggemann-theodor">Brüggemann</persName> den
-                        <persName key="stieve-friedrich">Dr. Stieve</persName> in <placeName key="muenster" ref="#place_610dc3a15bda751de4d4c52373b2620f">Münster</placeName> als den bedeutendsten und zur Leitung des
+                    Herr Geheimrath <rs type="person" ref="brueggemann-theodor" key="brueggemann-theodor">Brüggemann</rs> den
+                        <rs type="person" ref="stieve-friedrich" key="stieve-friedrich">Dr. Stieve</rs> in <rs type="place" subtype="place" key="muenster" ref="#place_610dc3a15bda751de4d4c52373b2620f">Münster</rs> als den bedeutendsten und zur Leitung des
                         <orgName key="theresianische-ritterakademie">Theresianums</orgName>sowohl
                     als eines Mustergymnasiums vorzüglich geeigneten, den er mit voller Überzeugung
                     empfehlen könne.<lb/>
@@ -117,7 +116,7 @@
                     wollen, und setzt hinzu: er hoffe, nein; denn er wisse ihn nicht zu
                     ersetzen.<lb/>Ich habe nun Eurer Excellenz gewissenhaft mitgetheilt, was mir in
                     der kurzen, anderweitig sehr in Anspruch genommenen Zeit zu erkundigen möglich
-                    gewesen. Möge es Ihnen und dem lieben theuern <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country>, auf welches die Blicke aller Katholiken <country key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</country> jetzt mit so viel Dank, Spannung
+                    gewesen. Möge es Ihnen und dem lieben theuern <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>, auf welches die Blicke aller Katholiken <rs type="place" subtype="country" key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</rs> jetzt mit so viel Dank, Spannung
                     und Theilnahme gerichtet sind, und welchem man so innig eine gründliche religiös
                     wissenschaftliche Regeneration wünscht und Eurer Excellenz mühe- und
                     dornenvolles Wirken dafür so freudig anerkennt – möge mein geringes Scherflein
@@ -127,17 +126,17 @@
                 <p>Eurer Excellenz</p>
                 <p>ganz ergebenster Diener<lb/>M. v. Diepenbrock<lb/>Fürstbischof</p>
                 <p>Breslau, den 28. Mai 1850</p>
-                <p>P.S. Möge doch unser geliebter junger <persName key="franz-joseph">Kaiser</persName> vor ähnlichen greulichen Frevelanschlägen bewahrt
+                <p>P.S. Möge doch unser geliebter junger <rs type="person" ref="franz-joseph" key="franz-joseph">Kaiser</rs> vor ähnlichen greulichen Frevelanschlägen bewahrt
                     bleiben, wie sie unsern edelen König jetzt abermals getroffen und Gottlob! nur
-                    gestreift! Der Seuflohe [sic! richtig <persName key="sefeloge-max">Sefeloge</persName>] soll wirklich der Fürstenmörderverschwörung angehören;
+                    gestreift! Der Seuflohe [sic! richtig <rs type="person" ref="sefeloge-max" key="sefeloge-max">Sefeloge</rs>] soll wirklich der Fürstenmörderverschwörung angehören;
                     wie sehr ihn auch die democratische Partei für einen Wahnsinnigen auszugeben
                     sich bemüht. „Es ist System in diesem Wahnsinn“, kann man mit Shakespeare sagen.
                     Höchste Vorsicht thut gewiß Noth. Um Gottes Schutz wollen wir beten!</p>
                 <div xml:id="D70_1" type="enclosure">
                     <p>A. Für die Direction des Theresianums oder auch eines
-                        Mustergymnasiums:<lb/>1) <persName key="stieve-friedrich">Stieve</persName>,
-                        Gymnasialdirector in <placeName key="muenster" ref="#place_610dc3a15bda751de4d4c52373b2620f">Münster</placeName> in
-                            <region ref="#place_2652fd27a2fa326711df5192229fd847">Westfalen</region>, als ganz vorzüglich geeignet bezeichnet und
+                        Mustergymnasiums:<lb/>1) <rs type="person" ref="stieve-friedrich" key="stieve-friedrich">Stieve</rs>,
+                        Gymnasialdirector in <rs type="place" subtype="place" key="muenster" ref="#place_610dc3a15bda751de4d4c52373b2620f">Münster</rs> in
+                            <rs type="place" subtype="region" ref="#place_2652fd27a2fa326711df5192229fd847">Westfalen</rs>, als ganz vorzüglich geeignet bezeichnet und
                         empfohlen, ein Mann von ausgebreitetem Rufe und anerkannter Tüchtigkeit,
                         zeichnete sich auch in den vorigjährigen Berliner Ministerialconferenzen der
                         Gymnasiallehrer durch gediegenes Urtheil aus, wie die gedruckten
@@ -145,63 +144,63 @@
                         seiner Gelehrsamkeit, pädagogischen Erfahrung und Reife, auch seine
                         Charakterfestigkeit, gesunde Frömmigkeit und ebenso imposante als
                         ansprechende Persönlichkeit. Er ist seit einigen Jahren Wittwer und Vater
-                        von 6 Kindern.<lb/>2) <persName key="dillenburger-wilhelm">Dillenburger</persName>, früher Gymnasialdirector zu
-                            <placeName ref="#place_92378e33c56c139d3d5de1240ab99a4f">Emmerich</placeName>, jetzt Schulrath in <placeName key="koenigsberg" ref="#place_3dd7979c0440a3b55ff7b878051e9863">Königsberg</placeName>, ein gewandter, erfahrener,
+                        von 6 Kindern.<lb/>2) <rs type="person" ref="dillenburger-wilhelm" key="dillenburger-wilhelm">Dillenburger</rs>, früher Gymnasialdirector zu
+                            <rs type="place" subtype="place" ref="#place_92378e33c56c139d3d5de1240ab99a4f">Emmerich</rs>, jetzt Schulrath in <rs type="place" subtype="place" key="koenigsberg" ref="#place_3dd7979c0440a3b55ff7b878051e9863">Königsberg</rs>, ein gewandter, erfahrener,
                         tüchtiger Schul- und Geschäftsmann und aufrichtiger katholischer Christ,
                         bekannt als Herausgeber des Horaz <note xml:id="note_5">Vgl. Wilhelm
                             Dillenburger (Hg.), Q. Horatii Flacci opera omnia, Bonn 1843. </note>;
                         und ebenso durch seine intelligente Theilnahme an den vorigjährigen Berliner
                         Conferenzen; jedoch vielleicht mit weniger Energie ausgestattet als der
-                        vorige.<lb/>3) Gymnasialdirector <persName key="zastra-julius">Dr.
-                            Zastra</persName> in <placeName key="neisse" ref="#place_c9bfa1cea49dab52be2b1735db4d6b6f">Neiße</placeName>, durch
+                        vorige.<lb/>3) Gymnasialdirector <rs type="person" ref="zastra-julius" key="zastra-julius">Dr.
+                            Zastra</rs> in <rs type="place" subtype="place" key="neisse" ref="#place_c9bfa1cea49dab52be2b1735db4d6b6f">Neiße</rs>, durch
                         Wissen und pädagogischen Tact sowie durch gewinnendes Benehmen
                         ausgezeichnet; dabei ein treuer katholischer Christ; für das <orgName key="theresianische-ritterakademie">Theresianum</orgName> vielleicht
-                        noch etwas jung.<lb/>4) Professor <persName key="kutzen-joseph">Dr.
-                            Kutzen</persName> dahier in <placeName ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</placeName>, von dem ein
+                        noch etwas jung.<lb/>4) Professor <rs type="person" ref="kutzen-joseph" key="kutzen-joseph">Dr.
+                            Kutzen</rs> dahier in <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs>, von dem ein
                             <ref target="#D70_2">eigenhändiges Curriculum Vitae beiliegt</ref>; ein
                         auch als Charakter und Christ sehr achtbarer Mann, jedoch der Oberleitung
                         des <orgName key="theresianische-ritterakademie">Theresianums</orgName>
                         vielleicht nicht völlig gewachsen; sonst in aller Weise sehr
                         empfehlenswerth.</p>
-                    <p>B. Für eine Professur der Philologie:<lb/>1) <persName key="ritter-franz">Dr.
-                            Franz Ritter</persName>, Professor extraord. zu <orgName key="universitaet-bonn">Bonn</orgName>, ein tüchtiger Realphilolog,
-                        streng kirchlich gesinnt und deshalb vielleicht in <country key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</country> zurückgesetzt, ein sehr ausgezeichneter,
+                    <p>B. Für eine Professur der Philologie:<lb/>1) <rs type="person" ref="ritter-franz" key="ritter-franz">Dr.
+                            Franz Ritter</rs>, Professor extraord. zu <orgName key="universitaet-bonn">Bonn</orgName>, ein tüchtiger Realphilolog,
+                        streng kirchlich gesinnt und deshalb vielleicht in <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> zurückgesetzt, ein sehr ausgezeichneter,
                         empfehlenswerter Mann.<note xml:id="note_6">Randbemerkung Thuns: rasch,
                             lebendig – geistreich aber etwas leichtfertig. Die letzte Bearbeitung
                             des Tacitus wird gerühmt. Hat sich umgetauft.</note>
-                        <lb/>2) <persName key="koenighoff-johann">Könighoff</persName>, Lehrer am Gymnasium zu
-                            <placeName ref="#place_f45d358fd20dfc9437911de6e44bdc83">Trier</placeName>, Verfasser einiger Schriften über
-                        Terenz.<lb/>3) <persName key="kreuser-johann-peter">Kreuser</persName>,
-                        Lehrer am Gymnasium zu <placeName key="koeln" ref="#place_f05bb634bb7db5dab69c443430ae9927">Cöln</placeName>, Verfasser
+                        <lb/>2) <rs type="person" ref="koenighoff-johann" key="koenighoff-johann">Könighoff</rs>, Lehrer am Gymnasium zu
+                            <rs type="place" subtype="place" ref="#place_f45d358fd20dfc9437911de6e44bdc83">Trier</rs>, Verfasser einiger Schriften über
+                        Terenz.<lb/>3) <rs type="person" ref="kreuser-johann-peter" key="kreuser-johann-peter">Kreuser</rs>,
+                        Lehrer am Gymnasium zu <rs type="place" subtype="place" key="koeln" ref="#place_f05bb634bb7db5dab69c443430ae9927">Cöln</rs>, Verfasser
                         vieler philo[lo]gischen Schriften, auch in der christlichen Kunst,
                         namentlich der Baukunst, sehr bewandert.<note xml:id="note_7">Randbemerkung
                             Thuns: Genie, aber wunderliche Person – komische Figur
                         geworden.</note>
-                        <lb/>4) <persName key="wedewer-hermann">Wedewer</persName>,
-                        Inspector einer höheren Anstalt in <placeName key="frankfurt" ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Francfurt a.
-                            M.</placeName>, Verfasser einer Schrift über Dante, Homer und das
+                        <lb/>4) <rs type="person" ref="wedewer-hermann" key="wedewer-hermann">Wedewer</rs>,
+                        Inspector einer höheren Anstalt in <rs type="place" subtype="place" key="frankfurt" ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Francfurt a.
+                            M.</rs>, Verfasser einer Schrift über Dante, Homer und das
                             Nibelungenlied.<note xml:id="note_8">Vgl. Hermann Wedewer, Homer,
                             Virgil, Tasso oder Das befreite Jerusalem in seinem Verhältniß zur
                             Ilias, Odyssee und Aeneis, Münster 1843.</note>
                         <note xml:id="note_9">Randbemerkung Thuns: Ein Schüler Grauerts, lieber junger Mann, aber
                             ohne wissenschaftliche Bedeutung ist herausgekommen.</note>
                         <lb/>5)
-                            <persName key="lohmar-wilhelm">Lohmar</persName>, Gymnasiallehrer zu
-                            <placeName ref="#place_f45d358fd20dfc9437911de6e44bdc83">Trier</placeName>, sehr tüchtiger Philologe.<note xml:id="note_10">Randbemerkung Thuns: soll tüchtig sein.</note>
+                            <rs type="person" ref="lohmar-wilhelm" key="lohmar-wilhelm">Lohmar</rs>, Gymnasiallehrer zu
+                            <rs type="place" subtype="place" ref="#place_f45d358fd20dfc9437911de6e44bdc83">Trier</rs>, sehr tüchtiger Philologe.<note xml:id="note_10">Randbemerkung Thuns: soll tüchtig sein.</note>
                         <lb/>6)
-                            <persName key="kuschel-johann">Dr. Kuschel</persName>, Kollaborator am
-                        katholischen Gymnasium zu <placeName ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</placeName>, echt kirchlich
+                            <rs type="person" ref="kuschel-johann" key="kuschel-johann">Dr. Kuschel</rs>, Kollaborator am
+                        katholischen Gymnasium zu <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs>, echt kirchlich
                         gesinnt und tüchtiger Pädagoge.<note xml:id="note_11">Randbemerkung Thuns:
-                            Griesar [<persName key="grysar-karl">Grysar</persName>]? Von <persName key="grauert-heinrich">Grauert</persName> sehr gelobt.</note>
+                            Griesar [<rs type="person" ref="grysar-karl" key="grysar-karl">Grysar</rs>]? Von <rs type="person" ref="grauert-heinrich" key="grauert-heinrich">Grauert</rs> sehr gelobt.</note>
                     </p>
                     <p/>
-                    <p>&lt;<persName key="grauert-heinrich">Grauerts</persName> Ansicht:<lb/>Ad 1)
+                    <p>&lt;<rs type="person" ref="grauert-heinrich" key="grauert-heinrich">Grauerts</rs> Ansicht:<lb/>Ad 1)
                         Geistreich, lebendig, aber etwas rasch; leichtfertige Ausführung ungenügend
                         begründeter Ideen. - Dadurch hat er sich in einigen literarischen Leistungen
                         geschadet. – Seine letzte Bearbeitung des Tacitus wird aber gelobt. – Hat
-                        übrigens in <placeName ref="#place_03b16e0a78b56bb5ada8e43123aaaa62">Bonn</placeName> ein Haus gekauft.<lb/>Ad 3) Ein
+                        übrigens in <rs type="place" subtype="place" ref="#place_03b16e0a78b56bb5ada8e43123aaaa62">Bonn</rs> ein Haus gekauft.<lb/>Ad 3) Ein
                         Genie, aber treibt wunderliches Zeug, sodaß er zu einer komischen Figur
-                        geworden ist.<lb/>Ad 4) Ein Schüler <persName key="grauert-heinrich">Grauerts</persName>; ein lieber junger Mann, aber kein bedeutender
+                        geworden ist.<lb/>Ad 4) Ein Schüler <rs type="person" ref="grauert-heinrich" key="grauert-heinrich">Grauerts</rs>; ein lieber junger Mann, aber kein bedeutender
                         Philolog; ist auch aus solchen Studien herausgekommen.<lb/>Ad 5) Dem Ruf
                         nach tüchtig.&gt;<note xml:id="note_12">Eigenhändige Bemerkungen
                         Thuns</note>
@@ -209,30 +208,30 @@
                 </div>
                 <div xml:id="D70_2" type="enclosure">
                     <p>
-                        <persName key="kutzen-joseph">Joseph Kutzen</persName>, zu
-                            <placeName ref="#place_2752fdce78797086ce8e2a54c21ee999">Frankenstein</placeName> in <region ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</region>
-                        geboren, durch beide Eltern aus <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Deutsch-Böhmen</region> stammend, gebildet auf dem Gymnasium zu
-                            <placeName ref="#place_c039d6b6b429ead8e90f670f17a41205">Glatz</placeName> und den Universitäten zu <orgName key="universitaet-breslau">Breslau</orgName> und <orgName key="universitaet-berlin">Berlin</orgName>, an der ersteren zum Doktor
+                        <rs type="person" ref="kutzen-joseph" key="kutzen-joseph">Joseph Kutzen</rs>, zu
+                            <rs type="place" subtype="place" ref="#place_2752fdce78797086ce8e2a54c21ee999">Frankenstein</rs> in <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs>
+                        geboren, durch beide Eltern aus <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Deutsch-Böhmen</rs> stammend, gebildet auf dem Gymnasium zu
+                            <rs type="place" subtype="place" ref="#place_c039d6b6b429ead8e90f670f17a41205">Glatz</rs> und den Universitäten zu <orgName key="universitaet-breslau">Breslau</orgName> und <orgName key="universitaet-berlin">Berlin</orgName>, an der ersteren zum Doktor
                         der Philosophie promovirt, lehrte in dem <hi rend="ul">öffentlichen</hi>
                         Dienste seit 1829 und zwar 4 Jahre an dem katholischen Gymnasium zu
-                            <placeName ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</placeName> besonders Geschichte, Geographie und das
+                            <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs> besonders Geschichte, Geographie und das
                         Deutsche, seit 1832 die beiden ersten Fächer als Privatdocent, seit 1835 als
                         außerordentlicher und seit 1843 als ordentlicher Professor an der <orgName key="universitaet-breslau">Breslauer Universität</orgName>, an welcher
                         er während der Zeit seiner Lehrthätigkeit viel über dreitausend Zuhörer
                         hatte. Außerdem 4 Jahre Custos an der königlichen und Universitätsbibliothek
-                        zu <placeName ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</placeName>, 13 Jahre Mitglied der königlichen
+                        zu <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs>, 13 Jahre Mitglied der königlichen
                         Prüfungscommission für die Candidaten und Lehrer sämmtlicher höherer
-                        Lehranstalten der Provinzen <region ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</region> und
-                            <region ref="#place_d1be5c800653e4addaca193b664e9c0f">Posen</region> und 4 Jahre Direktor dieser Behörde; ferner 5
+                        Lehranstalten der Provinzen <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs> und
+                            <rs type="place" subtype="region" ref="#place_d1be5c800653e4addaca193b664e9c0f">Posen</rs> und 4 Jahre Direktor dieser Behörde; ferner 5
                         Jahre außerordentliches Mitglied der Prüfungscommission für die Aspiranten
                         des höheren Militärdienstes und eben solange des Provinzialschulcollegiums
-                        zu <placeName ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</placeName>.<lb/>In Bezug auf Erziehungs-, Lehr- und
+                        zu <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs>.<lb/>In Bezug auf Erziehungs-, Lehr- und
                         wissenschaftliche Beschäftigung in <hi rend="ul">Privat</hi>verhältnissen,
                         innerhalb der Jahre 1826 bis 1840 drei Jahre mit der Erziehung des ältesten
-                        Sohnes des <persName key="henckel-von-donnersmark-carl-lazarus">Grafen
-                            Lazarus Henckel von Donnersmark</persName> (katholische Linie), 4 Jahre
-                        des jüngsten Bruders des jetzigen Standesherrn <persName key="schaffgotsch-zu-warmbrunn">Grafen Schaffgotsch zu
-                            Warmbrunn</persName>, 2 Jahre des <persName key="sulkowski-august">Fürsten August Sulkowski</persName> (<region key="posen" ref="#place_d55199956d521bfae14b87d631fe8ae8">Posener</region> Linie), ferner mehrere Jahre hindurch mit
+                        Sohnes des <rs type="person" ref="henckel-von-donnersmark-carl-lazarus" key="henckel-von-donnersmark-carl-lazarus">Grafen
+                            Lazarus Henckel von Donnersmark</rs> (katholische Linie), 4 Jahre
+                        des jüngsten Bruders des jetzigen Standesherrn <rs type="person" ref="schaffgotsch-zu-warmbrunn" key="schaffgotsch-zu-warmbrunn">Grafen Schaffgotsch zu
+                            Warmbrunn</rs>, 2 Jahre des <rs type="person" ref="sulkowski-august" key="sulkowski-august">Fürsten August Sulkowski</rs> (<rs type="place" subtype="region" key="posen" ref="#place_d55199956d521bfae14b87d631fe8ae8">Posener</rs> Linie), ferner mehrere Jahre hindurch mit
                         geschäftlichen Verträgen für eine Zahl Mitglieder des schlesischen Adels und
                         für einen großen Kreis dem höheren Gewerbe-, besonders dem Kaufmannsstande
                         angehörender junger Männer und mit der Systematisirung und vollständigen

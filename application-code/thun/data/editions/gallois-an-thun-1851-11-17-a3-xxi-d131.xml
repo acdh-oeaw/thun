@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="gallois-etienne" role="sender:gelehrter">Etienne
-                        Gallois</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="gallois-etienne" key="gallois-etienne" role="sender:gelehrter">Etienne
+                        Gallois</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</placeName>, <date when="1851-11-17">17. November 1851</date>
+                    <rs type="place" subtype="place" ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</rs>, <date when="1851-11-17">17. November 1851</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -45,7 +44,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -58,47 +57,47 @@
                 <p>Paris, le 17 novembre 1851</p>
                 <p>Monsieur le Ministre,</p>
                 <p>Veuillez me permettre d'appeler votre attention sur une publication composée de
-                    documents historiques dont une partie importante concerne l'histoire de <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">l'Autriche</country>. Cette publication, qui a pour titre
+                    documents historiques dont une partie importante concerne l'histoire de <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">l'Autriche</rs>. Cette publication, qui a pour titre
                     "Lettres inédites des Feuquières" <note xml:id="note_1">Vgl. <ref target="http://books.google.at/books?id=GGsPAAAAQAAJ&amp;hl=de&amp;source=gbs_navlinks_s">Etienne Gallois, Lettres inédites des Feuquières: tirées des papiers de
                             famille de Madame la Duchesse Decazes, Paris 1846</ref>.</note>, tirées
                     des papiers de famille de Madame la Duchesse Decazes et de Gluskbierg
                     [Glücksbierg] et des Archives du Ministère des affaires étrangères, se rapporte
-                    à l'une des périodes les plus importantes de l'histoire de <country key="europa" ref="#place_55899fef2f0b2eba13eb1316b34b3694">l'Europe</country>, à la plus grande partie du XVIIe siècle, c'est-à-dire,
-                    à partir de la lutte du Cardinal <persName key="richelieu-armand-jean-du-plessis">de Richelieu</persName> contre la
-                    maison <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">d'Autriche</country> jusqu'à la fin de celle
-                    que <persName key="ludwig-XIV">Louis XIV</persName> soutint contre <country key="europa" ref="#place_55899fef2f0b2eba13eb1316b34b3694">l'Europe</country> et particulièrement contre <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">l'Autriche</country>.<lb/>MM. de Feuquières, de qui émane
+                    à l'une des périodes les plus importantes de l'histoire de <rs type="place" subtype="country" key="europa" ref="#place_55899fef2f0b2eba13eb1316b34b3694">l'Europe</rs>, à la plus grande partie du XVIIe siècle, c'est-à-dire,
+                    à partir de la lutte du Cardinal <rs type="person" ref="richelieu-armand-jean-du-plessis" key="richelieu-armand-jean-du-plessis">de Richelieu</rs> contre la
+                    maison <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">d'Autriche</rs> jusqu'à la fin de celle
+                    que <rs type="person" ref="ludwig-XIV" key="ludwig-XIV">Louis XIV</rs> soutint contre <rs type="place" subtype="country" key="europa" ref="#place_55899fef2f0b2eba13eb1316b34b3694">l'Europe</rs> et particulièrement contre <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">l'Autriche</rs>.<lb/>MM. de Feuquières, de qui émane
                     cette correspondance, étaient les uns ambassadeurs, les autres dans les armées,
-                    tous parfaitement informés des évènements. L'un d'eux, le Marquis <persName key="manasses-de-pas">Manassès Feuquières</persName>, fut envoyé avec des
-                    instructions très détaillés qui se trouvent dans ses lettres, par <persName key="ludwig-XIII">Louis XIII</persName>, en Allemagne, après la mort du roi
-                    de Suède <persName key="gustav-II-adolf">Gustave Adolphe</persName>, comme
-                    ambassadeur d'abord et ensuite comme général chargé d'appuyer le duc <persName key="bernhard-von-sachsen-weimar">Bernard de Saxe-Weimar</persName>. Il fut
-                    l'adversaire et ensuite le correspondant du célèbre Picholomini [<persName key="piccolomini-octavio">Piccolomini</persName>]. Un autre, le marquis
-                        <persName key="issac-de-pas">Isaac de Feuquières</persName>, fut ambassadeur
-                    extraordinaire en <country key="schweden" ref="#place_d8e4c34bc0c1f6c408444a98830108e7">Suède</country> alors que cette
+                    tous parfaitement informés des évènements. L'un d'eux, le Marquis <rs type="person" ref="manasses-de-pas" key="manasses-de-pas">Manassès Feuquières</rs>, fut envoyé avec des
+                    instructions très détaillés qui se trouvent dans ses lettres, par <rs type="person" ref="ludwig-XIII" key="ludwig-XIII">Louis XIII</rs>, en Allemagne, après la mort du roi
+                    de Suède <rs type="person" ref="gustav-II-adolf" key="gustav-II-adolf">Gustave Adolphe</rs>, comme
+                    ambassadeur d'abord et ensuite comme général chargé d'appuyer le duc <rs type="person" ref="bernhard-von-sachsen-weimar" key="bernhard-von-sachsen-weimar">Bernard de Saxe-Weimar</rs>. Il fut
+                    l'adversaire et ensuite le correspondant du célèbre Picholomini [<rs type="person" ref="piccolomini-octavio" key="piccolomini-octavio">Piccolomini</rs>]. Un autre, le marquis
+                        <rs type="person" ref="issac-de-pas" key="issac-de-pas">Isaac de Feuquières</rs>, fut ambassadeur
+                    extraordinaire en <rs type="place" subtype="country" key="schweden" ref="#place_d8e4c34bc0c1f6c408444a98830108e7">Suède</rs> alors que cette
                     puissance jouait dans le nord le rôle de puissance prépondérante que prit depuis
-                    la <country key="russland" ref="#place_5c0704d47c0a58a0922e25b5b9b66b27">Russie</country>. Avec ce dernier étaient obligés de
+                    la <rs type="place" subtype="country" key="russland" ref="#place_5c0704d47c0a58a0922e25b5b9b66b27">Russie</rs>. Avec ce dernier étaient obligés de
                     correspondre, pour le tenir au courant des évènements et de diriger sa conduite
                     par leurs informations, les différents ministres et les généraux d'armée que la
-                        <country key="frankreich" ref="#place_72ac53f7b58ea996114e510e7d524fb9">France</country> entretenait en <country key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Allemagne</country>. Dans cette dernière correspondance se
-                    trouvent renfermés une foule de documents qui intéressent l'histoire de <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">l'Autriche</country> à cette époque. On y rencontre le
-                    récit circonstancié des marches et contremarches de <persName key="henri-de-la-tour-dauvergne">Turenne</persName> et de <persName key="montecuccoli-raimondo">Montécuculli</persName>, ces deux habiles
+                        <rs type="place" subtype="country" key="frankreich" ref="#place_72ac53f7b58ea996114e510e7d524fb9">France</rs> entretenait en <rs type="place" subtype="country" key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Allemagne</rs>. Dans cette dernière correspondance se
+                    trouvent renfermés une foule de documents qui intéressent l'histoire de <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">l'Autriche</rs> à cette époque. On y rencontre le
+                    récit circonstancié des marches et contremarches de <rs type="person" ref="henri-de-la-tour-dauvergne" key="henri-de-la-tour-dauvergne">Turenne</rs> et de <rs type="person" ref="montecuccoli-raimondo" key="montecuccoli-raimondo">Montécuculli</rs>, ces deux habiles
                     rivaux, et des détails qu'on chercherait vainement ailleurs sur la politique,
-                    sur les armées et sur la cour <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">d'Autriche</country> au
+                    sur les armées et sur la cour <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">d'Autriche</rs> au
                     XVIIe siècle.<lb/>Il me serait impossible, Monsieur le Ministre, en me
                     renfermant dans les limites ordinaires d'une lettre, de vous présenter, même en
                     résumé, l'analyse de tout à qui a rapport dans ma publication à votre histoire
                     nationale. Je me bornerai à dire qu'il n'est pas un seul des cinq volumes dont
-                    elle se compose où il ne soit fait longuement mention de <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">l'Autriche</country>, et que, à part les lettres privées,
+                    elle se compose où il ne soit fait longuement mention de <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">l'Autriche</rs>, et que, à part les lettres privées,
                     elle intéresse presque autant l'histoire de votre pays que celle du nôtre, où
                     elle a pris rang parmi les collections historiques les plus utiles. J'ose donc
                     espérer, Monsieur le Ministre, que vous voudrez bien souscrire pour vos
                     Bibliothèques publiques aux Lettres inédites des Feuquières<note xml:id="note_2">Anmerkung am unteren Blattrand: 5 volumes in 8 [?] 30 f.
                         l'Exemplaire.</note>, qui se trouvent déjà dans les autres principales
-                    bibliothèques de <country key="europa" ref="#place_55899fef2f0b2eba13eb1316b34b3694">l'Europe</country>.<note xml:id="note_3">Anmerkung am linken Blattrand: Notre ministre de l'Instruction publique,
+                    bibliothèques de <rs type="place" subtype="country" key="europa" ref="#place_55899fef2f0b2eba13eb1316b34b3694">l'Europe</rs>.<note xml:id="note_3">Anmerkung am linken Blattrand: Notre ministre de l'Instruction publique,
                         après examen et décision du Conseil supérieur, vient de souscrire à cet
                         ouvrage pour les Bibliothèques ressortissant à son département. Les
-                        ministres de l'Instruction publique de <country key="schweiz" ref="#place_4160709db9e1cdde5a7947ce6d71bb0d">Suisse</country>, de <country key="belgien" ref="#place_f79ffe9e826a19f9f6a446c90e21c4e3">Belgique</country> et de
-                            <country key="sardinien" ref="#place_591cce2c0b9ced801c5b5929c9a46a61">Sardaigne</country> ont décidé qu'il serait
+                        ministres de l'Instruction publique de <rs type="place" subtype="country" key="schweiz" ref="#place_4160709db9e1cdde5a7947ce6d71bb0d">Suisse</rs>, de <rs type="place" subtype="country" key="belgien" ref="#place_f79ffe9e826a19f9f6a446c90e21c4e3">Belgique</rs> et de
+                            <rs type="place" subtype="country" key="sardinien" ref="#place_591cce2c0b9ced801c5b5929c9a46a61">Sardaigne</rs> ont décidé qu'il serait
                         placé dans les bibliothèques de toutes leurs
                     universités.</note>
                     <lb/>Veuillez agréer, Monsieur le Ministre, l'hommage du

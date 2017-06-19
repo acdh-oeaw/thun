@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="stein-lorenz" role="recipient">Lorenz von
-                    Stein</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="stein-lorenz" key="stein-lorenz" role="recipient">Lorenz von
+                    Stein</rs>
                     <lb/>o. O., <date when="1854-03-24">24. März [1854]</date>
                     <note xml:id="note_1">Die Datierung in das Jahr 1854 ergibt sich aus der im Brief
                         angesprochenen Berufung Steins an die Wiener Universität.</note>
@@ -28,7 +27,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -38,7 +37,7 @@
                     <term>Universität Wien</term>
                 </index>
                 <p>Werther Herr Professor!</p>
-                <p>Ich freue mich Ihnen vorläufig mittheilen zu können, daß <persName key="franz-joseph">Seine Majestät</persName> Sie zum Professor der
+                <p>Ich freue mich Ihnen vorläufig mittheilen zu können, daß <rs type="person" ref="franz-joseph" key="franz-joseph">Seine Majestät</rs> Sie zum Professor der
                     politischen Ökonomie an der <orgName key="universitaet-wien">Wiener
                         Universität</orgName> ernannt hat.</p>
                 <p>Hochachtungsvoll<lb/>Thun</p>

@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Das Lehrerkollegium des Gymnasiums in St. Paul an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                <title>Das Lehrerkollegium des Gymnasiums in St. Paul an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_cab98f16acacdea50dbd91a389d0624d">St. Paul</placeName>, <date when="1860-11-13">13. November 1860</date>
+                    <rs type="place" subtype="place" ref="#place_cab98f16acacdea50dbd91a389d0624d">St. Paul</rs>, <date when="1860-11-13">13. November 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -34,7 +33,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -45,7 +44,7 @@
                 </index>
                 <p>Eure Excellenz!</p>
                 <p>Wollen gnädigst gestatten, daß auch der kleine Lehrkörper des Gymnasiums zu
-                        <placeName ref="#place_cab98f16acacdea50dbd91a389d0624d">St. Paul</placeName> den Huldigungen sich anschließe, durch
+                        <rs type="place" subtype="place" ref="#place_cab98f16acacdea50dbd91a389d0624d">St. Paul</rs> den Huldigungen sich anschließe, durch
                     welche die höheren und höchsten Lehranstalten des österreichischen Kaiserstaates
                     Eurer Excellenz beim Scheiden von dem hohen Posten der Leitung des gesammten
                     Unterrichtswesens die Gefühle warmer Verehrung und innigen Dankes kund geben.

@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="helfert-joseph-alexander" role="recipient">Joseph Alexander
-                        Helfert</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="helfert-joseph-alexander" key="helfert-joseph-alexander" role="recipient">Joseph Alexander
+                        Helfert</rs>
                     <lb/>o. O., <date when="1853-06-06">o. D. [6. Juni
                         1853]</date>
                     <note xml:id="note_1">Das Datum ist mit Bleistift am oberen
@@ -34,7 +33,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -46,29 +45,29 @@
                         Alexander Helfert. Die Meldung erschien in der <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18530607&amp;seite=2&amp;zoom=33">Wiener Zeitung vom 7. Juni 1853, S. 1350</ref>.</note>
                 </p>
                 <p>In dem heute vormittags von dem hochwürdigsten fürsterzbischöflichen
-                    Metropolitankapitel in <placeName ref="#place_a87c18c322f6b2feece9018bcd4027e5">Olmütz</placeName> abgehaltenen Conclave ist
-                    laut den von dem k.k. Wahlkommissar Minister <persName key="thun-hohenstein-leo">Grafen Thun</persName>
-                    <persName key="franz-joseph">Seiner k.k. apostolischen Majestät</persName> durch
+                    Metropolitankapitel in <rs type="place" subtype="place" ref="#place_a87c18c322f6b2feece9018bcd4027e5">Olmütz</rs> abgehaltenen Conclave ist
+                    laut den von dem k.k. Wahlkommissar Minister <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Grafen Thun</rs>
+                    <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner k.k. apostolischen Majestät</rs> durch
                     den Telegraphen erstatteten allerunterthänigsten Anzeige der ----- zum
-                    Erzbischof von <placeName ref="#place_a87c18c322f6b2feece9018bcd4027e5">Olmütz</placeName> erwählt worden.</p>
+                    Erzbischof von <rs type="place" subtype="place" ref="#place_a87c18c322f6b2feece9018bcd4027e5">Olmütz</rs> erwählt worden.</p>
                 <p/>
-                <p>&lt;2. Noten an <persName key="buol-schauenstein-karl-ferdinand">Buol-Schauenstein</persName>
+                <p>&lt;2. Noten an <rs type="person" ref="buol-schauenstein-karl-ferdinand" key="buol-schauenstein-karl-ferdinand">Buol-Schauenstein</rs>
                 </p>
-                <p>3. Noten an <persName key="bach-alexander">Bach</persName>
+                <p>3. Noten an <rs type="person" ref="bach-alexander" key="bach-alexander">Bach</rs>
                 </p>
-                <p>4. Noten an <persName key="kempen-johann-franz">Kempen</persName>
+                <p>4. Noten an <rs type="person" ref="kempen-johann-franz" key="kempen-johann-franz">Kempen</rs>
                 </p>
-                <p>Laut so eben von Seiner Exzellenz dem <persName key="thun-hohenstein-leo">Herrn
-                        Minister für Cultus und Unterricht</persName> an mich gelangten
-                    telegrafischen Depesche dato <placeName ref="#place_a87c18c322f6b2feece9018bcd4027e5">Olmütz</placeName> 6. Juni ist in
+                <p>Laut so eben von Seiner Exzellenz dem <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Herrn
+                        Minister für Cultus und Unterricht</rs> an mich gelangten
+                    telegrafischen Depesche dato <rs type="place" subtype="place" ref="#place_a87c18c322f6b2feece9018bcd4027e5">Olmütz</rs> 6. Juni ist in
                         dem&gt;<note xml:id="note_3">Entwurf von Joseph Alexander Helfert. An dieser
                         Stelle soll die obige Note von Thun eingesetzt werden.</note>
                 </p>
                 <p/>
                 <p>&lt;Ich beeile mich E. ... hiervon mit dem ergebensten Bemerken in hochgeneigte
-                    Kenntnis zu setzen, daß Seine Exzellenz der Herr <persName key="thun-hohenstein-leo">Minister</persName> f. von dem Ergebnisse dieser
-                    Wahl sogleich unmittelbar an <persName key="franz-joseph">Seine k.k.
-                        apostolische Majestät</persName> allerunterthänigste Anzeige erstattet
+                    Kenntnis zu setzen, daß Seine Exzellenz der Herr <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Minister</rs> f. von dem Ergebnisse dieser
+                    Wahl sogleich unmittelbar an <rs type="person" ref="franz-joseph" key="franz-joseph">Seine k.k.
+                        apostolische Majestät</rs> allerunterthänigste Anzeige erstattet
                         haben.&gt;<note xml:id="note_4">Entwurf von Joseph Alexander Helfert für die
                         erwähnten Noten an Buol-Schauenstein, Bach und Kempen.</note>
                 </p>

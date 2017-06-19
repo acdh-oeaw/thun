@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -48,7 +47,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -63,10 +62,10 @@
                 <p>§ 1.<lb/>Die <hi rend="ul">evangelisch-christliche Kirche Augsburger und
                         Helvetischer Konfession</hi> in jenen Kronländern, für welche dieses Gesetz
                     erlassen ist, umfaßt alle evangelisch-christlichen Glaubensgenossen in denselben
-                    und bildet einen Theil der evangelischen Kirche des <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">österreichischen Kaiserstaates</country> und mit dieser einen Theil der
+                    und bildet einen Theil der evangelischen Kirche des <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">österreichischen Kaiserstaates</rs> und mit dieser einen Theil der
                     evangelischen Gesammtkirche.<note xml:id="note_2">Bemerkung Thuns: Anwendung auf
-                            <country key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venetianisches
-                            Königreich</country> und <region key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tyrol</region>
+                            <rs type="place" subtype="country" key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venetianisches
+                            Königreich</rs> und <rs type="place" subtype="region" key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tyrol</rs>
                         unzuläßig.</note>
                 </p>
                 <p>§ 2.<lb/>Der evangelisch-christlichen Kirche beider Bekenntnisse wird in dem
@@ -154,7 +153,7 @@
                     12).</p>
                 <p>§ 9.<lb/>Die Vertretung und Verwaltung der evangelischen Kirche, sowohl
                     Augsburgischen als auch helvetischen Bekenntnisses, in &lt;jenen Gebiethen,
-                    welche bisher den in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> bestehenden k.k. Consistorien
+                    welche bisher den in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> bestehenden k.k. Consistorien
                     dieser Bekenntnisse unterstehen&gt;<note xml:id="note_10">Korrektur Thuns aus: den
                         oben (§ 1) bezeichneten Theilen des Reiches.</note>gliedert sich nach den
                     Abstufungen:<lb/>der <hi rend="ul">Pfarrgemeinde</hi>
@@ -278,7 +277,7 @@
                     <p>Wir etc.</p>
                     <p>verordnen nach Einvernehmung Unserer Minister und Anhörung Unseres
                         Reichsrathes in Erledigung der Anträge, welche Uns Unsere in
-                            <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> bestehenden Konsistorien Augsburger und
+                            <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> bestehenden Konsistorien Augsburger und
                         Helvetischen Bekenntnisses über Unsere Aufforderung erstattet haben, damit
                         eine den Grundsätzen Unseres Patentes vom 31. Dez. 1850 entsprechende
                         Ordnung bezüglich der kirchlichen und Schulangelegenheiten ihrer
@@ -304,7 +303,7 @@
                         Superintendenten als Schulenoberaufseher, welchen es auch zusteht, die
                         Befähigung der Kandidaten für das Lehramt an Volksschulen zu prüfen und die
                         Zeugnisse darüber auszustellen.<lb/>§. Das Gymnasium in
-                            <placeName ref="#place_27f77677310f3f4e0b878e7f7f0f0dd1">Teschen</placeName>, dessen Erfüllung auf [?] Kosten der
+                            <rs type="place" subtype="place" ref="#place_27f77677310f3f4e0b878e7f7f0f0dd1">Teschen</rs>, dessen Erfüllung auf [?] Kosten der
                         evangelischen Glaubensgenossen beider Bekenntnisse durch den Hubertusburger
                         Frieden verbürgt und welches bereits zu einem vollständigen Obergymnasium
                         von 8 Klassen erweitert worden ist, soll auch in Zukunft in dieser
@@ -320,7 +319,7 @@
                         Konsistorien darüber einvernommen wurden und sich dafür ausgesprochen
                         hatten, zu ertheilen.<lb/>§. Die Konsistorien haben eines ihrer Mitglieder
                         Augsburgischen oder Helvetischen Bekenntnisses zu bestimmen, welche die in
-                            <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> bestehende evangelische Theologische
+                            <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> bestehende evangelische Theologische
                         Fakultät zu inspiziren haben und auch den strengen Prüfungen zur Erlangung
                         des Doktorgrades beizuwohnen berechtiget sind. Über alle diese Fakultät
                         betreffenden organisatorischen Maßregeln sowie über alle Vorschläge zur

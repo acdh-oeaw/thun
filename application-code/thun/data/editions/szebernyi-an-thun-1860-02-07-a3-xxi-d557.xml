@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="szeberinyi-johann" role="sender:kleriker">Johann
-                        Szeberinyi</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="szeberinyi-johann" key="szeberinyi-johann" role="sender:kleriker">Johann
+                        Szeberinyi</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_792be515410368f1ac3c6e58ea01814c">Schemnitz</placeName>,
+                    <rs type="place" subtype="place" ref="#place_792be515410368f1ac3c6e58ea01814c">Schemnitz</rs>,
                         <date when="1860-02-07">7. Februar 1860</date>
                 </title>
             </titleStmt>
@@ -36,7 +35,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -50,9 +49,9 @@
                 <p>Eure Exzellenz,<lb/>Hochzuverehrender Herr Minister! </p>
                 <p>Die Fluthen gehn hoch. In solchen Zeiten darf die Schüchternheit den Muth, das
                     kindliche Vertrauen treuer Seelen nicht lähmen. Ich nehme mir die Freiheit an
-                        <persName key="franz-joseph">Seine k.k. apostolische Majestät</persName> und
+                        <rs type="person" ref="franz-joseph" key="franz-joseph">Seine k.k. apostolische Majestät</rs> und
                     an Eure Exzellenz zu schreiben. Was will ich denn? Nützlich möcht' ich sein dem
-                    Staate. Ob mein an <persName key="franz-joseph">Seine Majestät</persName>
+                    Staate. Ob mein an <rs type="person" ref="franz-joseph" key="franz-joseph">Seine Majestät</rs>
                     gerichtetes Schreiben <note xml:id="note_1">Vgl. <ref target="thun/thun-korrespondenz/tetschen/nur_regesten/szeberinyi-an-franz-joseph_1860-02-08_A3-XXI-D560.xml">Abschrift des Schreibens von Johann Szeberinyi an Kaiser Franz Joseph, 8.
                             Februar 1860. Das Schreiben wurde im Nachlass unter der Signatur A3 XXI
                             D560 abgelegt.</ref>
@@ -60,10 +59,10 @@
                     nur Eure Exzellenz beurtheilen, entscheiden. Daher stell‘ ich es ganz und gar
                     Eurer Exzellenz anheim, ob die Huld, den Brief Allerhöchsten Ortes
                     einzuhändigen, haben wollen oder nicht.<lb/>Erlauben Eure Exzellenz mit einigen
-                    Worten meinen im Schreiben an <persName key="franz-joseph">Seine k.k.
-                        apostolische Majestät</persName> eingenommenen Standpunkt zu beleuchten und
+                    Worten meinen im Schreiben an <rs type="person" ref="franz-joseph" key="franz-joseph">Seine k.k.
+                        apostolische Majestät</rs> eingenommenen Standpunkt zu beleuchten und
                     den Thatbestand zu constatiren.<lb/>Niemand kann für das Ultimatissimum in der
-                    Willensrichtung <persName key="franz-joseph">Seiner Majestät</persName> haften –
+                    Willensrichtung <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät</rs> haften –
                     auch kann unter gewissen Umständen ein Villa Franka [Villafranca] seine
                     Rechtfertigung finden. Nur darauf kömmt es dann an, dass die Abspannung des
                     Gegners gehörig ausgebeutet, dass die theilweise Nachgiebigkeit und Wohlwollen
@@ -78,7 +77,7 @@
                     Patent würde gleichsam durch die Synode <hi rend="ul">eingeführt</hi> werden.
                     Immer wäre der Staat hiebei, der Reger, denn er trüge das Wesen, die schreienden
                     Kinder die Form davon. Setze freilich die 4 Bedingungen voraus, die ich
-                        <persName key="franz-joseph">Seiner Majestät</persName> unterthänigst
+                        <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät</rs> unterthänigst
                     vorgelegt habe.<lb/>Nochmals ehrfurchtsvollst bittend, den Brief nur in dem
                     Falle einhändigen geruhen zu wollen, wenn Eure Exzellenz seinen Inhalt
                     genehmigen, hab‘ ich die Ehre mich zu zeichnen, mit unverbrüchlicher Ergebenheit

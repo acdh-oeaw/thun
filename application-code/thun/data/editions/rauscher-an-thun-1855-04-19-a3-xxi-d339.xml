@@ -1,14 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://thun-korrespondenz.uibk.ac.at/svn/thun/thun-korrespondenz/schema/thun-schema.rnc" type="application/relax-ng-compact-syntax"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="rauscher-joseph" role="sender:kleriker">Joseph Othmar
-                        Rauscher</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="rauscher-joseph" key="rauscher-joseph" role="sender:kleriker">Joseph Othmar
+                        Rauscher</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName>, <date when="1855-04-19">19. April 1855</date>
+                    <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs>, <date when="1855-04-19">19. April 1855</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -39,7 +37,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -50,9 +48,9 @@
                 </index>
                 <p>Rom, am 19. April 1855</p>
                 <p>Hochgeborner Graf!</p>
-                <p>Über <persName key="stengel">P. Stengel</persName> weiß ich gar nichts, als was
+                <p>Über <rs type="person" ref="stengel" key="stengel">P. Stengel</rs> weiß ich gar nichts, als was
                     ich aus dem übersandten Gesuche und seinen eigenen Briefen entnommen habe.
-                    Allerdings wird die Wiederherstellung des kirchlichen Verkehrs mit <placeName key="rom" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</placeName> und den hier residierenden Ordensoberen im Anfange
+                    Allerdings wird die Wiederherstellung des kirchlichen Verkehrs mit <rs type="place" subtype="place" key="rom" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs> und den hier residierenden Ordensoberen im Anfange
                     mannigfache Schwierigkeiten hervorrufen; aber die Maßregel ist bei der
                     gegenwärtigen Sachlage eine ganz unvermeidliche und bei folgerechter
                     Durchführung wird sie sich auch als eine sehr heilsame erproben. Doch bedarf es
@@ -63,12 +61,12 @@
                     bei dem hiesigen Geschäftsgange kann ich nicht wissen, wie lange man damit noch
                     herumziehen werde.<lb/>Ich danke ergebenst für die gemachten Mittheilungen; sie
                     lauten in der Frage der katholischen Griechen nicht sehr erfreulich und es wird
-                    an nach <placeName key="rom" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</placeName> geschickten Klagen nicht fehlen.
+                    an nach <rs type="place" subtype="place" key="rom" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs> geschickten Klagen nicht fehlen.
                     Übrigens habe ich das Versprechen durchgesetzt, daß man hinsichtlich dieses
                     fatalen Punctes, welcher in der bekannten Note vom 1. Juni vorigen Jahres sehr
-                    herausgehoben wurde, sich damit begnügen werde, die Sache der Gnade <persName key="franz-joseph">Seiner Majestät</persName> anzuempfehlen.<lb/>Was den
+                    herausgehoben wurde, sich damit begnügen werde, die Sache der Gnade <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät</rs> anzuempfehlen.<lb/>Was den
                     Unterricht in den bischöflichen Seminarien betrifft, so war es unmöglich
-                    dasjenige nicht zuzugestehen, was <country key="bayern" ref="#place_5afc76bc69955ce317651a3dc1dbb0d6">Baiern</country> zu
+                    dasjenige nicht zuzugestehen, was <rs type="place" subtype="country" key="bayern" ref="#place_5afc76bc69955ce317651a3dc1dbb0d6">Baiern</rs> zu
                     einer der Kirche durchaus ungünstigen Zeit im Concordat vom Jahre 1818
                     zugesichert hat. Ich habe aber, nicht ohne große Schwierigkeit erhalten, daß in
                     der päpstlichen Instruction die Bischöfe werden ermahnt werden, sich über den in
@@ -90,15 +88,15 @@
                     Gleichgewicht nicht, sondern gelangte stehend in das untere Gemach, wo ich über
                     die Trümmer hin bald an Eines der ziemlich erhöhten Fenster hinaufkam, so daß
                     ich außer dem Gedränge war.<lb/>Gott gebe, daß in Betreff der europäischen Frage
-                    sich bald eine entschiedene Politik Raum macht; <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> erträgt es nicht solang Gewehr bei Fuß zu stehen. Der
+                    sich bald eine entschiedene Politik Raum macht; <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> erträgt es nicht solang Gewehr bei Fuß zu stehen. Der
                     Zustand der Finanzen thut dem Eindrucke einer so gewaltigen Bewaffnung großen
-                    Eintrag. Man sagt: Wie lange wird <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> es zahlen können? Sogar bei den Verhandlungen wurde
+                    Eintrag. Man sagt: Wie lange wird <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> es zahlen können? Sogar bei den Verhandlungen wurde
                     ganz unverholen der drohende Staatsbankerott in Anschlag gebracht und dieser
-                    Umstand ist es, weshalb man auf <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</country>
+                    Umstand ist es, weshalb man auf <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs>
                     Zukunft noch immer kein ernstes Vertrauen hat. Daß dieß für einen
                     Bevollmächtigten Seiner Majestät weder angenehm noch förderlich sey, brauche ich
                     Euer Excellenz nicht zu sagen.<lb/>Gott gebe, daß es mir bald vergönnt ist, den
-                    Tag meiner Abreise festzusetzen! Indessen will ich <country key="italien" ref="#place_19cb29505c294db5ca9190ea93447e98">Italien</country> doch nicht verlassen ohne auf <placeName key="neapel" ref="#place_2a4e63dc83d509fece21a7872f95a242">Neapel</placeName> und <placeName key="pompeji" ref="#place_48e23d043764ef6b2d7d7acd9ac09860">Pompeji</placeName> einen
+                    Tag meiner Abreise festzusetzen! Indessen will ich <rs type="place" subtype="country" key="italien" ref="#place_19cb29505c294db5ca9190ea93447e98">Italien</rs> doch nicht verlassen ohne auf <rs type="place" subtype="place" key="neapel" ref="#place_2a4e63dc83d509fece21a7872f95a242">Neapel</rs> und <rs type="place" subtype="place" key="pompeji" ref="#place_48e23d043764ef6b2d7d7acd9ac09860">Pompeji</rs> einen
                     Blick geworfen zu haben. Ich verharre mit der vollkommensten Verehrung,</p>
                 <p>Euer Excellenz gehorsamster Diener<lb/>J. Rauscher</p>
             </div>

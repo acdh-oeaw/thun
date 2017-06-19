@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="bonitz-hermann" role="recipient">Hermann
-                        Bonitz</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="bonitz-hermann" key="bonitz-hermann" role="recipient">Hermann
+                        Bonitz</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1855-08-26">26. August 1855 </date>
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1855-08-26">26. August 1855 </date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -37,7 +36,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -55,14 +54,14 @@
                     vortheilhaften Bedingungen zu übernehmen, daß Sie jedoch geneigt seien, in Ihrer
                     gegenwärtigen Anstellung an der <orgName key="universitaet-wien">hiesigen
                         Universität</orgName> zu verbleiben, hat mir den erwünschten Anlaß geboten,
-                        <persName key="franz-joseph">Seiner Majestät</persName> die ausgezeichneten
+                        <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät</rs> die ausgezeichneten
                     Dienste vorzustellen, welche Sie sowohl durch Ihre Thätigkeit im Lehramte, als
                     durch ihre Betheiligung an der Redaktion der österreichischen
                     Gymnasial-Zeitschrift dem Aufschwunge der philologischen Studien wie der
-                    Gymnasien im Allgemeinen geleistet haben. Seine <persName key="franz-joseph">k.k. Apostolische Majestät</persName> haben in Folge dessen nicht nur Ihren
+                    Gymnasien im Allgemeinen geleistet haben. Seine <rs type="person" ref="franz-joseph" key="franz-joseph">k.k. Apostolische Majestät</rs> haben in Folge dessen nicht nur Ihren
                     Gehalt erhöhen, worüber Ihnen demnächst die Mittheilung im ordentlichen
                     Geschäftswege zukommen wird, sondern auch mit Allerhöchstem Handschreiben de
-                    dato <placeName ref="#place_26772cb430822468d91f9978930b32cd">Laxenburg</placeName> den 23. August laufenden Jahres mich
+                    dato <rs type="place" subtype="place" ref="#place_26772cb430822468d91f9978930b32cd">Laxenburg</rs> den 23. August laufenden Jahres mich
                     allergnädigst zu ermächtigen geruht, ihnen die Zuversicherung zu geben, daß für
                     den Fall, als in Betreff Ihrer dermaligen, Ihnen zu Folge Ihres ursprünglichen
                     Anstellung an der <orgName key="universitaet-wien">Wiener Universität</orgName>

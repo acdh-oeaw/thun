@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="bissingen-cajetan" role="sender:beamter">Cajetan
-                        Bissingen</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="bissingen-cajetan" key="bissingen-cajetan" role="sender:beamter">Cajetan
+                        Bissingen</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_5891474b8c1bc6f744b99e2b10c4a3db">Schramberg in Württemberg</placeName>,
+                    <rs type="place" subtype="place" ref="#place_5891474b8c1bc6f744b99e2b10c4a3db">Schramberg in Württemberg</rs>,
                         <date when="1854-09-22">22. September 1854</date>
                 </title>
             </titleStmt>
@@ -47,7 +46,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -58,9 +57,9 @@
                     <term>Revolution</term>
                 </index>
                 <p>Hochgeborner Graf!</p>
-                <p>Eurer Exzellenz vertrauliche Frage wegen <persName key="waechter-karl-georg">Wächters</persName> Benehmen im Jahre 1848 beehre ich mich in folgendem zu
+                <p>Eurer Exzellenz vertrauliche Frage wegen <rs type="person" ref="waechter-karl-georg" key="waechter-karl-georg">Wächters</rs> Benehmen im Jahre 1848 beehre ich mich in folgendem zu
                         beantworten.<lb/>
-                    <persName key="waechter-karl-georg">Wächter</persName> war
+                    <rs type="person" ref="waechter-karl-georg" key="waechter-karl-georg">Wächter</rs> war
                     damals, und zwar schon seit mehreren Jahren, Praesident der Würtemberg'schen
                     Abgeordnetenkammer und hatte sich auch als solcher einen Ruf erworben. Als
                     Mitglied dieser Kammer hatte ich Gelegenheit, ihn näher kennen zu lernen und ich
@@ -82,13 +81,13 @@
                     Hof damals ihn nicht mehr mit der frühern Auszeichnung beehrte, ihm nicht mehr
                     das frühere Vertrauen schenkte.<lb/>Wenn die Wahl eines andern
                     Kammerpraesidenten im Jahre 1848 wohl in der Natur der Sache lag, so mag die
-                    veränderte Stellung zum Hofe <persName key="waechter-karl-georg">Wächter</persName>, dessen Ehrgeitz durch eine mehr hervorragende soziale
+                    veränderte Stellung zum Hofe <rs type="person" ref="waechter-karl-georg" key="waechter-karl-georg">Wächter</rs>, dessen Ehrgeitz durch eine mehr hervorragende soziale
                     Stellung geschmeichelt sein mochte, ihn wesentlich zum Austritte aus dem
                     Staatsdienste (als Kanzler der <orgName key="universitaet-tuebingen">Universität
                         Tübingen</orgName>) veranlaßt haben.<lb/>Zunächst schien nach dem damaligen
-                    Gerüchte <persName key="waechter-karl-georg">Wächters</persName> Betheiligung an
+                    Gerüchte <rs type="person" ref="waechter-karl-georg" key="waechter-karl-georg">Wächters</rs> Betheiligung an
                     den Vorverhandlungen über den Wechsel des Ministeriums die Ungnade bei Hofe ihm
-                    zugezogen zu haben. Er sei damals vom <persName key="wuerttemberg-friedrich">Prinzen Friedrich</persName> ins Vertrauen gezogen worden und das Publikum
+                    zugezogen zu haben. Er sei damals vom <rs type="person" ref="wuerttemberg-friedrich" key="wuerttemberg-friedrich">Prinzen Friedrich</rs> ins Vertrauen gezogen worden und das Publikum
                     verdächtigte ihn selbst des Strebens nach einem Portefeuille. Was an diesem
                     Gerede, deren gerade in jener bewegten Zeit so viele waren, Wahres gewesen, weiß
                     ich nicht, aber allgemein war die Ansicht, er habe am klügsten gethan, wieder
@@ -97,18 +96,18 @@
                     jene eines Kammerpraesidenten des Jahres 1848 offenbar nicht die gehörige
                     Festigkeit in seiner ganzen Haltung beobachtete.<lb/>Deßhalb lassen sich aber
                     seine politischen Ansichten und Grundsätze nicht in Verdacht ziehen, was er denn
-                    auch als Mitglied des Fünfziger Ausschußes in <placeName ref="#place_4312d5c8cdda027420c474e2221abc34">Frankfurt</placeName>,
+                    auch als Mitglied des Fünfziger Ausschußes in <rs type="place" subtype="place" ref="#place_4312d5c8cdda027420c474e2221abc34">Frankfurt</rs>,
                     wo er entschieden zur conservativen Partei, &lt;wenn gleich auch er eine
                     deutsche Einheit damals gewünscht haben mag,&gt;<note xml:id="note_1">Eh.
                         Einfügung von Bissingen</note> gehörte, bewährte. Uebrigens soll sich später
-                    auch das Verhältniß <persName key="waechter-karl-georg">Wächters</persName> zum
-                    Würtembergischen Hofe wieder ausgeglichen haben.<lb/>Ich könnte <persName key="waechter-karl-georg">Wächters</persName> Acquisition in den beiden
-                    bezeichneten Fächern für <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</country> nur
+                    auch das Verhältniß <rs type="person" ref="waechter-karl-georg" key="waechter-karl-georg">Wächters</rs> zum
+                    Würtembergischen Hofe wieder ausgeglichen haben.<lb/>Ich könnte <rs type="person" ref="waechter-karl-georg" key="waechter-karl-georg">Wächters</rs> Acquisition in den beiden
+                    bezeichneten Fächern für <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> nur
                     eine glückliche nennen. Er ist eine Autorität, ein Mann von ehrenhaftem
                     Charakter und loyalen Ansichten. Als praktischer Staatsmann wäre er weniger am
                     Platze.<lb/>Nachweise für diese Notizen wüßte ich keine anzudeuten als die
                     gedruckten Würtemberg'schen Kammerverhandlungen incl. des Jahres 1848.<lb/>Wie
-                    ich vom Urlaube zurückgekehrt sein werde, werde ich mir <persName key="dantscher-karl">Dantschers</persName> Lokalitäten Desiderium ganz
+                    ich vom Urlaube zurückgekehrt sein werde, werde ich mir <rs type="person" ref="dantscher-karl" key="dantscher-karl">Dantschers</rs> Lokalitäten Desiderium ganz
                     besonders angelegen sein lassen.<lb/>Genehmigen Ew. Exzellenz die Versicherung
                     meiner ausgezeichneten Hochachtung.</p>
                 <p>Eurer Exzellenz</p>

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="molnar-christian" role="sender:kleriker">Christian
-                        Molnár</persName> an <persName key="elisabeth" role="recipient">Kaiserin
-                        Elisabeth</persName>
+                    <rs type="person" ref="molnar-christian" key="molnar-christian" role="sender:kleriker">Christian
+                        Molnár</rs> an <rs type="person" ref="elisabeth" key="elisabeth" role="recipient">Kaiserin
+                        Elisabeth</rs>
                     <lb/>
-                    <placeName ref="#place_1e6b38f6262c94e732f8d061a68f0523">Hermannseifen</placeName> [Rudník],
+                    <rs type="place" subtype="place" ref="#place_1e6b38f6262c94e732f8d061a68f0523">Hermannseifen</rs> [Rudník],
                         <date when="1854-07-02">2. Juli 1854</date>
                 </title>
             </titleStmt>
@@ -39,7 +38,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

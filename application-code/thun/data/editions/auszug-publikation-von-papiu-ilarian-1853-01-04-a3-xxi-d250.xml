@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Auszug aus der Geschichte der Romanen Oberdakiens von <persName key="papiu-ilarian-alexandru">Alexandru Papiu-Ilarian</persName>
+                <title>Auszug aus der Geschichte der Romanen Oberdakiens von <rs type="person" ref="papiu-ilarian-alexandru" key="papiu-ilarian-alexandru">Alexandru Papiu-Ilarian</rs>
                     <lb/>o. O.,
                         <date when="1853-01-04">4. Januar 1853</date>
                 </title>
@@ -43,7 +42,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

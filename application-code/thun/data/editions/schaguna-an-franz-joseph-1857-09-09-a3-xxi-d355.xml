@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="schaguna-andreas" role="sender:kleriker">Andreas
-                        Schaguna</persName> an Kaiser <persName key="franz-joseph" role="recipient">Franz Joseph</persName>
+                    <rs type="person" ref="schaguna-andreas" key="schaguna-andreas" role="sender:kleriker">Andreas
+                        Schaguna</rs> an Kaiser <rs type="person" ref="franz-joseph" key="franz-joseph" role="recipient">Franz Joseph</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1857-09-09">9. September 1857</date>
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1857-09-09">9. September 1857</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -47,7 +46,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -86,13 +85,13 @@
                     Feststellung ihres inneren Organismus und der Schutz für dessen Bestand giebt
                     ihnen genügende Garantien eines ruhigen Fortbestandes und einer ungetrübten
                     Entwicklung".<lb/>Unter solchen Verheißungen schien auch für unsere Kirche in
-                        <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</region> ein neuer Morgen anbrechen
+                        <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> ein neuer Morgen anbrechen
                     zu wollen und wahrlich sie bedurfte der erhebenden Hoffnung auf eine bessere
                     Zukunft, nachdem sie und ihre Bekenner so lange unter dem Drucke ungünstiger
                     Verhältnisse gelitten haben und, wir müssen es trauernd beklagen, noch
                     fortwährend leiden. Denn obwohl das Landesgesetz Artikel 60 vom Jahre 1791 die
                     Religio orientalis graeci ritus non unita staatsrechtlich anerkannt hat, scheint
-                    man, wie viele Erlässe zeigen, in höheren Kreisen unsere Kirche in <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</region> in den Willkürzustand der bloßen
+                    man, wie viele Erlässe zeigen, in höheren Kreisen unsere Kirche in <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> in den Willkürzustand der bloßen
                     Duldung zurückzudrängen und sie erst recht unter die Vormundschaft der
                     politischen Behörden stellen zu wollen.<lb/>Zahlreiche Bitten, die wir an das
                     hohe <orgName key="ministerium-fuer-kultus-und-unterricht">k.k. Ministerium für
@@ -105,8 +104,8 @@
                     der eigensten Gnadenfülle der erlauchten Monarchen und in letzter Zeit Euer
                     kaiserlichen königlichen Majestät zu verdanken. Allerhöchstwelche das Bisthum
                     mit einem Gnadengeschenk zum Wiederaufbau der zerstörten Kirchen zu betheiligen,
-                    in dem kaiserlichen Grundentlastungspatent für <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</region> auf unsere Seelsorger und Schullehrer väterlichen
-                    Bedacht zu nehmen und durch Allergnädigste Ernennung eines <persName key="vaszits-paul">Schulrathes</persName> gr. orientalischer Religion unser
+                    in dem kaiserlichen Grundentlastungspatent für <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> auf unsere Seelsorger und Schullehrer väterlichen
+                    Bedacht zu nehmen und durch Allergnädigste Ernennung eines <rs type="person" ref="vaszits-paul" key="vaszits-paul">Schulrathes</rs> gr. orientalischer Religion unser
                     verkümmertes Schulwesen zu fördern geruhten.<lb/>Darum hat denn auch, als von
                     den höheren Regierungsorganen keine Hilfe zu erwarten war, der
                     allerunterthänigst gefertigte Bischof zu Allerhöchst Euer Majestät seine
@@ -139,7 +138,7 @@
                     den Stufen des geheiligten Thrones in tiefster Ehrfurcht die Bitte
                     niederzulegen.<lb/>Geruhen Allerhöchst Euer Majestät in allergnädigster
                     Würdigung des unterm 1. Dezember 1855 unterbreiteten Bittgesuchs unserer Kirche
-                    in <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</region> jene Rechte und Lage
+                    in <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> jene Rechte und Lage
                     theilhaftig zu machen, welche die anderen christlichen Kirchen im Lande genießen
                     und ihre tiefbekümmerten Bekenner mit dem belebenden Sonnenstrahle der
                     kaiserlichen Huld und Gnade zu beglücken.<lb/>Der ich in tiefster Ehrfurcht und

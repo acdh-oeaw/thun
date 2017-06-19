@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="bayer-johann" role="sender:gelehrter">Johann Bayer</persName>
+                    <rs type="person" ref="bayer-johann" key="bayer-johann" role="sender:gelehrter">Johann Bayer</rs>
                     an einen Ministerialrat im Ministerium für Kultus und Unterricht<lb/>
-                    <placeName key="hermannstadt" ref="#place_6244fbb7edb0da394fbfed3800b4c36d">Hermannstadt</placeName>, <date when="1853-03-28">28.
+                    <rs type="place" subtype="place" key="hermannstadt" ref="#place_6244fbb7edb0da394fbfed3800b4c36d">Hermannstadt</rs>, <date when="1853-03-28">28.
                         März 1853</date>
                 </title>
             </titleStmt>
@@ -48,7 +47,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -61,13 +60,13 @@
                 <p>Hochverehrtester Herr Ministerialrath!</p>
                 <p>Ich muß leider wieder mit einer Klage kommen, aber ich weiß auch, welchen regen
                     Antheil Euer Hochwohlgeboren an <orgName key="rechtsakademie-hermannstadt">unserer Rechtsakademie</orgName> nehmen, und deshalb kann ich nicht umhin,
-                    die ihr neuerlich drohende Gefahr zu schildern. Die <placeName key="hermannstadt" ref="#place_6244fbb7edb0da394fbfed3800b4c36d">Hermannstädter</placeName> Communität befindet sich
+                    die ihr neuerlich drohende Gefahr zu schildern. Die <rs type="place" subtype="place" key="hermannstadt" ref="#place_6244fbb7edb0da394fbfed3800b4c36d">Hermannstädter</rs> Communität befindet sich
                     nämlich in Quartierverlegenheit und denkt wie immer, wenn sie in Quartiersnoth
                     ist, an die Dislocirung der <orgName key="rechtsakademie-hermannstadt">Rechtsakademie</orgName>, obgleich diese Lehranstalt durch den
                     Miethcontract gedeckt ist. Euer Hochwohlgeboren kennen die bedauernswerthen
                     Vorgänge in dieser Beziehung, wir haben das jetzige zwar kleine, aber ganz dem
                     Bedürfnisse der <orgName key="rechtsakademie-hermannstadt">Akademie</orgName>
-                    entsprechende Lokale dem energischen Wirken des Collegen <persName key="schmidt-heinrich">Schmidt</persName> zu danken, der damals die
+                    entsprechende Lokale dem energischen Wirken des Collegen <rs type="person" ref="schmidt-heinrich" key="schmidt-heinrich">Schmidt</rs> zu danken, der damals die
                     Redaktion des Siebenbürger Boten führte und mit persönlicher Gefahr seiner
                     Freiheit die gewaltigen Hindernisse besiegte. Kaum sind wir ein Jahr im ruhigen
                     Besitze und wir sind wieder auf dem Punkte, vielleicht sogar mitten im
@@ -94,18 +93,18 @@
                     aber die jetzt gemachte Zumuthung, in Räumen vorzutragen, in welchen seit einer
                     Reihe von Jahren von typhösen Fiebern und venerischen Krankheiten behaftete
                     Militärs lebten, wäre denn doch zu stark. Wie ich glaube, wäre dem drohenden
-                    Übel am besten zu begegnen, wenn Seine Excellenz, unser hochverehrter <persName key="thun-hohenstein-leo">Herr Minister</persName>, bei einem etwaigen
-                    Zusammentreffen mit dem Gouverneur <persName key="schwarzenberg-karl">Fürsten
-                        Schwarzenberg</persName>, welcher sich gegenwärtig in
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> befindet, diesen Gegenstand zur Sprache bringen
-                    würde. Denn leider ist gerade nun der <persName key="schwarzenberg-karl">Fürst</persName> nicht anwesend und die <orgName key="rechtsakademie-hermannstadt">Akademie</orgName> daher ohne Schutz. Zwar
-                    soll der provisorische Generalprocurator von Siebenbürgen, <persName key="fueger-von-rechtborn-maximilian">Füger von Rechtborn</persName>, zum
+                    Übel am besten zu begegnen, wenn Seine Excellenz, unser hochverehrter <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Herr Minister</rs>, bei einem etwaigen
+                    Zusammentreffen mit dem Gouverneur <rs type="person" ref="schwarzenberg-karl" key="schwarzenberg-karl">Fürsten
+                        Schwarzenberg</rs>, welcher sich gegenwärtig in
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> befindet, diesen Gegenstand zur Sprache bringen
+                    würde. Denn leider ist gerade nun der <rs type="person" ref="schwarzenberg-karl" key="schwarzenberg-karl">Fürst</rs> nicht anwesend und die <orgName key="rechtsakademie-hermannstadt">Akademie</orgName> daher ohne Schutz. Zwar
+                    soll der provisorische Generalprocurator von Siebenbürgen, <rs type="person" ref="fueger-von-rechtborn-maximilian" key="fueger-von-rechtborn-maximilian">Füger von Rechtborn</rs>, zum
                     Curator derselben schon seit 3 Monaten ernannt sein und selbst das Dekret haben,
                     aber (unglaublich, aber doch wahr) das Gouvernement publicirt die Ernennung
                     nicht, weil es zur Expedition dieses Stückes noch eines Voraktes benöthigt und
-                    Hauptmann <persName key="kleinmayer">Kleinmayer</persName>, der Adjutant des
-                        <persName key="schwarzenberg-karl">Fürsten</persName>, angeblich alle
-                    Präsidialvorakten vor seiner Abreise mit dem <persName key="schwarzenberg-karl">Fürsten</persName> eingesperrt hat!!! Und so kann selbst <persName key="fueger-von-rechtborn-maximilian">Füger</persName>, welcher mit dem
+                    Hauptmann <rs type="person" ref="kleinmayer" key="kleinmayer">Kleinmayer</rs>, der Adjutant des
+                        <rs type="person" ref="schwarzenberg-karl" key="schwarzenberg-karl">Fürsten</rs>, angeblich alle
+                    Präsidialvorakten vor seiner Abreise mit dem <rs type="person" ref="schwarzenberg-karl" key="schwarzenberg-karl">Fürsten</rs> eingesperrt hat!!! Und so kann selbst <rs type="person" ref="fueger-von-rechtborn-maximilian" key="fueger-von-rechtborn-maximilian">Füger</rs>, welcher mit dem
                     besten Willen auch die Macht vereinigen würde, uns leider nicht helfen. Es ist
                     traurig, daß die Lehrer dieser Anstalt so oftmals ein förmliches Dementi der von
                     ihnen vorgetragenen Rechtsgrundsätze erfahren müssen, weil, wenn ein Chef eines
@@ -153,8 +152,8 @@
                     denselben ein competentes Urtheil umso mehr fällen kann, als ich noch vor meiner
                     Berufung hierher am Josephstädter Obergymnasium Vorträge hielt und mit der neuen
                     Organisation vollkommen vertraut bin. Ich habe die viel gepriesenen
-                    evangelischen Gymnasien zu <placeName ref="#place_5a44e6ea540f7bb98e6782b8140a4790">Kronstadt</placeName>, <placeName key="schaessburg" ref="#place_e747daf7efb52835d18bbc6bce29474a">Schäßburg</placeName>, <placeName ref="#place_d0970b9b5df953ecae8b11b698f6dd76">Mediasch</placeName> und
-                        <placeName ref="#place_f0cb899d2f50889980d12f59807d7ae0">Hermannstadt</placeName> kennengelernt, und zwar in loco, habe
+                    evangelischen Gymnasien zu <rs type="place" subtype="place" ref="#place_5a44e6ea540f7bb98e6782b8140a4790">Kronstadt</rs>, <rs type="place" subtype="place" key="schaessburg" ref="#place_e747daf7efb52835d18bbc6bce29474a">Schäßburg</rs>, <rs type="place" subtype="place" ref="#place_d0970b9b5df953ecae8b11b698f6dd76">Mediasch</rs> und
+                        <rs type="place" subtype="place" ref="#place_f0cb899d2f50889980d12f59807d7ae0">Hermannstadt</rs> kennengelernt, und zwar in loco, habe
                     aber leider die Erfahrung gemacht, daß manche der wichtigsten Wissenschaften, z.
                     B. Mathematik und Physik, sehr wenig betrieben werden, daß ferner die
                     Consistorialprüfung, welche die Stelle der Maturitätsprüfung vertritt, bei

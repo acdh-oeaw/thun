@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="hoefler-karl-adolf-constantin" role="sender:gelehrter">Constantin Höfler</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="hoefler-karl-adolf-constantin" key="hoefler-karl-adolf-constantin" role="sender:gelehrter">Constantin Höfler</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, <date when="1855-05-12">12. Mai 1855</date>
+                    <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1855-05-12">12. Mai 1855</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -55,7 +54,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -68,7 +67,7 @@
                 </index>
                 <p>Euer Excellenz!<lb/>Hochgeborener Herr Graf!<lb/>Hochgebietender gnädigster Herr
                     Minister!</p>
-                <p>Die besondere Gnade, welche Euer Excellenz dem jungen <persName key="zeithammer-anton">Zeithammer</persName> erwiesen, giebt mir den Muth,
+                <p>Die besondere Gnade, welche Euer Excellenz dem jungen <rs type="person" ref="zeithammer-anton" key="zeithammer-anton">Zeithammer</rs> erwiesen, giebt mir den Muth,
                     Hochdenselben den beifolgenden Brief des Stipendiaten vorzulegen. Ich habe ihn
                     bei seiner Abreise aufgefordert mir von Zeit zu Zeit über den Gang seiner
                     Studien zu schreiben. Es dient dieses nicht blos dazu, eine gewisse Controlle
@@ -79,28 +78,28 @@
                     Fortschritt zu orientiren. Ich anticipire eine stillschweigende Ermächtigung
                     Euer Excellenz die Briefe vorzulegen. Der erste ist offenbar unter dem Eindruke
                     der Neuheit und mit einem gewissen Enthusiasmus geschrieben, den ich sehr
-                    begreiflich und lobenswerth finde. Daß <persName key="zeithammer-anton">Zeithammer</persName> wünscht, längere Zeit in <orgName key="universitaet-berlin">Berlin</orgName> verweilen zu können, ist sehr
+                    begreiflich und lobenswerth finde. Daß <rs type="person" ref="zeithammer-anton" key="zeithammer-anton">Zeithammer</rs> wünscht, längere Zeit in <orgName key="universitaet-berlin">Berlin</orgName> verweilen zu können, ist sehr
                     natürlich; ich erlaube mir diesen Wunsch Euer Excellenz väterlichem Herzen so
                     nachdrüklich als es gestattet ist zu empfehlen.<lb/>Von dem Leben und Treiben
                     der Universität ließe sich vieles bemerken und berichten. Irre ich mich in
                     meiner großen Zurükgezogenheit nicht ganz, so nähert sich der Zeitpunkt in
-                    welchem, um <persName key="luther-martin">Luther</persName>’s Ausdruk zu
+                    welchem, um <rs type="person" ref="luther-martin" key="luther-martin">Luther</rs>’s Ausdruk zu
                     gebrauchen, die Geister aufeinander platzen. Wenn es dann nur in würdevoller und
                     der Sache angemessenen Weise geschieht und nicht in so hämischer und ungerechter
-                    wie unlängst <persName key="hanusch-ignaz">Hanusch</persName> den <persName key="wocel-johann-erasmus">Wocel</persName> zum allgemeinen Ärger in den
+                    wie unlängst <rs type="person" ref="hanusch-ignaz" key="hanusch-ignaz">Hanusch</rs> den <rs type="person" ref="wocel-johann-erasmus" key="wocel-johann-erasmus">Wocel</rs> zum allgemeinen Ärger in den
                     Blättern für Literatur und Kunst angriff. Die Studirenden, welchen keke
                     Behauptungen zu imponiren pflegen, lassen sich leicht von Angriffen dieser Art
-                    bethören, während sie den ruhigen und besonnenen Beobachter empören. <persName key="hanusch-ignaz">Hanusch</persName> hätte, um seinen ohnehin nicht großen
+                    bethören, während sie den ruhigen und besonnenen Beobachter empören. <rs type="person" ref="hanusch-ignaz" key="hanusch-ignaz">Hanusch</rs> hätte, um seinen ohnehin nicht großen
                     moralischen und scientifischen Credit völlig zu ruiniren, nichts Geeigneteres
                     thun können! Das germanische Recht scheint unter den Juristen Boden zu gewinnen.
-                    Die Vorträge des <persName key="schulte-friedrich">Prof. Schulte</persName>
+                    Die Vorträge des <rs type="person" ref="schulte-friedrich" key="schulte-friedrich">Prof. Schulte</rs>
                     finden Beifall und ich zweifle nicht, daß er, weil ihm die Vergleichung des
                     kanonischen und römischen Rechtes hiebei sehr zu statten kommt, den juridischen
                     Theil der deutschen Reichs- und Rechtsgeschichte allmählich so tüchtig behandeln
                     wird wie ein eigentlicher Germanist, vielleicht auch noch tüchtiger, da diesen
                     die Kenntnis des römischen und kanonischen Rechtes zu fehlen pflegt.<lb/>Von
-                    meinen Specialcollegen bereitet <persName key="zimmermann-robert">Zimmermann</persName> seine Vorträge über Literatur, welche er mit
-                    verdientem Beifalle vor einem Damenkreise gehalten, zum Druke vor; <persName key="loewe-johann-heinrich">Löwe</persName>, welcher jetzt eine sehr große
+                    meinen Specialcollegen bereitet <rs type="person" ref="zimmermann-robert" key="zimmermann-robert">Zimmermann</rs> seine Vorträge über Literatur, welche er mit
+                    verdientem Beifalle vor einem Damenkreise gehalten, zum Druke vor; <rs type="person" ref="loewe-johann-heinrich" key="loewe-johann-heinrich">Löwe</rs>, welcher jetzt eine sehr große
                     Anzahl von Zuhörern hat, ein größeres wissenschaftliches Werk in 3 Theilen,
                     dessen Verlag Manz in Regensburg übernahm. Es ist fast unbegreiflich, woher der
                     Mann die Arbeitskraft zu ziehen vermag, da er von häuslichen Sorgen fast zu
@@ -109,7 +108,7 @@
                     Sorgen gesellt sich noch häusliches Unglük, da sein jüngstes Kind den einen Fuß
                     nachschleift und einer eigenen Pflege bedarf. Darf ich von meinen geringen
                     Leistungen sprechen, so schreitet die Sammlung der Fontes rerum Husiticarum so
-                    rasch voran als man in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> drukt. Die Sache selbst
+                    rasch voran als man in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> drukt. Die Sache selbst
                     dürfte für die böhmische und allgemeine Geschichte von vielfacher Bedeutung
                     werden. Welche Mühe aber damit verbunden ist, können Euer Excellenz daraus
                     ersehen, daß z.B. bei ein und derselben wichtigen Urkunde Prager, Münchner,
@@ -123,7 +122,7 @@
                         Revolution bis zu ihrem vollständigen Siege, Regensburg 1856.</note> ist bis
                     auf die letzten Paragraphen vollendet.<lb/>In Betreff der deutschen
                     Literaturgeschichte gehe ich von dem Standpunkte aus, welcher immer mehr Anklang
-                    findet, daß dieselbe mit einer Geschichte der Poesie, wie es früher <persName key="gervinus-georg">Gervinus</persName> that, nicht identificirt werden
+                    findet, daß dieselbe mit einer Geschichte der Poesie, wie es früher <rs type="person" ref="gervinus-georg" key="gervinus-georg">Gervinus</rs> that, nicht identificirt werden
                     dürfe. Ich habe jetzt meine Collegien über Literaturgeschichte so organisirt,
                     daß ich in dem Wintersemester immer die deutsche Literaturgeschichte im
                     Allgemeinen lesen werde, im Sommer aber ein Specialcollegium, z.B. Literatur des
@@ -139,13 +138,13 @@
                     festgehalten werden. Ich wundere mich daher, daß von denjenigen, welche in
                     unsere Vorlesungen zeitweise hereinkommen, um Stoff für Zeitungsartikel zu
                     holen, meiner Vorträge bisher noch immer günstig gedacht wurde. Wie mir gestern
-                        <persName key="zimmermann-joseph-andreas">Zimmermann</persName> sagte, so
+                        <rs type="person" ref="zimmermann-joseph-andreas" key="zimmermann-joseph-andreas">Zimmermann</rs> sagte, so
                     häufen sich diese Correspondenzen, als deren Autor der Israelit
-                        <persName>Bisling</persName> bezeichnet wird, den die Maturitätsprüfung
+                        <rs type="person" ref="">Bisling</rs> bezeichnet wird, den die Maturitätsprüfung
                     abgeworfen hat; sie tragen auch alle jenes Gepräge, welches ein
                     Correspondenzartikel der Augsburger Allgemeinen Zeitung vor längerer Zeit an
                     sich trug. Dieser ging wie jene von dem verkehrten Satze aus, daß die Professur
-                    der deutschen Sprache noch nicht besetzt sei und gab dann <persName key="schleicher-august">Prof. Schleicher</persName> und mir den Rath, unser
+                    der deutschen Sprache noch nicht besetzt sei und gab dann <rs type="person" ref="schleicher-august" key="schleicher-august">Prof. Schleicher</rs> und mir den Rath, unser
                     Provisorium aufzugeben und einem nicht näher bezeichneten, aber von dem
                     Correspondenten in petto gehaltenen den Platz zu räumen. Täusche ich mich hiebei
                     nicht vollkommen, so ist dieser Quidam ein und dieselbe Person mit einem
@@ -155,14 +154,14 @@
                     Büchertiteln und eine ebenso große Unkenntnis ihres näheren Inhaltes besitzt,
                     debutirte hier damit, daß er in meiner und einiger anderer Collegen Anwesenheit
                     sich über die Seichtigkeit der Vorträge meines verehrten Freundes, Hofrat
-                        <persName key="phillips-george">Phillips</persName> ausließ, dessen
+                        <rs type="person" ref="phillips-george" key="phillips-george">Phillips</rs> ausließ, dessen
                     Collegium er drei Male besucht hatte. Natürlich sind wir nach dieser
                     bescheidenen Beurtheilung eines Mannes von ausgezeichneten Verdiensten zu nichts
                     Anderem da, als durch einen jungen Mann so rasch wie möglich ersetzt zu werden,
                     der zwar jetzt noch bei Erwähnung lateinischer Worte wirklichen Lateinern durch
                     seine Prosodie die Ohren zerreißt, um so mehr aber sich berufen fühlt, im
-                    Lehrstuhl der deutschen Sprache <persName key="schleicher-august">Schleicher</persName>, in dem der Geschichte mich und zuletzt wohl auch
-                        <persName key="zimmermann-robert">Zimmermann</persName> in dem der
+                    Lehrstuhl der deutschen Sprache <rs type="person" ref="schleicher-august" key="schleicher-august">Schleicher</rs>, in dem der Geschichte mich und zuletzt wohl auch
+                        <rs type="person" ref="zimmermann-robert" key="zimmermann-robert">Zimmermann</rs> in dem der
                     Philosophie abzulösen. Denn auch dieser hat so wenig wie ich die Ehre diesem
                     neuen Criticus zu gefallen.<lb/>Ich zögere Euer Excellenz mit solchen Dingen zu
                     behelligen; allein da es sich hier um eine weitangelegte Intrigue zu handeln
@@ -194,7 +193,7 @@
                         eingerichtet, die nöthigen Gänge gemacht, ehe ich gelernt, mich in die
                         hiesigen Verhältnisse einzuleben – und nun fühle ich mich schon ziemlich
                         heimisch und frisch und gekräftigt, mich ganz den Arbeiten und Studien
-                        hinzugeben, um deren willen ich <placeName ref="#place_ee1611b61f5688e70c12b40684dbb395">Berlin</placeName> aufgesucht.
+                        hinzugeben, um deren willen ich <rs type="place" subtype="place" ref="#place_ee1611b61f5688e70c12b40684dbb395">Berlin</rs> aufgesucht.
                         Und es ist wahrhaft geboten, rathlos und mit Aufwand eines unermüdeten
                         Fleißes die Zeit zu benützen, ja mit ihr zu geizen, um nur annähernd das
                         Ziel zu erreichen, welches ich in voller Überlegung mir selbst gesetzt, um
@@ -209,7 +208,7 @@
                         mir zugemessenen kurzen Zeit erfüllen können? Wir haben wol manches von
                         geographischer Literatur daheim, das mir zum Theile noch fremd ist, und ich
                         suche, dieses noch für eine spätere Zeit zurücklegend, hier den größern in
-                            <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> nicht vorhandnen Theil durchzumachen, aber
+                            <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> nicht vorhandnen Theil durchzumachen, aber
                         welche Masse ist selbst dann noch zu überwinden! Zumal ich nebstbei die
                         Collegien nicht verabsaume, die ich meinem Plane gemäß gewählt. Zum Glück
                         füllen diese meist nur die Vormittagstunden, so daß mir Nachmittag, Abend
@@ -219,12 +218,12 @@
                         die Benützung wissenschaftlicher Zeitschriften, die wol in einem eignen
                         Journalzimmer der königlichen Bibliothek aufliegen, dessen Besuch aber
                         statutenmäßig nur Mitgliedern des Universitätslehrkörpers gestattet ist;
-                        doch versprach Herr <persName key="curtius-ernst">Prof. Curtius</persName>,
+                        doch versprach Herr <rs type="person" ref="curtius-ernst" key="curtius-ernst">Prof. Curtius</rs>,
                         mir womöglich die Erlaubnis zum Besuche auszuwirken. Es ist mir überhaupt
                         ungemein lieb, in so aufmerksamer und zuvorkommender Weise von Herrn
-                            <persName key="curtius-ernst">Curtius</persName> behandelt zu werden; er
+                            <rs type="person" ref="curtius-ernst" key="curtius-ernst">Curtius</rs> behandelt zu werden; er
                         geht mir mit manchem Rathe zur Hand, und führte mich jüngst in die
-                        geographische Gesellschaft ein, deren Präsident <persName key="ritter-carl">Ritter</persName> selbst ist, und in deren Sitzungen wissenschaftliche
+                        geographische Gesellschaft ein, deren Präsident <rs type="person" ref="ritter-carl" key="ritter-carl">Ritter</rs> selbst ist, und in deren Sitzungen wissenschaftliche
                         Vorträge gehalten werden, die zumeist die neusten Forschungen auf dem Gebiet
                         der allgemeinen Erdkunde zum Gegenstand haben. Für die Gesellschaft besteht
                         hier, wie für geographische Studien und Forschungen überhaupt, in weiten
@@ -238,12 +237,12 @@
                         stiefmütterlich behandelt wurde. Doch wozu spreche ich davon? Sind das doch
                         Thatsachen, die Herr Professor so gut kennen, wie ich; Thatsachen, die eines
                         Interpreten nicht bedürfen.<lb/>Die Collegien, die ich besuche, sind:
-                        Geographie von Europa bei <persName key="ritter-carl">Ritter</persName>;
-                        Geographie von Afrika bei Müller; physicalische Geographie bei <persName key="poggendorff-johann-christian">Poggendorff</persName>; Hydrographie
-                        bei <persName key="dove-heinrich-wilhelm">Dove</persName>;
+                        Geographie von Europa bei <rs type="person" ref="ritter-carl" key="ritter-carl">Ritter</rs>;
+                        Geographie von Afrika bei Müller; physicalische Geographie bei <rs type="person" ref="poggendorff-johann-christian" key="poggendorff-johann-christian">Poggendorff</rs>; Hydrographie
+                        bei <rs type="person" ref="dove-heinrich-wilhelm" key="dove-heinrich-wilhelm">Dove</rs>;
                         Pflanzengeographie bei Koch; dann Geschichte des Alterthums bei Curtius, von
                         dem das geographische Element nicht vernachläßigt wird. Daß vor allen die
-                        Vorlesungen <persName key="ritter-carl">Ritters</persName> das größte
+                        Vorlesungen <rs type="person" ref="ritter-carl" key="ritter-carl">Ritters</rs> das größte
                         Interesse und die anregendste Belehrung gewähren, ist selbstverständlich; es
                         ist eigen, wie unter seinen Händen das Material sich gestaltet, mit welcher
                         staunenswerten Sicherheit er den Stoff beherrscht, in welcher wahrhaft
@@ -252,26 +251,26 @@
                         die treffenden Vergleichungen, die ihm eigen sind, die allgemeine Übersicht
                         und Charakteristik um nichts hätte ich diese ersten Vorträge versäumen
                         mögen. Wie freue ich mich auf das persönliche Zusammentreffen mit diesem
-                        Manne; <persName key="curtius-ernst">Prof. Curtius </persName>versprach,
-                        mich nächstens bei ihm einzuführen. <persName key="mueller-georg-friedrich">Prof. Müller</persName> habe ich bereits kennen lernen; auch er bot mir
+                        Manne; <rs type="person" ref="curtius-ernst" key="curtius-ernst">Prof. Curtius </rs>versprach,
+                        mich nächstens bei ihm einzuführen. <rs type="person" ref="mueller-georg-friedrich" key="mueller-georg-friedrich">Prof. Müller</rs> habe ich bereits kennen lernen; auch er bot mir
                         freundlich Rath und Beistand an; sein Privatcollegium über Asien kam nicht
                         zu Stande, wie denn überhaupt seine Vorlesungen nicht die besuchtesten zu
                         sein pflegen; er ist ein Schüler Ritter’s, verhält sich meist receptiv, doch
                         sind seine Vorträge nicht uninteressant. Niemand dürfte aber seinem
-                        Zuhörerkreis so imponiren, wie <persName key="dove-heinrich-wilhelm">Dove</persName>; mit solcher Sicherheit und Entschiedenheit tritt er
+                        Zuhörerkreis so imponiren, wie <rs type="person" ref="dove-heinrich-wilhelm" key="dove-heinrich-wilhelm">Dove</rs>; mit solcher Sicherheit und Entschiedenheit tritt er
                         auf, mit so kecken und frischen Worten weiß er entgegengesetzte Ansichten
                         anzugreifen und, ich möchte sagen, umzurennen, und dabei bringt er aus
                         seinem Fond von Wissen und Erfahrung eine solche Fülle vor, daß er auf das
-                        überzeugendste und eindringlichste seinen Lehren Eingang bereitet. <persName key="waagen-gustav-friedrich">Waagen</persName> liest nicht.<lb/>Herr
+                        überzeugendste und eindringlichste seinen Lehren Eingang bereitet. <rs type="person" ref="waagen-gustav-friedrich" key="waagen-gustav-friedrich">Waagen</rs> liest nicht.<lb/>Herr
                         Professor sehen, wie anregend der Aufenthalt in
-                            <placeName ref="#place_ee1611b61f5688e70c12b40684dbb395">Berlin</placeName> auf mich wirkt, und nur das bedaure ich,
+                            <rs type="place" subtype="place" ref="#place_ee1611b61f5688e70c12b40684dbb395">Berlin</rs> auf mich wirkt, und nur das bedaure ich,
                         daß die Zeit so schnell verfließen wird, die mir hierzublieben vergönnt ist.
                         Wie sehr lieb wäre mir, auch den Winter hier zubringen und bei größrer Muße
                         meinen Studien mich widmen zu können. Wie glücklich würde ich sein, dereinst
                         mein Scharflein mit beitragen zu können zur Verbreitung und Erweiterung
-                        geographischer Wissenschaft in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country>; Gott gebe mir den Muth und die Kraft, auf diesem
+                        geographischer Wissenschaft in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>; Gott gebe mir den Muth und die Kraft, auf diesem
                         so unabsehbar weiten, bei uns so wenig bebauten Felde thätig und wirksam zu
-                        sein!<lb/>Von <persName key="heising-albert">D. Heising</persName> habe ich
+                        sein!<lb/>Von <rs type="person" ref="heising-albert" key="heising-albert">D. Heising</rs> habe ich
                         Empfehlungen zu melden; er läßt sagen, daß er von den Schriften des Herrn
                         Professors nichts erhalten, bittet daher, ihm einige Exemplare zu schicken,
                         um selbe, wie erwünscht zu benützen. Der Druck der böhmischen

@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="schwarzenberg-felix" role="sender:beamter">Felix
-                        Schwarzenberg</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="schwarzenberg-felix" key="schwarzenberg-felix" role="sender:beamter">Felix
+                        Schwarzenberg</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1850-06-05">5. Juni
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1850-06-05">5. Juni
                     1850</date>
                 </title>
             </titleStmt>
@@ -47,16 +46,16 @@
                     </msContents>
                     <physDesc>
                         <p>Beilage: <ref target="#D53_1">
-                                <persName key="gruener-joseph">Joseph
-                                    Grüner</persName> an <persName key="schwarzenberg-felix">Felix
-                                    Schwarzenberg</persName>. <placeName ref="#place_4a887b8a68acf9b04d9d027bddedb06b">Leipzig</placeName>, <date when="1850-05-30">30. Mai 1850</date>
+                                <rs type="person" ref="gruener-joseph" key="gruener-joseph">Joseph
+                                    Grüner</rs> an <rs type="person" ref="schwarzenberg-felix" key="schwarzenberg-felix">Felix
+                                    Schwarzenberg</rs>. <rs type="place" subtype="place" ref="#place_4a887b8a68acf9b04d9d027bddedb06b">Leipzig</rs>, <date when="1850-05-30">30. Mai 1850</date>
                             </ref>. Darin enthalten ist
                             ein Bericht Grüners zum Deutschkatholizismus.</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -65,10 +64,10 @@
                     <term>Kultus</term>
                     <term>Deutschkatholiken</term>
                 </index>
-                <p>Der <persName key="gruener-joseph">kaiserliche Consul</persName> in
-                        <placeName ref="#place_4a887b8a68acf9b04d9d027bddedb06b">Leipzig</placeName> hat mit dem <ref target="#D53_1">angeschlossenen Bericht vom 30. vorigen Monats 57.B.</ref> aus Anlaß der in
+                <p>Der <rs type="person" ref="gruener-joseph" key="gruener-joseph">kaiserliche Consul</rs> in
+                        <rs type="place" subtype="place" ref="#place_4a887b8a68acf9b04d9d027bddedb06b">Leipzig</rs> hat mit dem <ref target="#D53_1">angeschlossenen Bericht vom 30. vorigen Monats 57.B.</ref> aus Anlaß der in
                     den öffentlichen Blättern verbreiteten Nachricht über die von der sogenannten
-                    „freichristlichen Gemeinde“ in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> an das <orgName key="ministerium-fuer-kultus-und-unterricht">kaiserliche Cultusministerium
+                    „freichristlichen Gemeinde“ in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> an das <orgName key="ministerium-fuer-kultus-und-unterricht">kaiserliche Cultusministerium
                     </orgName>überreichte Eingabe, womit sie um sofortige Anerkennung als
                     Religionsgenossenschaft gebeten hat, den hier zuliegenden Aufsatz zur Aufnahme
                     in eine österreichische Zeitung hieher gesendet.<lb/>Indem ich die
@@ -84,7 +83,7 @@
                     <p>Durchlauchtig Hochgeborener Fürst,</p>
                     <p>Euerer Durchlaucht erlaube ich mir einen, aus Anlaß der in den öffentlichen
                         Blättern verbreiteten Nachricht über die von der sogenannten
-                        „freichristlichen Gemeinde“ in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> an das <orgName key="ministerium-fuer-kultus-und-unterricht">k.k. Ministerium des Cultus
+                        „freichristlichen Gemeinde“ in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> an das <orgName key="ministerium-fuer-kultus-und-unterricht">k.k. Ministerium des Cultus
                             und Unterrichtes</orgName> überreichten Eingabe, womit sie um sofortige
                         Anerkennung als Religionsgenossenschaft das Ansuchen gestellt haben sollen,
                         verfaßten Aufsatz, mit der ehrfurchtsvollen Bitte vorzulegen, wegen dessen
@@ -92,7 +91,7 @@
                         treffen zu wollen.<lb/>Genehmigen Euere Durchlaucht die Versicherung meiner
                         tiefen Ehrfurcht.<lb/>Grüner</p>
                     <p>Die „Deutsche Allgemeine Zeitung“ vom 27. Mai enthält Folgendes aus
-                            <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>:<lb/>„Die hiesige <hi rend="ul">freichristliche</hi> (deutschkatholische) Gemeinde hat dem <orgName key="ministerium-fuer-kultus-und-unterricht">Ministerium des Cultus und
+                            <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>:<lb/>„Die hiesige <hi rend="ul">freichristliche</hi> (deutschkatholische) Gemeinde hat dem <orgName key="ministerium-fuer-kultus-und-unterricht">Ministerium des Cultus und
                             Unterrichtes</orgName> eine Eingabe sammt den eigenhändigen
                         Namensunterschriften ihrer Mitglieder überreicht. Sie <hi rend="ul">fordert</hi> darin ihre <hi rend="ul">sofortige Anerkennung als
                             Religionsgenossenschaft</hi>, da man ihr nicht zumuthen könne, daß sie
@@ -104,7 +103,7 @@
                         Bewilligung zur öffentlichen Ausübung ihres Cultus sowie die in den
                         Grundrechten den gesetzlich anerkannten Religionsgenossenschaften vor
                         anderen Vereinen eingeräumte bevorzugte Stellung auch den freichristlichen
-                        Gemeinden in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> durch provisorische Verfügung
+                        Gemeinden in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> durch provisorische Verfügung
                         sofort werde ertheilt werden.“<lb/>Abgesehen von dem wenig ehrerbietigem
                         Drängen der Mitglieder der Gemeinde, die sich die freichristliche nennt, auf
                             <hi rend="ul">sofortige Anerkennung als Religionsgesellschaft</hi>
@@ -135,7 +134,7 @@
                         freichristlichen Gemeinde nicht fehlen. Allerdings finden sie in den
                         Volksschulen <hi rend="ul">ihren</hi> Religionsunterricht nicht, diesen
                         findet aber auch der Katholik in Ortschaften, wo, wie in
-                            <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country>, so häufig die Meistzahl der Bevölkerung sich
+                            <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, so häufig die Meistzahl der Bevölkerung sich
                         zum Lutherthum oder Clavinismus bekennt, in den Volksschulen nicht. Wie das
                         „Gewissen“ der freichristlichen Gemeinde „gehemmt“ werden soll, ist
                         schlechterdings nicht einzusehen, da § 1 der Grundrechte „volle
@@ -185,7 +184,7 @@
                         ein neues Bekenntnis, das, ganz abstract genommen, nicht staatsgefährlich
                         ist, könnte es sehr leicht werden, wenn diese Rücksicht unbeachtet gelassen
                         wird.<lb/>Ob die Deutschkatholiken, die sich in
-                            <country ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</country> freichristliche Gemeinde nennen, daselbst
+                            <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs> freichristliche Gemeinde nennen, daselbst
                         in jener Anzahl, welche caeteris paribus die Anerkennung räthlich machen
                         würde, vorhanden sind, vermag ich, da mir die Data fehlen, nicht zu
                         entscheiden, glaube aber an eine so große Anzahl nicht.<lb/>Ob die
@@ -207,17 +206,17 @@
                         eine Carikatur auf die christliche Kirche und ihr Bekenntnis ist das des
                         vollständigsten christlichen Nihilismus.<lb/>Es entsteht weiter die Frage,
                         ob die Deutschkatholiken oder freichristliche Gemeinde, wie sie sich in
-                            <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> nennen, nicht per contingens
+                            <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> nennen, nicht per contingens
                         staatsgefährlich sind? Ich glaube, daß diese Frage bejaht werden muß. Das
                         Entstehen des Deutschkatholicismus ist erwiesener Maaßen im Radicalismus
                         begründet und die scheinbar religiöse Bewegung diente nur zur Verhüllung der
                         politischen, wie dies in der vollen Revolutionszeit des Jahres 1848 von den
-                        Koryphäen dieser Partei, namentlich von dem berüchtigten <persName key="dowiat-rudolf">Dowiat</persName>, offen eingestanden worden ist.
-                        Ein <persName key="blum-robert">Blum</persName>, der wüthende Vertheidiger
+                        Koryphäen dieser Partei, namentlich von dem berüchtigten <rs type="person" ref="dowiat-rudolf" key="dowiat-rudolf">Dowiat</rs>, offen eingestanden worden ist.
+                        Ein <rs type="person" ref="blum-robert" key="blum-robert">Blum</rs>, der wüthende Vertheidiger
                         der Pöbelherrschaft, ist einer ihrer Choragen gewesen. Noch fortwährend
                         gehören die Häupter des Deutschkatholicismus der revolutionären Partei an.
-                        Sie haben sich jetzt zu <placeName ref="#place_4a887b8a68acf9b04d9d027bddedb06b">Leipzig</placeName> und schließlich zu
-                            <placeName key="koethen" ref="#place_96ae10139a015ea4ac2665f6eeb506e3">Köthen</placeName> enge geeinigt mit den aus
+                        Sie haben sich jetzt zu <rs type="place" subtype="place" ref="#place_4a887b8a68acf9b04d9d027bddedb06b">Leipzig</rs> und schließlich zu
+                            <rs type="place" subtype="place" key="koethen" ref="#place_96ae10139a015ea4ac2665f6eeb506e3">Köthen</rs> enge geeinigt mit den aus
                         dem Protestantismus hervorgegangenen freien Gemeinden, welche, wie Niemandem
                         verborgen ist, nur revolutionäre Brutöfen sind. Offen kann man nicht
                         conspiriren, wie 1848 und 1849, und so flüchtet man sich wie 1845 wieder
@@ -231,7 +230,7 @@
                             zweite Person der allerheiligsten Dreieinigkeit</hi>, als der
                         gleichwesentliche und gleichewige Sohn des allmächtigen Vaters, als das
                         Fleisch gewordene Wort, als Erlöser, als Überwinder des Todes und der Hölle.
-                            <hi rend="ul">Das</hi> ist allen in <country ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</country>
+                            <hi rend="ul">Das</hi> ist allen in <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs>
                         anerkannten christlichen Religionsgesellschaften gemein; wie immer auch der
                         Glaube der Lutheraner und Calvinisten durch Rationalismus abgeschwächt
                         worden ist, es <hi rend="ul">steht</hi> in ihrem Symbolum. Es würde also
@@ -239,7 +238,7 @@
                         helvetischen und augsburgischen Confession gleichstellen wollte, denn ihr
                         Bekenntnis enthält nicht den Glauben an Jesus als an <hi rend="ul">den
                             Christus</hi>, das menschgewordene Wort, den Logos, <hi rend="ul">folglich sind sie keine Christen</hi>. Man denke in
-                            <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> Versammlungshäuser der Deutschkatholiken
+                            <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> Versammlungshäuser der Deutschkatholiken
                         geöffnet, in denen von Christus als von einem bloßen Menschen gepredigt
                         wird! Welche Welt böser Folgen könnte, würde <hi rend="ul">daran</hi> sich
                         knüpfen!<lb/>Es wird also den freichristlichen Gemeinden die Anerkennung als

@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="hoefler-karl-adolf-constantin" role="sender:gelehrter">Constantin Höfler</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="hoefler-karl-adolf-constantin" key="hoefler-karl-adolf-constantin" role="sender:gelehrter">Constantin Höfler</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, <date when="1857-06-05">5. Juni 1857</date>
+                    <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1857-06-05">5. Juni 1857</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -54,7 +53,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -67,7 +66,7 @@
                 </index>
                 <p>Euer Excellenz!</p>
                 <p>Ich hielt es für meine Pflicht, das erste Exemplar meiner am 28. vorigen Monats
-                    in der akademischen Aula in Gegenwart Seiner Eminenz des <persName key="schwarzenberg-friedrich">Herrn Universitätskanzlers</persName>
+                    in der akademischen Aula in Gegenwart Seiner Eminenz des <rs type="person" ref="schwarzenberg-friedrich" key="schwarzenberg-friedrich">Herrn Universitätskanzlers</rs>
                     gehaltenen Rede<note xml:id="note_1">Vgl. <ref target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10447669-8">Constantin Höfler, Die philosophische Fakultät, ihre Stellung zur
                             Wissenschaft und zum Staate. Eine Rede, gehalten in der akademischen
                             Aula der Carolo-Ferdinanda bei Gelegenheit der ersten Verkündigung von
@@ -75,9 +74,9 @@
                         1857</ref>.</note> samt den Thematen der Preisaufgaben Eurer Excellenz
                     zuzusenden, so daß sie meiner Berechnung nach zur selben Stunde, in welcher sie
                     gehalten wurde, 12 Uhr, sich in den Händen Eurer Excellenz befinden sollte. Da
-                    mir aber Herr Dr. <persName key="nowak-august">Nowak</persName> meldete, sie sei
+                    mir aber Herr Dr. <rs type="person" ref="nowak-august" key="nowak-august">Nowak</rs> meldete, sie sei
                     unbegreiflicher Weise nicht Eurer Excellenz zu Handen gekommen, während ich sie
-                    doch selbst auf die Post trug und in Gegenwart des <persName key="gindely-anton">Dr. Gindely</persName> in den Kasten legte, so beeile ich mich Eurer
+                    doch selbst auf die Post trug und in Gegenwart des <rs type="person" ref="gindely-anton" key="gindely-anton">Dr. Gindely</rs> in den Kasten legte, so beeile ich mich Eurer
                     Excellenz ein anderes Exemplar zu Füßen zu legen. Ich würde mich sehr glücklich
                     fühlen, wenn Euer Excellenz es lesen wollten. Nach Allem, was mir von den
                     verschiedensten Seiten gesagt wurde, ist der Gegensatz zwischen dem Alten und
@@ -94,44 +93,44 @@
                     beherziget und eben deshalb mich entschieden gegen eine derartige Auffassung
                     ausgesprochen. Die philosophische Preisaufgabe ist mit bestimmter Rücksicht auf
                     die Philologen, die historische mit gleicher Beziehung auf die cand. juris
-                    gegeben und berührt die Zeit, in welcher <region ref="#place_1a477f0b4ff0e44372369bbd196cb38a">Böhmen</region> die Verwirrung
+                    gegeben und berührt die Zeit, in welcher <rs type="place" subtype="region" ref="#place_1a477f0b4ff0e44372369bbd196cb38a">Böhmen</rs> die Verwirrung
                     im deutschen Reiche klug benützend, sich aus der Zersplitterung zu staatlicher
                     Einheit, aus dem Verfalle zu so großem Ansehen emporarbeitete, daß die Wendung
-                    der europäischen Politik durch die Erhebung <persName key="friedrich-II">Friedrichs II.</persName> von einem Könige Siciliens auf den deutschen
-                    Thron von <persName key="ottokar-I-premysl">Otokar I.</persName> ausging. Gebe
-                    Gott zum Ganzen seinen Segen!<lb/>Der Engländer <persName key="raby-richard">Raby</persName> aus <placeName ref="#place_d0a6343a081a7335baa965ce4fd0845c">München</placeName>, welcher in diesen Tagen
+                    der europäischen Politik durch die Erhebung <rs type="person" ref="friedrich-II" key="friedrich-II">Friedrichs II.</rs> von einem Könige Siciliens auf den deutschen
+                    Thron von <rs type="person" ref="ottokar-I-premysl" key="ottokar-I-premysl">Otokar I.</rs> ausging. Gebe
+                    Gott zum Ganzen seinen Segen!<lb/>Der Engländer <rs type="person" ref="raby-richard" key="raby-richard">Raby</rs> aus <rs type="place" subtype="place" ref="#place_d0a6343a081a7335baa965ce4fd0845c">München</rs>, welcher in diesen Tagen
                     hier war, ist wie ich eben hörte, vom Verwaltungsrath der Handelsschule zum
                     Lehrer der englischen Sprache designirt. Ich führte ihn zu dem Herrn
                     Generalgroßmeister, welcher ihm für den Fall, daß Euer Excellenz den
                     Organisationsplan der <orgName key="polytechnisches-institut-prag">polytechnischen Schule</orgName>, wobei ein englischer Lehrer mit 600 fl
                     ein Religionslehrer, Prediger und zugleich Professor der Philosophie mit 1600 fl
                     beantragt sind, bekräftigen sollten, seine Stimme zu der erstgenannten cattedra
-                    versprach. Dasselbe hat so viel ich weiß auch <persName>Dr. Walter</persName>
-                    gethan. Endlich liegt von <persName key="raby-richard">Herrn Raby</persName>
+                    versprach. Dasselbe hat so viel ich weiß auch <rs type="person" ref="">Dr. Walter</rs>
+                    gethan. Endlich liegt von <rs type="person" ref="raby-richard" key="raby-richard">Herrn Raby</rs>
                     auch eine Eingabe an das philosophische Professorencollegium um eine
-                    Lectorstelle der englischen Sprache und Literatur vor. <persName key="ricard-anselme">Mr. Ricard</persName>, Professor der französischen
+                    Lectorstelle der englischen Sprache und Literatur vor. <rs type="person" ref="ricard-anselme" key="ricard-anselme">Mr. Ricard</rs>, Professor der französischen
                     Sprache und Literatur an der Handelsschule, hat mir heute ein Gesuch um eine
                     Privatdocentur für französische Sprache und Literatur an unserer Facultät
                     gebracht. Er spricht vortrefflich, hat ein sehr angenehmes Äußeres und scheint
                     ein Mann von vieler Bildung zu sein. Ich darf vielleicht bei dieser Gelegenheit
                     hinzufügen, daß die Sache seiner Ernennung als Privatdocent mit Sehnsucht
-                    entgegensieht – daß in <placeName ref="#place_2a355a5b0521435f8248f11b12db208a">Bamberg</placeName> ein Professor der
-                    Philosophie, namens <persName key="katzenberger-martin">Dr.
-                        Katzenberger</persName>, sich befinde, welcher als Geistlicher ebenso die
+                    entgegensieht – daß in <rs type="place" subtype="place" ref="#place_2a355a5b0521435f8248f11b12db208a">Bamberg</rs> ein Professor der
+                    Philosophie, namens <rs type="person" ref="katzenberger-martin" key="katzenberger-martin">Dr.
+                        Katzenberger</rs>, sich befinde, welcher als Geistlicher ebenso die
                     allgemeine Achtung erlangte wie als Professor, wage ich in Bezug auf die bei dem
                     Polytechnicum beantragte Stelle ganz unmaßgeblich zu bemerken.<lb/>Morgen findet
                     eine Commissionssitzung in Betreff des Neubaues für naturwissenschaftliche
-                    Fächer statt. Der Rector, der philosophische Professorendecan und <persName key="pierre-viktor">Prof. Pierre</persName> werden sich hiebei für die
+                    Fächer statt. Der Rector, der philosophische Professorendecan und <rs type="person" ref="pierre-viktor" key="pierre-viktor">Prof. Pierre</rs> werden sich hiebei für die
                     Versetzung der Anatomie aus der Universität, dem Centrum der Stadt und dem
                     Aufenthalt der Lebenden in das Krankenhaus und Unterbringung der Physik in den
                     Räumen des Carolins aussprechen und in dieser Beziehung einen submissen Antrag
-                    stellen. Wie mir Prof. <persName key="loeschner-josef">Löscher</persName> [sic,
+                    stellen. Wie mir Prof. <rs type="person" ref="loeschner-josef" key="loeschner-josef">Löscher</rs> [sic,
                     richtig Löschner] sagt, scheitern viele sanitätspoliceiliche Maßregeln in
-                        <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> an der Thatsache, welche freilich einzig in
+                        <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> an der Thatsache, welche freilich einzig in
                     ihrer Art sein dürfte, daß die Leichen vom Krankenhause durch den belebtesten
                     Theil der Stadt ins Carolinum gebracht werden, daß dort Sectionen und Präparationen
-                    statt finden. Daß die philosophische Facultät, welcher <persName key="karl-IV">Kaiser Karl</persName> das Carolin schenkte, daselbst nicht einmal einen
-                    Hörsal besitzt, wohl aber <persName key="schalek-josef">H. Schalek</persName>
+                    statt finden. Daß die philosophische Facultät, welcher <rs type="person" ref="karl-IV" key="karl-IV">Kaiser Karl</rs> das Carolin schenkte, daselbst nicht einmal einen
+                    Hörsal besitzt, wohl aber <rs type="person" ref="schalek-josef" key="schalek-josef">H. Schalek</rs>
                     die bel étage einnimmt, gehört mit zu den bedeutenden Eigenthümlichkeitn des
                     Carolins. Und doch sind jetzt die philosophische und juristische Facultät so
                     enge mit einander verbunden, daß ein philosophischer Hörsal im Carolinum bereits
@@ -149,14 +148,14 @@
                         Dagegen sollen Eure Excellenz gebeten werden, das Altstädter Gymnasium zu
                         verlegen – eventuell in das Bouquoische Haus – und dessen Räumlichkeiten den
                         naturhistorischen Fächern zu übergeben.<lb/>2. Solle der erste Stock –
-                        unbeschadet der Wohnung des Bibliothekars – <persName key="pierre-viktor">Prof. Pierre</persName> für das physikalische Cabinet, Laboratorium,
+                        unbeschadet der Wohnung des Bibliothekars – <rs type="person" ref="pierre-viktor" key="pierre-viktor">Prof. Pierre</rs> für das physikalische Cabinet, Laboratorium,
                         Hörsal, Wohnung des Cabinetsdieners eingeräumt werden.<lb/>3. Der zweite
-                        Stock, wie ihn das Altstädter Gymnasium besessen, solle dem <persName key="stein-samuel-friedrich">Prof. Stein</persName> für das zoologische
-                        Museum überwiesen werden.<lb/>4. <persName key="reuss-august">Prof.
-                            Reuß</persName> erhält für mineralogisches Cabinet, Hörsal,
+                        Stock, wie ihn das Altstädter Gymnasium besessen, solle dem <rs type="person" ref="stein-samuel-friedrich" key="stein-samuel-friedrich">Prof. Stein</rs> für das zoologische
+                        Museum überwiesen werden.<lb/>4. <rs type="person" ref="reuss-august" key="reuss-august">Prof.
+                            Reuß</rs> erhält für mineralogisches Cabinet, Hörsal,
                         Arbeitszimmer, Lokalität für den Amtsdiener das bisherige zoologische
-                        Cabinet und die mineralogischen Localitäten zusammen.<lb/>5. Prof. <persName key="kosteletzky-vinzenz">Dr. Kosteletzký</persName> erhält einen Hörsal
-                        im Carolinum und zwar den, wo bisher der Buchhändler <persName key="schalek-josef">Schalek</persName> wohnte. Dieser Hörsal, welchen
+                        Cabinet und die mineralogischen Localitäten zusammen.<lb/>5. Prof. <rs type="person" ref="kosteletzky-vinzenz" key="kosteletzky-vinzenz">Dr. Kosteletzký</rs> erhält einen Hörsal
+                        im Carolinum und zwar den, wo bisher der Buchhändler <rs type="person" ref="schalek-josef" key="schalek-josef">Schalek</rs> wohnte. Dieser Hörsal, welchen
                         weder die medicinische noch die juristische Facultät benützt, wird zugleich
                         von denjenigen Professoren der philosophischen Facultät benutzt, welche
                         obligate Collegien für die Juristen lesen und bisher wegen Mangel an
@@ -164,7 +163,7 @@
                         mußten. Dadurch wird einem wesentlichen Übelstande abgeholfen werden, ohne
                         daß den beiden anderen Facultäten ein Nachtheil erwächst. Die philosophische
                         Facultät beansprucht von ihnen nur das bescheidene Plätzchen, welches sie
-                        bisher dem Juden <persName key="schalek-josef">Schalek</persName> gönnten
+                        bisher dem Juden <rs type="person" ref="schalek-josef" key="schalek-josef">Schalek</rs> gönnten
                         und doch ihren Collegen nicht verweigern werden! Zugleich soll hier, was uns
                         bisher so sehr abging, ein Lesezimmer für die Professoren begründet
                         werden.<lb/>6. Wird für den Fall der Verlegung des Altstädter Gymnasiums in
@@ -175,7 +174,7 @@
                         Betreff der übrigen naturhistorischen Fächer nicht ausgiebig wäre. Es müßte
                         dann doch der Neubau geführt werden, während man so dem Staate die
                         bedeutende Ausgabe erspart.<lb/>Ich erlaube mir nun Eurer Excellenz diese
-                        unmaßgeblichen Vorschläge, in welchen sich Prof. <persName key="kosteletzky-vinzenz">Kosteletzký</persName>, <persName key="reuss-august">Reuß</persName>, <persName key="stein-samuel-friedrich">Stein</persName>, <persName key="pierre-viktor">Pierre</persName> mit mir einigten, um so mehr zu
+                        unmaßgeblichen Vorschläge, in welchen sich Prof. <rs type="person" ref="kosteletzky-vinzenz" key="kosteletzky-vinzenz">Kosteletzký</rs>, <rs type="person" ref="reuss-august" key="reuss-august">Reuß</rs>, <rs type="person" ref="stein-samuel-friedrich" key="stein-samuel-friedrich">Stein</rs>, <rs type="person" ref="pierre-viktor" key="pierre-viktor">Pierre</rs> mit mir einigten, um so mehr zu
                         empfehlen, als von unserer Seite nur das wissenschaftliche Interesse
                         vorwaltet und wir ja bei einer Verlegung des Gymnasiums in das Bouquoische
                         Haus nicht wohlfeile Mieten verlieren, wie dieses der Fall bei den

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="bonitz-hermann" role="sender">Hermann Bonitz</persName> an
-                        <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="bonitz-hermann" key="bonitz-hermann" role="sender">Hermann Bonitz</rs> an
+                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1855-07-30">30.
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1855-07-30">30.
                         Juli 1855</date>
                 </title>
             </titleStmt>
@@ -50,13 +49,13 @@
                         <p>Dieser Brief ist als Konzept in der Universitätsbibliothek Breslau
                             erhalten: Universitätsbibliothek Breslau, Autograph, Haase 46.<lb/>Dort
                             findet sich auch das Original des in diesem Brief wiedergegebenen
-                            Schreibens von <persName key="wiese-ludwig-adolf">Ludwig Adolf
-                                Wiese</persName> an Hermann Bonitz. Berlin, 23. Juli 1855.</p>
+                            Schreibens von <rs type="person" ref="wiese-ludwig-adolf" key="wiese-ludwig-adolf">Ludwig Adolf
+                                Wiese</rs> an Hermann Bonitz. Berlin, 23. Juli 1855.</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -69,9 +68,9 @@
                     <term>Gymnasien</term>
                 </index>
                 <p>Euer Excellenz!</p>
-                <p>Vor wenigen Tagen erhielt ich von dem <persName key="wiese-ludwig-adolf">Gh.
+                <p>Vor wenigen Tagen erhielt ich von dem <rs type="person" ref="wiese-ludwig-adolf" key="wiese-ludwig-adolf">Gh.
                         Rath. Dr. L. <hi rend="ul">Wiese</hi>
-                    </persName> (Ministerialrath im Kgl.
+                    </rs> (Ministerialrath im Kgl.
                     Preußischen Unterrichtsministerium) ein Schreiben<note xml:id="note_2">
                         <ref target="#CA1012_1">Ludwig Adolf Wiese an Hermann Bonitz, Berlin, 23.
                             Juli 1855</ref>.</note>, das ich vorläufig in wörtlicher Abschrift
@@ -83,24 +82,24 @@
                     ein anderer Gegenstand, über den ich zu schreiben habe.<lb/>Du weißt, daß
                         <orgName key="gymnasium-schulpforta">Schulpforta</orgName> ohne Haupt ist,
                     als ich mit Anfang Juni eine Inspectionsreise nach der Provinz Preußen antrat,
-                    kam <persName key="schulze-johannes">Johann Schulze</persName> noch in Eile zu
-                    mir, um mir die Nachricht von <persName key="kirchner-karl">Kirchner's</persName> Tode zu bringen. Die Wiederbesetzung der Stelle
+                    kam <rs type="person" ref="schulze-johannes" key="schulze-johannes">Johann Schulze</rs> noch in Eile zu
+                    mir, um mir die Nachricht von <rs type="person" ref="kirchner-karl" key="kirchner-karl">Kirchner's</rs> Tode zu bringen. Die Wiederbesetzung der Stelle
                     beschäftigte mich auf der ganzen langen Reise, und immer kamen meine Gedanken
                     wieder zu Dir. Du kennst und liebst die Anstalt, sie ist die erste in unserem
                     Staat, und ist sie nicht mehr was sie einst war, so bist Du der Mann, ein neues
                     Leben dort wieder zu erwecken. Als ich nach Hause kam, fand ich unter den
-                    inzwischen eingegangenen Briefen auch einen von <persName key="schmieder-heinrich-eduard">Schmieder</persName>*, dem es keine Ruhe
+                    inzwischen eingegangenen Briefen auch einen von <rs type="person" ref="schmieder-heinrich-eduard" key="schmieder-heinrich-eduard">Schmieder</rs>*, dem es keine Ruhe
                     gelassen hatte, er mußte wegen <orgName key="gymnasium-schulpforta">Pforta</orgName> schreiben, um Dich und nur Dich mir zu empfehlen, in der
                     liebevollsten Weise. Dieses Zusammentreffen unserer Gedanken freute mich sehr.
-                    Ich trug darauf dem (abwesenden) <persName key="raumer-karl-otto">Minister</persName> die Sache schriftlich vor, und er hat mir heute
+                    Ich trug darauf dem (abwesenden) <rs type="person" ref="raumer-karl-otto" key="raumer-karl-otto">Minister</rs> die Sache schriftlich vor, und er hat mir heute
                     geantwortet, und mich autorisiert, Dir die Stelle anzutragen. Dies ist es,
                     theurer Freund, eine für uns und wohl auch für Dich hochwichtige Sache. Überlege
                     Dir's nun und schreib mir bald eine Antwort, ob wir überhaupt darauf rechnen
                     können, daß Du kommst. Über das <hi rend="ul">wann</hi> und alles Übrige wird
                     dann leicht eine Verständigung zu erreichen sein.<lb/>Ich habe es immer so
-                    angesehen, Du seist eigentlich an <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</country> nur geliehen und habe es beneidet um Dich. Es ist
+                    angesehen, Du seist eigentlich an <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> nur geliehen und habe es beneidet um Dich. Es ist
                     nun, nachdem Du soviel dort gethan und erreicht, wohl Zeit, daß Du wieder an
-                    Dein <country key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Vaterland</country> denkst, wo man Deiner nicht
+                    Dein <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Vaterland</rs> denkst, wo man Deiner nicht
                     vergessen hat und wo Du allen willkommen sein wirst, und als Rector von <orgName key="gymnasium-schulpforta">Pforta</orgName> auch denen, die noch Deine
                     Lehrer gewesen sind. Gott lenke Deine Entscheidung zu Deinem und unseres
                     Vaterlandes Heil!</p>
@@ -115,18 +114,18 @@
                     vermochte. Hätte ich nicht Anlaß gehabt, diese Gesinnung Euer Exzellenz in
                     wichtigen Fällen auszusprechen, so würde schon die Weise, wie ich meinem Berufe
                     lebe, dafür Zeugnis geben. Indem ich an dem großen und segensreichen Werke der
-                    Neugestaltung des Unterrichts in <country ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</country> für <hi rend="ul">ein</hi> wichtiges Gebiet von den ersten Berathungen an bis zur
+                    Neugestaltung des Unterrichts in <rs type="place" subtype="country" ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</rs> für <hi rend="ul">ein</hi> wichtiges Gebiet von den ersten Berathungen an bis zur
                     Verwirklichung und Ausbildung im Einzelnen einen ununterbrochen thätigen Antheil
                     genommen habe, so ist es mit meinem ganzen Wesen so verwachsen, als habe es
                     ursprünglich meinem Lebensberuf angehört, so daß ich aus eigenem Antriebe eine
                     Änderung nie gesucht habe und ohne dringenden Anlaß eine solche nicht in
                     Erwägung ziehen würde.<lb/>In eine andere Lage versetzt mich das mitgetheilte
-                    Schreiben. Der <country key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Staat</country>, dem ich durch die Geburt
+                    Schreiben. Der <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Staat</rs>, dem ich durch die Geburt
                     angehöre, dem ich meine Bildung verdanke, dem ich durch meine Confession
                     verwandt bin, dieser Staat ruft mich in der vertrauensvollsten und ehrendsten
                     Weise zu einer Tätigkeit, welche meinem gesammten Lebensgange angemessen ist
                     und, wie ich hoffe, meine Kräfte nicht übersteigt. Der Antrag ist ehrenvoll;
-                    denn in die Blüthe von <orgName key="gymnasium-schulpforta">Schulpforta</orgName> setzt <country ref="#place_29a93c0139fd45a35375f2ded98bb90b">Preußen</country> selbst besondere
+                    denn in die Blüthe von <orgName key="gymnasium-schulpforta">Schulpforta</orgName> setzt <rs type="place" subtype="country" ref="#place_29a93c0139fd45a35375f2ded98bb90b">Preußen</rs> selbst besondere
                     Ehre und hat mit seltenen Ausnahmen Männer von der Universität zur Leitung
                     berufen. Auf das im Schreiben erwähnte freundliche Entgegenkommen des
                     Lehrercollegiums, das für die Erfüllung solcher Aufgabe von Bedeutung ist, darf
@@ -138,7 +137,7 @@
                     die meisten Bedürfnisse zu billigen Preisen bestritten werden.<lb/>Einem solchen
                     Rufe gegenüber muß ich allerdings auch die Kehrseite meiner hiesigen Stellung in
                     Erwägung ziehen. Daß keine, auch nicht die aufopferndste erfolgreichste
-                    Thätigkeit für <country ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</country> mir <country ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</country>
+                    Thätigkeit für <rs type="place" subtype="country" ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</rs> mir <rs type="place" subtype="country" ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</rs>
                     zum Vaterlande werden läßt, sondern ich immer als "<hi rend="ul">Ausländer</hi>"
                     und Eindringling betrachtet werde, darüber muß ich, so bitter und verletzend es
                     sich oft geltend macht, hinwegsehen und mich mit dem Gedanken zu trösten suchen,
@@ -173,18 +172,18 @@
                     meine bisherige Tätigkeit der Anerkennung durch die That und meine fernere
                     Thätigkeit der Erhaltung werth scheint, der österreichische Kaiserstaat an
                     seiner <orgName key="universitaet-wien">ersten Universität</orgName> mich nicht
-                    ungünstiger stellen würde, als es <country ref="#place_29a93c0139fd45a35375f2ded98bb90b">Preußen</country> an seinem <orgName key="gymnasium-schulpforta">geachtetsten Gymnasium</orgName> thut.<lb/>Die
+                    ungünstiger stellen würde, als es <rs type="place" subtype="country" ref="#place_29a93c0139fd45a35375f2ded98bb90b">Preußen</rs> an seinem <orgName key="gymnasium-schulpforta">geachtetsten Gymnasium</orgName> thut.<lb/>Die
                     Absicht dieser Mittheilung ist vielmehr, Euerer Excellenz das Gewicht der
                     Gründe, die ich in Erwägung ziehen muß, unverhohlen darzulegen und um deren
                     Würdigung zu bitten. Es handelt sich nicht um einen Antrag, wie deren leicht
                     noch mehr erfolgen könnten, sondern um einen solchen, dessen Ablehnung zugleich
-                    eine unbedingte Ablehnung jeder Berufung außerhalb <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</country> für immer ist. Wenn ich einen so vertrauensvoll, so
-                    ehrend, so äußerlich günstig gestellten Ruf in <country key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">mein
-                        Vaterland</country> zurückweise, so liegt darin die thatsächliche Erklärung:
-                    ich finde mich an <country ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</country> durch so feste Bande gebunden,
+                    eine unbedingte Ablehnung jeder Berufung außerhalb <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> für immer ist. Wenn ich einen so vertrauensvoll, so
+                    ehrend, so äußerlich günstig gestellten Ruf in <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">mein
+                        Vaterland</rs> zurückweise, so liegt darin die thatsächliche Erklärung:
+                    ich finde mich an <rs type="place" subtype="country" ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</rs> durch so feste Bande gebunden,
                     daß jene Gründe nicht fähig sind, sie zu lösen. Nun kennt und würdigt man in dem
                     nichtösterreichischen Deutschland – wahrlich ohne mein Zuthun – dasjenige, was
-                    ich hier gethan habe mehr, als in <country ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</country>. Dem gegenüber
+                    ich hier gethan habe mehr, als in <rs type="place" subtype="country" ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</rs>. Dem gegenüber
                     weiß man nicht von <hi rend="ul">irgend</hi> einer thatsächlichen Anerkennung
                     meiner Bemühungen, sondern nur von thatsächlichen Beweisen der Unsicherheit
                     meiner Stellung und einer durch Stillschweigen gebilligten oder doch ermuthigten
@@ -224,7 +223,7 @@
                     Beruhigung gibt, bin ich in der Lage, den mich gerichteten Antrag ablehnen zu
                     können, ohne spätere Reue besorgen zu müssen.<lb/>Nicht berührt habe ich hierbei
                     den oben erwähnten Druck, der den „Ausländer“, d.h. den nicht aus
-                        <country ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</country> gebürtigen Deutschen als solchen betrifft,
+                        <rs type="place" subtype="country" ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</rs> gebürtigen Deutschen als solchen betrifft,
                     deshalb, weil derselbe nicht aus dem Verfahren der Regierung, sondern aus der
                     öffentlichen Meinung hervorzugehen <hi rend="ul">scheint</hi>. Daß es nur so
                     scheine, ist gewiß mehr als bloß eine subjective Ansicht, da dieses feindselige

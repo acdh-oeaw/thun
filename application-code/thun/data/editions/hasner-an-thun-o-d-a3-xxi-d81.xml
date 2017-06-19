@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="hasner-von-artha-leopold" role="sender:gelehrter">Leopold
-                        Hasner</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="hasner-von-artha-leopold" key="hasner-von-artha-leopold" role="sender:gelehrter">Leopold
+                        Hasner</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</placeName>, o. D.<note xml:id="note_1">Im Nachlass ist der Brief dem Jahr 1850 zugeordnet. Die
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, o. D.<note xml:id="note_1">Im Nachlass ist der Brief dem Jahr 1850 zugeordnet. Die
                         Erwähung von Prof. Peter Mischler im Brief, der erst im November 1852 zum
                         ao. Professor in Prag ernannt wurde, sowie der Hinweis auf das zu
                         vollendende Buch von Hasner, das 1860 erscheinen sollte, lässt jedoch
@@ -39,7 +38,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -51,7 +50,7 @@
                 <p>Euer Excellenz!</p>
                 <p>Ich erlaube mir Euer Excellenz diesmal eine Bitte im eigenen Interesse
                     vorzutragen. Ich arbeite an einer umfassenden Schrift über politische
-                        Ökonomie.<note xml:id="note_2">Der erste Band von <persName key="hasner-von-artha-leopold">Hasners</persName> System der politischen
+                        Ökonomie.<note xml:id="note_2">Der erste Band von <rs type="person" ref="hasner-von-artha-leopold" key="hasner-von-artha-leopold">Hasners</rs> System der politischen
                         Ökonomie erschien 1860. Siehe Leopold von Hasner, System der politischen
                         Ökonomie, 1. Bd., Prag 1860.</note>Mannigfache Umstände machen mich dringend
                     wünschen, dieselbe vor Beginn des nächsten Schuljahres veröffentlichen zu
@@ -68,7 +67,7 @@
                     der Art, daß ich eine kleine Erleichterung, ohne wesentlichen Abbruch an meinen
                     sonstigen Aufgaben als Professor, wohl erbitten darf. Ich habe vorläufig für das
                     Sommersemester Finanzwissenschaft und juristische Encyklopädie angekündigt. Nun
-                    aber hatten im ersten Semester ich und <persName key="mischler-peter">Mischler</persName> zusammen 12–14 Schüler. Im zweiten Semester hat noch
+                    aber hatten im ersten Semester ich und <rs type="person" ref="mischler-peter" key="mischler-peter">Mischler</rs> zusammen 12–14 Schüler. Im zweiten Semester hat noch
                     regelmäßig bisher die Zahl sich geringer gestellt. Da nun der Grund dieser
                     geringen Zahl ein nur in dem Sistemswechsel zeitweilig gelegener ist, so
                     erscheint es mir umso mehr rücksichtlich der Finanzwissenschaft fast als eine

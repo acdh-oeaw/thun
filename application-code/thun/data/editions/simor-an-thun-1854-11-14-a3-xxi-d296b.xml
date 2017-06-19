@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="simor-johann" role="sender:kleriker">János Simor</persName> an
-                        <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="simor-johann" key="simor-johann" role="sender:kleriker">János Simor</rs> an
+                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName>, <date when="1854-11-14">14.
+                    <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs>, <date when="1854-11-14">14.
                         November 1854</date>
                 </title>
             </titleStmt>
@@ -54,7 +53,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -65,55 +64,55 @@
                     <term>Konkordat</term>
                 </index>
                 <p>Euere Excellenz!</p>
-                <p>Besorgen, daß die Schwierigkeiten hinsichtlich der Reise des Domherrn <persName key="danielik-johann">Danielik</persName> durch Djunkovszky in
-                        <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName> bekannt werden und böses Blut machen dürften. Das
-                    M. und C. Gouvernement für <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> hat der Sache eine solche
-                    Wendung gegeben, daß der <persName key="scitovsky-jan">Kardinal
-                        Fürstprimas</persName> in Bezug auf diese Angelegenheit vollkommen
+                <p>Besorgen, daß die Schwierigkeiten hinsichtlich der Reise des Domherrn <rs type="person" ref="danielik-johann" key="danielik-johann">Danielik</rs> durch Djunkovszky in
+                        <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs> bekannt werden und böses Blut machen dürften. Das
+                    M. und C. Gouvernement für <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> hat der Sache eine solche
+                    Wendung gegeben, daß der <rs type="person" ref="scitovsky-jan" key="scitovsky-jan">Kardinal
+                        Fürstprimas</rs> in Bezug auf diese Angelegenheit vollkommen
                     zufriedengestellt wurde. Das Gouvernement hat ihn nemlich mittelst eines nach
-                        <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName> gelangten Schreibens ersucht, sich darüber [?] zu
-                    äußern, ob er den Domherrn <persName key="danielik-johann">Danielik</persName>
-                    hier in <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName> um sich haben wünsche, für diesen Fall würde
+                        <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs> gelangten Schreibens ersucht, sich darüber [?] zu
+                    äußern, ob er den Domherrn <rs type="person" ref="danielik-johann" key="danielik-johann">Danielik</rs>
+                    hier in <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs> um sich haben wünsche, für diesen Fall würde
                     man dem besagten Domherrn den Paß unverweilt ausfolgen, welcher bekanntlich
                     Redacteur der Zeitschrift Religio und Director des St. Stefansvereins ist,
                     folglich eine längere Reise ohne besondere Bewilligung nicht antreten darf. Der
                     Primas hat mir hievon die Mittheilung gemacht und beigefügt „Ecce non est verum,
-                    quod Danielikio [?] [?] elargiri.“ Der Primas schrieb dem <persName key="danielik-johann">Danielik</persName> und sprach den Wunsch aus, daß er
-                    nach <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName> kommen möchte, zugleich trug er ihm auf, diesen
+                    quod Danielikio [?] [?] elargiri.“ Der Primas schrieb dem <rs type="person" ref="danielik-johann" key="danielik-johann">Danielik</rs> und sprach den Wunsch aus, daß er
+                    nach <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs> kommen möchte, zugleich trug er ihm auf, diesen
                     Brief beim Gouvernement vorzuzeigen und dann, wenn er noch Lust hätte
-                        <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName> zu sehen, den Paß zu verlangen, welcher ihm ohne
-                    Anstand ertheilt werden würde. Was den Priester <persName>Djunkovszky</persName>
-                    anbelangt, so hat er schon in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> gegen unsere
+                        <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs> zu sehen, den Paß zu verlangen, welcher ihm ohne
+                    Anstand ertheilt werden würde. Was den Priester <rs type="person" ref="">Djunkovszky</rs>
+                    anbelangt, so hat er schon in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> gegen unsere
                     Einrichtungen viel geschimpft, und der Kardinal pronuncirte selbst, auf dessen
-                    Kosten er in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> sich aufhielt, hat mich ersucht, den
+                    Kosten er in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> sich aufhielt, hat mich ersucht, den
                     besagten Priester, wenn er zu mir käme, zurechtzuweisen. Er kam zu mir an einem
-                    der letzten Tage vor meiner Abreise nach <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> und verlangte
+                    der letzten Tage vor meiner Abreise nach <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> und verlangte
                     von mir mit der größten Dreistigkeit Aktenstücke aus dem Ministerialarchive
                     betreffend unsere Einrichtungen und den Bestand der katholischen Kirche in der
-                    Monarchie angeblich für einen in <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName> sich befindlichen
+                    Monarchie angeblich für einen in <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs> sich befindlichen
                     Verein, dessen Aufgabe wäre, eine Statistik der katholischen Kirche zu
                     verfassen. Ich erklärte ihm, daß ich seinem Verlangen nicht entsprechen könne
                     und dürfe. Worauf er auf das liberale Ministerium in
-                        <country ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</country> hinwies, wo ihm die Archive offen standen und
+                        <rs type="place" subtype="country" ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</rs> hinwies, wo ihm die Archive offen standen und
                     drohte meine Weigerung und Lieblosigkeit in einer französischen Zeitung bekannt
                     machen zu wollen. Ich antwortete ihm: vor seiner Schreiberei habe ich keine
                     Furcht, nur solle er als ehrlicher Mann die Wahrheit schreiben. Ich habe
-                    überhaupt auch in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> über diesen Menschen viele Klagen
+                    überhaupt auch in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> über diesen Menschen viele Klagen
                     gehört, er soll sehr impertinent aufgetreten sein. Hie und da wurde er auch
-                    freilich gefeiert, namentlich in <placeName key="veszprem" ref="#place_dee98a409c92d6df15b591129534021e">Weszprim</placeName>
-                    [Veszprém]. Ich habe hier in <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName> über diesen Menschen
+                    freilich gefeiert, namentlich in <rs type="place" subtype="place" key="veszprem" ref="#place_dee98a409c92d6df15b591129534021e">Weszprim</rs>
+                    [Veszprém]. Ich habe hier in <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs> über diesen Menschen
                     mich erkundigt, allein bis jetzt kennt ihn hier niemand, leider ist es nirgends
                     leichter ein Empfehlungsschreiben zu Sammlungen zu bekommen als eben in
-                        <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName>, auch Djunkovszky erhielt ein solches, und nun
+                        <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs>, auch Djunkovszky erhielt ein solches, und nun
                     gebährdet er sich als einen Abgesandten des Heiligen Stuhls. Seine Schreibereien
                     sind durchaus nicht zu fürchten.<lb/>Als ich vorgestern meine Notata über die
-                    ungarischen Verhältnisse dem Herrn <persName key="rauscher-joseph">Erzbischofe
-                        von Wien</persName> übergab, sagte er mir, daß er mit dem <persName key="antonelli-giacomo">Kardinal Antonelli</persName> eine längere Conferenz
-                    hatte, von diesem jedoch zum <persName key="santucci-vincenzo">Kardinal
-                        Santucci</persName> hingewiesen wurde, etwas anderes ist bisher in der
+                    ungarischen Verhältnisse dem Herrn <rs type="person" ref="rauscher-joseph" key="rauscher-joseph">Erzbischofe
+                        von Wien</rs> übergab, sagte er mir, daß er mit dem <rs type="person" ref="antonelli-giacomo" key="antonelli-giacomo">Kardinal Antonelli</rs> eine längere Conferenz
+                    hatte, von diesem jedoch zum <rs type="person" ref="santucci-vincenzo" key="santucci-vincenzo">Kardinal
+                        Santucci</rs> hingewiesen wurde, etwas anderes ist bisher in der
                     Concordatsangelegenheit nicht geschehen. Der Herr Erzbischof hat daher
                     Gelegenheit, sich in der Geduld zu üben.<lb/>Gestern fingen an die großen
-                    Empfangsfeierlichkeiten beim Kardinal <persName key="scitovsky-jan">Scitovszky</persName> und werden durch 9 Tage fortgesetzt. Es haben sich
+                    Empfangsfeierlichkeiten beim Kardinal <rs type="person" ref="scitovsky-jan" key="scitovsky-jan">Scitovszky</rs> und werden durch 9 Tage fortgesetzt. Es haben sich
                     bei ihm eingefunden, um ihm zur Kardinalswürde zu gratulieren, die Kardinäle mit
                     Ausnahme des Decano del Sacro Collegio, die hier anwesenden Erz- und Bischöfe,
                     die Gesandtschaften fremder Mächte, die Ordensgeneräle, das französische und
@@ -124,16 +123,16 @@
                     nachmittags fährt er auf die feierlichste Weise zu S. Peter in Vaticano. Dann
                     folgt die feierliche Besitznahme der von dem Papste ihm überwiesenen Kirche, von
                     welcher er den Titel führen wird.<lb/>Der Kardinal hat viele Anliegen in
-                        <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName>, er will einen Erzbischof von Gran, den <persName key="banffy-lukas">Lucas Bánfy</persName>, dann einen Domherrn von
-                        <placeName ref="#place_f07d757cdeb5acd661d89d1d54ed7e3c">Gran</placeName> [Esztergom], Martinus Crisinuo [?] (oder
+                        <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs>, er will einen Erzbischof von Gran, den <rs type="person" ref="banffy-lukas" key="banffy-lukas">Lucas Bánfy</rs>, dann einen Domherrn von
+                        <rs type="place" subtype="place" ref="#place_f07d757cdeb5acd661d89d1d54ed7e3c">Gran</rs> [Esztergom], Martinus Crisinuo [?] (oder
                     Körösyi), und 2 Jesuiten, welche des Glaubens wegen von den Calvinern im 17.
                     Jahrhunderte gerädert worden waren, selig oder heilig sprechen lassen; er will
                     das Seminarium hungarico-germanicum geregelt wissen; dann will er auch erfahren,
-                    wo die Stiftungen des Heiligen <persName key="stephan-I">Stefan, Königs von
-                        Ungarn</persName>, hingekommen sind, wegen der letzeren Stiftungen erließ er
-                    ein Schreiben an den Professor <persName key="flir-alois">Flier</persName> in
+                    wo die Stiftungen des Heiligen <rs type="person" ref="stephan-I" key="stephan-I">Stefan, Königs von
+                        Ungarn</rs>, hingekommen sind, wegen der letzeren Stiftungen erließ er
+                    ein Schreiben an den Professor <rs type="person" ref="flir-alois" key="flir-alois">Flier</rs> in
                     der Meinung, die gedachten Stiftungen seien mit den deutschen bei der „Anima“
-                    vereinigt. <persName key="flir-alois">Prof. Flier</persName> zeigte mir das
+                    vereinigt. <rs type="person" ref="flir-alois" key="flir-alois">Prof. Flier</rs> zeigte mir das
                     Schreiben mit der Frage, was zu antworten sei, in dem Archive sei von einer
                     Vereinigung der gedachten Stiftung keine Spur zu finden. Die Antwort wird
                     hienach ausfallen.<lb/>Er conferirt auch sehr fleißig mit den Ordensgenerälen.

@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="apponyi-rudolf" role="sender:beamter">Rudolf
-                        Apponyi</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="apponyi-rudolf" key="apponyi-rudolf" role="sender:beamter">Rudolf
+                        Apponyi</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_d0a6343a081a7335baa965ce4fd0845c">München</placeName>, <date when="1854-10-04">4. Oktober 1854</date>
+                    <rs type="place" subtype="place" ref="#place_d0a6343a081a7335baa965ce4fd0845c">München</rs>, <date when="1854-10-04">4. Oktober 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -38,7 +37,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -50,21 +49,21 @@
                 </index>
                 <p>Lieber Thun!</p>
                 <p>Von einem kurzen Landaufenthalt zurückgekehrt, beeile ich mich Dir über Dr.
-                        <persName key="halm-karl-felix">H[alm]</persName> aus gewissenhafter
+                        <rs type="person" ref="halm-karl-felix" key="halm-karl-felix">H[alm]</rs> aus gewissenhafter
                     verlässlicher Quelle geschöpfte Auskünfte mitzutheilen. Er gilt hier für einen
                     ausgezeichneten Philologen, der zugleich viele Verbindungen in
-                        <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country> mit Gelehrten seines Fachs unterhält. Als
+                        <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> mit Gelehrten seines Fachs unterhält. Als
                     Rektor <orgName key="maximiliansgymnasium-muenchen">seines Gymnasiums</orgName>
                     genießt er den besten Ruf. Hinsichtlich seiner religiösen Richtung soll er
                     allerdings ein Katholik von blaßer Färbung seyn, doch erzieht er seine Familie
                     und überwacht die katholische Tendenz seiner Lehranstalt insoweit, als es die
                     äußere Form erfordert. Von einem katholisch-religiösen Eifer soll jedoch kaum
                     die Rede seyn.<lb/>In wissenschaftlicher Beziehung und in seiner übrigen Haltung
-                    gehört er zu den Schützlingen und Freunden <persName key="thiersch-friedrich-wilhelm">Thierschs</persName>. Wenn er auch keine
-                    besondere Abneigung gegen <country ref="#place_dec1b863b4d789a6f0ba082547a6f896">Oestreich</country> hat, so ist meinem
+                    gehört er zu den Schützlingen und Freunden <rs type="person" ref="thiersch-friedrich-wilhelm" key="thiersch-friedrich-wilhelm">Thierschs</rs>. Wenn er auch keine
+                    besondere Abneigung gegen <rs type="place" subtype="country" ref="#place_dec1b863b4d789a6f0ba082547a6f896">Oestreich</rs> hat, so ist meinem
                     Gewährsmanne, der ihn aus langjährigem Umgang kennt, auch nie eine besondere
                     Sympathie für uns bemerkbar geworden.<lb/>Mein Eindruck von dieser Schilderung
-                    ist, daß Dr. <persName key="halm-karl-felix">H[alm]</persName> ein lauer
+                    ist, daß Dr. <rs type="person" ref="halm-karl-felix" key="halm-karl-felix">H[alm]</rs> ein lauer
                     Katholik und ein lauer Oestreicher ist. Ob aber diese Mängel für eine Professur
                     classischer Philologie gerade sehr sichtbar wären, muß Deinem weisen Ermessen
                     überlassen bleiben.<lb/>Indem ich Dich bitte bei jeder vorkommenden Gelegenheit

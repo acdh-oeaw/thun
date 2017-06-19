@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="bonitz-hermann" role="sender:gelehrter">Hermann
-                        Bonitz</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="bonitz-hermann" key="bonitz-hermann" role="sender:gelehrter">Hermann
+                        Bonitz</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1858-02-04">4. Februar 1858</date>
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1858-02-04">4. Februar 1858</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -69,7 +68,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -98,7 +97,7 @@
                     Nachdenkens gewesen ist und die Erfolge, deren ich mich in meinem speciellen
                     Unterrichte erfreuen durfte, wesentlich daher rührten, weil ich zugleich den
                     Blick unverwandt auf das Ganze gerichtet erhielt; und daß ich in den neun
-                    Jahren, seit ich <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> angehöre, der
+                    Jahren, seit ich <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> angehöre, der
                     consequenten und unermüdeten Mitwirkung für das österreichische Gymnasialwesen
                     jeden andern Wunsch, selbst den der Ausführung begonnener wissenschaftlicher
                     Arbeiten, freudig opferte. Dieses Bewußtsein gibt mir den Muth, über die
@@ -116,7 +115,7 @@
                     Unterrichtsbehörde eingeschlossen, in allen Kreisen des gebildeten Publicums.
                     Die vollständigste Kenntnis dieser Vorgänge war bei den Berathungen der
                     Organisation nicht allein Dank des Vorhandenseins der Acten aus dieser Zeit,
-                    sondern noch viel wirksamer dadurch gesichert, daß derjenige <persName key="exner-franz">Mann</persName> mit dem Entwurfe der Neugestaltung
+                    sondern noch viel wirksamer dadurch gesichert, daß derjenige <rs type="person" ref="exner-franz" key="exner-franz">Mann</rs> mit dem Entwurfe der Neugestaltung
                     beauftragt war, der Jahre lang schon an dem früheren Berathungen theilgenommen
                     hatte und deren Seele gewesen war. Daß aus der gewißenhaften Rücksicht auf die
                     sicher constatirten Mängel nicht ein wirres Allerlei von Abhilfen gegen jeden
@@ -152,7 +151,7 @@
                     der rechten Ordnung die geistige Thätigkeit des Schülers in Anspruch
                     nehmen.<lb/>Diese Grundgedanken tragen den gesammten Gymnasialplan; sie sind es,
                     welche Euere Excellenz, als ein segensreicher Entschluß Seiner Majestät das
-                    Unterrichtswesen <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</country> in Dero Hände
+                    Unterrichtswesen <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> in Dero Hände
                     legte, nach langer reiflicher Überlegung billigten und mit einer Ausdauer und
                     Energie durchführten, welche nur aus fester Überzeugung hervorgehen
                     können.<lb/>Ein Plan, der auf solchen Grundlagen ruht, konnte nicht durch irgend
@@ -160,7 +159,7 @@
                     constatirten Mängel gleichmäßig in Betracht zog, von irgend einer Seite mit dem
                     Jubel, daß ihr recht gegeben sei, begrüßt werden. Geräuschlos wurde er zur
                     Wirksamkeit vorläufig zugelassen; auswärts ward seine Wichtigkeit nicht
-                    verkannt; in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> selbst über den
+                    verkannt; in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> selbst über den
                     sonstigen, äußerlich hervortretenden Veränderungen, die gleichzeitig vorgiengen,
                     kaum bemerkt; höchstens, daß ein paar öffentliche Organe es als
                     Höflichkeitspflicht betrachteten, ein Nachhall der von außen vernommenen Stimmen
@@ -170,8 +169,8 @@
                     hervorgerufen hatte, längst verschwunden waren, hatten Euere Excellenz den Ruhm,
                     das gründlich Erwogene und unerschütterlich Vertheidigte durch kaiserliche
                     Sanction zum Gesetze erhoben zu sehen. Während man im außerösterreichischen
-                        <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country> sich gewöhnt hatte, die Unterrichtszustände
-                        <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</country> mit einem mitleidigen
+                        <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> sich gewöhnt hatte, die Unterrichtszustände
+                        <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> mit einem mitleidigen
                     Lächeln selbstbewußter Überlegenheit zu betrachten, hat man sich, so schwer es
                     manchen ankam, entschließen müssen, deren Ebenbürtigkeit, ja in mancher Hinsicht
                     ihren Vorzug anzuerkennen. Während es endlich bei uns eine erklärbare, aber
@@ -266,7 +265,7 @@
                     oder will man nicht vergessen. Nicht eine Stimme unter jenen Klagen hat einen
                     wirklichen erheblichen Übelstand, die Beschränkung, welche die Lectüre im
                     Obergymnasium durch die eng bemessene Zeit unterliegt, auch nur einer gleich
-                    starken Betonung gewürdigt. Man weist jetzt auf <country ref="#place_29a93c0139fd45a35375f2ded98bb90b">Preußen</country> hin
+                    starken Betonung gewürdigt. Man weist jetzt auf <rs type="place" subtype="country" ref="#place_29a93c0139fd45a35375f2ded98bb90b">Preußen</rs> hin
                     (Aufsatz des Schulraths Král, 1858 Heft II )<note xml:id="note_4"> Vgl. <ref target="http://books.google.at/books?id=0YsNAAAAQAAJ&amp;dq=zeitschrift+f%C3%BCr+%C3%B6sterreichische+gymnasien+1858&amp;hl=de&amp;source=gbs_navlinks_s">Anton Král, Über den Entwurf einiger Modificationen des
                             Gymnasial-Lehrplanes, insbesondere die vorgeschlagene Vermehrung der
                             Lehrstunden für lateinische Sprache in den unteren Classen der
@@ -275,7 +274,7 @@
                     Gymnasium noch unter die früher geduldete Kümmerlichkeit hinabdrückt, Latein <hi rend="ul">und</hi> Griechisch noch über das frühere Maß verstärkt; aber man
                     achtet nicht darauf, daß nach sicheren, unverhohlen kundgegebenen Indicien diese
                     Form der Gymnasien dort keine Haltbarkeit hat. Man beruft sich oft in dem Tone
-                    des Patriotismus auf die Wichtigkeit, welche <hi rend="ul">speciell für <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country>
+                    des Patriotismus auf die Wichtigkeit, welche <hi rend="ul">speciell für <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>
                     </hi> das Latein habe. Vergeblich
                     habe ich bisher nach einer präcisen Formulirung des Inhaltes dieses für mich
                     geheimnisvollen Ausdruckes gesucht. Soll die Vielsprachigkeit Österreichs dem
@@ -284,7 +283,7 @@
                     gesellschaftlichen, geschäftlichen, wissenschaftlichen Verkehr, kann nicht die
                     lateinische, kann einzig die <hi rend="ul">deutsche</hi> Sprache sein. Oder soll
                     das Vorherrschen der römisch-katholischen Kirche der lateinischen Sprache diese
-                    specifische Wichtigkeit geben? Für den Klerus <country key="frankreich" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreichs</country> und <country key="italien" ref="#place_19cb29505c294db5ca9190ea93447e98">Italiens</country>, ja für
+                    specifische Wichtigkeit geben? Für den Klerus <rs type="place" subtype="country" key="frankreich" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreichs</rs> und <rs type="place" subtype="country" key="italien" ref="#place_19cb29505c294db5ca9190ea93447e98">Italiens</rs>, ja für
                     den Mittelpunct der römisch-katholischen Kirche selbst, hat thatsächlich die
                     lateinische Sprache diese Bedeutung nicht, obwohl überwiegend von dem Klerus
                     eben dieser Länder die eingreifendsten Anregungen auf katholisch kirchlichem

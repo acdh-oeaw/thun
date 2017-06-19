@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="stumpf-brentano-karl-friedrich" role="sender:gelehrter">Karl
-                        Friedrich Stumpf</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="stumpf-brentano-karl-friedrich" key="stumpf-brentano-karl-friedrich" role="sender:gelehrter">Karl
+                        Friedrich Stumpf</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName key="goettingen" ref="#place_bb924613631a24955ccdde82d6af5cc2">Göttingen</placeName>, <date when="1858-09-19">19. September
+                    <rs type="place" subtype="place" key="goettingen" ref="#place_bb924613631a24955ccdde82d6af5cc2">Göttingen</rs>, <date when="1858-09-19">19. September
                     1858</date>
                 </title>
             </titleStmt>
@@ -38,7 +37,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -50,28 +49,28 @@
                 <p>Ich hätte längst gewagt, wie es auch meine Pflicht gewesen wäre, ein
                     Lebenszeichen zu geben, hätte sich nicht mein Aufenthalt in den sächsischen,
                     thüringischen und fränkischen Archiven durch unerwartet reiche Ausbeute länger
-                    hinausgezogen, als ich zur Zeit meiner Abreise aus <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>
-                    vermuthen konnte. Ich kam erst Ende Augusts nach <placeName key="frankfurt" ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt a. M.</placeName>, wo ich leider unsern trefflichen <persName key="boehmer-johann-friedrich">Böhmer</persName> nicht so vollauf in der
+                    hinausgezogen, als ich zur Zeit meiner Abreise aus <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>
+                    vermuthen konnte. Ich kam erst Ende Augusts nach <rs type="place" subtype="place" key="frankfurt" ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt a. M.</rs>, wo ich leider unsern trefflichen <rs type="person" ref="boehmer-johann-friedrich" key="boehmer-johann-friedrich">Böhmer</rs> nicht so vollauf in der
                     alten rüstigen Stimmung fand, wie ich ihn verlassen habe. Er mußte auch bald in
                     ein Bad eilen. Soviel konnte ich übrigens erschließen und theilweise erfahren,
                     daß eine Einigung über die Herausgabe des „Codex diplomaticus imperii“ mit
-                        <persName key="pertz-georg-heinrich">Pertz</persName> wenigstens für jetzt
+                        <rs type="person" ref="pertz-georg-heinrich" key="pertz-georg-heinrich">Pertz</rs> wenigstens für jetzt
                     nicht erzielt worden ist und eine Aufforderung an mich mußte schon darum
                     selbstverständlich unterbleiben. Da aber die ganze Angelegenheit gleichsam nur
-                    privatim zwischen <persName key="boehmer-johann-friedrich">Böhmer</persName> und
-                        <persName key="pertz-georg-heinrich">Pertz</persName> verhandelt wurde, ist
+                    privatim zwischen <rs type="person" ref="boehmer-johann-friedrich" key="boehmer-johann-friedrich">Böhmer</rs> und
+                        <rs type="person" ref="pertz-georg-heinrich" key="pertz-georg-heinrich">Pertz</rs> verhandelt wurde, ist
                     zugleich mir jede weitere Besprechung wie auch jeder Antrag zur bereitwilligsten
                     Mitwirkung benommen. Das Scheitern dieses Lieblingsplanes mag indes zum Theil
-                    auch die Ursache von <persName key="boehmer-johann-friedrich">Böhmers</persName>
+                    auch die Ursache von <rs type="person" ref="boehmer-johann-friedrich" key="boehmer-johann-friedrich">Böhmers</rs>
                     Verstimmung sein. Es freut mich übrigens, daß Euer Excellenz wahrscheinlich
                     Gelegenheit haben den Mann, der mir seit Jahren ein Leitstern meines ganzen
-                    Strebens ist und seines Gleichen in <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country> wahrlich
+                    Strebens ist und seines Gleichen in <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> wahrlich
                     nicht hat, persönlich kennen zu lernen. Noch beim Abschied sagte er mir, daß er
-                    die Absicht hege, Anfangs Octobers in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> einzutreffen,
+                    die Absicht hege, Anfangs Octobers in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> einzutreffen,
                     wo er dann jedenfalls um die Auszeichnung einer Audienz bei Euer Excellenz
                     ansuchen wird. So sehr es mir leid thut, nicht jetzt gleich zu einem großen
                     Nationalwerke mit schwachen Kräften mein Weniges beitragen zu können, so leb'
-                    ich doch immer noch in der Hoffnung, daß <persName key="boehmer-johann-friedrich">Böhmer</persName> diesen seinen Lebensplan
+                    ich doch immer noch in der Hoffnung, daß <rs type="person" ref="boehmer-johann-friedrich" key="boehmer-johann-friedrich">Böhmer</rs> diesen seinen Lebensplan
                     trotz aller Hindernisse früher oder später, wie es ihm auch gebührt und er vor
                     allen der Mann dazu ist, zur Ausführung bringen wird und die Bemerkung im
                     Allgemeinen, daß Euer Excellenz, falls er mich zu Arbeiten unter seiner Leitung
@@ -83,12 +82,12 @@
                     daß ich mit ihrer Vollendung vielleicht Veranlassung zur schnelleren Erreichung
                     desselben werde geben können. Eine schönere Belohnung könnte ich mir freilich
                     kaum denken.<lb/>Gestern hab' ich in der hiesigen Bibliothek, der letzten
-                    bedeutenden <country key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</country>, die ich noch zu
+                    bedeutenden <rs type="place" subtype="country" key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</rs>, die ich noch zu
                     besuchen hatte, Gottlob mit dem wirklich mühevollen und ermüdenden Sammeln
                     geschlossen und athme völlig freier auf. Jetzt kann ich endlich zur
                     Schlußredaction schreiten. Nur noch einen Sprung in die Archive zu
-                        <placeName ref="#place_c27539167ff9723b32673ddab9dcbe09">Hannover</placeName>, <placeName key="wolfenbuettel" ref="#place_1de5209cd5fde478bf4ba12efabce761">Wolfenbüttel</placeName>, <placeName ref="#place_f1ea98282c878579d86d8a656f0c1c93">Goslar</placeName>, dann
-                        <placeName ref="#place_4d3e0acd6166e7434bc37196cd875740">Karlsruhe</placeName> und <placeName ref="#place_a330ac6c48198545d4d2f9ff2cb0fc05">Stuttgart</placeName> und
+                        <rs type="place" subtype="place" ref="#place_c27539167ff9723b32673ddab9dcbe09">Hannover</rs>, <rs type="place" subtype="place" key="wolfenbuettel" ref="#place_1de5209cd5fde478bf4ba12efabce761">Wolfenbüttel</rs>, <rs type="place" subtype="place" ref="#place_f1ea98282c878579d86d8a656f0c1c93">Goslar</rs>, dann
+                        <rs type="place" subtype="place" ref="#place_4d3e0acd6166e7434bc37196cd875740">Karlsruhe</rs> und <rs type="place" subtype="place" ref="#place_a330ac6c48198545d4d2f9ff2cb0fc05">Stuttgart</rs> und
                     ich bin fertig und hoffe dann bestimmt mein gegebenes Wort zur erstrebten
                     Zufriedenheit lösen zu können. Ich habe nur die eine Bitte, daß Euer Excellenz
                     das Vertrauen, womit Sie mich bisher gehoben haben, mir auch ferner, soweit ich
@@ -99,7 +98,7 @@
                     belassen bleibe. Ich werde sie redlich und gewißenhaft verwenden, damit mir
                     später eine sichre und erfolgreiche Wirksamkeit in der geliebten Heimat umso
                     gewißer werde. Den Entschluß Euer Excellenz bitte ich mir vielleicht durch
-                    meinen alten Freund <persName key="tomaschek-karl">Karl Tomaschek</persName>
+                    meinen alten Freund <rs type="person" ref="tomaschek-karl" key="tomaschek-karl">Karl Tomaschek</rs>
                     oder im Wege der hohen k.k. Bundesgesandtschaft kundgeben zu lassen, damit ich
                     dann sofort die nöthigen Schritte zu meiner Legitimation im Auslande thun
                     könne.<lb/>Mit dem innigsten Danke für das unverdiente Wohlwollen Euer Excellenz

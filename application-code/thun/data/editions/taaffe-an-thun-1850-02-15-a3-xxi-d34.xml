@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="taaffe-ludwig" role="sender:beamter">Ludwig Taaffe</persName>
-                    an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="taaffe-ludwig" key="taaffe-ludwig" role="sender:beamter">Ludwig Taaffe</rs>
+                    an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1850-02-15">15. Februar
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1850-02-15">15. Februar
                     1850</date>
                 </title>
             </titleStmt>
@@ -46,7 +45,7 @@
                 </p>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -61,7 +60,7 @@
                         <orgName key="theresianische-ritterakademie">Akademie</orgName> in Folge der
                     Aufträge des hohen <orgName key="ministerium-fuer-kultus-und-unterricht">Unterrichtsministeriums</orgName> vorgenommenen Herrichtung einer
                     großartigen Anstalt für analytische und pharmazeutische Chemie, sowie einer
-                    großen Wohnung für den Herrn Professor <persName key="redtenbacher-josef">Redtenbacher</persName> und einem Laboranten aufgelaufenen Kosten eine
+                    großen Wohnung für den Herrn Professor <rs type="person" ref="redtenbacher-josef" key="redtenbacher-josef">Redtenbacher</rs> und einem Laboranten aufgelaufenen Kosten eine
                     Commission abgehalten worden sey, bei welcher vom Vorstande derselben die
                     Absicht ausgesprochen wurde, mehrere dieser Kosten, vorzüglich jene nicht
                     unbedeutenden für die Wasserleitung zum Behufe dieser chemischen Anstalt, dem
@@ -90,7 +89,7 @@
                         Akademiegebäudes</orgName>, in welchem die akademischen Musäen [sic!] der
                     Mechanik, der Naturgeschichte in allen Zweigen und der Physik, nebst dem
                     Hörsaale und Laboratorium zum chemischen Unterrichte in der Akademie
-                    untergebracht waren, und für die Wohnung des Herrn Professors <persName key="redtenbacher-josef">Redtenbacher</persName>, dessen nächste Nähe an der
+                    untergebracht waren, und für die Wohnung des Herrn Professors <rs type="person" ref="redtenbacher-josef" key="redtenbacher-josef">Redtenbacher</rs>, dessen nächste Nähe an der
                     chemischen Anstalt als unabweisliches Bedürfnis erkannt wurde, keine andere als
                     die an den erwähnten Flügel anstoßenden weitläufigen Krankensäle.<lb/>So sehr
                     sich auch die <orgName key="theresianische-ritterakademie">Akademie</orgName> in
@@ -102,7 +101,7 @@
                     ein unabweisliches Bedürfnis der <orgName key="theresianische-ritterakademie">Akademie</orgName> sind.<lb/>Diese Verwahrung fand, da ihr die
                     bestimmtesten Vorschriften des allgemeinen bürgerlichen Gesetzbuches zur Seite
                     standen, nicht die geringste Entgegnung, und so wurden die Arbeiten ganz nach
-                    dem Anforderungen des Herrn Professors <persName key="redtenbacher-josef">Redtenbacher</persName> unter Leitung und Überwachung des durch viele
+                    dem Anforderungen des Herrn Professors <rs type="person" ref="redtenbacher-josef" key="redtenbacher-josef">Redtenbacher</rs> unter Leitung und Überwachung des durch viele
                     Wochen dazu in Anspruch genommenen Hausinspektors zur vollen Zufriedenheit
                     vollendet.<lb/>Wenn nun die Besichtigungskommission geltend machen zu können
                     erachtet, daß einiges von diesen Adaptirungen auch der <orgName key="theresianische-ritterakademie">Akademie</orgName> zu statten komme, so
@@ -112,7 +111,7 @@
                     gegenwärtigen Gestalt zu keinem andern Zwecke verwendbar sind, sind für die
                     Akademie entweder ganz überflüssig oder können für ihre Bedürfnisse nur wieder
                     mit bedeutenden Auslagen neu hergerichtet werden. Dasselbe gilt zum Theile von
-                    den gegenwärtigen Wohnungslokalitäten des Herrn <persName key="redtenbacher-josef">Professors</persName>, welche für dessen häusliche
+                    den gegenwärtigen Wohnungslokalitäten des Herrn <rs type="person" ref="redtenbacher-josef" key="redtenbacher-josef">Professors</rs>, welche für dessen häusliche
                     Bedürfnisse zugerichtet, nur durch mancherlei Umstaltungen wieder in Kameraten
                     oder akademische Hörsäle verwandelt werden können.<lb/>Die neue Wasserleitung
                     für die chemische Anstalt insbesondere, auf welche die Besichtigungskommission

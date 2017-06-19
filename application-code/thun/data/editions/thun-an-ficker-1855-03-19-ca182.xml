@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="ficker-julius" role="recipient">Julius
-                        Ficker</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="ficker-julius" key="ficker-julius" role="recipient">Julius
+                        Ficker</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1855-03-19">19. März 1855</date>
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1855-03-19">19. März 1855</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -37,7 +36,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -55,7 +54,7 @@
                     </note> sage,
                     erscheine ich schon wieder mit einem neuen Anliegen.<lb/>Der
                     Geschichtsunterricht an den Gymnasien ruht bisher hauptsächlich auf den
-                    Lehrbüchern von <persName key="puetz-wilhelm">Pütz</persName>
+                    Lehrbüchern von <rs type="person" ref="puetz-wilhelm" key="puetz-wilhelm">Pütz</rs>
                     <note xml:id="note_2">Wilhelm Pütz, Grundriss der Geographie und Geschichte der
                         alten mittleren und neueren Zeit für die oberen und höheren Lehranstalten, 3
                         Bd., Koblenz 1851–1854, 5. Auflage.</note>. Sie lassen manches, namentlich

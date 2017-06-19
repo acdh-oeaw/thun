@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="wolkenstein-karl" role="sender:beamter">Karl
-                        Wolkenstein</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="wolkenstein-karl" key="wolkenstein-karl" role="sender:beamter">Karl
+                        Wolkenstein</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>o. O., o. D. <date when="1851">[1851]</date>
                     <note xml:id="note_1">Die Datierung in das Jahr 1851 erfolgt
                         aufgrund einer Notiz Thuns am oberen Blattrand.</note>
@@ -39,7 +38,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -49,9 +48,9 @@
                     <term>Neoabsolutismus</term>
                 </index>
                 <p>&lt;1851<lb/>Gleich als es sich um Aktivirung des (ständigen) Reichsrathes
-                    handelte, empfahl ich <persName key="wolkenstein-karl">Wolkenstein</persName>
-                    dem <persName key="schwarzenberg-felix">Fürsten Schwarzenberg</persName>.
-                        <persName key="wolkenstein-karl">W[olkenstein]</persName> wurde gerufen und
+                    handelte, empfahl ich <rs type="person" ref="wolkenstein-karl" key="wolkenstein-karl">Wolkenstein</rs>
+                    dem <rs type="person" ref="schwarzenberg-felix" key="schwarzenberg-felix">Fürsten Schwarzenberg</rs>.
+                        <rs type="person" ref="wolkenstein-karl" key="wolkenstein-karl">W[olkenstein]</rs> wurde gerufen und
                     hatte eine Unterredung mit ihm.<lb/>Nach derselben übergab er mir diesen
                     Ausdruck seiner Gedanken als Antwort auf die in jener Unterredung angeregten
                         Fragen.&gt;<note xml:id="note_2">Eigenhändige Anmerkung Thuns am oberen Rand
@@ -62,8 +61,8 @@
                     Dienste, so halte ich mich für verpflichtet zu leisten, was ich vermag, wenn
                     anders die Stellung der Art ist, daß sie nach meiner Überzeugung zum Guten
                     beytragen kann.<lb/>Was der R[eichs] R[at] seyn werde, ist mir nicht näher
-                    bekannt – ich hege jedoch zu <persName key="kuebeck-von-kuebau-alois">Baron
-                        Kübeck</persName> das Vertrauen, daß er keiner todten oder unfruchtbaren
+                    bekannt – ich hege jedoch zu <rs type="person" ref="kuebeck-von-kuebau-alois" key="kuebeck-von-kuebau-alois">Baron
+                        Kübeck</rs> das Vertrauen, daß er keiner todten oder unfruchtbaren
                     Schöpfung seinen Namen leihen werde.<lb/>Um die Frage zu beantworten, ob ich von
                     der Absicht ausgehen würde, das Ministerium zu sprengen oder auf die Entfernung
                     einzelner den Conservativen unliebsamer Persönlichkeiten hinzuwirken, müßte ich

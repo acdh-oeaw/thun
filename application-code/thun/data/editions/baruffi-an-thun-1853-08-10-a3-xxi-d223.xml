@@ -1,14 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://thun-korrespondenz.uibk.ac.at/svn/thun/thun-korrespondenz/schema/thun-schema.rnc" type="application/relax-ng-compact-syntax"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="baruffi-giuseppe" role="sender:laie">Giuseppe
-                        Baruffi</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="baruffi-giuseppe" key="baruffi-giuseppe" role="sender:laie">Giuseppe
+                        Baruffi</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_7d1865c03241bd7a6616fa5587af6f8b">Rovigo</placeName>, <date when="1853-08-10">10. August 1853</date>
+                    <rs type="place" subtype="place" ref="#place_7d1865c03241bd7a6616fa5587af6f8b">Rovigo</rs>, <date when="1853-08-10">10. August 1853</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -44,7 +42,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -62,19 +60,19 @@
                     quale indulgenza io mi attendo dalla specchiatissima degnazione di Lei, che è
                     veramente compresa della utilità, che abbiano a porgere i Magistrati, anco
                     eccelsi, un benigno ascolto alla voce di qualsiasi cittadino di
-                    onore.<lb/>Giungeva testé a noi la notizia, che <persName key="franz-joseph">Sua
-                        Maestà l’Imperatore</persName> conferiva la Croce d’oro del merito a questo
-                    Direttore dello Spedale civile, <persName key="pignolo-bartolomeo">Dr.
-                        Pignolo</persName>, per cure qui prestate ai Militari austriaci infermi o
+                    onore.<lb/>Giungeva testé a noi la notizia, che <rs type="person" ref="franz-joseph" key="franz-joseph">Sua
+                        Maestà l’Imperatore</rs> conferiva la Croce d’oro del merito a questo
+                    Direttore dello Spedale civile, <rs type="person" ref="pignolo-bartolomeo" key="pignolo-bartolomeo">Dr.
+                        Pignolo</rs>, per cure qui prestate ai Militari austriaci infermi o
                     feriti. Ossequiando io la Sovrana Risoluzione, non posso però a meno di far
-                    conoscere in via privata a Vostra Eccellenza che il <persName key="pignolo-bartolomeo">Dr. Pignolo</persName>, come Direttore, non curò un
+                    conoscere in via privata a Vostra Eccellenza che il <rs type="person" ref="pignolo-bartolomeo" key="pignolo-bartolomeo">Dr. Pignolo</rs>, come Direttore, non curò un
                     infermo giammai nello Spedale, e ch’io solo, come Medico Primario ò trattate a
                     migliaia le malattie interne dei Soldati, e un valente chirurgo si occupava
                     delle esterne lesioni. Non avendomi pertanto il mio lavoro, faticosissimo,
                     straordinario e con ottimi successi riuscito, a vantaggio delle k.k. Truppe,
                     come dimostrano alcune attestazioni onorevoli rilasciatemi dai Signori Ufficiali
                     Superiori, non avendomi, dissi, fruttato un solo cenno di riconoscenza per parte
-                    della autorità costituite, dovrò con <persName key="vergil">Virgilio</persName>
+                    della autorità costituite, dovrò con <rs type="person" ref="vergil" key="vergil">Virgilio</rs>
                     ripetere:<lb/>Hos ego versiculos feci, tulit alter honores,<lb/>Sic vos non
                     vobis vellera fertis oves, etc.<lb/>In me nacque però una lusinga, che Vostra
                     Eccellenza non fosse per isdegnare, col suo alto patrocinio, di procurarmi una
@@ -84,7 +82,7 @@
                     sono per natura inclinatissimo; studi che prosperando eccitarono l’invidia del
                     suddetto Direttore d’Ospitale, e mi costrinsero per tranquillità a dimettermi,
                     dopo undici anni di servizio, dal carico di Medico Primario; studi, che mi
-                    valsero i Diplomi delle principali accademie d’<country key="italien" ref="#place_19cb29505c294db5ca9190ea93447e98">Italia</country>, e di una pur celebre di <country key="frankreich" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Francia</country>; studi, che mi sorreggeano nell’insegnamento privato
+                    valsero i Diplomi delle principali accademie d’<rs type="place" subtype="country" key="italien" ref="#place_19cb29505c294db5ca9190ea93447e98">Italia</rs>, e di una pur celebre di <rs type="place" subtype="country" key="frankreich" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Francia</rs>; studi, che mi sorreggeano nell’insegnamento privato
                     della medicina, e nelle Supplenze alla Cattedra di fisica; studi infine, che mi
                     giovarono per la compilazione di assai Memorie scientifiche, pubblicate nei
                     Giornali Italiani, e sovente riportate o citate da altri con lode.<lb/>E ardirei

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="reden-friedrich-wilhelm" role="sender:beamter">Friedrich
-                        Wilhelm Reden</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="reden-friedrich-wilhelm" key="reden-friedrich-wilhelm" role="sender:beamter">Friedrich
+                        Wilhelm Reden</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_5ad4eeddef969bf33c14a5c4a1bcf77d">o. O.
-                    [Wien]</placeName>, <date when="1857-11-28">o. D. [28. November
+                    <rs type="place" subtype="place" ref="#place_5ad4eeddef969bf33c14a5c4a1bcf77d">o. O.
+                    [Wien]</rs>, <date when="1857-11-28">o. D. [28. November
                         1857]</date>
                     <note xml:id="note_1">Ort und Datum sind im Nachlass
                         verzeichnet, allerdings erschließt sich nicht, wie diese Datierung erfolgt
@@ -54,7 +53,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -84,8 +83,8 @@
                     bei jeder einzelnen Universität nach dem vorhandenen Stoffe einzurichten. Über
                     einzelne Hülfsanstalten lassen sich allerdings noch mehr Einzelangaben machen,
                     z.B. über die <hi rend="ul">Bibliotheken</hi>; hinsichtlich welcher Herr
-                    Sektionsrath <persName key="heufler-von-hohenbuehel-ludwig">Ritter von
-                        Häufler</persName> (auf geäußerten Wunsch) eine besondere
+                    Sektionsrath <rs type="person" ref="heufler-von-hohenbuehel-ludwig" key="heufler-von-hohenbuehel-ludwig">Ritter von
+                        Häufler</rs> (auf geäußerten Wunsch) eine besondere
                     Zusammenstellung empfing. Auch in Beziehung auf die <hi rend="ul">Personalausgaben</hi> (jedoch nicht nach Fakultäten geschieden), auf den
                         <hi rend="ul">Honorarbetrag</hi> usw. Beispielsweise die Honorareinnahme
                     betrug (im Durchschnitt der letzten Jahre) für <hi rend="ul">einen</hi>
@@ -114,7 +113,7 @@
                     bezahlter Lehrkräfte.<lb/>Wer in diesem wissenschaftlichen Wettkampf zögert oder
                     gar zurück bleibt, dem würde es schwer werden nachzukommen, wenn der Schaden
                     sichtbar geworden ist.</p>
-                <p>I.<hi rend="ul"> Königreich <country key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</country>
+                <p>I.<hi rend="ul"> Königreich <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs>
                     </hi>
                 </p>
                 <p>Nach dem Etat der Unterrichtsverwaltung für 1857 beträgt der <hi rend="ul">Staatszuschuß</hi> der preußischen <hi rend="ul">Universitäten</hi> und der
@@ -269,7 +268,7 @@
                         Abgabenwesens und der Schulden Deutschlands und des übrigen Europa,
                         Darmstadt 1851.</note>. Das Staatshandbuch für 1857 (welches ich auf
                     Erfordern vorlegen kann) enthält Einzelheiten über das <hi rend="ul">Personal</hi> der Gegenwart.</p>
-                <p>II. <hi rend="ul">Königreich <country ref="#place_51150b7b6309d23b7d292c0be9fd3f21">Bayern</country>
+                <p>II. <hi rend="ul">Königreich <rs type="place" subtype="country" ref="#place_51150b7b6309d23b7d292c0be9fd3f21">Bayern</rs>
                     </hi>
                 </p>
                 <p>Bei dem gänzlichen Mangel neuer selbstständiger Schriften über die Universitäten
@@ -301,7 +300,7 @@
                     nur noch hervorzuheben, daß (außer bei München) wenig eigenes fruchttragendes
                     Vermögen vorhanden seyn soll. Das <hi rend="ul">Personal</hi> ergiebt sich aus
                     dem Staatshandbuche.</p>
-                <p>III. <hi rend="ul">Königreich <country key="wuerttemberg" ref="#place_d3339865dfd97ccc0793c342cbd8094f">Württemberg</country>
+                <p>III. <hi rend="ul">Königreich <rs type="place" subtype="country" key="wuerttemberg" ref="#place_d3339865dfd97ccc0793c342cbd8094f">Württemberg</rs>
                     </hi>
                 </p>
                 <p>Über die Verhältnisse der württembergischen Landesuniversität <orgName key="universitaet-tuebingen">Tübingen</orgName> fehlt es nicht an
@@ -338,13 +337,13 @@
                     scheint das Gesamterfordernis der Universität etwa 164.000 fl.<lb/>Die <hi rend="ul">Vertheilung</hi> dieser Summe auf einzelne Ausgabszweige ist nicht
                     gedruckt. Das <hi rend="ul">Personal</hi> ergiebt sich aus dem Staatshandbuch
                     und den Bekanntmachungen der Vorlesungen usw. im Regierungsblatt.</p>
-                <p>IV. <hi rend="ul">Königreich <country key="hannover" ref="#place_6ea98adbe89dfab2227635ac7d7fe8fe">Hannover</country>
+                <p>IV. <hi rend="ul">Königreich <rs type="place" subtype="country" key="hannover" ref="#place_6ea98adbe89dfab2227635ac7d7fe8fe">Hannover</rs>
                     </hi>
                 </p>
                 <p>
                     <orgName key="universitaet-goettingen">Göttingen</orgName> ist vertragsmäßig
-                    zugleich Landesuniversität für <country ref="#place_f213e3074e0c95c49458e3e8cc8335df">Braunschweig</country> und
-                        <country ref="#place_b3a3a0c6d2cb7b5adc8d3568f73ad8b2">Nassau</country>; jedoch empfängt die Universitätskasse aus diesen
+                    zugleich Landesuniversität für <rs type="place" subtype="country" ref="#place_f213e3074e0c95c49458e3e8cc8335df">Braunschweig</rs> und
+                        <rs type="place" subtype="country" ref="#place_b3a3a0c6d2cb7b5adc8d3568f73ad8b2">Nassau</rs>; jedoch empfängt die Universitätskasse aus diesen
                     Staaten keine Zuschüsse, obgleich einzelne Lehrer dergleichen sich erfreuen. Die
                     Universität ist ferner mit keinem Ertrag gebenden Vermögen von irgend einer
                     Bedeutung ausgestattet, denn sie bezieht nur einen Pachtzins von jährlich 60

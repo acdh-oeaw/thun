@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="bonitz-hermann" role="sender:gelehrter">Hermann
-                        Bonitz</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="bonitz-hermann" key="bonitz-hermann" role="sender:gelehrter">Hermann
+                        Bonitz</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_9133258feaffdcdd4e13bf0541bba110">Hacking</placeName>, <date when="1860-09-09">9. September 1860</date>
+                    <rs type="place" subtype="place" ref="#place_9133258feaffdcdd4e13bf0541bba110">Hacking</rs>, <date when="1860-09-09">9. September 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -49,7 +48,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -71,7 +70,7 @@
                     hoffen darf nicht als zudringlich zu erscheinen, wenn ich es wage, den Grund
                     meiner Besorgnisse über die beabsichtigte Maßregel unverhohlen und ehrerbietigst
                     Euerer Excellenz unmittelbar dazulegen.<lb/>Für den Bestand der Gymnasialreform,
-                    welche der <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">österreichische Kaiserstaat</country>
+                    welche der <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">österreichische Kaiserstaat</rs>
                     Euerer Excellenz zu verdanken hat, und für das Gedeihen der Gymnasien in dieser
                     Einrichtung liegt die wesentlichste Voraussetzung darin, daß sich ein <hi rend="ul">Lehrstand</hi> bilde, welcher das Studium seines Faches mit Lust
                     erwählt, mit Ausdauer betrieben habe und demselben auch während seiner
@@ -148,7 +147,7 @@
                     Erfahrung nicht über zwei bis drei Procent. Welcher Nachtheil für die gesammte
                     Haltung des Lehrstandes darin liegt, daß er fast ausschließlich aus den
                     mittellosen Classen sich fortwährend ersetzt, das ist für jeden augenfällig, der
-                    den Lehrstand des nichtösterreichischen <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country> im
+                    den Lehrstand des nichtösterreichischen <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> im
                     Allgemeinen kennt und nicht etwa bloß nach den zufälligen einzelnen Fällen der
                     Anstellung von Nichtösterreichern an österreichischen Gymnasien beurtheilt. Die
                     Regierung sucht durch liberale Unterstützung der Vorbereitung für den Lehrstand
@@ -172,7 +171,7 @@
                     darauf zu achten, auf welche Kreise der Gesellschaft Gymnasiallehrer bei ihrer
                     Verheirathung sich fast ausnahmslos anzureihen haben, und dem Culturstatistiker
                     würde sich eine interessante Vergleichung mit den Verhältnissen des übrigen
-                        <country key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</country> darbieten. Wenn diese
+                        <rs type="place" subtype="country" key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</rs> darbieten. Wenn diese
                     Beschränkung auf der einen Seite die nothwendige Folge der ökonomischen Stellung
                     und Aussichtslosigkeit des Lehrstandes ist, so wirkt sie andererseits wieder auf
                     ein Herabdrücken seiner Achtung im Publikum, die man als einen Factor für das
@@ -207,7 +206,7 @@
                     Schulgeld an Gymnasien im Vergleiche nicht nur mit den sonst für Unterricht
                     üblichen Ausgaben und mit den Einrichtungen der unter gleichen Verhältnissen
                     lebenden deutschen Nachbarstaaten, sondern sogar im Vergleiche mit den vor
-                    ungefähr einem Jahrhundert in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country>
+                    ungefähr einem Jahrhundert in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>
                     selbst getroffenen Anordnungen <hi rend="ul">unglaublich niedrig</hi> angesetzt
                         ist.<lb/>
                     <hi rend="ul">Jetzt</hi> scheint die Sorge wegen des Unwillens über
@@ -224,19 +223,19 @@
                     dem, was sie wirklich sind, leiden und verkommen.<lb/>
                     <hi rend="ul">Zweitens</hi>. Wollen Euere Excellenz gütigst vergleichen, was in dem
                     letzten Jahrzehnt auf dem Gebiete des Gymnasialwesens im übrigen
-                        <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country>, und was in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> vorgegangen ist.<lb/>Die übrigen deutschen Staaten, z.
-                    B. <country key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</country>, besaßen bereits vor einem
+                        <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs>, und was in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> vorgegangen ist.<lb/>Die übrigen deutschen Staaten, z.
+                    B. <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs>, besaßen bereits vor einem
                     Jahrzehnt einen gebildeten, geachteten Lehrstand, der keineswegs ausschließlich
                     oder in der Mehrzahl aus den völlig mittellosen Classen hervorgieng. – Die
                     Preise der Lebensmittel sind in dem letzten Jahrzehnt auch in dem
-                    außerösterreichischen <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country> gestiegen, aber bei weitem
-                    nicht in dem Maße wie in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country>. – Die
-                    meisten deutschen Staaten, am consequentesten <country key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</country> unter <hi rend="ul">allen</hi> seinen Ministerien, haben
+                    außerösterreichischen <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> gestiegen, aber bei weitem
+                    nicht in dem Maße wie in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>. – Die
+                    meisten deutschen Staaten, am consequentesten <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> unter <hi rend="ul">allen</hi> seinen Ministerien, haben
                     seit dem letzten Jahrzehnt eine erhebliche Erhöhung der Lehrergehalte an
                     Gymnasien eintreten lassen.<lb/>
-                    <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country>
+                    <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>
                     ist bemüht zur Ausführung der Reformen im Gymnasialwesen einen tüchtigen
-                    Lehrstand herzustellen. – Die Preise aller Lebensmittel sind in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> jetzt, gegenüber den Zuständen vor
+                    Lehrstand herzustellen. – Die Preise aller Lebensmittel sind in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> jetzt, gegenüber den Zuständen vor
                     zwölf Jahren in einer erschreckenden Schnelligkeit und Consequenz gestiegen. –
                     Die Gehalte der Gymnasiallehrer sind – dies habe ich in der angeführten
                     Denkschrift nachgewiesen – jetzt selbst der Ziffer nach geringer, als sich bei

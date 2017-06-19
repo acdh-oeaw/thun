@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="brueggemann-theodor" role="sender:beamter">Theodor
-                        Brüggemann</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="brueggemann-theodor" key="brueggemann-theodor" role="sender:beamter">Theodor
+                        Brüggemann</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_ee1611b61f5688e70c12b40684dbb395">Berlin</placeName>,
+                    <rs type="place" subtype="place" ref="#place_ee1611b61f5688e70c12b40684dbb395">Berlin</rs>,
                         <date when="1860-02-20">20. Februar 1860</date>
                 </title>
             </titleStmt>
@@ -40,7 +39,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -54,7 +53,7 @@
                 </index>
                 <p>Hochgeborner Herr Graf,<lb/>Hochzuverehrender Herr Minister!</p>
                 <p>Euer Exzellenz bitte ich um geneigte Entschuldigung, wenn ich mir erlaube, den
-                    Überbringer <persName key="bendix">Dr. Bendix</persName> mit diesen Zeilen bei
+                    Überbringer <rs type="person" ref="bendix" key="bendix">Dr. Bendix</rs> mit diesen Zeilen bei
                     Ihnen einzuführen. Der jüdischen Synagoge angehörig hat derselbe durch
                     sorgfältiges Studium und durch Gottes Gnade die Wahrheit des Christenthums
                     erkannt und ist entschlossen mit Aufgebung seiner ihn sehr wohl nährenden
@@ -68,9 +67,9 @@
                     Gymnasiums als Lehrer verwendet werden, und würde zugleich den Unterricht im
                     Hebräischen in den oberen Gymnasial-Klassen übernehmen können. Für alle diese
                     verschiedenen Richtungen, in welchen er nützlich verwendet werden könnte, ist in
-                        <country key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</country> schwerlich ihm den Weg zu öffnen,
+                        <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> schwerlich ihm den Weg zu öffnen,
                     da er eben das katholische Glaubensbekenntnis abzulegen gedenkt. Er hat daher
-                    seine Schritte nach <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> gelenkt, um
+                    seine Schritte nach <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> gelenkt, um
                     zu versuchen, ob er dort ein ihn und seine Familie nährendes Unterkommen finden
                     könne. Sollte dies in irgend einer Weise möglich seyn, so haben Euer Excellenz
                     vielleicht die große Güte, ihm einen Mann zu bezeichnen, dem er seine ganzen

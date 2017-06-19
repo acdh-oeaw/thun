@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="ruben-christian" role="sender:gelehrter">Christian
-                        Ruben</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="ruben-christian" key="ruben-christian" role="sender:gelehrter">Christian
+                        Ruben</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, <date when="1852-01-13">13.
+                    <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1852-01-13">13.
                         Januar 1852</date>
                 </title>
             </titleStmt>
@@ -38,7 +37,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -57,7 +56,7 @@
                     Berufe zu widmen. Möge Gott, der mich bei diesem Beschlusse geleitet, mir auch
                     die Einsicht und Kraft in meinem neuen Wirkungskreise verleihen, damit Sie Herr
                     Minister es nie bereuen dürfen, eine Berufung vollzogen zu haben, an die sich
-                    Ihre Hoffnungen für das Gedeihen der Kunst in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> knüpfen! Ich verkenne keinen Augenblick das Schwierige
+                    Ihre Hoffnungen für das Gedeihen der Kunst in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> knüpfen! Ich verkenne keinen Augenblick das Schwierige
                     meiner Aufgabe und das ganze Gewicht meiner Verpflichtungen, ja ich darf mit
                     gutem Gewissen behaupten, daß sie es grade waren, welche mich mehr als die
                     materiellen Vor- oder Nachtheile bei dem Aufgeben meiner jetzigen Stellung
@@ -65,16 +64,16 @@
                     rechte Richtung zu geben, so hätten es die herzlichen und klaren Worte in Euer
                     Exzellenz gütigem Schreiben gewiß vermocht. Kopf und Herz werden trachten, den
                     Kummer zu verwischen, den ich Euer Exzellenz, den ich meinem theuersten Freunde
-                    dem <persName key="thun-hohenstein-franz-anton">Grafen Franz</persName>
+                    dem <rs type="person" ref="thun-hohenstein-franz-anton" key="thun-hohenstein-franz-anton">Grafen Franz</rs>
                     verursacht habe.<lb/>Ehe ich jedoch dieses Schreiben schließe, halte ich es für
                     meine heiligste Pflicht eines Mannes in Ehren zu gedenken, der mir durch sein
                     aufopferungs- und liebevolles Benehmen die endliche Entscheidung erleichtern
-                    half. Ja, Exzellenz <persName key="nostitz-rieneck-erwein">Graf
-                        Erwein</persName> hat sich in dieser Angelegenheit so ausnehmend gütig gegen
+                    half. Ja, Exzellenz <rs type="person" ref="nostitz-rieneck-erwein" key="nostitz-rieneck-erwein">Graf
+                        Erwein</rs> hat sich in dieser Angelegenheit so ausnehmend gütig gegen
                     mich benommen, daß ich Zeit meines Lebens nicht im Stande sein werde, ihm die
                     Liebe und das Wohlwollen zu vergelten, mit denen er mir in meiner so peinlichen
-                    Lage beistand.<lb/>Da ich nicht sicher bin, ob <persName key="thun-hohenstein-franz-anton">Graf Franz</persName> sich in
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> oder auf der Reise hierher befindet, so wage ich
+                    Lage beistand.<lb/>Da ich nicht sicher bin, ob <rs type="person" ref="thun-hohenstein-franz-anton" key="thun-hohenstein-franz-anton">Graf Franz</rs> sich in
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> oder auf der Reise hierher befindet, so wage ich
                     an Euer Exzellenz für den ersten Fall die gehorsamste Bitte, ihm meinen
                     Entschluß kundzugeben und ihn womöglich zu einem kurzen Abstecher hierher zu
                     veranlassen, damit ich mit ihm über die Zeit meines Eintritts und die Lösung

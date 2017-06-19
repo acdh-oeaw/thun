@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="hingenau-otto" role="sender:gelehrter">Otto
-                        Hingenau</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="hingenau-otto" key="hingenau-otto" role="sender:gelehrter">Otto
+                        Hingenau</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>o. O., <date when="1860-06-20">20. Juni
                     1860</date>
                 </title>
@@ -41,7 +40,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -51,18 +50,18 @@
                 </index>
                 <p>Euere Excellenz!</p>
                 <p>Wie beiliegende Abschrift zeigt, macht die Annexirung der <orgName key="geologische-reichsanstalt">geologischen Reichsanstalt</orgName> bereits
-                    Eindruck in <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country>, leider, wie die angeröthelte Stelle
+                    Eindruck in <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs>, leider, wie die angeröthelte Stelle
                     vermuthen läßt, wird sie <hi rend="ul">Ihnen</hi> oder der Geistlichkeit
                     zugemuthet, da sie doch von ganz anderer Seite ausgegangen ist. Ich halte es für
                     meine Pflicht, Ihnen diesen Brief so wie jenes kleine Mémoire zu übersenden,
-                    welches Bergrath <persName key="foetterle-franz">Fötterle</persName>, der
+                    welches Bergrath <rs type="person" ref="foetterle-franz" key="foetterle-franz">Fötterle</rs>, der
                     einzige der noch anwesenden Geologen, auf Ersuchen der Reichsräthe Baron
-                        <persName key="reyer-constantin">Reyer</persName> und <persName key="mayr-von-melnhof-franz">von Mayer</persName> denselben zur Orientirung
+                        <rs type="person" ref="reyer-constantin" key="reyer-constantin">Reyer</rs> und <rs type="person" ref="mayr-von-melnhof-franz" key="mayr-von-melnhof-franz">von Mayer</rs> denselben zur Orientirung
                     für die Budgetfrage mitgetheilt hat.<note xml:id="note_1">
                         <ref target="thun/thun-korrespondenz/tetschen/gutachten-gegen-aufloesung-geologische-reichsanstalt-von-foetterle_1860-06-19_A3-XXI-D591.xml">Dabei handelt es sich wohl um das Gutachten über den Fortbestand der
                             Geologischen Reichsanstalt von Franz Foetterle, Wien, 15. Juni
                             1860.</ref>
-                    </note> Ich habe Prof. <persName key="schroetter-franz-ferdinand">Schrötter</persName> sondirt, der als
+                    </note> Ich habe Prof. <rs type="person" ref="schroetter-franz-ferdinand" key="schroetter-franz-ferdinand">Schrötter</rs> sondirt, der als
                     Generalsecretär der <orgName key="akademie-der-wissenschaften">Academie der
                         Wissenschaften</orgName> nicht ohne Einfluß ist. Er hat eine ziemlich
                     praktische Idee, um die allerhöchste Entschließung mit den Interessen der <hi rend="ul">Sache</hi> in Einklang zu bringen und ich wünschte, daß es in

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="jaeger-albert" role="sender">Albert Jäger</persName> an
-                        <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="jaeger-albert" key="jaeger-albert" role="sender">Albert Jäger</rs> an
+                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_834e1bca2cb7d2238249e70860ed8ae8">Meran</placeName>, <date when="1851-02-26">26. Februar 1851</date>
+                    <rs type="place" subtype="place" ref="#place_834e1bca2cb7d2238249e70860ed8ae8">Meran</rs>, <date when="1851-02-26">26. Februar 1851</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -38,7 +37,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -57,7 +56,7 @@
                     Kenntnissen zusagenden Wirkungskreis an der <orgName key="universitaet-innsbruck">Universität in Innsbruck</orgName> abberufen,
                     und hierher an das <orgName key="gymnasium-meran">Gymnasium</orgName> versetzt.
                     Es war das größte Opfer, das in meinem Leben von mir gefordert wurde. Allein ich
-                    musste dem Rufe <persName key="mayr-karl">meines Ordensvorgesetzten</persName>
+                    musste dem Rufe <rs type="person" ref="mayr-karl" key="mayr-karl">meines Ordensvorgesetzten</rs>
                     gehorchen, und nur das Bewusstsein, meine fast verfallene Lehranstalt vor der
                     Auflösung zu retten, und sogar ihre Neugestaltung und Erweiterung zu einem
                     vollständigen Obergymnasium fördern zu helfen, konnte mich über den Verlust
@@ -67,7 +66,7 @@
                     nunmehr organisiert und in Gang gebracht. Nach meiner Ansicht bin ich zu
                     ferneren Leitung nicht mehr so nothwendig, und die Sehnsucht nach dem früheren
                     Wirkungskreis erwacht wieder in ihrer ganzen Stärke. Berichte meiner ehemaligen
-                    Collegen aus <placeName ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</placeName>, worin sie ihr Bedauern
+                    Collegen aus <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs>, worin sie ihr Bedauern
                     ausdrücken, daß die Geschichtskanzel daselbst nicht besetzt sei, und vielleicht
                     auch nicht bald besetzt werden dürfte, und der von ihnen beigefügte für mich
                     ehrenvolle Wunsch nach meiner Rückkehr, steigern meine Sehnsucht noch mehr. Ich
@@ -78,8 +77,8 @@
                     Gang gebracht, die Lehrerstellen mit fähigen zum Theil schon geprüften Männern
                     besetzt sind, und schon für das künftige Jahr wieder ein tüchtiger Lehrer im
                     Stifte sich herangebildet hat. Zum Director erlaube ich mir Euer Excellenz den
-                    Lehrer des Obergymnasiums <persName key="zingerle-pius">P. Pius
-                        Zingerle</persName> vorzuschlagen, einen Mann von den vielseitigsten
+                    Lehrer des Obergymnasiums <rs type="person" ref="zingerle-pius" key="zingerle-pius">P. Pius
+                        Zingerle</rs> vorzuschlagen, einen Mann von den vielseitigsten
                     Kenntnissen, ausgezeichnet durch seine Schriftstellerischen Arbeiten, der
                     vollkommen geeignet ist, die geordnete Lehranstalt fortan zu
                     leiten.<lb/>Erlauben Euere Excellenz, daß ich auch noch andere Gründe erwähne,
@@ -88,7 +87,7 @@
                     in der vaterländischen Geschichte abgegeben, und durch einige Arbeiten mir die
                     unverdiente Auszeichnung erworben, von der <orgName key="akademie-der-wissenschaften">kais. Akademie der Wissenschaften in
                         Wien</orgName> und der <orgName key="bayrische-akademie-der-wissenschaften">kön. baierischen Akademie in München</orgName> zum Mitgliede ernannt zu
-                    werden. Ich habe ferner in <placeName ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</placeName> für ein größeres
+                    werden. Ich habe ferner in <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs> für ein größeres
                     Werk durch einige Jahre Materialien aufgezeichnet, in der Hoffnung, sie mit Muße
                     verarbeiten zu können, allein hier, fern von allen Quellen und Hilfsmitteln, und
                     in Anspruch genommen von den Directorats- und Lehrerpflichten, konnte ich seit 2
@@ -105,11 +104,11 @@
                     die Steigerung der Anforderungen an einen Universitätsprofessor ein ganz anderer
                     ist als früher. Ich habe die Überzeugung, daß es nicht von ferne in den Wünschen
                     Euerer Excellenz liege, einen Professor nothleiden zu lassen, was aber früher
-                    nach meinem Austritte aus dem Hause des <persName key="brandis-clemens">Grafen
-                        Brandis</persName>, wo ich nur auf den Gehalt der 600 f angewiesen war,
+                    nach meinem Austritte aus dem Hause des <rs type="person" ref="brandis-clemens" key="brandis-clemens">Grafen
+                        Brandis</rs>, wo ich nur auf den Gehalt der 600 f angewiesen war,
                     beinahe der Fall war. In der zuversichtlichsten Erwartung, Euere Excellenz
                     werden meine Bitten gnädigst berücksichtigen, bitte ich die Versicherung meiner
-                    redlichsten Absicht, dem <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Staate</country> mehr zu
+                    redlichsten Absicht, dem <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Staate</rs> mehr zu
                     nützen als es hier an dieser <orgName key="gymnasium-meran">kleinen
                         Lehranstalt</orgName> möglich ist, genehmigen zu wollen, mit welcher ich
                     mich ehrfurchtsvoll unterzeichne.</p>

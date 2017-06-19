@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="inzaghi-karl" role="sender:beamter">Karl Inzaghi</persName> an
-                        <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="inzaghi-karl" key="inzaghi-karl" role="sender:beamter">Karl Inzaghi</rs> an
+                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_ca7668a05b2a3dbf29ca3d768c0febe8">Graz</placeName>, <date when="1851-12-11">11.
+                    <rs type="place" subtype="place" ref="#place_ca7668a05b2a3dbf29ca3d768c0febe8">Graz</rs>, <date when="1851-12-11">11.
                         Dezember 1851</date>
                 </title>
             </titleStmt>
@@ -37,7 +36,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -47,14 +46,14 @@
                 </index>
                 <p>Hochgebohrner Graf!</p>
                 <p>Ich schmeichle mir, daß Euere Exzellenz es einem alten Bekannten, der seit den
-                    letzten Tagen des Jahres 1848 sein Vaterland <region key="steiermark" ref="#place_14bd8b3481e42e876339d95d9710323f">Steyermark</region> zu seinem bleibenden Aufenthalte gewählt hat und sich
-                    bei einigen Excursionen, die er seitdem nach <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> gemacht
+                    letzten Tagen des Jahres 1848 sein Vaterland <rs type="place" subtype="region" key="steiermark" ref="#place_14bd8b3481e42e876339d95d9710323f">Steyermark</rs> zu seinem bleibenden Aufenthalte gewählt hat und sich
+                    bei einigen Excursionen, die er seitdem nach <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> gemacht
                     hat, nicht erlaubte, Euerer Exzellenz durch seinen Besuch Ihre kostbare Zeit zu
                     rauben, nicht verargen werden, wenn er pro bono publico Sie mit einer Bitte
                     belästiget.<lb/>Es handelt sich um die definitive Gründung des hiesigen
                     Taubstummeninstitutes, welches durch den gegenwärtigen ausgezeichneten Direktor
                     vortrefflich geführt wird.<lb/>Diese Angelegenheit, in welcher der Staatsschatz
-                    gar nicht in Anspruch genommen wird, dürfte ehestens vom <persName key="bach-alexander">Minister des Innern</persName> an Euere Excellenz zur
+                    gar nicht in Anspruch genommen wird, dürfte ehestens vom <rs type="person" ref="bach-alexander" key="bach-alexander">Minister des Innern</rs> an Euere Excellenz zur
                     gefälligen Rücksprache geleitet werden.<lb/>Seine Majestät haben das diesfällige
                     Majestätsgesuch des erwähnten Institutsdirektors signirt. Ich bitte Euere
                     Exzellenz um Ihre gütige Mitwirkung, damit dieser sehr wohlthätigen Anstalt die

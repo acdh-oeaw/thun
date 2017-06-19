@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Abschrift eines Briefes von <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an <persName key="goluchowski-agenor" role="recipient:beamter">Agenor
-                        Goluchowski</persName>
+                <title>Abschrift eines Briefes von <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an <rs type="person" ref="goluchowski-agenor" key="goluchowski-agenor" role="recipient:beamter">Agenor
+                        Goluchowski</rs>
                     <lb/>
-                    <placeName ref="#place_e3a1571b9091d6d78548ad3b4b159d11">Hetzendorf</placeName>, <date from="1859-07-25" to="1859-07-29">25. bis 29. Juli 1859</date>
+                    <rs type="place" subtype="place" ref="#place_e3a1571b9091d6d78548ad3b4b159d11">Hetzendorf</rs>, <date from="1859-07-25" to="1859-07-29">25. bis 29. Juli 1859</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -85,7 +84,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -148,9 +147,9 @@
                     Noch viel schwereren Kummer macht es mir aber zur klaren Einsicht gelangt zu
                     sein, daß diese Meinungsverschiedenheit nur die Folge einer viel allgemeineren
                     und tiefer liegenden ist. Sie perhoresziren den ruthenischen Klerus im
-                    Allgemeinen und Sie sind – wie Sie dem <persName key="jirecek-josef">Jireček</persName> offen erklärt haben – Josephiner. Das treibt Sie
+                    Allgemeinen und Sie sind – wie Sie dem <rs type="person" ref="jirecek-josef" key="jirecek-josef">Jireček</rs> offen erklärt haben – Josephiner. Das treibt Sie
                     nothwendig in eine Bahn, die nach meiner Überzeugung eine erfolgreiche heilsame
-                    Regierung <region key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galiziens</region> unmöglich macht oder
+                    Regierung <rs type="place" subtype="region" key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galiziens</rs> unmöglich macht oder
                     vielmehr, es hat Sie längst in diese Bahn getrieben und hat Sie den Ruthenen
                     gegenüber in eine Stellung gebracht, aus der ich keinen Ausweg mehr
                     sehe.<lb/>Ich bin weit davon entfernt Ihre Gegner unter dem ruthenischen Klerus
@@ -167,9 +166,9 @@
                     ungerecht verletzt, so kann es nicht fehlen, daß ihre Fehler sich steigern. Die
                     Verhältnisse der Ruthenen den Polen gegenüber müssen sie dazu treiben, daß sie
                     entweder auf die österreichische Regierung und dann auch auf
-                        <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName> oder auf die russische Regierung ihre Zuversicht
+                        <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs> oder auf die russische Regierung ihre Zuversicht
                     für die Zukunft setzen. Mir scheint es in allerhand Thatsachen begründet, daß
-                    Hinneigung nach <country key="russland" ref="#place_5c0704d47c0a58a0922e25b5b9b66b27">Rußland</country> – abgesehen von
+                    Hinneigung nach <rs type="place" subtype="country" key="russland" ref="#place_5c0704d47c0a58a0922e25b5b9b66b27">Rußland</rs> – abgesehen von
                     einzelnen verdrehten Köpfen, deren es überall gibt – anders als aus Verzweiflung
                     nicht entstehen könnte und in einem irgend Gefahr drohenden Maaße nicht
                     vorhanden sei. Sind Sie aber auch der entgegengesetzten Meinung, so folgt doch
@@ -178,7 +177,7 @@
                     Verdachtsgründe hin die Leute von sich abzustoßen. Gegen den Einzelnen, der sich
                     durch solche notorische Thatsachen kompromittirt hat, daß niemand ihn in Schutz
                     nehmen kann, werde mit Strenge vorgegangen; wer sich aber bereitwillig zeigt,
-                    mit der Regierung und mit der Kirche zu halten (wie z. B. <persName key="litwinowicz-spiridion">L. Litwinovicz</persName>) dem werde Vertrauen
+                    mit der Regierung und mit der Kirche zu halten (wie z. B. <rs type="person" ref="litwinowicz-spiridion" key="litwinowicz-spiridion">L. Litwinovicz</rs>) dem werde Vertrauen
                     geschenkt und selbst denen, die verdächtig scheinen mögen, werde der Verdacht
                     nicht gezeigt, in so lange er nicht in bewiesenen Vorwurf übergeht. Namentlich
                     die kirchliche Gesinnung zu verdächtigen ist für die Regierung eine äußerst
@@ -202,7 +201,7 @@
                     Wurzel angreifen. – Sind Sie mit diesen Ansichten nicht einverstanden, so
                     bedenken Sie gleichwohl, daß nicht <hi rend="ul">ich</hi> das Konkordat
                     geschlossen habe – sondern der <hi rend="ul">
-                        <persName key="franz-joseph">Kaiser</persName>
+                        <rs type="person" ref="franz-joseph" key="franz-joseph">Kaiser</rs>
                     </hi> und daß es seinem entschiedenen Willen
                     entgegengehandelt ist, wenn nicht im Geiste desselben vorgegangen wird.<lb/>Ich
                     kann leider nicht mehr daran zweifeln, daß Sie es sich wirklich zur Aufgabe
@@ -212,7 +211,7 @@
                     sondern zu schwächen. Ich halte das für einen unseligen Mißgriff, der keinen
                     andern bleibenden Erfolg haben kann als einen destruktiven.<lb/>Vielleicht
                     lassen Sie meine Argumentation – wenn es schon sein muß – gelten für die
-                    lateinische Kirche, aber nicht für die unirte. Aber der <persName key="franz-joseph">Kaiser</persName> und der <persName key="pius-IX">Papst</persName> haben mit vollem Bewußtsein diese wie jene dabei vor Augen
+                    lateinische Kirche, aber nicht für die unirte. Aber der <rs type="person" ref="franz-joseph" key="franz-joseph">Kaiser</rs> und der <rs type="person" ref="pius-IX" key="pius-IX">Papst</rs> haben mit vollem Bewußtsein diese wie jene dabei vor Augen
                     gehabt und uns steht es daher nicht zu einen Unterschied zu machen. Über den
                     Punkt hätte ich noch vieles zu sagen, was aber, so lange das Gesagte nicht auf
                     Ihre Überzeugung wirkt, ohnehin vergeblich wäre und überdies zu weit führen
@@ -222,10 +221,10 @@
                     so wie in der Frage der Schrift, Entscheidungen fälle oder allerhöchsten Ortes
                     befürworte, die Ihren Anträgen zuwider und Ihnen außerordentlich unangenehm
                     sind.<lb/>Können Sie unter diesen Umständen in meinen Ideengang noch eingehen,
-                    so bitte ich Sie auf das Angelegentlichste, suchen Sie mit <persName key="litwinowicz-spiridion">Litwinovicz</persName> aufrichtigen Frieden zu
+                    so bitte ich Sie auf das Angelegentlichste, suchen Sie mit <rs type="person" ref="litwinowicz-spiridion" key="litwinowicz-spiridion">Litwinovicz</rs> aufrichtigen Frieden zu
                     machen und schenken Sie ihm Vertrauen. Über seinen moralischen Werth wird der
                     liebe Gott richten; daß er aber thatsächlich der katholischen Kirche und
-                        <country ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</country> ergeben ist, daß er überdies die üblen Seiten
+                        <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs> ergeben ist, daß er überdies die üblen Seiten
                     seines Kapitels und seines Klerus sehr wohl sieht, daß er bestrebt ist sich, wie
                     es einem Bischofe geziemt, nicht von jenem beherrschen zu lassen, dessen bin ich
                     vollkommen sicher. Dazu bedarf er aber Unterstützung. Ich verlange von Ihnen
@@ -238,38 +237,38 @@
                 <p>Thun</p>
                 <p>Geschlossen den 29. Juli</p>
                 <div type="enclosure" xml:id="D514_1">
-                    <p>Auszug aus einem Briefe aus <placeName ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</placeName> vom 25. Mai
+                    <p>Auszug aus einem Briefe aus <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs> vom 25. Mai
                         1859</p>
-                    <p>Gleich am ersten Tage als das Machwerk des <persName key="jirecek-josef">J[ireček]</persName>
+                    <p>Gleich am ersten Tage als das Machwerk des <rs type="person" ref="jirecek-josef" key="jirecek-josef">J[ireček]</rs>
                         <note xml:id="note_2">Vgl. Josef Jireček, Über den
                             Vorschlag das Ruthenische mit lateinischen Schriftzeichen zu schreiben.
                             Im Auftrage des k.k. Ministeriums für Kultus und Unterricht, Wien
                             1859.</note>mittelst Präsidialschreibens uns allen und auch dem Direktor
-                            <persName key="janowski-ambrosius">Janowski</persName> zugstellt wurde,
-                        berief zuerst <persName key="czerkawski-eusebius">Czerkawski</persName>,
-                        dann auch Graf <persName key="goluchowski-agenor">Gol[uchowski]</persName>
-                        den <persName key="janowski-ambrosius">Janowski</persName> zu sich; ersterer
+                            <rs type="person" ref="janowski-ambrosius" key="janowski-ambrosius">Janowski</rs> zugstellt wurde,
+                        berief zuerst <rs type="person" ref="czerkawski-eusebius" key="czerkawski-eusebius">Czerkawski</rs>,
+                        dann auch Graf <rs type="person" ref="goluchowski-agenor" key="goluchowski-agenor">Gol[uchowski]</rs>
+                        den <rs type="person" ref="janowski-ambrosius" key="janowski-ambrosius">Janowski</rs> zu sich; ersterer
                         redete ihm auf das dringendste zu, diese Angelegenheit, welche bereits die
                             <hi rend="ul">entschiedenste</hi> Regierungsmaßregel sey, nach aller
                         Kraft zu fördern, am allerwenigsten aber sich beikommend zu lassen selbe zu
                         bekämpfen; dabei würde ihm <hi rend="ul">ausdrücklich</hi> und zu
                         wiederholten Malen seine Stellung als Staatsbeamter unter die Nase gerieben.
-                            <persName key="janowski-ambrosius">Jan[owski]</persName> gab darauf eine
+                            <rs type="person" ref="janowski-ambrosius" key="janowski-ambrosius">Jan[owski]</rs> gab darauf eine
                         ruhige und seines bewährten Characters vollkommen würdige Antwort, was dann
-                        zur Folge hatte, daß der <persName key="goluchowski-agenor">Herr
-                            Graf</persName> sich selbst herbeiließ ihn zu belehren, daß er als
+                        zur Folge hatte, daß der <rs type="person" ref="goluchowski-agenor" key="goluchowski-agenor">Herr
+                            Graf</rs> sich selbst herbeiließ ihn zu belehren, daß er als
                         Beamter nur die Interessen der Regierung zu wahren habe, sich aber am
                         allerwenigsten beikommen lassen dürfe, irgend einem andern Einfluße
                         nachzukommen. Nachdem ihm solches in deutscher Sprache gesagt worden, hat
-                        der <persName key="goluchowski-agenor">Herr Graf</persName> noch auf
+                        der <rs type="person" ref="goluchowski-agenor" key="goluchowski-agenor">Herr Graf</rs> noch auf
                         polnisch mehrere Witze gegen die Ultras vom St. Georg ("ultrasy
                         świętojurskie") (St. Georg ist die griechisch-katholische Domkirche in
-                            <placeName ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</placeName>) losgelassen und die Erwartung
-                        ausgesprochen, daß <persName key="janowski-ambrosius">Jan[owski]</persName>
+                            <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs>) losgelassen und die Erwartung
+                        ausgesprochen, daß <rs type="person" ref="janowski-ambrosius" key="janowski-ambrosius">Jan[owski]</rs>
                         sich hüthen werde eben jetzt in irgend eine Berührung mit ihnen zu treten,
                         "bo ja wiem ze tam warzy sir znow stawna "Rada ruska" (denn ich weiß, daß
                         dort wieder der famose "ruthenische Rath" kocht).<lb/>
-                        <persName key="czerkawski-eusebius">Czerkawski</persName> ist wüthend; ... man
+                        <rs type="person" ref="czerkawski-eusebius" key="czerkawski-eusebius">Czerkawski</rs> ist wüthend; ... man
                         erzählt, daß er sich wie wahnsinnig geberdet, <hi rend="ul">beständig</hi>
                         in den Klassen der hiesigen Gymnasien herumlauft, die ruthenischen
                         Gymnasiasten ohne alle Ursache bald lobhudelt, bald wüthend anfällt,
@@ -278,34 +277,34 @@
                         daß er sie <hi rend="ul">alle</hi> "wegblasen" werde.<lb/>Nachstehende wohl
                         verbürgte Notizen dürften sowohl Ihnen als auch dort oben nicht
                         uninteressant sein.<lb/>1. Es ist hervorgekommen und kann durch Zeugen
-                        konstatirt werden, daß der Jesuit <persName key="baworowski-nikolaus">Baworowski</persName> – (ohne einen Jesuiten geht es nun einmal in den
-                        Schicksalsschlägen für uns nicht ab) – bekanntlich ein Onkel der <persName key="goluchowski-maria">Gräfin Gol[uchowski]</persName> und Haustheolog
+                        konstatirt werden, daß der Jesuit <rs type="person" ref="baworowski-nikolaus" key="baworowski-nikolaus">Baworowski</rs> – (ohne einen Jesuiten geht es nun einmal in den
+                        Schicksalsschlägen für uns nicht ab) – bekanntlich ein Onkel der <rs type="person" ref="goluchowski-maria" key="goluchowski-maria">Gräfin Gol[uchowski]</rs> und Haustheolog
                         des Grafen in allen Streichen gegen uns und unseren Ritus – ein dickleibiges
                         Manuskript über die Ruthenen, ihren Ritus und – notabene – über die
                         ruthenische Sprache sammt dem Vorschlage zur Umstaltung der letztern
                         mittelst des lateinischen Alphabets noch im Sept. vorigen Jahres in dem
-                        hiesigen Ossoliński'schen Institute von einem gewissen <persName key="kaminski-julian">Kamiński</persName> – meinem verrufenen
+                        hiesigen Ossoliński'schen Institute von einem gewissen <rs type="person" ref="kaminski-julian" key="kaminski-julian">Kamiński</rs> – meinem verrufenen
                         Erz-Revolutionär und Mitsudler an dem Schandblatte "Kuryer" vom Jahr 1848 –
-                        hat mundiren lassen, wobei <persName key="czerkawski-eusebius">Czerkawski</persName> tagtäglich die Arbeit beaufsichtigend,
+                        hat mundiren lassen, wobei <rs type="person" ref="czerkawski-eusebius" key="czerkawski-eusebius">Czerkawski</rs> tagtäglich die Arbeit beaufsichtigend,
                         korrigirend und betreibend erschienen war, besonders aber sich geschäftig
                         zeigte, um dieses Machwerk mit Beilagen auszustatten, nach denen er überall,
                         hauptsächlich aber in den Basilianer Klöstern zu
-                            <placeName ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</placeName>, <placeName ref="#place_afc38743e9478b0f05f0020df959e022">Buczacz</placeName> und
-                            <placeName ref="#place_d2c56ec409bbd91addecb8cbbc62750c">Krechów</placeName> herumgespurt und <hi rend="ul">jeden
+                            <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs>, <rs type="place" subtype="place" ref="#place_afc38743e9478b0f05f0020df959e022">Buczacz</rs> und
+                            <rs type="place" subtype="place" ref="#place_d2c56ec409bbd91addecb8cbbc62750c">Krechów</rs> herumgespurt und <hi rend="ul">jeden
                             Wisch</hi> konfiscirt hat, den nur irgend ein simpler Basilianer in
                         ruthenischer Sprache mit <hi rend="ul">polnischen</hi> Buchstaben
-                        niedergeschmiert hat. Das Manuskript des <persName key="baworowski-nikolaus">Baworowski</persName> wurde in dem Ossoliński'schen Institute von den
+                        niedergeschmiert hat. Das Manuskript des <rs type="person" ref="baworowski-nikolaus" key="baworowski-nikolaus">Baworowski</rs> wurde in dem Ossoliński'schen Institute von den
                         Koryphäen des radikalsten Polenthums mehreren Berathungen und vielfachen
                         Korrekturen unterworfen und mußte <hi rend="ul">zweimal</hi> abgeschrieben
-                        werden.<lb/>2. <persName key="goluchowski-agenor">Graf
-                            Gol[uchowski]</persName> machte die krampfhaftesten Anstrengungen eine
+                        werden.<lb/>2. <rs type="person" ref="goluchowski-agenor" key="goluchowski-agenor">Graf
+                            Gol[uchowski]</rs> machte die krampfhaftesten Anstrengungen eine
                         Loyalitätsadresse des polnischen Adels zu Stande zu bringen. Anfangs Mai
-                        wurde <persName key="rusocki-wladimir">Graf Rusocki</persName>, ein
+                        wurde <rs type="person" ref="rusocki-wladimir" key="rusocki-wladimir">Graf Rusocki</rs>, ein
                         Busenfreund, beauftragt die Sache in den hiesigen Adels-Casino anzuregen,
                         fiel aber damit so total durch, daß er, der sonst
-                            <placeName ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</placeName> nie verläßt, sich schleunigst auf's Land
-                        flüchten mußte. <persName key="goluchowski-agenor">Graf
-                            Gol[uchowski]</persName> berief nun einige Adelige zu sich und hielt
+                            <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs> nie verläßt, sich schleunigst auf's Land
+                        flüchten mußte. <rs type="person" ref="goluchowski-agenor" key="goluchowski-agenor">Graf
+                            Gol[uchowski]</rs> berief nun einige Adelige zu sich und hielt
                         ihnen einen Sermon, worin folgender Passus – übrigens <hi rend="ul">ganz
                             verbürgt</hi> – besonders betont wurde: "Upokorzyłem największych wrogów
                         waszych i <hi rend="ul">sprawy polskiej</hi> w Kraju; daliście <hi rend="ul">mi słowo</hi>, iż <hi rend="ul">moje dążności</hi> nietylko niczem
@@ -321,39 +320,39 @@
                             Schritt</hi> zu thun noch übrig bleibt, fällt euch ein eine unnütze und
                         verderbliche Demonstration zu machen.")<lb/>Und doch half auch dieses nicht;
                         die Adresse wurde unter den bittersten Ausfällen gegen die Regierung
-                        abgelehnt; die Polen verließen <placeName ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</placeName> und
+                        abgelehnt; die Polen verließen <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs> und
                         wallfahrten nun scharenweise <hi rend="ul">nach
-                                <placeName ref="#place_19ed5f8ceab486afbee6b3ba5c88884d">Dresden</placeName>
+                                <rs type="place" subtype="place" ref="#place_19ed5f8ceab486afbee6b3ba5c88884d">Dresden</rs>
                         </hi>, wo, wie man hier allgemein
                         spricht, eine Hauptberathung über die <hi rend="ul">"polnische Sache"</hi>
                         unter den jetzigen Umständen stattfinden soll. Also so weit sind wir
                         gekommen, daß wir an die Polen förmlich verschachert werden!<lb/>3. Man
                         scheint dort oben eine Aufregung unter den Ruthenen für wenig wahrscheinlich
-                        zu halten und <persName key="goluchowski-agenor">Graf
-                            Gol[uchowski]</persName> scheint darüber die beruhigendste Bürgschaft
+                        zu halten und <rs type="person" ref="goluchowski-agenor" key="goluchowski-agenor">Graf
+                            Gol[uchowski]</rs> scheint darüber die beruhigendste Bürgschaft
                         geliefert zu haben. Nun habe ich Ihnen letzthin schon geschrieben, daß die
                         Kunde des Gewaltstreiches sich mit Blitzesschnelle allenthalben verbreitet
                         und eine unsägliche Bestürzung in allen Schichten unserer Bevölkerung
                         verursacht hat; die polnische Partei breitet diese Stimmung besonders unter
                         dem Landvolke aus und man berichtet mir durch den Pfarrer Izak aus
-                            <placeName ref="#place_65040b3f6442ae5a1fd2a773e5904456">Koniuchi</placeName>, daß im <placeName key="brzezany" ref="#place_84ba74a907e7c841a65010fe0019ee65">Brzezaner Kreise</placeName> [Bezirk Brzeżany] eine furchtbare
+                            <rs type="place" subtype="place" ref="#place_65040b3f6442ae5a1fd2a773e5904456">Koniuchi</rs>, daß im <rs type="place" subtype="place" key="brzezany" ref="#place_84ba74a907e7c841a65010fe0019ee65">Brzezaner Kreise</rs> [Bezirk Brzeżany] eine furchtbare
                         Aufregung der Bauern <hi rend="ul">gegen unsere Geistlichkeit</hi> sich kund
                         gebe und das Kreisamt zu außerordentlichen Maßregeln zum Schutze der <hi rend="ul">persönlichen Sicherheit</hi> einiger ruthenischer Pfarrer
-                        veranlaßt habe. ...<lb/>Dieser Tage war der Klostervorsteher <persName key="kossak-emil">Koßak</persName> [Kossak] aus
-                            <placeName ref="#place_d2c56ec409bbd91addecb8cbbc62750c">Krechów</placeName> (5 Meilen von
-                            <placeName ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</placeName> im <placeName key="zolkiew" ref="#place_b76ece7f892fbfd37d5c5b6b7f67deb9">Zolkiewer</placeName> Kreis [Bezirk Żółkiew]) eigends deswegen nach
-                            <placeName ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</placeName> gekommen, um sich – was er auch gethan
+                        veranlaßt habe. ...<lb/>Dieser Tage war der Klostervorsteher <rs type="person" ref="kossak-emil" key="kossak-emil">Koßak</rs> [Kossak] aus
+                            <rs type="place" subtype="place" ref="#place_d2c56ec409bbd91addecb8cbbc62750c">Krechów</rs> (5 Meilen von
+                            <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs> im <rs type="place" subtype="place" key="zolkiew" ref="#place_b76ece7f892fbfd37d5c5b6b7f67deb9">Zolkiewer</rs> Kreis [Bezirk Żółkiew]) eigends deswegen nach
+                            <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs> gekommen, um sich – was er auch gethan
                         hat – hier im Consistorium zu erkundigen, was denn gegen die Ruthenen
                         losgegangen sei? Das große und schöne Kloster Krechów ist ein weit berühmter
                         Wallfahrtsort wegen dem Wunderbilde des hl. Nicolaus; am 21. Mai, als dem
                         Feste dieses Heiligen, pflegen daselbst an zehntausend Menschen aus allen
                         Gegenden zusammenzuströmen. ... Heuer war die Versammlung – womöglich –
-                        zahlreicher denn je. Und nun berichtet <persName key="kossak-emil">Koßak</persName>, daß zuerst der dort anwesende Klerus in einer
+                        zahlreicher denn je. Und nun berichtet <rs type="person" ref="kossak-emil" key="kossak-emil">Koßak</rs>, daß zuerst der dort anwesende Klerus in einer
                         namenlosen Bestürzung durch zwei Tage von nichts anderem sprach und an
                         nichts anderes zu denken schien, als nur an das Attentat, von welchem
                         übrigens die abentheuerlichsten Versionen <hi rend="ul">von den Polen
-                            verbreitet</hi> wurden. Selbst die von dem Dechant <persName key="kalitowski-johann">Kalitowski</persName> nach einer sichern Notiz
-                        aus <placeName ref="#place_4e3c8d29a273e56bd5a565457338777b">Przemysl</placeName> gegebene Aufklärung, um was es sich
+                            verbreitet</hi> wurden. Selbst die von dem Dechant <rs type="person" ref="kalitowski-johann" key="kalitowski-johann">Kalitowski</rs> nach einer sichern Notiz
+                        aus <rs type="place" subtype="place" ref="#place_4e3c8d29a273e56bd5a565457338777b">Przemysl</rs> gegebene Aufklärung, um was es sich
                         eigentlich handelt, vermochte die aufgeregten Gemüther des Klerus nicht zu
                         beschwichtigen; im Gegentheile machte sich niemand darüber Illusionen, daß
                         durch diesen Streich die Axt an die Wurzel unseres Volkslebens gelegt wird
@@ -362,7 +361,7 @@
                         nicht ausbleiben werden. Aber noch mehr! Bauern und Stadtler drängten sich
                         in die Sakristei und in die Klosterzellen zu den Mönchen und fragten
                         ängstlich, was denn gegen die Ruthenen <hi rend="ul">von
-                                <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> aus</hi> angeordnet sei? Man glaubt
+                                <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> aus</hi> angeordnet sei? Man glaubt
                         unter dem Volke an nichts Geringeres als an das gänzliche Preisgeben der
                         Ruthenen an die Polen, an die Wiedereinführung der polnischen
                         Oberherrschaft, Mandatare, Robot u. dgl. Viele weinten bitterlich und
@@ -378,15 +377,15 @@
                         Häuflein der sogenannten <hi rend="ul">Gutgesinnten</hi> unter den Beamten
                         ist wie gelähmt und spricht sich in abgebrochenen Sätzen gerade so aus wie
                         zur Zeit der polnischen Klubtyrannei von 1848, als der infame Dobrźanźki
-                            [<persName key="dobrjansky-adolf">Dobrjanský</persName>] sich zum Haupte
-                        dieser Provinz proklamirt hatte. Selbst der Hofrath <persName key="mosch-carl">Mosch</persName>, der verschlossenste Mann, den ich
+                            [<rs type="person" ref="dobrjansky-adolf" key="dobrjansky-adolf">Dobrjanský</rs>] sich zum Haupte
+                        dieser Provinz proklamirt hatte. Selbst der Hofrath <rs type="person" ref="mosch-carl" key="mosch-carl">Mosch</rs>, der verschlossenste Mann, den ich
                         kenne, äußert sich unumwunden dahin, daß er die ganze Sache rein nicht
                         begreife und gar nicht absehe, wohin das Alles noch hinführen werde. ...</p>
                     <p>Aber sagen Sie mir doch um Gotteswillen! Ist man denn dort in
-                            <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> vollends mit Blindheit geschlagen? Der
-                        kaiserlich-patentirte Carbonaro und Erzräuber von <country key="korsika" ref="#place_89fd531d6679c960c5bab6d575c11834">Corsica</country> kündigt <country ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</country> einen Kampf
+                            <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> vollends mit Blindheit geschlagen? Der
+                        kaiserlich-patentirte Carbonaro und Erzräuber von <rs type="place" subtype="country" key="korsika" ref="#place_89fd531d6679c960c5bab6d575c11834">Corsica</rs> kündigt <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs> einen Kampf
                         auf Leben und Tod für unterdrückte Nationalitäten an und in
-                            <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> weiß man nichts Besseres und Gescheidteres
+                            <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> weiß man nichts Besseres und Gescheidteres
                         darauf, als eine der harmlosesten Nationalitäten des Kaiserreiches auf den
                         Tod zu hetzen und gegen ihr[e] Abc-Bücher zu Felde zu ziehen. Gott bessere
                         es!</p>
@@ -394,17 +393,17 @@
                 <div type="enclosure" xml:id="D514_2">
                     <p>In ruthenischen Angelegenheiten</p>
                     <p>18634 [1]855<lb/>Ministerialerlaß mißbilligt den schriftlichen Verweis, der
-                        dem <placeName key="lemberg" ref="#place_3ff694e5c82611cda53341a9bae21735">Lemberger</placeName> Gymnasiallehrer
-                        (ruthenischer Priester) <persName key="ilnicki-basil">Basil
-                            Ilnicki</persName> ertheilt worden war, weil er dem Schüler [?] nicht
+                        dem <rs type="place" subtype="place" key="lemberg" ref="#place_3ff694e5c82611cda53341a9bae21735">Lemberger</rs> Gymnasiallehrer
+                        (ruthenischer Priester) <rs type="person" ref="ilnicki-basil" key="ilnicki-basil">Basil
+                            Ilnicki</rs> ertheilt worden war, weil er dem Schüler [?] nicht
                         hatte die Vorzugsklasse geben wollen.<lb/>8721 [1]855<lb/>Ministerialerlaß,
-                        daß dem <persName key="harasymowicz-eustach">Eustach Harasymowicz</persName>
-                        (ruthenischer Priester), welcher Supplent in <placeName ref="#place_36ad7c77f8390477ad63932edeee38d7">Sambor</placeName>
+                        daß dem <rs type="person" ref="harasymowicz-eustach" key="harasymowicz-eustach">Eustach Harasymowicz</rs>
+                        (ruthenischer Priester), welcher Supplent in <rs type="place" subtype="place" ref="#place_36ad7c77f8390477ad63932edeee38d7">Sambor</rs>
                         gewesen, dort ohne Befähigung für Geschichte verwendet worden war, dabei
                         Taktlosigkeiten begangen hatte und deshalb entfernt worden war, die Aussicht
                         auf Verwendung im Lehrfache, wenn er sich gehörig dafür [?], nicht
                         abzusprechen sei.<lb/>272/CUM [1]855<lb/>Untersuchung über Disziplinarfall
-                        in <placeName ref="#place_36ad7c77f8390477ad63932edeee38d7">Sambor</placeName>, der zu Entfernung von <persName key="harasymowicz-eustach">Harasymowicz</persName> Anlaß
+                        in <rs type="place" subtype="place" ref="#place_36ad7c77f8390477ad63932edeee38d7">Sambor</rs>, der zu Entfernung von <rs type="person" ref="harasymowicz-eustach" key="harasymowicz-eustach">Harasymowicz</rs> Anlaß
                         gab.<lb/>Mehrere ruthenische Schüler hatten Versammlungen gehalten, um gegen
                         einen polnischen Losinski [?] Klage zu führen. Von Letzterem schändliche
                         Gotteslästerung nachgewiesen. Er hatte politische Dispute über die damalige
@@ -422,14 +421,14 @@
                         lateinisch-katholischen Katecheten zugewiesen werden. Die Statthalterei
                         erklärt diese Einsprache für unzuläßig!<lb/>Besondere Bemerkungen:<lb/>ad
                         18593 [1]858 Beleuchtung und Begründung des Mißtrauens der Ruthenen gegen
-                            <persName key="goluchowski-agenor">Goluchowski</persName> (stützt sich
+                            <rs type="person" ref="goluchowski-agenor" key="goluchowski-agenor">Goluchowski</rs> (stützt sich
                         auf Akten und ist sehr beachtenswerth)<lb/>ad 1800 [1]858 Beleuchtung der
-                        Vorgänge <persName key="czerkawski-eusebius">Czerkawskis</persName>
+                        Vorgänge <rs type="person" ref="czerkawski-eusebius" key="czerkawski-eusebius">Czerkawskis</rs>
                         bezüglich der Aufnahme ruthenischer Schüler am Franz-Joseph-Gymnasium<lb/>ad
                         3817 [1]860 Beleuchtung des Berichtes über die Einsprache des Lemberger
                         Gemeinderathes gegen den Ministerialerlaß, daß an das Franz-Joseph-Gymnasium
                         keine ruthenischen Schüler aufgenommen werden sollen.<lb/>1084/CMU [1]860
-                        Bemerkungen über <persName key="czerkawski-eusebius">Czerkawskis</persName>
+                        Bemerkungen über <rs type="person" ref="czerkawski-eusebius" key="czerkawski-eusebius">Czerkawskis</rs>
                         ruthenisch-polnischen Lehrplan<lb/>3870 [1]859 Bemerkungen über die
                         Behauptung, daß ruthenische Lehrer sich durch Anwendung eines aus dem
                         kirchenslawischen und dem ruthenisch gemischten Idioms dem großrussischen
@@ -440,12 +439,12 @@
                     <p>554/CUM<lb/>Oberste Polizeibehörde macht auf die Nothwendigkeit aufmerksam,
                         eine gleichförmige und von der russischen Sprache prägnant unterschiedene
                         Schreibart für das Ruthenische zu stabilieren.<lb/>1632 CUM<lb/>Rüge an
-                        Prof. <persName>Glowacer</persName>, daß er die Verbreitung der
+                        Prof. <rs type="person" ref="">Glowacer</rs>, daß er die Verbreitung der
                         großrussischen Sprache unter den Ruthenen fördere und Mißbilligung dieser
                         Tendenz</p>
                     <p>Jahr 1858</p>
-                    <p>418/CUM<lb/>Bericht des <persName key="goluchowski-agenor">Statthalters für
-                            Galicien</persName>, "Ich halte die Einführung der lateinischen
+                    <p>418/CUM<lb/>Bericht des <rs type="person" ref="goluchowski-agenor" key="goluchowski-agenor">Statthalters für
+                            Galicien</rs>, "Ich halte die Einführung der lateinischen
                         Schriftzeichen in der ruthenischen Sprache dermalen für so wichtig, daß ich
                         nicht umhin kann Euer Excellenz angelegentlichst zu bitten, die bereits im
                         Erlasse vom 27. April vorigen Jahres Z. 5308 in Anregung gebrachte
@@ -456,7 +455,7 @@
                         dem Erlasse wird auf dieses Einrathen eingegangen, der Gegenstand jedoch
                         einer besonderen Verhandlung vorbehalten. (<hi rend="ul">Eingeschlagen</hi>)<note xml:id="note_3">Eigenhändige Anmerkungen
                             Thuns: Darin wird angeführt, die Conspirationen der polnischen
-                            Propaganda haben niemals die Integrität <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</country> ernstlich gefährdet, der Ruthenismus hatte
+                            Propaganda haben niemals die Integrität <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> ernstlich gefährdet, der Ruthenismus hatte
                             aber in die [?] für die Zukunft viel gefährlicher Panslawismus. Das
                             polnische Element sei in der slawischen Volks[?] das einzige
                             Zersetzungsmittel des Panslawismus.<lb/>Wird angetragen im
@@ -466,9 +465,9 @@
                             Einführung des Gregorianischen Kalenders
                         befürwortet.</note>
                         <lb/>1358/CUM<lb/>Erster Entwurf, wie das Ruthenische mit
-                        lateinischen Schriftzeichen zu schreiben wäre, an den <persName key="goluchowski-agenor">Statthalter</persName>
+                        lateinischen Schriftzeichen zu schreiben wäre, an den <rs type="person" ref="goluchowski-agenor" key="goluchowski-agenor">Statthalter</rs>
                         gesendet<lb/>1510/CUM<lb/>Gutächtlicher Bericht darüber.<lb/>Erlaß: Die
-                        Commission hat in <placeName ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</placeName> zu berathen. Es sollen von
+                        Commission hat in <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs> zu berathen. Es sollen von
                         der Theilnahme davon solche Männer, welchen Sachkenntnis und redliches
                         Streben für die Hebung der ruthenischen Literatur nicht abgesprochen werden
                         kann, deshalb weil von ihnen Widerspruch zu erwarten steht, nicht
@@ -482,7 +481,7 @@
                         Volkssprache erlassenen Hirtenbriefs. Conf 488 – 58</p>
                     <p>Jahr 1859</p>
                     <p>634/CUM<lb/>Anordnung wegen Beginn der kommissionellen Berathungen.<lb/>(23/5
-                        717/CUM<lb/>Erlaß an den <persName key="goluchowski-agenor">Statthalter</persName> über die bei der Berathung einzunehmende
+                        717/CUM<lb/>Erlaß an den <rs type="person" ref="goluchowski-agenor" key="goluchowski-agenor">Statthalter</rs> über die bei der Berathung einzunehmende
                         Haltung.<lb/>"Ich ersuche Euer Excellenz auch bei der Leitung der
                         bevorstehenden Berathungen der Meinungsäußerung der Mitglieder den freiesten
                         Spielraum zu gewähren und die Vorlage aufrichtig nicht als eine beschlossene
@@ -491,32 +490,32 @@
                         seiner Ausführbarkeit im Allgemeinen noch von den Ergebnissen der Berathung
                         abhängigen Vorschlag zu behandeln."<lb/>959/CUM<lb/>Erledigung der
                         kommissionellen Vorlagen. (<hi rend="ul">Gedruckt</hi>)<lb/>Begründung
-                        derselben an den <persName key="goluchowski-agenor">Statthalter</persName>.<lb/>862/CUM<lb/>Übersichtliche Darstellung des
+                        derselben an den <rs type="person" ref="goluchowski-agenor" key="goluchowski-agenor">Statthalter</rs>.<lb/>862/CUM<lb/>Übersichtliche Darstellung des
                         ganzen Vorganges an das Ministerium des Innern und die oberste
                             Polizeibehörde.<note xml:id="note_4">Eigenhändige Anmerkung Thuns: Dem
                             [?] – Note des Ministeriums des Innern liegt ein sehr beachtenswerther
-                            Klageruf des Cardinal <persName key="lewicki-michael">Lewicki</persName>
+                            Klageruf des Cardinal <rs type="person" ref="lewicki-michael" key="lewicki-michael">Lewicki</rs>
                             ab [?] herabgelangt bei.</note>
                         <lb/>1080/CUM<lb/>Kritik des vom
-                            <persName key="goluchowski-agenor">Statthalter</persName> an die
+                            <rs type="person" ref="goluchowski-agenor" key="goluchowski-agenor">Statthalter</rs> an die
                         politischen Unterbehörden bezüglich der ruthenischen Schreibweise erlassenen
                         Cirkulars.<lb/>1186/CUM<lb/>enthält den Bericht des Ministerialsekretärs
-                            <persName key="jirecek-josef">Jireček</persName> über die
+                            <rs type="person" ref="jirecek-josef" key="jirecek-josef">Jireček</rs> über die
                         Commissionsverhandlung und als Einleitung einen Überblick der Sachlage unter
                         den Ruthenen.<note xml:id="note_5">Eigenhändige Anmerkung Thuns: in den
                             Akten [?] 1000/CUM.<lb/>Der erste höchst [?] Bericht über die
                             "Sonderparthei".</note>
                         <lb/>1090/CUM<lb/>
-                        <persName key="goluchowski-agenor">Statthalter für Galicien</persName> mit
+                        <rs type="person" ref="goluchowski-agenor" key="goluchowski-agenor">Statthalter für Galicien</rs> mit
                         mehreren Berichten der Unterbehörden über die Stimmung des Volks gegenüber
                         der ruthenischen Schriftfrage.<lb/>Note an das Polizeiministerium, worin die
-                        Auffassung der ruthenischen Verhältnisse in dem Berichte des <persName key="goluchowski-agenor">galicischen Statthalters</persName> beleuchtet
+                        Auffassung der ruthenischen Verhältnisse in dem Berichte des <rs type="person" ref="goluchowski-agenor" key="goluchowski-agenor">galicischen Statthalters</rs> beleuchtet
                             wird.<note xml:id="note_6">Eigenhändige Anmerkung Thuns:
                             "Sonderpartei"!<lb/>Bericht nicht zurückgekommen?</note>
                     </p>
                     <p>Jahr 1860</p>
-                    <p>1113/CUM<lb/>Note des <persName key="goluchowski-agenor">Ministers des
-                            Innern</persName>, womit die Miteinführung der lateinischen
+                    <p>1113/CUM<lb/>Note des <rs type="person" ref="goluchowski-agenor" key="goluchowski-agenor">Ministers des
+                            Innern</rs>, womit die Miteinführung der lateinischen
                         Schriftzeichen in den ruthenischen Bukwar vom neuen bevorwortet wird.</p>
                     <p>II.</p>
                     <p>1859</p>
@@ -525,8 +524,8 @@
                         Schriftzeichen in ruthenischen Eingaben und Erledigungen angeordnet
                         werde.<lb/>Abgetreten an das Ministerium des Innern.</p>
                     <p>1860</p>
-                    <p>61/CUM<lb/>Note des <persName key="goluchowski-agenor">Ministers des
-                            Innern</persName>, womit die wegen der Geschäftssprache in <region key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galicien</region> getroffenen Verfügungen mitgetheilt
+                    <p>61/CUM<lb/>Note des <rs type="person" ref="goluchowski-agenor" key="goluchowski-agenor">Ministers des
+                            Innern</rs>, womit die wegen der Geschäftssprache in <rs type="place" subtype="region" key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galicien</rs> getroffenen Verfügungen mitgetheilt
                         werden.</p>
                     <p>III.</p>
                     <p>1859</p>
@@ -535,7 +534,7 @@
                         nicht entsprochen worden.</p>
                 </div>
                 <div type="enclosure" xml:id="D514_4">
-                    <p>Einwendung des <persName key="litwinowicz-spiridion">Erzbischofs</persName>:<lb/>Die Kinder werden durch den Unterricht nach der
+                    <p>Einwendung des <rs type="person" ref="litwinowicz-spiridion" key="litwinowicz-spiridion">Erzbischofs</rs>:<lb/>Die Kinder werden durch den Unterricht nach der
                         neuen Orthographie nicht befähigt kirchenslawische Bücher zu lesen.
                         <lb/>Entgegnung: Die ruthenische Sprache bedarf nicht aller jener
                         Schriftzeichen, welche für das Kirchenslawische erforderlich sind.<lb/>Wenn
@@ -551,7 +550,7 @@
                     <p>
                         <hi rend="ul">Einwendung</hi>: Die orthographischen Änderungen werden, ohne
                         sich zur Überlegung Zeit zu lassen, von der Commission beschlossen.<lb/>
-                        <hi rend="ul">Entgegnung</hi>: Die von <persName key="malinowski-michael">Malinowski</persName> beauftragten Änderungen waren nicht neu, sondern
+                        <hi rend="ul">Entgegnung</hi>: Die von <rs type="person" ref="malinowski-michael" key="malinowski-michael">Malinowski</rs> beauftragten Änderungen waren nicht neu, sondern
                         in der ruthenischen Versammlung im Jahr 1848 durch Stimmenmehrheit
                         angenommen worden. Die Commission hat daher nicht etwas Neues, sondern etwas
                         durch eine frühere kompetente Versammlung Beschlossenes angenommen.</p>
@@ -565,7 +564,7 @@
                         Beziehung viel weiter gegangen, als es im Ruthenischen geschehen ist.
                         Dasselbe gilt von der deutschen Orthographie etc.<lb/>Auch die Ruhenen in
                         Kleinrußland haben ihre Orthographie in der letzten Zeit bedeutender
-                        geändert, als die <placeName key="lemberg" ref="#place_3ff694e5c82611cda53341a9bae21735">Lemberger</placeName> Commission
+                        geändert, als die <rs type="place" subtype="place" key="lemberg" ref="#place_3ff694e5c82611cda53341a9bae21735">Lemberger</rs> Commission
                         beantragte, und doch kann man ihnen nicht nachsagen, sie hätten ihre
                         Literatur von der älteren abgetrennt.<lb/>Die Buchstaben, welche von der
                         Commission ausgeschieden wurden, sind <hi rend="ul">k</hi> (ja-je), <hi rend="ul">б</hi> (das Erhärtungszeichen am Ende der Worte, wo es keine
@@ -606,7 +605,7 @@
                         großrussische Schriftsprache bei den Ruthenen einzubürgern. Die überwiegende
                         Mehrzahl der Gebildeten war weit entfernt diese Richtung zu billigen und die
                         Versuche, die wiederholt gemacht wurden, um ihre Bahn zu brechen, gingen in
-                            <placeName key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galicien</placeName> größtentheils an Mangel
+                            <rs type="place" subtype="place" key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galicien</rs> größtentheils an Mangel
                         an Theilnahme ein. Aber es läßt sich nicht verkennen, daß in Folge dieser
                         Thatsache eine gewisse Rathlosigkeit gerade in jenen literarischen Kreisen
                         eintrat, welche zu der Einführung des Großrussischen nie ihre Zustimmung
@@ -652,7 +651,7 @@
                         es endlich auch möglich werden, daß die Kirchensprache, und vor allem das
                         Altslowenische als die ältere Form derselben, jenen <hi rend="ul">ersprießlichen</hi> Einfluß auf die Ausbildung der ruthenischen
                         Schriftsprache übe, welcher nicht verwehrt, sondern im Gegentheile gewünscht
-                        werden muß.<lb/>Diese Erwägungen veranlassten das <orgName key="ministerium-fuer-kultus-und-unterricht">Unterrichtsministerium</orgName> in <placeName ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</placeName> eine
+                        werden muß.<lb/>Diese Erwägungen veranlassten das <orgName key="ministerium-fuer-kultus-und-unterricht">Unterrichtsministerium</orgName> in <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs> eine
                         Commission zu berufen, welche zunächst über die Frage der ruthenischen
                         Schreibweise und weiter auch über andere die Entwickelung der ruthenischen
                         Sprache berührende Punkte ein Gutachten abzugeben hatte. Es wurden hiezu die

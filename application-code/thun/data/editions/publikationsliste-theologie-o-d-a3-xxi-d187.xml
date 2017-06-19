@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Publikationsliste von <persName key="riffel-caspar">Caspar Riffel</persName>
-                    und <persName key="wick-joseph">Joseph Wick</persName>
+                <title>Publikationsliste von <rs type="person" ref="riffel-caspar" key="riffel-caspar">Caspar Riffel</rs>
+                    und <rs type="person" ref="wick-joseph" key="wick-joseph">Joseph Wick</rs>
                     <lb/>o. O., o. D. [post 1850]</title>
             </titleStmt>
             <publicationStmt>
@@ -31,7 +30,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -41,8 +40,8 @@
                     <term>Theologie</term>
                 </index>
                 <p>
-                    <hi rend="ul">Dr. <persName key="riffel-caspar">Caspar Riffels</persName> zu
-                            <placeName ref="#place_3496da6c1db0a5223edb1fb4c415a154">Mainz</placeName> in Druck erschienene Werke</hi>:</p>
+                    <hi rend="ul">Dr. <rs type="person" ref="riffel-caspar" key="riffel-caspar">Caspar Riffels</rs> zu
+                            <rs type="place" subtype="place" ref="#place_3496da6c1db0a5223edb1fb4c415a154">Mainz</rs> in Druck erschienene Werke</hi>:</p>
                 <p>a. <hi rend="ul">Christliche Kirchengeschichte</hi> der neuesten Zeit von dem
                     Anfang der großen Glaubens- und Kirchenspaltung des 16. Jahrhunderts bis auf
                     unsere Tage. Mainz 1841–1846, 3 Bde., Großokévos.<lb/>Eine anerkannt gründliche
@@ -65,8 +64,8 @@
                     Westphalens abgehalten zu Köln 1849.</p>
                 <p/>
                 <p>
-                    <hi rend="ul">Vom Lizenziaten Curatus <persName key="wick-joseph">J[oseph]
-                            Wick</persName> zu <placeName ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</placeName> erschien</hi>:</p>
+                    <hi rend="ul">Vom Lizenziaten Curatus <rs type="person" ref="wick-joseph" key="wick-joseph">J[oseph]
+                            Wick</rs> zu <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs> erschien</hi>:</p>
                 <p>
                     <hi rend="ul">Jesus Christus</hi> der Sohn Gottes. Kanzelvorträge. Als Einleitung
                     eine kurze Abhandlung über die Echtheit der Evangelien. Breslau 1850.</p>

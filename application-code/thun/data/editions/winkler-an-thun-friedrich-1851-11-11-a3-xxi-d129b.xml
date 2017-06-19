@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="winkler-anton" role="sender:gelehrter">Anton
-                        Winkler</persName> an <persName key="thun-hohenstein-friedrich" role="recipient">Friedrich
-                        Thun</persName>
+                    <rs type="person" ref="winkler-anton" key="winkler-anton" role="sender:gelehrter">Anton
+                        Winkler</rs> an <rs type="person" ref="thun-hohenstein-friedrich" key="thun-hohenstein-friedrich" role="recipient">Friedrich
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_4d3e0acd6166e7434bc37196cd875740">Karlsruhe</placeName>, <date when="1851-11-11">11. November 1851</date>
+                    <rs type="place" subtype="place" ref="#place_4d3e0acd6166e7434bc37196cd875740">Karlsruhe</rs>, <date when="1851-11-11">11. November 1851</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -66,7 +65,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -78,17 +77,17 @@
                     <term>Universität</term>
                 </index>
                 <p>Hochgeborner Graf,<lb/>Gnädiger Herr!</p>
-                <p>Als jüngst durch Vermittelung des hochverehrtesten k.k. Gesandten <persName key="philippsberg-eugen">Freiherrn <hi rend="ul">von
+                <p>Als jüngst durch Vermittelung des hochverehrtesten k.k. Gesandten <rs type="person" ref="philippsberg-eugen" key="philippsberg-eugen">Freiherrn <hi rend="ul">von
                         Philippsberg</hi>
-                    </persName>
-                    <placeName key="karlsruhe" ref="#place_2126faa64bfa66d02e06345d06e61a25">dahier</placeName> mir das Glück zu Theil wurde, Euer
+                    </rs>
+                    <rs type="place" subtype="place" key="karlsruhe" ref="#place_2126faa64bfa66d02e06345d06e61a25">dahier</rs> mir das Glück zu Theil wurde, Euer
                     Excellenz meine persönliche Aufwartung machen zu dürfen, hatten Euer Excellenz
                     die Gnade, mir die Zusendung einer Eingabe an das k.k. hohe
                     Unterrichtsministerium, worin ich um Aufnahme in kaiserliche Dienste als Lehrer
                     der höhern Mathematik und deren Anwendungen zu bitten mir die Freiheit nehme, zu
                     gestatten und mir die gnädige Befürwortung jener gehorsamsten Bitte bei Hochdero
-                    Herrn <persName key="thun-hohenstein-leo">Bruder, dem k.k. Minister des
-                        Unterrichts</persName>, zuzusagen.<lb/>Mögen Euer Excellenz den Inhalt der
+                    Herrn <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Bruder, dem k.k. Minister des
+                        Unterrichts</rs>, zuzusagen.<lb/>Mögen Euer Excellenz den Inhalt der
                     Eingabe gnädig aufnehmen und möge mir nun das Glück Ihrer vielvermögenden
                     Empfehlung zu Theil werden, von welcher die Gewährung meiner gehorsamsten Bitte
                     in so hohem Maße abhängt.<lb/>Zum tiefsten Danke verbunden, würde ich nie
@@ -106,9 +105,9 @@
                         Freiheit hohes Ministerium, um gnädige Aufnahme in kaiserliche Dienste als
                         Lehrer der höhern Mathematik und deren Anwendungen an einer kaiserlichen
                         Universität, Kriegs- oder polytechnischen Schule gehorsamst zu
-                        bitten.<lb/>Gemäß einer an die k.k. Gesandtschaft <placeName key="karlsruhe" ref="#place_2126faa64bfa66d02e06345d06e61a25">dahier</placeName> gelangten Depesche des k.k. auswärtigen Ministeriums
+                        bitten.<lb/>Gemäß einer an die k.k. Gesandtschaft <rs type="place" subtype="place" key="karlsruhe" ref="#place_2126faa64bfa66d02e06345d06e61a25">dahier</rs> gelangten Depesche des k.k. auswärtigen Ministeriums
                         vom 28. Dezember 1850 fand sich damals keine derartige Lehrkanzel in
-                            <country ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</country> erledigt, und wurde es dem gehorsamst
+                            <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs> erledigt, und wurde es dem gehorsamst
                         Unterzeichneten anheimgestellt, sich um eine solche im Falle einer
                         Erledigung zu bewerben, „wobei auf sein Gesuch die verdiente Rücksicht
                         genommen werden wird“.<lb/>Diese gnädige Eröffnung ermuthigt mich, meine
@@ -120,52 +119,52 @@
                         weitere Lehrkräfte gewünscht würden.<lb/>Die Beweggründe, aus welchen ich
                         den badischen Dienst aufzugeben trachte, haben sich seitdem nur vermehrt;
                         möge hohes Ministerium gnädigst mir gestatten, dieselben in Kürze zu
-                        bezeichnen.<lb/>Der gehorsamst Unterzeichnete, geboren zu <placeName ref="#place_0a703b7d65a1a57903599f90cb45d869">
+                        bezeichnen.<lb/>Der gehorsamst Unterzeichnete, geboren zu <rs type="place" subtype="place" ref="#place_0a703b7d65a1a57903599f90cb45d869">
                             <hi rend="ul">Riegel</hi>
-                        </placeName> im <region ref="#place_2444c477f7e0b7ede350c155cc4ed9e6">Breisgau</region> den
+                        </rs> im <rs type="place" subtype="region" ref="#place_2444c477f7e0b7ede350c155cc4ed9e6">Breisgau</rs> den
                         3. August 1821, katholischer Religion, besuchte vom Jahre 1838 an die
                         hiesige polytechnische Schule und erstand im Jahre 1844 mit vortheilhaftem
                         Prädikate die Staatsprüfung im Ingenieurfache. Seiner ursprünglichen Neigung
                         gemäß setzte er alsdann seine mathematischen etc. Studien bei dem nun
-                        verstorbenen Hofastronomen <persName key="nicolai-bernhard">
+                        verstorbenen Hofastronomen <rs type="person" ref="nicolai-bernhard" key="nicolai-bernhard">
                             <hi rend="ul">Nicolai</hi>
-                        </persName> in <placeName ref="#place_bd2b145b873049a539012fea08bfa71a">Mannheim</placeName> und
+                        </rs> in <rs type="place" subtype="place" ref="#place_bd2b145b873049a539012fea08bfa71a">Mannheim</rs> und
                         später während eines zweijährigen Besuches der <orgName key="universitaet-berlin">Berliner Universität</orgName> bei den
-                        Professoren <persName key="jacobi-carl-gustav">
+                        Professoren <rs type="person" ref="jacobi-carl-gustav" key="jacobi-carl-gustav">
                             <hi rend="ul">Jacobi</hi>
-                        </persName>, <persName key="lejeune-dirichlet-peter-gustav">
+                        </rs>, <rs type="person" ref="lejeune-dirichlet-peter-gustav" key="lejeune-dirichlet-peter-gustav">
                             <hi rend="ul">Lejeune-Dirichlet</hi>
-                        </persName>, <persName key="encke-johann-franz">
+                        </rs>, <rs type="person" ref="encke-johann-franz" key="encke-johann-franz">
                             <hi rend="ul">Encke</hi>
-                        </persName> und
-                            <persName key="steiner-jakob">
+                        </rs> und
+                            <rs type="person" ref="steiner-jakob" key="steiner-jakob">
                             <hi rend="ul">Steiner</hi>
-                        </persName>
+                        </rs>
                         fort; hierzu unterstützt durch die Gnade des Großherzogs aus den Fonds für
                         Künste und Wissenschaften.<lb/>Vom Jahre 1847 bis Oktober dieses Jahres
-                        lehrte er an der polytechnischen Schule <placeName key="karlsruhe" ref="#place_2126faa64bfa66d02e06345d06e61a25">dahier</placeName> höhere Mathematik und höhere Geodäsie, – eines guten
+                        lehrte er an der polytechnischen Schule <rs type="place" subtype="place" key="karlsruhe" ref="#place_2126faa64bfa66d02e06345d06e61a25">dahier</rs> höhere Mathematik und höhere Geodäsie, – eines guten
                         Erfolgs seines Unterrichts und der Zuneigung der Schüler sich
                         erfreuend.<lb/>Die definitive Anstellung als Lehrer an jener Schule wurde
                         ihm höchsten Ortes auf das Bestimmteste verheißen. Als aber im Jahre 1849 in
-                            <placeName ref="#place_9a43e84f6e1d406076f2372205804f6d">Baden</placeName> der Aufruhr ausbrach und der Unterzeichnete
+                            <rs type="place" subtype="place" ref="#place_9a43e84f6e1d406076f2372205804f6d">Baden</rs> der Aufruhr ausbrach und der Unterzeichnete
                         das aufrührerische Land verließ, um der eidlichen Verpflichtung zu entgehen,
                         welche die sogenannte provisorische Regierung von allen Angestellten
                         forderte, traf ihn der Haß der an jener Schule sehr stark vertretenen
-                        radikalen Parthei, deren Häupter die Professoren <persName key="klauprecht-johann-ludwig">
+                        radikalen Parthei, deren Häupter die Professoren <rs type="person" ref="klauprecht-johann-ludwig" key="klauprecht-johann-ludwig">
                             <hi rend="ul">Klauprecht</hi>
-                        </persName>,
-                            <persName key="eisenlohr-wilhelm">
+                        </rs>,
+                            <rs type="person" ref="eisenlohr-wilhelm" key="eisenlohr-wilhelm">
                             <hi rend="ul">W[ilhelm]
                             Eisenlohr</hi>
-                        </persName> und <persName key="redtenbacher-ferdinand">
+                        </rs> und <rs type="person" ref="redtenbacher-ferdinand" key="redtenbacher-ferdinand">
                             <hi rend="ul">F[erdinand] Redtenbacher</hi>
-                        </persName> sind, in so hohem
+                        </rs> sind, in so hohem
                         Grade, daß er von jener Zeit an allen denkbaren Verfolgungen ausgesetzt
                         ward.<lb/>Das Ministerium des Innern und dessen Vorstand, der durch seinen
                         Widerwillen gegen jede öffentlich prononcirte <hi rend="ul">katholische</hi>
-                        und <hi rend="ul">conservative</hi> Gesinnung bekannte <persName key="marschall-von-bieberstein-adolf">Freiherr <hi rend="ul">von
+                        und <hi rend="ul">conservative</hi> Gesinnung bekannte <rs type="person" ref="marschall-von-bieberstein-adolf" key="marschall-von-bieberstein-adolf">Freiherr <hi rend="ul">von
                                 Marschall</hi>
-                        </persName>, beließen den Direktor <persName key="klauprecht-johann-ludwig">Klauprecht</persName> fortwährend auf
+                        </rs>, beließen den Direktor <rs type="person" ref="klauprecht-johann-ludwig" key="klauprecht-johann-ludwig">Klauprecht</rs> fortwährend auf
                         seinem Posten, unterstützten ihn in seinen Verfolgungen gegen mich und
                         beseitigten mich zuletzt gänzlich, indem sie meine Stelle einem radikalen
                         Volksschullehrer übertrugen.<lb/>(Ich war Mitarbeiter an mehreren
@@ -182,26 +181,26 @@
                         Hinsicht gnädigst es gestattet, Namen von Männern anzuführen, welche
                         zugleich auch von manchen der angeführten Thatsachen nähere Kenntnis zu
                         nehmen die Güte hatten, so erlaube ich mir auf den k.k. Herrn Legationsrath
-                            <persName key="philippsberg-eugen">
+                            <rs type="person" ref="philippsberg-eugen" key="philippsberg-eugen">
                             <hi rend="ul">von
                             Philippsberg</hi>
-                        </persName>
-                        <placeName key="karlsruhe" ref="#place_2126faa64bfa66d02e06345d06e61a25">dahier</placeName>, den großherzoglichen Herrn
-                        Obristen und Flügeladjutanten <persName key="krieg-von-hochfelden-georg-heinrich">
+                        </rs>
+                        <rs type="place" subtype="place" key="karlsruhe" ref="#place_2126faa64bfa66d02e06345d06e61a25">dahier</rs>, den großherzoglichen Herrn
+                        Obristen und Flügeladjutanten <rs type="person" ref="krieg-von-hochfelden-georg-heinrich" key="krieg-von-hochfelden-georg-heinrich">
                             <hi rend="ul">von
                             Krieg</hi>
-                        </persName> in Frankfurt, den großherzoglichen Herrn Gesandten
-                        am kaiserlichen Hofe, <persName key="andlaw-birseck-franz-xaver">Freiherrn
+                        </rs> in Frankfurt, den großherzoglichen Herrn Gesandten
+                        am kaiserlichen Hofe, <rs type="person" ref="andlaw-birseck-franz-xaver" key="andlaw-birseck-franz-xaver">Freiherrn
                                 <hi rend="ul">von Andlaw</hi>
-                        </persName> in
-                            <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> sowie auf den Hochwürdigsten Herrn
-                        Fürstbischof <persName key="galura-bernhard">
+                        </rs> in
+                            <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> sowie auf den Hochwürdigsten Herrn
+                        Fürstbischof <rs type="person" ref="galura-bernhard" key="galura-bernhard">
                             <hi rend="ul">Galura</hi>
-                        </persName> in <placeName ref="#place_478686b5e2ebec6de738cf25710e7108">Brixen</placeName>, welcher von
+                        </rs> in <rs type="place" subtype="place" ref="#place_478686b5e2ebec6de738cf25710e7108">Brixen</rs>, welcher von
                         zuverlässiger Seite her mich kennt, gehorsamst mich zu
                         beziehen.<lb/>Hinsichtlich meiner <hi rend="ul">wissenschaftlichen</hi>
-                        Qualifcation glaube ich mich auf meinen frühern Lehrer, den Herrn <persName key="lejeune-dirichlet-peter-gustav">Prof. <hi rend="ul">Lejeune-Dirichlet</hi>
-                        </persName> in <orgName key="universitaet-berlin">Berlin</orgName>, berufen zu können.<lb/>Auch
+                        Qualifcation glaube ich mich auf meinen frühern Lehrer, den Herrn <rs type="person" ref="lejeune-dirichlet-peter-gustav" key="lejeune-dirichlet-peter-gustav">Prof. <hi rend="ul">Lejeune-Dirichlet</hi>
+                        </rs> in <orgName key="universitaet-berlin">Berlin</orgName>, berufen zu können.<lb/>Auch
                         habe ich aufgrund meiner mathematischen Dissertation von der <orgName key="universitaet-kiel">Kieler Hochschule</orgName> in sehr ehrender
                         Weise die Doctorwürde erlangt, und nehme ich mir die Freiheit einen Abdruck
                         des Diploms gehorsamst beizuschließen.<note xml:id="note_2">Vgl. <ref target="#D129c_1">Abschrift des Diploms der Universität
@@ -240,11 +239,11 @@
                     <div type="enclosure" xml:id="D129c_1">
                         <p>Abschrift</p>
                         <p>Wir Rector und Senat der Königlichen <orgName key="universitaet-berlin">Friedrich-Wilhelms-Universität zu Berlin</orgName> bekunden durch
-                            dieses Abgangszeugnis, daß Herr <persName key="winkler-anton">Anton
-                                Winckler</persName> geboren zu <placeName ref="#place_17873f60321986b78504c3e9bc5be2ba">Riegel</placeName> im
-                            Großherzogthum <region ref="#place_9a43e84f6e1d406076f2372205804f6d">Baden</region>, Sohn des daselbst verstorbenen
+                            dieses Abgangszeugnis, daß Herr <rs type="person" ref="winkler-anton" key="winkler-anton">Anton
+                                Winckler</rs> geboren zu <rs type="place" subtype="place" ref="#place_17873f60321986b78504c3e9bc5be2ba">Riegel</rs> im
+                            Großherzogthum <rs type="place" subtype="region" ref="#place_9a43e84f6e1d406076f2372205804f6d">Baden</rs>, Sohn des daselbst verstorbenen
                             Landmanns Winckler bereits großjährig zu den akademischen Studien auf
-                            dem Gymnasium zu <placeName key="karlsruhe" ref="#place_2126faa64bfa66d02e06345d06e61a25">Carlsruhe</placeName>
+                            dem Gymnasium zu <rs type="place" subtype="place" key="karlsruhe" ref="#place_2126faa64bfa66d02e06345d06e61a25">Carlsruhe</rs>
                             vorbereitet, auf den Grund genügender Zeugnisse am 25. October 1845 bey
                             uns immatrikulirt worden ist, sich seitdem bis zum Schluß des
                             Sommersemesters 1847 als Studirender hier aufgehalten und sich der
@@ -252,55 +251,55 @@
                             Aufenthaltes hat derselbe bei unserer <orgName key="universitaet-berlin">Universität</orgName> nach den vorgelegten Zeugnissen die
                             nachstehend verzeichneten Vorlesungen gehört:</p>
                         <p>I. im Wintersemester 1845/46<lb/>1. Differential- und Integralrechnung
-                            beim Herrn Professor <persName key="jacobi-carl-gustav">Jacobi</persName> mit ausgezeichneten Fleiß und Eifer<lb/>2.
-                            Rechnende Astronomie bei Herrn Professor <persName key="encke-johann-franz">Encke</persName>, ausgezeichnet
-                            fleißig<lb/>3. Theorie des Fernrohrs bei Herrn Professor <persName key="encke-johann-franz">Encke</persName>, ausgezeichnet
+                            beim Herrn Professor <rs type="person" ref="jacobi-carl-gustav" key="jacobi-carl-gustav">Jacobi</rs> mit ausgezeichneten Fleiß und Eifer<lb/>2.
+                            Rechnende Astronomie bei Herrn Professor <rs type="person" ref="encke-johann-franz" key="encke-johann-franz">Encke</rs>, ausgezeichnet
+                            fleißig<lb/>3. Theorie des Fernrohrs bei Herrn Professor <rs type="person" ref="encke-johann-franz" key="encke-johann-franz">Encke</rs>, ausgezeichnet
                             fleißig<lb/>4. Anwendung der Lehre von den bestimmten Integralen bei
-                            Herrn <persName key="lejeune-dirichlet-peter-gustav">Dirichlet</persName>, desgleichen<lb/>5. Integration der
-                            Differentialgleichung bei Herrn Prof. <persName key="dirksen-enne-heeren">Dirksen</persName>, mit dem ausgezeichsten
+                            Herrn <rs type="person" ref="lejeune-dirichlet-peter-gustav" key="lejeune-dirichlet-peter-gustav">Dirichlet</rs>, desgleichen<lb/>5. Integration der
+                            Differentialgleichung bei Herrn Prof. <rs type="person" ref="dirksen-enne-heeren" key="dirksen-enne-heeren">Dirksen</rs>, mit dem ausgezeichsten
                             [sic!] Fleiß<lb/>6. Kritische Einleitung in die gesammte Philosophie bei
-                            Herrn <persName key="beneke-friedrich-eduard">Beneke</persName>, mit
+                            Herrn <rs type="person" ref="beneke-friedrich-eduard" key="beneke-friedrich-eduard">Beneke</rs>, mit
                             rühmlichen Fleiß<lb/>7. Logik und Encyklopädie der philosophischen
-                            Wissenschaften bei Herrn <persName key="michelet-karl-ludwig">Michelet</persName>, ausgezeichnet fleißig<lb/>8. Allgemeine
-                            Geschichte der Physik bei Herrn <persName key="poggendorff-johann-christian">Poggendorf</persName>, sehr
-                            fleißig<lb/>9. Nationalökonomie bei Herrn <persName key="doenniges-wilhelm">Dönniges</persName>, mit ausgezeichnetem
+                            Wissenschaften bei Herrn <rs type="person" ref="michelet-karl-ludwig" key="michelet-karl-ludwig">Michelet</rs>, ausgezeichnet fleißig<lb/>8. Allgemeine
+                            Geschichte der Physik bei Herrn <rs type="person" ref="poggendorff-johann-christian" key="poggendorff-johann-christian">Poggendorf</rs>, sehr
+                            fleißig<lb/>9. Nationalökonomie bei Herrn <rs type="person" ref="doenniges-wilhelm" key="doenniges-wilhelm">Dönniges</rs>, mit ausgezeichnetem
                             Fleiß und vorzüglicher Aufmerksamkeit<lb/>10. Geometrische Übungen bei
-                            Herrn <persName key="steiner-jakob">Steiner</persName>, sehr
-                            fleißig<lb/>11. Allgemeine Geographie bei Herrn <persName key="ritter-carl">C[arl] Ritter</persName>, desgleichen<lb/>12.
-                            Rhetorik bei Herrn Dr. <persName key="maercker-friedrich-adolph">Märker</persName>, mit rühmlichem Fleiß</p>
+                            Herrn <rs type="person" ref="steiner-jakob" key="steiner-jakob">Steiner</rs>, sehr
+                            fleißig<lb/>11. Allgemeine Geographie bei Herrn <rs type="person" ref="ritter-carl" key="ritter-carl">C[arl] Ritter</rs>, desgleichen<lb/>12.
+                            Rhetorik bei Herrn Dr. <rs type="person" ref="maercker-friedrich-adolph" key="maercker-friedrich-adolph">Märker</rs>, mit rühmlichem Fleiß</p>
                         <p>II. im Sommersemester 1846<lb/>1. Allgemeine Theorie der krummen
                             Oberflächen und der Linien der doppelten Krümmungen bei Herrn Prof.
-                                <persName key="jacobi-carl-gustav">Jacobi</persName>, mit dem
+                                <rs type="person" ref="jacobi-carl-gustav" key="jacobi-carl-gustav">Jacobi</rs>, mit dem
                             ausgezeichnetsten Fleiß und der eifrigsten Theilnahme<lb/>2. Integration
-                            der partiellen Differentgleichungen bei Herrn <persName key="lejeune-dirichlet-peter-gustav">Dirichlet</persName>,
+                            der partiellen Differentgleichungen bei Herrn <rs type="person" ref="lejeune-dirichlet-peter-gustav" key="lejeune-dirichlet-peter-gustav">Dirichlet</rs>,
                             ausgezeichnet fleißig<lb/>3. Anwendung der bestimmten Integrale auf
-                            Wahrscheinlichkeitsbestimmungen bei Herrn <persName key="lejeune-dirichlet-peter-gustav">Dirichlet</persName>,
+                            Wahrscheinlichkeitsbestimmungen bei Herrn <rs type="person" ref="lejeune-dirichlet-peter-gustav" key="lejeune-dirichlet-peter-gustav">Dirichlet</rs>,
                             ausgezeichnet fleißig<lb/>4. Summirung der unendlichen Reihen bei Herrn
-                                <persName key="dirksen-enne-heeren">Dirksen</persName>,
-                            desgleichen<lb/>5. Sphärische Astronomie bei Herrn <persName key="encke-johann-franz">Enke</persName>, desgleichen<lb/>6.
-                            Geschichte der Astronomie bei Herrn <persName key="encke-johann-franz">Enke</persName>, desgleichen</p>
+                                <rs type="person" ref="dirksen-enne-heeren" key="dirksen-enne-heeren">Dirksen</rs>,
+                            desgleichen<lb/>5. Sphärische Astronomie bei Herrn <rs type="person" ref="encke-johann-franz" key="encke-johann-franz">Enke</rs>, desgleichen<lb/>6.
+                            Geschichte der Astronomie bei Herrn <rs type="person" ref="encke-johann-franz" key="encke-johann-franz">Enke</rs>, desgleichen</p>
                         <p>III. im Wintersemester 1846/47<lb/>1. Allgemeine Theorie der anziehenden
-                            Kräfte bei Herrn <persName key="lejeune-dirichlet-peter-gustav">Dirichlet</persName>, desgleichen<lb/>2. Theorische Astronomie bei
-                            Herrn Prof. <persName key="encke-johann-franz">Enke</persName>, mit
+                            Kräfte bei Herrn <rs type="person" ref="lejeune-dirichlet-peter-gustav" key="lejeune-dirichlet-peter-gustav">Dirichlet</rs>, desgleichen<lb/>2. Theorische Astronomie bei
+                            Herrn Prof. <rs type="person" ref="encke-johann-franz" key="encke-johann-franz">Enke</rs>, mit
                             ausgezeichnetem Fleiß und Theilnahme<lb/>3. Theorie und Gebrauch der
-                            astronomischen Instrumente bei Herrn <persName key="dirksen-enne-heeren">Dirksen</persName>, mit ausgezeichnetem Fleiß und Theilnahme<lb/>4.
-                            Anwendung der Differentialrechnung auf die Geometrie bei Herrn <persName key="dirksen-enne-heeren">Dirksen</persName>, mit dem vorzüglichsten
+                            astronomischen Instrumente bei Herrn <rs type="person" ref="dirksen-enne-heeren" key="dirksen-enne-heeren">Dirksen</rs>, mit ausgezeichnetem Fleiß und Theilnahme<lb/>4.
+                            Anwendung der Differentialrechnung auf die Geometrie bei Herrn <rs type="person" ref="dirksen-enne-heeren" key="dirksen-enne-heeren">Dirksen</rs>, mit dem vorzüglichsten
                             Fleiß<lb/>5. Encyklopädie der philosophischen Wissenschaften bei Herrn
-                            Dr. <persName key="georg">Georg</persName>, sehr fleißig</p>
+                            Dr. <rs type="person" ref="georg" key="georg">Georg</rs>, sehr fleißig</p>
                         <p>IV. im Sommersemester 1847<lb/>Die nachstehenden Vorlesungen sind am 5.
-                            Juni angenommen worden<lb/>1. Geographie von Asien bei Herrn <persName key="ritter-carl">C[arl] Ritter</persName>, ausgezeichnet
-                            fleißig<lb/>2. Theorie der Zahlen bei Herrn <persName key="lejeune-dirichlet-peter-gustav">Dirichlet</persName>,
+                            Juni angenommen worden<lb/>1. Geographie von Asien bei Herrn <rs type="person" ref="ritter-carl" key="ritter-carl">C[arl] Ritter</rs>, ausgezeichnet
+                            fleißig<lb/>2. Theorie der Zahlen bei Herrn <rs type="person" ref="lejeune-dirichlet-peter-gustav" key="lejeune-dirichlet-peter-gustav">Dirichlet</rs>,
                             desgleichen<lb/>3. Anwendung der Integralrechnung auf die Zahlenlehre
-                            bei Herrn <persName key="lejeune-dirichlet-peter-gustav">Dirichlet</persName>, desgleichen<lb/>4. die Eigenschaften des
+                            bei Herrn <rs type="person" ref="lejeune-dirichlet-peter-gustav" key="lejeune-dirichlet-peter-gustav">Dirichlet</rs>, desgleichen<lb/>4. die Eigenschaften des
                             Maximums und Minimums bei Figuren in der Ebene und im Raume bei Herrn
-                                <persName key="steiner-jakob">Steiner</persName>, desgleichen<lb/>5.
-                            Sphärische Astronomie bei Herrn <persName key="encke-johann-franz">Encke</persName>, desgleichen<lb/>6. Physikalische Geographie bei
-                            Herrn <persName key="poggendorff-johann-christian">Poggendorff</persName>, sehr fleißig<lb/>7. Ethnographie von Asien
-                            bei Herrn <persName key="ritter-carl">C[arl] Ritter</persName>,
+                                <rs type="person" ref="steiner-jakob" key="steiner-jakob">Steiner</rs>, desgleichen<lb/>5.
+                            Sphärische Astronomie bei Herrn <rs type="person" ref="encke-johann-franz" key="encke-johann-franz">Encke</rs>, desgleichen<lb/>6. Physikalische Geographie bei
+                            Herrn <rs type="person" ref="poggendorff-johann-christian" key="poggendorff-johann-christian">Poggendorff</rs>, sehr fleißig<lb/>7. Ethnographie von Asien
+                            bei Herrn <rs type="person" ref="ritter-carl" key="ritter-carl">C[arl] Ritter</rs>,
                             ausgezeichnet fleißig<lb/>8. Über Transformation der Funktionen bei
-                            Herrn <persName key="dirksen-enne-heeren">Dirksen</persName>, mit dem
+                            Herrn <rs type="person" ref="dirksen-enne-heeren" key="dirksen-enne-heeren">Dirksen</rs>, mit dem
                             vorzüglichsten Fleiß<lb/>9. Über die Theorie der elliptischen Funktionen
-                            bei Herrn Dr. <persName key="eisenstein-gotthold">Eisenstein</persName>,
+                            bei Herrn Dr. <rs type="person" ref="eisenstein-gotthold" key="eisenstein-gotthold">Eisenstein</rs>,
                             mit ganz ausgezeichneten Fleiß und nie ermüdender Theilnahme</p>
                         <p>Hinsichtlich seines Verhaltens auf der <orgName key="universitaet-berlin">hiesigen Universität</orgName> ist in disziplinarischer und
                             ökonomischer Rücksicht nichts Nachtheiliges vorgekommen.<lb/>Einer
@@ -311,11 +310,11 @@
                             Fakultät eigenhändig unterzeichnet worden.</p>
                         <p>Berlin, den 10. August 1847</p>
                         <p>
-                            <persName key="boeckh-august">Böckh</persName>
-                            <persName key="lehnert-hermann">Lehnert</persName>
-                            <persName key="lachmann-karl">Lachmann</persName>
+                            <rs type="person" ref="boeckh-august" key="boeckh-august">Böckh</rs>
+                            <rs type="person" ref="lehnert-hermann" key="lehnert-hermann">Lehnert</rs>
+                            <rs type="person" ref="lachmann-karl" key="lachmann-karl">Lachmann</rs>
                             <lb/>(L. S.)</p>
-                        <p>Gesehen von dem Königlichen Regirungsbevollächtigten <persName key="ladenberg-adalbert">Ladenberg</persName>
+                        <p>Gesehen von dem Königlichen Regirungsbevollächtigten <rs type="person" ref="ladenberg-adalbert" key="ladenberg-adalbert">Ladenberg</rs>
                         </p>
                         <p>Die Übereinstimmung vorstehender Abschrift mit dem anhier vorgelegten und
                             wieder zurückgegebenen Originale wird andurch öffentlich beglaubigt.</p>
@@ -325,14 +324,14 @@
                     <div xml:id="D129c_2" type="enclosure">
                         <p>Abschrift</p>
                         <p>Ministerium des Innern<lb/>Carlsruhe, den 1. April 1845<lb/>Nr. 3594</p>
-                        <p>Der Ingenieurcandidat <persName key="winkler-anton">Anton
-                                Winkler</persName> von <placeName ref="#place_17873f60321986b78504c3e9bc5be2ba">Riegel</placeName> ist nach
+                        <p>Der Ingenieurcandidat <rs type="person" ref="winkler-anton" key="winkler-anton">Anton
+                                Winkler</rs> von <rs type="place" subtype="place" ref="#place_17873f60321986b78504c3e9bc5be2ba">Riegel</rs> ist nach
                             ordnungsmäßig erstandener Staatsprüfung unterm Heutigen mit der Note
                             „sehr gut befähigt“ unter die Zahl der Ingenieurpraktikanten aufgenommen
                             worden, was denselben durch gegenwärtige mit dem diesseitigen größern
                             Insiegel versehene Fertigung beurkundet wird.</p>
                         <p>L. v. d. R.<lb/>Der Ministerialdirektor<lb/>
-                            <persName key="rettig">Rettig</persName>
+                            <rs type="person" ref="rettig" key="rettig">Rettig</rs>
                             <lb/>(L.S.)</p>
                         <p>[?]<lb/>Die Übereinstimmung vorstehender Abschrift mit dem anhier
                             vorgelegten und wieder zurückgegebenen Originale wird öffentlich

@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="hoefler-karl-adolf-constantin" role="sender:gelehrter">Constantin Höfler</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="hoefler-karl-adolf-constantin" key="hoefler-karl-adolf-constantin" role="sender:gelehrter">Constantin Höfler</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, <date when="1858-06-26">26. Juni 1858</date>
+                    <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1858-06-26">26. Juni 1858</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -45,7 +44,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -59,10 +58,10 @@
                     <p>Die <orgName key="boehmische-gesellschaft-der-wissenschaften">k. böhmische
                             gelehrte Gesellschaft</orgName> glaubt es wagen zu dürfen, Euer
                         Excellenz in der Anlage die Abschrift einer Eingabe an den ständischen
-                        Ausschuß <country key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmens</country> um Erlangung einer
+                        Ausschuß <rs type="place" subtype="country" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmens</rs> um Erlangung einer
                         jährlichen Dotation aus dem Domesticalfond ehrerbietigst vorzulegen. Bereits
                         hat der Ausschuß den darin enthaltenen Motiven Gehör schenkend den Antrag auf
-                        eine jährliche Unterstützung von 2000 fl CM gestellt, wie Graf <persName key="nostitz-rieneck-albert">Albert Nostiz</persName> mich zu versichern
+                        eine jährliche Unterstützung von 2000 fl CM gestellt, wie Graf <rs type="person" ref="nostitz-rieneck-albert" key="nostitz-rieneck-albert">Albert Nostiz</rs> mich zu versichern
                         die Freundlichkeit hatte. Da von der allerhöchsten Entscheidung Seyn oder
                         Nichtseyn der gelehrten Gesellschaft abhängt, wagt es dieselbe durch den
                         ehrfurchtvollst Unterzeichneten als ihrem gegenwärtigen Director Euer
@@ -176,8 +175,8 @@
                         fr<lb/>Möge es einem hochlöblichen Ständischen Ausschuße gefallen zur
                         Förderung des geistigen Lebens sein Augenmerk auf diese Verhältnisse richten
                         und derselbe der Unterstützung, Pflege der Wissenschaft im Geiste eines
-                            <persName key="lobkowicz-von-hassenstein-bohuslav">Bohuslav
-                            Lobković</persName>, <persName key="martinic-jaroslav-borsita">Martinić</persName>, <persName key="slavata-wilhelm">Slavata</persName>, die Grafen von Sternberg und so vieler anderer
+                            <rs type="person" ref="lobkowicz-von-hassenstein-bohuslav" key="lobkowicz-von-hassenstein-bohuslav">Bohuslav
+                            Lobković</rs>, <rs type="person" ref="martinic-jaroslav-borsita" key="martinic-jaroslav-borsita">Martinić</rs>, <rs type="person" ref="slavata-wilhelm" key="slavata-wilhelm">Slavata</rs>, die Grafen von Sternberg und so vieler anderer
                         berühmten und herrlichen Namen sich gnädigst unterziehen wollen.</p>
                     <p>Von der Königlich Böhmischen Gesellschaft der Wissenschaften<lb/>Dr.
                         Höfler<lb/>dieses Jahr Director</p>

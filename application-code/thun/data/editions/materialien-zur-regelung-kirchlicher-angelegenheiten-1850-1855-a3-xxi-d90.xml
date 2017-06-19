@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -61,9 +60,9 @@
                                     mit dem folgenden Text von Korizmics, er ist jedoch von anderer
                                     Hand als jener.</ref>.</note>
                             <lb/>
-                            <ref target="#D90_2">Bemerkungen <persName key="korizmics-anton">Anton
-                                    Korizmics</persName>' zur kaiserlichen Verordnung vom 18. April
-                                1850, <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1850-02-19">19.
+                            <ref target="#D90_2">Bemerkungen <rs type="person" ref="korizmics-anton" key="korizmics-anton">Anton
+                                    Korizmics</rs>' zur kaiserlichen Verordnung vom 18. April
+                                1850, <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1850-02-19">19.
                                     Februar 1850</date>.</ref>
                             <lb/>
                             <ref target="#D90_3">Konzept mit handschriftlichen Ergänzungen Thuns
@@ -92,7 +91,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -111,7 +110,7 @@
                     <p>Gegenstände hinsichtlich welcher die der Kirche durch die bisherigen Gesetze
                         verwehrte freie Bewegung in Anspruch genommen wird.<lb/>Darüber wäre das „“
                         bezeichnete im Verordnungswege zu erlassen:</p>
-                    <p>1. Verkehr mit <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName>
+                    <p>1. Verkehr mit <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs>
                         <lb/>Ad 1. „Sowohl den katholischen
                         Bischöfen als den ihnen unterstehenden Gläubigen steht es frei, sich in <hi rend="ul">geistlichen Angelegenheiten</hi> an den Pabst zu wenden und
                         die Entscheidungen und Anordnungen des Pabstes zu empfangen, ohne dabei an
@@ -160,12 +159,12 @@
                         nöthigen Einleitungen wegen Regelung des geistlichen Instanzenzuges und des
                         Verfahrens vor den geistlichen Gerichten zu treffen und deren Ergebnis
                         seinerzeit mitzutheilen, und es wäre beim Pabste dahin zu wirken, daß die
-                        geistliche Gerichtsbarkeit in oberster Instanz in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> nur von Personen ausgeübt werde, die im Lande
+                        geistliche Gerichtsbarkeit in oberster Instanz in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> nur von Personen ausgeübt werde, die im Lande
                         ihren Wohnsitz haben und den inländischen Gerichtsbehörden unterstehen.</p>
                     <p>4. Geistliche Orden<lb/>Ad 4. „Den geistlichen Ordensgemeinden wird es
                         freigestellt mit ihren Ordensgeneralen zu verkehren und die Generalkapitel
                         zu beschicken, unter der Bedingung, daß die Ordensgemeinde und überhaupt
-                        alle Ordensvorsteher, welche außerhalb <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> sich aufhalten, die ihnen zustehenden Rechte nur
+                        alle Ordensvorsteher, welche außerhalb <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> sich aufhalten, die ihnen zustehenden Rechte nur
                         durch Stellvertreter üben, welche inländische Ordensglieder sind und ihren
                         Wohnsitz im Inlande haben.“<lb/>Zugleich wäre die ausdrückliche Genehmigung
                         dieser Bestimmung hinsichtlich der ausländischen Ordensgenerale bei dem
@@ -176,12 +175,12 @@
                         die bisherigen Gesetze verwehrte freie Bewegung in den österreichischen
                         Staaten in Anspruch genommen wird, nach ungarisch kirchenrechtlichem
                         Standpunkte</p>
-                    <p>1. Verkehr mit <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName>
+                    <p>1. Verkehr mit <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs>
                         <lb/>Der geistliche Verkehr mit
-                            <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName> war seit Kaiser <persName key="joseph-II">Joseph II.</persName> zeitan für <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> ganz
+                            <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs> war seit Kaiser <rs type="person" ref="joseph-II" key="joseph-II">Joseph II.</rs> zeitan für <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> ganz
                         denselben Beschränkungen unterworfen, welchen in den übrigen Provinzen der
                         Monarchie.<lb/>Nach der allgemeinen Norm des allerhöchsten Decretes vom 15.
-                        Sept. 1782 Zahl 2398 mußten auch in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> alle Recurse
+                        Sept. 1782 Zahl 2398 mußten auch in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> alle Recurse
                         der Bischöfe an den Apostolischen Stuhl, alle Petitionen und Berichte, mit
                         Ausnahme der das innere Forum berührenden und daher ihrer Natur nach vor die
                         h. Poenitentiaria gehörigen, dann jener Fälle, in welchen der Ruf der um die
@@ -199,7 +198,7 @@
                         </note>, 9.
                         Sept. 1782 und k. statthaltereikirchliche Verordnungen vom 31. Oct. 1791, 3.
                         März [1]807, 19. Nov. [1]811, 29. August [1]815, 6. April 1819.<lb/>Die
-                        älteren Landesgesetze <country key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarns</country> 1351:1,
+                        älteren Landesgesetze <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarns</rs> 1351:1,
                         1492:45, 1472:19, 1498:63 verwahrten zwar dem Staate das Jus Cavendi in dem
                         Sinne, daß die Gerechtigkeitspflege durch den Mißbrauch der kirchlichen
                         Censuren oder römische Rescripte nicht beirrt und niemand seinem natürlichen
@@ -209,19 +208,19 @@
                         von römischen Rescripten, welche libere apportari possunt; der 14:1550
                         verordnete, daß die Confirmationsbullen der neu ernannten Bischöfe fine
                         distributionis solum Sua Majestati SSma consignentur.<lb/>Die Bischöfe
-                            <country key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarns</country> fügten sich zwar treu gehorsamst
+                            <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarns</rs> fügten sich zwar treu gehorsamst
                         den landesfürstlichen Verordnungen Seiner k.k. Apostolischen Majestät auch
                         in Hinsicht des allerhöchsten Placeti Regii, doch glaubten sie immer, daß
                         durch die Art und Weise der Handhabung des Placetrechtes den wesentlichen
                         Rechten der catholischen Kirche Abbruch geschehe. Sie wurden in dieser
                         Überzeugung zu neuerer Zeit um so mehr bestärkt, da in vielen Staaten
-                            <country key="europa" ref="#place_55899fef2f0b2eba13eb1316b34b3694">Europas</country>, ja sogar im protestantischen
-                            <country key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</country> vom Placeto regio abgegangen
+                            <rs type="place" subtype="country" key="europa" ref="#place_55899fef2f0b2eba13eb1316b34b3694">Europas</rs>, ja sogar im protestantischen
+                            <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> vom Placeto regio abgegangen
                         wurde, ohne daß die Sicherheit des Staates, dessen festeste Stütze die
                         catholische Kirche ist, im mindesten gelitten hätte.<lb/>Auf unmittelbaren
-                        allerhöchsten Befehl <persName key="ferdinand-I">Seiner Majestät</persName>
+                        allerhöchsten Befehl <rs type="person" ref="ferdinand-I" key="ferdinand-I">Seiner Majestät</rs>
                         del. 20. Jänner 1843 Z. 55/6 wurde der damalige k. Hofkanzler von Ungarn
-                        beauftragt den Fürstbischof und den <persName key="lonovics-von-krivina-josef">Bischof von Csanád</persName>
+                        beauftragt den Fürstbischof und den <rs type="person" ref="lonovics-von-krivina-josef" key="lonovics-von-krivina-josef">Bischof von Csanád</rs>
                         unmittelbar und mit der Aufforderung zu vernehmen, ob die Klagen, daß durch
                         landesfürstliche Verordnungen die Trägheit der Communication der Bischöfe
                         mit dem heiligen Vater zur Ungebühr gehemmt sey, inwiefern und wodurch für
@@ -247,10 +246,10 @@
                         und Selbständigkeit der Kirche entsprechender sey als die Modificationen der
                         vormaligen k. ungarischen Hofkanzlei.</p>
                     <p>2. Verkehr der Bischöfe mit ihren Gemeinden<lb/>Für die Anwendung dieser ad.
-                        2. beantragten ministeriellen Verordnung liegt in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country>
+                        2. beantragten ministeriellen Verordnung liegt in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>
                         durchaus kein Anlaß vor.<lb/>Den Verkehr der Bischöfe mit ihrem Clerus und
                         ihren Gemeinden zu erschweren oder zu behindern, fiel der Civiljurisdiction
-                        in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> nie bei. Man ging aus dem ganz richtigen
+                        in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> nie bei. Man ging aus dem ganz richtigen
                         Grundsatze aus, daß der Bischof über das Mühewalten seines wichtigen und
                         heiligen Amtes vor Gott und den Menschen nur dann ganz verantwortlich
                         gemacht werden kann, wenn derselbe auch ganz frei ist. Die Bischöfe waren
@@ -260,12 +259,12 @@
                         Landesgesetze anerkannten „quod Episcopi potestatem habeant Dioeceses suas
                         regere, gubernare et administrare, juxta Canonum Auctoritatem“. – Art.
                         25:1556, 10:1557, 41:1559. Impedimenta Episcopis in officio <hi rend="ul">libere exercendo</hi> objecta, removeri jubent. In
-                            <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country>, wo die Protestanten und nicht Unirten
+                            <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, wo die Protestanten und nicht Unirten
                         massenhaft der catholischen Kirche gegenüber da stehen, konnte und dürfte
                         der catholischen Kirche keine geringere Freiheit zu kommen, als den nicht
                         catholischen Confessionen, die sich ganz frei auf ihrem Gebiethe
                         bewegen.<lb/>Ein jeder Eingriff der Staatsgewalt in dieses kirchlich
-                        autonomisches Recht würde in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> Wiederwillen erregen
+                        autonomisches Recht würde in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> Wiederwillen erregen
                         und ewige Reklamationen veranlassen, da dadurch die Lage der Catholiken
                         gedrückter erschiene als der Protestanten oder der nicht Unirten Griechen.
                         Daher auch die Verpflichtung zur abschriftlichen Mittheilung der geschehenen
@@ -275,7 +274,7 @@
                         religiöse beigeselle.</p>
                     <p>3. Geistliche Gerichtsbarkeit<lb/>
                         <hi rend="ul">§ bezüglich der
-                            Kirchenstrafen</hi>:<lb/>In <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> stand der
+                            Kirchenstrafen</hi>:<lb/>In <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> stand der
                         Kirchengewalt im Sinne der Landesgesetze ohnedem zu, unabhängig von der
                         Staatsbehörde, Kirchenstrafen, welche eine Rückwirkung auf bürgerliche
                         Rechte nicht üben, zu verhängen. Die richterliche Gewalt war in echt
@@ -287,7 +286,7 @@
                         Wahrheit begründe, unter zu breiten waren.<lb/>
                         <hi rend="ul">§ bezüglich der
                             Begräbnisfeyerlichkeiten</hi>:<lb/>Das unter diesem § formulirte
-                        Postulat würde man in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> als von sich selbst
+                        Postulat würde man in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> als von sich selbst
                         einleuchtend betrachten. Das Gesetz 26:1791 sprach die Protestanten von der
                         Verpflichtung ritus, welche ihrem Gewissen zu wieder sind, einzuhalten, ganz
                         frei, sonach wäre es nur eine Inconsequenz darüber, ob in einem gegebenen
@@ -307,7 +306,7 @@
                         verwalte, wird wohl niemand gründlicher zu beurtheilen im Stande seyn als
                         eben die kirchliche Gewalt, deren Interessen zu vertreten sind. Sonach
                         dürfte der hierauf bezügliche Passus überall seine richtige Anwendung
-                        finden. In <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> wahren die geistlichen Gerichte ganz in
+                        finden. In <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> wahren die geistlichen Gerichte ganz in
                         ihrer durch die Landesgesetze anerkannten Competenz, da sie die Suspensions-
                         oder Absetzungsurtheile aussprachen. Zur Grundlage der Urtheile dienten
                         sowohl die Canones Ecclesiae als auch die üblichen Landesgesetze
@@ -317,7 +316,7 @@
                         1557:9, 1563:27, 1567:25, wo überall gesagt wird judicia ecclesiastica
                         judicent secundum Canones.<lb/>
                         <hi rend="ul">§ bezüglich der Mitwirkung der
-                            Staatsbehörden</hi>:<lb/>In <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> war die Mitwirkung
+                            Staatsbehörden</hi>:<lb/>In <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> war die Mitwirkung
                         der Staatsbehörden zur Durchführung der richterlichen Erkenntnisse eine
                         gesetzliche Pflicht. Judicia Ecclesiastica, Processusque per Censuras, per
                         Judices Ecclesiasticos fieri, invocatoque auxilio brachii saecularis ad
@@ -334,7 +333,7 @@
                         Behörden, somit konnten und durften sie sich in die Revision der
                         richterlichen Urtheile nicht einlassen. Auch scheint die hier projectirte
                         Mittheilung der Untersuchungsacten eine ungehörige Unterordnung einer
-                        Behörde unter die andere auszusprechen. In <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> war
+                        Behörde unter die andere auszusprechen. In <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> war
                         eine solche Mittheilung nie im Gebrauche.<lb/>
                         <hi rend="ul">§ bezüglich der
                             der Regierung nothwendig erscheinenden Entfernung der Geistlichen von
@@ -347,7 +346,7 @@
                         antragen, genau formulirt und bestimmt werden. Ohne einer genaueren
                         Bestimmung des <hi rend="ul">Mißbrauches</hi> dürfte die Stellung der
                         Seelsorger wenn nicht ganz rechtlos, doch gewiß sehr traurig werden.
-                        Übrigens waren in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> die Geistlichen bezüglich ihrer
+                        Übrigens waren in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> die Geistlichen bezüglich ihrer
                         Amtsführung von ihrem Bischofe und dem geistlichen Diöcesangerichte
                         abhängig. Causa clericorum gehörten zu der Competenz der geistlichen
                         Gerichte und dürften auch ferner dort auf das zweckmäßigste entschieden
@@ -358,7 +357,7 @@
                             der Geistlichen und der Regelung des geistlichen Instanzenzuges und des
                             Verfahrens vor den geistlichen Gerichten</hi>:<lb/>
                         <lb/>In
-                            <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> galt das privilegium fori. Mit Ausnahme von 4
+                            <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> galt das privilegium fori. Mit Ausnahme von 4
                         Fällen, welche Partis II. tit. 44. aufgezählt sind, namentlich des Hoch- und
                         Landesverrathes, des Mordes und des Straßenraubes, unterstand der
                         verbrecherische Geistliche dem geistlichen Gerichte. In den 4 Ausnahmsfällen
@@ -368,21 +367,21 @@
                         Hinrichtung jedoch mußte die Degradation durch den Bischof vorgenommen
                         werden.<lb/>Da nun bei der grundgesetzlich ausgesprochenen Gleichstellung
                         aller Staatsbürger der Gesammtmonarchie vor dem Gesetze das privilegium fori
-                        auch in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> aufzuhören hätte und das accusatorische
+                        auch in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> aufzuhören hätte und das accusatorische
                         Verfahren zum Grunde der neuen Justizpflege aufgestellt ist, wird es
                         immerhin wünschenswerth seyn, daß die hier vorgeschlagenen Rücksichten im
                         Einvernehmen mit dem hohen Justizministerium bei allen Gerichtsbarkeiten der
                         Monarchie verfügt und zur Geltung gebracht werden.<lb/>Was die Regelung des
                         Instanzenzuges und des gerichtlichen Verfahrens, so auch die Art der
-                        römischen Gerichtsdelegation, anbetrifft, dürfte <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country>
-                        zum Vorbilde aller übrigen Kronländer dienen. In <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country>
+                        römischen Gerichtsdelegation, anbetrifft, dürfte <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>
+                        zum Vorbilde aller übrigen Kronländer dienen. In <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>
                         sind alle diese Fragen durch eine lange Praxis geregelt. Die erste Instanz
                         ist der Diöcesanbischof, die zweite der Erzbischof, die dritte der Primas,
                         die vierte Rom. Eine Ausnahme von dieser Regel machten der Erzbischof von
                         Coloca und der Erzabt der Benedictiner von
-                            <placeName ref="#place_60fad583fdba7cff3143633335dc08ae">Martinsberg</placeName>; vom Metroplitanstuhl Coloca gehet
-                        die Berufung nach <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName>, nicht zum Primas und der
-                        Erzabt von <placeName ref="#place_60fad583fdba7cff3143633335dc08ae">Martinsberg</placeName>, der einen Gerichtssprengel
+                            <rs type="place" subtype="place" ref="#place_60fad583fdba7cff3143633335dc08ae">Martinsberg</rs>; vom Metroplitanstuhl Coloca gehet
+                        die Berufung nach <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs>, nicht zum Primas und der
+                        Erzabt von <rs type="place" subtype="place" ref="#place_60fad583fdba7cff3143633335dc08ae">Martinsberg</rs>, der einen Gerichtssprengel
                         von 20.000 Seelen hat, besitzt vermöge seiner Exemptionen das uralte Recht,
                         daß von seinem geistlichem Stuhle die Appellation nach Rom gerichtet wird.
                         Beisitzer bei allen diesen Consistorien sind die würdigsten Männer der
@@ -402,7 +401,7 @@
                         der Matrimonii et professionis religiosae Defensor im Sinne der Constitution
                         Benedicti XIV. L.L. , der Fiscus Consistorii und Advocatus pauperum und der
                         protocollführende Notär. Die geistlichen Gerichte in
-                            <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> weichen von der im Concilio Tridentino
+                            <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> weichen von der im Concilio Tridentino
                         vorgeschriebenen Norm in dem ab, daß die Richter vom Bischofe ernannt und
                         zahlreicher sind; das Tridentinum aber vom Bischofe oder dessen
                         Stellvertreter als Präsidenten und vier Beisitzern spricht, deren zwei
@@ -413,19 +412,19 @@
                         fällende Endurtheil im Lande selbst gesprochen werden müsse, haben schon die
                         Gesetze 1471:19, 1492:45, 1498:63 sub poena [?] sententia
                         vorgesorgt.<lb/>Den Verkehr der geistlichen Orden mit ihren Generalen haben
-                        dieselben allerhöchsten Verordnungen in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country>
+                        dieselben allerhöchsten Verordnungen in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>
                         eingestellt, die in den übrigen Provinzen der Monarchie geltend werden.
                         Intim. dto. 2. April 1781 Nr. 2010, 24. Juli 1790 Nr. 19549, 5. August 1791
                         Nr. 14533, 31. May 1782 Nr. 3710. Folglich findet sich durchaus kein
                         besonderer Umstand vor, der der gleichmäßigen Anwendung der vorliegenden
-                        ministeriellen Verordnung in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> entgegenstünde.</p>
+                        ministeriellen Verordnung in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> entgegenstünde.</p>
                     <p>Wien, den 19. Februar 1850</p>
                     <p>Korizmich</p>
                 </div>
                 <div xml:id="D90_3" type="encloser">
                     <p>
                         <hi rend="italic">Referat des Ministers für Cultus und Unterricht über
-                            einige die Konkordatsverhandlungen betreffende Andeutungen des <persName key="rauscher-joseph">Fürsterzbischofs von Wien</persName>.</hi>
+                            einige die Konkordatsverhandlungen betreffende Andeutungen des <rs type="person" ref="rauscher-joseph" key="rauscher-joseph">Fürsterzbischofs von Wien</rs>.</hi>
                     </p>
                     <p>&lt;1. Verleihung der Domprobsteien<lb/>Es wird darauf bestanden, daß im
                         Konkordate die Bestimmung erscheine: Die Domprobsteien an allen
@@ -434,47 +433,47 @@
                         verpflichten, welchen Seine Majestät anempfehlen werde.<lb/>
                         <hi rend="ul">Sachverhalt</hi>:&gt;<lb/>
                         <hi rend="ul">Dompropsteien</hi> (in
-                            <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country>, <region ref="#place_ee09f953e2cce4a1e7a2f5b288fee2f4">Kroatien</region>, <region ref="#place_98a2e3310e4a486fea87a6ed52bebee7">Temescher
-                            Banat</region>, <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</region> – <hi rend="ul">Großpropsteien</hi>) bestehen als erste Dignitäten mit
+                            <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, <rs type="place" subtype="region" ref="#place_ee09f953e2cce4a1e7a2f5b288fee2f4">Kroatien</rs>, <rs type="place" subtype="region" ref="#place_98a2e3310e4a486fea87a6ed52bebee7">Temescher
+                            Banat</rs>, <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> – <hi rend="ul">Großpropsteien</hi>) bestehen als erste Dignitäten mit
                         nachstehenden <hi rend="ul">Ausnahmen</hi> an allen Metropolitan- und
-                        Kathedralkirchen des <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">österreichischen
-                            Kaiserstaates</country> und werden in der Regel von dem allerhöchsten
+                        Kathedralkirchen des <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">österreichischen
+                            Kaiserstaates</rs> und werden in der Regel von dem allerhöchsten
                         Landesfürsten über die Vorschläge der Bischöfe verliehen.<lb/>
                         <hi rend="ul">Ausnahmen</hi>:<lb/>1. in Bezug auf den Bestand,<lb/>2. in Bezug auf
-                        die Verleihung.<lb/>Ad 1. in Bezug auf den Bestand:<lb/>a. In <placeName key="bruenn" ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünn</placeName>, <placeName ref="#place_a909ae39141fb3cc1161d2103a55ed1b">Leitmeritz</placeName>,
-                            <placeName key="koeniggraetz" ref="#place_b19bff5a3b79c0971a99eefa36cc1670">Königgrätz</placeName> und
-                            <placeName ref="#place_fafa41f7e32d84b3a419ca848a2b0880">Krakau</placeName> bestehen keine <hi rend="ul">Dompropsteien</hi>, sondern als erste Dignitäten die Domdechanteien
+                        die Verleihung.<lb/>Ad 1. in Bezug auf den Bestand:<lb/>a. In <rs type="place" subtype="place" key="bruenn" ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünn</rs>, <rs type="place" subtype="place" ref="#place_a909ae39141fb3cc1161d2103a55ed1b">Leitmeritz</rs>,
+                            <rs type="place" subtype="place" key="koeniggraetz" ref="#place_b19bff5a3b79c0971a99eefa36cc1670">Königgrätz</rs> und
+                            <rs type="place" subtype="place" ref="#place_fafa41f7e32d84b3a419ca848a2b0880">Krakau</rs> bestehen keine <hi rend="ul">Dompropsteien</hi>, sondern als erste Dignitäten die Domdechanteien
                         und<lb/>b. bestehen <hi rend="ul">Prepositure</hi> als erste Dignitäten im
-                            <country key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venezianischen
-                            Königreiche</country> nur in <placeName ref="#place_180ab0761158b959facf0feae6115c4e">Pavia</placeName> und
-                            <placeName ref="#place_eb87d3206befc77a1c742bcbae44ef0a">Udine</placeName>, an allen übrigen dortigen Metropolitan-
+                            <rs type="place" subtype="country" key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venezianischen
+                            Königreiche</rs> nur in <rs type="place" subtype="place" ref="#place_180ab0761158b959facf0feae6115c4e">Pavia</rs> und
+                            <rs type="place" subtype="place" ref="#place_eb87d3206befc77a1c742bcbae44ef0a">Udine</rs>, an allen übrigen dortigen Metropolitan-
                         und Kathedralkirchen bestehen als erste Dignitäten theils Arcipreti, theils
                         Arcidiaconi, theils Decani und zwar <hi rend="ul">Arcipreti</hi> in
-                            <placeName ref="#place_ab21db0a2aa2e84be73932be6063b033">Mailand</placeName>, <placeName ref="#place_3a8f916e8f8560773ac9b8eb6349b1c4">Bergamo</placeName>,
-                            <placeName ref="#place_0c3c889cb60322b10d890d76a05f816e">Brescia</placeName>, <placeName ref="#place_b2114cc02aeee3cd3f80a773ca6597de">Como</placeName>,
-                            <placeName ref="#place_a68f28642d7df7ac14a487ed8df5e2d5">Crema</placeName>, <placeName ref="#place_9a677a8fef077d847cc1d6d558b8630f">Cremona</placeName>,
-                            <placeName ref="#place_47329edbd3ec4019aa3974397d4623ba">Lodi</placeName>, <placeName ref="#place_986f51a7ad3bed298456ad48d484ebc2">Mantua</placeName>,
-                            <placeName ref="#place_31e5a2e32d10e4eac2d3fc982307f223">Adria</placeName>, <placeName ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</placeName>.<lb/>
-                        <hi rend="ul">Arcidiaconi</hi> in <placeName ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</placeName>,
-                            <placeName ref="#place_924572bc74bfd711250eeb770f85091b">Ceneda</placeName>, <placeName ref="#place_4b2c7a5609677d91853c5aea95266f42">Chioggia</placeName>,
-                            <placeName ref="#place_dac186e2dba9b984d81d8a5748d29288">Vicenza</placeName>
+                            <rs type="place" subtype="place" ref="#place_ab21db0a2aa2e84be73932be6063b033">Mailand</rs>, <rs type="place" subtype="place" ref="#place_3a8f916e8f8560773ac9b8eb6349b1c4">Bergamo</rs>,
+                            <rs type="place" subtype="place" ref="#place_0c3c889cb60322b10d890d76a05f816e">Brescia</rs>, <rs type="place" subtype="place" ref="#place_b2114cc02aeee3cd3f80a773ca6597de">Como</rs>,
+                            <rs type="place" subtype="place" ref="#place_a68f28642d7df7ac14a487ed8df5e2d5">Crema</rs>, <rs type="place" subtype="place" ref="#place_9a677a8fef077d847cc1d6d558b8630f">Cremona</rs>,
+                            <rs type="place" subtype="place" ref="#place_47329edbd3ec4019aa3974397d4623ba">Lodi</rs>, <rs type="place" subtype="place" ref="#place_986f51a7ad3bed298456ad48d484ebc2">Mantua</rs>,
+                            <rs type="place" subtype="place" ref="#place_31e5a2e32d10e4eac2d3fc982307f223">Adria</rs>, <rs type="place" subtype="place" ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</rs>.<lb/>
+                        <hi rend="ul">Arcidiaconi</hi> in <rs type="place" subtype="place" ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</rs>,
+                            <rs type="place" subtype="place" ref="#place_924572bc74bfd711250eeb770f85091b">Ceneda</rs>, <rs type="place" subtype="place" ref="#place_4b2c7a5609677d91853c5aea95266f42">Chioggia</rs>,
+                            <rs type="place" subtype="place" ref="#place_dac186e2dba9b984d81d8a5748d29288">Vicenza</rs>
                         <lb/>
                         <hi rend="ul">Decani</hi> in
-                            <placeName ref="#place_0d358dde73109d9ac1393f0c5ebce864">Belluno</placeName>, <placeName ref="#place_9263526b6b07a4e038fef1dd4b691224">Feltre</placeName>,
-                            <placeName ref="#place_9353a118c201098ac3cc6d58ccb38f02">Concordia</placeName>, <placeName ref="#place_9fa41ec12d99720833b10d3a9ab6a5cb">Treviso</placeName>.<lb/>Ad
-                        2. in Bezug auf die Verleihung:<lb/>In <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> und
-                            <placeName key="olmuetz" ref="#place_c0ce3216e3cb050a80363757086a42f0">Olmütz</placeName> wählen die
+                            <rs type="place" subtype="place" ref="#place_0d358dde73109d9ac1393f0c5ebce864">Belluno</rs>, <rs type="place" subtype="place" ref="#place_9263526b6b07a4e038fef1dd4b691224">Feltre</rs>,
+                            <rs type="place" subtype="place" ref="#place_9353a118c201098ac3cc6d58ccb38f02">Concordia</rs>, <rs type="place" subtype="place" ref="#place_9fa41ec12d99720833b10d3a9ab6a5cb">Treviso</rs>.<lb/>Ad
+                        2. in Bezug auf die Verleihung:<lb/>In <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> und
+                            <rs type="place" subtype="place" key="olmuetz" ref="#place_c0ce3216e3cb050a80363757086a42f0">Olmütz</rs> wählen die
                         Metropolitankapitel den Dompropst und zeigen die vollzogene Wahl zur
-                        allerhöchsten Bestätigung an.<lb/>In <placeName key="goerz" ref="#place_4de166ce82fade94306232184d2c4387">Görz</placeName>
+                        allerhöchsten Bestätigung an.<lb/>In <rs type="place" subtype="place" key="goerz" ref="#place_4de166ce82fade94306232184d2c4387">Görz</rs>
                         steht das Verleihungsrecht stiftungsmäßig der Freiherr Codellischen Familie
                             zu.<lb/>
-                        <hi rend="italic">(In <region key="bayern" ref="#place_5afc76bc69955ce317651a3dc1dbb0d6">Baiern</region>
+                        <hi rend="italic">(In <rs type="place" subtype="region" key="bayern" ref="#place_5afc76bc69955ce317651a3dc1dbb0d6">Baiern</rs>
                             bestehen nach dem Concordate vom 5. Juni 1817 an allen Metropolitan- und
                             Kathedralkapiteln zwei <hi rend="ul">Dignitäten</hi>, nämlich die
                             Propstei und das Decanat. Die ersteren werden von dem Papste verliehen,
-                            zu den letztern ernennt der König.<lb/>Auch in <country key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</country> sollen nach dem Concordate vom 16. Juli 1821 an
+                            zu den letztern ernennt der König.<lb/>Auch in <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> sollen nach dem Concordate vom 16. Juli 1821 an
                             allen Metropolitan- und Kathedralkirchen zwei <hi rend="ul">Dignitäten</hi> bestehen, die Propstei und die Dechantei. In <hi rend="ul">
-                                <region ref="#place_a1380ca1677d061c5cc685bfef2a98b4">Gnesen</region>
+                                <rs type="place" subtype="region" ref="#place_a1380ca1677d061c5cc685bfef2a98b4">Gnesen</rs>
                             </hi> besteht vertragsmäßig nur die
                             Propstei, die Propsteien werden von dem Papste, die Dechanten von dem
                             bestreffenden Bischof verliehen.)</hi>
@@ -484,13 +483,13 @@
                         sie nicht besteht, erst in Folge des Concordates errichtet werden. &lt;Zu
                         einer solchen neuen Regulirung dürfte aber kein dringender Grund vorhanden
                         sein.<lb/>Hingegen dürfte es keinem Anstande unterliegen, daß dem Wunsche
-                        des päpstlichen Stuhles in der von dem <persName key="rauscher-joseph">Fürsterzbischofe</persName> vorgeschlagenen Weise in Beziehung auf die
+                        des päpstlichen Stuhles in der von dem <rs type="person" ref="rauscher-joseph" key="rauscher-joseph">Fürsterzbischofe</rs> vorgeschlagenen Weise in Beziehung auf die
                         bestehenden Domprobsteien, welche bisher vom Landesfürsten verliehen wurden,
                         statt gegeben werde und daß die päpstliche Verleihung auch in Beziehung auf
-                        die Domkapitel in <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, <placeName key="olmuetz" ref="#place_c0ce3216e3cb050a80363757086a42f0">Olmütz</placeName> und <placeName key="goerz" ref="#place_4de166ce82fade94306232184d2c4387">Görz</placeName> unter
+                        die Domkapitel in <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <rs type="place" subtype="place" key="olmuetz" ref="#place_c0ce3216e3cb050a80363757086a42f0">Olmütz</rs> und <rs type="place" subtype="place" key="goerz" ref="#place_4de166ce82fade94306232184d2c4387">Görz</rs> unter
                         der Bedingung Platz greife, daß die Würde dem hierzu ordnungsmäßig
-                        Gewählten, nachdem konstatirt wurde, daß <persName key="franz-joseph">Seine
-                            Majestät</persName> gegen seine Person nichts einzuwenden habe,
+                        Gewählten, nachdem konstatirt wurde, daß <rs type="person" ref="franz-joseph" key="franz-joseph">Seine
+                            Majestät</rs> gegen seine Person nichts einzuwenden habe,
                         verliehen werde.&gt;<note xml:id="note_7">Streichung Thun: Insofern aber die
                             Regulierung der Metropolitan- und Kathedralkapitel nicht beabsichtigt
                             sein sollte, so dürfte das päpstliche Reservat an den dermahligen Stand
@@ -507,7 +506,7 @@
                         daß die wissenschaftliche Forschung und der Unterricht als unabhängig von
                         der Kontrolle der ewigen Wahrheit, wie sie die christliche Offenbarung
                         lehrt, betrachtet wird. Ein bestimmter gesetzlicher Ausspruch, daß solches
-                        in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> nicht werde geduldet
+                        in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> nicht werde geduldet
                         werden, ist meines Erachtens auch aus Gründen des Staatswohles
                         wünschenswerth. Die nothwendige Folge davon wäre die Anerkennung, daß es der
                         Kirche als der von Gott eingesetzten Wächterin der christlichen Offenbarung
@@ -526,7 +525,7 @@
                         hinsichtlich der Beurtheilung, ob der konstatierte Inhalt seiner Lehre der
                         Wahrheit widerstrebe, kann sie die Autorität der Kirche beziehungsweise des
                         Bischofes anerkennen.<lb/>Meines Erachtens wäre demnach zu erklären: die
-                        Regierung <persName key="franz-joseph">Seiner Majestät</persName> werde
+                        Regierung <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät</rs> werde
                         nicht dulden, daß an einer Anstalt, an welcher Katholiken unterrichtet
                         werden sollen, etwas gelehrt werde, was der christlichen Wahrheit
                         widerstrebe; sie erkenne an, daß der Kirche beziehungsweise ihren Bischöfen
@@ -537,13 +536,13 @@
                     <p>&lt;3. Der päpstliche Stuhl würde großen Werth darauf legen, wenn die
                         Bischöfe als Kanzler oder Erzkanzler an der Spitze der Universitäten
                             stünden.<lb/>
-                        <hi rend="ul">Sachverhalt</hi>:<lb/>Der <placeName key="prag" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prager</placeName> Fürsterzbischof ist nach der bestehenden
+                        <hi rend="ul">Sachverhalt</hi>:<lb/>Der <rs type="place" subtype="place" key="prag" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prager</rs> Fürsterzbischof ist nach der bestehenden
                         Verfassung der <orgName key="universitaet-prag">Prager Universität</orgName>
                         deren Kanzler.<lb/>An der <orgName key="universitaet-wien">Wiener
                             Universität</orgName> ist es der jeweilige Domprobst von St.
                         Stephan.<lb/>Die <orgName key="universitaet-pest">Pesther
                             Universität</orgName> ist zum Theile aus Stiftungen des Erzbischofes von
-                            <placeName ref="#place_f07d757cdeb5acd661d89d1d54ed7e3c">Gran</placeName> hervorgegangen; später aber durch
+                            <rs type="place" subtype="place" ref="#place_f07d757cdeb5acd661d89d1d54ed7e3c">Gran</rs> hervorgegangen; später aber durch
                             kaiserliche<note xml:id="note_8">In der Abschrift wurde "kaiserlich" zu
                             "königlich" korrigiert.</note> Verfügungen geregelt und mit
                         Kirchengütern dotirt worden. Ihr katholischer Charakter ist unbestreitbar,
@@ -570,54 +569,54 @@
                         sein können.<lb/>In <orgName key="universitaet-lemberg">Lemberg</orgName>
                         würde die Frage ein neuer Zankapfel zwischen den Angehörigen rit. lat. und
                         rit. graeci werden.<lb/>Endlich ist zu bedenken, daß früher oder später die
-                        Errichtung einer Universität in <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</region> unvermeidlich werden dürfte und daß die Stellung
+                        Errichtung einer Universität in <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> unvermeidlich werden dürfte und daß die Stellung
                         derselben in konfessioneller Beziehung eigenthümliche Schwierigkeiten haben
                         wird, deren Erwägung es nicht rathsam sein dürfte, jetzt durch allgemeine
                         Verpflichtungen dem päpstlichen Stuhle gegenüber vorzugreifen.<lb/>Meines
-                        Erachtens wäre demnach dem päpstlichen Stuhle nur zu bedeuten, daß <persName key="franz-joseph">Seine Majestät</persName> bereitwillig sei auf die
+                        Erachtens wäre demnach dem päpstlichen Stuhle nur zu bedeuten, daß <rs type="person" ref="franz-joseph" key="franz-joseph">Seine Majestät</rs> bereitwillig sei auf die
                         Erfüllung dieses Wunsches bei der fortschreitenden Regelung der
                         Angelegenheiten der österreichischen Universitäten bedacht zu sein.&gt;</p>
-                    <p>&lt;4. Es wird sehr darauf gedrungen, daß künftig auch im <country key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venezianischen Königreiche</country>
+                    <p>&lt;4. Es wird sehr darauf gedrungen, daß künftig auch im <rs type="place" subtype="country" key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venezianischen Königreiche</rs>
                         die Volksschulen unter einem geistlichen Schulenoberaufseher stehen, welcher
-                        von <persName key="franz-joseph">Seiner Majestät</persName> auf den
+                        von <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät</rs> auf den
                         Vorschlag des Bischofes ernannt werde.<lb/>Daß diese Einrichtung
                         beziehungsweise überhaupt diejenige Ordnung des Volksschulwesens, die in den
                         deutsch-slavischen Kronländern besteht, auch in den übrigen Theilen des
-                        Reiches – nämlich in den <country key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ländern der ungarischen
-                            Krone</country> und im <country key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venezianischen Königreiche</country> – einzuführen und daß
+                        Reiches – nämlich in den <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ländern der ungarischen
+                            Krone</rs> und im <rs type="place" subtype="country" key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venezianischen Königreiche</rs> – einzuführen und daß
                         solches die unvermeidliche Bedingung sei, um in dem Konkordate durch
                         Bestätigung dieser Einrichtung, welche in zweckmäßiger Weise die Beziehungen
                         des Staates wie der Kirche zum Unterrichte ordnet, auch für die Zukunft zu
                         sichern, ist meines Erinnerns schon bei einer früheren Besprechung allgemein
                         anerkannt worden und es dürfte demnach gar keinem Anstande unterliegen, daß
-                        der <persName key="rauscher-joseph">Fürsterzbischof</persName> ermächtiget
+                        der <rs type="person" ref="rauscher-joseph" key="rauscher-joseph">Fürsterzbischof</rs> ermächtiget
                         werde, demgemäß vorzugehen.&gt;<note xml:id="note_9">Anmerkung Thuns am Ende:
                             Diese fünf ist nicht was ich brauche; das kann schon abgeschrieben
                             werden. Ich brauche das Konzept – ich glaube ad 6 über die Einführung
-                            der Congrua im <country key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venezianischen Königreiche</country>, wo ich am Ende
+                            der Congrua im <rs type="place" subtype="country" key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venezianischen Königreiche</rs>, wo ich am Ende
                             mit Bleistift beigesetzt habe: Fortsetzung folgt.<lb/>Thun
                         7.3.</note>
                     </p>
                     <p>&lt;5. Es wird darauf gedrungen, daß der Religionsfond durch eine gemischte
-                        Commission verwaltet werde.<lb/>Der <persName key="rauscher-joseph">Fürsterzbischof</persName> hat erklärt, <persName key="franz-joseph">Seine Majestät</persName> dürfte nicht abgeneigt sein, den Bischöfen in
+                        Commission verwaltet werde.<lb/>Der <rs type="person" ref="rauscher-joseph" key="rauscher-joseph">Fürsterzbischof</rs> hat erklärt, <rs type="person" ref="franz-joseph" key="franz-joseph">Seine Majestät</rs> dürfte nicht abgeneigt sein, den Bischöfen in
                         Formen, über welche man sich zu verständigen haben würde, eine Mitwirkung
                         bei der Verwaltung des Religionsfondes zu gestatten und derselbe trägt
-                        darauf an, <persName key="franz-joseph">Seine Majestät</persName> möge in
-                            <country ref="#place_389962c9dec540ab28d04517e82c3996">Italien</country> – wenn darauf bestanden werde – die Einkünfte
+                        darauf an, <rs type="person" ref="franz-joseph" key="franz-joseph">Seine Majestät</rs> möge in
+                            <rs type="place" subtype="country" ref="#place_389962c9dec540ab28d04517e82c3996">Italien</rs> – wenn darauf bestanden werde – die Einkünfte
                         erledigter Benefizien von gemischten Kommissionen nach Weise derer, die das
-                        Konkordat von <region ref="#place_1c30578fa88fd8ea9a9d07c5e0379fc2">Toscana</region> aufgestellt hat, verwalten
+                        Konkordat von <rs type="place" subtype="region" ref="#place_1c30578fa88fd8ea9a9d07c5e0379fc2">Toscana</rs> aufgestellt hat, verwalten
                             lassen.&gt;<note xml:id="note_10"> Streichung Thun: Verwaltung des
-                            Religionsfondes und der Interkalarien im <country key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venezianischen
-                                Königreiche</country>
+                            Religionsfondes und der Interkalarien im <rs type="place" subtype="country" key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venezianischen
+                                Königreiche</rs>
                         </note>
                         <lb/>Die Verwaltung des Religionsfondes
                         ist sowohl bei der Versammlung der Bischöfe in <hi rend="ul">
-                            <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>
+                            <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>
                         </hi> als in <hi rend="ul">
-                            <placeName ref="#place_f07d757cdeb5acd661d89d1d54ed7e3c">Gran</placeName>
+                            <rs type="place" subtype="place" ref="#place_f07d757cdeb5acd661d89d1d54ed7e3c">Gran</rs>
                         </hi> zur Sprache gekommen.<lb/>Die in
-                            <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> &lt;versammelten Bischöfe&gt; <note xml:id="note_11">Korrektur Thuns aus: Die Bischöfe in
-                                <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>
+                            <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> &lt;versammelten Bischöfe&gt; <note xml:id="note_11">Korrektur Thuns aus: Die Bischöfe in
+                                <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>
                         </note> sahen die fernere Verwaltung des
                         Religionsfondsvermögens durch den Staat und die fernere Unterstützung des
                         Religionsfondes aus Staatsmitteln in der bisherigen und wohl auch in
@@ -634,17 +633,17 @@
                         Rechnungsabschluß des Religionsfondes zu gleichem Behufe mitgetheilt
                         werde,<lb/>3. daß wenn unvorgesehene im Voranschlage nicht besprochene
                         Auslagen zur Sprache kommen, vorläufig mit dem betreffenden Ordinariate
-                        Rücksprache zu pflegen werde.<lb/>Die in <placeName ref="#place_f07d757cdeb5acd661d89d1d54ed7e3c">Gran</placeName>
+                        Rücksprache zu pflegen werde.<lb/>Die in <rs type="place" subtype="place" ref="#place_f07d757cdeb5acd661d89d1d54ed7e3c">Gran</rs>
                         versammelt gewesenen Bischöfe sprachen sich einstimmig in ihrer am 28.
                         August 1850 abgehaltenen Sitzung insbesonders für die Theilnahme an der
                         Verwaltung des Religionsfondsentitäten und Kapitalien aus.<lb/>Diesen
-                        Wünschen sowohl der in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> als in
-                            <placeName ref="#place_f07d757cdeb5acd661d89d1d54ed7e3c">Gran</placeName> versammelt gewesenen Bischöfe wurde von
+                        Wünschen sowohl der in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> als in
+                            <rs type="place" subtype="place" ref="#place_f07d757cdeb5acd661d89d1d54ed7e3c">Gran</rs> versammelt gewesenen Bischöfe wurde von
                         Seite der Staatsverwaltung &lt;bisher&gt; insoweit<note xml:id="note_13">Korrektur Thuns aus: in der Art</note> entsprochen, daß der Voranschlag
                         des Religionsfondes samt dem Rechnungsabschlusse den Bischöfen zur Einsicht
                         und zu allfälligen Bemerkungen mitgetheilt und im Falle unvorgesehener im
                         Voranschlage nicht besprochener Auslagen sich mit demselben benommen wurde.
-                        Eine Theilnahme an der Verwaltung fand bisher nicht statt.<note xml:id="note_14">Streichung Thun: sie wurde auch nur von der <placeName key="esztergom" ref="#place_cde856980f41b5362c96273d9c84431d">Graner</placeName> bischöflichen Versammlung in
+                        Eine Theilnahme an der Verwaltung fand bisher nicht statt.<note xml:id="note_14">Streichung Thun: sie wurde auch nur von der <rs type="place" subtype="place" key="esztergom" ref="#place_cde856980f41b5362c96273d9c84431d">Graner</rs> bischöflichen Versammlung in
                             Anspruch genommen.</note>
                         <lb/>&lt;<hi rend="ul">Meinung</hi>:&gt;<lb/>
                         Objecte &lt;einer gemeinsam zu besorgenden&gt; Verwaltung &lt;könnten sein:&gt;
@@ -653,7 +652,7 @@
                         von Religionsfondsrealitäten&gt;; Verpachtung der Religionsfondsgüter und
                         Vermiethung der Religionsfondsgebäude; Vertretung des
                         Religionsfondes.<lb/>Die Religionsfonde sind <hi rend="ul">passiv</hi>.<lb/>Wenn<note xml:id="note_15">Korrektur Thuns aus:
-                            Insofern auch</note> in <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName> darauf bestanden
+                            Insofern auch</note> in <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs> darauf bestanden
                         wird, daß der Religionsfond durch eine <hi rend="ul">gemischte
                             Commission</hi> verwaltet werde, so dürfte kein Anstand obwalten den
                         Bischöfen in Formen, über welche man sich zu verständigen hätte, eine
@@ -665,8 +664,8 @@
                             vielleicht nach Metropolien die Verwaltungsmodalitäten</note>
                             festzustellen.<hi rend="ul">
                             <lb/>Verwaltung der Interkalarien im
-                                <country key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venezianischen
-                                Königreiche</country>
+                                <rs type="place" subtype="country" key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venezianischen
+                                Königreiche</rs>
                         </hi>
                         <lb/>Die Verwaltung der erledigten
                         Beneficien wurde mit dem französischen Decrete vom 23. September 1802 der
@@ -682,24 +681,24 @@
                         diese Verwaltungsmethode der <hi rend="ul">Interkalarien</hi> oder der
                         erledigten Beneficien beibehalten. Der &lt;von den Regierungsbehörden
                         aufgestellte&gt; Subeconomo ist ein Geistlicher und bezieht für seine Bemühung
-                        ein Honorar von 8 %. &lt;Der <persName key="rauscher-joseph">Fürsterzbischof</persName> schlägt&gt;<note xml:id="note_18">Korrektur
-                            Thuns aus: <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName> wünscht</note> eine gemischte
-                        Verwaltung vor, wie sie in <region ref="#place_1c30578fa88fd8ea9a9d07c5e0379fc2">Toscana</region> besteht. In
-                            <region ref="#place_1c30578fa88fd8ea9a9d07c5e0379fc2">Toscana</region> geht im Falle einer Vacatur nach Artikel 14 des
+                        ein Honorar von 8 %. &lt;Der <rs type="person" ref="rauscher-joseph" key="rauscher-joseph">Fürsterzbischof</rs> schlägt&gt;<note xml:id="note_18">Korrektur
+                            Thuns aus: <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs> wünscht</note> eine gemischte
+                        Verwaltung vor, wie sie in <rs type="place" subtype="region" ref="#place_1c30578fa88fd8ea9a9d07c5e0379fc2">Toscana</rs> besteht. In
+                            <rs type="place" subtype="region" ref="#place_1c30578fa88fd8ea9a9d07c5e0379fc2">Toscana</rs> geht im Falle einer Vacatur nach Artikel 14 des
                         Concordates vom 25. April 1851 die Adminstration des Vermögens unter Schutz
                         und Beihilfe der Regierung an eine aus <hi rend="ul">Laien</hi> und <hi rend="ul">Geistlichen</hi> gemischte Commission unter dem Vorsitze des
-                        Bischofes über. Da im <country key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venezianischen Königreiche</country> die Interkalarien dem
+                        Bischofes über. Da im <rs type="place" subtype="country" key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venezianischen Königreiche</rs> die Interkalarien dem
                         Beneficium resp. dem Beneficiaten zukommen, so dürfte gegen &lt;eine solche&gt;
                         Verwaltungsform mit <hi rend="ul">verstärkter</hi> Controlle &lt;im
                         Grundsatze wohl&gt; nichts einzuwenden sein, &lt;doch scheint es nicht rathsam,
                         in dieser Beziehung bindende Zusagen zu machen, ehe über die praktische
                         Zweckmäßigkeit der zu treffenden Einleitungen eine Berathung mit den
-                        Bischöfen des <country key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venezianischen
-                            Königreiches</country> gepflogen worden ist.&gt;</p>
-                    <p>&lt;6. Der <persName key="rauscher-joseph">Fürsterzbischof</persName>
-                        bemerkt, <persName key="franz-joseph">Seine Majestät</persName> habe bereits
+                        Bischöfen des <rs type="place" subtype="country" key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venezianischen
+                            Königreiches</rs> gepflogen worden ist.&gt;</p>
+                    <p>&lt;6. Der <rs type="person" ref="rauscher-joseph" key="rauscher-joseph">Fürsterzbischof</rs>
+                        bemerkt, <rs type="person" ref="franz-joseph" key="franz-joseph">Seine Majestät</rs> habe bereits
                         mündlich die allerhöchste Geneigtheit angedeutet, die Congrua der
-                        Pfarrgeistlichkeit im <country key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venezianischen Königreiche</country> so zu erhöhen, daß sie
+                        Pfarrgeistlichkeit im <rs type="place" subtype="country" key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venezianischen Königreiche</rs> so zu erhöhen, daß sie
                         der für die deutschen Länder festgesetzten gleichkommt. Die wichtigsten
                         politischen Gründe scheinen dafür zu sprechen; ich habe deshalb keine
                         bestimmte Zusage gemacht, wohl aber dazu Hoffnung gegeben.<lb/>
@@ -711,11 +710,11 @@
                         300 fl gesunken sein sollte.<lb/> Hinsichtlich der neuen, d. i. durch jene
                         Regulierung oder seitdem entstandenen Seelsorger Stationen ist die Congrua
                         bemessen:<lb/>für die Pfarrer mit 400 fl<lb/> für die Lokalkapläne mit 300
-                        fl<lb/> für die Kooperatoren mit 200 fl&gt;<lb/>&lt;Im <country key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venezianischen Königreiche</country>
+                        fl<lb/> für die Kooperatoren mit 200 fl&gt;<lb/>&lt;Im <rs type="place" subtype="country" key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venezianischen Königreiche</rs>
                         wurde eine Pfarrregulierung im Jahre 1787 vorgenommen, wobei viele Pfarren
                         dotiert und mit Coadjutoren versehen wurden.&gt;<note xml:id="note_19">Korrektur Thuns aus: Bei der Pfarrregulirung weiland Seiner Majestät
-                            Kaiser <persName key="joseph-II">Joseph II.</persName> im Jahre 1787
-                            sind in der <region key="lombardei" ref="#place_5bde0d174594bcea5b83287afba0850a">Lombardie</region> viele Pfarren
+                            Kaiser <rs type="person" ref="joseph-II" key="joseph-II">Joseph II.</rs> im Jahre 1787
+                            sind in der <rs type="place" subtype="region" key="lombardei" ref="#place_5bde0d174594bcea5b83287afba0850a">Lombardie</rs> viele Pfarren
                             dotirt und mit Coadjutoren versehen worden.</note>
                         <lb/>Die Dotation der
                         Pfarrer war mit 1.200 Mail. Lire oder 354 fl 11 kr; die der Cooperatoren mit
@@ -727,9 +726,9 @@
                             Zustandes der</note> etwas für die Geistlichkeit gethan werden.
                         &lt;Vielmehr brachten der Verkauf der Kirchengüter nebst andern
                         revolutionären Maßregeln diese Angelegenheit in immer größere Verwirrung.&gt;
-                        Erst im Jahre 1807 hat <persName key="napoleon-bonaparte">Napoleon</persName>, um durch die Gunst der Geistlichkeit die Stimmung
+                        Erst im Jahre 1807 hat <rs type="person" ref="napoleon-bonaparte" key="napoleon-bonaparte">Napoleon</rs>, um durch die Gunst der Geistlichkeit die Stimmung
                         des Volkes für sich zu gewinnen, die Dotation &lt;der Pfarren&gt; im
-                        Königreiche <country ref="#place_389962c9dec540ab28d04517e82c3996">Italien</country> mit Decrete vom 21. December dieses
+                        Königreiche <rs type="place" subtype="country" ref="#place_389962c9dec540ab28d04517e82c3996">Italien</rs> mit Decrete vom 21. December dieses
                         Jahres auf jährliche 500 Lire ital. festgesetzt, aber &lt;diese Bestimmung
                         wurde&gt; nicht ausgeführt, weil der zu dieser Regulirung bestimmte Fond nicht
                         realisirt werden konnte.<lb/>Um einen Fond zu gewinnen, sah er sich
@@ -741,16 +740,16 @@
                         Amortisationskasse des Monte nicht in den Stand gesetzt wurde, die in dem
                         Decrete vom 21. December 1807 festgesetzte Summe für Congruen zu bezahlen,
                         so hat die österreichische Regierung seit der Reoccupation die Ergänzung der
-                        Congrua im <country key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venezianischen
-                            Königreiche</country> auf den Staatsschatz übernommen.<lb/>&lt;Daß die
+                        Congrua im <rs type="place" subtype="country" key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venezianischen
+                            Königreiche</rs> auf den Staatsschatz übernommen.<lb/>&lt;Daß die
                         gedrückte ökonomische Lage, in welcher sich der Clerus bei einem Congrua von
                         500 Lire ital. befindet, ihn von der wohlhabenden Classe der Bevölkerung
                         abhängig macht so wie den nachtheiligen Einluß dieses Umstandes auf die
                         Haltung der Geistlichkeit gegenüber der Regierung, ist auch von dem
-                        Generalgouverneur <persName key="radetzky-josef-wenzel">Graf
-                            Radetzky</persName> bereits hervorgehoben worden.&gt;<note xml:id="note_21">Korrektur Thuns aus: Allein die Dotation von 500 Lire ital. findet der
-                                <persName key="radetzky-josef-wenzel">Generalgouverneur des
-                                lombardisch-venezianischen Königreiches</persName> als einen
+                        Generalgouverneur <rs type="person" ref="radetzky-josef-wenzel" key="radetzky-josef-wenzel">Graf
+                            Radetzky</rs> bereits hervorgehoben worden.&gt;<note xml:id="note_21">Korrektur Thuns aus: Allein die Dotation von 500 Lire ital. findet der
+                                <rs type="person" ref="radetzky-josef-wenzel" key="radetzky-josef-wenzel">Generalgouverneur des
+                                lombardisch-venezianischen Königreiches</rs> als einen
                             Übelstand, der einen beträchtlichen Theil des dortländigen Clerus seiner
                             Berufspflicht gegenüber dem Staate vergessen macht und ihn dem Strome
                             der allgemeinen Leidenschaften folgen läßt, die gedrückte ökonomische
@@ -784,14 +783,14 @@
                             Maßregel&gt;<note xml:id="note_23">Korrektur Thuns aus: in Absicht der
                             Gleichstellung der Congrua dieser Provinzen mit jener der
                             deutsch-slavischen Kronländer neuer Stiftung (400 fl und 200
-                        fl)</note>zu berücksichtigen wären:<lb/>a. in der <region key="lombardei" ref="#place_5bde0d174594bcea5b83287afba0850a">Lombardie</region> 796 Pfarrer und 52 Cooperatoren<lb/>b. im <region key="venetien" ref="#place_618a4d3d3a7697f1c650f2eb8cc8f11a">Venezianischen</region> 611 Pfarrer und 27
+                        fl)</note>zu berücksichtigen wären:<lb/>a. in der <rs type="place" subtype="region" key="lombardei" ref="#place_5bde0d174594bcea5b83287afba0850a">Lombardie</rs> 796 Pfarrer und 52 Cooperatoren<lb/>b. im <rs type="place" subtype="region" key="venetien" ref="#place_618a4d3d3a7697f1c650f2eb8cc8f11a">Venezianischen</rs> 611 Pfarrer und 27
                         Cooperatoren.<lb/>Da die Congrua ersterer mit 574 L.A. 71 C. und der
                         letzteren mit 300–350 L.A. bisher bemessen erscheint, so würde die
                         &lt;fragliche Erhöhung der Congrua dieser Geistlichen&gt;<note xml:id="note_24">Korrektur Thuns aus: beabsichtigte Gleichstellung und
                         zwar</note>
-                        <lb/>für die <region key="lombardei" ref="#place_5bde0d174594bcea5b83287afba0850a">Lombardie</region> bei den
+                        <lb/>für die <rs type="place" subtype="region" key="lombardei" ref="#place_5bde0d174594bcea5b83287afba0850a">Lombardie</rs> bei den
                         Pfarrern 497.731 L.A.<lb/>bei den Cooperatoren 15.600 L.A.<lb/>für
-                            <placeName ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</placeName> bei den Pfarrern 382.052 L.A.<lb/>bei den
+                            <rs type="place" subtype="place" ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</rs> bei den Pfarrern 382.052 L.A.<lb/>bei den
                         Cooperatoren 8.100 L.A.<lb/>in Anspruch nehmen.<lb/>Eine genaue Revision des
                         faktischen Standes dürfte &lt;aber den Gesammtaufwand auf mindestens
                         1.000.000 L.A. steigern, da aus den näheren Erhebungen erst hervorgehen
@@ -806,7 +805,7 @@
                         empfangen müßten.<lb/>&lt;Meinung:<lb/>Die Erreichung des Zweckes, der in
                         der Seelsorge angestellten Geistlichkeit durch Erhöhung der Congrua eine von
                         bedenklichen Einflüssen minder abhängige Stellung zu sichern, erfordert, wie
-                        aus dem eben Gesagten hervorgeht, einen bedeutenden Aufwand. Der <persName key="radetzky-josef-wenzel">Generalgouverneur</persName> hat bei einem
+                        aus dem eben Gesagten hervorgeht, einen bedeutenden Aufwand. Der <rs type="person" ref="radetzky-josef-wenzel" key="radetzky-josef-wenzel">Generalgouverneur</rs> hat bei einem
                         früheren Anlaße darauf hingedeutet, dieser Aufwand könne durch einen
                         Zuschlag auf die Steuern gedeckt werden, welcher wenig empfindlich sein
                         würde, wenn dagegen die jetzt bestehenden Kontributionen für den Curatclerus
@@ -826,7 +825,7 @@
                         wohl nur unter der Bedingung eingerathen werden, daß dadurch wirklich der
                         Zweck erreicht werde, den Clerus im Allgemeinen den politischen Gefahren zu
                         entziehen, denen er jetzt häufig unterliegt. Nach der Behauptung des
-                            <persName key="radetzky-josef-wenzel">Generalgouverneurs</persName> ist
+                            <rs type="person" ref="radetzky-josef-wenzel" key="radetzky-josef-wenzel">Generalgouverneurs</rs> ist
                         aber kaum die Hälfte der Geistlichkeit in der Seelsorge angestellt. Der
                         übrige Theil bestehe aus Priestern, die sich als öffentliche oder
                         Privatlehrer, Erzieher oder Messeleser verwenden. Die Menge gestifteter
@@ -848,17 +847,17 @@
                         Erhöhung der Congrua und die Geneigtheit der Regierung auszusprechen, dazu
                         nöthigenfalls auch den Staatsschatz unter obiger Bedingung mitwirken zu
                         lassen.&gt;</p>
-                    <p>&lt;7. Der <persName key="rauscher-joseph">Fürsterzbischof</persName> bemerkt
-                        ferner, <persName key="franz-joseph">Seine Majestät</persName> dürften sich
+                    <p>&lt;7. Der <rs type="person" ref="rauscher-joseph" key="rauscher-joseph">Fürsterzbischof</rs> bemerkt
+                        ferner, <rs type="person" ref="franz-joseph" key="franz-joseph">Seine Majestät</rs> dürften sich
                         auch allergnädigst bewogen fühlen, die Congrua der griechisch-katholischen
                         Geistlichkeit der der lateinischen gleichzustellen.<lb/>Diese Bemerkung
                         dürfte sich lediglich auf die galizianische Geistlichkeit beziehen, da in
-                            <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> und <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</region> eine prinzipielle Verschiedenheit in Beziehung
+                            <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> und <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> eine prinzipielle Verschiedenheit in Beziehung
                         auf die Behandlung der Dotation der Geistlichkeit beider Ritus nicht
                         besteht, wohl aber hinsichtlich beider eingenthümliche Verhältnisse
                         obwalten, welche eine abgesonderte Verhandlung erheischen. Was
-                            <region ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</region> anbelangt, so ist auch von den&gt; in
-                            <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> im Jahre 1849 versammelten Bischöfe der
+                            <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs> anbelangt, so ist auch von den&gt; in
+                            <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> im Jahre 1849 versammelten Bischöfe der
                         dringende Wunsch ausgesprochen worden, daß die griechisch-katholischen
                         Seelsorger in Betreff ihrer Congrua den Seelsorgern des lateinischen Ritus
                         gleichgestellt werden.<note xml:id="note_27">Streichung Thun: Wie die
@@ -878,7 +877,7 @@
                             Anspruch auf eine wirkliche Leistung ist abhängig von dem Grade und der
                             der Art der Bildung, welche der Seelsorger empfangen
                         hat.</note>
-                        <lb/>&lt;Auf die Kuraten lat. rit. in <region ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</region>
+                        <lb/>&lt;Auf die Kuraten lat. rit. in <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs>
                         haben die ad 6. dargestellten Vorschriften bezüglich der Bemessung der
                         Congrua Anwendung.<lb/>Bezüglich der Geistlichkeit rit. gr. hingegen macht
                         nach den bestehenden Vorschriften der Zeitpunkt der Errichtung der Pfarre
@@ -923,7 +922,7 @@
                             dermahlen sich nur darum handelt die Maßregel auf die gesammte
                             griechisch-katholische Kuratgeistlichkeit auszudehnen.</note>
                         <lb/>Die
-                        griechisch-katholischen Bischöfe in <region ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</region> bemerken, daß
+                        griechisch-katholischen Bischöfe in <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs> bemerken, daß
                         die Erhöhung der Pfarrdotation als ein Belohnungsmittel behandelt und nur
                         denjenigen zu Theil werden solle, die ihrem Berufe allseitig entsprechen,
                         wodurch sich &lt;der Aufwand für die erste Zeit um etwas vermindern
@@ -931,12 +930,12 @@
                             die bisher bewilligten Personalzulagen auf 173.950 fl CM angesetzte
                             Mehrerfordernis noch vermindern dürfte.</note>
                     </p>
-                    <p>Congrua der griechisch-katholischen Kuratgeistlichkeit in <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</region>, <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> und
-                            <region key="kroatien" ref="#place_46ef149805b1b370596a83886b1e010e">Kroazien</region>
+                    <p>Congrua der griechisch-katholischen Kuratgeistlichkeit in <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>, <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> und
+                            <rs type="place" subtype="region" key="kroatien" ref="#place_46ef149805b1b370596a83886b1e010e">Kroazien</rs>
                         <note xml:id="note_32">Anmerkung
                             Thuns mit Bleistift: Also da besteht die Gleichstellung</note>
                         <lb/>In
-                        Bezug auf <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</region> ist im Jahre
+                        Bezug auf <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> ist im Jahre
                         1777 das Ausmaß der Congrua für die Seelsorge aller im Lande aufgenommenen
                         Religionsgenossenschaften somit auch für die unirten Griechen auf 200 fl und
                         für größere Ortschaften auf 300 fl festgesetzt und dabei angeordnet worden,
@@ -944,10 +943,10 @@
                         betreffenden Grundstücke auf dieses Ausmaß erhöhet werden sollen.<lb/>Diese
                         Anordnung gelangte jedoch nicht zum Vollzuge und es wurde deren Durchführung
                         dem Zeitpunkte der Regulirung der Pfarre vorbehalten.<lb/>Diese Regulirung
-                        wurde unter der Regierung des Kaisers <persName key="joseph-II">Joseph
-                            II.</persName> wohl begonnen, allein nicht durchgeführt. In richtiger
+                        wurde unter der Regierung des Kaisers <rs type="person" ref="joseph-II" key="joseph-II">Joseph
+                            II.</rs> wohl begonnen, allein nicht durchgeführt. In richtiger
                         Würdigung der dringenden Nothwendigkeit für die entsprechende Dotirung der
-                        griechisch-katholischen Geistlichkeit in <region key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</region> zu sorgen, ist daher unter 10. December 1854 Nr.
+                        griechisch-katholischen Geistlichkeit in <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> zu sorgen, ist daher unter 10. December 1854 Nr.
                         405 an die dortige Statthalterei der Auftrag ergangen im Einvernehmen mit
                         den Ordinariaten diesfalls anher die geeigneten Anträge zu erstatten.
                         Bezüglich des Ausmaßes aber werde an den Grundsatz festgehalten, daß
@@ -955,7 +954,7 @@
                         lateinischen unstatthaft erscheine, die Dotation werde thunlichst in
                         Liegenschaften zu bestehen und für deren Bestellung so wie überhaupt für die
                         Deckung der Dotation zunächst die Gemeinde zu sorgen haben.<lb/>Für
-                            <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> und dessen Nebenländer aber ist 1802
+                            <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> und dessen Nebenländer aber ist 1802
                         allerhöchst festgesetzt worden die Congrua der griechisch-katholischen
                         Seelsorgsgeistlichkeit mit jener der lateinischen ganz gleichzustellen. Auf
                         diesem Grundsatz ist sich bezüglich der Congrua festgehalten worden und dies

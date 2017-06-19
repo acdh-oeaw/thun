@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="kuziemski-michael" role="sender:kleriker">Michael
-                        Kuziemski</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="kuziemski-michael" key="kuziemski-michael" role="sender:kleriker">Michael
+                        Kuziemski</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</placeName>, <date when="1849-11-19">19. November
+                    <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs>, <date when="1849-11-19">19. November
                     1849</date>
                 </title>
             </titleStmt>
@@ -46,7 +45,7 @@
                 </p>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -91,7 +90,7 @@
                     Schisma andere, höhere Elemente sich dienstbar machten. Im vorigen Jahre hat man
                     öffentlich in allen Zeitschriften uns als Reaktionäre verschrieen und der
                     Hinneigung zu den Russen beschuldiget; die Folge hat gezeigt jedem, der es sehen
-                        <hi rend="underline">wollte</hi>, wer in <region ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</region> mit den
+                        <hi rend="underline">wollte</hi>, wer in <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs> mit den
                     Russen simpatesirt [sic!]. Weil es nun auf diese Weise nicht ging, und man in
                     dieser Hinsicht uns nicht beikommen konnte, fing man an, unseren Glauben in
                     Zweifel zu ziehen; – dieselbe uns feindliche Parthei, die zwar niedergestürzt,
@@ -131,7 +130,7 @@
                     bei den Ruthenen gleich im Keime zu ersticken.<lb/>Ich überlasse den
                     Hochwürdigen Herren Bischöfen sich von dem Vorwurfe des Hinneigens zum Schisma
                     zu reinigen – muß nur bemerken, daß die Ruthenen, so wie sie ihre Treue dem
-                        <persName key="franz-joseph">Monarchen</persName> rein und unbefleckt
+                        <rs type="person" ref="franz-joseph" key="franz-joseph">Monarchen</rs> rein und unbefleckt
                     erhalten haben, eben so an dem Glauben ihrer Väter, an der <hi rend="underline">katholischen Kirche</hi> mit Liebe fest und unerschütterlich hängen, und
                     jede Verdächtigung eines Abfalls von der katholischen Kirche, woher sie immer
                     kommen möge, als eine unwürdige Verläumdung entschieden zurückweisen.<lb/>Die
@@ -144,7 +143,7 @@
                     Ruthenen zu vernehmen, nicht Wunder also, daß alle Anzeigen höheren Orts nur
                     einseitig sind.<lb/>Verzeihen Euere Exzellenz, wenn ich in meinem vorliegenden
                     Schreiben vielleicht mich zu offen ausgesprochen habe; ich that es aber im
-                    Dienste meiner Nation, meines Vaterlandes und meines <persName key="franz-joseph">Monarchen</persName> – und ich that es einem Manne
+                    Dienste meiner Nation, meines Vaterlandes und meines <rs type="person" ref="franz-joseph" key="franz-joseph">Monarchen</rs> – und ich that es einem Manne
                     gegenüber, welcher die Wahrheit liebt, und als ein höchstgestellter Staatsmann
                     die Wahrheit suchen muß. Sollten aber meine Worte das Unglück haben, ungefällig
                     aufgenommen zu sein – so geruhen Euere Exzellenz mir nur die leiseste Andeutung

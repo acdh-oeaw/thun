@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="gruenwald-wendelin" role="sender:gelehrter">Wendelin
-                        Grünwald</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="gruenwald-wendelin" key="gruenwald-wendelin" role="sender:gelehrter">Wendelin
+                        Grünwald</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, <date when="1853-07-07">7. Juli 1853</date>
+                    <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1853-07-07">7. Juli 1853</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -35,7 +34,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -46,21 +45,21 @@
                     <term>Rechtswissenschaften</term>
                 </index>
                 <p>Eure Excellenz,<lb/>Erlauchter Herr Graf!</p>
-                <p>Aus der im Auftrage des Herrn <persName key="helfert-joseph-alexander">Unterstaatssekretärs</persName> an den ehrfurchtsvoll Gefertigten
+                <p>Aus der im Auftrage des Herrn <rs type="person" ref="helfert-joseph-alexander" key="helfert-joseph-alexander">Unterstaatssekretärs</rs> an den ehrfurchtsvoll Gefertigten
                     ergangenen Aufforderung, die Beilagen seines unterm 12. Oktober 1850 an das hohe
                     Justizministerium überreichten Gesuches um eine Notarsstelle in
-                        <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> abhohlen zu lassen, ersieht der ehrfurchtsvoll
+                        <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> abhohlen zu lassen, ersieht der ehrfurchtsvoll
                     Gefertigte, daß dieses Gesuch über Verordnung Eurer Excellenz liegen gelassen
                     wurde.<lb/>Dieser Thatumstand erfüllt den ehrfurchtsvoll Gefertigten mit der
-                    tiefen Besorgnis, daß sein <persName key="franz-joseph">Seiner k.k.
-                        apostolischen Majestät</persName> im Mai 1853 unterbreitetes Gesuch um
+                    tiefen Besorgnis, daß sein <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner k.k.
+                        apostolischen Majestät</rs> im Mai 1853 unterbreitetes Gesuch um
                     Signirung eines außerordentlichen Einschreitens um Verleihung einer
                     Advokatenstelle auf dem flachen Lande ein gleiches Schicksal mit dem
                     Notariatsgesuche theilen könnte.<lb/>Der ehrfurchtsvoll Gefertigte erlaubt sich
                     daher geziemendst zu bitten, Eure Excellenz geruhe dem letzt überreichten
                     Gesuche den Lauf nicht zu hemmen.<lb/>Zu der Bitte, daß Eure Excellenz durch
                     Dero hohen Einfluß dem ehrfurchtsvoll Gefertigten die erledigte Advokatenstelle
-                    zu <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> zuwenden möchten, damit ihm möglich werde, seine
+                    zu <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> zuwenden möchten, damit ihm möglich werde, seine
                     remunerirten Vorträge auf der <orgName key="universitaet-prag">Prager
                         Universität</orgName> fortzusetzen, dazu fehlt dem ehrfurchtsvoll
                     Gefertigten der erforderliche Muth.</p>

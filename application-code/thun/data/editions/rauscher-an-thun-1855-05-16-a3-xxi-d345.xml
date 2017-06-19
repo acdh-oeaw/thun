@@ -1,14 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://thun-korrespondenz.uibk.ac.at/svn/thun/thun-korrespondenz/schema/thun-schema.rnc" type="application/relax-ng-compact-syntax"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="rauscher-joseph" role="sender:kleriker">Joseph Othmar
-                        Rauscher</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="rauscher-joseph" key="rauscher-joseph" role="sender:kleriker">Joseph Othmar
+                        Rauscher</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName>, <date when="1855-05-16">16. Mai 1855</date>
+                    <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs>, <date when="1855-05-16">16. Mai 1855</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -36,7 +34,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -48,10 +46,10 @@
                 </index>
                 <p>Rom, am 16. Mai 1855</p>
                 <p>Hochgeborner Graf!</p>
-                <p>So eben erhalte ich von meinem <persName key="zenner-franz">Herrn
-                        Weihbischofe</persName> Nachricht über das Ergebnis der Wahl, welche für das
-                    zu <placeName key="linz" ref="#place_907e6aad95b11593946e28f6e29860aa">Linz</placeName> erledigte Canonicat statt hatt. Der
-                        <persName key="rudigier-franz-joseph">Bischof</persName> kömmt in um so
+                <p>So eben erhalte ich von meinem <rs type="person" ref="zenner-franz" key="zenner-franz">Herrn
+                        Weihbischofe</rs> Nachricht über das Ergebnis der Wahl, welche für das
+                    zu <rs type="place" subtype="place" key="linz" ref="#place_907e6aad95b11593946e28f6e29860aa">Linz</rs> erledigte Canonicat statt hatt. Der
+                        <rs type="person" ref="rudigier-franz-joseph" key="rudigier-franz-joseph">Bischof</rs> kömmt in um so
                     größere Verlegenheit, da der neue Domherr zugleich die Leitung des Seminariums
                     übernehmen soll: was doch gewiß ein Vertrauensamt ist. Wenn ich Etwas für ihn
                     thun kann, so halte ich mich dazu verpflichtet, aber mittelbar betrifft die
@@ -64,16 +62,16 @@
                     Auskunftsmittel gefunden werden. Seine Majestät hat Sich der Patronatsrechte
                     über diese Canonicate nicht begeben und in der Präsentationsurkunde wird der
                     Universität mit keinem Wort gedacht.<lb/>Ich habe durchaus keine Zeit auf die
-                    Sache näher einzugehen. Da ich zu <placeName key="neapel" ref="#place_2a4e63dc83d509fece21a7872f95a242">Neapel</placeName>
+                    Sache näher einzugehen. Da ich zu <rs type="place" subtype="place" key="neapel" ref="#place_2a4e63dc83d509fece21a7872f95a242">Neapel</rs>
                     kein Dampfboot zur rechten Zeit fand, entschloß ich mich zum Landwege. Zu
-                        <placeName key="rom" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</placeName>, wo ich blos die Pferde wechseln
-                    wollte, erfuhr ich, daß Seine Kaiserliche Hoheit <persName key="ferdinand-maximilian-erzherzog">Erzherzog Ferdinand</persName> hier
+                        <rs type="place" subtype="place" key="rom" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs>, wo ich blos die Pferde wechseln
+                    wollte, erfuhr ich, daß Seine Kaiserliche Hoheit <rs type="person" ref="ferdinand-maximilian-erzherzog" key="ferdinand-maximilian-erzherzog">Erzherzog Ferdinand</rs> hier
                     eintreffen werde und glaubte ihn erwarten zu sollen. Heute wird er ankommen;
                     überdieß habe ich sogleich wieder zu thun gefunden. Ich beschränke mich also nur
-                    darauf, Euer Excellenz dringend zu bitten, die Wahl des Pfarrers <persName key="fellner">Fellner</persName> Seiner Majestät nicht vorzulegen, bevor ich
+                    darauf, Euer Excellenz dringend zu bitten, die Wahl des Pfarrers <rs type="person" ref="fellner" key="fellner">Fellner</rs> Seiner Majestät nicht vorzulegen, bevor ich
                     zurückgekommen bin und mich im Zusammenhange darüber ausgesprochen habe. Auch
                     über die Ausführung der allerhöchsten Entschließung vom 10. dieses Monats,
-                    welche ich zu <placeName key="neapel" ref="#place_2a4e63dc83d509fece21a7872f95a242">Neapel</placeName> erhielt, wünsche ich
+                    welche ich zu <rs type="place" subtype="place" key="neapel" ref="#place_2a4e63dc83d509fece21a7872f95a242">Neapel</rs> erhielt, wünsche ich
                     aus sehr wichtigen Gründen mich äußern zu können.<lb/>Übrigens verharre ich mit
                     der vollkommensten Verehrung,</p>
                 <p>Euer Excellenz gehorsamster Diener<lb/>J. v. Rauscher</p>

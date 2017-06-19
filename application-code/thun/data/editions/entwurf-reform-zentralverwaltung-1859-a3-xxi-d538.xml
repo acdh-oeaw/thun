@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -39,7 +38,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -92,12 +91,12 @@
                     <hi rend="ul">III. Religionsfrage</hi>
                 </p>
                 <p>Den gesetzlich anerkannten nichtkatholischen christlichen Religionsgenossen in
-                        <country ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</country> sind Freiheit der Religionsübung und
-                    Autonomie gesichert.<lb/>Für <region ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</region>, wo besondere Verhältnisse
+                        <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs> sind Freiheit der Religionsübung und
+                    Autonomie gesichert.<lb/>Für <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs>, wo besondere Verhältnisse
                     obwalten, wird die Religionsfrage mit dem Landtage dieser Provinz ausnahmsweise
                     verhandelt. Desgleichen bleiben die Angelegenheiten dieser Glaubensgenossen im
-                        <country key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venetianischen
-                        Königreiche</country> besonderer Berathung vorbehalten.<lb/>In Betreff der
+                        <rs type="place" subtype="country" key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venetianischen
+                        Königreiche</rs> besonderer Berathung vorbehalten.<lb/>In Betreff der
                     Juden sind nur da Beschränkungen und Ausnahmen festzuhalten, wo besondere
                     Lokalverhältnisse es erheischen.</p>
                 <p>

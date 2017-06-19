@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="czernin-von-und-zu-chudenitz-eugen" role="sender">Eugen
-                        Czernin</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="czernin-von-und-zu-chudenitz-eugen" key="czernin-von-und-zu-chudenitz-eugen" role="sender">Eugen
+                        Czernin</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_a986e17664f5bd6d77b6af97fb3699ce">o. O. [Neuhaus]</placeName>, o. D.
+                    <rs type="place" subtype="place" ref="#place_a986e17664f5bd6d77b6af97fb3699ce">o. O. [Neuhaus]</rs>, o. D.
                         [18]50<note xml:id="note_1">Vermerk von fremder Hand am oberen Rand des
                         Briefes</note>
                 </title>
@@ -39,7 +38,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -57,17 +56,17 @@
                     wohlbegründete Anliegen gänzlich unberücksichtigt zu lassen und hierdurch
                     Bittende in tiefen Kummer zu versetzen. Ich zähle daher auf Euer Excellenz mir
                     bekannte und bewährte Güte und erlaube mir, Ihnen insbesondere von dem Gesuche
-                    der Stadt <placeName ref="#place_4aee0ba8deb6ed0f68f1345844d493fb">Neuhaus</placeName> zu sprechen, welche mich bei der
+                    der Stadt <rs type="place" subtype="place" ref="#place_4aee0ba8deb6ed0f68f1345844d493fb">Neuhaus</rs> zu sprechen, welche mich bei der
                     Constituirung der Gemeinde zu ihrem Ausschußmann erwählte. Diese Stadt, unter
                     deren 7 bis 8.000 Einwohnern sich sehr viele Nothleidende und Arme befinden, und
                     welche während der Zeit allgemeiner Aufregung im Ganzen gute Gesinnungen hegte,
-                    die Stadt <placeName ref="#place_4aee0ba8deb6ed0f68f1345844d493fb">Neuhaus</placeName> befürchtet ihr Obergymnasium zu
+                    die Stadt <rs type="place" subtype="place" ref="#place_4aee0ba8deb6ed0f68f1345844d493fb">Neuhaus</rs> befürchtet ihr Obergymnasium zu
                     verlieren. Dieser Verlust wäre für die Bewohner des Ortes in jeder Hinsicht von
                     den nachtheiligsten Folgen. Die Gemeinde ist zwar allerdings nicht in der Lage,
                     bedeutende Kapitalien zur Dotirung ausweisen zu können, allein sie bringt gern
                     alle Opfer, die mit ihren Vermögensumständen vereinbar sind, und eingezogener
                     Erkundigungen zufolge sind auch mehrere andere von den ansehnlichern Städten des
-                        <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">böhmischen Vaterlandes</region> nicht im Stande
+                        <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">böhmischen Vaterlandes</rs> nicht im Stande
                     hinreichende Fonds auszuweisen. Eine Unterstützung von Seite des Staates dürfte
                     daher wohl kaum zu vermeiden seyn. Was höhere Rücksichten gebiethen, ist mir
                     nicht möglich zu beurtheilen, sollten aber diese nicht das Gegentheil verlangen,
@@ -76,7 +75,7 @@
                     von einer Reise nach nordischen Seebädern heimkehrte, fand ich zwischen
                     verschiedenen Papieren auf meinem Schreibtische eine Zuschrift, welche Ihren
                     verehrten Namen enthielt. Ich wurde benachrichtigt, daß ein sicherer Herr
-                        <persName key="rochleder-victor">Victor Rochleder</persName>, dessen
+                        <rs type="person" ref="rochleder-victor" key="rochleder-victor">Victor Rochleder</rs>, dessen
                     sehnlichster Wunsch es ist, unter dem Befehle von Euer Excellenz zu stehen, von
                     Ihnen freundlich aufgenommen wurde, und daß, als derselbe sich auf meine
                     Anempfehlung bezog, er zur Antwort erhielt, ich möchte nur ferner Euer Excellenz

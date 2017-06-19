@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="haulik-georg" role="sender:kleriker">Georg Haulik</persName>
-                    an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="haulik-georg" key="haulik-georg" role="sender:kleriker">Georg Haulik</rs>
+                    an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_a620921af9eef09d01368fb2c1a2fd88">Agram</placeName>, <date when="1860-11-13">13. November 1860</date>
+                    <rs type="place" subtype="place" ref="#place_a620921af9eef09d01368fb2c1a2fd88">Agram</rs>, <date when="1860-11-13">13. November 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -37,7 +36,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -54,21 +53,21 @@
                     österreichische Kirche ist der weisen, wohlwollenden und segensreichen
                     Vertrettung ihrer Angelegenheiten bei unserer allerhöchsten Regierung durch Euer
                     Exzellenz, verlustig geworden. Unter der Leitung Euerer Exzellenz ist der
-                    katholischen Kirche in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</country> ihre
+                    katholischen Kirche in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> ihre
                     Freiheit wieder geworden. Sie wurde von Euer Exzellenz stets mit wahrer Pietät
                     und allen Rücksichten der Humanität behandelt; sie hat unzählige Wohlthaten
                     Hochderselben zu verdanken. Namentlich ist das Agramer Bisthum und bin ich
                     persönlich Euerer Exzellenz zur größten Dankbarkeit verbunden. Denn jenes wurde
                     mittelst gütiger Mitwirkung Euerer Exzellenz zum Erzbisthume erhoben und mir
                     wurden durch Hochdero wohlwollenden Verwendung große, nie geahnte Beweise der
-                    allerhöchsten Gnade <persName key="franz-joseph">Seiner k.k. apostolischen
-                        Majestät</persName> zu Theil.<lb/>Ich hielt es für eine meiner heiligsten
+                    allerhöchsten Gnade <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner k.k. apostolischen
+                        Majestät</rs> zu Theil.<lb/>Ich hielt es für eine meiner heiligsten
                     Pflichten, bei dem für alle Gutgesinnten so traurigen Rücktritte Euerer
                     Exzellenz, diesen wahrhaft innigen Gefühlen meines Herzens den gegenwärtigen
                     schwachen Ausdruck zu leihen und Euerer Exzellenz für alle mir, meiner Diözese
                     und der ganzen katholischen Kirche erwiesnen Wohltaten meinen tiefsten
                     aufrichtigsten Dank darzubringen.<lb/>Ich erlaube mir nur noch beizufügen, daß
-                    der Name Euerer Exzellenz in die Annalen der Kirche <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</country> und insbesondere Kroatiens mit unauslöschlichen
+                    der Name Euerer Exzellenz in die Annalen der Kirche <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> und insbesondere Kroatiens mit unauslöschlichen
                     Buchstaben eingezeichnet ist und immerdar verbleiben wird.<lb/>Genehmigen Euer
                     Exzellenz diesen Ausdruck jener tiefen Hochachtung, mit der ich geharre</p>
                 <p>Hochderselben<lb/>ergebenster Diener<lb/>Georg Card. Haulik<lb/>Agramer

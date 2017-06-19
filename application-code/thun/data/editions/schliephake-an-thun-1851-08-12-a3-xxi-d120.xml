@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="schliephake-theodor" role="sender:gelehrter">Theodor
-                        Schliephake</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="schliephake-theodor" key="schliephake-theodor" role="sender:gelehrter">Theodor
+                        Schliephake</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_9974545279455eb03bf50b1b1b4d7fea">Wiesbaden</placeName>,
+                    <rs type="place" subtype="place" ref="#place_9974545279455eb03bf50b1b1b4d7fea">Wiesbaden</rs>,
                         <date when="1851-08-12">12. August 1851</date>
                 </title>
             </titleStmt>
@@ -34,7 +33,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -44,7 +43,7 @@
                     <term>Philosophie</term>
                 </index>
                 <p>Excellenz!</p>
-                <p>Indem ich dem gnädigen Willen Ihrer königlichen Hoheit der Frau <persName key="pauline-von-wuerttemberg">Herzogin zu Nassau</persName> nachkomme,
+                <p>Indem ich dem gnädigen Willen Ihrer königlichen Hoheit der Frau <rs type="person" ref="pauline-von-wuerttemberg" key="pauline-von-wuerttemberg">Herzogin zu Nassau</rs> nachkomme,
                     beehre ich mich, einen Aufsatz in Ihre Hände zu legen, dessen Zweck und
                     Bestimmung ich als Euer Excellenz bekannt annehmen darf. Auf den anliegenden
                     Blättern habe ich, außer den verlangten persönlichen Notizen, auch meine
@@ -60,7 +59,7 @@
                     bei der Denkungsart, die ich, wie viele, an Euer Excellenz kenne, Ihnen eine
                     Sache ans Herz zu legen, die für mich von größter Wichtigkeit ist. Ich suche
                     nichts anderes, als was mir wohl schon zu Theil geworden wäre, wenn ich die in
-                        <country ref="#place_361e734b7e9d674efb5e3ac441e2c149">Belgien</country> angefangene Laufbahn fortgesetzt hätte. Aber ich
+                        <rs type="place" subtype="country" ref="#place_361e734b7e9d674efb5e3ac441e2c149">Belgien</rs> angefangene Laufbahn fortgesetzt hätte. Aber ich
                     hege die Hoffnung, daß was mir durch die Gnade des hohen Nassauischen Hauses
                     bereitet wird, mir dadurch noch werther als jenes werden soll, als es mir in
                     meinem Vaterlande geboten wird, dem ich mit meiner Familie

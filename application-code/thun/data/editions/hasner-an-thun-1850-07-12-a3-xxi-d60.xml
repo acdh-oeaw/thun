@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="hasner-von-artha-leopold" role="sender:gelehrter">Leopold
-                        Hasner</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="hasner-von-artha-leopold" key="hasner-von-artha-leopold" role="sender:gelehrter">Leopold
+                        Hasner</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, <date when="1850-07-12">12. Juli 1850</date>
+                    <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1850-07-12">12. Juli 1850</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -47,7 +46,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -126,13 +125,13 @@
                     außerordentliche Professor von den Schülern vielfach nur Doctor titulirt wird,
                     eine an sich natürlich ganz gleichgiltige Sache, welche aber darauf deutet, daß
                     man ihn im Grunde dem Docenten näher hält als dem Professor.<lb/>Sodann aber
-                    tritt bei mir noch der Umstand hinzu, daß Professor <persName key="schnabel-georg-norbert">Schnabel</persName> in einem Jahre Naturrecht
+                    tritt bei mir noch der Umstand hinzu, daß Professor <rs type="person" ref="schnabel-georg-norbert" key="schnabel-georg-norbert">Schnabel</rs> in einem Jahre Naturrecht
                         <hi rend="ul">und</hi> Criminalrecht absolvirt, <hi rend="ul">sein</hi>
                     Schüler daher dies profitirt, daß er in demselben Zeitraume zwei Gegenstände
                     hört, wo er bei mir nur aus einem ein Zeugnis erhält. Dies sind gewichtige
                     Umstände, welche nicht einmal bei den übrigen<hi rend="ul">
                     außer</hi>ordentlichen Professoren eintreten und sie müssen, bis Kollegiengelder
-                    wieder gezahlt werden, in noch erhöhtem Maaße fühlbar werden.<note place="bottom">Randbemerkung Thuns: <persName key="schnabel-georg-norbert">Schnabel</persName> darf doch nicht kumulativ lesen und
+                    wieder gezahlt werden, in noch erhöhtem Maaße fühlbar werden.<note place="bottom">Randbemerkung Thuns: <rs type="person" ref="schnabel-georg-norbert" key="schnabel-georg-norbert">Schnabel</rs> darf doch nicht kumulativ lesen und
                         attestiren.</note>
                     <lb/>Geruhen Euer Excellenz es nicht ungnädig aufzunehmen,
                     wenn ich Hochdenselben, in deren Händen mein Schicksal ruht, zu gestehen wage,
@@ -141,9 +140,9 @@
                     nothwendige ist, doppelt empfindlich fühle.<lb/>Weit Jüngere als ich sind
                     bereits in unserer Monarchie <hi rend="ul">ordentliche</hi> Professoren. Aber
                     nicht bloß danken sie dies den mir minder günstigen früheren Verhältnissen,
-                        <persName key="michel-adalbert-theodor">Michel</persName> dankt es einer
-                    jüngsten Ernennung. Ich bin im Alter, in den Studien, im Doctorat <persName key="michel-adalbert-theodor">Michel</persName> um mehrere Jahre vor; ich
-                    habe aus meinem Fache zwei Konkurse gemacht, <persName key="michel-adalbert-theodor">Michel</persName> keinen; ich glaube meine
+                        <rs type="person" ref="michel-adalbert-theodor" key="michel-adalbert-theodor">Michel</rs> dankt es einer
+                    jüngsten Ernennung. Ich bin im Alter, in den Studien, im Doctorat <rs type="person" ref="michel-adalbert-theodor" key="michel-adalbert-theodor">Michel</rs> um mehrere Jahre vor; ich
+                    habe aus meinem Fache zwei Konkurse gemacht, <rs type="person" ref="michel-adalbert-theodor" key="michel-adalbert-theodor">Michel</rs> keinen; ich glaube meine
                     literarischen Leistungen den seinigen gleichstellen zu dürfen; und ich glaube,
                     nicht verschweigen zu müssen, daß ich meine politische Vertrauenswürdigkeit
                     durch positive Leistungen, welche zugleich meine geistige Richtung aufs
@@ -206,20 +205,20 @@
                     Unbetheiligten peinlich zu werden.<note place="bottom">Randbemerkung Thuns:
                         ?</note>
                     <lb/>In Beziehung auf andere muß ich vor allem bestätigen, was Euer
-                    Excellenz wohl auch sonst schon bekannt geworden sein dürfte, daß Dr. <persName key="wessely-wolfgang">W[olfgang] Wessely’s</persName> Kollegien viel
+                    Excellenz wohl auch sonst schon bekannt geworden sein dürfte, daß Dr. <rs type="person" ref="wessely-wolfgang" key="wessely-wolfgang">W[olfgang] Wessely’s</rs> Kollegien viel
                     Anklang finden. Ich habe zudem Gelegenheit gehabt, ihn noch näher persönlich
                     kennen zu lernen und muß glauben, daß unsere juristische Welt wenig so
                     energische Kräfte hat, deren Leistungen, wenn nicht hoch hervorragend,
                     jedenfalls sehr schätzbar und geeignet sind, zur Fortentwicklung der
                     Wissenschaft in Oesterreich namhaft beizutragen. Es wäre gewiß zu bedauern, wenn
                     er dem Lehrfache entzogen werden sollte.<lb/>
-                    <persName key="jonak-eberhard-antonin">Jonák</persName> und <persName key="schier-johann-nepomuk">Schier</persName> bemühen sich an ihrem Theil
+                    <rs type="person" ref="jonak-eberhard-antonin" key="jonak-eberhard-antonin">Jonák</rs> und <rs type="person" ref="schier-johann-nepomuk" key="schier-johann-nepomuk">Schier</rs> bemühen sich an ihrem Theil
                     nach Kräften. Die letzte hohe Resolution, zufolge deren die Extraordinarien zu
                     Rigorosen beiziehbar und gegenwärtig, in Ermangelung der nöthigen Zahl von
                     Ordinarien, theilweise wirklich beigezogen worden sind, hat ihnen so wie auch
                     mir zu großer Satisfaktion gereicht. Unsere Stellung ist hiermit jedenfalls in
-                    den Augen der studirenden Welt weit bedeutender geworden. Mit <persName key="jonak-eberhard-antonin">Jonák</persName> habe ich mehr Verkehr als mit
-                        <persName key="schier-johann-nepomuk">Schier</persName> und habe in ihm
+                    den Augen der studirenden Welt weit bedeutender geworden. Mit <rs type="person" ref="jonak-eberhard-antonin" key="jonak-eberhard-antonin">Jonák</rs> habe ich mehr Verkehr als mit
+                        <rs type="person" ref="schier-johann-nepomuk" key="schier-johann-nepomuk">Schier</rs> und habe in ihm
                     einen Menschen von viel geistiger Flexibilität, Energie und Ehrgeiz gefunden,
                     der auf der Kanzel gut sein soll und sein kann, ohne daß vielleicht die
                     Forderung literarischer Leistungen überhaupt an ihn gestellt werden kann, wenn
@@ -229,27 +228,27 @@
                     genügt. Ob ihm die Befriedigung in derselben die nöthige wissenschaftliche
                     Spannung geben wird oder ihm die Professur zu einer Sinekur werden möchte, wie
                     so vielen, die die Wissenschaft Wissenschaft sein lassen, weiß ich freilich
-                    nicht. Doch ließe sich vielleicht das Erstere darum hoffen, weil <persName key="jonak-eberhard-antonin">Jonák</persName> zu den Menschen gehört, die
+                    nicht. Doch ließe sich vielleicht das Erstere darum hoffen, weil <rs type="person" ref="jonak-eberhard-antonin" key="jonak-eberhard-antonin">Jonák</rs> zu den Menschen gehört, die
                     irgendeinen Ehrgeiz immer zu befriedigen haben müssen.<lb/>Noch erlaube ich mir
-                        <persName key="kastl-michael-theodor">Kastel’s</persName> zu erwähnen. Euer
+                        <rs type="person" ref="kastl-michael-theodor" key="kastl-michael-theodor">Kastel’s</rs> zu erwähnen. Euer
                     Excellenz waren meines Wissens geneigt, ihn zum Extraordinarius zu machen.
                     Seither hat er sich in Conflikte gebracht, die an seiner Stelle ihm nicht
                     förderlich sein konnten, wenigstens muß ich dies, nach dem was ich hierüber im
                     Allgemeinen vernommen und nach der Verzögerung seiner Ernennung, glauben. Da ich
                     aber selbst einmal zu wenig Fachmann im Kirchenrechte bin, andererseits den
                     näheren Inhalt seiner ersten Vorträge nicht kenne, so habe ich in der Sache kein
-                    eigentliches Urtheil. Doch muß ich in der That glauben, daß <persName key="kastl-michael-theodor">Kastl</persName>, weit entfernt, sich selbst
+                    eigentliches Urtheil. Doch muß ich in der That glauben, daß <rs type="person" ref="kastl-michael-theodor" key="kastl-michael-theodor">Kastl</rs>, weit entfernt, sich selbst
                     noch bisher für einen Reformator im Kirchenrechte zu halten, durch ein paar
                     ungeschickte Frasen und Thesen Bedenken erregt habe, welche er selbst nie
                     rechtfertigen würde, am wenigsten, wenn ihm Gelegenheit gegeben würde, durch ein
-                    konzentrirtes Studium sich vollkommen selbst zu klären. <persName key="kastl-michael-theodor">Kastl</persName> ist eine Gemütsnatur, die in
+                    konzentrirtes Studium sich vollkommen selbst zu klären. <rs type="person" ref="kastl-michael-theodor" key="kastl-michael-theodor">Kastl</rs> ist eine Gemütsnatur, die in
                     ihrem tieferen Inneren eine natürliche Neigung zum Religiösen hat. Darum auch
                     sein wahrhaftes Interesse für sein Fach. Hier kann man vielleicht über das, was
                     Jugend, Miasmen der Zeit u.s.f. verursachen, ohne Sorge, ja mit den besten
                     Hoffnungen hinaus gehen, wenn man näher auf die Wesenheit des Mannes selbst
                     eingeht, aus der sich mit Jahr um Jahr mehr des dem religiösen Standpunkte
                     Adäquate heraus arbeiten muß. Ohne hier natürlich absprechen zu können, darf ich
-                    doch im Allgemeinen von <persName key="kastl-michael-theodor">Kastl</persName>
+                    doch im Allgemeinen von <rs type="person" ref="kastl-michael-theodor" key="kastl-michael-theodor">Kastl</rs>
                     mit voller Überzeugung sagen, daß, was Redlichkeit des Strebens, Energie und
                     Lauterkeit des Interesses, Ruhe und Eindringlichkeit des Denkens anbelangt, ich
                     ihn über alle übrigen jüngeren Kräfte unserer Fakultät stellen muß, so wie er in
@@ -263,10 +262,10 @@
                     Weg, den des Notariats, aufgesucht hat, noch immer aber mit Sehnsucht einer
                     Resolution seitens des hohen Ministeriums harrt, da sie nur mit Widerstreben die
                     Bahn der Wissenschaft verlassen würde. Euer Excellenz mögen von anderen Seiten
-                    vielleicht näher über <persName key="kastl-michael-theodor">Kastl</persName>
+                    vielleicht näher über <rs type="person" ref="kastl-michael-theodor" key="kastl-michael-theodor">Kastl</rs>
                     unterrichtet sein; gleichwol dachte ich, daß Hochderselben bei einer etwa
                     nächstens zu fassenden Resolution eine mehrseitige Meinungsäußerung nicht
-                    unwillkommen sein möchte. Sehr natürlich kann ich für <persName key="kastl-michael-theodor">Kastl</persName> keine Bürgschaft geben, als
+                    unwillkommen sein möchte. Sehr natürlich kann ich für <rs type="person" ref="kastl-michael-theodor" key="kastl-michael-theodor">Kastl</rs> keine Bürgschaft geben, als
                     soweit die Frage um den moralischen und wissenschaftlichen Menschen im
                     Allgemeinen ist. Hier habe ich ihn achten gelernt. Das Gewicht einzelner Fehler
                     oder Irrthümer muß ich zu beurtheilen Jenen überlassen, in deren Sfäre sie

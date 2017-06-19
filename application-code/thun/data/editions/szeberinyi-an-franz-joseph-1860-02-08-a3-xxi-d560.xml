@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="szeberinyi-johann" role="sender:kleriker">Johann
-                        Szeberinyi</persName> an <persName key="franz-joseph" role="recipient">Franz
-                        Joseph</persName>
+                    <rs type="person" ref="szeberinyi-johann" key="szeberinyi-johann" role="sender:kleriker">Johann
+                        Szeberinyi</rs> an <rs type="person" ref="franz-joseph" key="franz-joseph" role="recipient">Franz
+                        Joseph</rs>
                     <lb/>
-                    <placeName ref="#place_792be515410368f1ac3c6e58ea01814c">Schemnitz</placeName>, <date when="1860-02-08">8. Februar 1860</date>
+                    <rs type="place" subtype="place" ref="#place_792be515410368f1ac3c6e58ea01814c">Schemnitz</rs>, <date when="1860-02-08">8. Februar 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -41,7 +40,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -58,7 +57,7 @@
                     unwiderstehlichen Drang meines Herzens nach Bethätigung unverbrüchlicher Treue
                     und unbedingten Vertrauens in die väterlichen Absichten Eurer Majestät
                     zuzuschreiben. Die Stimme, die hiermit aus der uralten Bergstadt
-                        <placeName ref="#place_792be515410368f1ac3c6e58ea01814c">Schemnitz</placeName> zu dem Landesvater hinüber tönt, ist die
+                        <rs type="place" subtype="place" ref="#place_792be515410368f1ac3c6e58ea01814c">Schemnitz</rs> zu dem Landesvater hinüber tönt, ist die
                     Stimme eines dankbaren, ergebenen, um das Wohl und die Würde des Staates und der
                     Kirche besorgten Herzens. Sie mag, wie es des Augenblickes und des Gegenstandes
                     Heiligkeit erheischt, frei und fromm erklingen.<lb/>Das Allerhöchste Patent vom
@@ -75,12 +74,12 @@
                     – die Geschichte wird es bezeugen – weder materiell noch formell berechtigt und
                     das schlagendste Licht auf das alte Gebahren, auf den unseligen Zustand der
                     Kirche wirft die seltsame Erscheinung, daß fünf Sage fünf von keiner Corporation
-                    entsendete Privatmänner in die <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Reichsresidenz</placeName>
-                    sich begeben und angesichts <country key="europa" ref="#place_55899fef2f0b2eba13eb1316b34b3694">Europa’s</country> als
+                    entsendete Privatmänner in die <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Reichsresidenz</rs>
+                    sich begeben und angesichts <rs type="place" subtype="country" key="europa" ref="#place_55899fef2f0b2eba13eb1316b34b3694">Europa’s</rs> als
                     Abgesandte der Evangelischen Kirche Augsburgischen Bekenntnisses aufzutreten
                     sich erkühnen. Daher diese Kirche Augsburgischen Bekenntnisses, namentlich aber
                     die Geistlichkeit, von den Karpathen bis an die Grenzen der in ihren Gemeinden
-                    bereits organisirten <region key="woiwodschaft-serbien" ref="#place_c1a76f350bcfa4d0b1f71fc95e9a882b">Woiwodina</region> mit
+                    bereits organisirten <rs type="place" subtype="region" key="woiwodschaft-serbien" ref="#place_c1a76f350bcfa4d0b1f71fc95e9a882b">Woiwodina</rs> mit
                     Bestürzung die Kunde der Tagespresse vernehmen mußte, daß eine aus dem nach
                     chaotischen Zustand der Kirche zusammengesetzte Synode berufen werden sollte,
                     die weder dem Staate Garantie noch der Kirche, namentlich der <hi rend="ul">Augsburgisch Evangelischen</hi>, Heil und Befriedigung bieten

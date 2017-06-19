@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="roczek-mathias" role="sender">Mathias Roczek</persName> an
-                        <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="roczek-mathias" key="roczek-mathias" role="sender">Mathias Roczek</rs> an
+                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_0e840a3cd526846dda20cf2ada7bfb4d">Drožditz</placeName>, <date when="1850-01-02">02. Januar
+                    <rs type="place" subtype="place" ref="#place_0e840a3cd526846dda20cf2ada7bfb4d">Drožditz</rs>, <date when="1850-01-02">02. Januar
                     1850</date>
                 </title>
             </titleStmt>
@@ -64,7 +63,7 @@
                 </p>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -84,12 +83,12 @@
                     gebethen [haben], habe ich unter beweisvoller Widerlegung der vorgebrachten
                     Gründe, nämlich der Noth, des höchsten Elends und des den Schullehrern drohenden
                     Hungertodes in Bezug auf die vaterländischen Schulen überhaupt, in Bezug auf die
-                    Schulen der Staatsherrschaft <placeName ref="#place_ce80131cd3e639c957e84214fd9d57c8">Pardubitz</placeName> insbesondere, in
-                    die constitutionelle allgemeine Zeitung von <region ref="#place_1a477f0b4ff0e44372369bbd196cb38a">Böhmen</region>, namentlich
+                    Schulen der Staatsherrschaft <rs type="place" subtype="place" ref="#place_ce80131cd3e639c957e84214fd9d57c8">Pardubitz</rs> insbesondere, in
+                    die constitutionelle allgemeine Zeitung von <rs type="place" subtype="region" ref="#place_1a477f0b4ff0e44372369bbd196cb38a">Böhmen</rs>, namentlich
                     in das hier zuliegende Blatt vom 6. Jänner 1849 Nr. 5 Seite 18 bei dem Artikel
-                        <placeName ref="#place_ce80131cd3e639c957e84214fd9d57c8">Pardubitz</placeName> einen Aufsatz einrücken lassen, wo ich
+                        <rs type="place" subtype="place" ref="#place_ce80131cd3e639c957e84214fd9d57c8">Pardubitz</rs> einen Aufsatz einrücken lassen, wo ich
                     wegen dieser offenbaren Behelligung des Hohen Ministeriums und wegen
-                    Herabwürdigung der Nazion, vorzüglich die Reichstagsdeputirten des <placeName key="pardubitz" ref="#place_f80fe87079d6832a0e9432d233507bbc">Pardubitzer Bezirks</placeName>, nämlich <persName key="pulpan-wenzel">Wenzel Pulpan</persName> [Půlpán] und <persName key="placek-franz">Franz Placzek</persName> [Plaček], zur Rede gestellt habe
+                    Herabwürdigung der Nazion, vorzüglich die Reichstagsdeputirten des <rs type="place" subtype="place" key="pardubitz" ref="#place_f80fe87079d6832a0e9432d233507bbc">Pardubitzer Bezirks</rs>, nämlich <rs type="person" ref="pulpan-wenzel" key="pulpan-wenzel">Wenzel Pulpan</rs> [Půlpán] und <rs type="person" ref="placek-franz" key="placek-franz">Franz Placzek</rs> [Plaček], zur Rede gestellt habe
                     und worauf die lügenhaften Beschwerden im Allgemeinen zum Schweigen gebracht
                     worden sind. Nicht mehr war es meine Absicht dieser Sache weiterhin zu erwähnen,
                     als ich Euere Excellenz als den Lenker unseres Unterrichtswesens erblickte, da
@@ -98,7 +97,7 @@
                     allen wahrhaften Klagen und Beschwerden abzuhelfen. Nachdem aber in den meisten
                     Journalen wiederhohlt Stimmen erschallen, die das Dotationsthema fast auf eine
                     verletzende Art auf die Bahn bringen, so beschloß ich, meine auf eigene
-                    Erfahrungen gegründeten Ansichten in Bezug auf das Schulwesen in <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</region>, vorzüglich aber in Bezug auf die czechischen
+                    Erfahrungen gegründeten Ansichten in Bezug auf das Schulwesen in <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs>, vorzüglich aber in Bezug auf die czechischen
                     Schulgemeinden Euerer Excellenz in aller Ehrfurcht mitzutheilen, wovon
                     Höchstdieselben allenfalls einige Gedanken gnädigst benützen dürften, wobei ich
                     um die gnädigste Geheimhaltung meines Namens und um die Vertilgung der Beilage
@@ -217,9 +216,9 @@
                     Anerkennung alle seine Kräfte aufbiethen, um den Erwartungen zu entsprechen, und
                     er wird sich auch mit der dermaligen Congrua einstweilen dankbar begnügen. In
                     der hieramtigen Umgebung, und zwar in den Städten
-                        <placeName ref="#place_02e2c82ee07834e9be02931c376449e2">Bohdanetsch</placeName>, <placeName ref="#place_adb91b5f3644d5e771a385792c67a406">Hrochowteinitz</placeName>,
-                        <placeName key="oberjeleni" ref="#place_9eda962b2592047fdcd2f1c489f4f739">Oberjelleni</placeName> [Oberjeleni], im Dorfe
-                        <placeName ref="#place_6164b15b5cd3c72807dbc32d6c6c01a3">Hostowitz</placeName>, sind kürtzlich die Lehrer mit Tode
+                        <rs type="place" subtype="place" ref="#place_02e2c82ee07834e9be02931c376449e2">Bohdanetsch</rs>, <rs type="place" subtype="place" ref="#place_adb91b5f3644d5e771a385792c67a406">Hrochowteinitz</rs>,
+                        <rs type="place" subtype="place" key="oberjeleni" ref="#place_9eda962b2592047fdcd2f1c489f4f739">Oberjelleni</rs> [Oberjeleni], im Dorfe
+                        <rs type="place" subtype="place" ref="#place_6164b15b5cd3c72807dbc32d6c6c01a3">Hostowitz</rs>, sind kürtzlich die Lehrer mit Tode
                     abgegangen. Die drei lezteren haben sich viele Jahre durch mit dem Unterrichte
                     gar nicht befaßt, und so wäre für diese besser dotirten Schulen in diesen
                     volkreichen Ortschaften die Bestellung eines gebildeten Lehrers ein
@@ -253,14 +252,14 @@
                     pedagogische Kurs auf längere Zeit ausgedehnt und nicht auf ein Jahr beschränkt
                     werden.<lb/>Auch sollte man auf die körperlichen Umstände des Zöglings sehen und
                     die mit Leibesgebrechen behafteten Individuen zum Präparandenkurse gar nicht
-                    zulassen. So z. B. kenne ich einen vor mehreren Jahren an der <placeName key="pardubitz" ref="#place_f80fe87079d6832a0e9432d233507bbc">Pardubitzer</placeName> Hauptschule attestirten Kandidaten.
+                    zulassen. So z. B. kenne ich einen vor mehreren Jahren an der <rs type="place" subtype="place" key="pardubitz" ref="#place_f80fe87079d6832a0e9432d233507bbc">Pardubitzer</rs> Hauptschule attestirten Kandidaten.
                     Derselbe ist so <hi rend="underline">kurzsichtig</hi>, daß er einen Menschen,
                     dem er begegnet, gar nicht erkennt, er ist schon das zweite Jahr an der
-                    Hauptschule zu <placeName ref="#place_12e7fcfb354d84c2c3072313fda21716">Budetz</placeName>, um sich zu vervollkommnen, allein
+                    Hauptschule zu <rs type="place" subtype="place" ref="#place_12e7fcfb354d84c2c3072313fda21716">Budetz</rs>, um sich zu vervollkommnen, allein
                     ich glaube, man werde ihn auch dieses Jahr für einen Lehrer kaum fähig erklären.
                     Derselbe ist daher physisch und moralisch zum Schulamte untauglich, weswegen er
                     ganz unnöthig dem Staate zur Last fallen dürfte.<lb/>Giebt es etwa in
-                        <region ref="#place_1a477f0b4ff0e44372369bbd196cb38a">Böhmen</region> nicht mehrere derlei Kandidaten? Ganz
+                        <rs type="place" subtype="region" ref="#place_1a477f0b4ff0e44372369bbd196cb38a">Böhmen</rs> nicht mehrere derlei Kandidaten? Ganz
                     gewiß!<lb/>Übrigens wären alle Choral- und Meßnerdienste mit einstweiligen
                     Ausschluß des Orgelspiels bei dem hohen Gottesdienste vom Schulamte ganz zu
                     trennen, und dem Lehrer wäre der fassionsmäßige Stolaertrag aus welch immer
@@ -311,7 +310,7 @@
                     eingestellt werden würde.<lb/>Endlich muß ich noch bemerken, daß die Schulzimmer
                     in den Landschulen zu ungeräumig, die Schulgebäude hin und wieder im höchst
                     elenden Zustande sind, und dies ist meisten Theils auf dem allerhöchsten
-                    Patronate z.B. auf der Staatsherrschaft <placeName ref="#place_ce80131cd3e639c957e84214fd9d57c8">Pardubitz</placeName> in
+                    Patronate z.B. auf der Staatsherrschaft <rs type="place" subtype="place" ref="#place_ce80131cd3e639c957e84214fd9d57c8">Pardubitz</rs> in
                     meiner Umgebung der Fall. Euere Excellenz finden hier über 20 Schulen, wo die
                     Kinder wie die Häringe aneinander gepreßt sind, wo die hölzernen Schulgebäude
                     vom Zahne der Zeit angegriffen, nur zu bald eingehen und ganz neu hergestellt

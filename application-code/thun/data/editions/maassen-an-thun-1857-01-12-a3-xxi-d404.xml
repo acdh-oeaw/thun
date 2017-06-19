@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="maassen-friedrich" role="sender:gelehrter">Friedrich
-                        Maassen</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="maassen-friedrich" key="maassen-friedrich" role="sender:gelehrter">Friedrich
+                        Maassen</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</placeName>, <date when="1857-01-12">12. Januar 1857</date>
+                    <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs>, <date when="1857-01-12">12. Januar 1857</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -45,7 +44,7 @@
                 </p>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -57,7 +56,7 @@
                     <term>Römisches Recht</term>
                 </index>
                 <p>Eure Excellenz!</p>
-                <p>Der mit dem 15. kommenden Monats erfolgende Austritt des k.k. <persName key="prockner-franz-kajetan">Raths Prockner</persName> aus dem hiesigen
+                <p>Der mit dem 15. kommenden Monats erfolgende Austritt des k.k. <rs type="person" ref="prockner-franz-kajetan" key="prockner-franz-kajetan">Raths Prockner</rs> aus dem hiesigen
                     juristischen Professorencollegium scheint mir ein geeigneter Zeitpunkt zu sein,
                     um an Eure Excellenz die ganz gehorsamste Bitte zu richten, gnädigst anordnen zu
                     wollen, daß ich zu einigen Rigorosen der hiesigen juristischen Facultät
@@ -92,16 +91,16 @@
                     Einnahme kann ich die nothwendigen Ausgaben nicht bestreiten. Meine Ehe ist
                     bereits mit Kindern gesegnet worden, im vorigen Monat ist mir der zweite Knabe
                     geboren. Die mit einem so erfreulichen Ereignis verknüpfte Erweiterung des
-                    Hausstandes, die Unkosten, welche die Übersiedlung nach <placeName key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</placeName> und von <placeName key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</placeName> mit sich
-                    gebracht hat, ein längerer Aufenthalt in <placeName ref="#place_d0a6343a081a7335baa965ce4fd0845c">München</placeName> zur
+                    Hausstandes, die Unkosten, welche die Übersiedlung nach <rs type="place" subtype="place" key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</rs> und von <rs type="place" subtype="place" key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</rs> mit sich
+                    gebracht hat, ein längerer Aufenthalt in <rs type="place" subtype="place" ref="#place_d0a6343a081a7335baa965ce4fd0845c">München</rs> zur
                     Benutzung der dortigen Bibliothek, die bei der Anwesenheit Seiner Königlichen
-                    Hoheit des Erzherzogs <persName key="karl-ludwig-erzherzog">Karl
-                        Ludwig</persName> unvermeidliche Anschaffung einer Dienstuniform und
+                    Hoheit des Erzherzogs <rs type="person" ref="karl-ludwig-erzherzog" key="karl-ludwig-erzherzog">Karl
+                        Ludwig</rs> unvermeidliche Anschaffung einer Dienstuniform und
                     dergleichen mehr, in Verbindung mit dem theuren Leben am hiesigen Ort haben mein
                     kleines mütterliches Erbtheil bereits so angestrengt, daß ich auch mit diesem in
                     kurzer Zeit nicht mehr aushelfen kann; ich habe es seit meiner Verehelichung
-                    bereits über die Hälfte consumirt.<lb/>Da <persName key="ambreit-julie">meine
-                        Frau</persName> kein Vermögen besitzt, so bleibt mir bei dem gegenwärtigen
+                    bereits über die Hälfte consumirt.<lb/>Da <rs type="person" ref="ambreit-julie" key="ambreit-julie">meine
+                        Frau</rs> kein Vermögen besitzt, so bleibt mir bei dem gegenwärtigen
                     Stande meiner Einnahme mithin nur die Alternative, entweder mich so
                     einzuschränken, daß ich meine Lebensweise unter das Niveau reducire, welches das
                     sociale Herkommen für einen homo literatus festgestellt hat, oder mich in
@@ -135,7 +134,7 @@
                     oder weniger influenzirt ist. Der erste Theil der Aufgabe erfordert vor allen
                     Dingen ein gründliches Eingehen auf die Glossatorenzeit. Und gerade hier ist
                     unendlich wenig vorgearbeitet. Für das römische Recht kommt doch das in
-                    kritischer sowohl als jeder andern Beziehung so meisterhafte Werk <persName key="savigny-friedrich-carl">Savignys</persName> zu statten. Es ist hier für
+                    kritischer sowohl als jeder andern Beziehung so meisterhafte Werk <rs type="person" ref="savigny-friedrich-carl" key="savigny-friedrich-carl">Savignys</rs> zu statten. Es ist hier für
                     die Dogmengeschichte bereits der Weg geebnet, das Material bezeichnet. Anders
                     für das canonische Recht. Hier gilt es sich das Gebiet erst literarhistorisch
                     erobern, feststellen, auf welche Schriftsteller es ankommt, in welchem
@@ -168,8 +167,8 @@
                     jenen participiren einige an sämmtlichen, andere an drei, keiner aber nur an
                     zwei Rigorosen.<lb/>Durch die Gewährung dieser meiner ehrerbietigsten Bitte
                     würde weder dem k.k. Aerar noch irgend einem Dritten eine Last auferlegt werden.
-                    Durch den Austritt des k.k. <persName key="prockner-franz-kajetan">Raths
-                        Prockner</persName> werden vier Antheile vacant. Wenn über diese nicht
+                    Durch den Austritt des k.k. <rs type="person" ref="prockner-franz-kajetan" key="prockner-franz-kajetan">Raths
+                        Prockner</rs> werden vier Antheile vacant. Wenn über diese nicht
                     anderweitig verfügt wird, so fallen sie dem sogenannten Kanzleifonds zu, einer
                     erst seit kurzem geschaffenen Casse, auf der gar keine bestimmte Verpflichtung
                     ruht, und die bis dahin lediglich zur außerordentlichen Anschaffung von Büchern

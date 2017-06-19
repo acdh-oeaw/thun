@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="ficker-julius" role="sender:gelehrter">Julius
-                        Ficker</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="ficker-julius" key="ficker-julius" role="sender:gelehrter">Julius
+                        Ficker</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</placeName>, <date when="1858-06-15">15. Juni 1858</date>
+                    <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs>, <date when="1858-06-15">15. Juni 1858</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -65,7 +64,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -81,24 +80,24 @@
                 <p>Eure Excellenz!</p>
                 <p>Von Eurer Excellenz in Deren gnädigem <ref target="thun/thun-korrespondenz/IfOeG/thun-an-ficker_1858-06-09_CA186.xml">Schreiben vom 9. dieses Monats</ref>
                     <note xml:id="note_1">Vgl. Leo Thun an Julius Ficker. Wien, 9. Juni 1858.</note>
-                    zu einer Äußerung über den <persName key="muys-gottfried">Dr. Muys</persName>
+                    zu einer Äußerung über den <rs type="person" ref="muys-gottfried" key="muys-gottfried">Dr. Muys</rs>
                     aufgefordert, sehe ich mich leider nicht im Stande, genügende Auskunft geben zu
                     können, nehme aber keinen Anstand, das Wenige, was ich hier weiß, mitzutheilen,
                     so sehr ich auch wünschen würde, in der Lage zu sein, entschiedener zu seinen
                     Gunsten sprechen zu können.<lb/>Die Voraussetzung Eurer Excellenz, daß ich bei
-                    früherer Gelegenheit den <persName key="muys-gottfried">Dr. Muys</persName>
+                    früherer Gelegenheit den <rs type="person" ref="muys-gottfried" key="muys-gottfried">Dr. Muys</rs>
                     empfohlen, dürfte unzweifelhaft auf einer Verwechselung des Empfohlenen oder des
                     Empfehlenden beruhen; ich bin einmal durch einen gemeinsamen Bekannten darum
                     angegangen, mochte aber bei nur oberflächlicher Bekanntschaft die
-                    Verantwortlichkeit nicht übernehmen.<lb/>Wir studirten gleichzeitig zu <orgName key="universitaet-bonn">Bonn</orgName> und <persName key="muys-gottfried">Muys</persName> galt damals für einen sehr fähigen und kenntnisreichen
+                    Verantwortlichkeit nicht übernehmen.<lb/>Wir studirten gleichzeitig zu <orgName key="universitaet-bonn">Bonn</orgName> und <rs type="person" ref="muys-gottfried" key="muys-gottfried">Muys</rs> galt damals für einen sehr fähigen und kenntnisreichen
                     Studirenden, von welchem Bedeutendes zu erwarten stehe. Eine sehr bedeutende
                     Gelehrsamkeit dürfte ihm in keinem Falle abzusprechen sein. Doch will ich Euer
                     Excellenz ganz offen schreiben, was mich etwa bedenklich gemacht hätte, ihn zu
-                    empfehlen. <persName key="muys-gottfried">Muys</persName> hat seine Thätigkeit
+                    empfehlen. <rs type="person" ref="muys-gottfried" key="muys-gottfried">Muys</rs> hat seine Thätigkeit
                     ganz vorzugsweise der Urgeschichte der alten Völker zugewandt, einem Felde, wo
                     der Boden so schwankend, daß der gründlichste Forscher Gefahr läuft, über der
                     fortwährenden Nöthigung zu Hypothesen greifen zu müssen, den Sinn für besonnene
-                    und methodische Forschung zu verlieren. Dazu kommt, daß <persName key="muys-gottfried">Muys</persName>, wie mir mehrfach gesagt wurde, wie
+                    und methodische Forschung zu verlieren. Dazu kommt, daß <rs type="person" ref="muys-gottfried" key="muys-gottfried">Muys</rs>, wie mir mehrfach gesagt wurde, wie
                     seine Arbeiten zeigen und auch in den Besprechungen derselben tadelnd bemerkt
                     wurde, eine überaus hohe Meinung von sich hat, welche ihn um so eher zu gewagten
                     Behauptungen und unbilliger Behandlung anderer verdienter Forscher treibt. Das
@@ -110,16 +109,16 @@
                     aufgefallen, daß bei den Vorschlägen über die Besetzung der katholischen
                     Geschichtsprofessur sein Name nie genannt wurde, obwohl, wie mir genauer bekannt
                     ist, die Facultät in Verlegenheit um vorzuschlagende Kandidaten war. Jedenfalls
-                    wird der Herr <persName key="aschbach-joseph">Prof. Aschbach</persName>, welcher
+                    wird der Herr <rs type="person" ref="aschbach-joseph" key="aschbach-joseph">Prof. Aschbach</rs>, welcher
                     ihn genauer kennt, über seine Tauglichkeit zum Lehrer in wissenschaftlicher
                     Beziehung ein ungleich sichereres Urtheil haben, als solche, welche lediglich
                     auf seine gedruckten Arbeiten hingewiesen sind.<lb/>Was die andern, ihm vom
                     Anonymus gemachten Vorwürfe betrifft, so weiß ich darüber nichts zu sagen. Es
                     tritt hier ein Umstand ein, welchen zu berühren ich lange zweifelhaft war, da
-                    ich mich sehr leicht irren kann, und dieser Irrthum ungünstig für <persName key="muys-gottfried">Muys</persName> sein könnte. Ich glaube nämlich, obwohl
+                    ich mich sehr leicht irren kann, und dieser Irrthum ungünstig für <rs type="person" ref="muys-gottfried" key="muys-gottfried">Muys</rs> sein könnte. Ich glaube nämlich, obwohl
                     ich über ein Hauptmoment, die Handschrift nämlich, ungewiß bin, den Anonymus zu
                     kennen. Ist meine Vermuthung richtig, so ist derselbe ein protestantischer
-                    Dozent eines ganz andern Faches, welcher in keiner Beziehung Rival des <persName key="muys-gottfried">Muys</persName> sein könnte. Ob etwa persönliche
+                    Dozent eines ganz andern Faches, welcher in keiner Beziehung Rival des <rs type="person" ref="muys-gottfried" key="muys-gottfried">Muys</rs> sein könnte. Ob etwa persönliche
                     Spannung bestehen möchte, weiß ich nicht; sollte es sein, so wäre ich überzeugt,
                     daß er doch schwerlich deßhalb zu solchen Mitteln greifen möchte. Auf die
                     Vermuthung, er dürfe der Schreiber sein, (welche sich mir durch mehrere
@@ -139,9 +138,9 @@
                     sich doch, daß ich durchaus nicht in der Lage bin, irgend ein bestimmteres
                     Urtheil für oder gegen abgeben zu können. Für diesen Fall deuteten Eure
                     Excellenz auf die Meinung zuverlässiger Gewährsmänner hin. Als solche möchte ich
-                    etwa vorzugsweise bezeichnen den <persName key="simrock-karl-joseph">Prof. Dr.
-                        Simrock</persName> und den <persName key="floss-joseph">Prof. Dr.
-                        Floss</persName> zu <orgName key="universitaet-bonn">Bonn</orgName>; beide
+                    etwa vorzugsweise bezeichnen den <rs type="person" ref="simrock-karl-joseph" key="simrock-karl-joseph">Prof. Dr.
+                        Simrock</rs> und den <rs type="person" ref="floss-joseph" key="floss-joseph">Prof. Dr.
+                        Floss</rs> zu <orgName key="universitaet-bonn">Bonn</orgName>; beide
                     sind Katholiken und werden gewiß, mit der trostlosen Lage katholischer
                     unbemittelter Docenten an preußischen Universitäten vertraut, nicht ohne die
                     besten Gründe etwas mittheilen, was der Berufung eines solchen schaden könnte;
@@ -164,7 +163,7 @@
                     Nothwendigkeit ohnehin an Eure Excellenz schreiben zu müssen, erschien mir als
                     ein Wink, meine Bedenken zu beseitigen.<lb/>Das letzte Heft der
                     Gymnasialzeitschrift enthielt eine Recension der Ausgabe des Protagoras des
-                        <persName key="wildauer-tobias">Dr. Wildauer</persName>
+                        <rs type="person" ref="wildauer-tobias" key="wildauer-tobias">Dr. Wildauer</rs>
                     <note xml:id="note_2">Vgl. Alfred Ludwig, Platon’s Protagoras. Mit Einleitung und Anmerkungen zum
                         Schul- und Privatgebrauch von Tobias Wildauer. Innsbruck 1857, in:
                         Zeitschrift für die österreichischen Gymnasien, Bd. 9, 1858, S.
@@ -173,13 +172,13 @@
                     Ausstellungen betrifft, so habe ich kein genügendes Urtheil darüber; ich hörte
                     nur einen vorzugsweise kompetenten Kollegen äußern, daß ihm auch dieser Theil
                     der Recension nicht billig scheine und weiß, daß namhafte Gelehrte, wie z.B.
-                        <persName key="thiersch-friedrich-wilhelm">Thiersch</persName> zu <orgName key="universitaet-muenchen">München</orgName>, sich sehr beifällig über die
+                        <rs type="person" ref="thiersch-friedrich-wilhelm" key="thiersch-friedrich-wilhelm">Thiersch</rs> zu <orgName key="universitaet-muenchen">München</orgName>, sich sehr beifällig über die
                     Arbeit äußerten. Über einen andern Theil der Besprechung, gerade den, über
                     welchen man hier entrüstet ist, dürften augenblicklich wenige in der Lage sein,
                     sich ein sichereres Urtheil bilden zu können, als es mir verschiedene Umstände
-                    gestatten. Es wird dem <persName key="wildauer-tobias">Dr. W[ildauer]</persName>
+                    gestatten. Es wird dem <rs type="person" ref="wildauer-tobias" key="wildauer-tobias">Dr. W[ildauer]</rs>
                     nämlich vorgeworfen, er habe von der früher erschienenen Arbeit eines Schülers
-                    des Herrn <persName key="bonitz-hermann">Prof. Bonitz</persName>, des <persName key="jahn-eduard">Dr. Jahn</persName>
+                    des Herrn <rs type="person" ref="bonitz-hermann" key="bonitz-hermann">Prof. Bonitz</rs>, des <rs type="person" ref="jahn-eduard" key="jahn-eduard">Dr. Jahn</rs>
                     <note xml:id="note_3">Vgl. Eduard Jahn
                         Platon’s Protagoras, Mit Einleitung und Anmerkungen, Wien 1857.</note>, den
                     wesentlichsten Nutzen gezogen, sei diesem seinem Vorgänger zum Danke
@@ -189,11 +188,11 @@
                     verschwiegenen Plagiats geziehen, was vielleicht nur seinen wissenschaftlichen
                     Ruf treffen würde, sondern einer absichtlichen Unredlichkeit, wodurch die
                     Ehrenhaftigkeit seines Charakters aufs bestimmteste in Abrede gestellt
-                    erscheinen muß. Bei der allgemeinen Achtung, deren sich der <persName key="wildauer-tobias">Dr. W[ildauer]</persName> gerade in dieser Beziehung
+                    erscheinen muß. Bei der allgemeinen Achtung, deren sich der <rs type="person" ref="wildauer-tobias" key="wildauer-tobias">Dr. W[ildauer]</rs> gerade in dieser Beziehung
                     hier erfreut, ist die Wirkung, welche der Angriff hier hervorbrachte, doppelt
                     begreiflich.<lb/>Sich gegen diesen Angriff auf dem Felde, wo er geschah, zu
-                    vertheidigen, dürfte Ehrenpflicht für <persName key="wildauer-tobias">Dr.
-                        W[ildauer]</persName> sein; und zufälligerweise stehen ihm die Mittel zur
+                    vertheidigen, dürfte Ehrenpflicht für <rs type="person" ref="wildauer-tobias" key="wildauer-tobias">Dr.
+                        W[ildauer]</rs> sein; und zufälligerweise stehen ihm die Mittel zur
                     schlagendsten Rechtfertigung so genügend zu Gebote, daß es mir ganz und gar
                     unbegreiflich ist, wie eine solche Behauptung gewagt werden konnte. Ich würde
                     auch nicht den mindesten Grund haben, die Sache hier zu erwähnen, wenn ich nicht
@@ -202,34 +201,34 @@
                     hingestellten Behauptung wird durch die genügendste spätere Rechtfertigung nicht
                     ganz verwischt werden können; es sind einige Momente da, welche für den
                     Augenblick jene Behauptung einigermaßen zu stützen scheinen; hat irgend Jemand
-                    ein Interesse daran, die Ernennung <persName key="wildauer-tobias">W[ildauer]'s</persName> zu hindern oder zu verzögern, so ist hier eine
+                    ein Interesse daran, die Ernennung <rs type="person" ref="wildauer-tobias" key="wildauer-tobias">W[ildauer]'s</rs> zu hindern oder zu verzögern, so ist hier eine
                     Handhabe geboten; und vielleicht gerade die Nothwendigkeit, sich gegen einen
                     durch nichts provocirten Angriff vertheidigen zu müssen, könnte ihm manche
                     abgeneigt machen, welche auf seine Zukunft einwirken könnten. Diese Umstände,
                     verbunden mit der Überzeugung, wie werthvoll für <orgName key="universitaet-innsbruck">unsere Universität</orgName> die Ernennung
-                        <persName key="wildauer-tobias">W[ildauer]'s</persName> sein würde, werden
+                        <rs type="person" ref="wildauer-tobias" key="wildauer-tobias">W[ildauer]'s</rs> sein würde, werden
                     es entschuldigen, wenn ich mich verpflichtet halte, mich an maßgebender Stelle
                     schon jetzt über den Vorfall zu äußern; ein Schritt, welcher mir nur deßhalb
                     peinlich ist, weil er als Anklage des Recensenten aufgefaßt werden könnte,
                     während er nur einen Kollegen gegen üble Folgen eines ganz unverschuldeten
                     Ereignisses zu schützen sucht.<lb/>Ich bin in der Lage aufs entschiedenste
-                    versichern zu können, daß der schwere gegen <persName key="wildauer-tobias">W[ildauer] </persName>erhobene Vorwurf durchaus ungerechtfertigt ist; ich
+                    versichern zu können, daß der schwere gegen <rs type="person" ref="wildauer-tobias" key="wildauer-tobias">W[ildauer] </rs>erhobene Vorwurf durchaus ungerechtfertigt ist; ich
                     bin bereit, diese Behauptung wo auch immer und gegen wen auch immer aufs
                     unumwundenste zu vertreten. Ich würde das wenigstens hier nicht so entschieden
                     auszusprechen wagen, wenn ich mich dabei nur auf meine subjective Überzeugung
-                    von der Ehrenhaftigkeit <persName key="wildauer-tobias">W[ildauer]'s</persName>
+                    von der Ehrenhaftigkeit <rs type="person" ref="wildauer-tobias" key="wildauer-tobias">W[ildauer]'s</rs>
                     stützen könnte; ich kann es deßhalb so unumwunden jedem gegenüber behaupten,
                     weil ich sehe, daß der vollständigste Beweis einer solchen Behauptung geführt
-                    werden kann. <persName key="wildauer-tobias">W[ildauer]</persName> besitzt noch
+                    werden kann. <rs type="person" ref="wildauer-tobias" key="wildauer-tobias">W[ildauer]</rs> besitzt noch
                     fast sämmtliche Vorarbeiten und Manuscripte. Das letzte derselben, welches
-                    später unmittelbar in die Druckerei gegeben wurde, hatte <persName key="schenach-georg">Prof. Schenach</persName> Eurer Excellenz schon einige
-                    Zeit vor dem Erscheinen der Arbeit von <persName key="jahn-eduard">Jahn</persName> übersandt. Als es gedruckt wurde, kannte <persName key="wildauer-tobias">W[ildauer]</persName>
-                    <persName key="jahn-eduard">Jahn’s</persName> Arbeit, welche inzwischen
+                    später unmittelbar in die Druckerei gegeben wurde, hatte <rs type="person" ref="schenach-georg" key="schenach-georg">Prof. Schenach</rs> Eurer Excellenz schon einige
+                    Zeit vor dem Erscheinen der Arbeit von <rs type="person" ref="jahn-eduard" key="jahn-eduard">Jahn</rs> übersandt. Als es gedruckt wurde, kannte <rs type="person" ref="wildauer-tobias" key="wildauer-tobias">W[ildauer]</rs>
+                    <rs type="person" ref="jahn-eduard" key="jahn-eduard">Jahn’s</rs> Arbeit, welche inzwischen
                     erschienen, eine Kenntnis, welche sich auch z.B. darin zeigt, daß er in seinen
-                    Anmerkungen einige ihm irrig scheinende Angaben <persName key="jahn-eduard">Jahns</persName> stillschweigend widerlegt. Absichtlich jedoch vermied er
-                    es, sich von <persName key="jahn-eduard">Jahns</persName> Arbeiten irgend etwas
+                    Anmerkungen einige ihm irrig scheinende Angaben <rs type="person" ref="jahn-eduard" key="jahn-eduard">Jahns</rs> stillschweigend widerlegt. Absichtlich jedoch vermied er
+                    es, sich von <rs type="person" ref="jahn-eduard" key="jahn-eduard">Jahns</rs> Arbeiten irgend etwas
                     anzueignen, was ihn hätte zu einer dankbaren Erwähnung verpflichten können;
-                    hätte er <persName key="jahn-eduard">Jahn</persName> nennen wollen, so hätte er
+                    hätte er <rs type="person" ref="jahn-eduard" key="jahn-eduard">Jahn</rs> nennen wollen, so hätte er
                     die Drucklegung seiner Schrift insbesondere durch die Hervorhebung der Mängel
                     jener andern begründen müssen; ich selbst konnte ihm damals nur rathen, einem
                     solchen Tadel durch Nichtnennung auszuweichen. Um trotzdem die Selbstständigkeit
@@ -241,40 +240,40 @@
                     schützen würde, wenn nicht die überzeugendsten Beweise, was nicht möglich,
                     beigebracht werden könnten. Darin haben wir uns getäuscht.<lb/>Allerdings gibt
                     der Umstand, daß das vollendete Manuscript schon früher in
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> war, noch keinen Beweis, daß es nicht später
-                    nach <persName key="jahn-eduard">Jahn</persName> geändert sei. Für mich und
-                    andere Freunde <persName key="wildauer-tobias">W[ildauer]'s </persName>konnte
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> war, noch keinen Beweis, daß es nicht später
+                    nach <rs type="person" ref="jahn-eduard" key="jahn-eduard">Jahn</rs> geändert sei. Für mich und
+                    andere Freunde <rs type="person" ref="wildauer-tobias" key="wildauer-tobias">W[ildauer]'s </rs>konnte
                     allerdings seine Versicherung, daß das nicht der Fall gewesen sei, vollkommen
                     genügen. Es lag uns aber daran, uns zu vergewissern, daß es auch möglich sein
                     werde, einen jeden Dritten zu überzeugen, und uns dadurch zugleich in den Stand
                     zu setzen, eine bestimmte Erklärung für ihn abgeben zu können. Für diesen Zweck
-                    sind die ursprünglichen Manuscripte <persName key="wildauer-tobias">W[ildauer]'s</persName>, von welchen wir wissen, daß sie vor dem Erscheinen
-                    der Arbeit <persName key="jahn-eduard">Jahns</persName> vorhanden waren, mit
-                    dieser und dem Abdrucke der Arbeit <persName key="wildauer-tobias">W[ildauer]'s</persName> genau verglichen, mit besonderer Beachtung aller
+                    sind die ursprünglichen Manuscripte <rs type="person" ref="wildauer-tobias" key="wildauer-tobias">W[ildauer]'s</rs>, von welchen wir wissen, daß sie vor dem Erscheinen
+                    der Arbeit <rs type="person" ref="jahn-eduard" key="jahn-eduard">Jahns</rs> vorhanden waren, mit
+                    dieser und dem Abdrucke der Arbeit <rs type="person" ref="wildauer-tobias" key="wildauer-tobias">W[ildauer]'s</rs> genau verglichen, mit besonderer Beachtung aller
                     Stellen, welche in den Manuscripten als Zusätze erscheinen, nirgends hat sich
                     etwas gefunden, was die Behauptungen des Recensenten rechtfertigen könnte, da es
                     natürlich, was auch der ganze Ton der Recension nicht gestattet, lächerlich
-                    wäre, anzunehmen, derselbe wolle seine Vorwürfe darauf gründen, daß <persName key="wildauer-tobias">W[ildauer]</persName>
-                    <persName key="jahn-eduard">Jahns</persName> Buch gekannt habe. Ja noch mehr; es
-                    wurde zu diesen Vergleichungen die etwas später als <persName key="wildauer-tobias">W[ildauer]'s</persName> Arbeit herausgegebene Ausgabe
-                    des Protagoras von einem bewährten Gelehrten, dem <persName key="sauppe-hermann">Prof. Sauppe</persName>
+                    wäre, anzunehmen, derselbe wolle seine Vorwürfe darauf gründen, daß <rs type="person" ref="wildauer-tobias" key="wildauer-tobias">W[ildauer]</rs>
+                    <rs type="person" ref="jahn-eduard" key="jahn-eduard">Jahns</rs> Buch gekannt habe. Ja noch mehr; es
+                    wurde zu diesen Vergleichungen die etwas später als <rs type="person" ref="wildauer-tobias" key="wildauer-tobias">W[ildauer]'s</rs> Arbeit herausgegebene Ausgabe
+                    des Protagoras von einem bewährten Gelehrten, dem <rs type="person" ref="sauppe-hermann" key="sauppe-hermann">Prof. Sauppe</rs>
                     <note xml:id="note_4">Hermann Sauppe, Platon's
                         Protagoras, Leipzig 1857.</note>, hinzugezogen; und zu unserer Überraschung
-                    ergab sich das auch sonst für <persName key="wildauer-tobias">W[ildauer]'s</persName> Arbeit gewiß nicht ungünstige Resultat, daß, obwohl
-                    bei den Arbeiten von <persName key="sauppe-hermann">Sauppe</persName> und
-                        <persName key="wildauer-tobias">Wildauer</persName> eine gegenseitige
+                    ergab sich das auch sonst für <rs type="person" ref="wildauer-tobias" key="wildauer-tobias">W[ildauer]'s</rs> Arbeit gewiß nicht ungünstige Resultat, daß, obwohl
+                    bei den Arbeiten von <rs type="person" ref="sauppe-hermann" key="sauppe-hermann">Sauppe</rs> und
+                        <rs type="person" ref="wildauer-tobias" key="wildauer-tobias">Wildauer</rs> eine gegenseitige
                     Benützung gar nicht möglich war, beide in den wichtigsten Punkten eine wirklich
                     auffallende Übereinstimmung zeigen, so daß dagegen die Verwandtschaft der
-                    Arbeiten <persName key="jahn-eduard">Jahns</persName> und <persName key="wildauer-tobias">Wildauers</persName>, wie sie hie und da derselbe
+                    Arbeiten <rs type="person" ref="jahn-eduard" key="jahn-eduard">Jahns</rs> und <rs type="person" ref="wildauer-tobias" key="wildauer-tobias">Wildauers</rs>, wie sie hie und da derselbe
                     Gegenstand, derselbe Zweck, die Benützung derselben Hülfsmittel herbeiführen
                     mußte, ganz zurücktritt, sodaß es uns immer unbegreiflicher erschien, wie ein
                     Recensent hoffen konnte, den Vorwurf des Plagiats irgendwie begründen zu können.
-                    <lb/>Leicht könnte ich noch weitere Belege zur Rechtfertigung <persName key="wildauer-tobias">W[ildauer]'s</persName> hinzufügen, wenn ich diese
+                    <lb/>Leicht könnte ich noch weitere Belege zur Rechtfertigung <rs type="person" ref="wildauer-tobias" key="wildauer-tobias">W[ildauer]'s</rs> hinzufügen, wenn ich diese
                     peinlichen Mittheilungen nicht möglichst auf das beschränken möchte, was für den
                     einzigen Zweck derselben genügen dürfte. Dieser Zweck ist lediglich, Eure
                     Excellenz ganz gehorsamst zu bitten, doch keinerlei Gewicht darauf zu legen,
-                    wenn diese Vorwürfe etwa gegen eine Ernennung <persName key="wildauer-tobias">W[ildauer]'s</persName> geltend gemacht werden sollten. Es würde weder in
-                    meinem Wunsche noch vielleicht im Interesse <persName key="wildauer-tobias">W[ildauer]'s</persName> liegen, wenn Eure Excellenz davon irgend andern
+                    wenn diese Vorwürfe etwa gegen eine Ernennung <rs type="person" ref="wildauer-tobias" key="wildauer-tobias">W[ildauer]'s</rs> geltend gemacht werden sollten. Es würde weder in
+                    meinem Wunsche noch vielleicht im Interesse <rs type="person" ref="wildauer-tobias" key="wildauer-tobias">W[ildauer]'s</rs> liegen, wenn Eure Excellenz davon irgend andern
                     Gebrauch machen wollten; sollten aber aus irgend welchem Grunde Eure Excellenz
                     geneigt sein, weitere Erkundigungen einzuziehen, so füge ich ausdrücklich hinzu,
                     daß ich keinerlei Interesse habe, ungenannt zu bleiben, daß ich jederzeit bereit
@@ -282,10 +281,10 @@
                     Dritten gegenüber zu vertreten; nur unter dieser Voraussetzung glaube ich es vor
                     mir selbst verantworten zu können, derartige Mittheilungen, welche Dritten
                     schaden könnten, an Eure Excellenz zu richten.<lb/>In wie weit Eure Excellenz
-                    überhaupt geneigt sein dürften, eine Ernennung des <persName key="wildauer-tobias">Dr. Wildauer</persName> zu beantragen, kann ich
+                    überhaupt geneigt sein dürften, eine Ernennung des <rs type="person" ref="wildauer-tobias" key="wildauer-tobias">Dr. Wildauer</rs> zu beantragen, kann ich
                     freilich nicht beurtheilen. Sollten Hochdieselben überhaupt dazu entschlossen
                     sein, so glaube ich vielleicht andeuten zu dürfen, daß eine möglichst baldige
-                    Erledigung im Interesse <persName key="wildauer-tobias">W[ildauer]'s</persName>,
+                    Erledigung im Interesse <rs type="person" ref="wildauer-tobias" key="wildauer-tobias">W[ildauer]'s</rs>,
                     wie der Fakultät, sehr zu wünschen wäre. Das Provisorium hat etwas
                     außerordentlich Drückendes für ihn, lähmt ihn in seinen Bestrebungen; anfangs
                     mit Lust und Liebe seinem Berufe hingegeben, wird ihm derselbe jetzt fortwährend
@@ -306,8 +305,8 @@
                     die Gefahr hin, mir den Schein unberufener Einmischung zuzuziehen, ein Wort zu
                     seinen Gunsten glaubte sprechen zu dürfen.<lb/>Schließlich glaube ich es mir
                     gewiß zugleich im Namen aller derjenigen, welche hier Gelegenheit hatten, die
-                    trefflichen kollegialen Eigenschaften des <persName key="schenkl-karl">Prof. Dr.
-                        Schenkl</persName> und die große Sorge, welche er der Ausbildung der
+                    trefflichen kollegialen Eigenschaften des <rs type="person" ref="schenkl-karl" key="schenkl-karl">Prof. Dr.
+                        Schenkl</rs> und die große Sorge, welche er der Ausbildung der
                     Studirenden zuwendet, kennen zu lernen, mir erlauben zu dürfen, Euer Excellenz
                     den aufrichtigsten Dank für diese abermalige, durch seine Ernennung unserer
                     Hochschule erwiesene Fürsorge ganz ehrfurchtsvoll auszusprechen.<lb/>Mit größter

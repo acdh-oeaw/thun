@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="schulte-friedrich" role="recipient:gelehrter">Friedrich
-                        Schulte</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="schulte-friedrich" key="schulte-friedrich" role="recipient:gelehrter">Friedrich
+                        Schulte</rs>
                     <lb/>
-                    <placeName ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</placeName>, <date when="1856-09-29">29. September [1856]</date>
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, <date when="1856-09-29">29. September [1856]</date>
                     <note xml:id="note_1">Die Datierung auf das Jahr
                         1856 erfolgt auf Grund einer Bleistiftnotiz auf dem Blatt. Die Ehegesetze
                         wurden am 8. Oktober 1856 vom Kaiser bewilligt. Vgl. <ref target="http://alex.onb.ac.at/cgi-content/alex?apm=0&amp;aid=rgb&amp;datum=18560004&amp;seite=00000605&amp;size=45">RGBl 185/1856</ref>.</note>
@@ -34,7 +33,7 @@
                 </p>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

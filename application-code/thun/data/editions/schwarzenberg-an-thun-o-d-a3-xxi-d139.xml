@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="schwarzenberg-friedrich" role="sender:kleriker">Friedrich
-                        Schwarzenberg</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="schwarzenberg-friedrich" key="schwarzenberg-friedrich" role="sender:kleriker">Friedrich
+                        Schwarzenberg</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>[ohne Ort und Datum]<note xml:id="note_1">Im Nachlass ist der Brief dem Jahr 1851 zugeordnet. Dieses
                         Jahr und Schwarzenberg als Absender sind mit Bleistift auf der Innenseite
                         des Briefes notiert.</note>
@@ -32,7 +31,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="ketteler-wilhelm-emanuel" role="sender:kleriker">Wilhelm
-                        Emmanuel Ketteler</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="ketteler-wilhelm-emanuel" key="ketteler-wilhelm-emanuel" role="sender:kleriker">Wilhelm
+                        Emmanuel Ketteler</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_3496da6c1db0a5223edb1fb4c415a154">Mainz</placeName>, <date when="1860-01-17">17. Januar 1860</date>
+                    <rs type="place" subtype="place" ref="#place_3496da6c1db0a5223edb1fb4c415a154">Mainz</rs>, <date when="1860-01-17">17. Januar 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -33,7 +32,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -60,7 +59,7 @@
                     mit der Fülle ihrer göttlichen Kraft in den Kampf einzutreten. Der Gedanke
                     beherrscht mich ganz, wie viel in der Kirche und durch sie geschehen könnte,
                     wenn alle Mittel, die Gott uns in ihr geboten hat, gut benützt
-                    würden.<lb/>Dürfte ich bitten mich gelegentlich Ihren Bruder <persName key="thun-hohenstein-friedrich">Fritz</persName> recht angelegentlich zu
+                    würden.<lb/>Dürfte ich bitten mich gelegentlich Ihren Bruder <rs type="person" ref="thun-hohenstein-friedrich" key="thun-hohenstein-friedrich">Fritz</rs> recht angelegentlich zu
                     empfehlen.<lb/>Ich verharre mit ganz besonderem Gehorsam</p>
                 <p>Eurer Excellenz</p>
                 <p>ganz ergebenster<lb/>Wilhelm Emmanuel</p>

@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="malinowski-michael" role="sender:kleriker">Michael
-                        Malinowski</persName> an einen unbekannten
+                    <rs type="person" ref="malinowski-michael" key="malinowski-michael" role="sender:kleriker">Michael
+                        Malinowski</rs> an einen unbekannten
                         Empfänger<lb/>
-                    <placeName ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</placeName>, <date when="1860-10-06">6.
+                    <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs>, <date when="1860-10-06">6.
                         Oktober 1860</date>
                 </title>
             </titleStmt>
@@ -40,7 +39,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -53,16 +52,16 @@
                 </index>
                 <p>Hochverehrter Herr!</p>
                 <p>Ich kann nicht umhin, Ihnen zu berichten, daß die letzte Rede Seiner Exzellenz
-                    des <persName key="thun-hohenstein-leo">Herrn Cultus- und
-                        Unterrichtsministers</persName> auf die Ruthenen einen gewaltigen und
+                    des <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Herrn Cultus- und
+                        Unterrichtsministers</rs> auf die Ruthenen einen gewaltigen und
                     freudigen Eindruck gemacht hat. Seine Exzellenz hat sich unser warm angenommen
                     und unsere sprachlichn und kirchlichen Angelegenheiten sehr beredet und mit
                     tiefer Sachkenntnis gegen die ungerechten Übergriffe der Polen verfochten. Dank
                     Seiner Exzellenz, ein um so innigerer Dank, als unser ruthenischer Reichsrath
-                        <persName key="polanski-theodor">Polański</persName>, Privatbevollmächtigter
-                    des Herrn <persName key="goluchowski-agenor">Ministers des Innern</persName>,
+                        <rs type="person" ref="polanski-theodor" key="polanski-theodor">Polański</rs>, Privatbevollmächtigter
+                    des Herrn <rs type="person" ref="goluchowski-agenor" key="goluchowski-agenor">Ministers des Innern</rs>,
                     aus Rücksicht für ihn und auf seine Advokatur gegenüber den Polen die Sache
-                    seiner Nation und auch den guten Namen seines Bruders, des ernannten <persName key="polanski-tomasz">Przemysler Bischofes</persName>, verrathen hat. Seine
+                    seiner Nation und auch den guten Namen seines Bruders, des ernannten <rs type="person" ref="polanski-tomasz" key="polanski-tomasz">Przemysler Bischofes</rs>, verrathen hat. Seine
                     Wahl zum Vertreter der Ruthenen im Reichsrathe war eine wohlberechnete, um der
                     polnischen Sache zu nützen und dabei die ruthenische zurückzudrängen. Die
                     Ruthenen haben von ihm nichts Gutes erwartet. Während nun dieser den Ruthenen
@@ -71,8 +70,8 @@
                     Reichsrathverhandlungen die trostvolle Rede Seiner Exzellenz, die wie der Blitz
                     unter den Ruthenen vom Munde zu Munde geht. Sie trauen ihren Augen nicht und
                     doch ist es kein Trugbild, es ist Wirklichkeit, es ist Wahrheit. So möge denn
-                    die allwaltende Vorsehung <persName key="thun-hohenstein-leo">Seiner
-                        Exzellenz</persName> die uns erwiesene Gnade reichhaltig lohnen und
+                    die allwaltende Vorsehung <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Seiner
+                        Exzellenz</rs> die uns erwiesene Gnade reichhaltig lohnen und
                     vergelten! Ja, die edle slavisch-čechische Nation hat Mitleid mit der
                     slavisch-ruthenischen, während die slavisch-polnische Nation an derselben im
                     Angesichte der von Seiner Majestät feierlich ausgesprochenen Gleichberechtigung
@@ -89,11 +88,11 @@
                     Recht die ruthenische Sprache, den griechisch-katholischen slavischen Ritus der
                     Ruthenen und die ruthenische Nationalität zu Recht bestehen lassen, ohne sich
                     jedoch im Übermuthe daran zu kehren. Weg mit einem solchen Rechte! Wenn Seine
-                    Exzellenz in <placeName ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</placeName> ein Gymnasium für die ruthenische
+                    Exzellenz in <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs> ein Gymnasium für die ruthenische
                     und ein Gymnasium für die polnische Nationalität herrichten will, so ist dieses
                     nur billig, wird den Polen den Rechtssinn beibringen und die Ruthenen können
                     gegenwärtig Gymnasiallehrer hergeben. Nur wollen sie in diese Angelegenheit den
-                        <persName key="czerkawski-eusebius">Inspektor Czerkawski</persName> nicht
+                        <rs type="person" ref="czerkawski-eusebius" key="czerkawski-eusebius">Inspektor Czerkawski</rs> nicht
                     eingreifen sehen, welcher, wenn auch ein Ruthene, in seiner Niederträchtigkeit
                     die beste Sache verderben würde und welcher unter den Ruthenen alle Achtung
                     eingebüßt hat, da er ein Mann ist, welcher wähnt, daß die Geschicke Galiziens,

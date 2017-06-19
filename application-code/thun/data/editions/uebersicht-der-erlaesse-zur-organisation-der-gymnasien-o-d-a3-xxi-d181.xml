@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Übersicht der Erlässe zur Organisation der Gymnasien in Lombardo-Venetien von
-                        <persName key="mozart-joseph" role="sender:beamter">Joseph
-                    Mozart</persName>
+                        <rs type="person" ref="mozart-joseph" key="mozart-joseph" role="sender:beamter">Joseph
+                    Mozart</rs>
                     <lb/>o. O., o. D. [1852]<note xml:id="note_1">Das Dokument ist
                         im Nachlass in das Jahr 1852 datiert.</note>
                 </title>
@@ -52,7 +51,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -91,7 +90,7 @@
                         vorbehalten und wäre mit den einberufenen Herrn Professoren zu
                         besprechen.</hi>
                 </p>
-                <p>Erhöhung der Gehalte. In <country ref="#place_389962c9dec540ab28d04517e82c3996">Italien</country> sind die Gymnasiallehrer
+                <p>Erhöhung der Gehalte. In <rs type="place" subtype="country" ref="#place_389962c9dec540ab28d04517e82c3996">Italien</rs> sind die Gymnasiallehrer
                     schlechter besoldet als in anderen Kronländern und bisher haben sie nicht die
                     Zulage (von 200 fl) erhalten.<lb/>Eine allgemeine Erhöhung dieser Besoldung,
                     gleich jetzt, wäre nicht zu beantragen, wohl aber muß die allerhöchste
@@ -103,7 +102,7 @@
                         betreffende alleruntertänigste Vortrag wird vorbereitet.</hi>
                 </p>
                 <p>Einführung des Schulgeldes nach dem Antrag der Commission in
-                        <placeName ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</placeName> zu einem sehr niedrigen Maßstab (3 und resp. 6
+                        <rs type="place" subtype="place" ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</rs> zu einem sehr niedrigen Maßstab (3 und resp. 6
                         fl)<lb/>
                     <hi rend="italic">Wird vorbereitet; der Modus der Einführung ist mit
                         den Professoren zu besprechen.</hi>
@@ -154,8 +153,8 @@
                         hinausgegeben.<lb/>
                     <hi rend="italic">Inliegender Erlaß 9330</hi>
                 </p>
-                <p>Es wurden Oberrealschulen in <placeName ref="#place_ab21db0a2aa2e84be73932be6063b033">Mailand</placeName> und
-                        <placeName ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</placeName> (je eine) constituirt und der betreffende
+                <p>Es wurden Oberrealschulen in <rs type="place" subtype="place" ref="#place_ab21db0a2aa2e84be73932be6063b033">Mailand</rs> und
+                        <rs type="place" subtype="place" ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</rs> (je eine) constituirt und der betreffende
                     Lehrplan hinausgegeben.<lb/>
                     <hi rend="italic">Erlässe 9005, 9369</hi>
                 </p>
@@ -175,7 +174,7 @@
                     letzte Absatz hinsichtlich der Schulbehörde kann allenfalls auch
                     wegbleiben.<lb/>Hinsichtlich des <hi rend="ul">Standes</hi> der Lehrer (zwölf in
                     jedem Obergymnasium) muß aber dem Statthalter schleunig die begehrte Auskunft
-                    ertheilt werden.)<lb/>Erlaß 10313<lb/>(nur noch <placeName ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</placeName>,
+                    ertheilt werden.)<lb/>Erlaß 10313<lb/>(nur noch <rs type="place" subtype="place" ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</rs>,
                     daß keine definitive Anstellung vorzunehmen und daß der Lehrkörper aus 12 zu
                     bestehen habe)&gt;<note xml:id="note_2">Anmerkung Thuns.</note>
                 </p>
@@ -184,67 +183,67 @@
                 <p>Statistische Übersicht</p>
                 <p>Lyceen (mit Inbegriff der philosophischen Studien an den zwei Universitäten)</p>
                 <p>
-                    <region key="lombardei" ref="#place_5bde0d174594bcea5b83287afba0850a">Lombardie</region>
+                    <rs type="place" subtype="region" key="lombardei" ref="#place_5bde0d174594bcea5b83287afba0850a">Lombardie</rs>
                     <lb/>Neun, nämlich in
-                        <placeName ref="#place_ab21db0a2aa2e84be73932be6063b033">Mailand</placeName> 2<lb/>
-                    <placeName ref="#place_3a8f916e8f8560773ac9b8eb6349b1c4">Bergamo</placeName>
+                        <rs type="place" subtype="place" ref="#place_ab21db0a2aa2e84be73932be6063b033">Mailand</rs> 2<lb/>
+                    <rs type="place" subtype="place" ref="#place_3a8f916e8f8560773ac9b8eb6349b1c4">Bergamo</rs>
                         1<lb/>
-                    <placeName ref="#place_0c3c889cb60322b10d890d76a05f816e">Brescia</placeName> 1<lb/>
-                    <placeName ref="#place_b2114cc02aeee3cd3f80a773ca6597de">Como</placeName>
+                    <rs type="place" subtype="place" ref="#place_0c3c889cb60322b10d890d76a05f816e">Brescia</rs> 1<lb/>
+                    <rs type="place" subtype="place" ref="#place_b2114cc02aeee3cd3f80a773ca6597de">Como</rs>
                         1<lb/>
-                    <placeName ref="#place_9a677a8fef077d847cc1d6d558b8630f">Cremona</placeName> 1<lb/>
-                    <placeName ref="#place_47329edbd3ec4019aa3974397d4623ba">Lodi</placeName> 1
+                    <rs type="place" subtype="place" ref="#place_9a677a8fef077d847cc1d6d558b8630f">Cremona</rs> 1<lb/>
+                    <rs type="place" subtype="place" ref="#place_47329edbd3ec4019aa3974397d4623ba">Lodi</rs> 1
                         (comunal)<lb/>
-                    <placeName ref="#place_986f51a7ad3bed298456ad48d484ebc2">Mantua</placeName>
+                    <rs type="place" subtype="place" ref="#place_986f51a7ad3bed298456ad48d484ebc2">Mantua</rs>
                         1<lb/>
-                    <placeName ref="#place_180ab0761158b959facf0feae6115c4e">Pavia</placeName> 1</p>
+                    <rs type="place" subtype="place" ref="#place_180ab0761158b959facf0feae6115c4e">Pavia</rs> 1</p>
                 <p>
-                    <region key="venetien" ref="#place_618a4d3d3a7697f1c650f2eb8cc8f11a">Venetianisches</region>
+                    <rs type="place" subtype="region" key="venetien" ref="#place_618a4d3d3a7697f1c650f2eb8cc8f11a">Venetianisches</rs>
                     <lb/>Fünf, nämlich in
-                        <placeName ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</placeName> 1<lb/>
-                    <placeName ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</placeName>
+                        <rs type="place" subtype="place" ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</rs> 1<lb/>
+                    <rs type="place" subtype="place" ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</rs>
                         1<lb/>
-                    <placeName ref="#place_48a09f4956b196a2489d69e3c117000d">Padua</placeName> 1<lb/>
-                    <placeName ref="#place_dac186e2dba9b984d81d8a5748d29288">Vicenza</placeName>
+                    <rs type="place" subtype="place" ref="#place_48a09f4956b196a2489d69e3c117000d">Padua</rs> 1<lb/>
+                    <rs type="place" subtype="place" ref="#place_dac186e2dba9b984d81d8a5748d29288">Vicenza</rs>
                         1<lb/>
-                    <placeName ref="#place_eb87d3206befc77a1c742bcbae44ef0a">Udine</placeName> 1 &lt;nicht
-                        <placeName ref="#place_0d358dde73109d9ac1393f0c5ebce864">Belluno</placeName>, <placeName ref="#place_9fa41ec12d99720833b10d3a9ab6a5cb">Treviso</placeName>,
-                        <placeName ref="#place_7d1865c03241bd7a6616fa5587af6f8b">Rovigo</placeName>&gt;<note xml:id="note_3">Anmerkung Thuns mit
+                    <rs type="place" subtype="place" ref="#place_eb87d3206befc77a1c742bcbae44ef0a">Udine</rs> 1 &lt;nicht
+                        <rs type="place" subtype="place" ref="#place_0d358dde73109d9ac1393f0c5ebce864">Belluno</rs>, <rs type="place" subtype="place" ref="#place_9fa41ec12d99720833b10d3a9ab6a5cb">Treviso</rs>,
+                        <rs type="place" subtype="place" ref="#place_7d1865c03241bd7a6616fa5587af6f8b">Rovigo</rs>&gt;<note xml:id="note_3">Anmerkung Thuns mit
                         Bleistift.</note>
                 </p>
-                <p>Daher in der <country key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">Lombardie und im
-                        Venetianischen</country>
+                <p>Daher in der <rs type="place" subtype="country" key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">Lombardie und im
+                        Venetianischen</rs>
                     <hi rend="ul">vierzehn</hi> Lyceen und zwar 13 Staatslyceen, 1 Gemeindelyceum
-                        (<placeName ref="#place_47329edbd3ec4019aa3974397d4623ba">Lodi</placeName>)</p>
+                        (<rs type="place" subtype="place" ref="#place_47329edbd3ec4019aa3974397d4623ba">Lodi</rs>)</p>
                 <p>Gymnasien</p>
                 <p>
-                    <region key="lombardei" ref="#place_5bde0d174594bcea5b83287afba0850a">Lombardie</region>
+                    <rs type="place" subtype="region" key="lombardei" ref="#place_5bde0d174594bcea5b83287afba0850a">Lombardie</rs>
                     <lb/>10 Staatsgymnasien<lb/>9
                     Comunalgymnasien<lb/>9 bischöfliche Gymnasien<lb/>11 Convicte und
                     Privatgymnasien</p>
                 <p>39 Gymnasien</p>
                 <p>
-                    <region key="venetien" ref="#place_618a4d3d3a7697f1c650f2eb8cc8f11a">Venetianisches</region>
+                    <rs type="place" subtype="region" key="venetien" ref="#place_618a4d3d3a7697f1c650f2eb8cc8f11a">Venetianisches</rs>
                     <lb/>4 Staatsgymnasien<lb/>4
                     Comunalgymnasien<lb/>13 bischöfliche Gymnasien<lb/>3 Privatgymnasien</p>
                 <p>24 Gymnasien</p>
                 <p>
-                    <country key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">Lombardie und Venetianisches</country> zählen
+                    <rs type="place" subtype="country" key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">Lombardie und Venetianisches</rs> zählen
                     zusammen<lb/>63 Gymnasien<lb/>14 Lyceen</p>
                 <p>77 Mittelschulen als Vorbereitung zur Universität</p>
-                <p>Zahl der Schüler <region key="lombardei" ref="#place_5bde0d174594bcea5b83287afba0850a">Lombardie</region> 1700<lb/>
-                    <region key="venetien" ref="#place_618a4d3d3a7697f1c650f2eb8cc8f11a">Venetianisches</region> 712</p>
-                <p>in den <country key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardischen und
-                        venetianischen</country> Lyceen 2412</p>
-                <p>in den <region key="lombardei" ref="#place_5bde0d174594bcea5b83287afba0850a">lombardischen</region> Staatsgymnasien
+                <p>Zahl der Schüler <rs type="place" subtype="region" key="lombardei" ref="#place_5bde0d174594bcea5b83287afba0850a">Lombardie</rs> 1700<lb/>
+                    <rs type="place" subtype="region" key="venetien" ref="#place_618a4d3d3a7697f1c650f2eb8cc8f11a">Venetianisches</rs> 712</p>
+                <p>in den <rs type="place" subtype="country" key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardischen und
+                        venetianischen</rs> Lyceen 2412</p>
+                <p>in den <rs type="place" subtype="region" key="lombardei" ref="#place_5bde0d174594bcea5b83287afba0850a">lombardischen</rs> Staatsgymnasien
                     4418<lb/>Comunalgymnasien 1764<lb/>Bischöflichen 1205<lb/>Convicte und
                     Privatgymnasien 1113</p>
                 <p>8500</p>
                 <p>
-                    <region key="venetien" ref="#place_618a4d3d3a7697f1c650f2eb8cc8f11a">Venetianische</region> Staatsgymnasien
+                    <rs type="place" subtype="region" key="venetien" ref="#place_618a4d3d3a7697f1c650f2eb8cc8f11a">Venetianische</rs> Staatsgymnasien
                     867<lb/>Comunalgymnasien 955<lb/>Bischöfliche 2132<lb/>Privat 172</p>
                 <p>4126</p>
-                <p>In den <country key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venetianischen</country>
+                <p>In den <rs type="place" subtype="country" key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venetianischen</rs>
                     Lyceen <hi rend="ul">und</hi> Gymnasien 15.038</p>
                 <p>J. Mozart</p>
             </div>

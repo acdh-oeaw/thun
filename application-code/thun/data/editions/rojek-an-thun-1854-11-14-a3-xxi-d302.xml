@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="rojek-johann" role="sender:kleriker">Johann Karl
-                        Rojek</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="rojek-johann" key="rojek-johann" role="sender:kleriker">Johann Karl
+                        Rojek</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>o. O., <date when="1854-11-14">14. November
                     1854</date>
                 </title>
@@ -57,7 +56,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -100,9 +99,9 @@
                         des Briefes fehlt.</note>
                 </p>
                 <div type="enclosure" xml:id="D302_1">
-                    <p>Vyznání<lb/>církevní a politické<lb/>kněze <persName key="rojek-johann">Ivana
-                            Karla Rojek</persName>-a<lb/>děkana v <placeName key="nove-mesto-nad-metuji" ref="#place_a1b04553dc86d0fc4d6c9f925b3181f5">Novém Městě nad
-                        Metují</placeName>
+                    <p>Vyznání<lb/>církevní a politické<lb/>kněze <rs type="person" ref="rojek-johann" key="rojek-johann">Ivana
+                            Karla Rojek</rs>-a<lb/>děkana v <rs type="place" subtype="place" key="nove-mesto-nad-metuji" ref="#place_a1b04553dc86d0fc4d6c9f925b3181f5">Novém Městě nad
+                        Metují</rs>
                         <lb/>vyslovené řečí chrámovní<lb/>dne <date when="1854-10-29">29. října 1854</date>
                     </p>
                     <p>V Kristu Ježíši, Pánu našem, shromáždění!</p>
@@ -246,7 +245,7 @@
                         jeho na víru Kristovu byl obrácen. – Za toto blahodárné působení nazval jej
                         svatý Otec, papež Římský: <hi rend="ul">králem apoštolským</hi>. – Tohoto
                         titule užívali i posloupní králové uherští. – Jeho Milost císař a král náš
-                            <persName key="franz-joseph">František Josef I.</persName> však
+                            <rs type="person" ref="franz-joseph" key="franz-joseph">František Josef I.</rs> však
                         ustanovil se na tom a nařídil, aby jemu titul dán a psán byl: <hi rend="ul">Císař apoštolský</hi>, – <hi rend="ul">císařské královské apoštolské
                             Veličenstvo</hi>; patrně všemu lidu a zvláště svým národům najevo
                         dávaje, že i on chce být císařem apoštolským. – <hi rend="ul">Apoštolem</hi>
@@ -309,7 +308,7 @@
                         rakouských vložiti vůli silnou, by dávali Bohu co jest Božího, – a proto
                         také císaři co jest císařovo, - a tudíž by dle slov sv. Pavla: <hi rend="ul">odřeknouce se bezbožnosti a světských žádostí – střízlivě a spravedlivě
                             a pobožně živi byli na tomto světě?</hi> – Tit. 2.<lb/>V zemi
-                        francouzské žil král <persName key="ludwig-XVI">Ludvík XVI.</persName> –
+                        francouzské žil král <rs type="person" ref="ludwig-XVI" key="ludwig-XVI">Ludvík XVI.</rs> –
                         Bylť to kníže slouže Bohu nejvroucnější nábožností; – v povinnostech svých
                         královských osvědčoval nejvyšší svědomitost; – celé dychtění a smýšlení jeho
                         směřovalo toliko k blahu poddaných, k provedení spravedlnosti, udržení řádu

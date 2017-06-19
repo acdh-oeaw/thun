@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="moy-de-sons-ernst" role="sender:gelehrter">Ernst Moy de
-                        Sons</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="moy-de-sons-ernst" key="moy-de-sons-ernst" role="sender:gelehrter">Ernst Moy de
+                        Sons</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</placeName>, <date when="1853-07-21">21. Juli 1853</date>
+                    <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs>, <date when="1853-07-21">21. Juli 1853</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -51,7 +50,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -67,9 +66,9 @@
                     bereitet und mich zu lebhaftem Danke verpflichtet. Mittels der von Euer
                     Exzellenz beigesteuerten 120 fl CM hebt sich nun der Ertrag unserer Sammlung auf
                     830 fl CM und noch ist mit Ausnahme Ihres Beitrages nichts von
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, wie auch nichts von
-                        <placeName ref="#place_0baa6458315a6490f3838a891c41ba27">Modena</placeName>, von <placeName ref="#place_42dc29389d6318f0fe5b21396ce73b22">Turin</placeName> und
-                        <placeName ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</placeName>, wohin auch Einladungen gegangen sind, dabei.
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, wie auch nichts von
+                        <rs type="place" subtype="place" ref="#place_0baa6458315a6490f3838a891c41ba27">Modena</rs>, von <rs type="place" subtype="place" ref="#place_42dc29389d6318f0fe5b21396ce73b22">Turin</rs> und
+                        <rs type="place" subtype="place" ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</rs>, wohin auch Einladungen gegangen sind, dabei.
                     Ich habe vorläufig um 300 fl CM eine Arcade für die Leiche unseres seligen
                     Freundes auf dem hiesigen Gottesacker gekauft; den Entwurf des Monuments werden
                     wir erst fertigen lassen, wenn wir genau die Mittel kennen über die wir zu dem
@@ -78,9 +77,9 @@
                         Universität</orgName> mir zu sagen die Güte hatten. Manche meiner
                     Wahrnehmungen haben mich in der Überzeugung bestärkt, daß sie vortrefflich
                     gelungen und geeigenschaftet wäre, um auf die öffentliche Meinung sowohl in
-                        <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country> als in <country ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</country> einen
+                        <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> als in <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs> einen
                     großen und heilsamen Einfluß zu üben. Der Zuwachs, den die hiesige Bibliothek
-                    durch die Schenkung aus <persName key="jarcke-karl-ernst">Jarckes</persName>
+                    durch die Schenkung aus <rs type="person" ref="jarcke-karl-ernst" key="jarcke-karl-ernst">Jarckes</rs>
                     Nachlaß gewommen, ist überaus kostbar, für mich insbesondere von unschätzbarem
                     Werthe; aber, wie Euer Exzellenz sehr weise bemerken, das Bedürfnis einer
                     nachhaltigen Staatsunterstützung ist dadurch nicht beseitigt. Ich halte dafür,
@@ -91,16 +90,16 @@
                     Orte nicht hinreichend imponirende Lehrkräfte vorhanden sind, um sie zu fesseln.
                     Es ist ein wohlfeileres und sichereres Mittel eine Universität allmälig zu heben
                     als die Berufung großer auswärtiger Celebritäten. Euer Exzellenz Andeutung in
-                    Bezug auf <persName key="zingerle-ignaz-vinzenz">Vinzenz Zingerle</persName> hat
+                    Bezug auf <rs type="person" ref="zingerle-ignaz-vinzenz" key="zingerle-ignaz-vinzenz">Vinzenz Zingerle</rs> hat
                     mich sehr erfreut, zumal ich dem wackeren, aber allzugemüthlichen und
                     phantasiereichen jungen Mann nichts Besseres wünschen kann, als daß er aus der
-                    Nähe des Herrn <persName key="pichler-adolf">Adolph Pichler</persName>
+                    Nähe des Herrn <rs type="person" ref="pichler-adolf" key="pichler-adolf">Adolph Pichler</rs>
                     wegkomme.<lb/>Was Euer Exzellenz in Bezug auf die Rechtsphilosophie bemerken,
                     habe ich längst gefühlt und deshalb angefangen, ein Buch darüber auf
                     katholischer Grundlage auszuarbeiten. Der allgemeine Theil und ein großer Theil
                     des Privatrechts sind bereits fertig und ich hoffe, es soll in Bezug auf
                     Einfachheit der Anlage und Klarheit der Darstellung seinem Zwecke entsprechen.
-                    Ende dieses [Monats] gehe ich nach <placeName key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</placeName>, um die dortigen Bibliotheken dafür zu benützen und bis
+                    Ende dieses [Monats] gehe ich nach <rs type="place" subtype="place" key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs>, um die dortigen Bibliotheken dafür zu benützen und bis
                     Ende des Jahres längstens hoffe ich mit dem ersten Bande fertig zu werden.
                     Dieser soll, nebst dem allgemeinem Theile und dem Privatrechte, das Kirchenrecht
                     enthalten. Im zweiten Bande wird das Staats- und Völkerrecht und die Geschichte
@@ -111,14 +110,14 @@
                     k.k. Staatsdruckerei erscheinen könnte, wäre es mir sehr erwünscht. Ich wage
                     aber nicht, in der Hinsicht einen Antrag zu stellen. Vielleicht ist mir’s
                     vergönnt, bei Gelegenheit der Versammlung der katholischen Vereine in
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> Euer Exzellenz meine Aufwartung zu machen und
-                    dann Näheres über meine Arbeit mitzutheilen.<lb/>Von den Vorträgen des <persName key="schenach-georg">Prof. Schenach</persName> über Rechtsphilosophie kann
-                    ich speciell nichts Näheres sagen; aber <persName key="schenach-georg">Schenach</persName> ist ein Mann von tiefer katholischer Überzeugung; hat
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> Euer Exzellenz meine Aufwartung zu machen und
+                    dann Näheres über meine Arbeit mitzutheilen.<lb/>Von den Vorträgen des <rs type="person" ref="schenach-georg" key="schenach-georg">Prof. Schenach</rs> über Rechtsphilosophie kann
+                    ich speciell nichts Näheres sagen; aber <rs type="person" ref="schenach-georg" key="schenach-georg">Schenach</rs> ist ein Mann von tiefer katholischer Überzeugung; hat
                     sich in die moderne Philosophie gründlich einstudirt und besitzt, wie ihm
                     allgemein nachgerühmt wird, die Gabe einer außerordentlichen Klarheit. Indessen,
                     um in der Rechtsphilosophie dem heutigen Bedürfnisse zu genügen, muß man meiner
                     Ansicht nach Jurist seyn. Ich habe mich nicht entschließen können, hier
-                    Rechtsphilosophie zu dociren, weil ich um keinen Preis mit <persName key="schuler-johannes">Prof. Schuler</persName> in Collision kommen
+                    Rechtsphilosophie zu dociren, weil ich um keinen Preis mit <rs type="person" ref="schuler-johannes" key="schuler-johannes">Prof. Schuler</rs> in Collision kommen
                     möchte.<lb/>Genehmigen Euer Exzellenz den Ausdruck der tiefsten Verehrung, womit
                     ich verharre</p>
                 <p>Hochderen</p>

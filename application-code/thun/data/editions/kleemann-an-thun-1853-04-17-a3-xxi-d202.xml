@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="kleemann-johann" role="sender:beamter">Johann
-                        Kleemann</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="kleemann-johann" key="kleemann-johann" role="sender:beamter">Johann
+                        Kleemann</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, <date when="1853-04-17">17. April 1853</date>
+                    <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1853-04-17">17. April 1853</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -38,7 +37,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -57,9 +56,9 @@
                     überhaupt und insbesondere rücksichtlich der Schulzustände unterhielt, mache ich
                     nur die Quellen namhaft, aus denen ich mehr unter officieller Firma als mit
                     privatlichem Charakter schöpfte. Sie sind die Herren: Statthalter,
-                    Polizeidirektor, Polizeirath <persName key="weber-von-ebenhof-philipp">Weber</persName>, <persName key="beer">Beer</persName>, <persName key="zeidler">Zeidler</persName>, <persName key="helly-karl">von
-                        Helly</persName>, Dr. <persName key="faber">Faber</persName>, <persName key="janda">Janda</persName>, Dr. <persName key="jaksch-anton">Jaksch</persName>, Dr. <persName key="helminger-karl">Helminger</persName>,
-                    die Schulräthe <persName key="klingler-joseph">Klingler</persName>, <persName key="zeithammer-gregor">Zeithammer</persName>, <persName key="effenberger-franz-ferdinand">Effenberger</persName>, <persName key="nadherny-ignaz">Nadherny</persName>, die Direktoren <persName key="czikanek-stephan">Czikanek</persName>, <persName key="kratochwile-dominik">Kratochwile</persName> und <persName key="klicpera-vaclav-kliment">Klicpera</persName>, endlich einzelne
+                    Polizeidirektor, Polizeirath <rs type="person" ref="weber-von-ebenhof-philipp" key="weber-von-ebenhof-philipp">Weber</rs>, <rs type="person" ref="beer" key="beer">Beer</rs>, <rs type="person" ref="zeidler" key="zeidler">Zeidler</rs>, <rs type="person" ref="helly-karl" key="helly-karl">von
+                        Helly</rs>, Dr. <rs type="person" ref="faber" key="faber">Faber</rs>, <rs type="person" ref="janda" key="janda">Janda</rs>, Dr. <rs type="person" ref="jaksch-anton" key="jaksch-anton">Jaksch</rs>, Dr. <rs type="person" ref="helminger-karl" key="helminger-karl">Helminger</rs>,
+                    die Schulräthe <rs type="person" ref="klingler-joseph" key="klingler-joseph">Klingler</rs>, <rs type="person" ref="zeithammer-gregor" key="zeithammer-gregor">Zeithammer</rs>, <rs type="person" ref="effenberger-franz-ferdinand" key="effenberger-franz-ferdinand">Effenberger</rs>, <rs type="person" ref="nadherny-ignaz" key="nadherny-ignaz">Nadherny</rs>, die Direktoren <rs type="person" ref="czikanek-stephan" key="czikanek-stephan">Czikanek</rs>, <rs type="person" ref="kratochwile-dominik" key="kratochwile-dominik">Kratochwile</rs> und <rs type="person" ref="klicpera-vaclav-kliment" key="klicpera-vaclav-kliment">Klicpera</rs>, endlich einzelne
                     Gymnasiallehrer.<lb/>Die Sachen stehen gegenwärtig nicht so schlimm, als sie die
                     Fama dazu macht, und daß sie, wenn sogleich vorgebeugt wird, nicht gründliche
                     Reparatur finden sollten. Allein, man faßt die unausbleiblichen Consequenzen der
@@ -89,9 +88,9 @@
                     wurde über das exklusive Cechisiren und Entgermanisiren, das sich einige Lehrer
                     notorisch zur Schuld kommen lassen, äußerte man ungescheut: „Es kann nicht
                     anders kommen, der Minister will es ja so haben.“ – Als mir ein Charakter
-                        (<persName key="wenzig-josef">Wenzig</persName>) als ein gefährlicher <hi rend="ul">verkappter Ceche</hi> verdächtigt wurde, bemerkte man dabei, „das
+                        (<rs type="person" ref="wenzig-josef" key="wenzig-josef">Wenzig</rs>) als ein gefährlicher <hi rend="ul">verkappter Ceche</hi> verdächtigt wurde, bemerkte man dabei, „das
                     ist kein Wunder, da sein Minister eben so ist“ und dgl. Ich habe bei meiner
-                        <placeName key="prag" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prager</placeName> Commission eine große Probe von
+                        <rs type="place" subtype="place" key="prag" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prager</rs> Commission eine große Probe von
                     Mäßigung und Selbstüberwindung bestanden, um solchen wahnwitzigen Urtheilen
                     gegenüber nicht das empörte, heftige Gefühl, sondern die ruhige Beweisführung
                     für das Entgegengesetzte walten zu lassen, wobei als das sicherste Beweismittel
@@ -117,7 +116,7 @@
                 <p>gehorsamster Diener<lb/>Kleemann</p>
                 <p>Prag, den 17. April 1853</p>
                 <p/>
-                <p>Über das angeblich vorwaltende Cechisiren des <placeName key="jicin" ref="#place_15406938601b6907565bfa6d1716fe88">Jicjner</placeName> Gymnasiums sind auch bereits behördliche Untersuchungen
+                <p>Über das angeblich vorwaltende Cechisiren des <rs type="place" subtype="place" key="jicin" ref="#place_15406938601b6907565bfa6d1716fe88">Jicjner</rs> Gymnasiums sind auch bereits behördliche Untersuchungen
                     im Gange.</p>
             </div>
         </body>

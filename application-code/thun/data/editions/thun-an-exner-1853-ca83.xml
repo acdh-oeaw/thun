@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="exner-franz" role="recipient">Franz Exner</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="exner-franz" key="exner-franz" role="recipient">Franz Exner</rs>
                     <lb/> o. O., <date when="1852-04">o. D. [April 1852]</date>
                     <note xml:id="note_1">Die Datierung in den April 1852 ergibt sich aus dem Inhalt des Briefes: Die
                         von Thun genannte Verlängerung des Urlaubs von Exner erfolgte im April 1852.
@@ -37,7 +36,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -55,17 +54,17 @@
                     es binnen eines weiteren Urlaubes von einigen Monaten zu werden. Auf Grundlage
                     desselben werde ich mir dann die Ermächtigung erbitten, Ihnen eine Verlängerung
                     des Urlaubes nach Bedürfnis zu erwirken.<lb/>Ich hatte geglaubt, es würde Ihnen
-                    vielleicht erwünscht sein, noch einige Zeit in <country ref="#place_389962c9dec540ab28d04517e82c3996">Italien</country> zu
+                    vielleicht erwünscht sein, noch einige Zeit in <rs type="place" subtype="country" ref="#place_389962c9dec540ab28d04517e82c3996">Italien</rs> zu
                     bleiben, in welchem Falle ich Ihnen hätte einen amtlichen Auftrage zur Bereisung
-                    des Landes geben können, auch <persName key="gaentner">Gäntner</persName>[?]
+                    des Landes geben können, auch <rs type="person" ref="gaentner" key="gaentner">Gäntner</rs>[?]
                     billiget aber die Ansicht, daß Sie sich der italienischen Sommerhitze entziehen
-                    sollen. Ich selbst muß nach <placeName ref="#place_84bb7a44667327c91eade4b980a38a6f">Karlsbad</placeName> und werde wohl
+                    sollen. Ich selbst muß nach <rs type="place" subtype="place" ref="#place_84bb7a44667327c91eade4b980a38a6f">Karlsbad</rs> und werde wohl
                     Anfangs oder Mitte May dahin abreisen und so kann es wohl sein, daß ich noch
                     lange des Vergnügens entbehren werde, Sie wiederzusehen. Mit um so freudigerer
                     Erwartung sehe ich Ihrem Beistand für den Herbst oder Winter entgegen – ich
                     vermisse ihn recht schmerzlich. Mit dem herzlichen Wunsch, daß Sie wenigsten den
                     April etwas angenehmer als die verflossenen Monate in
-                        <placeName ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</placeName> werden zubringen können.</p>
+                        <rs type="place" subtype="place" ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</rs> werden zubringen können.</p>
                 <p>Ihr aufrichtig ergebener</p>
                 <p>Thun</p>
             </div>

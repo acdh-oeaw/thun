@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Zirkular Leo Thuns an sämtliche Referenten und Vorsteher der Hilfsämter des
                     Ministeriums für Kultus und Unterricht hinsichtlich des Wirkungskreises des
                     Militär- und Zivilgouverneurs von Ungarn<lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1852-02-12">12. Februar 1852</date>
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1852-02-12">12. Februar 1852</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -44,7 +43,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -59,10 +58,10 @@
                     Hilfsämter des <orgName key="ministerium-fuer-kultus-und-unterricht">k.k.
                         Ministeriums für Cultus und Unterricht</orgName>
                 </p>
-                <p>Der Anschluß enthält ein Pare der von <persName key="franz-joseph">Seiner k.k.
-                        apostolischen Majestät</persName> mittels allerhöchsten Beschlußes vom 10.
-                    Oktober 1851 Seiner k.k. Hoheit dem <persName key="albrecht-erzherzog">Herrn
-                        Erzherzoge Albrecht</persName> als k.k. Militär- und Civilgouverneur von
+                <p>Der Anschluß enthält ein Pare der von <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner k.k.
+                        apostolischen Majestät</rs> mittels allerhöchsten Beschlußes vom 10.
+                    Oktober 1851 Seiner k.k. Hoheit dem <rs type="person" ref="albrecht-erzherzog" key="albrecht-erzherzog">Herrn
+                        Erzherzoge Albrecht</rs> als k.k. Militär- und Civilgouverneur von
                     Ungarn unmittelbar ertheilten Instruktion<note xml:id="note_2">Vgl. die Beilage
                             <ref target="#D179_1">Allerhöchst erlassene Instruktion an Erzherzog
                             Albrecht über seinen Wirkungskreis als Militär- und Zivilgouverneur von
@@ -75,11 +74,11 @@
                     wesentliche Änderung namentlich in Beziehung auf Zugestehung von
                     Geldunterstützungen, Ruhegenüssen, Urlauben und dgl. (§ VIII und IX) erfahren
                     habe und daß die persönliche Dienstescorrespondenz an Seine k.k. Hoheit den
-                        <persName key="albrecht-erzherzog">Herrn Erzherzog</persName>, nachdem
+                        <rs type="person" ref="albrecht-erzherzog" key="albrecht-erzherzog">Herrn Erzherzog</rs>, nachdem
                     Hochderselbe die Leitung der Geschäfte übernommen hat, in den durch den § III
                     näher bezeichneten Fällen mittels unterthäniger Noten, in allen anderen Fällen
-                    aber an die k.k. Statthalterei von <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> sub sigillo volante
-                    stattzufinden und an <persName key="franz-joseph">Seine k.k. Hoheit</persName>
+                    aber an die k.k. Statthalterei von <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> sub sigillo volante
+                    stattzufinden und an <rs type="person" ref="franz-joseph" key="franz-joseph">Seine k.k. Hoheit</rs>
                     zu gelangen haben wird.<lb/>In so lange von Hochdemselben keine Änderung im
                     Schriftenwechsel mit den Distriktsobergespänen als Vorsteher der provisorischen
                     Distriktsschulbehörden in didaktisch-disziplinären Angelegenheiten gewünscht
@@ -89,9 +88,9 @@
                 <p>Thun</p>
                 <div xml:id="D179_1" type="enclosure">
                     <p>I.<lb/>
-                        <persName key="albrecht-erzherzog">Erzherzog Albrecht</persName> ist
+                        <rs type="person" ref="albrecht-erzherzog" key="albrecht-erzherzog">Erzherzog Albrecht</rs> ist
                         inner der Gränzen der gegenwärtigen Instruktion als Mein unmittelbarer
-                        Stellvertreter in Meinem Königreiche <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> anzuerkennen,
+                        Stellvertreter in Meinem Königreiche <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> anzuerkennen,
                         in welcher Rücksicht ihm bei allen Gelegenheiten die Repräsentation des
                         Landesfürsten zusteht. Er vereinigt in sich insbesondere die Wirksamkeit des
                         Statthalters und des Kommandanten der III. Armee. In dieser doppelten
@@ -101,7 +100,7 @@
                         bedingen, ohne die damit verträglichen Rücksichten auf die Eigenheiten des
                         Landes auszuschließen.</p>
                     <p>II.<lb/>In den Fällen kurzer Abwesenheit oder Verhinderung berechtige Ich den
-                            <persName key="albrecht-erzherzog">Herrn Erzherzog</persName> für die
+                            <rs type="person" ref="albrecht-erzherzog" key="albrecht-erzherzog">Herrn Erzherzog</rs> für die
                         Funktionen, welche nicht höchst persönlich sind, einen Vertreter von
                         angemessener ämtlicher Stellung zu bestimmen, wovon jedesmal Mir, den
                         Ministern und den Landesbehörden die Anzeige zu machen ist. Bei längerer
@@ -123,14 +122,14 @@
                         Civilverwaltung den instruktionsmäßigen Dienstverkehr mit den Ministerien in
                         allen in deren Wirkungskreise gelegenen oder der allerhöchsten Entscheidung
                         vorbehaltenen Gegenständen.<lb/>Die persönliche Diensteskorrespondenz der
-                        Ministerien an den <persName key="albrecht-erzherzog">Herrn
-                            Erzherzog</persName> findet mittelst unterthäniger Noten, und von dem
-                            <persName key="albrecht-erzherzog">Herrn Erzherzoge</persName> an die
+                        Ministerien an den <rs type="person" ref="albrecht-erzherzog" key="albrecht-erzherzog">Herrn
+                            Erzherzog</rs> findet mittelst unterthäniger Noten, und von dem
+                            <rs type="person" ref="albrecht-erzherzog" key="albrecht-erzherzog">Herrn Erzherzoge</rs> an die
                         Ministerien mittelst einfacher Noten statt.<lb/>Alle Berichte, Anzeigen
                         etc., welche von politischen Verwaltungs- und Polizeiorganen an die
                         Ministerien und die Erledigungen, welche von den letzteren an diese Organe
-                        gerichtet werden, sind im Wege des <persName key="albrecht-erzherzog">Herrn
-                            Erzherzogs</persName> zu senden, mit dem Vidi desselben zu versehen und
+                        gerichtet werden, sind im Wege des <rs type="person" ref="albrecht-erzherzog" key="albrecht-erzherzog">Herrn
+                            Erzherzogs</rs> zu senden, mit dem Vidi desselben zu versehen und
                         was die Berichte betrifft, mit den allfälligen Bemerkungen desselben zu
                         begleiten.<lb/>Dem Militär- und Civilgouverneur ist überdies das Recht
                         zugestanden, in allen Fällen, wo er es für Meinen Dienst, die Staats- und
@@ -164,13 +163,13 @@
                         provisorische Anordnungen unter gleichzeitiger Mittheilung an die
                         betreffenden Ministerien zu erlassen oder Mir unmittelbar die Anzeige zu
                         erstatten.</p>
-                    <p>XI.<lb/>Dem <persName key="albrecht-erzherzog">Herrn Erzherzoge</persName>
+                    <p>XI.<lb/>Dem <rs type="person" ref="albrecht-erzherzog" key="albrecht-erzherzog">Herrn Erzherzoge</rs>
                         bleibt es bis auf weitere Anordnung zugestanden, Ernennungen der Vorstände
                         und Mitglieder der Gemeindeverwaltungen da und in den Fällen, wo er es
                         nothwendig oder zuträglich findet, sich vorzubehalten, in soferne sie nicht
                         von Meiner Ernennung abhängig sind.</p>
                     <p>XII.<lb/>In Betreff der Stellung des Militär- und Civilgouverneurs zu den von
-                        dem Finanzministerium abhängenden Behörden in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country>,
+                        dem Finanzministerium abhängenden Behörden in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>,
                         namentlich zur Finanzlandesdirektion und zur Kommission für die Einführung
                         des provisorischen Steuerkatasters wird bestimmt, daß von diesen Behörden
                         über alle organischen Verfügungen, welche in diesen Geschäftszweigen im

@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="celakovsky-frantisek-ladislav" role="sender">František
-                        Ladislaus Čelakovšký</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="celakovsky-frantisek-ladislav" key="celakovsky-frantisek-ladislav" role="sender">František
+                        Ladislaus Čelakovšký</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</placeName>,
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>,
                         <date>o. D. [1850/51]<note xml:id="note_1">Die Datierung ergibt sich aus den
                             Briefen, die mit diesem Schreiben in Verbindung stehen. Vgl. dazu die
                             zahlreichen Briefe zwischen Thun und Čelakovský in dieser
@@ -52,7 +51,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -95,11 +94,11 @@
                     noch jene, welche die Anfangsgründe der Naturwissenschaften betreffen, stark
                     vermißt, auch ist meines Wissens nichts zu vernehmen, daß irgendwo etwas
                     Derartiges vorbereitet werde.<lb/>Aus dem Grunde versuchte ich es meinen
-                        <persName key="celakovsky-josef-ladislav">ältesten Sohn</persName>, der sich
+                        <rs type="person" ref="celakovsky-josef-ladislav" key="celakovsky-josef-ladislav">ältesten Sohn</rs>, der sich
                     seit einer Reihe von Jahren mit einer besondern Vorliebe den Naturwissenschaften
                     widmet und vorzüglich auf dem Gebiete der Botanik mit regem Eifer arbeitet, dazu
                     aufzumuntern, um nach den besten Hülfsmitteln und nach der Methode, die auf den
-                    preußischen Gymnasien eingehalten wird (denn in <placeName ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</placeName>
+                    preußischen Gymnasien eingehalten wird (denn in <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs>
                     ist durch einen tüchtigen Lehrer eben die Neigung dazu in ihm geweckt worden),
                     ein böhmisches Handbuch der Botanik zunächst für die Gymnasien abzufassen. Ich
                     nehme mir die Freiheit das Manuskript Eurer Exzellenz vorzulegen, um in dem

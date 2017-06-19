@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Gutachten von <persName key="kleemann-johann">Johann Kleemann</persName> zu §
+                <title>Gutachten von <rs type="person" ref="kleemann-johann" key="kleemann-johann">Johann Kleemann</rs> zu §
                     2 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des
-                    Konkordats<lb/>o. O. [<placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>],<date when="1856"> o. D.
+                    Konkordats<lb/>o. O. [<rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>],<date when="1856"> o. D.
                         [1856]</date>
                 </title>
             </titleStmt>
@@ -48,7 +47,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -58,7 +57,7 @@
                     <term>Knabenseminare</term>
                 </index>
                 <p>II.<lb/>Die Seminarien, deren Gründung das heilige Conzilium von
-                        <placeName ref="#place_34f36b9454115e3b99acdf7913509e12">Trient</placeName> angeordnet hat, haben sich nicht auf den
+                        <rs type="place" subtype="place" ref="#place_34f36b9454115e3b99acdf7913509e12">Trient</rs> angeordnet hat, haben sich nicht auf den
                     Unterricht in der Theologie zu beschränken, sondern sollen auch dazu dienen, um
                     Knaben, welche sich dem geistlichen Stande zu widmen wünschen, in jenen
                     Gegenständen zu unterrichten, welche für jeden wissenschaftlicher Bildung
@@ -69,7 +68,7 @@
                     nothwendig, daß der heilsamen Anordnung des Konziliums überall, sei es durch
                     Erweiterung des bisherigen Seminares oder durch Hinzufügung eines
                     Knabenseminares genügt werde. In Betreff der so wünschenswerthen Unterstützung
-                    muß alles der Großmuth <persName key="franz-joseph">Seiner Majestät</persName>
+                    muß alles der Großmuth <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät</rs>
                     überlassen und nur bemerkt werden, daß diese Gründungen einen ausgezeichneten
                     Anspruch auf huldreiche Berücksichtigung haben.<lb/>Da künftig die Heranbildung
                     der Geistlichkeit von der Kirche allein wird geleitet und beaufsichtiget werden,
@@ -90,7 +89,7 @@
                     nachdem sie ihre Befähigung durch eine Prüfung ausgewiesen haben, bei jeder
                     anderen Lehranstalt Aufnahme finden werden. Es ist jedoch überall, vorzüglich
                     aber unter den besonderen Verhältnissen, welche in den Kirchenprovinzen
-                        <placeName ref="#place_ab21db0a2aa2e84be73932be6063b033">Mailand</placeName> und <placeName ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</placeName> obwalten,
+                        <rs type="place" subtype="place" ref="#place_ab21db0a2aa2e84be73932be6063b033">Mailand</rs> und <rs type="place" subtype="place" ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</rs> obwalten,
                     sehr zu wünschen, daß die Zeugnisse der bischöflichen Gymnasiallehrer denen der
                     Staatsgymnasien gleichgestellt werden. Dabei handelt es sich nun allerdings auch
                     um die Fähigkeit zu Anstellung im Staatsdienste, deren Bedingungen die
@@ -103,8 +102,8 @@
                     <hi rend="ul">a. § II. die Knabenseminarien betreffend:</hi>
                     <lb/>"Der
                     gegenwärtige Stand der Frage ist in Beziehung auf den ganzen Umfang des Reiches
-                    mit Ausschluß des <region key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venezianischen
-                        Königreiches</region> darzustellen und die Äußerung zu erstatten, ob im
+                    mit Ausschluß des <rs type="place" subtype="region" key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venezianischen
+                        Königreiches</rs> darzustellen und die Äußerung zu erstatten, ob im
                     Hinblicke auf denselben die vorliegenden Eingabe zu einer Bemerkung oder
                     Verfügung Anlaß gebe."</p>
                 <p>
@@ -113,52 +112,52 @@
                     besteht gegenwärtig eine Verschiedenheit unter den Knabenseminarien. In ersterer
                     Hinsicht giebt es einige, die den theologischen Seminarien als Ergänzung und
                     Vorschule dienen, meistens unter dem Namen "philosophische Hauslehranstalten"
-                    (wie in <placeName ref="#place_d638cd7d14166fe5189912d158fd557b">Bruneck</placeName> für die Kapuziner, in <placeName key="goerz" ref="#place_4de166ce82fade94306232184d2c4387">Görz</placeName> für die Franziskaner, in
-                        <placeName ref="#place_60fad583fdba7cff3143633335dc08ae">Martinsberg</placeName> für die Benediktiner, in
-                        <placeName ref="#place_a620921af9eef09d01368fb2c1a2fd88">Agram</placeName>, <placeName ref="#place_2cfe62b9921fa114fb63229c0241dafc">Neutra</placeName>,
-                        <placeName ref="#place_318efa92bf2fce794042c0ac7fd31b2f">Spalato</placeName> als Institute des Diöcesanordinarius. Außer
+                    (wie in <rs type="place" subtype="place" ref="#place_d638cd7d14166fe5189912d158fd557b">Bruneck</rs> für die Kapuziner, in <rs type="place" subtype="place" key="goerz" ref="#place_4de166ce82fade94306232184d2c4387">Görz</rs> für die Franziskaner, in
+                        <rs type="place" subtype="place" ref="#place_60fad583fdba7cff3143633335dc08ae">Martinsberg</rs> für die Benediktiner, in
+                        <rs type="place" subtype="place" ref="#place_a620921af9eef09d01368fb2c1a2fd88">Agram</rs>, <rs type="place" subtype="place" ref="#place_2cfe62b9921fa114fb63229c0241dafc">Neutra</rs>,
+                        <rs type="place" subtype="place" ref="#place_318efa92bf2fce794042c0ac7fd31b2f">Spalato</rs> als Institute des Diöcesanordinarius. Außer
                     den Genannten ist hierorts über kein anderes verhandelt worden.) Andere sind
                     wieder als achtklassige Gymnasien eingerichtet oder sollen es werden.
-                        (<placeName ref="#place_746ae590bad280c5f1dc6fedb53108af">Marienschein</placeName> [Bohosudov], <placeName ref="#place_2891e30a2d8c4680b4022478f80aa195">Freienberg bei
-                        Linz</placeName>).<lb/>Der Einrichtung nach, was nämlich den Lehrplan
-                    anbelangt, sind jene zu <placeName ref="#place_60fad583fdba7cff3143633335dc08ae">Martinsberg</placeName>,
-                        <placeName ref="#place_6a5dd4fc6115fb96bafe11170353e53d">Castagnavizza</placeName> [Kostanjevica] bei Görz, am
-                        <placeName ref="#place_6ab691ad8305e406fccdbd6fa01daf78">Freienberg bei Linz</placeName> den bezüglichen Klassen der
+                        (<rs type="place" subtype="place" ref="#place_746ae590bad280c5f1dc6fedb53108af">Marienschein</rs> [Bohosudov], <rs type="place" subtype="place" ref="#place_2891e30a2d8c4680b4022478f80aa195">Freienberg bei
+                        Linz</rs>).<lb/>Der Einrichtung nach, was nämlich den Lehrplan
+                    anbelangt, sind jene zu <rs type="place" subtype="place" ref="#place_60fad583fdba7cff3143633335dc08ae">Martinsberg</rs>,
+                        <rs type="place" subtype="place" ref="#place_6a5dd4fc6115fb96bafe11170353e53d">Castagnavizza</rs> [Kostanjevica] bei Görz, am
+                        <rs type="place" subtype="place" ref="#place_6ab691ad8305e406fccdbd6fa01daf78">Freienberg bei Linz</rs> den bezüglichen Klassen der
                     öffentlichen Gymnasien mit größerer oder geringeren Abweichung gleichgestellt.
-                    <lb/>Die Knabenseminare zu <placeName ref="#place_4c08517eb5fb97b0e860b2e0b82d5f05">Laibach</placeName> (bestand schon vor dem
-                    Jahre 1848), dann zu <placeName ref="#place_73a427f5d9b418ded933f495406c46a0">Budweis</placeName> (Akt 15542 55) und zu
-                        <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> (Akt 16126 55) sind mehr Convikts- und
+                    <lb/>Die Knabenseminare zu <rs type="place" subtype="place" ref="#place_4c08517eb5fb97b0e860b2e0b82d5f05">Laibach</rs> (bestand schon vor dem
+                    Jahre 1848), dann zu <rs type="place" subtype="place" ref="#place_73a427f5d9b418ded933f495406c46a0">Budweis</rs> (Akt 15542 55) und zu
+                        <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> (Akt 16126 55) sind mehr Convikts- und
                     Erziehungsanstalten zu nennen, deren Zöglinge öffentliche Schüler des
                     Ortsgymnasiums sind und aller Rechte und Vortheile der öffentlichen Schüler
                     theilhaftig werden. Dies war auch bis zum Schluße des Schuljahres 1856 der Fall
-                    bei dem Knabenseminar zu <placeName ref="#place_ca7668a05b2a3dbf29ca3d768c0febe8">Graz</placeName>; mit Beginn des Schuljahres
+                    bei dem Knabenseminar zu <rs type="place" subtype="place" ref="#place_ca7668a05b2a3dbf29ca3d768c0febe8">Graz</rs>; mit Beginn des Schuljahres
                     1856/57 wurde häuslicher Unterricht eingeführt, worüber bedeutet wurde (Akt
                     16728 56), daß das Knabenseminar als kirchliches Institut der Inspektion des
                     Schulrathes nicht unterliege und daß die Zöglinge, wenn sie giltige Zeugnisse
                     erwerben wollen, als Privatisten, die keinen Anspruch auf Erlangung von
                     Stipendien haben, zu behandeln sind.<lb/>Die Kleriker der Hauslehranstalt zu
-                        <placeName ref="#place_60fad583fdba7cff3143633335dc08ae">Martinsberg</placeName> unterziehen sich regelmäßig den
-                    Maturitätsprüfungen zu <placeName ref="#place_db261a80b9b3ec377502a014ab0f4eef">Raab</placeName>.<lb/>Knabenseminare, über
+                        <rs type="place" subtype="place" ref="#place_60fad583fdba7cff3143633335dc08ae">Martinsberg</rs> unterziehen sich regelmäßig den
+                    Maturitätsprüfungen zu <rs type="place" subtype="place" ref="#place_db261a80b9b3ec377502a014ab0f4eef">Raab</rs>.<lb/>Knabenseminare, über
                     welche hierorts eine Verhandlung derart gepflogen wurde, daß dieselbe zu einer
                     bestimmten regelnden Entscheidung gelangte, sind nur folgende:<lb/>1. die
-                    Hauslehranstalt (7. und 8. Klasse) zu <placeName ref="#place_d638cd7d14166fe5189912d158fd557b">Bruneck</placeName>, zu deren
+                    Hauslehranstalt (7. und 8. Klasse) zu <rs type="place" subtype="place" ref="#place_d638cd7d14166fe5189912d158fd557b">Bruneck</rs>, zu deren
                     Gunsten eine Modificirung des allgemein vorgeschriebenen Lehrplanes unter
                     einigen Beschränkungen provisorisch gestattet wurde (Akt 2511 54, liegt als
                     Preis bei 13613 55 - noch nicht approbiert - aber auch einzusehen in
                     Normalienbuch 1854, Seite 347).<lb/>2. die Hauslehranstalt der Franziskaner zu
-                        <placeName ref="#place_94fb9b79ab3dc41e5b2eca681c01a11c">Castagnavizza bei Görz</placeName>. Auf Grundlage der vom
+                        <rs type="place" subtype="place" ref="#place_94fb9b79ab3dc41e5b2eca681c01a11c">Castagnavizza bei Görz</rs>. Auf Grundlage der vom
                     Ordensvorstande und dem Erzbischofe gestellten Anträge wurden die Verhandlungen
                     dahin abgeschlossen, daß der Lehrplan der 7. und 8. Klasse der öffentlichen
                     Gymnasien eingeführt werde, mit dem Rechte öffentliche Zeugnisse auszustellen,
                     unter Aufsicht des Gymnasialinspektors (Akt 13857 55).<lb/>3. das philosophische
-                    Hausstudium zu <placeName ref="#place_a620921af9eef09d01368fb2c1a2fd88">Agram</placeName>. Der Erzbischof Kardinal hat in
+                    Hausstudium zu <rs type="place" subtype="place" ref="#place_a620921af9eef09d01368fb2c1a2fd88">Agram</rs>. Der Erzbischof Kardinal hat in
                     einige Annäherung zu dem vorgeschriebenen Lehrplane eingewilligt; ein Abschluß
                     der Frage ist mit Hinblick auf das mittlerweile abgeschlossene Konkordat, Absatz
                     XVII unterblieben.<lb/>4. das Knabenseminar und Gymnasium des Bischofes zu
-                        <placeName ref="#place_443befbacdaa99c161dd11495b82b99b">Linz</placeName> hat das Recht, staatsgiltige Zeugnisse
+                        <rs type="place" subtype="place" ref="#place_443befbacdaa99c161dd11495b82b99b">Linz</rs> hat das Recht, staatsgiltige Zeugnisse
                     auszustellen und Maturitätsprüfungen mit <hi rend="ul">seinen Zöglingen</hi>
                     unter Leitung des Schulrathes abzuhalten, Akt 5702 56.<lb/>5. das Knabenseminar
-                    des Bischofes zu <placeName ref="#place_a909ae39141fb3cc1161d2103a55ed1b">Leitmeritz</placeName>. Über dieses Institut allein
+                    des Bischofes zu <rs type="place" subtype="place" ref="#place_a909ae39141fb3cc1161d2103a55ed1b">Leitmeritz</rs>. Über dieses Institut allein
                     wurden tiefer eingehende Verhandlungen gepflogen und wurde auch im Einvernehmen
                     des Bischofscomités etc. in Folge allerhöchster Entschließung eine prinzipielle
                     Entscheidung gefällt (Akt 359 54, Normalienbuch Seite 61). Es wurde nämlich vom
@@ -188,7 +187,7 @@
                     der Knabenseminarien von Seite der Regierung läßt sich schon jetzt nachweisen,
                     daß das <orgName key="ministerium-fuer-kultus-und-unterricht">Ministerium</orgName> nach Thunlichkeit jede Schonung und Berücksichtigung
                     in dieser Hinsicht habe eintreten lassen, wie in jüngster Zeit das Gymnasium zu
-                        <placeName ref="#place_6c5974dc4512c3b5c3952a1fe3162fba">Capodistria</placeName> [Koper] ein solcher Fall ist.)<lb/>Aus
+                        <rs type="place" subtype="place" ref="#place_6c5974dc4512c3b5c3952a1fe3162fba">Capodistria</rs> [Koper] ein solcher Fall ist.)<lb/>Aus
                     den gegebenen Andeutungen dürften sich folgende Bemerkungen ergeben:<lb/>a. Die
                     prinzipielle Frage wegen Aufnahme der Kandidaten der Theologie und des Maßes
                     ihrer Vorbildung ist erledigt; sie hätte in den weiteren Verhandlungen als

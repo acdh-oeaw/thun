@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="hoefler-karl-adolf-constantin" role="sender:gelehrter">Constantin Höfler</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="hoefler-karl-adolf-constantin" key="hoefler-karl-adolf-constantin" role="sender:gelehrter">Constantin Höfler</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, <date when="1854-11-18">18. November 1854</date>
+                    <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1854-11-18">18. November 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -47,7 +46,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -61,42 +60,42 @@
                 <p>Euer Excellenz!<lb/>Hochgeborner Herr Graf!<lb/>Hochgebietender gnädiger
                     Herr!</p>
                 <p>Ich bitte Euer Excellenz es nicht für Dreistigkeit anzusehen, wenn ich Herrn
-                    Professor <persName key="stein-lorenz">Dr. Stein</persName> aus <orgName key="universitaet-kiel">Kiel</orgName> dieses Schreiben an Euer Excellenz
+                    Professor <rs type="person" ref="stein-lorenz" key="stein-lorenz">Dr. Stein</rs> aus <orgName key="universitaet-kiel">Kiel</orgName> dieses Schreiben an Euer Excellenz
                     seinem Wunsche gemäß mitgebe und in einer gewißen Beziehung eine Bürgschaft
-                    seiner Persönlichkeit übernehme. <persName key="stein-lorenz">Stein</persName>
-                    hielt sich über eine Woche <placeName key="prag" ref="#place_e575530bd7a9cc03829dde0b8657f108">hier</placeName> auf und weckte
-                    den Eindruck eines für <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> ungemein
+                    seiner Persönlichkeit übernehme. <rs type="person" ref="stein-lorenz" key="stein-lorenz">Stein</rs>
+                    hielt sich über eine Woche <rs type="place" subtype="place" key="prag" ref="#place_e575530bd7a9cc03829dde0b8657f108">hier</rs> auf und weckte
+                    den Eindruck eines für <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> ungemein
                     eingenommenen, ruhigen, besonnenen, wissenschaftlich äußerst tüchtigen Mannes,
                     von nicht gewöhnlicher Lehrgabe und ausgebreiteten Kenntnissen. Er ist Seiner
-                    k.k. Hoheit dem Erzherzoge <persName key="ferdinand-maximilian-erzherzog">Ferdinand Max</persName> durch seine Kenntnisse im Schiffbau bekannt und
+                    k.k. Hoheit dem Erzherzoge <rs type="person" ref="ferdinand-maximilian-erzherzog" key="ferdinand-maximilian-erzherzog">Ferdinand Max</rs> durch seine Kenntnisse im Schiffbau bekannt und
                     hat von Seiner k.k. Hoheit den Auftrag erhalten sich Hochdemselben in
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> zu präsentiren. Er besitzt auch eine große
-                    publicistische Gewandtheit, welche <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> gleichfalls zu Gute kommen wird. Alles dieses dürfte
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> zu präsentiren. Er besitzt auch eine große
+                    publicistische Gewandtheit, welche <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> gleichfalls zu Gute kommen wird. Alles dieses dürfte
                     auch entschuldigen, wenn ich es wage, Euer Excellenz, welcher er als
                     Schriftsteller rühmlichst bekannt sein wird, mit diesen Zeilen zu belästigen,
-                    die ihm, dem in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> unbekannten, seiner Meinung nach den
+                    die ihm, dem in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> unbekannten, seiner Meinung nach den
                     Zutritt eröffnen sollen.<lb/>Die Collegien sind hier im besten Zuge. Während die
                     Außenwelt sich immer mehr verfinstert, leben wir an der philosophischen Facultät
                     im tiefsten Frieden und, glaube ich, auch die übrigen Facultäten, deren Treiben
                     mir unbekannt ist. Ich lese neben den universalhistorischen ein Collegium über
                     deutsche Literaturgeschichte und zwar über die schwierigste Epoche, über welche
                     alle Literarhistoriker rasch hinübergleiten. Es ist die Entwicklung der
-                    deutschen Wissenschaft, wie sich dieselbe von den Tagen <persName key="rudolph-I">Rudolfs von Habsburg</persName> an allmählich gestaltete, an
+                    deutschen Wissenschaft, wie sich dieselbe von den Tagen <rs type="person" ref="rudolph-I" key="rudolph-I">Rudolfs von Habsburg</rs> an allmählich gestaltete, an
                     den Universitäten ein Centrum erhielt und nun der verschiedenartigsten Gebiete
                     bemächtigt. Ich habe mich zu dem Ende in den Besitz vieler unbekannter
                     Handschriften gesetzt, die domcapitelsche Manuscriptensammlung durchgegangen und
                     kann meinen höchst fleißigen Zuhörern somit Aufschlüsse geben, welche sie nicht
                     überall gewinnen dürften.<lb/>Ich weiß nicht, ob Euer Excellenz bekannt ist, daß
-                    in der Manzischen Verlagshandlung zu <placeName ref="#place_26cf926782fe0bf1a37ac9960658499f">Regensburg</placeName> eine
+                    in der Manzischen Verlagshandlung zu <rs type="place" subtype="place" ref="#place_26cf926782fe0bf1a37ac9960658499f">Regensburg</rs> eine
                     große Realencyklopädie mit großem Kostenaufwande vorbereitet wird. Der
-                    Hauptredacteur, Dr. <persName key="kelle-johann">Kelle</persName> in München,
+                    Hauptredacteur, Dr. <rs type="person" ref="kelle-johann" key="kelle-johann">Kelle</rs> in München,
                     hat sich auch an mich gewendet und ich habe nun Alles aufgeboten eine
                     versöhnende Richtung zwischen den verschiedenen Schattierungen katholischer
                     Gelehrter durchzuführen, sowie die hiesigen slavischen Gelehrten zu bewegen, die
                     slavischen Verhältnisse berührenden Artikel selbst zu übernehmen, um dadurch
                     eine wissenschaftliche Annäherung zwischen Slaven und Deutschen einzuleiten. Ich
-                    glaube, daß beides soviel als erreicht ist. <persName key="erben-karl-jaromir">Erben</persName>, <persName key="wocel-johann-erasmus">Wocel</persName>,
-                        <persName key="zap-karel">Zap</persName>, <persName key="wenzig-josef">Wenzig</persName> werden sich ebenso daran betheiligen, als [?], <persName key="schulte-friedrich">Schulte</persName>, <persName key="loewe-johann-heinrich">Löwe</persName>, <persName key="ehrlich-johann-nepomuk">Ehrlich</persName>, <persName key="veith-johann-emanuel">Veith</persName>, die Münchener, Würzburger
+                    glaube, daß beides soviel als erreicht ist. <rs type="person" ref="erben-karl-jaromir" key="erben-karl-jaromir">Erben</rs>, <rs type="person" ref="wocel-johann-erasmus" key="wocel-johann-erasmus">Wocel</rs>,
+                        <rs type="person" ref="zap-karel" key="zap-karel">Zap</rs>, <rs type="person" ref="wenzig-josef" key="wenzig-josef">Wenzig</rs> werden sich ebenso daran betheiligen, als [?], <rs type="person" ref="schulte-friedrich" key="schulte-friedrich">Schulte</rs>, <rs type="person" ref="loewe-johann-heinrich" key="loewe-johann-heinrich">Löwe</rs>, <rs type="person" ref="ehrlich-johann-nepomuk" key="ehrlich-johann-nepomuk">Ehrlich</rs>, <rs type="person" ref="veith-johann-emanuel" key="veith-johann-emanuel">Veith</rs>, die Münchener, Würzburger
                     Schule. Je mehr sich die einzelnen Parteien auf dem wissenschaftlichen Gebiete
                     kennen lernen, desto mehr wird die persönliche Polemik schwinden und das
                     Interesse der Wahrheit obsiegen. Ich selbst kann mich bei dem Unternehmen soviel

@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Anweisungen Thuns zur Kundmachung der Regierungserlässe in
                         Ungarn<lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1860"> o. D.
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1860"> o. D.
                         [1860]</date>
                     <note xml:id="note_1">Das Dokument wurde im Nachlass in das
                         Jahr 1858 datiert. Die Bezugnahme auf das Protestantenpatent vom 1.
@@ -47,7 +46,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -59,14 +58,14 @@
                 </index>
                 <p>1–5 an die Statthalterei Abtheilung: Ministerpräsidenten[?] (durch [?] [?] unter
                     Anschluß einer Abschrift)<lb/>6 an die Statthalterei in
-                        <placeName ref="#place_0fba96ad68a60e08307511802049d64f">Temeswar</placeName>
+                        <rs type="place" subtype="place" ref="#place_0fba96ad68a60e08307511802049d64f">Temeswar</rs>
                 </p>
                 <p>In dem § 4 des 26. Gesetzartikels vom Jahr 1790/1 hat der Wunsch und die Absicht
                     gesetzlichen Ausdruck gefunden, eine die evangelischen Glaubensgenossen des
                     Helvetischen wie des Augsburger Bekenntnisses sämtlicher in dem Königreiche
-                        <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> bestandenen Superintendenzen umfassende
+                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> bestandenen Superintendenzen umfassende
                     gemeinsame kirchliche Ordnung herzustellen. Nachdem es durch lange Jahre
-                    verabsäumt worden war, diese Angelegenheiten durchzuführen, haben <persName key="franz-joseph">Seine kaiserliche apostolische Majestät</persName> im
+                    verabsäumt worden war, diese Angelegenheiten durchzuführen, haben <rs type="person" ref="franz-joseph" key="franz-joseph">Seine kaiserliche apostolische Majestät</rs> im
                     Gefühle allerhöchster Ihrer Regentenpflicht und mit aufrichtigem Wohlwollen für
                     Ihre evangelischen Unterthanen beider Bekenntnisse durch das allerhöchste Patent
                     vom 1. September vorigen Jahres den Weg vorgezeichnet, auf welchem die lange
@@ -140,7 +139,7 @@
                     zu verhindern, daß in einer der wichtigsten Angelegenheiten ihrer
                     Glaubensgenossen, diese von dem wahren Sachverhalt auch nur unterrichtet werden,
                     haben sie jene Autonomie, die von ihnen selbst als das Lebensprinzip ihrer
-                    kirchlichen Einrichtungen erklärt wird, und zugleich der <persName key="franz-joseph">Seiner k.k. apostolischen Majestät</persName> und Seiner
+                    kirchlichen Einrichtungen erklärt wird, und zugleich der <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner k.k. apostolischen Majestät</rs> und Seiner
                     Regierung schuldigen Ehrerbiethung in unverantwortlicher Weise entgegengehandelt
                     und den augenscheinlichsten Beweis geliefert, daß die Herstellung einer
                     gedeihlichen Ordnung ohne vorhergegangene Koordinierung unmöglich ist. Es liegen

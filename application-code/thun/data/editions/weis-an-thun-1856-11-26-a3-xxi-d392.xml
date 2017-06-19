@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="weis-nikolaus" role="sender:kleriker">Nikolaus Weis</persName>
-                    an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="weis-nikolaus" key="weis-nikolaus" role="sender:kleriker">Nikolaus Weis</rs>
+                    an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_9290bf86c029c6030af8166e3bc89cd9">Speyer</placeName>, <date when="1856-11-26">26. November 1856</date>
+                    <rs type="place" subtype="place" ref="#place_9290bf86c029c6030af8166e3bc89cd9">Speyer</rs>, <date when="1856-11-26">26. November 1856</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -45,7 +44,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -58,13 +57,13 @@
                 <p>Hochgebietender Herr Minister,<lb/>Euer Excellenz!</p>
                 <p>Durch Erlaß des Königlich Bayerischen Staatsministeriums des Innern für Kirchen-
                     und Schulangelegenheiten vom 23. September letzten Jahres ward, während meiner
-                    jüngsten Abwesenheit in <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName>, mein Generalvicar in
+                    jüngsten Abwesenheit in <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs>, mein Generalvicar in
                     Kenntnis gesetzt, daß der Betrag von 20.000 fl. C.M. oder 24.000 fl. rhein. als
-                    die zweite Rate des Geschenkes <persName key="franz-joseph">Seiner Apostolischen
-                        Majestät</persName> für den Speyerer Dombau bei der königlichen Kreiskasse
+                    die zweite Rate des Geschenkes <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Apostolischen
+                        Majestät</rs> für den Speyerer Dombau bei der königlichen Kreiskasse
                     dahier angewiesen sei und in Empfang genommen werden könne.<lb/>Nachdem ich
-                    hierauf in <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName> die Quittung, auf diese Summe lautend,
-                    ausgestellt und dieselbe dem <persName key="foliot-martin">Generalvicar</persName> nach <placeName ref="#place_9290bf86c029c6030af8166e3bc89cd9">Speyer</placeName> gesendet hatte,
+                    hierauf in <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs> die Quittung, auf diese Summe lautend,
+                    ausgestellt und dieselbe dem <rs type="person" ref="foliot-martin" key="foliot-martin">Generalvicar</rs> nach <rs type="place" subtype="place" ref="#place_9290bf86c029c6030af8166e3bc89cd9">Speyer</rs> gesendet hatte,
                     um die Erhebung der fraglichen Baugelder bei der Kreiskasse der Pfalz zu
                     bewerkstelligen, erfolgte ein zweiter Erlaß des Königlich Bayerischen
                     Staatsministeriums des Innern für Kirchen- und Schulangelegenheiten vom 4.
@@ -72,7 +71,7 @@
                     Freiheit nehme.<lb/>Eure Excellenz werden daraus entnehmen, daß der Betrag der
                     fraglichen Rate darin von 24.000 rhein. auf 20.000 fl rhein. reducirt und dabei
                     angegeben wird, daß, wie bei der Auszahlung der ersten Rate, ein Irrthum
-                    unterlaufen sei.<lb/>Mein <persName key="foliot-martin">Generalvicar</persName>
+                    unterlaufen sei.<lb/>Mein <rs type="person" ref="foliot-martin" key="foliot-martin">Generalvicar</rs>
                     hat die Bereinigung dieser Frage bis zu meiner Zurückkunft verschoben, und ich
                     erachte es bei der Lage der Sache vor allem erforderlich, mich an Eure Excellenz
                     zu wenden, um durch Hochderen Güte zu erfahren, wie die Sache sich eigentlich
@@ -88,29 +87,29 @@
                 <p>K. B.<lb/>Staatsministerium des Innern für Kirchen- und Schulangelegenheiten</p>
                 <p>In der Entschließung des unterfertigten k. Staatsministeriums vom 23. September
                     letzten Jahres Nr. 8710 wurde auf Grund einer Mittheilung der k.k.
-                    österreichischen Gesandtschaft in <placeName ref="#place_d0a6343a081a7335baa965ce4fd0845c">München</placeName> die zweite Rate
-                    des Geschenkes Seiner Majestät des <persName key="franz-joseph">Kaisers Franz
-                        Joseph von Oesterreich</persName> für Wiederherstellung der Kaiserhalle im
+                    österreichischen Gesandtschaft in <rs type="place" subtype="place" ref="#place_d0a6343a081a7335baa965ce4fd0845c">München</rs> die zweite Rate
+                    des Geschenkes Seiner Majestät des <rs type="person" ref="franz-joseph" key="franz-joseph">Kaisers Franz
+                        Joseph von Oesterreich</rs> für Wiederherstellung der Kaiserhalle im
                     Dome zu Speyer auf den Betrag von 20.000 fl. C.M. das ist 24.000 fl. rhein.
                     angegeben.<lb/>Laut der beiliegenden Quittung der k. Centralstaatskasse vom 22.
                     September letzten Jahres Nr. 394, welche der k. Kreiskasse in
-                        <placeName ref="#place_9290bf86c029c6030af8166e3bc89cd9">Speyer</placeName> auszuhändigen ist, beträgt aber jene Rate nur
-                    20.000 fl. rhein. Gleichwohl hat der Hochwürdigste <persName key="weis-nikolaus">Herr Bischof von Speyer</persName> in der mit Präsidialbericht vom 28.
+                        <rs type="place" subtype="place" ref="#place_9290bf86c029c6030af8166e3bc89cd9">Speyer</rs> auszuhändigen ist, beträgt aber jene Rate nur
+                    20.000 fl. rhein. Gleichwohl hat der Hochwürdigste <rs type="person" ref="weis-nikolaus" key="weis-nikolaus">Herr Bischof von Speyer</rs> in der mit Präsidialbericht vom 28.
                     Oktober letzten Jahres vorgelegten, hiereben wieder angefügten Quittung d. d.
                     Rom, 9. Oktober 1856 den Empfang von 20.000 fl. C.M. oder 24.000 rheinisch
                     bescheinigt.<lb/>Diese Quittung bedarf daher der Richtigstellung auf den
                     wirklich ausbezahlten Beitrag von 20.000 fl. rheinisch.<lb/>Da nach dem Inhalte
-                    dieser Quittung der bischöfliche Generalvicar, <persName key="foliot-martin">Domdechant Foliot</persName>, als der vom Hochwürdigsten Herrn Bischofe mit
+                    dieser Quittung der bischöfliche Generalvicar, <rs type="person" ref="foliot-martin" key="foliot-martin">Domdechant Foliot</rs>, als der vom Hochwürdigsten Herrn Bischofe mit
                     dem Geldempfange Beauftragte genannt ist, so wird es keinem Bedenken
-                    unterliegen, die fragliche Berichtigung von dem <persName key="foliot-martin">Domdechant Foliot</persName> mit eigener Hand und im eigenen Namen jener
+                    unterliegen, die fragliche Berichtigung von dem <rs type="person" ref="foliot-martin" key="foliot-martin">Domdechant Foliot</rs> mit eigener Hand und im eigenen Namen jener
                     Quittung beisetzen zu lassen.<lb/>Das Präsidium der k. Regierung der Pfalz
-                    erhält hienach den Auftrag, den <persName key="foliot-martin">Domdechant
-                        Foliot</persName> hiezu zu veranlassen und sodann die Quittung schleunigst
+                    erhält hienach den Auftrag, den <rs type="person" ref="foliot-martin" key="foliot-martin">Domdechant
+                        Foliot</rs> hiezu zu veranlassen und sodann die Quittung schleunigst
                     wieder vorzulegen.<lb/>Um ferner jedem möglichen Mißverständnisse vorzubeugen,
-                    scheint es zweckmäßig, daß <persName key="foliot-martin">Domdechant
-                        Foliot</persName> in seiner beizufügenden berichtigenden Erklärung
-                    ausdrücklich bemerke, auch die erste vom <persName key="weis-nikolaus">Herrn
-                        Bischofe von Speyer</persName> in Empfang genommene Rate habe sich auf
+                    scheint es zweckmäßig, daß <rs type="person" ref="foliot-martin" key="foliot-martin">Domdechant
+                        Foliot</rs> in seiner beizufügenden berichtigenden Erklärung
+                    ausdrücklich bemerke, auch die erste vom <rs type="person" ref="weis-nikolaus" key="weis-nikolaus">Herrn
+                        Bischofe von Speyer</rs> in Empfang genommene Rate habe sich auf
                     20.000 fl. rheinisch belaufen. Dieser Beisatz erscheint darum als räthlich, weil
                     auch die Anweisung der ersten Rate irriger Weise auf 24.000 rhein. oder 20.000
                     C.M. gelautet hatte, während die bei den Akten des unterfertigten k.

@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="athanaczkovicz-plato" role="sender:kleriker">Plato
-                        Athanaczkovics</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="athanaczkovicz-plato" key="athanaczkovicz-plato" role="sender:kleriker">Plato
+                        Athanaczkovics</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1854-08-02">2. August 1854</date>
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1854-08-02">2. August 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -41,7 +40,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -57,18 +56,18 @@
                     erlauchten österreichischen Leopoldordens und geheimen Rathe des Staates Seiner
                     kaiserlichen königlichen apostolischen Majestät. Hermannstadt, in der
                     Diözesanbuchdruckerei. 1854. S. XVIII. 183.</p>
-                <p>In der Vorrede klagt Bischof <persName key="schaguna-andreas">Schaguna</persName>
+                <p>In der Vorrede klagt Bischof <rs type="person" ref="schaguna-andreas" key="schaguna-andreas">Schaguna</rs>
                     über den Mangel dogmatischer, kanonischer und historischer Bücher in seiner
                     Diözese und fragt sich selbst dabei, ob er deswegen an den Flüssen Babylons
                     sitzen und weinen solle? Das that ich nicht – sagt er weiter – sondern sammelte
                     als Professor der Theologie und Custos zugleich der Metropolitanbibliothek in
-                        <placeName key="karlowitz" ref="#place_e8dd2a3255e06e628c50a81e52cab7a1">Carlovicz</placeName> durch 20 Jahre das
+                        <rs type="place" subtype="place" key="karlowitz" ref="#place_e8dd2a3255e06e628c50a81e52cab7a1">Carlovicz</rs> durch 20 Jahre das
                     Materiale zu diesem meinem Werke.<lb/>Diese Klage ist ungerecht; denn gerade
                     hinsichtlich der kanonischen Bücher sind die Romanen besser gesegnet als die
                     Serben, indem dieselben in ihrer populär-romanischen Sprache ein vorzügliches
                     Pandektenbuch unter dem Namen „Pidalionul“ aus dem griechischen Urtexte
                     übersetzt bereits seit 12 Jahren besitzen und es ist wirklich zu verwundern, wie
-                    sich <persName key="schaguna-andreas">Bischof Schaguna</persName> beim
+                    sich <rs type="person" ref="schaguna-andreas" key="schaguna-andreas">Bischof Schaguna</rs> beim
                     Vorhandensein dieses trefflichen romanischen Pidalions hat entschließen können,
                     mit seinem gegenwärtigen so mangelhaften, seiner eigenen Benennung sehr wenig
                     entsprechenden Büchlein hervorzutreten, dessen weit größerer Theil ohnehin

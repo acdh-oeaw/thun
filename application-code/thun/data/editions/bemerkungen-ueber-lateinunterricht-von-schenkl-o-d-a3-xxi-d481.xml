@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Bemerkungen über den Lateinunterricht an den Gymnasien von <persName key="schenkl-karl" role="sender:gelehrter">Karl Schenkl</persName>
+                <title>Bemerkungen über den Lateinunterricht an den Gymnasien von <rs type="person" ref="schenkl-karl" key="schenkl-karl" role="sender:gelehrter">Karl Schenkl</rs>
                     <lb/>o.
                     O., o. D. [<date when="1858">1858</date>]<note xml:id="note_1">Das Schreiben ist
                         im Nachlass auf das Jahr 1858 datiert. Diese Datierung erscheint plausibel,
@@ -47,7 +46,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

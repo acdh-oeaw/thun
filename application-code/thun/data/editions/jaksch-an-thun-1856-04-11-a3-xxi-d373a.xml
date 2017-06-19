@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="jaksch-anton" role="sender:gelehrter">Anton Jaksch</persName>
-                    an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="jaksch-anton" key="jaksch-anton" role="sender:gelehrter">Anton Jaksch</rs>
+                    an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, <date when="1856-04-11">11.
+                    <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1856-04-11">11.
                         April 1856</date>
                 </title>
             </titleStmt>
@@ -58,7 +57,7 @@
                 </p>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -72,20 +71,20 @@
                 <p>Wiewohl ich besorgen muß, durch meine Briefe lästig zu fallen, so wage ich es
                     dennoch, abermals vor Euer Excellenz zu treten, um eine Pflicht zu erfüllen, die
                     mir mein Gewissen, meine Liebe zu dem allerhöchsten Throne und dem Vaterlande
-                    auflegt. Es gilt über den Herrn Ministerialrath <persName key="weiss-von-starkenfels-theodor">Weiß von Starkenfels</persName> Licht zu
+                    auflegt. Es gilt über den Herrn Ministerialrath <rs type="person" ref="weiss-von-starkenfels-theodor" key="weiss-von-starkenfels-theodor">Weiß von Starkenfels</rs> Licht zu
                     verbreiten, der, wie es hieß, bezüglich der künftigen Gestaltung der Prager
                     Krankenanstalten mit großen Vollmachten versehen, durch mehrere Tage in
-                        <placeName key="prag" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</placeName> weilte, um den Orden der barmherzigen
+                        <rs type="place" subtype="place" key="prag" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs> weilte, um den Orden der barmherzigen
                     Schwestern in die Anstalt einzuführen. Was ich nun mittheilen werde, habe ich
                     genau und wahrheitsgetreu niedergeschrieben, wie ich es an den Quellen erhoben
                     habe. Es steht von der anerkannten Ehrenhaftigkeit der Männer, die mir als
                     Quelle dienten, zu erwarten, daß sie nöthigen Falles das Mitgetheilte durch
-                    einen Eid bekräftigen werden.<lb/>Der Herr <persName key="weiss-von-starkenfels-theodor">Ministerialrath</persName> hat es gar
+                    einen Eid bekräftigen werden.<lb/>Der Herr <rs type="person" ref="weiss-von-starkenfels-theodor" key="weiss-von-starkenfels-theodor">Ministerialrath</rs> hat es gar
                     nicht der Mühe werth gehalten, mit den Primarärzten und Professoren an der
                     Anstalt irgendeine Rücksprache zu halten, um über die dem Interesse der
                     Wissenschaft und Humanität entgegen stehenden Ordensregeln zu berathen und zu
                     einer Vereinbarung zu führen; er hat vielmehr den biedern und ehrenwerthen
-                        <persName key="biermann-christian-friedrich">Direktor</persName> der
+                        <rs type="person" ref="biermann-christian-friedrich" key="biermann-christian-friedrich">Direktor</rs> der
                     Anstalt, deshalb, weil derselbe an der Spitze der Primarärzte seine Pflicht
                     erfüllte und zur Kenntnis der hohen Behörden brachte, welche Bedenken gegen die
                     Modalitäten, unter denen der Orden eingeführt wurde, obwalten, der Opposition
@@ -93,7 +92,7 @@
                     stelle, seine Pflicht sey es, das monarchische Princip durchzuführen und
                     selbstständig zu handeln. Als der Herr Direktor hierauf bemerkte, daß er durch
                     seine Instruktion gebunden sey, mit den Primarärzten über die Angelegenheiten
-                    des Krankenhauses Conferenzen zu halten, so entgegnete der Herr <persName key="weiss-von-starkenfels-theodor">Ministerialrath</persName>, er möge die
+                    des Krankenhauses Conferenzen zu halten, so entgegnete der Herr <rs type="person" ref="weiss-von-starkenfels-theodor" key="weiss-von-starkenfels-theodor">Ministerialrath</rs>, er möge die
                     Instruktion ändern oder auf eine Änderung antragen. Euer Excellenz kennen meine
                     Gesinnungen und ich kann für dieselben bezüglich meiner Kollegen einstehen: Wir
                     Alle wünschen gebildete und religiöse Krankenpflegerinnen, wir alle werden das
@@ -109,12 +108,12 @@
                     mehrere von uns haben für ihre Pflicht bereits ihr Leben eingesetzt, und nun
                     sollen wir durch unsere Conferenzen zum Wohle der Krankenanstalt das
                     monarchische Princip bedrohen!?<lb/>Eben so merkwürdig ist folgende gegen den
-                    Herrn <persName key="biermann-christian-friedrich">Direktor Biermann</persName>
-                    gemachte Äußerung des Herrn <persName key="weiss-von-starkenfels-theodor">Ministerialrathes Weiß</persName>: Das Spital ist von nun an ein
+                    Herrn <rs type="person" ref="biermann-christian-friedrich" key="biermann-christian-friedrich">Direktor Biermann</rs>
+                    gemachte Äußerung des Herrn <rs type="person" ref="weiss-von-starkenfels-theodor" key="weiss-von-starkenfels-theodor">Ministerialrathes Weiß</rs>: Das Spital ist von nun an ein
                     Klosterspital, d. h. es muß als das Wichtigste, als die Hauptsache angesehen
                     werden, daß die Kranken moralisch gebessert und mit christlichen Gesinnungen das
                     Haus verlassen, die ärztliche Behandlung sey Nebensache; ohnehin halte er nichts
-                    auf die Medicin. Aus dieser Äußerung läßt sich folgern, daß der <persName key="weiss-von-starkenfels-theodor">Herr Ministerialrath</persName> alle
+                    auf die Medicin. Aus dieser Äußerung läßt sich folgern, daß der <rs type="person" ref="weiss-von-starkenfels-theodor" key="weiss-von-starkenfels-theodor">Herr Ministerialrath</rs> alle
                     oder doch viele der ins Spital eintretenden Kranken für irreligiös und moralisch
                     verdorben halte und deshalb die Umwandlung des Krankenhauses in eine
                     Correktionsanstalt für nothwendig erachte. Zu einer solchen Behauptung ist kein
@@ -124,13 +123,13 @@
                     diesen Zweck zu erreichen, gehört Bildung überhaupt und insbesondre eine tiefe
                     religiöse Bildung; mit Ceremonien und heiligen Sprüchen werden wohl Heuchler
                     gebildet, aber keine Seele dem Himmel und Staate gerettet.<lb/>Noch merkwürdiger
-                    ist folgende Äußerung, die der Herr Ministerialrath in Gegenwart des <persName key="arlt-ferdinand">Prof. Arlt</persName>, der ihn zufällig in der
+                    ist folgende Äußerung, die der Herr Ministerialrath in Gegenwart des <rs type="person" ref="arlt-ferdinand" key="arlt-ferdinand">Prof. Arlt</rs>, der ihn zufällig in der
                     Direktionskanzlei traf, machte: Er halte nichts auf die Medicin und habe Lust,
                     die Summe von 85000 fl., die für die Errichtung der pathologisch-anatomischen
                     und chemischen Anstalt bestimmt sey, auf den Flügelbau des Spitals der
                     barmherzigen Schwestern zu verwenden; die pathologisch-anatomische Anstalt könne
                     bleiben, wo sie ist oder in das alte Gebäude der Irrenanstalt verlegt werden.
-                    Als ihm hierauf<persName key="arlt-ferdinand"> Prof. Arlt</persName> erwiderte,
+                    Als ihm hierauf<rs type="person" ref="arlt-ferdinand" key="arlt-ferdinand"> Prof. Arlt</rs> erwiderte,
                     daß er damit dem medizinisch-praktischen Unterrichte die Lebensader abschneide,
                     hatte er nichts zu entgegnen als: er halte nichts auf die Medicin und gehe in
                     dieser Hinsicht von ganz entgegengesetzten Principien aus. Wie kann ein, wenn
@@ -138,7 +137,7 @@
                     allergnädigsten Kaisers, der für die segensreichste der Wissenschaften, die
                     Medicin, bisher so väterlich sorgte, geradezu verläugnen und den allerhöchsten
                     Absichten zuwider handeln wollen? Alle diese und noch andre Bemerkungen und
-                    Vorwürfe wurden dem biedern Direktor der Krankenanstalten, <persName key="biermann-christian-friedrich">Doktor Biermann</persName>, in so
+                    Vorwürfe wurden dem biedern Direktor der Krankenanstalten, <rs type="person" ref="biermann-christian-friedrich" key="biermann-christian-friedrich">Doktor Biermann</rs>, in so
                     barscher und dem ärztlichen Stand und seiner Stellung so erniedrigender Weise
                     gemacht, daß derselbe seit jener Zeit ganz geknickt und gebrochenen Muthes
                     einhergeht.<lb/>Nicht würdig der hohen Stellung und Mission, die der Herr
@@ -163,9 +162,9 @@
                     diesem Manne ist das Wohl der Prager Krankenanstalten anvertraut, die durch die
                     Vortrefflichkeit ihrer bisherigen Einrichtungen europäischen Ruf erhielten, die
                     Bildungsschule wurden für angehende und selbst fertige Ärzte aus allen Gauen
-                        <country key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</country> und dessen
+                        <rs type="place" subtype="country" key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</rs> und dessen
                     Nachbarstaaten.<lb/>Euer Excellenz, dem das Wohl der Menschheit und Wissenschaft
-                    so sehr am Herzen liegt, der Sie den Ruhm von <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</country> Hochschulen auf jede mögliche Weise zu fördern
+                    so sehr am Herzen liegt, der Sie den Ruhm von <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> Hochschulen auf jede mögliche Weise zu fördern
                     suchen, der Sie Seiner Majestät, unserem gnädigsten Kaiser als nächster
                     Rathgeber Ihr Daseyn gewidmet haben, werden sicher dazu beitragen, daß ein
                     Streben paralysirt werde, das auf Heuchelei und nicht auf wahre christliche

@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="bonitz-hermann" role="sender:gelehrter">Hermann
-                        Bonitz</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="bonitz-hermann" key="bonitz-hermann" role="sender:gelehrter">Hermann
+                        Bonitz</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1855-05-07">07. Mai 1855</date>
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1855-05-07">07. Mai 1855</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -39,7 +38,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -62,7 +61,7 @@
                     wiederholter Überlegung hervorgegangene Überzeugung darzulegen, und wage es
                     Euerer Excellenz beiliegend einen Abdruck davon zu hochgeneigter Kenntnisnahme
                     ehrerbietigst zu unterbreiten. Als der beiliegende Aufsatz bereits zum Drucke
-                    fertig war, erhielt ich von Herrn Ministerialrath <persName key="kleemann-johann">Kleemann</persName> den vertrauensvollen Auftrag, mich
+                    fertig war, erhielt ich von Herrn Ministerialrath <rs type="person" ref="kleemann-johann" key="kleemann-johann">Kleemann</rs> den vertrauensvollen Auftrag, mich
                     über diesen Gegenstand gutachtlich zu äußern; durch den beiliegenden Aufsatz,
                     obwohl er ohne den Gedanken an einen solchen Auftrag abgefaßt ist, hoffe ich
                     demselben entsprochen zu haben. Die mir gleichzeitig mitgetheilten Gutachten der
@@ -70,7 +69,7 @@
                     lesen können, jedoch keinen Anlass gefunden, daß ich irgend etwas in den von mir
                     dargelegten Ansichten geändert wünschte. Einige anderweite Bemerkungen, zu denen
                     die mitgetheilten Gutachten führen, habe ich schriftlich an Herrn
-                    Ministerialrath <persName key="kleemann-johann">Kleemann</persName> eingereicht.
+                    Ministerialrath <rs type="person" ref="kleemann-johann" key="kleemann-johann">Kleemann</rs> eingereicht.
                     Gestatten Euere Excellenz den Ausdruck der tiefsten Ehrerbietung von</p>
                 <p>Euerer Excellenz unterthänigstem Diener<lb/>H. Bonitz</p>
                 <p>Wien, 7. Mai 1855</p>

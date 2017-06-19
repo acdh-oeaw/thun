@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-friedrich" role="sender:verwandter">Friedrich
-                        Thun</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="thun-hohenstein-friedrich" key="thun-hohenstein-friedrich" role="sender:verwandter">Friedrich
+                        Thun</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</placeName>, <date when="1849-10-05">5.
+                    <rs type="place" subtype="place" key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs>, <date when="1849-10-05">5.
                         Oktober 1849</date>
                 </title>
             </titleStmt>
@@ -65,7 +64,7 @@
                 </p>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -80,16 +79,16 @@
                 <p>München, am 5. Oktober 1849</p>
                 <p>Lieber Leo,</p>
                 <p>erst heute bin im Stande auf deinen Brief vom 18. September zu antworten.
-                        <persName key="jarcke-karl-ernst">Jarke</persName> [Jarcke] kam am Tag nach
+                        <rs type="person" ref="jarcke-karl-ernst" key="jarcke-karl-ernst">Jarke</rs> [Jarcke] kam am Tag nach
                     Empfang des Packets durch Ruben hier an, ich übergab ihm also zuerst dasselbe,
                     da es von meiner Seite doch nur Neugierde gewesen wäre es durchzulesen, ich auch
                     nicht sobald dazu gekommen wäre. Schreiben wollte ich dir aber erst bis ich auf
-                    deine Anfragen einige Auskunft geben konnte, nun war aber <persName key="phillips-george">Phillipps</persName> [Phillips] auf einer Reise in
-                        <region ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</region>, von wo er erst am 8. dieses zurück erwartet wurde,
-                    doch unternahm es <persName key="jarcke-karl-ernst">Jarke</persName>, der wußte,
+                    deine Anfragen einige Auskunft geben konnte, nun war aber <rs type="person" ref="phillips-george" key="phillips-george">Phillipps</rs> [Phillips] auf einer Reise in
+                        <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs>, von wo er erst am 8. dieses zurück erwartet wurde,
+                    doch unternahm es <rs type="person" ref="jarcke-karl-ernst" key="jarcke-karl-ernst">Jarke</rs>, der wußte,
                     wo ihn aufzufinden, ihm sogleich zu schreiben und darauf kam er gleich zurück
                     und war heute früh bei mir; und nun nach der Ordnung:<lb/>1.
-                        <persName>Phillipps</persName> ist bereit einen Posten in <orgName key="universitaet-innsbruck">Insbruck</orgName> [Innsbruck] anzunehmen,
+                        <rs type="person" ref="">Phillipps</rs> ist bereit einen Posten in <orgName key="universitaet-innsbruck">Insbruck</orgName> [Innsbruck] anzunehmen,
                     weniger als 2.000 fl CM Gehalt wäre ihm nicht möglich festzustellen, da er für
                     zu seinen litherarischen Arbeiten nothwendigen Büchern viel Geld braucht,
                     besonders, wenn er an einem Orte ist, wo ihm nicht eine so reichhaltige
@@ -101,7 +100,7 @@
                     sich begnügen; das Fach für welches er ernannt zu werden wünscht ist <hi rend="underline">Kirchenrecht</hi>, von der Freiheit andere Collegien zu
                     lesen würde er auf jeden Falle Gebrauch machen, da er sich mit Vorliebe seit
                     langem auch mit dem Staatsrechte und den Verfassungen
-                        <country ref="#place_dc85ea1cae4d41601ab5e88ed293a13b">Englands</country>, <country ref="#place_162b390989a8678640067963acb65109">Deutschlands</country> etc. abgebe;
+                        <rs type="place" subtype="country" ref="#place_dc85ea1cae4d41601ab5e88ed293a13b">Englands</rs>, <rs type="place" subtype="country" ref="#place_162b390989a8678640067963acb65109">Deutschlands</rs> etc. abgebe;
                     die Kollegiengelder, die in Aussicht gestellt werden, seien freilich sehr
                     geringer (ungefähr die Hälfte von den hiesigen) indessen geht er darauf ein;
                     rücksichtlich des Pauschales für Übersiedlungskosten konnte er mir im Augenblick
@@ -113,7 +112,7 @@
                     nächsten Semester eintreten könnte, indessen ist er auch darüber traitable,
                     sagte aber er müßte auch darüber erst mit seiner Frau Rücksprache nehmen und
                     würde mir Antwort sagen, eine Hauptschwierigkeit meint er würde sein, daß er
-                    jetzt kaum mehr eine Wohnung in <placeName key="innsbruck" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Insbruck</placeName>
+                    jetzt kaum mehr eine Wohnung in <rs type="place" subtype="place" key="innsbruck" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Insbruck</rs>
                     fände und folglich den Winter im Wirthshaus zubringen müßte, doch glaubt wird
                     sich das Alles machen, da er offenbar gern in oesterreichische Staatsdienste
                     tritt, und ich glaube es würde nur fördernd sein, wenn du mich wissen ließest,
@@ -127,11 +126,11 @@
                     Gewißheit haben, daß er nähmlich nicht risquire plötzlich wider seinen Willen
                         <hi rend="underline">versetzt</hi> oder <hi rend="underline">suspendirt zu
                         werden</hi>, beides sei ihm nun schon zweimal, hier und in
-                        <region ref="#place_29a93c0139fd45a35375f2ded98bb90b">Preußen</region> geschehen, und demselben könne er sich bei seinem
+                        <rs type="place" subtype="region" ref="#place_29a93c0139fd45a35375f2ded98bb90b">Preußen</rs> geschehen, und demselben könne er sich bei seinem
                     Alter von 45 Jahren nicht mehr einem 3. Mahl aussetzen. Er habe zwar Alles
                     Vertrauen in das gegenwärtige Oesterreichische Ministerium, indessen seien die
-                    Fälle doch schon vorgekommen und namentlich habe das Beispiel <persName key="hurter-friedrich-emanuel">Hurters</persName>, der voriges Jahr, nachdem
-                    er nach <country ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</country> berufen worden sei, fortgeschickt worden
+                    Fälle doch schon vorgekommen und namentlich habe das Beispiel <rs type="person" ref="hurter-friedrich-emanuel" key="hurter-friedrich-emanuel">Hurters</rs>, der voriges Jahr, nachdem
+                    er nach <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs> berufen worden sei, fortgeschickt worden
                     ist, ohne irgend etwas zu bekommen, hier sehr ängstlich gemacht umsomehr als man
                     sagt, das habe geschehen können, weil er noch nicht 3 Jahre angestellt gewesen
                     sei, folglich noch keine Ansprüche gehabt habe. Darüber wünscht er nun nähere
@@ -139,7 +138,7 @@
                     Erneuerung der <orgName key="universitaet-innsbruck">Insbrucker
                         Universität</orgName> denke oder er das einzige isolirte neue Element sei,
                     im solchen Fall er sich mit den bisherigen Herrn Collegen wenig Erfolg
-                    verspricht.<lb/>2. <persName key="doellinger-ignaz">Döllinger</persName>
+                    verspricht.<lb/>2. <rs type="person" ref="doellinger-ignaz" key="doellinger-ignaz">Döllinger</rs>
                     <hi rend="underline">scheint</hi> mir vor der Hand nicht zu vermögen in unseren
                     Dienst überzutreten, er sagte mir er habe gegründete Aussicht, daß er bald auch
                     hier wieder eine Lehrthätigkeit erhalte, die ihm freilich am meisten zusage,
@@ -147,15 +146,15 @@
                     veränderte Verhältnisse überzutreten, am meisten erschrack er offenbar vor der
                     Zumuthung nach <orgName key="universitaet-prag">Prag</orgName> zu gehen, wo er
                     das Terrain ganz ungünstig glaubt, in welchem Falle er dann ganz isolirt
-                    dastehen und sonach seine Wirksamkeit gänzlich gelähmt sein würde. <persName key="doellinger-ignaz">D[öllinger]</persName> ist übrigens ein Mann der sich
+                    dastehen und sonach seine Wirksamkeit gänzlich gelähmt sein würde. <rs type="person" ref="doellinger-ignaz" key="doellinger-ignaz">D[öllinger]</rs> ist übrigens ein Mann der sich
                     sehr wenig ausspricht, und ich bin ihm ganz fremd, ich glaube beinahe man würde,
                     wenn man ihm <hi rend="underline">günstige</hi> Bedingungen stellte und nicht
-                    auf <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> beharrt, doch noch etwas erreichen können, ich
-                    werde <persName key="jarcke-karl-ernst">Jarke</persName> noch bemühen, um ihn
+                    auf <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> beharrt, doch noch etwas erreichen können, ich
+                    werde <rs type="person" ref="jarcke-karl-ernst" key="jarcke-karl-ernst">Jarke</rs> noch bemühen, um ihn
                     sondiren und bearbeiten zu lassen, natürlich, als wenn es von ihm käme,
                     vielleicht höre ich dann wenigstens etwas bestimmtes, denn meine Unterredung mit
                     ihm machte mir den Eindruck, als ob er mich ankommen lassen wollte.<lb/>3. Mit
-                        <persName key="prantl-karl">Prantl</persName> habe ich unter der Hand
+                        <rs type="person" ref="prantl-karl" key="prantl-karl">Prantl</rs> habe ich unter der Hand
                     sprechen lassen, er wäre nicht abgeneigt in österreichische Dienste zu treten,
                         <hi rend="ul">wenn er sich dadurch verbessert</hi>, doch schließt er
                         <orgName key="universitaet-krakau">Krakau</orgName> und <orgName key="universitaet-lemberg">Lemberg</orgName> aus, am liebsten schien ihm
@@ -169,14 +168,14 @@
                     könnte.<lb/>Rücksichtlich der Einrichtung der Volksschulen habe ich die
                     bestimmten Daten noch nicht empfangen, doch hoffe ich sie bald zu bekommen und
                     schicke sie dir dann gleich. Über die endliche Aussicht des Zustandekommens
-                    einer neuen provisorischen Centralgewalt ist man hier sehr froh, <persName key="pfordten-ludwig-von-der">von der Pfordten</persName> ist mit der
-                    Punktation ganz zufrieden. Beiliegend ein Zettel von <persName key="thun-hohenstein-josefine">Juža</persName> [Josefine], Abschrift aus
-                    einem Briefe von <persName key="veith-johann-emanuel">Veith</persName>
+                    einer neuen provisorischen Centralgewalt ist man hier sehr froh, <rs type="person" ref="pfordten-ludwig-von-der" key="pfordten-ludwig-von-der">von der Pfordten</rs> ist mit der
+                    Punktation ganz zufrieden. Beiliegend ein Zettel von <rs type="person" ref="thun-hohenstein-josefine" key="thun-hohenstein-josefine">Juža</rs> [Josefine], Abschrift aus
+                    einem Briefe von <rs type="person" ref="veith-johann-emanuel" key="veith-johann-emanuel">Veith</rs>
                     <note xml:id="note_1">Diese Abschrift liegt dem Brief bei.</note>, mit Warnung
-                    gegen Bischof <persName key="dittrich-josef">Dietrich</persName> [Dittrich], in
+                    gegen Bischof <rs type="person" ref="dittrich-josef" key="dittrich-josef">Dietrich</rs> [Dittrich], in
                     diesem Sinne habe auch ich schon hier über ihn urtheilen hören, dann noch ein
-                    Einschluß von <persName key="thun-hohenstein-franz-anton">Franz</persName>
-                    <note xml:id="note_2">Diese Beilage ist nicht vorhanden.</note>. <persName key="thun-hohenstein-caroline">Caroline</persName> solle mir verzeihen, daß
+                    Einschluß von <rs type="person" ref="thun-hohenstein-franz-anton" key="thun-hohenstein-franz-anton">Franz</rs>
+                    <note xml:id="note_2">Diese Beilage ist nicht vorhanden.</note>. <rs type="person" ref="thun-hohenstein-caroline" key="thun-hohenstein-caroline">Caroline</rs> solle mir verzeihen, daß
                     ich ihr noch nicht auf ihren freundlichen Brief vom 17. September geantwortet.
                     Ich habe ihn schon angefangen, komme aber heute nicht zu Ende und nun ist
                     Poststunde. Also Gottbefohlen</p>
@@ -184,13 +183,13 @@
                 <p>treuer Bruder</p>
                 <p>Fritz</p>
                 <div xml:id="D7_1" type="enclosure">
-                    <p>Aus einem Brief von <persName key="veith-johann-emanuel">Veith</persName> aus
-                            <placeName key="raeckelwitz" ref="#place_5147f21d36604e096ee446b0709fcffc">Räckelwitz</placeName>:<lb/>Leider erfahre
+                    <p>Aus einem Brief von <rs type="person" ref="veith-johann-emanuel" key="veith-johann-emanuel">Veith</rs> aus
+                            <rs type="place" subtype="place" key="raeckelwitz" ref="#place_5147f21d36604e096ee446b0709fcffc">Räckelwitz</rs>:<lb/>Leider erfahre
                         ich nicht unmittelbar hier, aber in hiesiger Gegend, daß die Meynung über
-                        den Bischof <persName key="dittrich-josef">D[ittrich]</persName> unter den
+                        den Bischof <rs type="person" ref="dittrich-josef" key="dittrich-josef">D[ittrich]</rs> unter den
                         höheren, gebildeten und geistlichen Katholiken sehr gesunken ist, und seine
                         Ansichten, sein Treiben und seine Empfehlungen sehr verdächtigt sind. Ich
-                        bitte das dem redlichen, edlen <persName key="thun-hohenstein-leo">Leo</persName> zu sagen aus Gründen, die ich Ihnen mündlich nennen
+                        bitte das dem redlichen, edlen <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Leo</rs> zu sagen aus Gründen, die ich Ihnen mündlich nennen
                         werde.</p>
                 </div>
             </div>

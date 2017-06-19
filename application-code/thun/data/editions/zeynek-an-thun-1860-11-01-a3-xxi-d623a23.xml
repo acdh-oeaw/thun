@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="zeynek-gustav" role="sender:gelehrter">Gustav
-                        Zeýnek</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="zeynek-gustav" key="zeynek-gustav" role="sender:gelehrter">Gustav
+                        Zeýnek</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_f0cb899d2f50889980d12f59807d7ae0">Hermannstadt</placeName>, <date when="1860-11-01">1. November 1860</date>
+                    <rs type="place" subtype="place" ref="#place_f0cb899d2f50889980d12f59807d7ae0">Hermannstadt</rs>, <date when="1860-11-01">1. November 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -35,7 +34,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -45,7 +44,7 @@
                     <term>Entlassung Thuns</term>
                 </index>
                 <p>Eure Excellenz!</p>
-                <p>Nicht nur die Geschichte <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</country>
+                <p>Nicht nur die Geschichte <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs>
                     verzeichnet ruhmvoll in ihren Annalen den Namen Eurer Excellenz als den
                     Begründer eines neuen blühenden Schulwesens, sondern derselbe ist auch in dem
                     Herzen eines jeden Schulmannes mit den Lettern der Liebe und Dankbarkeit

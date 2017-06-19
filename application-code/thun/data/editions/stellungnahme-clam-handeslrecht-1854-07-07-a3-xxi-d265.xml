@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Stellungnahme von <persName key="clam-martinic-heinrich-jaroslav">Heinrich
-                        Clam-Martinitz</persName> zu einem Gesetzesentwurf für ein neues
+                <title>Stellungnahme von <rs type="person" ref="clam-martinic-heinrich-jaroslav" key="clam-martinic-heinrich-jaroslav">Heinrich
+                        Clam-Martinitz</rs> zu einem Gesetzesentwurf für ein neues
                         Handelsrecht<lb/>
                     <date when="1854-07-07">7. Juli 1854</date>
                 </title>
@@ -41,7 +40,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

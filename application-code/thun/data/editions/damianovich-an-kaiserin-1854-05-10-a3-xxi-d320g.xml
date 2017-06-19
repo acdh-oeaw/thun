@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="damianovich-maria-antonia">Maria Antonia
-                        Damianovich</persName> an <persName key="elisabeth" role="recipient">Kaiserin Elisabeth</persName>
+                    <rs type="person" ref="damianovich-maria-antonia" key="damianovich-maria-antonia">Maria Antonia
+                        Damianovich</rs> an <rs type="person" ref="elisabeth" key="elisabeth" role="recipient">Kaiserin Elisabeth</rs>
                     <lb/>
-                    <placeName ref="#place_be9bc4f1d4132613ae5591c9a750f467">Rab</placeName>, <date when="1854-05-10">10. Mai 1854</date>
+                    <rs type="place" subtype="place" ref="#place_be9bc4f1d4132613ae5591c9a750f467">Rab</rs>, <date when="1854-05-10">10. Mai 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -35,7 +34,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -48,7 +47,7 @@
                 <p>A piedi dell’Augusto Vostro Trono portarsi l’umile sottoscritta Vostr’ancella, e
                     raccolto nel più profondo ossequio si dà coraggio a contratularsi colla Sacra
                     Maestà Vostra per le Sante Vostre Nozze celebrate con il più grande, il più
-                    glorioso, ed il più felice <persName key="franz-joseph">Imperatore</persName>.<lb/>Io meschinissima non posso manifestare alla Maestà
+                    glorioso, ed il più felice <rs type="person" ref="franz-joseph" key="franz-joseph">Imperatore</rs>.<lb/>Io meschinissima non posso manifestare alla Maestà
                     Vostra Sacratissima i miei devotissimi e sincerissimi sentimenti, se non se
                     pregare fra queste Sacra Mura il mio celeste sposo Christo Gesù, che Vi
                     sortirò[?] e Vi colocò in questo glorioso Trono, per nostro conforto, onde versi
@@ -59,14 +58,14 @@
                     Sacratissima! In questa felicissima [?], tutto il Vostro [?] e Felice Impero
                     [?]cheggia colla Vostra Pietà e Mannificenza, animata l’umile sottoscritta da
                     queste Voci, e del luminosissimo Esempio dell’Augusta Imperatrice Madre, e
-                    dell’alta Augusta degnissima Sposa di Sua Maestà <persName key="ferdinand-I-oesterreich">Ferdinando</persName>, che più [?] si
+                    dell’alta Augusta degnissima Sposa di Sua Maestà <rs type="person" ref="ferdinand-I-oesterreich" key="ferdinand-I-oesterreich">Ferdinando</rs>, che più [?] si
                     degnarono largamente [?] questo pio e sacri Asilo, tutto ciò mi dà coraggio
                     presentarmi a Vostri Piedi o Augusta Imperatrice fermamente sperando d’ancor Voi
                     [?] la Vostra beneficentissima Mano con fare qual[?] <hi rend="ul">Elargizione</hi> a questo Sacro Luogo, nelle presenti calamitane
                     circostanze di carestia, nelle quali m’attrovo momento, tanto pel ristauro di
                     questo [?]bissimo convento, che conta circa [?], quanto pel mantenimento della
                     mia religiosa Famiglia, che milita sotto la terza regola del mio Serafico Padre
-                        <persName key="franz-von-assisi">Santo Francesco</persName>, mediante il
+                        <rs type="person" ref="franz-von-assisi" key="franz-von-assisi">Santo Francesco</rs>, mediante il
                     patrocinio del quale, assieme colle stesse mie Suore non cessiamo, ne cesseremo
                     spondere ferida presi, si per Voi, che pel’ Adorato Vostro Sposo, e per tutta
                     l’Imperiale Famiglia, perché il Signore Vi difenda da ogni e qualunque

@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="ficker-julius" role="sender:gelehrter">Julius
-                        Ficker</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="ficker-julius" key="ficker-julius" role="sender:gelehrter">Julius
+                        Ficker</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_ad335f2ef2acb7f6f9600c7f647d640a">o. O. [Innsbruck]</placeName>, <date when="1854-11-02">o. D. [2. November 1854]</date>
+                    <rs type="place" subtype="place" ref="#place_ad335f2ef2acb7f6f9600c7f647d640a">o. O. [Innsbruck]</rs>, <date when="1854-11-02">o. D. [2. November 1854]</date>
                     <note xml:id="note_1">Ort
                         und Datum konnten durch das Konzept zu dem Brief, das im Nachlass Fickers im
                         IÖG liegt, erschlossen werden.</note>
@@ -55,7 +54,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -95,18 +94,18 @@
                         überhaupt gestatten sollten.<lb/>Euer Excellenz werden verzeihen, wenn ich
                         es wage, noch einige Worte über eine Privatangelegenheit hinzuzufügen. Ein
                         naher Verwandter von mir begab sich im September dieses Jahres mit einem
-                        bischöflichen Empfehlungsschreiben nach <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> und
+                        bischöflichen Empfehlungsschreiben nach <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> und
                         hatte dort, wenn ich ihn verstehe, die Ehre einer Audienz bei Euer
-                        Excellenz. Aus einem Schreiben des hochwürdigen <persName key="mueller-johann-georg">Bischofs von Münster</persName> werden Euer
-                        Excellenz inzwischen ersehen haben, daß dieser mein Vetter, <persName key="krahe-august">August Krahé</persName>, zum Militairdienst
+                        Excellenz. Aus einem Schreiben des hochwürdigen <rs type="person" ref="mueller-johann-georg" key="mueller-johann-georg">Bischofs von Münster</rs> werden Euer
+                        Excellenz inzwischen ersehen haben, daß dieser mein Vetter, <rs type="person" ref="krahe-august" key="krahe-august">August Krahé</rs>, zum Militairdienst
                         eingezogen ist und damit die Aussicht auf Vollführung seines Plans wohl
                         gänzlich vereitelt wurde. Obwohl er selbst einsieht, wie gering die Aussicht
                         sei, daß hier eine Verwendung der k.k. Regierung eintreten könne, so bittet
-                        er mich doch, Euer Excellenz mitzutheilen, daß der hochwürdige <persName key="mueller-johann-georg">Bischof</persName> vergessen habe zu
+                        er mich doch, Euer Excellenz mitzutheilen, daß der hochwürdige <rs type="person" ref="mueller-johann-georg" key="mueller-johann-georg">Bischof</rs> vergessen habe zu
                         bemerken, daß er der 3. Kompagnie des 15. königlich preußischen
                         Infanterieregiments zugetheilt sei, eine Angabe, die im Falle der Verwendung
                         vielleicht eine Beschleunigung ermöglichen würde. Überzeugt, daß, wenn in
-                        dieser Sache überhaupt etwas geschehen kann, die Fürsprache des <persName key="mueller-johann-georg">Hochwürdigen Bischofs</persName> bei Euer
+                        dieser Sache überhaupt etwas geschehen kann, die Fürsprache des <rs type="person" ref="mueller-johann-georg" key="mueller-johann-georg">Hochwürdigen Bischofs</rs> bei Euer
                         Excellenz jede andere überflüssig macht, würde es mir kaum anstehen, noch
                         ein Wort der Empfehlung für meinen Vetter hinzuzufügen.</p>
                     <p>Mit größter Hochachtung und Ergebenheit Euer Excellenz ganz

@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="phillips-george" role="sender:gelehrter">George
-                        Phillips</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="phillips-george" key="phillips-george" role="sender:gelehrter">George
+                        Phillips</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</placeName>,
+                    <rs type="place" subtype="place" key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs>,
                         <date when="1856-03-14">14. März 1856</date>
                 </title>
             </titleStmt>
@@ -38,7 +37,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -50,25 +49,25 @@
                 </index>
                 <p>Euer Excellenz<lb/>Hochgeborner Herr Graf!</p>
                 <p>Dem Befehle Euer Excellenz gemäß habe ich gleich am ersten Tage nach meiner
-                    Ankunft in <placeName ref="#place_d0a6343a081a7335baa965ce4fd0845c">München</placeName> mit dem Generalvicar <persName key="windischmann-friedrich">Dr. Windischmann</persName> in Betreff eines
+                    Ankunft in <rs type="place" subtype="place" ref="#place_d0a6343a081a7335baa965ce4fd0845c">München</rs> mit dem Generalvicar <rs type="person" ref="windischmann-friedrich" key="windischmann-friedrich">Dr. Windischmann</rs> in Betreff eines
                     Übertrittes in den k.k. Staatsdienst weitere Rücksprache genommen. Derselbe
                     wiederholte seine Bereitwilligkeit, unter den Euer Excellenz bereits früher
                     bekannt gegebenen Voraussetzungen das für ihn ehrenvolle Anerbieten anzunehmen
                     und war insbesondere über die ihm zugedachte Art der Verwendung sehr erfreut. Da
-                    ihm jedoch von <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName> aus bekannt geworden war, daß Seine
+                    ihm jedoch von <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs> aus bekannt geworden war, daß Seine
                     Heiligkeit der Papst den Wunsch ausgesprochen habe, daß er wenigstens für den
-                    Anfang dem neuen <persName key="scherr-georg">Herrn Erzbischofe</persName>, wenn
+                    Anfang dem neuen <rs type="person" ref="scherr-georg" key="scherr-georg">Herrn Erzbischofe</rs>, wenn
                     auch nicht als Generalvicar, in der Leitung der Diöcese zur Seite stehen möge,
-                    so hat <persName key="windischmann-friedrich">Windischmann</persName> es für
-                    seine Pflicht gehalten, unter dem Siegel der Verschwiegenheit dem <persName key="reisach-karl-august">Herrn Kardinal Grafen von Reisach</persName> von
+                    so hat <rs type="person" ref="windischmann-friedrich" key="windischmann-friedrich">Windischmann</rs> es für
+                    seine Pflicht gehalten, unter dem Siegel der Verschwiegenheit dem <rs type="person" ref="reisach-karl-august" key="reisach-karl-august">Herrn Kardinal Grafen von Reisach</rs> von
                     den ihm von Euer Excellenz gemachten Anträgen in Kenntnis zu setzen, damit Seine
-                    Eminenz mit dem <persName key="pius-IX">heiligen Vater</persName> in dieser
-                    Hinsicht Rücksprache nehmen könne. <persName key="windischmann-friedrich">Windischmann</persName> erwartete bereits vor einigen Tagen die Antwort; da
+                    Eminenz mit dem <rs type="person" ref="pius-IX" key="pius-IX">heiligen Vater</rs> in dieser
+                    Hinsicht Rücksprache nehmen könne. <rs type="person" ref="windischmann-friedrich" key="windischmann-friedrich">Windischmann</rs> erwartete bereits vor einigen Tagen die Antwort; da
                     diese aber bis jetzt nicht eingetroffen ist, so habe ich geglaubt, nicht länger
                     damit zögern zu dürfen, Hochdenselben den befohlenen Bericht zu erstatten.
                     <lb/>Bei dieser Gelegenheit erlaube ich mir noch die ganz gehorsamste
-                    Mittheilung, daß Dr. <persName key="mor-eugen">Eugen Mor</persName> aus
-                        <placeName ref="#place_2f8cfc13edee95175f630a54177679cf">Preßburg</placeName> mir in einem längeren Briefe
+                    Mittheilung, daß Dr. <rs type="person" ref="mor-eugen" key="mor-eugen">Eugen Mor</rs> aus
+                        <rs type="place" subtype="place" ref="#place_2f8cfc13edee95175f630a54177679cf">Preßburg</rs> mir in einem längeren Briefe
                     auseinandergesetzt hat, wie glücklich und dankbar er sein würde, wenn Euer
                     Excellenz bei der ihm zu seiner Freude angedeuteten Versetzung an eine
                     Universität Hochdero Wahl auf <orgName key="universitaet-graz">Graz</orgName>

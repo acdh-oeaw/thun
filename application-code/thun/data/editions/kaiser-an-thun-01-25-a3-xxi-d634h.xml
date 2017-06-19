@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="franz-joseph" role="sender">Kaiser Franz Joseph</persName> an
-                        <persName key="thun-hohenstein-leo" role="recipient">Leo
-                    Thun</persName>
+                    <rs type="person" ref="franz-joseph" key="franz-joseph" role="sender">Kaiser Franz Joseph</rs> an
+                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                    Thun</rs>
                     <lb/>o. O., <date when="--01-25">25. Januar</date>
                 </title>
             </titleStmt>
@@ -33,7 +32,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

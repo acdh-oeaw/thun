@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="kreutz-johann" role="sender">Johann Kreutz</persName> an
-                        <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="kreutz-johann" key="kreutz-johann" role="sender">Johann Kreutz</rs> an
+                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</placeName>, <date when="1853-06-24">24. Juni 1853</date>
+                    <rs type="place" subtype="place" ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</rs>, <date when="1853-06-24">24. Juni 1853</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -44,7 +43,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -57,8 +56,8 @@
                 <p>Eure Excellenz!</p>
                 <p>Entschuldigen, daß ich mit vorliegenden Zeilen mir erlaube, Hochdero fördernde
                     Kunstliebe in Anspruch zu nehmen.<lb/>Schon bei Bekanntmachung, daß zur
-                    Verewigung der glücklichen Rettung <persName key="franz-joseph">Seiner k.
-                        Majestät</persName> eine Kirche und dieselbe im gothischen Styl erbaut
+                    Verewigung der glücklichen Rettung <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner k.
+                        Majestät</rs> eine Kirche und dieselbe im gothischen Styl erbaut
                     werden soll, war ich entschlossen, Eurer Excellenz eine Ansicht über den
                     Kirchenbau, die ich jahrelang gepflegt und ausgebildet, mitzutheilen, doch
                     Mangel an Zeit (denn ich schreibe diese Zeilen, während ich mit einem Theil der

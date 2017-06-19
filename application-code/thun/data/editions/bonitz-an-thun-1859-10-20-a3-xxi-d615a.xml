@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="bonitz-hermann" role="sender:gelehrter">Hermann
-                        Bonitz</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="bonitz-hermann" key="bonitz-hermann" role="sender:gelehrter">Hermann
+                        Bonitz</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>Wien, <date when="1859-10-20">20. Oktober
                         1859</date>
                 </title>
@@ -45,7 +44,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -84,9 +83,9 @@
                         Mehrheit der Schüler entschieden werden solle und sie pe[ti]tionirten
                         deshalb für den baldigen Erlaß einer ähnlichen gerechten Verordnung für die
                             <orgName key="universitaet-pest">Pester Universität</orgName>, damit
-                        dieselbe den Zweck erreichen könne, dem sie <persName key="maria-theresia">Maria Theresia</persName> und die Primaten <persName key="pazmany-peter">Pázmán</persName> und Andere gewidmet, zum Frommen
+                        dieselbe den Zweck erreichen könne, dem sie <rs type="person" ref="maria-theresia" key="maria-theresia">Maria Theresia</rs> und die Primaten <rs type="person" ref="pazmany-peter" key="pazmany-peter">Pázmán</rs> und Andere gewidmet, zum Frommen
                         für Fürst und Vaterland und zu ihrem eigenem Glücke. Es folgen noch einige
-                        Loyalitätsfloskeln der Stellvertreter des <persName key="albrecht-erzherzog">Erzherzogs [Albrecht]</persName>. Graf <persName key="haller-von-hallerkeoe-franz">Haller</persName> nahm die Deputation
+                        Loyalitätsfloskeln der Stellvertreter des <rs type="person" ref="albrecht-erzherzog" key="albrecht-erzherzog">Erzherzogs [Albrecht]</rs>. Graf <rs type="person" ref="haller-von-hallerkeoe-franz" key="haller-von-hallerkeoe-franz">Haller</rs> nahm die Deputation
                         „geneigt“ entgegen und verwies sie an das <orgName key="ministerium-fuer-kultus-und-unterricht">Kultusministerium</orgName>, wenn sie ihre Petition nicht durch das Decanat
                         einbringen wollten. Soweit die Blätter. Wie erzählt wird, reist die
                         Deputation nach Wien.<lb/>Ich unterlasse es nun zunächst, auf das Object der
@@ -112,7 +111,7 @@
                         seinem Namen in die Öffentlichkeit hinauszuschleudern. Von der Impietät
                         gegen die Schule, der sie kaum entwachsen, will ich gar nicht reden. Und das
                         waren nur Beispiele aus meinem Erfahrungskreise, zu denen Schulrath
-                            <persName key="halder-konrad">Halder</persName> und andere Männer
+                            <rs type="person" ref="halder-konrad" key="halder-konrad">Halder</rs> und andere Männer
                         weitere Beiträge liefern können. Ob die Forderung der Übrigen (das
                         Zahlenverhältnis kann ich nicht angeben), die wirklich mit
                         Sprachschwierigkeiten ringen, berechtigt sei oder nicht, darauf will ich

@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="exner-franz" role="recipient">Franz Exner</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="exner-franz" key="exner-franz" role="recipient">Franz Exner</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="--08-10">10. August
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="--08-10">10. August
                         [1850]</date>
                     <note xml:id="note_1">Im Katalog der Nationalbibliothek ist der
                         Brief in das Jahr 1849 datiert. Das Jahr 1849 ist mit Bleistift auf dem
@@ -47,7 +46,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -60,24 +59,24 @@
                 </index>
                 <p>Wien, den 10. August</p>
                 <p>Lieber Herr Ministerialrath!</p>
-                <p>Ein Brief von <persName key="zeithammer-gregor">Zeithammer</persName> – aus
+                <p>Ein Brief von <rs type="person" ref="zeithammer-gregor" key="zeithammer-gregor">Zeithammer</rs> – aus
                     welchem ich einen <ref target="#CA77_1">Auszug</ref> am Ende folgen lasse
                     bestärkt mich wieder in meiner früheren Ansicht, daß es sehr gut wäre die
                     Gymnasial-Inspektoren – wenigstens diejenigen, die schon in der Lage waren
                     Bereisungen vorzunehmen und die eine große Anzahl von Gymnasien unter ihrer
-                    Aufsicht haben, etwa die aus <region ref="#place_1a477f0b4ff0e44372369bbd196cb38a">Böhmen</region> und
-                        <region ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</region> und dazu vielleicht <persName key="kleemann-johann">Kleemann</persName> – auch während der Ferien
+                    Aufsicht haben, etwa die aus <rs type="place" subtype="region" ref="#place_1a477f0b4ff0e44372369bbd196cb38a">Böhmen</rs> und
+                        <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs> und dazu vielleicht <rs type="person" ref="kleemann-johann" key="kleemann-johann">Kleemann</rs> – auch während der Ferien
                     einzuberufen. Ich bitte, schreiben Sie mir Ihre Meinung darüber, und zugleich
                     wann Sie wieder hier einzutreffen denken, wobei ich Sie aber dringend bitte,
                     sich nicht zu übereilen, sondern sich ordentlich auszukurieren. Zu einer Reise
-                    nach <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country> wüßte ich Ihnen keine besonderen Aufträge zu
-                    geben, es wäre denn, daß Sie Hoffnung hätten für <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>
-                    einen zweiten <persName key="grauert-heinrich">Grauert</persName> zu finden. Das
+                    nach <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> wüßte ich Ihnen keine besonderen Aufträge zu
+                    geben, es wäre denn, daß Sie Hoffnung hätten für <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>
+                    einen zweiten <rs type="person" ref="grauert-heinrich" key="grauert-heinrich">Grauert</rs> zu finden. Das
                     ließe sich aber auch später machen und ich sollte denken Sie thäten besser jetzt
                     auf gar nichts als Ihrer Erholung zu denken, und die Rückreise daher mit einer
-                    Tour in das <region ref="#place_998cb15276c5e21f109375bbe4f7cceb">Salzkammergut</region> oder dergleichen zu verbinden. Ich
+                    Tour in das <rs type="place" subtype="region" ref="#place_998cb15276c5e21f109375bbe4f7cceb">Salzkammergut</rs> oder dergleichen zu verbinden. Ich
                     hoffe der Kreuzbrunn schlägt Ihnen gut an, und Sie finden unter der Gästen von
-                    denen <placeName ref="#place_07746ef3772ea6e718f5cd3a37681d92">Marienbad</placeName> überfüllt sein soll, einige die Ihnen die
+                    denen <rs type="place" subtype="place" ref="#place_07746ef3772ea6e718f5cd3a37681d92">Marienbad</rs> überfüllt sein soll, einige die Ihnen die
                     Brunnen und Waldpromenaden angenehm machen.</p>
                 <p>Mit aufrichtiger Hochachtung</p>
                 <p>Ihr ergebener Thun</p>
@@ -86,7 +85,7 @@
                         <hi rend="ul">Auszug:</hi>
                     </p>
                     <p>Es entstehen jetzt viele wichtige Fragen, welche vielleicht am besten ihre
-                        Lösung erhielten, wenn wir Inspektoren nach <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> zu
+                        Lösung erhielten, wenn wir Inspektoren nach <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> zu
                         den einschlägigen Berathungen berufen würden, denn schriftlich sind die
                         Erörterungen darüber zeitraubend und unvollständig. Ich erlaube mir hier
                         einige zu berühren:<lb/>Sind die als befähigt anerkannten Kandidaten
@@ -95,7 +94,7 @@
                         nur Untergymnasien sein? sind vor der Hand sechsklassige zu
                         belassen?<lb/>Wie ist es in Hinkunft mit dem utraquistischen Unterricht zu
                         halten? Da der Usus ein sehr verschiedener ist, wie aus meinem, dem
-                            <persName key="mecsery-von-tsoor-karl">H. Statthalter</persName> bereits
+                            <rs type="person" ref="mecsery-von-tsoor-karl" key="mecsery-von-tsoor-karl">H. Statthalter</rs> bereits
                         übergebenen Revisionsbericht an das <orgName key="ministerium-fuer-kultus-und-unterricht">hohe Ministerium</orgName>
                         hervorgeht.<lb/>Was haben die Gemeinden für Dotationen zu übernehmen? Ich
                         habe überall diesfalls, ohne früher das betreffende Dekret zu kennen, mit

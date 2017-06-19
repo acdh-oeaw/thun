@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="haxthausen-august" role="recipient">August
-                        Haxthausen</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="haxthausen-august" key="haxthausen-august" role="recipient">August
+                        Haxthausen</rs>
                     <lb/>
-                    <placeName ref="#place_e3a1571b9091d6d78548ad3b4b159d11">Hetzendorf</placeName>, <date when="1858-06-19">19. Juni 1858</date>
+                    <rs type="place" subtype="place" ref="#place_e3a1571b9091d6d78548ad3b4b159d11">Hetzendorf</rs>, <date when="1858-06-19">19. Juni 1858</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -32,7 +31,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -46,7 +45,7 @@
                 <p>So eben entdeckte ich, daß die zwei letzten Bogen der französischen Abschrift
                     Ihres Memoires unter meinen Schriften zurückgeblieben sind. Indem ich dieselben
                     im Anschluß übersende, bitte ich meine Unachtsamkeit freundlichst zu
-                    entschuldigen.<lb/>Ich bedauere zu hören, daß <persName key="szaszkewycz-gregor">Min. Rath. Szaszkiewicz</persName> heute morgen nicht in seiner Wohnung
+                    entschuldigen.<lb/>Ich bedauere zu hören, daß <rs type="person" ref="szaszkewycz-gregor" key="szaszkewycz-gregor">Min. Rath. Szaszkiewicz</rs> heute morgen nicht in seiner Wohnung
                     angetroffen wurde. Es wäre mir außerordentlich leid, wenn mein Wunsch, ihm den
                     Vortheil einer Unterredung mit Ihnen zu verschaffen, dadurch vereitelt würde.
                     Ich würde großen Werth darauf legen, daß der Gedanke die Gründung einer

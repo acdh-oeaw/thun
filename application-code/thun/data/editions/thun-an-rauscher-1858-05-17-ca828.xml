@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="rauscher-joseph" role="recipient:kleriker">Joseph Othmar
-                        Rauscher</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="rauscher-joseph" key="rauscher-joseph" role="recipient:kleriker">Joseph Othmar
+                        Rauscher</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1858-05-17">17. Mai 1858</date>
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1858-05-17">17. Mai 1858</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -37,7 +36,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -51,7 +50,7 @@
                 <p>623/CUM</p>
                 <p>Hochwürdigster Cardinal und Fürsterzbischof!</p>
                 <p>Durch die Bestellung des k.k. Hofkaplans und Studiendirektors im höheren <orgName key="frintaneum">Priesterbildungs-Institute zum hl. Augustin</orgName>,
-                        <persName key="fessler-joseph">Dr. Josef Feßler</persName> zum ordentlichen
+                        <rs type="person" ref="fessler-joseph" key="fessler-joseph">Dr. Josef Feßler</rs> zum ordentlichen
                     Professor des Kirchenrechtes an der hierortigen theologischen Fakultät, ist bei
                     dieser Fakultät die Lehrkanzel der Kirchengeschichte in Erledigung gekommen.
                     Behufs der Wiederbesetzung dieser Lehrkanzel, welche für den Unterricht der
@@ -63,8 +62,8 @@
                     Ohne der erleuchteten diesfälligen Wahl Eurer Eminenz vorgreifen zu wollen, kann
                     ich doch nicht unbemerkt lassen, daß meine Aufmerksamkeit auf den an der
                         <orgName key="universitaet-bonn">Universität zu Bonn</orgName> in Verwendung
-                    stehenden Professor der Kirchengeschichte, <persName key="floss-joseph">Dr.
-                        Floß</persName> gelenkt worden ist, welcher durch mehrere von ihm
+                    stehenden Professor der Kirchengeschichte, <rs type="person" ref="floss-joseph" key="floss-joseph">Dr.
+                        Floß</rs> gelenkt worden ist, welcher durch mehrere von ihm
                     veröffentlichte Druckschriften in der literarischen Welt eines vortheilhaften
                     Rufes sich erfreut und mir als ein Mann empfohlen wird, der ein reichliches Maß
                     kirchengeschichtlicher Kenntnisse besitzt und zugleich sich eignen dürfte, das

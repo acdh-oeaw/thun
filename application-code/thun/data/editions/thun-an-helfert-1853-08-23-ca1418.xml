@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="helfert-joseph-alexander" role="recipient">Joseph Alexander
-                        Helfert</persName>
-                    <lb/>o. O. [<placeName ref="#place_91f7b0064800d29ad8cd02f64845679d">Peruc</placeName>], <date when="1853-08-23">o. D. [23. August 1853]</date>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="helfert-joseph-alexander" key="helfert-joseph-alexander" role="recipient">Joseph Alexander
+                        Helfert</rs>
+                    <lb/>o. O. [<rs type="place" subtype="place" ref="#place_91f7b0064800d29ad8cd02f64845679d">Peruc</rs>], <date when="1853-08-23">o. D. [23. August 1853]</date>
                     <note xml:id="note_1">Ort
                         und Datum sind mit Bleistift am oberen Blattrand vermerkt.</note>
                 </title>
@@ -38,7 +37,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -50,18 +49,18 @@
                 </index>
                 <p>Lieber Helfert!</p>
                 <p>Ich bitte Sie den beiliegenden Zettel<note xml:id="note_2">Die im Brief erwähnten
-                        Schreiben sind nicht erhalten.</note> an Prof. <persName key="fuehrich-joseph">Führich</persName> bestellen[?], und den anderen Brief
-                    – wenn wie ich hoffe Prof. <persName key="fick-heinrich">Fick</persName>
-                    abgereist ist, worüber <persName key="altmann-adolf">Altmann</persName> Auskunft
-                    wissen wird, nach der Anleitung die in Prof <persName key="schroff-karl-damian">Schroffs</persName> Wohnung oder bei <persName key="fuehrich-joseph">Führich</persName> zu erhalten sein dürfte, an <persName key="schroff-karl-damian">Schroff</persName> sie adressieren zu lassen, daß
+                        Schreiben sind nicht erhalten.</note> an Prof. <rs type="person" ref="fuehrich-joseph" key="fuehrich-joseph">Führich</rs> bestellen[?], und den anderen Brief
+                    – wenn wie ich hoffe Prof. <rs type="person" ref="fick-heinrich" key="fick-heinrich">Fick</rs>
+                    abgereist ist, worüber <rs type="person" ref="altmann-adolf" key="altmann-adolf">Altmann</rs> Auskunft
+                    wissen wird, nach der Anleitung die in Prof <rs type="person" ref="schroff-karl-damian" key="schroff-karl-damian">Schroffs</rs> Wohnung oder bei <rs type="person" ref="fuehrich-joseph" key="fuehrich-joseph">Führich</rs> zu erhalten sein dürfte, an <rs type="person" ref="schroff-karl-damian" key="schroff-karl-damian">Schroff</rs> sie adressieren zu lassen, daß
                     er ihm wo möglich sicher noch zu rechter Zeit zukomme, daß er auf der Rückreise
-                        <placeName ref="#place_291029ce3582953a2d6a72695c9ef563">Baumgartenberg</placeName> besuchen könne.<lb/>Dem <persName key="simor-johann">Simor</persName> trage ich auf, wenn er mit dem <persName key="scitovsky-jan">Cardinal Primas</persName> zusammenkommt, wo möglich
+                        <rs type="place" subtype="place" ref="#place_291029ce3582953a2d6a72695c9ef563">Baumgartenberg</rs> besuchen könne.<lb/>Dem <rs type="person" ref="simor-johann" key="simor-johann">Simor</rs> trage ich auf, wenn er mit dem <rs type="person" ref="scitovsky-jan" key="scitovsky-jan">Cardinal Primas</rs> zusammenkommt, wo möglich
                     dazu zu bewegen, daß er zu einer Subdelegation für die Klostervisitazion
-                    schreite, und am besten wohl dem <persName key="kunszt-jozef">Erzbischof von
-                        Kalocza</persName> Vollmachten solcher Art ertheile, daß selbst im Todesfall
+                    schreite, und am besten wohl dem <rs type="person" ref="kunszt-jozef" key="kunszt-jozef">Erzbischof von
+                        Kalocza</rs> Vollmachten solcher Art ertheile, daß selbst im Todesfall
                     das Geschäft keine Unterbrechung erleiden müße. Ich habe neuerlich gehört, daß
-                    die Ärzte in <placeName key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</placeName> doch nicht mehr an ein
-                    langes Leben des <persName key="scitovsky-jan">Primas</persName> glauben.</p>
+                    die Ärzte in <rs type="place" subtype="place" key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</rs> doch nicht mehr an ein
+                    langes Leben des <rs type="person" ref="scitovsky-jan" key="scitovsky-jan">Primas</rs> glauben.</p>
                 <p>Aufrichtig der Ihrige<lb/>Thun</p>
             </div>
         </body>

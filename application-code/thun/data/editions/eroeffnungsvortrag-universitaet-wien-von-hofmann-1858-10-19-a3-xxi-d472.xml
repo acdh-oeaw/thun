@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Eröffnungsvortrag des Privatdozenten für deutsches Bundes- und Staatsrecht,
-                        <persName key="hofmann-leopold">Leopold Hofmann</persName>, an der
-                    Universität Wien<lb/>[<placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>], <date when="1858-10-19">19.
+                        <rs type="person" ref="hofmann-leopold" key="hofmann-leopold">Leopold Hofmann</rs>, an der
+                    Universität Wien<lb/>[<rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>], <date when="1858-10-19">19.
                         Oktober 1858</date>
                 </title>
             </titleStmt>
@@ -37,7 +36,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -65,7 +64,7 @@
                     beizutragen, deren hohe Bedeutsamkeit auch für die speziell österreichischen
                     Zustände mir im Laufe der Ereignisse mehr und mehr klar geworden war. Die
                     Doctrin des „<hi rend="ul">deutschen Staatsrechtes</hi>“ ist es, welche ich
-                    hiemit meine. <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> ist durch die
+                    hiemit meine. <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> ist durch die
                     Geschichte wie durch seine Macht zur <hi rend="ul">ersten</hi> Stellung in dem
                     übrigens auf gleichen Rechten und Verpflichtungen beruhenden Verbande berufen,
                     welches die Völker deutscher Zunge umschlingt. Unsere Regierung, die Interessen,
@@ -75,8 +74,8 @@
                     dieser Verbindung – freilich immer unter Festhaltung an deren rechtlicher Basis
                     – zu erzielen und scheut momentan selbst erhebliche Opfer nicht, um diesen Zweck
                     zu erreichen. Sie handelt in dem richtigen Verständnisse, daß die
-                    Zusammengehörigkeit <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</country> und des
-                    übrigen <country key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</country> eine <hi rend="ul">Lebens</hi>frage für <hi rend="ul">beide</hi> sey, daß wir uns dann aber
+                    Zusammengehörigkeit <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> und des
+                    übrigen <rs type="place" subtype="country" key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</rs> eine <hi rend="ul">Lebens</hi>frage für <hi rend="ul">beide</hi> sey, daß wir uns dann aber
                     auch den Bedingungen nicht entziehen können, welche eine solche
                     Zusammengehörigkeit nothwendig im Gefolge hat. Unsere Regierung wird in der
                     Überwindung der Schwierigkeiten, denen sie bei einem consequenten Betreten
@@ -98,7 +97,7 @@
                     ungenügend erkannt und das Bedürfnis gefühlt, auch jetzt noch dem „<hi rend="ul">deutschen Staatsrechte</hi>“ in unseren Gauen seinen Platz zu vindiciren.
                     Unter deutschem Staatsrechte aber versteht man, wie ich bereits das vorige Jahr
                     mitzutheilen die Ehre hatte, eben:<lb/>„den Inbegriff aller auf die staatlichen
-                    Rechtszustände bezüglichen Normen, welche in <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country> und
+                    Rechtszustände bezüglichen Normen, welche in <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> und
                     seinen einzelnen Ländern seit der ersten Territorialgestaltung in Anwendung
                     gekommen sind oder noch jetzt, seit Stiftung des deutschen Bundes zur Anwendung
                     kommen“.<lb/>Der Umfang und die Wichtigkeit des Gegenstandes ergeben sich aus
@@ -107,36 +106,36 @@
                     Einwendungen gegen den allgemeinen verbindlichen Character, welcher der
                     erwähnten Doctrin häufig beigelegt werden will, so wie gegen den Mißbrauch,
                     welcher mit der räumlichen Ausdehnung derselben getrieben wird, von der
-                    Unerläßlichkeit vollkommen überzeugt sey, ihr auch in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> das Bürgerrecht wieder zu verschaffen, dadurch allein
+                    Unerläßlichkeit vollkommen überzeugt sey, ihr auch in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> das Bürgerrecht wieder zu verschaffen, dadurch allein
                     wird mein Unternehmen veranlaßt und entschuldigt, das Ziel meines Strebens, der
                     Lohn meiner Thätigkeit liegen eben in der definitiven Erreichung dieses
                     Resultats.<lb/>Nach ihrer äußeren Gestaltung aber zerfällt die von mir zu
                     lösende Aufgabe in zwei große Hälften. Was uns nebst den nothwendigsten
                     Vorbegriffen zunächst interessiren mußte, war die Organisation dessen kennen zu
-                    lernen, was ganz <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country> zu einem gemeinsamen Körper
+                    lernen, was ganz <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> zu einem gemeinsamen Körper
                     vereinigt und zwar nach der zum richtigen Verständnisse des Jetzigen
                     unerläßlichen Schilderung des rechtshistorischen Hergangs, der erschöpfenden
-                    Darstellung der früheren staatlichen Gestaltungen <country key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Gesammtdeutschlands</country>.<lb/>Hierin lag das Programm meiner
+                    Darstellung der früheren staatlichen Gestaltungen <rs type="place" subtype="country" key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Gesammtdeutschlands</rs>.<lb/>Hierin lag das Programm meiner
                     Vorlesungen vom verflossenen Jahre. Die staatsrechtlichen Verhältnisse des
                     ehrwürdigen alten deutschen Reichs bildeten das Propyläum, durch welches ich
                     meine Zuhörer in die späteren Formationen einführte. Wir lernten zunächst die
                     Grundgesetze, auf welchen die Verfassung des Reichskörpers beruhte, in näherer
-                    Erläuterung kennen. Der von <persName key="karl-der-grosse">Carl dem
-                        Großen</persName> gegründete Einheits- und Beamtenstaat – der richtige
+                    Erläuterung kennen. Der von <rs type="person" ref="karl-der-grosse" key="karl-der-grosse">Carl dem
+                        Großen</rs> gegründete Einheits- und Beamtenstaat – der richtige
                     Abdruck einer wahren Monarchie – er konnte sich in den Händen seiner unfähigen
                     Nachfolger auf deutscher Erde nicht behaupten. Ein furchtbares Ringen zwischen
                     den mächtigen einzelnen Stämmen, beziehungsweise deren zur Erblichkeit gelangten
                     Herzogen und Grafen, mit der zum Wahlkönigthume herabgesunkenen eigentlichen
                     Herrschergewalt beginnt die centrifugalen Elemente machen[sic!] sich geltend mit
                     immer steigenden Überlegenheit. In der Geschichte dieses Kampfes finden Sie,
-                    meine Herren, jene <country key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</country> überhaupt.
+                    meine Herren, jene <rs type="place" subtype="country" key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</rs> überhaupt.
                     Die obenerwähnten Grundgesetzte sind für alles dies nur ein concreter Ausdruck
-                    in einer bestimmten Epoche. So sehen in der allmähligen Schwächung <country key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</country>, in der Verringerung seines
+                    in einer bestimmten Epoche. So sehen in der allmähligen Schwächung <rs type="place" subtype="country" key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</rs>, in der Verringerung seines
                     Ansehens, in dem Verluste seiner schönsten Länder, nur ein furchtbares Beispiel
                     der rächenden Nemesis für die völlige Verkennung der wahren Grundlage einer
                     staatlichen Gewalt. Mit der Glaubensspaltung war jede Verbesserung unmöglich
-                    geworden. Was die constitutiones <persName key="friedrich-I">Friedrich
-                        I.</persName> vom Anfange des 13. Jahrhunderts am frühesten in urkundlicher
+                    geworden. Was die constitutiones <rs type="person" ref="friedrich-I" key="friedrich-I">Friedrich
+                        I.</rs> vom Anfange des 13. Jahrhunderts am frühesten in urkundlicher
                     Form ausgesprochen, vollendete der Westphälische Frieden. Von da an datirt
                     eigentlich schon der Todeskampf. Nicht durch <hi rend="ul">innere</hi> Stärke,
                     nicht durch wahre Vitalität schleppte das Reich mühevoll seine Existenz fort,
@@ -158,10 +157,10 @@
                     längst nur mehr auf das eigene Interesse bedachten zumal größern Fürsten
                     zusammen. Kann es uns wundern, daß ein solcher Zustand dem gewaltigen Anstoße
                     der französischen Revolution, dem Drängen des mächtigen Geistes erlag, der aus
-                    ihren Händen die Geschicke <country key="frankreich" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreichs</country>
+                    ihren Händen die Geschicke <rs type="place" subtype="country" key="frankreich" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreichs</rs>
                     überkommen hatte. Der Reichsdeputationshauptschluß vom Jahre 1803 versucht
                     vergeblich eine Wiederbelebung des erstarrten Körpers und nachdem auch dieses
-                    Projekt fehlgeschlagen war und der Preßburger Friede <country key="frankreich" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreichs</country> Überlegenheit abermals kundgethan hatte, schien es
+                    Projekt fehlgeschlagen war und der Preßburger Friede <rs type="place" subtype="country" key="frankreich" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreichs</rs> Überlegenheit abermals kundgethan hatte, schien es
                     einer Mehrzahl von Ständen an der Zeit, die Maske abzuwerfen und mit Verläugnung
                     früheren Verbandes, auf der Basis der eben erlangten <hi rend="ul">Souveränität</hi> ein neues staatliches Gemeinwesen, den sogenannten
                     Rheinbund zu gründen. Die Auflösung des Reiches selbst mußte, wie ich
@@ -176,12 +175,12 @@
                     kommenden staatlichen Gestaltung unweigerlich zu Grund zu legen war. Den besten
                     Beleg für diese Nothwendigkeit lieferten eben die Verhandlungen am Wiener
                     Congresse über die deutsche Bundesakte, das erste Grundgesetz des jetzt
-                    bestehenden Vereines. Die vorzüglichsten Patrioten <country key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</country>, Männer von hervorragenden Talenten und reifer
+                    bestehenden Vereines. Die vorzüglichsten Patrioten <rs type="place" subtype="country" key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</rs>, Männer von hervorragenden Talenten und reifer
                     Erfahrung, ebenso bekannt mit den augenblicklichen Bedürfnissen der Nation als
-                    noch lebend in deren geschichtlichen Erinnerungen, ein <persName key="metternich-klemens-wenzel-lothar">Metternich</persName>, <persName key="stein-heinrich">Stein</persName>, <persName key="humboldt-wilhelm">Humboldt</persName>, <persName key="muenster-ernst-friedrich">Münster</persName> fanden sich am Congresse zusammen, legten
+                    noch lebend in deren geschichtlichen Erinnerungen, ein <rs type="person" ref="metternich-klemens-wenzel-lothar" key="metternich-klemens-wenzel-lothar">Metternich</rs>, <rs type="person" ref="stein-heinrich" key="stein-heinrich">Stein</rs>, <rs type="person" ref="humboldt-wilhelm" key="humboldt-wilhelm">Humboldt</rs>, <rs type="person" ref="muenster-ernst-friedrich" key="muenster-ernst-friedrich">Münster</rs> fanden sich am Congresse zusammen, legten
                     gemeinschaftlich Hand ans Werk. Mochten sie auch in manchen und wesentlichen
                     Punkten ihrer Anschauungsweisen differiren, <hi rend="ul">darin</hi> gingen sie
-                    alle einig, daß <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country> als Gesammtmacht wieder
+                    alle einig, daß <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> als Gesammtmacht wieder
                     hergestellt, auf die höchste Stufe erreichbarer Wohlfahrt erhoben werden müsse.
                     Eine andere <hi rend="ul">Form</hi> für die Vollführung fand sich aber eben
                     nicht als jene des <hi rend="ul">Staatenbundes</hi>. Er war seit der
@@ -203,7 +202,7 @@
                     wahrheitsgetreuen Darstellung wohl wie kaum ein anderes werth. Aber die Aufgabe
                     des <hi rend="ul">Staatsrechtslehrers</hi> erscheint hiedurch noch in keiner
                     Weise erschöpft, der Bund umfaßt nach seiner ganzen Anlage nur einen Theil der
-                    öffentlichen Rechtsverhältnisse <country key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</country>. Das eigentliche Leben der Nation kann sich in ihm
+                    öffentlichen Rechtsverhältnisse <rs type="place" subtype="country" key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</rs>. Das eigentliche Leben der Nation kann sich in ihm
                     nicht ausschließlich bewegen, er kann nur der Schlußstein des Gebäudes, nicht
                     aber die Behausung selbst sein. Im <hi rend="ul">einzelnen Staate</hi> findet
                     der Deutsche bisher noch seine Heimat, von ihm muß er verlangen, was das oberste
@@ -283,7 +282,7 @@
                     folgte hierin der in den letzten Tagen des Reichs durch Gönner ins Leben
                     gerufenen Schule, welche alle durch Reichsgesetze und Gewohnheiten gelassenen
                     Lücken lediglich mittelst des Naturrechts auszufüllen bestrebt war. Ja neuerer
-                    Zeit gehören <persName key="klueber-johann-ludwig">Klüber</persName> und sein
+                    Zeit gehören <rs type="person" ref="klueber-johann-ludwig" key="klueber-johann-ludwig">Klüber</rs> und sein
                     Anhang unbedingt dieser Richtung an.<lb/>Dieser letzteren ist es hauptsächlich
                     zuzuschreiben, wenn Zwiespalt und Verwirrung selbst in den Reihen der
                     Auserwählten eingerissen sind, wenn die Regierungen, ja wenn sich selbst die
@@ -309,8 +308,8 @@
                     Mißgriff ist innig verwebt mit einem dritten, dessen Anfänge übrigens auch
                     bereits in die Zeiten des alten Reichs zurückgreifen und in der um die deutsche
                     Wissenschaft sonst gewiß hochverdienten historisch dogmatischen Schule, welche
-                    in <persName key="moser-johann-jacob">Joh[ann] Jac[ob] Moser</persName> und
-                        <persName key="puetter-johann-stephan">Stefan Putter</persName> [Pütter]
+                    in <rs type="person" ref="moser-johann-jacob" key="moser-johann-jacob">Joh[ann] Jac[ob] Moser</rs> und
+                        <rs type="person" ref="puetter-johann-stephan" key="puetter-johann-stephan">Stefan Putter</rs> [Pütter]
                     ihre eminentesten Repräsentanten gefunden hat, bereits zur Erscheinung gekommen
                     sind. Diese Richtung verfolgte das System neben den Reichsgesetzen oder
                     Entscheidungen der Reichsbehörde eine möglichst große Anzahl von Thatsachen aus
@@ -322,7 +321,7 @@
                     Charakter einer großen Vollständigkeit zu verleihen, daß aber [?] Wahrheit dabei
                     schlecht wegkam, ist leicht zu begreifen. Dennoch sind auch in neuerer Zeit
                     wieder Versuche gemacht worden, aus dem Vorhandensein gewisser Rechtssätze in
-                    einer größeren oder kleineren Anzahl von Staaten auf eine für <hi rend="ul">alle</hi> gültige Vorschrift zu schließen. <persName key="zachariae-heinrich-albert">Zacharia's</persName> sonst in so vieler
+                    einer größeren oder kleineren Anzahl von Staaten auf eine für <hi rend="ul">alle</hi> gültige Vorschrift zu schließen. <rs type="person" ref="zachariae-heinrich-albert" key="zachariae-heinrich-albert">Zacharia's</rs> sonst in so vieler
                     Beziehung treffliches Werk "deutsches Staats- und Bundesrecht"<note xml:id="note_1">Vgl. Heinrich Albert Zachariä, Deutsches Staats- und
                         Bundesrecht, Göttingen 1841.</note>, mehrfach eine bloß statistische und
                     synchronistische Darstellung der einzelnen Gesetzgebungen bildend, scheint eben
@@ -331,7 +330,7 @@
                     Fleiße Zeugnis gebende Sammlung von Rechten <hi rend="ul">deutscher
                     Staaten</hi>, aber unverbindlich, ohne alle rechtliche Consequenz für die
                     außerhalb dieses Kreises befindlichen.<lb/>Allen diesen Ausschreitungen vom
-                    richtigen Wege stellen wir nunmehr den zuerst von <persName key="mohl-robert">Robert Mohl</persName> in seinem nicht genug zu schätzenden, auch von mir
+                    richtigen Wege stellen wir nunmehr den zuerst von <rs type="person" ref="mohl-robert" key="mohl-robert">Robert Mohl</rs> in seinem nicht genug zu schätzenden, auch von mir
                     hier mehrfach benützten Werke „Geschichte und Literatur der
                         Staatswissenschaften“<note xml:id="note_2">Vgl. Robert von Mohl, Die
                         Geschichte und Literatur der Staatswissenschaften. In Monographien
@@ -357,7 +356,7 @@
                     Gegenstand, welcher uns im Laufe dieses Winters zu beschäftigen haben wird,
                     principiell von Ihnen aufgefaßt zu wissen. Es wird daher freilich Manches von
                     dem ausfallen müssen, was Sie in den gebräuchlicheren Handbüchern über
-                    „deutsches Staatsrecht“ aufgeführt finden. Seit <persName key="klueber-johann-ludwig">Klüber</persName> in die oben gerügten Mißstände
+                    „deutsches Staatsrecht“ aufgeführt finden. Seit <rs type="person" ref="klueber-johann-ludwig" key="klueber-johann-ludwig">Klüber</rs> in die oben gerügten Mißstände
                     verfallen ist, hat er eben bis auf die neueste Zeit herab seine Nachfolger mit
                     sich gezogen. Bei einem solchen Vergleiche also muß schon diejenige Partie
                     meiner Vorträge, welche sich auf das <hi rend="ul">Verfassungsrecht</hi> der
@@ -371,7 +370,7 @@
                     dieser Beziehung als gemeinsames Recht geboten worden ist, geht wirklich ins
                     fabelhafte. Die Probe aber, daß dieses Urtheil nicht zu hart ist, mag jeder von
                     Ihnen, meine verehrten Herren, leicht selbst machen. Er braucht nur in den
-                    nächsten besten Paragraf z. B. des <persName key="maurenbrecher-romeo">Maurenbrecher'schen</persName> Systemes über das Verwaltungsrecht das als
+                    nächsten besten Paragraf z. B. des <rs type="person" ref="maurenbrecher-romeo" key="maurenbrecher-romeo">Maurenbrecher'schen</rs> Systemes über das Verwaltungsrecht das als
                     gemeines deutsches Recht angegebene mit der Gesetzgebung seines eigenen
                     Vaterlandes und etwa noch, falls ihm solche genau bekannt sind, mit den Gesetzen
                     einiger benachbarter Länder scharf zusammenzuhalten, um zu sehen, wie es sich
@@ -394,7 +393,7 @@
                     noch ein mehr als hinlängliches Maß, um ihre Stellung ehrenvoll zu
                     behaupten.<lb/>Der neueren, ja neuesten Zeit blieb es vorbehalten, auch auf dem
                     Gebiete unserer Doctrin den nothwendigen Läuterungsprozeß anzubahnen. Der Name
-                        <persName key="mohl-robert">R[obert] Mohls</persName>, dessen Ansichten Sie
+                        <rs type="person" ref="mohl-robert" key="mohl-robert">R[obert] Mohls</rs>, dessen Ansichten Sie
                     hier im Wesentlichen wiedergegeben finden, ist bereits genannt worden. Ihm
                     gebührt unstreitig das hauptsächlichste Verdienst, die Schwächen der
                     gegnerischen Anschauungsweise aufgedeckt, den Weg angedeutet zu haben, auf
@@ -406,7 +405,7 @@
                     in Anspruch genommene Thätigkeit noch die nöthige Muße hiezu übrig
                     lassen.<lb/>Der 1. Versuch nach dem neuen Systeme mit einer erschöpfenden
                     Darstellung vor das gelehrte Publikum zu treten, ist von dem Professor in
-                    Würzburg Dr. <persName key="held-joseph">Joseph Herd</persName> [sic! richtig
+                    Würzburg Dr. <rs type="person" ref="held-joseph" key="held-joseph">Joseph Herd</rs> [sic! richtig
                     Held] in seinem Buche „Verfassungsrecht der monarchischen Staaten Deutschlands
                     mit besonderer Rücksicht auf den Constitutionalismus, Würzburg 1856“<note xml:id="note_4">Vgl. Joseph Held, System des Verfassungsrechts der
                         monarchischen Staaten Deutschlands mit besonderer Rücksicht auf den
@@ -417,10 +416,10 @@
                     anklebenden fremden Stoffes entkleidet, man gelangt zur Übersicht nach Raum und
                     Maß, erkennt bis in die Details die einzelnen Fragen, um deren Lösung es sich
                     eben handelt. Dennoch ist die Lücke auch hierin nicht ausgefüllt, die
-                    Schwierigkeiten nicht behoben. Denn einmal ist auch <persName key="held-joseph">Held</persName> vielfältig in eine exclusiv rechtsphilosophische Begründung
+                    Schwierigkeiten nicht behoben. Denn einmal ist auch <rs type="person" ref="held-joseph" key="held-joseph">Held</rs> vielfältig in eine exclusiv rechtsphilosophische Begründung
                     seiner Thesen verfallen und gibt dieselbe noch dazu in weitschweifiger, weniger
                     lesbarer Form, anderentheils aber hat er, wie schon der Titel seines Buches
-                    zeigt, das Hauptaugenmerk der constitutionellen Entwicklung <country key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</country> zugewendet und läßt daher den
+                    zeigt, das Hauptaugenmerk der constitutionellen Entwicklung <rs type="place" subtype="country" key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</rs> zugewendet und läßt daher den
                     Zuständen derjenigen deutschen Staaten, welche diese Bahn zu beschreiten Anstand
                     genommen haben, die gebührende Berücksichtigung in keiner Weise widerfahren. Wir
                     begegnen demnach auch dieses Mal nur einem Bruchstücke dort, wo das/die
@@ -484,7 +483,7 @@
                     Gesinnung immer für den giftigsten Pilz am Organismus des Fürsten- wie des
                     Freistandes gehalten und werde meine Hände sicher rein zu bewahren wissen von
                     diesem zersetzenden Elemente.<lb/>In der successiven Abwickelung meines
-                    Gegenstandes werde ich mich soviel als möglich an das <persName key="held-joseph">Held’sche</persName> Buch zu halten suchen, die Gliederung
+                    Gegenstandes werde ich mich soviel als möglich an das <rs type="person" ref="held-joseph" key="held-joseph">Held’sche</rs> Buch zu halten suchen, die Gliederung
                     desselben scheint mir – wie bereits oben angedeutet – logisch richtig, der ganze
                     Entwurf dem practischen Bedürfnisse am meisten entsprechend. Einen eigentlichen
                     Leitfaden für meine Vorlesungen werden Sie freilich auch hiedurch nicht
@@ -492,7 +491,7 @@
                     schmerzlicher als irgendjemand empfinde, dem ich aber für den Augenblick nicht
                     zu steuern vermag.<lb/>Zum Behufe vergleichender Übersicht des vollständigen
                     Inhalts der verschiedenen deutschen Verfassungsgesetze, ihrer Übereinstimmung
-                    oder Disparität habe ich den besten Aufschluß gefunden in Professors <persName key="zachariae-heinrich-albert">H[einrich] Zachariaes</persName> Buch: „Die
+                    oder Disparität habe ich den besten Aufschluß gefunden in Professors <rs type="person" ref="zachariae-heinrich-albert" key="zachariae-heinrich-albert">H[einrich] Zachariaes</rs> Buch: „Die
                     deutschen Verfassungsgesetze der Gegenwart, einschließlich der Grundgesetze des
                     deutschen Bundes und der das Verfassungsrecht der Einzelstaaten direct
                     betreffenden Bundesbeschlüsse, Göttingen [1]855“.<note xml:id="note_5">Vgl.

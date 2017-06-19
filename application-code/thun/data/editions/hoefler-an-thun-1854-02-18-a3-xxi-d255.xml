@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="hoefler-karl-adolf-constantin" role="sender:gelehrter">Constantin Höfler</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="hoefler-karl-adolf-constantin" key="hoefler-karl-adolf-constantin" role="sender:gelehrter">Constantin Höfler</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, <date when="1854-02-18">18. Februar 1854</date>
+                    <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1854-02-18">18. Februar 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -40,7 +39,7 @@
                 </p>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -59,36 +58,36 @@
                     Geschichte ermächtigt mich in dem Interesse der Wissenschaft mich an Euer
                     Excellenz gnädigste Fürsorge zu wenden und, soweit ich es wagen darf,
                     Hochdenselben das Geschick des einen oder anderen zu gnädigster Berücksichtigung
-                    zu empfehlen.<lb/>Es befinden sich unter den Candidaten, welche <persName key="tomek-vaclav-vladivoi">Prof. Tomek</persName> und ich examinirten,
-                        <persName key="gruen-dionys">Dionys Grün</persName>, dem wir in jener vollen
+                    zu empfehlen.<lb/>Es befinden sich unter den Candidaten, welche <rs type="person" ref="tomek-vaclav-vladivoi" key="tomek-vaclav-vladivoi">Prof. Tomek</rs> und ich examinirten,
+                        <rs type="person" ref="gruen-dionys" key="gruen-dionys">Dionys Grün</rs>, dem wir in jener vollen
                     Übereinstimmung, welche überhaupt unter uns herrscht, die Note der Auszeichnung,
-                    und <persName key="zeithammer-anton">Anton Zeithammer</persName>, Sohn des
-                        <persName key="zeithammer-gregor">k.k. Schulrathes</persName>, dem wir für
+                    und <rs type="person" ref="zeithammer-anton" key="zeithammer-anton">Anton Zeithammer</rs>, Sohn des
+                        <rs type="person" ref="zeithammer-gregor" key="zeithammer-gregor">k.k. Schulrathes</rs>, dem wir für
                     sein frisches wissenschaftliches Streben besondere Anerkennung zukommen ließen.
-                    Ersterer, von welchem <persName key="tomek-vaclav-vladivoi">Prof.
-                        Tomek</persName> urtheilte, er würde jedem Gymnasium zur Zierde gereichen
-                    und dessen mündlicher Vortrag so ausgezeichnet war, daß <persName key="tomek-vaclav-vladivoi">Tomek</persName> und <persName key="zimmermann-robert">Zimmermann</persName> ihm öffentlich erklärten, sie
+                    Ersterer, von welchem <rs type="person" ref="tomek-vaclav-vladivoi" key="tomek-vaclav-vladivoi">Prof.
+                        Tomek</rs> urtheilte, er würde jedem Gymnasium zur Zierde gereichen
+                    und dessen mündlicher Vortrag so ausgezeichnet war, daß <rs type="person" ref="tomek-vaclav-vladivoi" key="tomek-vaclav-vladivoi">Tomek</rs> und <rs type="person" ref="zimmermann-robert" key="zimmermann-robert">Zimmermann</rs> ihm öffentlich erklärten, sie
                     bedauerten, daß die gesetzliche Frist nicht gestatte, ihm länger zuzuhören,
                     befindet sich in sehr mißlichen Verhältnissen, während es doch in hohem Grade
                     wünschenswerth wäre, daß ihm Gelegenheit gegeben würde, sich in der Geschichte
                     noch weiter auszubilden. Ich weiß nun nicht, ob ich unter Berufung auf die
                     erwähnten Zeugnisse, denen ich das gleiche des Herrn Generalgroßmeisters
-                    beigesellen kann, Euer Excellenz bitten darf, dem Lehramtscandidaten <persName key="gruen-dionys">Dionys Grün</persName> bis zur Erlangung einer Anstellung
+                    beigesellen kann, Euer Excellenz bitten darf, dem Lehramtscandidaten <rs type="person" ref="gruen-dionys" key="gruen-dionys">Dionys Grün</rs> bis zur Erlangung einer Anstellung
                     eine Unterstützung zu seiner weiteren Ausbildung gnädigst gewähren zu
                     wollen.<lb/>Da es aber in der Natur der Bitten liegt, nicht allein, sondern in
                     Gesellschaft zu erscheinen, erlaube ich mir Euer Excellenz in Betreff des
-                        <persName key="zeithammer-anton">Anton Zeithammer</persName> mit einer
-                    anderen unterthänigen Bitte zu belästigen. Der berühmte Geograph <persName key="ritter-carl">Ritter</persName> liest im nächsten Semester über
+                        <rs type="person" ref="zeithammer-anton" key="zeithammer-anton">Anton Zeithammer</rs> mit einer
+                    anderen unterthänigen Bitte zu belästigen. Der berühmte Geograph <rs type="person" ref="ritter-carl" key="ritter-carl">Ritter</rs> liest im nächsten Semester über
                     Geographie von Europa. Euer Excellenz wissen nun am Besten zu würdigen, daß eine
                     gute Methode das Vortrefflichste ist, was ein Schüler von seinem Lehrer lernen
                     kann; daß diese sich nur aus dem mündlichen Vortrage nicht aus den Schriften
                     lernen läßt, für die österreichischen Schulen aber wohl in hohem Grade zu
                     wünschen wäre, daß die Rittersche Methode durch Schüler des Meisters selbst in
                     die Schulen hinüber geleitet werden möchte. Euer Excellenz ersehen, wohin die
-                    Spitze meines unmaßgeblichen Gesuches geht. <persName key="zeithammer-anton">Anton Zeithammer</persName> ist sehr frisch und strebsam, eifrig und
+                    Spitze meines unmaßgeblichen Gesuches geht. <rs type="person" ref="zeithammer-anton" key="zeithammer-anton">Anton Zeithammer</rs> ist sehr frisch und strebsam, eifrig und
                     fleißig, von seinem Talente, von seinem Fleiße wie von seinen Gesinnungen das
                     Schönste zu hoffen; ein Reisestipendium, welches ihm die Gnade Euer Excellenz
-                    verschaffen würde, würde für die Unterrichtsanstalten, an welchen <persName key="zeithammer-anton">Zeithammer</persName> einst zu wirken hätte,
+                    verschaffen würde, würde für die Unterrichtsanstalten, an welchen <rs type="person" ref="zeithammer-anton" key="zeithammer-anton">Zeithammer</rs> einst zu wirken hätte,
                     überreiche Zinsen tragen.<lb/>Mögen mir Euer Excellenz nicht zürnen, daß ich es
                     wagte, Euer Excellenz mit diesen Bitten zu behelligen! Allein mir sind die
                     Candidaten, welche sich durch besonderen Fleiß und besondere Kenntnisse

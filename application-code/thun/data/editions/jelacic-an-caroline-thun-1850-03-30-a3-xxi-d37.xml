@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="jelacic-joseph" role="sender:beamter">Joseph
-                        Jelačič</persName> an <persName key="thun-hohenstein-caroline" role="recipient:verwandter">Caroline Thun</persName>
+                    <rs type="person" ref="jelacic-joseph" key="jelacic-joseph" role="sender:beamter">Joseph
+                        Jelačič</rs> an <rs type="person" ref="thun-hohenstein-caroline" key="thun-hohenstein-caroline" role="recipient:verwandter">Caroline Thun</rs>
                     <lb/> o. O., <date when="1850-03-30">30. März 1850</date>
                 </title>
             </titleStmt>
@@ -29,7 +28,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -41,11 +40,11 @@
                 <p>Ich habe [?] versprochen die Osterfeiertage mit ihnen zuzubringen und nun erhalte
                     ich so eben ein Schreiben, worin mir bekannt gegeben wird, daß heute Nachts auf
                     der Eisenbahn zu meinem Empfange die Jäger warten – ich mache überhaupt in
-                    meinen eigenen Angelegenheiten viel Konfusionen, wenn mich nicht <persName key="bigot-de-saint-quentin-karl">St. Quentin</persName> oder sonst einer
+                    meinen eigenen Angelegenheiten viel Konfusionen, wenn mich nicht <rs type="person" ref="bigot-de-saint-quentin-karl" key="bigot-de-saint-quentin-karl">St. Quentin</rs> oder sonst einer
                     meiner Herren auf die socialen Pflichten aufmerksam macht und ich bitte mich
                     gütigst zu entschuldigen, wenn ich heute nicht das Glück habe Sie zu
-                    sehen.<lb/>Ich küsse der <persName key="clam-martinic-selina">Gräfin
-                        Mutter</persName> und Ihnen die Hände und bin<lb/>Ihr<lb/>ganz
+                    sehen.<lb/>Ich küsse der <rs type="person" ref="clam-martinic-selina" key="clam-martinic-selina">Gräfin
+                        Mutter</rs> und Ihnen die Hände und bin<lb/>Ihr<lb/>ganz
                     gehorsamer<lb/>Jellacic</p>
                 <p>30.3.[18]50</p>
             </div>

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="jaeger-albert" role="sender:gelehrter">Alber Jäger</persName>
-                    an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="jaeger-albert" key="jaeger-albert" role="sender:gelehrter">Alber Jäger</rs>
+                    an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1854-05-06">6.
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1854-05-06">6.
                         Mai 1854</date>
                 </title>
             </titleStmt>
@@ -47,7 +46,7 @@
                 </p>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -60,24 +59,24 @@
                 </index>
                 <p>Euer Excellenz!</p>
                 <p>Euer Excellenz haben mich mit dem Auftrage beehrt, über die in Zweifel gezogene
-                    politische und religiöse Gesinnung des Herrn <persName key="stumpf-brentano-karl-friedrich">Carl Stumpf</persName> Erhebungen zu
+                    politische und religiöse Gesinnung des Herrn <rs type="person" ref="stumpf-brentano-karl-friedrich" key="stumpf-brentano-karl-friedrich">Carl Stumpf</rs> Erhebungen zu
                     pflegen, welche positive Beweise für die Zuverläßigkeit seiner Gesinnung liefern
                     sollen. Ich freue mich in der angenehmen Lage zu sein, Euer Excellenz folgende
                     Thatsachen referiren zu können.<lb/>Stumpf hat allerdings im Jahre 1848 bei
-                    Gelegenheit einer Fahnenübergabe in <placeName key="olmuetz" ref="#place_c0ce3216e3cb050a80363757086a42f0">Olmütz</placeName>
+                    Gelegenheit einer Fahnenübergabe in <rs type="place" subtype="place" key="olmuetz" ref="#place_c0ce3216e3cb050a80363757086a42f0">Olmütz</rs>
                     eine Rede gehalten, die nicht ganz frei von der damaligen Schwärmerei für das
                     Deutschthum war. Allein schon damals, ehe Euer Excellenz ihn als Supplenten in
                         <orgName key="universitaet-olmuetz">Olmütz</orgName> verwendeten oder
                     hierher nach <orgName key="universitaet-wien">Wien</orgName> beriefen, sei die
-                    Sache von dem ehemaligen Kreispräsidenten <persName key="pokorny-hermann">Pocorny</persName> untersucht und als völlig unerheblich erklärt worden,
+                    Sache von dem ehemaligen Kreispräsidenten <rs type="person" ref="pokorny-hermann" key="pokorny-hermann">Pocorny</rs> untersucht und als völlig unerheblich erklärt worden,
                     was vermuthlich auch damals schon zur Kenntniß Euer Excellenz gelangte. Was aber
-                    jede Beschuldigung gegen <persName key="stumpf-brentano-karl-friedrich">Stumpf</persName> entkräftet, ist der Umstand, daß dieser junge Mann gerade
-                    dort, wo er diese Jugendlichkeit beging, also gerade in <placeName key="olmuetz" ref="#place_c0ce3216e3cb050a80363757086a42f0">Olmütz</placeName>, durch die Gnade Euer Excellenz zweimal Gelegenheit
+                    jede Beschuldigung gegen <rs type="person" ref="stumpf-brentano-karl-friedrich" key="stumpf-brentano-karl-friedrich">Stumpf</rs> entkräftet, ist der Umstand, daß dieser junge Mann gerade
+                    dort, wo er diese Jugendlichkeit beging, also gerade in <rs type="place" subtype="place" key="olmuetz" ref="#place_c0ce3216e3cb050a80363757086a42f0">Olmütz</rs>, durch die Gnade Euer Excellenz zweimal Gelegenheit
                     bekam, eine Wirksamkeit zu entwickeln, welche ihn nicht nur von jedem Verdachte
                     reinigt, sondern ihm auch die Unterstützung und das Wohlwollen Euer Excellenz
                     erwarb, das war seine Wirksamkeit als Supplent am Gymnasium und voriges Jahr als
                     Supplent an der juridischen Facultät. In dem einen wie in dem andern Kreise
-                    wirkte <persName key="stumpf-brentano-karl-friedrich">Stumpf</persName> in einem
+                    wirkte <rs type="person" ref="stumpf-brentano-karl-friedrich" key="stumpf-brentano-karl-friedrich">Stumpf</rs> in einem
                     solchen Geiste, der ihm die Achtung aller erwarb. Als Gymnasiallehrer hatte er
                     wiederholt Gelegenheit, Zweifel oder Äußerungen der Schüler in Betreff
                     biblischer oder kirchlicher Überlieferungen, in Betreff des Papstthumes etc. mit
@@ -87,37 +86,37 @@
                     Professoren in hohem Grade, eben wegen seiner correcten Gesinnung. Er selbst
                     ging am liebsten mit diesen letzteren um, ja soweit ging sein Ernst, daß er
                     selbst Anfeindungen wegen des Ernstes seiner Gesinnung ausgesetzt war. Auch mit
-                    den politischen Beamten in <placeName key="olmuetz" ref="#place_c0ce3216e3cb050a80363757086a42f0">Olmütz</placeName>,
-                    besonders mit dem ehemaligen Kreispräsidenten <persName key="pokorny-hermann">Pocorny</persName>, stand <persName key="stumpf-brentano-karl-friedrich">Stumpf</persName> während seines vorjährigen Aufenthaltes daselbst im
-                    freundlichsten Verkehre. Hatte also <persName key="stumpf-brentano-karl-friedrich">Stumpf</persName> im Jahre 1848 in
-                        <placeName key="olmuetz" ref="#place_c0ce3216e3cb050a80363757086a42f0">Olmütz</placeName> eine Jugendlichkeit begangen –
+                    den politischen Beamten in <rs type="place" subtype="place" key="olmuetz" ref="#place_c0ce3216e3cb050a80363757086a42f0">Olmütz</rs>,
+                    besonders mit dem ehemaligen Kreispräsidenten <rs type="person" ref="pokorny-hermann" key="pokorny-hermann">Pocorny</rs>, stand <rs type="person" ref="stumpf-brentano-karl-friedrich" key="stumpf-brentano-karl-friedrich">Stumpf</rs> während seines vorjährigen Aufenthaltes daselbst im
+                    freundlichsten Verkehre. Hatte also <rs type="person" ref="stumpf-brentano-karl-friedrich" key="stumpf-brentano-karl-friedrich">Stumpf</rs> im Jahre 1848 in
+                        <rs type="place" subtype="place" key="olmuetz" ref="#place_c0ce3216e3cb050a80363757086a42f0">Olmütz</rs> eine Jugendlichkeit begangen –
                     er war damals, was Euer Excellenz gnädigst berücksichtigen wollen, Student der
                     Physik, jung, ein hervorragender Kopf, die ja alle damals Feuer fingen! – so hat
                     er später auf demselben Schauplatze Beweise einer soliden, loyalen, ihm die
                     allgemeine Achtung und vorzugsweise die Achtung derjenigen Männer erworben, in
                     deren Augen nur eine correkte Gesinnung Werth hat. Überdies zeigt sich dieser in
-                        <placeName key="olmuetz" ref="#place_c0ce3216e3cb050a80363757086a42f0">Olmütz</placeName> bewiesene Rückschlag der
-                    Gesinnung in der ganzen Richtung der Studien, welche <persName key="stumpf-brentano-karl-friedrich">Stumpf</persName> betreibt, für ihn hat
+                        <rs type="place" subtype="place" key="olmuetz" ref="#place_c0ce3216e3cb050a80363757086a42f0">Olmütz</rs> bewiesene Rückschlag der
+                    Gesinnung in der ganzen Richtung der Studien, welche <rs type="person" ref="stumpf-brentano-karl-friedrich" key="stumpf-brentano-karl-friedrich">Stumpf</rs> betreibt, für ihn hat
                     nur das Positive nicht das Negative ein Interesse: der Rückschlag muß durch den
                     Gang seiner Studien nothwendig noch größer werden. Dazu kommt noch, daß
-                        <persName key="stumpf-brentano-karl-friedrich">Stumpf</persName> eine
+                        <rs type="person" ref="stumpf-brentano-karl-friedrich" key="stumpf-brentano-karl-friedrich">Stumpf</rs> eine
                     Erziehung erhalten, die durch und durch religiös und von der loyalsten Gesinnung
-                    geleitet war. Er ist der Pflegesohn des <persName key="lilien-carl">Baron
-                        Lilien</persName>, der Staatsrath bei Fürst <persName key="metternich-klemens-wenzel-lothar">Metternich</persName> war. Dieser
+                    geleitet war. Er ist der Pflegesohn des <rs type="person" ref="lilien-carl" key="lilien-carl">Baron
+                        Lilien</rs>, der Staatsrath bei Fürst <rs type="person" ref="metternich-klemens-wenzel-lothar" key="metternich-klemens-wenzel-lothar">Metternich</rs> war. Dieser
                     übte den größten Einfluß auf seine erste Erziehung und Bildung, die nach seinen
-                    Anordnungen eingerichtet wurde. Die Witwe <persName key="lilien-baronin">Baronin
-                        Lilien</persName>, eine strenge Katholikin, ehrt und liebt <persName key="stumpf-brentano-karl-friedrich">Stumpf</persName> wie ihren Sohn. Sie
+                    Anordnungen eingerichtet wurde. Die Witwe <rs type="person" ref="lilien-baronin" key="lilien-baronin">Baronin
+                        Lilien</rs>, eine strenge Katholikin, ehrt und liebt <rs type="person" ref="stumpf-brentano-karl-friedrich" key="stumpf-brentano-karl-friedrich">Stumpf</rs> wie ihren Sohn. Sie
                     vergöttert ihn beinahe gerade wegen seines religiösen Gemüthes.<lb/>Endlich wenn
                     Euer Excellenz auch mir erlauben ein Gewicht in die Schale zu legen, möchte ich
-                    die unbedingte Bürgschaft für <persName key="stumpf-brentano-karl-friedrich">Stumpf</persName> übernehmen. Ich beschäftige mich bald 30 Jahre mit
+                    die unbedingte Bürgschaft für <rs type="person" ref="stumpf-brentano-karl-friedrich" key="stumpf-brentano-karl-friedrich">Stumpf</rs> übernehmen. Ich beschäftige mich bald 30 Jahre mit
                     Unterricht und Pädagogik; ich glaube mir einigen Takt im Fache der Erziehung
                     vielleicht mehr als in dem der Didactik zutrauen zu dürfen, es müßten mich alle
-                    Erfahrungen und Beobachtungen täuschen, wenn ich mich an <persName key="stumpf-brentano-karl-friedrich">Stumpf</persName> irrte. Mir fällt ein,
-                    was <persName key="stolberg-friedrich-leopold">Stolberg</persName> von <persName key="buchholtz-franz-bernhard">Bucholtz</persName> sagte, als er gefragt
+                    Erfahrungen und Beobachtungen täuschen, wenn ich mich an <rs type="person" ref="stumpf-brentano-karl-friedrich" key="stumpf-brentano-karl-friedrich">Stumpf</rs> irrte. Mir fällt ein,
+                    was <rs type="person" ref="stolberg-friedrich-leopold" key="stolberg-friedrich-leopold">Stolberg</rs> von <rs type="person" ref="buchholtz-franz-bernhard" key="buchholtz-franz-bernhard">Bucholtz</rs> sagte, als er gefragt
                     wurde, ob man es wagen dürfe diesen auf die <orgName key="universitaet-goettingen">Universität Göttingen</orgName>, wenn ich
-                    nicht irre, zu schicken: „Wenn <persName key="buchholtz-franz-bernhard">Bucholtz</persName> nicht geschickt werden soll, wer soll dann hingehen?“
-                    Nach der Überzeugung, welche ich aus dem zweijährigen Umgange mit <persName key="stumpf-brentano-karl-friedrich">Stumpf</persName> gewonnen habe, glaube
-                    ich die Versicherung abgeben zu können, daß Euer Excellenz die Sendung <persName key="stumpf-brentano-karl-friedrich">Stumpfs</persName> nach Berlin nie
+                    nicht irre, zu schicken: „Wenn <rs type="person" ref="buchholtz-franz-bernhard" key="buchholtz-franz-bernhard">Bucholtz</rs> nicht geschickt werden soll, wer soll dann hingehen?“
+                    Nach der Überzeugung, welche ich aus dem zweijährigen Umgange mit <rs type="person" ref="stumpf-brentano-karl-friedrich" key="stumpf-brentano-karl-friedrich">Stumpf</rs> gewonnen habe, glaube
+                    ich die Versicherung abgeben zu können, daß Euer Excellenz die Sendung <rs type="person" ref="stumpf-brentano-karl-friedrich" key="stumpf-brentano-karl-friedrich">Stumpfs</rs> nach Berlin nie
                     bereuen werden.<lb/>Indem ich bei dem Drange von Geschäften, welche Euer
                     Excellenz so sehr in Anspruch nehmen, es indiscret fände durch mein persönliches
                     Erscheinen Euer Excellenz zu behelligen, erlaube ich mir noch die

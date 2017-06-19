@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -48,12 +47,12 @@
                         <p>Ingesamt drei Dokumente:</p>
                         <p>
                             <ref target="#D143_1">Entwurf einer Vorschrift die theologischen Studien
-                                in Pest betreffend</ref> von <persName key="thun-hohenstein-leo">Leo
-                                Thun</persName>, o. O., o. D.<lb/>
+                                in Pest betreffend</ref> von <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Leo
+                                Thun</rs>, o. O., o. D.<lb/>
                             <ref target="#D143_2">Entwurf der
                                 k.k. Verordnung hinsichtlich der theologischen Studien an der
-                                Universität Pest</ref> von <persName key="simor-johann">Johann
-                                Simor</persName>, 30. Oktober 1851 mit einer ausführlichen Anmerkung
+                                Universität Pest</ref> von <rs type="person" ref="simor-johann" key="simor-johann">Johann
+                                Simor</rs>, 30. Oktober 1851 mit einer ausführlichen Anmerkung
                             zum § 9 dieses Entwurfs.<lb/>
                             <ref target="#D143_3">Instruktion über die
                                 Wirkungssphäre des Direktors der theologischen Studien an der
@@ -64,7 +63,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -83,17 +82,17 @@
                         Pesther Universität zu wachen.<lb/>2. Niemand kann als Professor, als
                         Supplent oder als Dozent an der theologischen Fakultät der <orgName key="universitaet-pest">Pesther Universität</orgName> wirken, ohne die
                         kirchliche Ermächtigung hierzu von dem Fürstprimas oder in dessen
-                        Ermangelung von dem dem Range nach ältesten Erzbischofe <country key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarns</country> erlangt zu haben.<lb/>3. Die ertheilte
+                        Ermangelung von dem dem Range nach ältesten Erzbischofe <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarns</rs> erlangt zu haben.<lb/>3. Die ertheilte
                         Ermächtigung kann jeder Zeit wieder entzogen werden; diese Entziehung allein
-                        macht jedoch einen von <persName key="franz-joseph">Seiner
-                            Majestät</persName> angestellten Lehrer des ihm gesetzlich zustehenden
+                        macht jedoch einen von <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner
+                            Majestät</rs> angestellten Lehrer des ihm gesetzlich zustehenden
                         Anspruches auf einen Ruhegehalt nicht verlustig.<lb/>4. Die Professoren der
                         theologischen Fakultät werden aus Männern, welche die kirchliche
-                        Ermächtigung zum theologischen Lehramte erhalten haben, von <persName key="franz-joseph">Seiner k.k. apostolischen Majestät</persName> ernannt
+                        Ermächtigung zum theologischen Lehramte erhalten haben, von <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner k.k. apostolischen Majestät</rs> ernannt
                         und verwalten ihr Amt nach Maßgabe der akademischen Gesetze.<lb/>5. Die
                         Aufsicht über die theologischen Studien an der <orgName key="universitaet-pest">Pesther Universität</orgName> wird von dem
                         Fürstprimas persönlich oder durch den Direktor der theologischen Studien
-                        geübt.<lb/>6. Der Direktor der theologischen Studien wird von <persName key="franz-joseph">Seiner k.k. apostolischen Majestät</persName> über
+                        geübt.<lb/>6. Der Direktor der theologischen Studien wird von <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner k.k. apostolischen Majestät</rs> über
                         Vorschlag des Fürstprimas ernannt und hat sich nach der beiliegenden
                         Instruktion über den Wirkungskreis und die gegenseitige Stellung des
                         Studiendirektors und des Dekans der theologischen Fakultät und innerhalb des
@@ -122,8 +121,8 @@
                     <p>Entwurf der k.k. Verordnung hinsichtlich der Beziehung des Episcopates zu der
                         theologischen Fakultät und dem theologischen Studiun an der <orgName key="universitaet-pest">Universität zu Pesth</orgName>
                     </p>
-                    <p>In Erwägung der von den im Jahre 1850 in <placeName ref="#place_f07d757cdeb5acd661d89d1d54ed7e3c">Gran</placeName>
-                        versammelt gewesenen Bischöfen <country key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarns</country> und
+                    <p>In Erwägung der von den im Jahre 1850 in <rs type="place" subtype="place" ref="#place_f07d757cdeb5acd661d89d1d54ed7e3c">Gran</rs>
+                        versammelt gewesenen Bischöfen <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarns</rs> und
                         seiner vormaligen Nebenländer hinsichtlich der Beziehung der kirchlichen
                         Gewalt zu der theologischen Fakultät und dem theologischen Studium an der
                             <orgName key="universitaet-pest">Pesther Universität</orgName>
@@ -190,7 +189,7 @@
                         Vorlesungen zu halten, aufgetragen und diese Exegese in die Zahl der
                         allgemein verbindlichen Lehrgegenstände aufgenommen werden.<lb/>Ebensowenig
                         wird an der gedachten <orgName key="universitaet-pest">Universität</orgName>
-                        die sog. Methodik vorgetragen, welche die zu <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>
+                        die sog. Methodik vorgetragen, welche die zu <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>
                         studierenden Theologen sammt der Katechetik bei St. Anna, hören und doch
                         wäre es sehr wünschenswerth, wenn mehreren Alumnen zu <orgName key="universitaet-pest">Pesth</orgName> über jenen für ihren künftigen
                         Beruf wichtigen Gegenstand Vorlesungen gehalten würden.<lb/>Wird ein Lehrer
@@ -200,7 +199,7 @@
                         die Vorträge über die Methodik übernehmen.<lb/>Obgleich die Bischöfe von der
                         Katechetik keine Erwähnung machen, so wird diese doch auch an der Pesther
                         Hochschule gelehrt und von dem Professor der Pastoral vorgetragen, überhaupt
-                        wird in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> auch an den Diöcesenlehranstalten die
+                        wird in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> auch an den Diöcesenlehranstalten die
                         Katechetik als ein Theil der Pastoral angesehen und behandelt.<lb/>Es ist
                         noch zu bemerken, daß an der <orgName key="universitaet-pest">Pesther
                             Universität</orgName> die Dogmatik in 2 Jahrgängen von 2 Professoren

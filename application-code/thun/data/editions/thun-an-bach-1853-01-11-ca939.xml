@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="bach-alexander" role="recipient">Alexander
-                        Bach</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="bach-alexander" key="bach-alexander" role="recipient">Alexander
+                        Bach</rs>
                     <lb/>
-                    <placeName ref="#place_3301f4500e16711d273deb7247ad07cd">o. O. [Wien]</placeName>, <date when="1853-01-11">11. Januar 1853</date>
+                    <rs type="place" subtype="place" ref="#place_3301f4500e16711d273deb7247ad07cd">o. O. [Wien]</rs>, <date when="1853-01-11">11. Januar 1853</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -30,7 +29,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -40,10 +39,10 @@
                     <term>Konkordat</term>
                 </index>
                 <p>Verehrtester Herr Collega!</p>
-                <p>Der <persName key="rauscher-joseph">Fürstbischof von Seckau</persName> hat mich
+                <p>Der <rs type="person" ref="rauscher-joseph" key="rauscher-joseph">Fürstbischof von Seckau</rs> hat mich
                     dringend gebethen, ihm das Protokoll der Commissionsberathungen über das
                     Ehegesetz so bald als möglich zukommen zu lassen, da er dessen zum Zwecke seiner
-                    Vorberathungen mit dem <persName key="viale-prela-michele">Nunzius</persName>
+                    Vorberathungen mit dem <rs type="person" ref="viale-prela-michele" key="viale-prela-michele">Nunzius</rs>
                     bedürfe. Ich erlaube mir Sie deshalb um dessen Rücksendung zu ersuchen.</p>
                 <p>Mit der Versicherung ausgezeichneter Hochachtung</p>
                 <p>Ihr<lb/>Ergebenster<lb/>Thun</p>

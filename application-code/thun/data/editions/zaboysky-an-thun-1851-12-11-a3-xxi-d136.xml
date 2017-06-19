@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="zaboysky-ladislaus" role="sender:kleriker">Ladislaus
-                        Zaboysky</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="zaboysky-ladislaus" key="zaboysky-ladislaus" role="sender:kleriker">Ladislaus
+                        Zaboysky</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_8e5d82db47efbbe74039b5757d268039">Zips</placeName>, <date when="1851-12-11">11. Dezember 1851</date>
+                    <rs type="place" subtype="place" ref="#place_8e5d82db47efbbe74039b5757d268039">Zips</rs>, <date when="1851-12-11">11. Dezember 1851</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -41,7 +40,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -79,7 +78,7 @@
                     Förderung jener Zwecke nützlich seyn, für deren Verwirklichung nach Maaß meiner
                     geringen Kräfte mich Hochselbe zu berufen geruhten.<lb/>Die Stellung, welche mir
                     Euere Excellenz in Bezug auf die neue Schulanstalt zu
-                        <placeName ref="#place_a15ff820fcaf8c98a143789a9259b53e">Leutschau</placeName> [Levoča] mir [sic!] anzuweisen für gut
+                        <rs type="place" subtype="place" ref="#place_a15ff820fcaf8c98a143789a9259b53e">Leutschau</rs> [Levoča] mir [sic!] anzuweisen für gut
                     befinden, ist meinen Wünschen ganz angemessen. Ich weiß, wie sehr diese
                     Angelegenheit Euerer Excellenz am Herzen liegt; sie ist, sie soll meine
                     Angelegenheit seyn. Im Wachen für das Wohl der Kirche geübt, werde ich mit nicht
@@ -104,16 +103,16 @@
                     Bestimmungen des hohen Erlasses an den Herrn Distriktsobergespann bin ich
                     vollkommen einverstanden, ich finde darin alle meine vertraulichen Bitten gnädig
                     berücksichtiget, wofür ich meinen verbindlichsten Dank hiemit abstatte. Ich
-                    denke nicht früher mich nach <placeName ref="#place_a15ff820fcaf8c98a143789a9259b53e">Leutschau</placeName> zu begeben, bis
+                    denke nicht früher mich nach <rs type="place" subtype="place" ref="#place_a15ff820fcaf8c98a143789a9259b53e">Leutschau</rs> zu begeben, bis
                     mir nicht auf ämtlichem Wege das im Vertrauen Eröffnete zugekommen seyn wird,
                     alsdann werde mich an Ort und Stelle in Persona einfinden, um jedem Ausbruche
                     neuer Odiositäten aus Anlaß des Auszuges der Prämonstratenser zu begegnen. Nur
-                    möge die Caschauer [<placeName ref="#place_dd51fef1ae0877c04e8b4e19eddbabd5">Kaschau</placeName>, Košice] Schulbehörde das
+                    möge die Caschauer [<rs type="place" subtype="place" ref="#place_dd51fef1ae0877c04e8b4e19eddbabd5">Kaschau</rs>, Košice] Schulbehörde das
                     Ihrige thun; allein wie es scheint gibt sie sich Zeit, sollte sie lange zögern,
                     so gewinnen die Prämonstratenser Zeit aufs Neue zu peti[ti]oniren, um allem
                     Anscheine nach den Vollzug neuester Verfügungen Euerer Excellenz zum großem
                     Nachtheile der Schule aufzuhalten.<lb/>Soviel ich vernehme, ist bereits der 7.
-                    und 8. Lehrer in <placeName ref="#place_a15ff820fcaf8c98a143789a9259b53e">Leutschau</placeName> angelangt, nur will die
+                    und 8. Lehrer in <rs type="place" subtype="place" ref="#place_a15ff820fcaf8c98a143789a9259b53e">Leutschau</rs> angelangt, nur will die
                     Vertheilung der Stunden nicht gelingen. Was ich nach der Hand über den Direktor
                     gehört, ist geeignet, den Lehrkörper des weltlichen Standes zu entmuthigen:
                     nicht nur schwach, rathlos und ohne Energie, sondern auch mit auffallender

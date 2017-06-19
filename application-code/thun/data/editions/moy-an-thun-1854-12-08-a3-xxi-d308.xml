@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="moy-de-sons-ernst" role="sender:gelehrter">Ernst Moy de
-                        Sons</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="moy-de-sons-ernst" key="moy-de-sons-ernst" role="sender:gelehrter">Ernst Moy de
+                        Sons</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</placeName>, <date when="1854-12-08">08. Dezember 1854</date>
+                    <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs>, <date when="1854-12-08">08. Dezember 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -50,7 +49,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -66,7 +65,7 @@
                         Thun.</note>
                 </p>
                 <p>Euer Exzellenz</p>
-                <p>haben mich bei Ihrer Anwesenheit in <placeName key="innsbruck" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</placeName> mit vieler Güte behandelt und an Sie zu schreiben
+                <p>haben mich bei Ihrer Anwesenheit in <rs type="place" subtype="place" key="innsbruck" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs> mit vieler Güte behandelt und an Sie zu schreiben
                     ermuntert. Ich war auch wiederholt im Begriffe es zu thun, um Euer Exzellenz
                     meine Freude und mein Dankgefühl auszudrücken wegen der höchsten Erlasse,
                     wodurch dem römischen und dem kanonischen Rechte und der deutschen
@@ -130,13 +129,13 @@
                     Prüfung unvereinbar bezeichnet wird, daß die Professoren während der Prüfung
                     lesen oder schreiben, so muß ich gestehen, daß mich das höchlich überrascht hat.
                     Denn ich habe von 1836–1846 incl. an den öffentlichen Staatsprüfungen in
-                        <country key="bayern" ref="#place_5afc76bc69955ce317651a3dc1dbb0d6">Bayern</country>, die dort alljährlich unter dem
+                        <rs type="place" subtype="country" key="bayern" ref="#place_5afc76bc69955ce317651a3dc1dbb0d6">Bayern</rs>, die dort alljährlich unter dem
                     Vorsitze eines höheren Staatsbeamten abgehalten werden, theil genommen, und nie
                     etwas anderes gesehen, als daß sowohl der Vorsitzende als die Mitglieder der
                     Prüfungscommission während des Prüfungsactes mit Lesen, Schreiben, ja sogar mit
                     Erledigung von Akten sich beschäftigten. Dergleichen, bis auf die äußere Haltung
                     herabsteigende Zurechtweisungen sind nicht dazu angethan, in den Professoren das
-                    Gefühl zu wecken und zu schärfen, wie tief sie in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</country> auf der Scala der öffentlichen Beamten und in den
+                    Gefühl zu wecken und zu schärfen, wie tief sie in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> auf der Scala der öffentlichen Beamten und in den
                     Augen der Regierung stehen. Eine solche Stellung, die auch daraus
                     hervorleuchtet, daß ein Universitätsprofessor sich geehrt finden muß, wenn ihm
                     der Titel eines kaiserlichen Rathes ertheilt wird, ist nicht geeignet, den Eifer

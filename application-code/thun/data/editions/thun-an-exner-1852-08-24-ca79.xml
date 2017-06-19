@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="exner-franz" role="recipient">Franz
-                        Exner</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="exner-franz" key="exner-franz" role="recipient">Franz
+                        Exner</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="--08-24">24.
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="--08-24">24.
                         August [1852?]</date>
                     <note xml:id="note_1">Auf dem Blatt ist mit Bleistift
                         das Jahr 1852 verzeichnet. Die Datierung in dieses Jahr erscheint plausibel,
@@ -40,7 +39,7 @@
                 </p>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -53,7 +52,7 @@
                 <p>I. die Lithographie<note xml:id="note_2">Alle in dem Brief erwähnten Beilagen
                         sind hier nicht überliefert.</note> die der Berathung über das Gesetz für
                     die Prüfung der Kandidaten des Lehramtes an Realschulen zu Grunde lag, mit den
-                    Änderungen, die <persName key="koller-marian">Koller</persName> auf Grundlage
+                    Änderungen, die <rs type="person" ref="koller-marian" key="koller-marian">Koller</rs> auf Grundlage
                     jener Berathungen daran angebracht hat.</p>
                 <p>II. Ein Exemplar mit den Änderungen, die ich ohne Rücksicht auf die Ergebnisse
                     jener Berathung entworfen habe. Ich lasse die zur Beurtheilung der Sache
@@ -61,11 +60,11 @@
                     Es wird sich dann herausstellen, ob es Noth thut, eine nochmalige Berathung über
                     das Ganze oder einzelne Theile zu veranlassen, und mit wem.</p>
                 <p>Haben Sie die Güte mir anzuzeigen wenn Sie bereit sind den Gegenstand mit mir zu
-                    besprechen, ob Sie lieber in die Stadt oder nach <placeName ref="#place_6fc6f10422bfe80ddcba23b4f7f080dc">Hietzing</placeName>
+                    besprechen, ob Sie lieber in die Stadt oder nach <rs type="place" subtype="place" ref="#place_6fc6f10422bfe80ddcba23b4f7f080dc">Hietzing</rs>
                     kämen. Mit herzlicher Hochachtung</p>
                 <p>Thun</p>
                 <p>24/8</p>
-                <p>Ich schließe auch noch <persName key="koller-marian">Kollars</persName> Entwurf
+                <p>Ich schließe auch noch <rs type="person" ref="koller-marian" key="koller-marian">Kollars</rs> Entwurf
                     über die weiteren dem Org.-Entwurfe nachgebildeten Abtheilungen der Org. der
                     Realschulen bei. – Ich habe sie noch gar nicht gelesen und erbitte mir Ihre
                     Meinung, ob überhaupt damit herauszurücken sein dürfte und was etwa zu bemerken

@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="haidinger-wilhelm" role="sender:gelehrter">Wilhelm
-                        Haidinger</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="haidinger-wilhelm" key="haidinger-wilhelm" role="sender:gelehrter">Wilhelm
+                        Haidinger</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1857-03-31">31. März 1857</date>
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1857-03-31">31. März 1857</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -46,7 +45,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -57,16 +56,16 @@
                 </index>
                 <p>Eure Excellenz,</p>
                 <p>Hoffnungsreicher kann ich nicht handeln, als indem ich um Erlaubnis bitte Eurer
-                    Excellenz den Ruf um wahre ausgiebige Hilfe für einen um <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> hochverdienten Mann ehrfurchtsvoll
+                    Excellenz den Ruf um wahre ausgiebige Hilfe für einen um <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> hochverdienten Mann ehrfurchtsvoll
                     vorlegen zu dürfen.<lb/>Ein edler Menschenfreund, Herr k.k. Sectionsrath
-                        <persName key="heufler-von-hohenbuehel-ludwig">Ritter von
-                    Heufler</persName>, hat sich des Herrn<persName key="maly-josef-karl"> Dr.
-                        Maly</persName> in <placeName ref="#place_9046555c48e460168f489a62c649d10b">Gratz</placeName> in seiner trostlosen Lage
+                        <rs type="person" ref="heufler-von-hohenbuehel-ludwig" key="heufler-von-hohenbuehel-ludwig">Ritter von
+                    Heufler</rs>, hat sich des Herrn<rs type="person" ref="maly-josef-karl" key="maly-josef-karl"> Dr.
+                        Maly</rs> in <rs type="place" subtype="place" ref="#place_9046555c48e460168f489a62c649d10b">Gratz</rs> in seiner trostlosen Lage
                     warm angenommen. Das Exemplar seines Circularschreibens, welches mir zukam, habe
                     ich die Ehre beifolgend ehrfurchtsvoll vorzulegen. Es enthält die Sachlage
                     besser erörtert, als ich sie hier mit Worten aufzählen könnte.<lb/>Aber das ist
                     gewiß, daß ein Mann, der ein Leiter in der vaterländischer Wissenschaft ist, ein
-                    Mann, dessen Namen wir im Munde führen, wenn es gilt die Ansprüche <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</country> auf wissenschaftliches Verdienst zu
+                    Mann, dessen Namen wir im Munde führen, wenn es gilt die Ansprüche <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> auf wissenschaftliches Verdienst zu
                     begründen, selbst Anspruch hat auf ausgiebige Hilfe von Seiten der
                     Staatsverwaltung.<lb/>Als Präsident der k.k. geographischen Gesellschaft
                     beabsichtige ich heute den Gegenstand in derselben zur Sprache zu bringen. Ich
@@ -74,12 +73,12 @@
                     Vorlage Nachricht zu geben. Unterstützungen können wir nicht gewähren, wenn auch
                     eine materielle Anerkennung für wissenschaftliches Verdienst aussprechen.
                     <lb/>Aber Eure Excellenz stehen an der Spitze der Facultäten, zu welchen Herr
-                        <persName key="maly-josef-karl">Dr. Maly</persName> als ausgezeichnetes
+                        <rs type="person" ref="maly-josef-karl" key="maly-josef-karl">Dr. Maly</rs> als ausgezeichnetes
                     Glied gehört, mit dem ausgiebigen Einfluße der demselben in der Gestalt eines
                     fortlaufenden Gnadengehaltes doch das Herbste der Sorge mildern könnten, das
                     vielleicht – bei dem Alter und den Gesundheitsverhältnissen – nicht einmal auf
                     lange Zeit vonnöthen seyn würde!<lb/>Einem wohlwollenden Grafen von Thun war
-                    einst <persName key="maly-josef-karl">Dr. Maly</persName> für seine Promotion
+                    einst <rs type="person" ref="maly-josef-karl" key="maly-josef-karl">Dr. Maly</rs> für seine Promotion
                     verpflichtet. Möchte es einem andern, welthistorischen, Gliede desselben
                     erlauchten Hauses, Eurer Excellenz beschieden seyn, ihn am Ende eines für unser
                     Österreich rühmlichen Lebens dem Mangel zu entreißen, damit er nicht als ein

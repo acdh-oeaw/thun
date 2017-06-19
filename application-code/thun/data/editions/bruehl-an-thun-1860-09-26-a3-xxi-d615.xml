@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="bruehl-karl-bernhard" role="sender:gelehrter">Karl Bernhard
-                        Brühl</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="bruehl-karl-bernhard" key="bruehl-karl-bernhard" role="sender:gelehrter">Karl Bernhard
+                        Brühl</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1860-09-26">26.
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1860-09-26">26.
                         September 1860</date>
                 </title>
             </titleStmt>
@@ -62,7 +61,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -110,7 +109,7 @@
                     unabweislichen Faktor des jetzigen Staatslebens, das nationale Bewußtsein, sich
                     ganz klar zu machen und weiter, weil sie, selbst wenn sie diesen Faktor zugeben,
                     nicht den Willen haben, ihm Rechnung zu tragen.<lb/>Wer aber ein <hi rend="ul">mächtiges</hi>
-                    <country ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</country> liebt und die Augen offen hat, wer also die
+                    <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs> liebt und die Augen offen hat, wer also die
                     Wünsche der Nationen nicht zu ungestümem Ausbruche gebracht und doch der
                     deutschen Wissenschaft bei ihnen noch einen Platz, eine Möglichkeit in der
                     nächsten Zukunft [zu] erhalten wünscht, <hi rend="ul">wird zu Maßregeln
@@ -123,7 +122,7 @@
                     als überflüssig erscheinen lassen.<lb/>Daß diese Maßregeln den Einfluß und die
                     Thätigkeit der deutschen Lehrer in <orgName key="universitaet-pest">Pest</orgName> für den Augenblick und vielleicht für mehrere nächst
                     kommenden Jahre lähmen werden, kann freilich nicht in Abrede gestellt werden.
-                    Allein, wenn die ruhigere Besinnung der verschiedenen Nationen unter <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</country> Scepter zurück kömmt, werden sie
+                    Allein, wenn die ruhigere Besinnung der verschiedenen Nationen unter <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> Scepter zurück kömmt, werden sie
                     auch zu der <hi rend="ul">nicht vorgreifenden</hi> deutschen Wissenschaft, die
                     noch fort als ein bescheidener, aber selbstbewußter und thätiger Theil ihrer
                     Wissenschaft indessen gelebt hat, zurückkehren.<lb/>Ich glaube das mit
@@ -148,11 +147,11 @@
                     unmittelbarerer Weise zur Kenntnis Euerer Excellenz bringen, als dies gewöhnlich
                     zu geschehen pflegt.<lb/>Bei der Nothwendigkeit, beim Beginnen des Schuljahres
                     zu meiner Lehrkanzel zurückzukehren, harre ich noch ehrfurchtsvoll drei Tage
-                    nach Abgabe dieser Schriftstücke in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> den
+                    nach Abgabe dieser Schriftstücke in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> den
                     allenfalsigen Befehlen Euerer Excellenz, die mich in der Redaktion der Wiener
                     medicinischen Wochenschrift (Herrengasse, Stadt) treffen können.<lb/>Sei es mir
                     gnädigst von Euerer Excellenz vergönnt, mich auch nach meiner Abreise, von
-                        <placeName ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</placeName> aus, wenn es Noth thäte, <hi rend="ul">unmittelbar</hi> an Euere Excellenz schriftlich wenden zu dürfen und dann
+                        <rs type="place" subtype="place" ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</rs> aus, wenn es Noth thäte, <hi rend="ul">unmittelbar</hi> an Euere Excellenz schriftlich wenden zu dürfen und dann
                     einmal auch eine, speziell mein Lehrfach betreffende und in wissenschaftlicher
                     Beziehung <hi rend="ul">sehr zu bedauernde</hi> hohe Verfügung zur Sprache
                     bringen zu dürfen.</p>
@@ -224,7 +223,7 @@
                         Beziehung, gestattet.<note xml:id="note_2">Anmerkung am unteren Blattrand:
                             Mit Absicht ist die Bezeichnung der Kategorie – ob Dozent,
                             außerordentlicher oder ordentlicher Professor – vermieden. „Dozent“
-                            dünkte den empfindlichen <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> geradezu als eine Art
+                            dünkte den empfindlichen <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> geradezu als eine Art
                             von Herabsetzung, mit dem Zugeständnisse von „Professoren“ griffe sich
                             die hohe Regierung selbst vor.</note>
                         <lb/>b. Die Regierung ist nicht
@@ -368,7 +367,7 @@
                         die Unterstützung der gewiß guten, aber national nicht entsprechenden
                         Absichten einer hohen Regierung geltend gemacht werden könnten.<lb/>9. Die
                         Möglichkeit, der Wissenschaft in deutscher Sprache in
-                            <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> unter <hi rend="ul">allen Umständen</hi>, d.i.
+                            <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> unter <hi rend="ul">allen Umständen</hi>, d.i.
                         selbst im Falle eines ganz entschiedenen Föderativsystems (– was übrigens
                         Gott verhüthen möge –), eine Stellung an der <orgName key="universitaet-pest">Pester Universität</orgName> zu erhalten, ist
                         nur durch eine <hi rend="ul">zweckgemäße</hi> Koncession an die ungarische
@@ -405,7 +404,7 @@
                         des Kollegiengeldes, in den nächsten Jahren wohl gänzlich oder größtentheils
                         versiegen wird, <hi rend="ul">erscheint es nur billig</hi>, – bei der
                         Unmöglichkeit für diese Lehrer, von ihrem geringen Gehalte in einer so
-                        theuren Stadt wie <placeName ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</placeName> leben zu können –, <hi rend="ul">sie für diesen</hi>, nicht durch sie selbst verschuldeten
+                        theuren Stadt wie <rs type="place" subtype="place" ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</rs> leben zu können –, <hi rend="ul">sie für diesen</hi>, nicht durch sie selbst verschuldeten
                         Verlust <hi rend="ul">entsprechend schadlos zu halten.</hi> Diese Rücksicht
                         ist eine um so dringlichere, als durch wirkliche, wissenschaftliche
                         Thätigkeit nur das deutsche Element den ihm gebührenden und zugedachten
@@ -417,22 +416,22 @@
                         verknüpfter Fächer nothwendig würden, mögen auf dem Wege erörtert und
                         erledigt werden, wie er in Schriftstück A sub 4. e. dargelegt ist. Der
                         ergebenste Schreiber dieser Zeilen, wohl bekannt mit allem hier
-                        Einschlägigen in <placeName ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</placeName>, weiset noch ehrfurchtsvoll
+                        Einschlägigen in <rs type="place" subtype="place" ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</rs>, weiset noch ehrfurchtsvoll
                         darauf hin, daß er es sich zur größten Ehre schätzen würde, den Werth und
                         die Gültigkeit der einzelnen, hierüber gemachten Vorschläge des Senates
                         wahrheitsgemäß und unbefangen unmittelbar vor Euerer Excellenz zu
                         entwickeln.<lb/>16. <hi rend="ul">In innigem Zusammenhange</hi> mit den
                         Konzessionen bezüglich der Lehrsprache an der Universität sind einschlägige
-                        Anordnungen an Gymnasien und Realschulen <country key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarns</country>. Besonders bezüglich der letztern ist nicht außer
+                        Anordnungen an Gymnasien und Realschulen <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarns</rs>. Besonders bezüglich der letztern ist nicht außer
                         Acht zu lassen, daß, obschon durch Gemeindemittel an vielen Orten erhalten,
                         sie doch nicht der Autonomie der Gemeindegebahrung so weit untergeordnet
                         werden dürfen, daß diese Lehrsprache und Lehrordnung eigenmächtig abzuändern
-                        befugt sei. Bei der dermalen in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> herrschenden
+                        befugt sei. Bei der dermalen in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> herrschenden
                         Begriffsverirrung über Recht und Gesetz ist auf diesen Punkt mit Nachdruck
                         hinzuweisen.<lb/>17. Abgesehen von vielen andern hier nicht zu erörternden
                         Gründen für die, man kann wohl sagen, <hi rend="ul">plötzlich in
                             solchen</hi> Ungestüme hervorgetretene sprachliche Strömung in
-                            <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> (– vor einem Jahre war hiervon fast noch keine
+                            <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> (– vor einem Jahre war hiervon fast noch keine
                         Rede –) muß für die Einsicht eines hohen Unterrichtsministeriums in<hi rend="ul"> die wahre Sachlage</hi>, schließlich noch mit dem <hi rend="ul">entschiedensten Nachdrucke,</hi> auf zwei hierbei den größten
                         und schädlichsten Einfluß übenden Momente hingewiesen werden:<lb/>a. <hi rend="ul">auf die ungarische Akademie</hi>; der Ehrgeiz und die
                         unglaubliche Eitelkeit wissenschaftlich ganz und gar unberechtigter Menschen

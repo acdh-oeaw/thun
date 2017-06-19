@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="kozacek-josef" role="sender:kleriker">Josef Kozáček</persName>
-                    an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="kozacek-josef" key="kozacek-josef" role="sender:kleriker">Josef Kozáček</rs>
+                    an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_71fd0aa37fd3ee1a4031223c361a00a5">Pressburg</placeName>, <date when="1854-09-07">7. September 1854</date>
+                    <rs type="place" subtype="place" ref="#place_71fd0aa37fd3ee1a4031223c361a00a5">Pressburg</rs>, <date when="1854-09-07">7. September 1854</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -50,7 +49,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -70,8 +69,8 @@
                     bei deren Bewältigung ich mich leidend befinde und einer ärztlichen Pflege noch
                     immer bedürfe, anderseits die dringend gebotene Mittheilung, die ich nur im
                     Interesse des Schulwesens, vermög meiner Instruktion zu machen habe, haben mich
-                    zu diesem kühnen Schritte, bei Abwesenheit des <persName key="attems-heinrich">Grafen Attemš</persName>, verleitet.<lb/>Vom Unterrichtsreferenten
-                        <persName key="reiser">Reiser</persName> habe ich gestern in Erfahrung
+                    zu diesem kühnen Schritte, bei Abwesenheit des <rs type="person" ref="attems-heinrich" key="attems-heinrich">Grafen Attemš</rs>, verleitet.<lb/>Vom Unterrichtsreferenten
+                        <rs type="person" ref="reiser" key="reiser">Reiser</rs> habe ich gestern in Erfahrung
                     gebracht, das Praesidium der hiesigen k.k. Statthaltereiabtheilung hätte von
                     Euer Excellenz den Auftrag erhalten, einige Männer zu bezeichnen, welche sich
                     für die nun kreirten Ämter der k.k. Schulräthe eignen würden. Seiner Aussage
@@ -84,26 +83,26 @@
                     Kräfte kennen zu lernen. Ich wage demnach ehrfurchtsvoll die hohe Aufmerksamkeit
                     Euer Excellenz auf zwei mir bekannte Männer zu lenken, welche nach meiner
                     Überzeugung sich für das Volksschulinspektorat eignen würden. Der eine heißt
-                        <persName key="czaban-andreas">Andreas Czaban</persName>, Pfarrer zu
-                        <placeName ref="#place_08bd6a48963166dcb32cb85847b072de">Komjath</placeName> [Komjatice] im Unter-Neutraer Komitate, 41
+                        <rs type="person" ref="czaban-andreas" key="czaban-andreas">Andreas Czaban</rs>, Pfarrer zu
+                        <rs type="place" subtype="place" ref="#place_08bd6a48963166dcb32cb85847b072de">Komjath</rs> [Komjatice] im Unter-Neutraer Komitate, 41
                     Jahre alt, ein Priester im vollen Sinne des Wortes, von ausgezeichneter
                     moralischer und politischer Haltung, welcher während der Wirren von
-                    Guerillarotten verfolgt, beraubt, sich nach <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> flüchten
+                    Guerillarotten verfolgt, beraubt, sich nach <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> flüchten
                     mußte und bei der kaiserlichen Armee während des Krieges seelsorgerliche Dienste
                     mit Aufopferung und Liebe verrichtete. Sein ganzes Verbrechen, welches ihm so
-                    hoch bei dem Generalvikär in <placeName key="tyrnau" ref="#place_facae5ac432fd5974d5bbd7d9e5d8ae0">Tirnau</placeName> [Trnava]
-                        <persName>Wiber</persName> angerechnet wird, besteht in dem, daß er in jenen
+                    hoch bei dem Generalvikär in <rs type="place" subtype="place" key="tyrnau" ref="#place_facae5ac432fd5974d5bbd7d9e5d8ae0">Tirnau</rs> [Trnava]
+                        <rs type="person" ref="">Wiber</rs> angerechnet wird, besteht in dem, daß er in jenen
                     Zeiten die Interessen des slavischen Elementes vertrat, das slavische Volk (als
                     slavischer Seelsorger) von der verderbenden Gewohnheit des Brantweintrinkens zu
                     heilen sich mit Eifer angelegen sein ließ. Daß er die čechische Litteratur mit
                     Geldmitteln fördert, daß er zu jener Zeit dem Sprachzwange mit Entschiedenheit
-                    entgegen trat, weßhalb er beim <persName key="scitovsky-jan">Primaš</persName>
+                    entgegen trat, weßhalb er beim <rs type="person" ref="scitovsky-jan" key="scitovsky-jan">Primaš</rs>
                     als Panšlav verdächtigt, sich die durch seelsorgerliche, eifrige und
                     ausgezeichnete Handhabung verdiente Gunst bis nun nicht erwerben konnte.
                     Übrigens nach genauen Erkundigungen und Erhebungen, die ich am rechten Orte
                     veranlaßte und selbst von jenen Geistlichen, die vermög ihrer Stellung und
                     Gesinnung die magyarischen Interessen zu fördern berufen sind, konnte ich nicht
-                    erfahren, daß <persName key="czaban-andreas">A[andreas] Czaban</persName> in die
+                    erfahren, daß <rs type="person" ref="czaban-andreas" key="czaban-andreas">A[andreas] Czaban</rs> in die
                     Reihe der Ultristen und Überspannten gehören und die Nationalität lediglich aus
                     dem heidnischen Zeitpunkte auffassen würde; er ist gewohnt, jeder Nationalität
                     die Gerechtigkeit wiederfahren zu lassen und sich innerhalb jener Schranken zu
@@ -111,7 +110,7 @@
                     Kaiserstaates erheischen. Also in politischer Beziehung könnte man ihm lediglich
                     nur einen Verdacht des Panslavišmuš ohne allen Beweisen vorwerfen. Ich habe so
                     oft Gelegenheit gehabt, ihn zu beobachten und vornehmlich in
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> 1849 als Emigrant zu verkehren und ich konnte
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> 1849 als Emigrant zu verkehren und ich konnte
                     nie eine Überspannung in dieser Richtung wahrnehmen, wohl aber eine Reife,
                     Besonnenheit, eine entschiedene Hingabe für Kaiser und das große Vaterland, eine
                     Anhänglichkeit und so zu sagen ehrfurchtsvolle kindliche Liebe Euer Excellenz
@@ -132,11 +131,11 @@
                     charakteristisch ist, behauptete er in seinen ämtlichen dießfälligen
                     Nachweisungen eine seltene Bescheidenheit, indem er dieß alles dem guten Willen
                     der Gemeinde zuschrieb. Auf der Dienstreise begriffen, hatte ich in
-                        <placeName ref="#place_692b30368c6746d95f58143ae779351f">Verebely</placeName> [Vráble] die Gelegenheit (am 29. Mai dieses
-                    Jahres) vom Weihbischof <persName key="krautmann-joseph">Krautmann</persName>,
-                    welcher in <placeName ref="#place_08bd6a48963166dcb32cb85847b072de">Komjath</placeName> firmte und bei dieser Gelegenheit
+                        <rs type="place" subtype="place" ref="#place_692b30368c6746d95f58143ae779351f">Verebely</rs> [Vráble] die Gelegenheit (am 29. Mai dieses
+                    Jahres) vom Weihbischof <rs type="person" ref="krautmann-joseph" key="krautmann-joseph">Krautmann</rs>,
+                    welcher in <rs type="place" subtype="place" ref="#place_08bd6a48963166dcb32cb85847b072de">Komjath</rs> firmte und bei dieser Gelegenheit
                     diese Volksschule besichtigte, zu vernehmen, daß diese Schule in jeder Beziehung
-                    als Muster aufgestellt werden kann. Ob <persName key="czaban-andreas">Czaban</persName> als ein Fachmann im vollen Sinne des Wortes für die
+                    als Muster aufgestellt werden kann. Ob <rs type="person" ref="czaban-andreas" key="czaban-andreas">Czaban</rs> als ein Fachmann im vollen Sinne des Wortes für die
                     Volksschulen zu gelten habe, kann ich mit aller Sicherheit nicht bestimmen; so
                     viel ist jedoch gewiß, weil ich ihn von seiner Jugend aus kenne, daß er nicht
                     nur während seiner Studien als ein ausgezeichnetes Talent galt, sondern daß er
@@ -146,8 +145,8 @@
                     Complexion des Körpers besitze, endlich, daß er durch seine [?], durch ernstes
                     und liebevolles Benehmen, äußeren Anstand der guten Sache einen Nachdruck zu
                     verschaffen im Stande ist.<lb/>Der andere, welcher sich zu diesem Amte eignen
-                    würde heißt <persName key="uhlarik-johann">Johann Uhlárik</persName>, Pfarrer zu
-                        <placeName ref="#place_2c8d9a5d515501612f1248443de9bdfa">Istvanfalva</placeName>, Ober-Neutraer Komitat, 35 Jahre alt, den
+                    würde heißt <rs type="person" ref="uhlarik-johann" key="uhlarik-johann">Johann Uhlárik</rs>, Pfarrer zu
+                        <rs type="place" subtype="place" ref="#place_2c8d9a5d515501612f1248443de9bdfa">Istvanfalva</rs>, Ober-Neutraer Komitat, 35 Jahre alt, den
                     ich jedoch nur seit 21. April letzten Jahres kenne, an welchem Tage ich seine
                     Volksschule visitirte und die ich im ganzen [?] Bezirke, also unter 18
                     Volksschulen, als die beste zu bezeichnen habe. Sie ist eigentlich die
@@ -159,7 +158,7 @@
                     politisch richtiger Gesinnung, steht als ein unbescholtener Mann da, besitzt
                     Vertrauen und Liebe bei seiner Gemeinde, die er für Schulzwecke ganz gewann,
                     ohne aller politischen Aßistenz; wurde mir bei der Visitation, von dem
-                    vortrefflichen Dechant und zuverläßigem Mann <persName key="hajek">Hajek</persName> als ein ausgezeichneter Mann in jeder Beziehung bezeichnet
+                    vortrefflichen Dechant und zuverläßigem Mann <rs type="person" ref="hajek" key="hajek">Hajek</rs> als ein ausgezeichneter Mann in jeder Beziehung bezeichnet
                     und wird von seinen Kollegen hochgeschätzt. Er spricht geläufig und richtig
                     slavisch, deutsch und höchst wahrscheinlich auch ungarisch. Nur seine
                     körperliche Konstitution und der Gesundheitszustand dem Äußeren nach scheint mir
@@ -169,7 +168,7 @@
                     vollkommen mächtig ist, sich für eine mildere Gegend mit größerer
                     Zuverlässigkeit eignen.<lb/>Ich könnte noch mehrere geeignete Männer zu diesem
                     Fache bezeichnen, welche jedoch theils weil sie einträglichere Pfründe besitzen,
-                    theils weil sie als Günstlinge des <persName key="scitovsky-jan">Primaš</persName> gelten und demnach nähere Aussichten auf Domherrenstellen
+                    theils weil sie als Günstlinge des <rs type="person" ref="scitovsky-jan" key="scitovsky-jan">Primaš</rs> gelten und demnach nähere Aussichten auf Domherrenstellen
                     besitzen, dieses Amt nicht annehmen würden. Überhaupt erlaube ich mir
                     ehrfurchtsvoll zu bemerken, daß ich bis nun noch kein einziges Individuum finden
                     konnte, die mir Lust und Bereitwilligkeit zum Inspektoratamte gezeigt hätten,

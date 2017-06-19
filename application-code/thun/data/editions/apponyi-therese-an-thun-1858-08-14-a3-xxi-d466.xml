@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="apponyi-therese" role="sender">Therese Apponyi</persName> an
-                        <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="apponyi-therese" key="apponyi-therese" role="sender">Therese Apponyi</rs> an
+                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName key="bad-ems" ref="#place_c02c72b51669c91cfda3c0599a674b45">[Bad] Ems</placeName>, <date when="1858-08-14">14. August 1858</date>
+                    <rs type="place" subtype="place" key="bad-ems" ref="#place_c02c72b51669c91cfda3c0599a674b45">[Bad] Ems</rs>, <date when="1858-08-14">14. August 1858</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -40,7 +39,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -52,23 +51,23 @@
                 <p>Ems, le 14 août 1858</p>
                 <p>Monsieur le Comte,</p>
                 <p>c'est à peine que vous vous souviendrez qu'il existe une vieille Comtesse
-                    Apponyi, qui a eu le plaisir de vous voir à <placeName ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</placeName>, il y a
-                    bien des années, et qui est la mère de <persName key="apponyi-rudolf">Rodolphe</persName>, qui a l'honneur de vous voir de temps en temps, et la
-                    mère de ce bon <persName key="apponyi-julius">Giulio</persName> si aimé et si
+                    Apponyi, qui a eu le plaisir de vous voir à <rs type="place" subtype="place" ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</rs>, il y a
+                    bien des années, et qui est la mère de <rs type="person" ref="apponyi-rudolf" key="apponyi-rudolf">Rodolphe</rs>, qui a l'honneur de vous voir de temps en temps, et la
+                    mère de ce bon <rs type="person" ref="apponyi-julius" key="apponyi-julius">Giulio</rs> si aimé et si
                     pleuré, et pour lequel vous avez eu la bonté de vous intéresser d'une manière si
                     touchante pendant sa cruelle dernière maladie! Je n'ai surement aucun droit à
                     venir vous implorer, car je suis moins que rien, dans ce monde et j'y vis bien
-                    située, cependant je viens de savoir que ma belle fille <persName key="apponyi-sophie">Sophie</persName> vous écrit et vous expose une prière
+                    située, cependant je viens de savoir que ma belle fille <rs type="person" ref="apponyi-sophie" key="apponyi-sophie">Sophie</rs> vous écrit et vous expose une prière
                     qui lui tient forte au cœur, et j'ose humblement unir ma voix à la sienne en
-                    demandant votre haute protection en faveur du Chanoine <persName key="krajcik-johann">Krojcsik</persName> [Krajcik], que nous serions si
+                    demandant votre haute protection en faveur du Chanoine <rs type="person" ref="krajcik-johann" key="krajcik-johann">Krojcsik</rs> [Krajcik], que nous serions si
                     heureux d'avoir pour Evêque; c'est un homme d'une vertu reconnue un Prêtre
                     distingué; actif Savant, et qui possède tout à fait, l'esprit et le zèle qui
-                    sont faits pour exercer une influence heureuse, sur le clergé du <placeName key="komitat-neutra" ref="#place_d856324689e6964c27e3903e6f63a34e">Comitat de Neutra</placeName> – c'est une bien grande
+                    sont faits pour exercer une influence heureuse, sur le clergé du <rs type="place" subtype="place" key="komitat-neutra" ref="#place_d856324689e6964c27e3903e6f63a34e">Comitat de Neutra</rs> – c'est une bien grande
                     liberté que je prends, en osant indiquer son nom – je n'ose rien espérer, pour
                     moi, mais je ne suis qu'une voix de plus, qui se permet de placer son nom, sous
                     vos yeux; il nous semble que si Dieu permettait que ma prière fût accordée, ce
                     serait une vraie bénédiction, pour toute une population! Quoique pendant ma
-                    longue vie, je n'ai pas beaucoup habité la <placeName key="komitat-neutra" ref="#place_d856324689e6964c27e3903e6f63a34e">Comitate de Neutra</placeName>, cependant le souvenir de mon cher mari et
+                    longue vie, je n'ai pas beaucoup habité la <rs type="place" subtype="place" key="komitat-neutra" ref="#place_d856324689e6964c27e3903e6f63a34e">Comitate de Neutra</rs>, cependant le souvenir de mon cher mari et
                     de mon bon fils, m'attache fortement et tendrement à ce lieu et je ne saurais
                     être indifférente au choix de la personne, qui y sera d'une si grande
                     importance. Que Dieu vous bénisse, Monsieur le Comte, de tout le bien que vous

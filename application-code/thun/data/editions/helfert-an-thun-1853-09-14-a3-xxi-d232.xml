@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="helfert-joseph-alexander" role="sender:beamter">Joseph
-                        Alexander Helfert</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="helfert-joseph-alexander" key="helfert-joseph-alexander" role="sender:beamter">Joseph
+                        Alexander Helfert</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1853-09-14">14. September 1853</date>
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1853-09-14">14. September 1853</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -41,7 +40,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -55,36 +54,36 @@
                 <p>Die Stücke, welche ich diesmal in etwas größerer Anzahl vorzulegen so frei bin,
                     betreffen zum größeren Theile delicate Personalien oder andere Gegenstände, bei
                     welchen ich den etwaigen besondern Entschluße Eurer Exzellenz nicht in den Weg
-                    treten möchte.<lb/>Dem armen <persName key="schmidt-oscar">Schmidt</persName>
+                    treten möchte.<lb/>Dem armen <rs type="person" ref="schmidt-oscar" key="schmidt-oscar">Schmidt</rs>
                     könnte die Kränkung vielleicht erspart werden; jetzt sind es die Auskünfte aus
-                        <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region>, die den <persName key="goluchowski-agenor">Statthalter von Galizien</persName> beunruhigter
+                        <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs>, die den <rs type="person" ref="goluchowski-agenor" key="goluchowski-agenor">Statthalter von Galizien</rs> beunruhigter
                     als früher machen.<lb/>Wenn ich auch vergessen haben sollte, über einen oder den
                     andern Punkt ausdrückliche Meldung zu machen, so bitte ich, Euer Exzellenz
                     wollen doch überzeugt sein, daß ich keinen Ihrer Aufträge aus den Augen verliere
                     und daß es nicht meine Schuld ist, wenn bis jetzt einer oder der andere nicht in
-                    Erfüllung gekommen sein sollte. In Betreff <persName key="chambon-eduard">Chambons</persName> ist der allerdings im Departement zurückgehaltene
+                    Erfüllung gekommen sein sollte. In Betreff <rs type="person" ref="chambon-eduard" key="chambon-eduard">Chambons</rs> ist der allerdings im Departement zurückgehaltene
                     Vortrag bereits erstattet worden.<lb/>In Beantwortung der mir zuletzt gestellten
                         Fragen:<lb/>
-                    <persName key="kleemann-johann">Kleemann</persName> ist bereits
+                    <rs type="person" ref="kleemann-johann" key="kleemann-johann">Kleemann</rs> ist bereits
                     zurück, seit zwei Tagen.<lb/>Die Gymnasialbesetzungsvorschläge sind sämtlich
-                    eingelangt. <persName key="kleemann-johann">Kleemann</persName> hat sie sogleich
-                    in die Arbeit genommen, wird sie nach <placeName ref="#place_1286d21b26bd017b6eee85bd6947bb1b">Smeczna</placeName> in
-                    Bereitschaft setzen, wegen <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> habe ich ihm die Weisung
-                    gegeben.<lb/>Peto <persName key="fick-heinrich">Fick</persName> und <persName key="gindely-anton">Gindely</persName> erfolgt das angeordnete, <persName key="hoefler-karl-adolf-constantin">Höflers</persName> Antwort kam aus
-                        <placeName ref="#place_92ba21707d36e25feac6284cbd79724d">Ostende</placeName> und blieb daher länger aus.<lb/>Wegen der
-                    deutschen Realschule in <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> folgt der Vortrag mit, es
+                    eingelangt. <rs type="person" ref="kleemann-johann" key="kleemann-johann">Kleemann</rs> hat sie sogleich
+                    in die Arbeit genommen, wird sie nach <rs type="place" subtype="place" ref="#place_1286d21b26bd017b6eee85bd6947bb1b">Smeczna</rs> in
+                    Bereitschaft setzen, wegen <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> habe ich ihm die Weisung
+                    gegeben.<lb/>Peto <rs type="person" ref="fick-heinrich" key="fick-heinrich">Fick</rs> und <rs type="person" ref="gindely-anton" key="gindely-anton">Gindely</rs> erfolgt das angeordnete, <rs type="person" ref="hoefler-karl-adolf-constantin" key="hoefler-karl-adolf-constantin">Höflers</rs> Antwort kam aus
+                        <rs type="place" subtype="place" ref="#place_92ba21707d36e25feac6284cbd79724d">Ostende</rs> und blieb daher länger aus.<lb/>Wegen der
+                    deutschen Realschule in <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> folgt der Vortrag mit, es
                     ist schwer, infolge dieses allerhöchsten Befehles etwas zu thun, was nicht schon
                     gethan worden wäre.<lb/>
-                    <persName key="klicpera-vaclav-kliment">Klicpera</persName> soll die Pensionirung bereits angesucht haben, hier
-                    noch nichts.<lb/>Das Manuscript befindet sich bereits vollständig in <persName key="auer-alois">Auers</persName> Händen. <persName key="kink-rudolph">Kink</persName> hat wenig, fast nichts zu ändern oder zuzusetzen befunden,
+                    <rs type="person" ref="klicpera-vaclav-kliment" key="klicpera-vaclav-kliment">Klicpera</rs> soll die Pensionirung bereits angesucht haben, hier
+                    noch nichts.<lb/>Das Manuscript befindet sich bereits vollständig in <rs type="person" ref="auer-alois" key="auer-alois">Auers</rs> Händen. <rs type="person" ref="kink-rudolph" key="kink-rudolph">Kink</rs> hat wenig, fast nichts zu ändern oder zuzusetzen befunden,
                     mit Ausnahme der äußern Arrangirung der Überschriften, respective <hi rend="ul">Rand</hi>schriften. Dagegen haben wir beide den zweiten Anhang aller
-                    ersparbaren Längen beraubt. <persName key="auer-alois">Auer</persName>
+                    ersparbaren Längen beraubt. <rs type="person" ref="auer-alois" key="auer-alois">Auer</rs>
                     verspricht in 12 Tagen den Druck vollendet zu haben und bis zu der von Euer
                     Exzellenz ertheilten Imprimatur den Satz stehen lassen zu wollen.<lb/>Mayer
-                        [<persName key="meyer-bernhard">Meyer</persName>] hat den Artikel in die
+                        [<rs type="person" ref="meyer-bernhard" key="meyer-bernhard">Meyer</rs>] hat den Artikel in die
                     lithografische Correspondenz <hi rend="ul">nicht</hi> aufgenommen, weil sich
                     selbe von Anbeginn enthalten habe, Persönlichkeiten irgendwelcher Art in ihre
-                    Spalten aufzunehmen; dagegen will es <persName key="meyer-bernhard">Mayer</persName> in der Wiener Zeitung erscheinen lassen, wo es aber bis
+                    Spalten aufzunehmen; dagegen will es <rs type="person" ref="meyer-bernhard" key="meyer-bernhard">Mayer</rs> in der Wiener Zeitung erscheinen lassen, wo es aber bis
                     jetzt noch nicht erschienen ist.<note xml:id="note_1">Hier handelt es sich wohl
                         um den von Thun verfassten Artikel in der <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18530914&amp;seite=16&amp;zoom=33">Wiener Zeitung, Abendblatt, Nr. 209, 14. September 1853, S. 836</ref>.
                         Dieser erschien als Gegenartikel zu dem in der Augsburger Postzeitung vom
@@ -93,8 +92,8 @@
                         Ministers Graf Leo Thun-Hohenstein, Wien 1962, S. 141/142 und 162.</note>
                     Ich wende mich an [?] wegen des Weiteren. Der betreffende Artikel der A.P.Z.
                     [Augsburger Postzeitung] ist mir nicht entgangen, ich habe ihn aber zu den
-                    anderen Sünden beigelegt, deren Maß <persName key="haas-georg-emanuel">G[eorg]
-                        E[manuel] Haas</persName>, wie die Bibel von den Filistern sagt, längst
+                    anderen Sünden beigelegt, deren Maß <rs type="person" ref="haas-georg-emanuel" key="haas-georg-emanuel">G[eorg]
+                        E[manuel] Haas</rs>, wie die Bibel von den Filistern sagt, längst
                     schon vollgemacht und für eine erneute Anklage bereit gehalten, bin aber leider
                     noch nicht dazugekommen, das Schreiben <note xml:id="note_2">Korrektur aus: den
                         Erlass</note> abzufassen und flott zu machen.<lb/>Mögen Eure Exzellenz die

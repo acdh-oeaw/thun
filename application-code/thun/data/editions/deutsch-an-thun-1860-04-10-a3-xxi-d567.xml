@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="deutsch-ignaz" role="sender:kleriker">Ignaz Deutsch</persName>
-                    an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="deutsch-ignaz" key="deutsch-ignaz" role="sender:kleriker">Ignaz Deutsch</rs>
+                    an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1860-04-10">10.
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1860-04-10">10.
                         April 1860</date>
                 </title>
             </titleStmt>
@@ -52,7 +51,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -79,7 +78,7 @@
                     von der Kanzel herab denselben in seiner Überzeugung nicht erschüttern
                     konnten.<lb/>Das Bewußtsein, für eine heilige gerechte Sache einzustehen, die
                     traurige Gewißheit, daß leider kein anderer seiner Glaubensangehörigen je den
-                    Muth gezeigt, den jüdischen Neologen in <country ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</country> offen
+                    Muth gezeigt, den jüdischen Neologen in <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs> offen
                     entgegenzutreten und die ermuthigende Überzeugung, daß die ersten Räthe der
                     Krone diese Richtung stets vollkommen gebilligt haben, hat es möglich gemacht,
                     all’ diese schwer wiegenden Hindernisse zu überwinden und auf diesem Wege
@@ -91,7 +90,7 @@
                     endlich dieser für den gehorsamst Gefertigten so schmerzliche Vorfall auf seine
                     ungewöhnlich zahlreiche Familie einen solchen Eindruck hervorgebracht hat, daß
                     dies in der That eine Änderung in seiner ferneren Thätigkeit veranlassen dürfte,
-                    so fühlt sich derselbe aus liebevoller Hingebung für seinen <persName key="franz-joseph">Erhabenen Kaiserlichen Herrn</persName> und aus tiefster
+                    so fühlt sich derselbe aus liebevoller Hingebung für seinen <rs type="person" ref="franz-joseph" key="franz-joseph">Erhabenen Kaiserlichen Herrn</rs> und aus tiefster
                     Dankbarkeit für die ihm gewährte Unterstützung im Interesse der altgläubigen
                     Juden gedrängt und verpflichtet, über seine bisherige Thätigkeit und Wirksamkeit
                     der kaiserlichen Regierung in aller Ergebenheit Rechenschaft zu geben und bittet
@@ -100,34 +99,34 @@
                     jährigen schweren Kampfe – in dem derselbe seine besten Kräfte geopfert hat –
                     die beruhigende Überzeugung mit sich nehme, als treuergebener österreichischer
                     Unterthan und als Vertheidiger und Vertreter einer heiligen Sache seine
-                    übernommene moralische Verpflichtung gewißenhaft erfüllt zu haben. Vom <persName key="metternich-klemens-wenzel-lothar">Fürsten Metternich</persName> bis auf
+                    übernommene moralische Verpflichtung gewißenhaft erfüllt zu haben. Vom <rs type="person" ref="metternich-klemens-wenzel-lothar" key="metternich-klemens-wenzel-lothar">Fürsten Metternich</rs> bis auf
                     die heutige Zeit wurde der gehorsamst Gefertigte stets von allen leitenden
                     Regierungspersonen in seinen Bestrebungen – die Juden in
-                        <country ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</country> in ihrer alten religiösen Überzeugung zu
+                        <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs> in ihrer alten religiösen Überzeugung zu
                     erhalten – ausdrücklich ermuthiget und ist von denselben jederzeit mit Rath und
                     That unterstützt worden.<lb/>Bereits vor 20 Jahren wurde der gehorsamst
-                    Gefertigte durch <persName key="franz-karl-erzherzog">Seine Kaiserliche Hoheit
-                        den Durchlauchtigsten Herrn Erzherzog Franz Carl</persName> an die
+                    Gefertigte durch <rs type="person" ref="franz-karl-erzherzog" key="franz-karl-erzherzog">Seine Kaiserliche Hoheit
+                        den Durchlauchtigsten Herrn Erzherzog Franz Carl</rs> an die
                     hervorragendsten Regierungspersonen nachdrücklichst empfohlen. Zwei der
-                    Letzteren, der seelige Reichsrathspräsident <persName key="kuebeck-karl-friedrich">Freiherr von Kübeck</persName> und Seine
-                    Excellenz der Herr Reichsrath <persName key="krauss-karl">Freiherr von
-                        Kraus</persName>, denen die Bestrebungen des gehorsamst Gefertigten im
+                    Letzteren, der seelige Reichsrathspräsident <rs type="person" ref="kuebeck-karl-friedrich" key="kuebeck-karl-friedrich">Freiherr von Kübeck</rs> und Seine
+                    Excellenz der Herr Reichsrath <rs type="person" ref="krauss-karl" key="krauss-karl">Freiherr von
+                        Kraus</rs>, denen die Bestrebungen des gehorsamst Gefertigten im
                     Interesse der kaiserlichen Regierung vor und während dem Jahr 1848 genau bekannt
-                    waren, haben bereits über denselben bei verschiedenen Gelegenheiten an <persName key="franz-joseph">Seine k.k. apostolische Majestät</persName> Bericht
+                    waren, haben bereits über denselben bei verschiedenen Gelegenheiten an <rs type="person" ref="franz-joseph" key="franz-joseph">Seine k.k. apostolische Majestät</rs> Bericht
                     erstattet. Als sich nun die kaiserliche Regierung nach dem Jahr 1848 von den
                     Mittheilungen des gehorsamst Gefertigten über die politischen Gesinnungen der
                     altgläubigen Juden überhaupt die volle Überzeugung verschafft hatte, glaubte
                     derselbe in seinen Bestrebungen um so sicherer und entschiedener vorgehen zu
                     dürfen. Zu diesem Ende verfügte sich am 2. Sept. 1850 eine Deputation aus den
-                    ersten und bewährtesten Rabbinern des Reiches nach der <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">kaiserlichen Residenz</placeName>, um sich bei <persName key="franz-joseph">Seiner k.k. apostolischen Majestät</persName> im Namen ihrer Collegen
+                    ersten und bewährtesten Rabbinern des Reiches nach der <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">kaiserlichen Residenz</rs>, um sich bei <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner k.k. apostolischen Majestät</rs> im Namen ihrer Collegen
                     Schutz und Gnade für ihre alten religiösen Institutionen ehrfurchtsvoll zu
                     erbitten, die bei dieser feierlichen Gelegenheit den gehorsamst Gefertigten
                     ermächtigten, ihre religiösen Angelegenheiten bei der kaiserlichen Regierung
                     ferner zu vertreten.<lb/>Die Aufmerksamkeit des gehorsamst Gefertigten war
-                    zunächst auf die religiösen Zustände der Juden in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> –
+                    zunächst auf die religiösen Zustände der Juden in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> –
                     ein Kronland, welches 400.000 Juden in sich faßt – gerichtet. Das bekannte
                     jüdische Finanzcomité, welches sich im Jahr 1845 zur Aufhebung der Judensteuer
-                    in <placeName key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</placeName> gebildet hat, war schon damals
+                    in <rs type="place" subtype="place" key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</rs> gebildet hat, war schon damals
                     bestrebt, auch die politischen und religiösen Angelegenheiten der ungarischen
                     Juden in den Bereich ihrer Wirksamkeit zu ziehen. Als dasselbe nach dem Jahr
                     1848 factisch im Besitze von 2 Millionen des ungarischen israelitischen
@@ -137,30 +136,30 @@
                     unterstützt, hat Alles aufgebothen, um gegen dieses Comité und seine
                     verderblichen Institutionen anzukämpfen. Er hat die kaiserliche Regierung
                     unabläßig auf die Gefahr aufmerksam gemacht, welche durch das Fortbestehen des
-                        <placeName key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesther</placeName> Finanzcomités für die religiöse
+                        <rs type="place" subtype="place" key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesther</rs> Finanzcomités für die religiöse
                     Zukunft der ungarischen Juden unvermeidlich entstehen muß. Der Cultusfond wurde
                     endlich diesem Comité aus [den] Händen genommen, was die gänzliche Auflösung des
                     Letzteren herbeigeführt hat. Wäre dies nicht geschehen, so bestände in diesem
-                    Augenblicke in <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> und dessen Nebenländern vielleicht
+                    Augenblicke in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> und dessen Nebenländern vielleicht
                     nicht eine einzige altgläubige israelitische Cultusgemeinde.<lb/>Durch diesen
                     Erfolg ermuthiget, fühlten sich alle altgläubigen Judengemeinden in
-                        <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> frei von dem jahrelangen Drucke und dem
-                    schädlichen Einflusse des <placeName key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesther</placeName>
+                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> frei von dem jahrelangen Drucke und dem
+                    schädlichen Einflusse des <rs type="place" subtype="place" key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesther</rs>
                     israelitischen Finanzcomités. Sie richteten ihre Blicke wieder auf die alte
-                    regierungstreue, fromme Judengemeinde zu <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Presburg</placeName>, gaben ihren Widerwillen und Abscheu für all‘ die in
+                    regierungstreue, fromme Judengemeinde zu <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Presburg</rs>, gaben ihren Widerwillen und Abscheu für all‘ die in
                     Vorschlag gebrachten neologischen Seminare frei und offen kund und so ist es dem
-                    gehorsamst Gefertigten möglich geworden, die Rabbinatsschule zu <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Presburg</placeName> zu einer öffentlichen, angesehenen
+                    gehorsamst Gefertigten möglich geworden, die Rabbinatsschule zu <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Presburg</rs> zu einer öffentlichen, angesehenen
                     theologischen Lehranstalt für zukünftige Rabbiner zu erheben, die in diesem
                     Augenblicke 400 Hörer zählt, die für die Zukunft bestimmt sind, in eben so
-                    vielen jüdischen Gemeinden des <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Kaiserreiches</country> als regierungstreue Rabbiner zu fungiren, um ihre
+                    vielen jüdischen Gemeinden des <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Kaiserreiches</rs> als regierungstreue Rabbiner zu fungiren, um ihre
                     Gemeindeangehörigen in diesem Sinne zu leiten und zu erhalten.<lb/>Als sich eben
-                    um diese Zeit ein der kaiserlichen Regierung bekanntes revolutionäres <persName key="frankl-ludwig-august">Individuum</persName> mit den Reformen <country key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</country> vereinigte, um die alten jüdischen,
+                    um diese Zeit ein der kaiserlichen Regierung bekanntes revolutionäres <rs type="person" ref="frankl-ludwig-august" key="frankl-ludwig-august">Individuum</rs> mit den Reformen <rs type="place" subtype="country" key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</rs> vereinigte, um die alten jüdischen,
                     positiv religiösen Grundsätze an der Urquelle zu zerstören und zu diesem Ende
-                    nach <placeName ref="#place_0a5ed43ab1e290a2356aaa745e7d7196">Jerusalem</placeName> reiste, um unter den dortigen Juden einen
+                    nach <rs type="place" subtype="place" ref="#place_0a5ed43ab1e290a2356aaa745e7d7196">Jerusalem</rs> reiste, um unter den dortigen Juden einen
                     reformirten Gottesdienst und moderne europäische Institutionen einzuführen, hat
                     der gehorsamst Gefertigte keinen Augenblick gesäumt, um auf alle großen
                     europäischen Judengemeinden durch Wort und Schrift einzuwirken und gleichzeitig
-                    als Curator der Juden in <placeName key="palaestina" ref="#place_dd8c0041bb4366500ad53e96cfe81a66">Palästina</placeName> eine
+                    als Curator der Juden in <rs type="place" subtype="place" key="palaestina" ref="#place_dd8c0041bb4366500ad53e96cfe81a66">Palästina</rs> eine
                     Denkschrift <note xml:id="note_1">Vgl. Ignaz Deutsch, Denkschrift über die
                         beabsichtigte Einführung europäisch-moderner Institutionen und Reformen
                         unter den Juden in Palästina, Wien 1856.</note> dem hohen k.k. Ministerium
@@ -169,9 +168,9 @@
                     es, welche Angriffe der gehorsamst Gefertigte damals erdulden mußte, um diesen
                     für die religiöse Zukunft aller europäischen Juden gefahrdrohenden Anschlag zu
                     vereiteln. Er ist aber vereitelt worden und dem hohen Ministerium des Äußeren
-                    ist es gewiß nicht fremd geblieben, wie sich die Juden in <placeName key="palaestina" ref="#place_dd8c0041bb4366500ad53e96cfe81a66">Palaestina</placeName> bei jeder Veranlaßung, die das
-                    Interesse des <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">österreichischen
-                        Kaiserreiches</country> berührt hat, benommen haben. Während dem auf diese
+                    ist es gewiß nicht fremd geblieben, wie sich die Juden in <rs type="place" subtype="place" key="palaestina" ref="#place_dd8c0041bb4366500ad53e96cfe81a66">Palaestina</rs> bei jeder Veranlaßung, die das
+                    Interesse des <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">österreichischen
+                        Kaiserreiches</rs> berührt hat, benommen haben. Während dem auf diese
                     Weise die Grundbedingungen zur Erhaltung des alten jüdischen Glaubens
                     vertheidiget und gerettet wurden, hat der gehorsamst Gefertigte gewiß nichts
                     vernachläßiget, um die einzelnen schwankenden Judengemeinden in den Kronländern
@@ -182,10 +181,10 @@
                     nicht zu unterdrücken war, war derselbe bemüht, mindestens überall die
                     altgläubige Parthei zu erhalten, zur Ausdauer aufzumuntern und die Kluft zwischen
                     ihnen immer schroffer auszubilden. Die Anstrengungen des gehorsamst Gefertigten,
-                    der Reform in der <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">kaiserlichen Residenz</placeName>
+                    der Reform in der <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">kaiserlichen Residenz</rs>
                     möglichst entgegenzuwirken, auf die derselbe den höchsten Werth gesetzt hat,
                     sind wohl allen Behörden seit mehr als 20 Jahren genügend bekannt. Mehr als 15
-                    altgläubige Bethhäuser sind auf seine Veranlaßung in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>
+                    altgläubige Bethhäuser sind auf seine Veranlaßung in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>
                     und dessen nächster Umgebung in‘s Leben getreten. Einen Theil derselben hat der
                     gehorsamst Gefertigte persönlich errichtet und, um eine altgläubige Fraction mit
                     Sicherheit zu erhalten, hat derselbe schon im Jahr 1849 eine eigene altgläubige
@@ -195,25 +194,25 @@
                         Cultusministeriums</orgName> gesetzlich fortbesteht. Es ist kaum ein Jahr
                     vorüber und Euer Excellenz dürften wohl die ganze Angelegenheit noch in voller
                     Erinnerung behalten haben, als die israelitische Hauptgemeinde zu
-                        <placeName ref="#place_334094243fec026b45e82ab7a0021a1b">Makó</placeName> im <region key="temescher-banat" ref="#place_67c8655646f02446cc1e4ecffd769f79">Banat</region>
+                        <rs type="place" subtype="place" ref="#place_334094243fec026b45e82ab7a0021a1b">Makó</rs> im <rs type="place" subtype="region" key="temescher-banat" ref="#place_67c8655646f02446cc1e4ecffd769f79">Banat</rs>
                     durch einige Neologen und durch die Unterstützung des Stuhlrichteramtes
                     gewaltsam reformirt wurde. Die alte Synagoge war bereits zerstört und in einen
                     Tempel mit Choralgesang umgewandelt, der Concurs für einen modernen Prediger in
                     den öffentlichen Blättern bereits ausgeschrieben und als sich der dortige
-                    Rabbiner und die Gemeindeangehörigen aus <region key="temescher-banat" ref="#place_67c8655646f02446cc1e4ecffd769f79">Banat</region> an den gehorsamst Gefertigten wendeten, wurden dieselben
-                    aufgemuntert und ermuthiget. Dieselben kamen nach <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> –
+                    Rabbiner und die Gemeindeangehörigen aus <rs type="place" subtype="region" key="temescher-banat" ref="#place_67c8655646f02446cc1e4ecffd769f79">Banat</rs> an den gehorsamst Gefertigten wendeten, wurden dieselben
+                    aufgemuntert und ermuthiget. Dieselben kamen nach <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> –
                     der gehorsamst Gefertigte leitete diesen Proceß durch 18 volle Monate –
                     verfertigte persönlich alle Eingaben bei den unteren Behörden und das Resultat
                     ist Eurer Excellenz bekannt. Der Cultusvorstand der Hauptgemeinde
-                        <placeName ref="#place_334094243fec026b45e82ab7a0021a1b">Makó</placeName> wurde durch eine überwiegende Majorität
+                        <rs type="place" subtype="place" ref="#place_334094243fec026b45e82ab7a0021a1b">Makó</rs> wurde durch eine überwiegende Majorität
                     abgesetzt, der alte Rabbiner wieder in Ehren berufen, die Synagoge hergestellt,
                     der Tempel, Choralgesang, alle neologischen Einrichtungen beseitigt und alle
                     kleineren umliegenden Gemeinden im Banat von dieser Plage gänzlich
                     befreit.<lb/>Es ist kaum 8 Tage, daß ein ähnlicher Fall in der Judengemeinde
-                        <placeName ref="#place_112e98ebeec0c3d3ea5c7571eff0435d">Verbocz</placeName> durch Vermittlung des gehorsamst Gefertigten
+                        <rs type="place" subtype="place" ref="#place_112e98ebeec0c3d3ea5c7571eff0435d">Verbocz</rs> durch Vermittlung des gehorsamst Gefertigten
                     beim <orgName key="ministerium-fuer-kultus-und-unterricht">hohen
                         Cultusministerium</orgName> verhindert wurde und in diesem Augenblicke
-                    befindet sich ein Abgeordneter des Ober- und Comitatsrabbiners <persName key="frieden-pinkas">Frieden</persName> aus <placeName key="komorn" ref="#place_e932bc49bfc0edd57c094127e87959aa">Comorn</placeName> bei dem gehorsamst Gefertigten, der um Rath bittet, wie
+                    befindet sich ein Abgeordneter des Ober- und Comitatsrabbiners <rs type="person" ref="frieden-pinkas" key="frieden-pinkas">Frieden</rs> aus <rs type="place" subtype="place" key="komorn" ref="#place_e932bc49bfc0edd57c094127e87959aa">Comorn</rs> bei dem gehorsamst Gefertigten, der um Rath bittet, wie
                     in dieser Gemeinde der durch eine geringe Anzahl Neologen angestrebten
                     Umgestaltung der alten Synagoge und der Berufung eines modernen Predigers
                     daselbst zu begegnen wäre, um alle kleineren Judengemeinden in diesem Comitate
@@ -231,11 +230,11 @@
                     Rücksichten um so mehr steigern.<lb/>Alle Welt kennt die regierungstreuen
                     Gesinnungen der altgläubigen Juden und Niemand kann gewißenhafter darüber
                     berichten als der gehorsamst Gefertigte. Alle Rundschreiben der Gemeinden und
-                    deren Rabbiner, jeder Aufruf der jüdischen Synode in <placeName key="palaestina" ref="#place_dd8c0041bb4366500ad53e96cfe81a66">Palästina</placeName> und alle patriotischen Kundgebungen derselben, wie
+                    deren Rabbiner, jeder Aufruf der jüdischen Synode in <rs type="place" subtype="place" key="palaestina" ref="#place_dd8c0041bb4366500ad53e96cfe81a66">Palästina</rs> und alle patriotischen Kundgebungen derselben, wie
                     sie in so vielen bewegten Zeiten und während dem letzten italienischen Kriege in
                     den Tagsblättern abgedruckt waren, hat der gehorsamst Gefertigte verfaßt und dem
                     Redacteur der Wiener Zeit. persönlich übergeben, die in der Regel dem
-                        <persName key="bach-alexander">Herrn Minister des Innern</persName> und
+                        <rs type="person" ref="bach-alexander" key="bach-alexander">Herrn Minister des Innern</rs> und
                     nicht selten auch Eurer Excellenz vor dem Drucke zur Einsicht unterbreitet
                     wurden. Daß dies nicht im Sinne der Neologen war, daß ihre Wünsche und Absichten
                     durch solche Kundgebungen vielmehr stets vereitelt worden sind, unterliegt
@@ -250,25 +249,25 @@
                     einzigen Fall hervorheben, der erst in der letzten Zeit eingetreten ist und der
                     es deutlich zeigt, daß nichts vernachläßigt wurde, selbst auf die Gefahr hin,
                     von den eigenen Gesinnungsgenossen verurtheilt zu werden, um die kaiserliche
-                    Regierung von jeder Unannehmlichkeit zu verschonen.<lb/>Als die <persName key="mortara-edgar">Mortara</persName>’sche Angelegenheit seiner Zeit in
-                        <country ref="#place_5c4b925bf527c4f8581815a35a10d658">Europa</country> so viel Aufsehen verursachte, wurden auf <persName key="cavour-camillo-benso">Cavours</persName> Veranlaßung, von
-                        <placeName ref="#place_6e47ab2ba949d47b8441d362f820cc5b">Alessandria</placeName> datirt, die heftigsten Pamphlete gegen
-                    den Pabsten unter den Juden <country key="europa" ref="#place_55899fef2f0b2eba13eb1316b34b3694">Europas</country> verbreitet.
-                        <persName key="montefiore-moses">Sir Moses Montefiore</persName>, von einem
-                    in <placeName ref="#place_59ead8d1e124ccfb79f3ace06f43e703">London</placeName> zu diesem Zwecke eigens gebildeten Comité
+                    Regierung von jeder Unannehmlichkeit zu verschonen.<lb/>Als die <rs type="person" ref="mortara-edgar" key="mortara-edgar">Mortara</rs>’sche Angelegenheit seiner Zeit in
+                        <rs type="place" subtype="country" ref="#place_5c4b925bf527c4f8581815a35a10d658">Europa</rs> so viel Aufsehen verursachte, wurden auf <rs type="person" ref="cavour-camillo-benso" key="cavour-camillo-benso">Cavours</rs> Veranlaßung, von
+                        <rs type="place" subtype="place" ref="#place_6e47ab2ba949d47b8441d362f820cc5b">Alessandria</rs> datirt, die heftigsten Pamphlete gegen
+                    den Pabsten unter den Juden <rs type="place" subtype="country" key="europa" ref="#place_55899fef2f0b2eba13eb1316b34b3694">Europas</rs> verbreitet.
+                        <rs type="person" ref="montefiore-moses" key="montefiore-moses">Sir Moses Montefiore</rs>, von einem
+                    in <rs type="place" subtype="place" ref="#place_59ead8d1e124ccfb79f3ace06f43e703">London</rs> zu diesem Zwecke eigens gebildeten Comité
                     gedrängt, mußte mit seiner Unterschrift versehen, alle größeren Judengemeinden
-                    in <country ref="#place_5c4b925bf527c4f8581815a35a10d658">Europa</country> auffordern, im Interesse der Mortara’schen Familie
+                    in <rs type="place" subtype="country" ref="#place_5c4b925bf527c4f8581815a35a10d658">Europa</rs> auffordern, im Interesse der Mortara’schen Familie
                     zu wirken. Der gehorsamst Gefertigte hat keinen Augenblick gesäumt, alle diese
                     italienischen, offenen und geheimen Rundschreibungen, so wie ihm dieselben von
-                    den Rabbinern zugeschickt worden, theils Eurer Excellenz und theils <persName key="rauscher-joseph">Seiner Eminenz dem Cardinal Erzbischofe von
-                        Rauscher</persName> auszufolgen. Derselbe verfertigte gleichzeitig ein
-                    Rundschreiben, welches dem damaligen Herrn Unterstaatssecretär <persName key="werner-josef">Freiherrn von Werner</persName> zur Einsicht übergeben
-                    wurde, das bestimmt war, die Aufforderung <persName key="montefiore-moses">Sir
-                        Moses Montefiore’s</persName> an die Juden zu entkräftigen und der königlich
-                    englische Oberlandesrabbiner <persName key="adler-marcus">Adler</persName> mußte
-                    Alles aufbiethen, um <persName key="montefiore-moses">Montefiore</persName> von
+                    den Rabbinern zugeschickt worden, theils Eurer Excellenz und theils <rs type="person" ref="rauscher-joseph" key="rauscher-joseph">Seiner Eminenz dem Cardinal Erzbischofe von
+                        Rauscher</rs> auszufolgen. Derselbe verfertigte gleichzeitig ein
+                    Rundschreiben, welches dem damaligen Herrn Unterstaatssecretär <rs type="person" ref="werner-josef" key="werner-josef">Freiherrn von Werner</rs> zur Einsicht übergeben
+                    wurde, das bestimmt war, die Aufforderung <rs type="person" ref="montefiore-moses" key="montefiore-moses">Sir
+                        Moses Montefiore’s</rs> an die Juden zu entkräftigen und der königlich
+                    englische Oberlandesrabbiner <rs type="person" ref="adler-marcus" key="adler-marcus">Adler</rs> mußte
+                    Alles aufbiethen, um <rs type="person" ref="montefiore-moses" key="montefiore-moses">Montefiore</rs> von
                     weiteren Schritten abzumahnen.<lb/>Was nun auch weiter in dieser Angelegenheit
-                    in <country ref="#place_64f607906be7598a02d75dbc1e979662">England</country> geschehen – Tathsache ist, daß nicht eine einzige
+                    in <rs type="place" subtype="country" ref="#place_64f607906be7598a02d75dbc1e979662">England</rs> geschehen – Tathsache ist, daß nicht eine einzige
                     altgläubige Judengemeinde, noch weniger ein Rabbiner derselben weder einen übeln
                     Laut in der Presse noch sonst einen feindlichen Schritt gegen die päbstliche
                     Regierung versucht hat. Ist nun eine solche Wirksamkeit schon an und für sich
@@ -306,16 +305,16 @@
                     deutlich hervor, mit welch‘ persönlicher Gefahr und mit welchen Schwierigkeiten
                     solche Bestrebungen in der heutigen Zeit verknüpft sind.<lb/>Durch die neuesten
                     Änderungen in den politischen Verhältnissen der Juden in
-                        <country ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</country> und durch die hieraus entstehende vollkommen
+                        <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs> und durch die hieraus entstehende vollkommen
                     freie Bewegung derselben werden in der nächsten Zukunft in allen Kronländern des
-                        <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Kaiserreiches</country> neue Judengemeinden
+                        <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Kaiserreiches</rs> neue Judengemeinden
                     erstehen, ohne in diesen frei gewählten Niederlaßungen irgend etwas zu finden,
                     was dieselben an ihre alten religiösen Formen und Gebräuche ermahnen könnte und
                     die, "wenn sie nicht sämmtlich in die Gewalt der Neologen gänzlich verfallen
                     sollen", eine sorgfältige Überwachung und die volle Aufmerksamkeit der
-                    kaiserlichen Regierung bedürfen.<lb/>In der <placeName key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">kaiserlichen
-                        Residenz</placeName>, in der nächsten Umgebung derselben und in ganz
-                        <placeName key="niederoesterreich" ref="#place_01b2e8cfb34e1d933aa943e42ef15919">N[ieder]Oesterreich</placeName>
+                    kaiserlichen Regierung bedürfen.<lb/>In der <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">kaiserlichen
+                        Residenz</rs>, in der nächsten Umgebung derselben und in ganz
+                        <rs type="place" subtype="place" key="niederoesterreich" ref="#place_01b2e8cfb34e1d933aa943e42ef15919">N[ieder]Oesterreich</rs>
                     überhaupt, haben sich bereits diese Folgen auf eine besorgniserregende Weise
                     kundgegeben.<lb/>Von diesem Zustande genau unterrichtet, hat der gehorsamst
                     Gefertigte schon im Jahr 1857 eine umständlich verfaßte Denkschrift dem <orgName key="ministerium-fuer-kultus-und-unterricht">hohen
@@ -323,7 +322,7 @@
                     aufmerksam gemacht, wie sie nun in der letzten Zeit immer deutlicher
                     hervortreten. Derselbe hat damals gleichzeitig die Mittel bezeichnet, wie diesem
                     Übel nach seiner innigsten Überzeugung am gründlichsten zu begegnen wäre.
-                    Allerdings bilden noch die altgläubigen Elemente im <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Kaiserreiche</country> die überwiegende Mehrzahl und noch weit günstiger
+                    Allerdings bilden noch die altgläubigen Elemente im <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Kaiserreiche</rs> die überwiegende Mehrzahl und noch weit günstiger
                     besteht das Verhältnis der alten Rabbiner zu den neologischen Predigern, allein
                     es hat den alten Fractionen stets an Muth gefehlt, für ihre Sache offen in die
                     Schranken zu treten. Die Rabbiner zeigen eine ängstliche Scheu vor den
@@ -344,7 +343,7 @@
                     neologischen Versuche unter den Juden Oesterreichs für immer lähmen und
                     zerstören.<lb/>Jeder, der die äußersten Anstrengungen kennt, Jedweder, der es
                     weiß, was in viel besseren Zeiten aufgebothen werden mußte, um einer
-                    progressiven neologischen Überfluthung unter den Juden des <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Kaiserreiches</country> Einhalt zu thun, würde eine solche
+                    progressiven neologischen Überfluthung unter den Juden des <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Kaiserreiches</rs> Einhalt zu thun, würde eine solche
                     Eventualität immer im Auge behalten müssen.<lb/>Die Erhaltung einer Volksklasse
                     in ihren alten religiösen und regierungstreuen Grundsätzen, einer Volksklasse,
                     die im ganzen Reiche mit der Landbevölkerung im innigsten Verkehre steht, soll
@@ -353,7 +352,7 @@
                     weisesten Kirchenfürsten über das, was die altgläubigen Juden aus politischen
                     und religiösen Rücksichten in jedem Staate und namentlich in der heutigen Zeit
                     bedeuten, ist längst bekannt."<lb/>"Möge auch die altehrwürdige
-                    römisch-katholische österreichische kaiserliche Regierung, die nächst <country key="russland" ref="#place_5c0704d47c0a58a0922e25b5b9b66b27">Rußland</country>, die meisten Israeliten aufgenommen hat,
+                    römisch-katholische österreichische kaiserliche Regierung, die nächst <rs type="place" subtype="country" key="russland" ref="#place_5c0704d47c0a58a0922e25b5b9b66b27">Rußland</rs>, die meisten Israeliten aufgenommen hat,
                     die Sache ihrer altgläubigen jüdischen Unterthanen einer gnädigen Prüfung im
                     hohen Ministerrathe werth finden."<lb/>Eine rasche und entschiedene Kundgebung,
                     aus der alle Landesbehörden den Wunsch und den Willen der kaiserlichen Regierung

@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="mozart-joseph" role="sender:beamter">Joseph Mozart</persName>
-                    an <persName key="thun-hohenstein-leo">Leo Thun</persName>
+                    <rs type="person" ref="mozart-joseph" key="mozart-joseph" role="sender:beamter">Joseph Mozart</rs>
+                    an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Leo Thun</rs>
                     <lb/>o. O., o. D.
                         [1852?]<note xml:id="note_1">Das Schreiben ist im Nachlass von Thun auf das
                         Jahr 1852 datiert. Das im Brief behandelte Lesebuch wurde mit Erlass vom 10.
@@ -44,7 +43,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -74,8 +73,8 @@
                     wollen.<lb/>Glauben Eure Excellenz gnädigst meiner Versicherung, ich habe meinen
                     Auftrag reiflich erwogen und kenne die Schriftsteller wohl, auch unsere
                     österreichischen. Die bedeutenden unter den österreichischen sind im
-                    Wesentlichen von keiner besseren Färbung als <persName key="goethe-johann-wolfgang">Göthe</persName> und <persName key="schiller-friedrich">Schiller</persName>; unter <persName key="herder-johann-gottfried">Herder</persName> stehen sie weit. Dies gilt
-                    selbst von dem bedeutendsten der österreichischen Literaten, von <persName key="grillparzer-franz">Grillparzer</persName>, da gerade seine
+                    Wesentlichen von keiner besseren Färbung als <rs type="person" ref="goethe-johann-wolfgang" key="goethe-johann-wolfgang">Göthe</rs> und <rs type="person" ref="schiller-friedrich" key="schiller-friedrich">Schiller</rs>; unter <rs type="person" ref="herder-johann-gottfried" key="herder-johann-gottfried">Herder</rs> stehen sie weit. Dies gilt
+                    selbst von dem bedeutendsten der österreichischen Literaten, von <rs type="person" ref="grillparzer-franz" key="grillparzer-franz">Grillparzer</rs>, da gerade seine
                     bedeutendsten Werke aus einer früheren Periode stammten, wo er mit sich selbst
                     nicht im Klaren war. Hievon machen nur die Historiker eine Ausnahme, allein bloß
                     in <hi rend="ul">wissenschaftlicher</hi> Beziehung; auf die Literatur haben sie

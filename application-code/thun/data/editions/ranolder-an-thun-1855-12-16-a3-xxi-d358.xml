@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="ranolder-johann" role="sender:kleriker">Johann
-                        Ranolder</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="ranolder-johann" key="ranolder-johann" role="sender:kleriker">Johann
+                        Ranolder</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName key="veszprem" ref="#place_dee98a409c92d6df15b591129534021e">Veszprém</placeName>,
+                    <rs type="place" subtype="place" key="veszprem" ref="#place_dee98a409c92d6df15b591129534021e">Veszprém</rs>,
                         <date when="1855-12-16">16. Dezember 1855</date>
                 </title>
             </titleStmt>
@@ -30,7 +29,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -44,7 +43,7 @@
                     Frömmigkeit und gottesfürchtige Weisheit zu dem glücklichen Zustandekommen des
                     von der ganzen katholischen Welt freudigst begrüßten Concordats wesentlich
                     beigetragen; woher ich zuversichtlich hoffe: Euere Exzellenz werden meine – als
-                    einer der damaligen, in ganz <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</country>
+                    einer der damaligen, in ganz <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs>
                     frohlockenden Bischöfe – dem Innersten entquollene Stimme gütigst zu vernehmen
                     geruhen, wenn ich mir hiemit erlaube, für diese heilbringende Mitwirkung Euerer
                     Exzellenz in Namen der Mutterkirche innigstgefühlten Dank auszusprechen, und

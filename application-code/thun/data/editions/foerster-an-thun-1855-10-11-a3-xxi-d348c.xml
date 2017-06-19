@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="foerster-heinrich" role="sender:kleriker">Heinrich
-                        Förster</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="foerster-heinrich" key="foerster-heinrich" role="sender:kleriker">Heinrich
+                        Förster</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_fc6123ee713a3e022c0161848caa0934">Schloss Johannesberg</placeName>, <date when="1855-10-11">11. Oktober 1855</date>
+                    <rs type="place" subtype="place" ref="#place_fc6123ee713a3e022c0161848caa0934">Schloss Johannesberg</rs>, <date when="1855-10-11">11. Oktober 1855</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -67,7 +66,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -91,10 +90,10 @@
                     unzweifelhaft dargethan, daß bis auf zwei Persönlichkeiten, die darin
                     beschimpften Männer, unter denen sich sehr würdige Priester befinden, in der
                     schmählichsten Weise verläumdet worden sind.<lb/>Die beiden mit Wahrheit
-                    angegriffenen Persönlichkeiten sind <persName key="kapinus-johannes">Kapinus</persName>, dessen Untersuchungssache Euer Excellenz bekannt ist;
-                    und <persName key="paduch-joseph">Paduch</persName>, der Fürstbischöfliche
-                    Commissarius in <placeName ref="#place_27f77677310f3f4e0b878e7f7f0f0dd1">Teschen</placeName>. Dieser Unglücksmann, der sich
-                    außerdem gar nicht für die wichtige Stellung in <placeName ref="#place_27f77677310f3f4e0b878e7f7f0f0dd1">Teschen</placeName>,
+                    angegriffenen Persönlichkeiten sind <rs type="person" ref="kapinus-johannes" key="kapinus-johannes">Kapinus</rs>, dessen Untersuchungssache Euer Excellenz bekannt ist;
+                    und <rs type="person" ref="paduch-joseph" key="paduch-joseph">Paduch</rs>, der Fürstbischöfliche
+                    Commissarius in <rs type="place" subtype="place" ref="#place_27f77677310f3f4e0b878e7f7f0f0dd1">Teschen</rs>. Dieser Unglücksmann, der sich
+                    außerdem gar nicht für die wichtige Stellung in <rs type="place" subtype="place" ref="#place_27f77677310f3f4e0b878e7f7f0f0dd1">Teschen</rs>,
                     am allerwenigsten für die eines Curators des Gymnasiums daselbst qualifizirt,
                     ist sonst ein fleißiger und bisher in seinem Rufe unbescholtener Mann. Vor etwa
                     12 Jahren hat er sich in einer schwachen Stunde mit einem verschmitzten
@@ -104,10 +103,10 @@
                     Commissariat niederlegen und sein Benefizium resigniren müsse. Der Mann ist in
                     förmlicher Verzweiflung und thut alle Schritte, sich dort zu erhalten.
                     Wahrscheinlich wird er auch bei Euer Excellenz vortreten, mir mindestens ist
-                    mein Vorgehen in dieser Sache gegen <persName key="paduch-joseph">Paduch</persName> bereits als unerhörte Härte ausgelegt worden.<lb/>Von
-                        <persName key="gabriel-philipp">Gabriel</persName> läßt sich nichts
+                    mein Vorgehen in dieser Sache gegen <rs type="person" ref="paduch-joseph" key="paduch-joseph">Paduch</rs> bereits als unerhörte Härte ausgelegt worden.<lb/>Von
+                        <rs type="person" ref="gabriel-philipp" key="gabriel-philipp">Gabriel</rs> läßt sich nichts
                     erweisen. Die ihm näher stehen, auch gewissenhafte unparteiische Priester, wie
-                    Dr. <persName key="wache-johann">Wache</persName>, können in seinem Verhältnisse
+                    Dr. <rs type="person" ref="wache-johann" key="wache-johann">Wache</rs>, können in seinem Verhältnisse
                     zu der verfolgten Wirthin etwas Anstößiges nicht finden. So weit indeß ist
                     sicher, daß seine Haltung priesterlicher sein könnte und daß es klug wäre, wenn
                     er die vielbesprochene Haushälterin längst entlassen hätte – wie ich ihm auch
@@ -115,18 +114,18 @@
                     wollen Euer Excellenz aus seinem beiliegenden Schreiben an mich gütigst
                     entnehmen , in welchen zugleich durch die angeschlossenen Schriften
                     unzweifelhaft – wie mir scheint – dargethan wird, daß der Schreiber das anonymen
-                    Briefes der Lehrer <persName key="lukas-florian">Lukas</persName> am Gymnasium
-                    in <placeName ref="#place_27f77677310f3f4e0b878e7f7f0f0dd1">Teschen</placeName> ist; wie sich denn überhaupt immer sicherer
+                    Briefes der Lehrer <rs type="person" ref="lukas-florian" key="lukas-florian">Lukas</rs> am Gymnasium
+                    in <rs type="place" subtype="place" ref="#place_27f77677310f3f4e0b878e7f7f0f0dd1">Teschen</rs> ist; wie sich denn überhaupt immer sicherer
                     herausstellt, daß das ganze Pasquil- und anonyme Briefschreiben und alle
-                    Intriguen gegen <persName key="gabriel-philipp">Dr. Gabriel</persName> und die
+                    Intriguen gegen <rs type="person" ref="gabriel-philipp" key="gabriel-philipp">Dr. Gabriel</rs> und die
                     geistlichen Lehrer von den weltlichen Lehrern unterhalten werden.<lb/>Möge Gott
                     helfen und Eurer Excellenz treue Sorgfalt. Die Übergabe des Gymnasiums an die
                     Jesuiten muß ich auch jetzt noch für das beste Mittel erachten.<lb/>Schließlich
                     wollen mir Euer Excellenz noch die ergebenste Bemerkung gestatten, daß wenn
-                        <persName key="kuenzer-franz">Dr. Künzer</persName> aus Breslau und ein
-                    gewisser Lehrer <persName key="hartwig">Hartwig</persName> aus
-                        <region ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</region> sich wegen Aufnahme an einem Gymnasium in
-                        <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</country> bei Euer Excellenz melden
+                        <rs type="person" ref="kuenzer-franz" key="kuenzer-franz">Dr. Künzer</rs> aus Breslau und ein
+                    gewisser Lehrer <rs type="person" ref="hartwig" key="hartwig">Hartwig</rs> aus
+                        <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs> sich wegen Aufnahme an einem Gymnasium in
+                        <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</rs> bei Euer Excellenz melden
                     sollten, dieselben am besten sofort abzuweisen wären. Weder ihre
                     wissenschaftliche noch sittliche Führung macht sie empfehlenswerth.<lb/>Indem
                     ich Gott bitte, daß Er Euer Excellenz in seinem Allerheiligsten Schutze erhalte
@@ -136,17 +135,17 @@
                 <p>Schloß Johannesberg, den 11. Oktober 1855</p>
                 <div type="enclosure" xml:id="D348c_1">
                     <p>Hochwürdigster Fürstbischof!<lb/>Gnädigster Herr!</p>
-                    <p>Gestern wurde mir von dem Hochwürdigen Fürstbischöflichen <persName key="helm-anton">Generalvicar</persName> im strengsten Vertrauen der
+                    <p>Gestern wurde mir von dem Hochwürdigen Fürstbischöflichen <rs type="person" ref="helm-anton" key="helm-anton">Generalvicar</rs> im strengsten Vertrauen der
                         unerhörte Innhalt eines <ref target="#D348b_1">anonymen Schreibens</ref> an
                         Euere Fürstbischöfliche Gnaden bekannt gegeben. Dieses Schreiben hat
-                            <persName key="lukas-florian">Lukas</persName> zum Verfasser, welches
+                            <rs type="person" ref="lukas-florian" key="lukas-florian">Lukas</rs> zum Verfasser, welches
                         aus dem Zusammentreffen aller Umstände hervorgeht. Um die Handschrift zu
                         erkennen lege ich einiges von derselben bei. Diese teuflische Bosheit wütet
                         gegen mich seit meinem Hiersein, weil man alle katholischen Priester vom
                         Gymnasium vertreiben will. Es ist dieses complotartige Unternehmen der
                         fortgesetzte Kampf der Irreligiosität vor 1848, welcher den
-                        Fürstbischöflichen Comissär und <persName key="sobetzky-leopold">Sobetcki</persName> erhängen wollte, der sich mit <persName key="kossuth-lajos">Kossuth</persName> verband und den Aufruhr offen
-                        predigte, in den Oktobertagen bewaffnet nach <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> zog
+                        Fürstbischöflichen Comissär und <rs type="person" ref="sobetzky-leopold" key="sobetzky-leopold">Sobetcki</rs> erhängen wollte, der sich mit <rs type="person" ref="kossuth-lajos" key="kossuth-lajos">Kossuth</rs> verband und den Aufruhr offen
+                        predigte, in den Oktobertagen bewaffnet nach <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> zog
                         – aber zurückgeworfen wurde.<lb/>Ich stehe im Augenblicke zu sehr unter dem
                         Einfluße einer heftigen Nervenerschütterung, um die Ursachen dieser
                         Irreligiosität constatiert niederzuschreiben und Euer Fürstbischöflichen
@@ -157,7 +156,7 @@
                         unbescholten, opferwillig und genügsam. Die Personen des Haushaltes wohnen
                         unten, die Vorsteher des Conviktes mit den Zöglingen im obern Teile des
                         Hauses. Jedes Zusammenkommen bei der getroffenen Regelung ist beseitiget.
-                            <persName key="danel-franz">Prof. Danel</persName> und <persName key="sobetzky-leopold">Sobetzky</persName> werden mein Verhalten als
+                            <rs type="person" ref="danel-franz" key="danel-franz">Prof. Danel</rs> und <rs type="person" ref="sobetzky-leopold" key="sobetzky-leopold">Sobetzky</rs> werden mein Verhalten als
                         Vorstand einer Erziehungsanstalt eidlich angeben und das k.k. Landesgericht
                         als Obercuratelsbehörde darüber aussagen können. Ich mache, da ich der Ehre
                         und dem Zwecke alles zu bieten im Stande bin, unterm heutigen Tag, die
@@ -175,7 +174,7 @@
                         Eremit gelebt habe, beschäftigt von früh bis Abend mit meiner Aufgabe am
                         Gymnasium und im Convikte, so werde ich und will ich, um die Beweisführung
                         gegen die Irreligiösen zu vollenden, noch abgesonderter leben. Wenn <hi rend="ul">
-                            <persName key="lukas-florian">Lukas</persName> nicht
+                            <rs type="person" ref="lukas-florian" key="lukas-florian">Lukas</rs> nicht
                             versetzt</hi> wird, wird auch dann noch keine Ruhe sein. Man fürchtet
                         schon jetzt das Übergewicht der kath. Richtung, für welche fast alle Schüler
                         und alle besseren Eltern gewonnen sind; durch 2 Jahre ist kein Abiturient

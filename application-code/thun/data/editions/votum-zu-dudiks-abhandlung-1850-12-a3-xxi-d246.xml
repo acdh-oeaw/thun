@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -46,7 +45,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -61,10 +60,10 @@
                 <p>
                     <hi rend="ul">Votum separatum</hi>
                     <lb/>
-                    <hi rend="ul">Über das Operat des <persName key="dudik-beda">Dr.
-                            Dudiks</persName> die staatsrechtlichen Beziehungen zwischen der
-                        Markgrafschaft <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> und dem Herzogthume
-                            <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region>
+                    <hi rend="ul">Über das Operat des <rs type="person" ref="dudik-beda" key="dudik-beda">Dr.
+                            Dudiks</rs> die staatsrechtlichen Beziehungen zwischen der
+                        Markgrafschaft <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> und dem Herzogthume
+                            <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs>
                     </hi>
                 </p>
                 <p>Die in Folge des Sitzungsbeschlußes dto. 20. April 1850 verfaßte eben berührte
@@ -87,17 +86,17 @@
                         rechtfertiget, sondern auch zur Pflicht macht</hi>.<lb/>Der Sitzungsbeschluß
                     dto. 22. April 1850 lautet:<lb/>„Zugleich mit diesem Proteste<note xml:id="note_1">Anmerkung am unteren Blattrand: In der Sitzung vom 22. April
                         1850 wurde gegen die Abtretung der mährischen Enclaven an
-                            <region ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</region> protestirt.</note> ist Professor <persName key="dudik-beda">Dudik</persName> zu ersuchen, die staatsrechtlichen
-                    Beziehungen des Herzogthums <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> und der übrigen
-                    Landestheile von <region ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</region> zu <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> mit Hinweisung auf die bezüglichen geschichtlichen
+                            <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs> protestirt.</note> ist Professor <rs type="person" ref="dudik-beda" key="dudik-beda">Dudik</rs> zu ersuchen, die staatsrechtlichen
+                    Beziehungen des Herzogthums <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> und der übrigen
+                    Landestheile von <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs> zu <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> mit Hinweisung auf die bezüglichen geschichtlichen
                     Dokumente und Urkunden zu erörtern und insbesondere anzugeben, seit welcher Zeit
-                    und aus welcher Ursache das Herzogthum <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> eine von <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> verschiedene Vertretung erhalten hat, um <hi rend="ul">für den Fall, als bey den künftigen Landtage</hi> die Frage
+                    und aus welcher Ursache das Herzogthum <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> eine von <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> verschiedene Vertretung erhalten hat, um <hi rend="ul">für den Fall, als bey den künftigen Landtage</hi> die Frage
                     hierwegen zur Sprache kommen sollte, die nöthigen Substrate vorbereitet zu
                         haben.“<lb/>
-                    <persName key="dudik-beda">Dr. Dudik</persName> ist mit einem
+                    <rs type="person" ref="dudik-beda" key="dudik-beda">Dr. Dudik</rs> ist mit einem
                     großen Fleiße dieser ehrenvollen Aufforderung nachgekommen. Er hat manche irrige
                     Data berichtigt, auch sogar <hi rend="ul">neue</hi> Urkunden die Geschichte
-                        <region key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</region> und <region ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</region>
+                        <rs type="place" subtype="region" key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</rs> und <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs>
                     betreffend bekannt gemacht und dadurch wesentliche Dienste diesem Theile unserer
                     Geschichte geleistet. In dem ich hiefür ihm meine Anerkennung ausspreche, kann
                     ich nicht umhin zugleich einige kritische Bemerkungen als Motive meines Votums
@@ -107,15 +106,15 @@
                     historischer und staatsrechtlicher Beweismittel, endlich die <hi rend="ul">Form</hi>, in welcher die Thatsachen und die Deductionen eingekleidet
                     sind.<lb/>Der Landesausschuß hat folgendermaßen die erwähnte Aufforderung
                     formulirt: <hi rend="ul">Es sind die staatsrechtlichen Beziehungen des
-                        Herzogthumes <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> und der übrigen Landestheile von
-                            <region ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</region> zu <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> mit
+                        Herzogthumes <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> und der übrigen Landestheile von
+                            <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs> zu <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> mit
                         Hinweisung auf die bezüglichen historischen Dokumente und Urkunden zu
                         erörtern</hi>.<lb/>Durch diese Fragestellung ist der <hi rend="ul">Charakter
                         der wissenschaftlichen</hi> Behandlung des positiven Stoffes vorgezeichnet
-                    worden; nämlich die Erörterung des Verhältnisses <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mährens</region> zu <region ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</region>, die Aufstellung der Beweise
+                    worden; nämlich die Erörterung des Verhältnisses <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mährens</rs> zu <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs>, die Aufstellung der Beweise
                     vom <hi rend="ul">staatsrechtlichen</hi> Standpunkte aus.<lb/>Dieser Charakter
                     der Fragestellung konnte an sich nicht verkannt werden, wenn auch die
-                    Nebenfrage, <hi rend="ul">wann <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> eine von <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> verschiedene Vertretung erhielt</hi>,
+                    Nebenfrage, <hi rend="ul">wann <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> eine von <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> verschiedene Vertretung erhielt</hi>,
                     nicht gestellt worden wäre.<lb/>Hätte der Landesausschuß auf das <hi rend="ul">staatsrechtliche</hi> Verhältnis ein nicht so entscheidendes Gewicht
                     gelegt, so wäre die Erörterung der historischen Beziehungen allein angeordnet
                     worden.<lb/>Der zweyte Theil der an den Verfaßer ergangenen Aufforderung, um für
@@ -130,36 +129,36 @@
                         historisches Pamphlet</hi>, sondern ein <hi rend="ul">wohldurchdachtes
                         diplomatisches Aktenstück</hi> sein soll. Nach Darlegung dieser Auffassung
                     des Charakters und der Tragweite der vom Landesausschuß gestellten Aufgabe,
-                    erlaube ich mir die Hauptmomente der von <persName key="dudik-beda">Dr.
-                        Dudik</persName> erzählten Geschichte, dann den Gang und Charakter der
+                    erlaube ich mir die Hauptmomente der von <rs type="person" ref="dudik-beda" key="dudik-beda">Dr.
+                        Dudik</rs> erzählten Geschichte, dann den Gang und Charakter der
                     Beweise und Deductionen hervorzuheben:<lb/>Der Verfaßer theilt die
-                    geschichtliche Abhandlung in 6 Perioden.<lb/>I. <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> als
-                    eine politisch administrativ mit <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region>
-                    verbundene Provinz 1028–1318. <lb/>II. <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> unter den
-                    Premysliden 1318–1464. <lb/>III. Die Periode, wo <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> zu
-                        <region ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</region> gezogen wird 1464–1526. <lb/>IV.
-                        <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> unter den Habsburgern 1526–1613. <lb/>V.
-                        <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> wird dem <persName key="liechtenstein-karl-I">Fürsten Liechtenstein</persName> als Lehen ausgesetzt 1613–1620. <lb/>VI.
-                        <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> als ein förmliches Lehen des Hauses Liechtenstein
+                    geschichtliche Abhandlung in 6 Perioden.<lb/>I. <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> als
+                    eine politisch administrativ mit <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs>
+                    verbundene Provinz 1028–1318. <lb/>II. <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> unter den
+                    Premysliden 1318–1464. <lb/>III. Die Periode, wo <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> zu
+                        <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs> gezogen wird 1464–1526. <lb/>IV.
+                        <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> unter den Habsburgern 1526–1613. <lb/>V.
+                        <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> wird dem <rs type="person" ref="liechtenstein-karl-I" key="liechtenstein-karl-I">Fürsten Liechtenstein</rs> als Lehen ausgesetzt 1613–1620. <lb/>VI.
+                        <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> als ein förmliches Lehen des Hauses Liechtenstein
                     1620–1851.<lb/>Die urkundlichen Nachweisungen der I. Periode erheben die
-                    Thatsache über allen Zweifel, daß <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> mit <region key="jaegerndorf" ref="#place_eb98342f44d3c6fb447ad2a3264157f7">Jägerndorf</region> wenn nicht bis 1318, doch bis 1261, wo
-                        <persName key="ottokar-II">Ottokar</persName> dem unächten <persName key="nikolaus-I-troppau">Niklas</persName>
-                    <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> verlieh, ein in Castellaneyen eingetheilter Theil
-                        <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mährens</region> war, wie <placeName ref="#place_3b709749b4ae76bc40e7640940c0acfb">Znaim</placeName>
-                    [Znojmo], <placeName ref="#place_2e22f351b0d755318052375a694b8ea7">Lundenburg</placeName> [Břeclav],
-                        <placeName ref="#place_2b5adff45d779fdd7ee27fd72a4bbfb2">Iglau</placeName> [Jihlava] etc. Durch die Bande gemeinsamer
+                    Thatsache über allen Zweifel, daß <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> mit <rs type="place" subtype="region" key="jaegerndorf" ref="#place_eb98342f44d3c6fb447ad2a3264157f7">Jägerndorf</rs> wenn nicht bis 1318, doch bis 1261, wo
+                        <rs type="person" ref="ottokar-II" key="ottokar-II">Ottokar</rs> dem unächten <rs type="person" ref="nikolaus-I-troppau" key="nikolaus-I-troppau">Niklas</rs>
+                    <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> verlieh, ein in Castellaneyen eingetheilter Theil
+                        <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mährens</rs> war, wie <rs type="place" subtype="place" ref="#place_3b709749b4ae76bc40e7640940c0acfb">Znaim</rs>
+                    [Znojmo], <rs type="place" subtype="place" ref="#place_2e22f351b0d755318052375a694b8ea7">Lundenburg</rs> [Břeclav],
+                        <rs type="place" subtype="place" ref="#place_2b5adff45d779fdd7ee27fd72a4bbfb2">Iglau</rs> [Jihlava] etc. Durch die Bande gemeinsamer
                     Abstammung, Sprache, Sitte und Gewohnheiten, dann einer Vertretung und
-                    Verwaltung mit <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> verbunden.<lb/>Die
-                    Castellane des <region key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppauer</region> Distrikts besuchten die
-                    colloquia generalia <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mährens</region>, welche sowohl in
-                        <placeName key="bruenn" ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünn</placeName>, <placeName ref="#place_3b709749b4ae76bc40e7640940c0acfb">Znaim</placeName> als
-                    auch in <placeName ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</placeName> abgehalten werden. Kurz, dies Faktum ist
+                    Verwaltung mit <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> verbunden.<lb/>Die
+                    Castellane des <rs type="place" subtype="region" key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppauer</rs> Distrikts besuchten die
+                    colloquia generalia <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mährens</rs>, welche sowohl in
+                        <rs type="place" subtype="place" key="bruenn" ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünn</rs>, <rs type="place" subtype="place" ref="#place_3b709749b4ae76bc40e7640940c0acfb">Znaim</rs> als
+                    auch in <rs type="place" subtype="place" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> abgehalten werden. Kurz, dies Faktum ist
                     so klar, daß jeder fernere Beweis Eulen nach Athen tragen hieße.<lb/>Die
                     historische Aufgabe ist in dieser Periode gelöst.<lb/>Aber schon hier zeigte
                     sich eine nicht richtige Auffassung der vom Landesausschuß gegebenen Frage und
                     gewiße Begriffsverwechslungen, welche sich an vielen Punkten der Abhandlung
                     wiederholen. Der Landesausschuß hat vor allem die staatsrechtlichen Beziehungen
-                    zwischen <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> und <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region>
+                    zwischen <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> und <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs>
                     kennen wollen.<lb/>Diese Beziehungen entspringen aus den <hi rend="ul">Rechten
                         und Pflichten, welche für den Staatsherrscher und die Unterthanen
                         gegenseitig so wie auch für die Letzteren unter sich durch den Staatszustand
@@ -169,15 +168,15 @@
                     Unterthanen; ihrer gegenseitigen Rechte und Pflichten so wie sie in den
                     verschiedenen Perioden galten und wie sie sich entwickelt, vermehrt oder
                     verringert haben – kurz die Darstellung der Rechtsverhältnisse der vornehmsten
-                    Staatsfaktoren, um den Charakter der Rechtsbeziehungen <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mährens</region> zu <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> beurtheilen und die ferneren
+                    Staatsfaktoren, um den Charakter der Rechtsbeziehungen <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mährens</rs> zu <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> beurtheilen und die ferneren
                     nöthigen Folgerungen daraus ableiten zu können.<lb/>Der Verfaßer scheint jedoch
                     diesem Gesichtspunkte keine besondere Bedeutung beygelegt zu haben, weil er
                     seine Beweise fast ausschließlich aus dem Reiche vieldeutiger Thatsachen hohlt –
                     ein Verfahren, dessen Nachteile am Schluße gezeigt wird.<lb/>Dieses Verkennen
                     der Bedeutung des eigentlichen Schwerpunktes geht so weit, daß der Verfaßer nach
                     Seite 5 <hi rend="ul">über den Begriff des Staatsrechts selbst mit sich nicht in
-                        Reinen</hi> ist, er behauptet nämlich, daß zwischen <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> und <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> in der I. Periode von
-                    staatsrechtlichen Beziehungen keine Rede sein kann, weil <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> und <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> durchaus ein Land waren. Durch
+                        Reinen</hi> ist, er behauptet nämlich, daß zwischen <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> und <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> in der I. Periode von
+                    staatsrechtlichen Beziehungen keine Rede sein kann, weil <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> und <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> durchaus ein Land waren. Durch
                     diese Auffassung wird eine Art Verwechslung des <hi rend="ul">inneren
                         Staatsrechtes</hi> mit jenem im Mittelalter so wichtigen <hi rend="ul">Theile des öffentlichen Rechts</hi> kundgegeben, welcher auf den
                     Verhältnissen der mit besonderen Vertretungen bedachten unter verschiedenen
@@ -189,63 +188,63 @@
                     zwischen Troppau und Mähren.<lb/>Diese <hi rend="ul">Begriffsverwechslung</hi>
                     wirkt sehr störend <hi rend="ul">in einer Staatsschrift</hi>, deren akademische
                     Eigenschaften oben angegeben wurden.<lb/>Gleich in der II. Periode, welche mit
-                    Belehnung <persName key="nikolaus-II-troppau">Niklas II.</persName> 1328 durch
-                        <persName key="johann-von-luxemburg">Johann von Böhmen</persName> [Johann
+                    Belehnung <rs type="person" ref="nikolaus-II-troppau" key="nikolaus-II-troppau">Niklas II.</rs> 1328 durch
+                        <rs type="person" ref="johann-von-luxemburg" key="johann-von-luxemburg">Johann von Böhmen</rs> [Johann
                     von Luxemburg] beginnt, wäre es an der Zeit gewesen, vom rechtlichen
-                    Gesichtspunkte diesen die Trennung <region key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</region> von
-                        <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> begründenden Akt zu untersuchen und
+                    Gesichtspunkte diesen die Trennung <rs type="place" subtype="region" key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</rs> von
+                        <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> begründenden Akt zu untersuchen und
                     nachzuweisen, in wie weit der Landesfürst die Genehmigung der damals schon
                     constituirten Stände dazu bedurfte und in wie weit der Akt selbst – also die
                     Trennung – das Gepräge der Rechtmäßigkeit trage oder nicht.<lb/>Nachdem damals
                     der Landfürst selbst kleinere Güter nicht ohne „Consilium“ der Barone verleihen
                     konnte, so muß angenommen werden, daß diese Einwilligung um so mehr bey der
-                    Belehnung des <persName key="nikolaus-II-troppau">Niklas</persName> mit <region key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppau</region>, bey der Abtrennung<note xml:id="note_2">Anmerkung am unteren Blattrand: Eichorn, Deutsche Staats- und
+                    Belehnung des <rs type="person" ref="nikolaus-II-troppau" key="nikolaus-II-troppau">Niklas</rs> mit <rs type="place" subtype="region" key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppau</rs>, bey der Abtrennung<note xml:id="note_2">Anmerkung am unteren Blattrand: Eichorn, Deutsche Staats- und
                         Rechtsgeschichte III. Bd., p. 237 ff und Meklenburgsche Theilungen –
                         Tübinger Vertrag. Klüber Staatsrechtliteratur § 15 21 führt 6 Fälle an Posse
                         Häberlin und a. m.</note> eines <hi rend="ul">bedeutenden</hi> Gebiethes von
-                        <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> eingeholt wurde. <hi rend="ul">Von
-                        diesem Augenblicke an bleibt <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> von Rechtswegen eine
-                        selbstständige Landschaft, ein Kronlehen <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmens</region> (nach der Goldenen Bulle <persName key="karl-IV">Carls
-                            IV.</persName>
+                        <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> eingeholt wurde. <hi rend="ul">Von
+                        diesem Augenblicke an bleibt <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> von Rechtswegen eine
+                        selbstständige Landschaft, ein Kronlehen <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmens</rs> (nach der Goldenen Bulle <rs type="person" ref="karl-IV" key="karl-IV">Carls
+                            IV.</rs>
                     </hi> des Jahres 1348).<lb/>
-                    <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> war
-                    nach dieser Bulle mit <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> und <placeName key="olmuetz" ref="#place_c0ce3216e3cb050a80363757086a42f0">Ollmütz</placeName> im koordinirten Verhältnisse und mit
+                    <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> war
+                    nach dieser Bulle mit <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> und <rs type="place" subtype="place" key="olmuetz" ref="#place_c0ce3216e3cb050a80363757086a42f0">Ollmütz</rs> im koordinirten Verhältnisse und mit
                     diesem nur durch die Krone Böhmens in staatsrechtlicher Verbindung. <hi rend="ul">Auch dieses so wichtige Verhältnis historisch rechtlich zu
                         erörtern, wurde unterlassen</hi>, was um so mehr zu bedauern ist, als der
                     Verfaßer bey einer klaren Auffassung der vom Landesausschuß gestellten Frage,
                     niemals unter den Einfluß der vorgefaßten Meinung gerathen wäre, als ob
-                        <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> auch nach 1318 und 1338 ein Theil <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mährens</region> gewesen, als ob durch die nicht erfolgte
-                    Verschmälzung <region key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</region> mit <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> ein Unrecht begangen worden wäre. Dieses ursprünglich aus
+                        <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> auch nach 1318 und 1338 ein Theil <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mährens</rs> gewesen, als ob durch die nicht erfolgte
+                    Verschmälzung <rs type="place" subtype="region" key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</rs> mit <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> ein Unrecht begangen worden wäre. Dieses ursprünglich aus
                     der Wahrnehmung der Stammesgleichheit der Bewohner beyder Landschaften
-                    entstandene, durch eine viel zu geringe Würdigung jener Trennung <region key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</region> und seiner <hi rend="ul">neuen</hi>
-                    staatsrechtlichen Verhältnisse mit <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region>
+                    entstandene, durch eine viel zu geringe Würdigung jener Trennung <rs type="place" subtype="region" key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</rs> und seiner <hi rend="ul">neuen</hi>
+                    staatsrechtlichen Verhältnisse mit <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs>
                     verstärkte <hi rend="ul">Vorurtheil</hi>, hat den Verfaßer mit der Methode
                     vertraut gemacht, <hi rend="ul">irrige Schlußfolgerungen anzuführen,
                         Scheingründe geltend zu machen, welche nur befangene Blicke täuschen
                         können</hi>. Verschiedenheiten zu übersehen, die faktisch existirt haben und
                         <hi rend="ul">endlich auch Thatsachen als für seine Meinung redend
                         vorzubringen, welche sehr vieles, aber nicht das, was sich der Verfaßer zur
-                        Aufgabe stellte, beweisen</hi>. Er sollte das <hi rend="ul">staatsrechtliche</hi> Verhältnis zwischen <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> und <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region>
+                        Aufgabe stellte, beweisen</hi>. Er sollte das <hi rend="ul">staatsrechtliche</hi> Verhältnis zwischen <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> und <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs>
                     <hi rend="ul">objektiv</hi> aufhellen und hat von dieser Aufgabe sich entfernend
-                    immer nur beweisen wollen, daß <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> zu <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> gehöre und daß die Nichtincorporirung mit Mähren ein von
+                    immer nur beweisen wollen, daß <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> zu <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> gehöre und daß die Nichtincorporirung mit Mähren ein von
                     Jahrhundert zu Jahrhundert sich forterbendes Unrecht war. Weil ihm jedoch dies
                     nicht gelingen konnte, überträgt er die Deductionen auf den Streit zwischen
-                        <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> und <region ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</region> und erblickt wieder
-                    in jeder Bemühung der Schlesier <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> nach
-                        <placeName ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</placeName> zu ziehen, in jeden Versuch <region key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</region> Selbstständigkeit von kaiserlicher oder
-                    schlesischer Seite her anzugreifen, ein dem Lande <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> und den mährischen Ansprüchen zugefügtes Unrecht.<lb/>Aus
+                        <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> und <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs> und erblickt wieder
+                    in jeder Bemühung der Schlesier <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> nach
+                        <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs> zu ziehen, in jeden Versuch <rs type="place" subtype="region" key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</rs> Selbstständigkeit von kaiserlicher oder
+                    schlesischer Seite her anzugreifen, ein dem Lande <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> und den mährischen Ansprüchen zugefügtes Unrecht.<lb/>Aus
                     dieser Würdigung des Geistes und der Tendenzen der Schrift, läßt es sich
                     erklären, wie es kam, daß der Verfaßer selbst aus der Verschiedenheit des
                     Wortlautes zwischen dem Troppauer und den schlesischen Lehenbriefen – (im ersten
                     gibt der König <hi rend="ul">sein</hi> Oppaland; in den Letztern präsentiren die
                     Fürsten <hi rend="ul">ihre</hi> Herzogthümer zu Lehen) – Consequenzen für die
-                    Behauptung zog, <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> seye kein schlesisches Herzogthum,
-                    folglich nur ein Theil <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mährens</region> gewesen, daß er S.
+                    Behauptung zog, <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> seye kein schlesisches Herzogthum,
+                    folglich nur ein Theil <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mährens</rs> gewesen, daß er S.
                     55 und 93 die Vermuthung ausspricht, der Troppauer Adel habe den mährischen
                     Landtag besucht, und <hi rend="ul">diese Vermuthung nicht
-                    begründete</hi>.<lb/>Dagegen wird der so wichtige Umstand nicht erörtert, <hi rend="ul">welche staatsrechtlichen Folgen für <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region>
+                    begründete</hi>.<lb/>Dagegen wird der so wichtige Umstand nicht erörtert, <hi rend="ul">welche staatsrechtlichen Folgen für <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs>
                     </hi>
-                    die Anwesenheit der<hi rend="ul"> premyslidischen Herzoge am <placeName key="breslau" ref="#place_811c769d0dbe2ab018cd7ddee5e5c3de">Breslauer</placeName> Fürstentage</hi> nach sich
+                    die Anwesenheit der<hi rend="ul"> premyslidischen Herzoge am <rs type="place" subtype="place" key="breslau" ref="#place_811c769d0dbe2ab018cd7ddee5e5c3de">Breslauer</rs> Fürstentage</hi> nach sich
                     zog.<lb/>Freylich motivirt der Verfaßer diese Anwesenheit einfach durch die
                     gleichzeitige Herrschaft der Premysliden in <hi rend="ul">schlesischen</hi>
                     Landen, allein eine Darlegung der Wirksamkeit des Fürstentages, der Bedingungen
@@ -254,103 +253,103 @@
                     der Hälfte des 16. Jahrhunderts zwischen den Troppauer und den schlesischen
                     Ständen um die Incorporirung des Oppalandes entstand, gegeben.<lb/>
                     <hi rend="ul">Daß dieser Prozeß und die Ansprüche der Schlesier sich auf die unter den
-                        Premysliden</hi> zwischen <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> und
-                        <region ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</region> angeknüpften politisch-administrativen Verbindungen
+                        Premysliden</hi> zwischen <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> und
+                        <rs type="place" subtype="region" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs> angeknüpften politisch-administrativen Verbindungen
                     gründeten, unterliegt keinen Zweifel.<lb/>Prägnanter, schärfer und klarer wäre
                     diese Art von Beweisführung gewesen, als jene, welche der Verfaßer zur
                     Motivirung, daß Troppau zu Mähren gehört, S. 63 anwendet; um dies zu begründen
-                    beruft er sich auf das Versprechen <persName key="podebrad-georg-von">G[eorg]
-                        Podiebrads</persName>, die Troppauer nach den in <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</region> und <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> geltenden
+                    beruft er sich auf das Versprechen <rs type="person" ref="podebrad-georg-von" key="podebrad-georg-von">G[eorg]
+                        Podiebrads</rs>, die Troppauer nach den in <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> und <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> geltenden
                     Gesetzen zu behandeln, und auf den Umstand, daß die Troppauer sich überhaupt an
                     mährisches Recht hielten.<lb/>Die Reception fremder Rechte lag in den
                     Rechtsgewohnheiten jener Zeit; und man würde, wenn aus der Thatsache der Annahme
-                    mährischer Rechte die politische Abhängigkeit <region key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</region> von der Rechtsheimath gefolgert wird, einen eben so
+                    mährischer Rechte die politische Abhängigkeit <rs type="place" subtype="region" key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</rs> von der Rechtsheimath gefolgert wird, einen eben so
                     falschen Schluß ziehen, als wenn man aus der Reception des Magdeburger Rechts in
-                        <placeName key="olmuetz" ref="#place_c0ce3216e3cb050a80363757086a42f0">Ollmütz</placeName> und
-                        <placeName ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</placeName> die Abhängigkeit dieser beyden Städte von
-                        <placeName ref="#place_59aceadf846f772736c4b40eee7b155d">Magdeburg</placeName> beweisen wollte. Ich bin nicht verlegen um
-                    ähnliche Receptionsbeyspiele in unserem Vaterlande. Die <placeName key="iglau" ref="#place_93cffc62da3b7617cfac9cbbc51a6b05">Iglauer</placeName> Bergrechte galten fast in ganz
-                        <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country>, die <placeName key="bruenn" ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünner</placeName> Stadtrechte in <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, die
-                        <placeName key="falkenstein" ref="#place_1a91df0eb10ba47e6740b46c99432afe">Falkensteiner</placeName> Decisiones in <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region>, und es wird doch niemand behaupten wollen,
-                    daß <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country> von <placeName ref="#place_2b5adff45d779fdd7ee27fd72a4bbfb2">Iglau</placeName>,
-                        <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName> von <placeName key="bruenn" ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünn</placeName>
-                    und <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> von <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Ostreich</country>
+                        <rs type="place" subtype="place" key="olmuetz" ref="#place_c0ce3216e3cb050a80363757086a42f0">Ollmütz</rs> und
+                        <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs> die Abhängigkeit dieser beyden Städte von
+                        <rs type="place" subtype="place" ref="#place_59aceadf846f772736c4b40eee7b155d">Magdeburg</rs> beweisen wollte. Ich bin nicht verlegen um
+                    ähnliche Receptionsbeyspiele in unserem Vaterlande. Die <rs type="place" subtype="place" key="iglau" ref="#place_93cffc62da3b7617cfac9cbbc51a6b05">Iglauer</rs> Bergrechte galten fast in ganz
+                        <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs>, die <rs type="place" subtype="place" key="bruenn" ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünner</rs> Stadtrechte in <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, die
+                        <rs type="place" subtype="place" key="falkenstein" ref="#place_1a91df0eb10ba47e6740b46c99432afe">Falkensteiner</rs> Decisiones in <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs>, und es wird doch niemand behaupten wollen,
+                    daß <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> von <rs type="place" subtype="place" ref="#place_2b5adff45d779fdd7ee27fd72a4bbfb2">Iglau</rs>,
+                        <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> von <rs type="place" subtype="place" key="bruenn" ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünn</rs>
+                    und <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> von <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Ostreich</rs>
                     <hi rend="ul">deshalb</hi> abhängig waren.<lb/>Diese irrige Behauptung
                     wiederholt sich S. 111, 115 und 237.<lb/>Die staatsrechtlichen Verbindungen,
-                    welche <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> durch die Anwesenheit seiner Herzoge S. 59, 60
-                    in <placeName ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</placeName> mit <region ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</region> einging,
-                    wirkten nach dem Absterben der Pemysliden in <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> 1464 so
-                    mächtig, daß S. 73 die Verfügungen <persName key="mathias-I">Mathias</persName>
-                    in Bezug auf das Steuerwesen <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> als ein schlesisches
-                    Fürtstenthum behandelte und <persName key="ludwig-II">Ludwig</persName> in einem
+                    welche <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> durch die Anwesenheit seiner Herzoge S. 59, 60
+                    in <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs> mit <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs> einging,
+                    wirkten nach dem Absterben der Pemysliden in <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> 1464 so
+                    mächtig, daß S. 73 die Verfügungen <rs type="person" ref="mathias-I" key="mathias-I">Mathias</rs>
+                    in Bezug auf das Steuerwesen <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> als ein schlesisches
+                    Fürtstenthum behandelte und <rs type="person" ref="ludwig-II" key="ludwig-II">Ludwig</rs> in einem
                     1523 an die schlesischen Stände gerichteten Briefe die <hi rend="ul">angeblich
-                        von <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> versuchte Vereinigung mit <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region>
+                        von <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> versuchte Vereinigung mit <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs>
                     </hi> (sic), <hi rend="ul">die Trennung der Troppauer ab
                         antiquissima comeritate silesiaea</hi>, eine <hi rend="ul">innovatio</hi> et
                         <hi rend="ul">motatio</hi>[sic!] nennt, die er nie zugeben würde.<lb/>Von
                     dieser Epoche beginnen die Kämpfe zwischen den Oppaständen und den
-                    Landesfürsten, welche <region key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</region> administrative und
+                    Landesfürsten, welche <rs type="place" subtype="region" key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</rs> administrative und
                     Vertretungsselbstständigkeit dadurch bedrohen, daß sie das Herzogthum den
                     schlesischen Behörden und dem Fürstentage unterwerfen, während die Troppauer, um
                     den hochbesteuerten Fürstenverband zu entgehen, ihre Selbstständigkeit behaupten
-                    und daher den König <persName key="vladislav-II">Vladislaw</persName> dazu
+                    und daher den König <rs type="person" ref="vladislav-II" key="vladislav-II">Vladislaw</rs> dazu
                     vermochten, S. 80, 87 ihre Selbstständigkeit und die <hi rend="ul">Unveräußerlichkeit</hi> (<hi rend="ul">daß diese sowohl gegen Schlesien als
-                        auch gegen <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> galt, versteht sich von
+                        auch gegen <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> galt, versteht sich von
                         selbst</hi>) des Fürstenthums wiederholt zu verbriefen.<lb/>Diese
                     Selbstständigkeit wird vom Landesfürsten soweit anerkannt, daß
-                        <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> im Jahre 1513 nach dem Tode <persName key="kasimir-II-von-teschen">Casimirs von Teschen</persName> einen
+                        <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> im Jahre 1513 nach dem Tode <rs type="person" ref="kasimir-II-von-teschen" key="kasimir-II-von-teschen">Casimirs von Teschen</rs> einen
                     Statthalter erhält und S. 100 der böhmische König sich im Geiste der aurea bulla
                         <hi rend="ul">Herr von Troppau</hi> nennt.<lb/>Wenn daher, wie in der
-                    Schrift behauptet wird, die politisch administrative Verbindung <region key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</region> mit <region ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</region> ein gegen das
+                    Schrift behauptet wird, die politisch administrative Verbindung <rs type="place" subtype="region" key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</rs> mit <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs> ein gegen das
                     bestehende Staatsrecht gerichteter Machtspruch gewesen wäre, weil die Stände
                     dagegen protestirten, so ist es anderseits nicht minder wahr, daß kein Vertrag,
                     kein rechtgültiger Landtagsbeschluß die S. 99 ausgesprochene Behauptung
                     rechtfertigt, daß nach dem Tode des letzten Troppauer Kronvasallen,
-                        <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> hätte mit <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region>
-                    vereinigt werden müssen.<lb/>Daraus kann nur die Selbstständigkeit <region key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</region> gefolgert werden, wie denn auch das
+                        <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> hätte mit <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs>
+                    vereinigt werden müssen.<lb/>Daraus kann nur die Selbstständigkeit <rs type="place" subtype="region" key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</rs> gefolgert werden, wie denn auch das
                     Fürstenthum eine besondere Landtafel, besondere Ständeversammlungen und
-                    Statthalter für sich hatte und die Troppauer Stände auch ihr Landtafelrecht <hi rend="ul">gegen <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region>
+                    Statthalter für sich hatte und die Troppauer Stände auch ihr Landtafelrecht <hi rend="ul">gegen <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs>
                     </hi>, die Mährer gegen
-                        <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> vertheidigt haben, pag. 115. Obwohl der Verfaßer
+                        <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> vertheidigt haben, pag. 115. Obwohl der Verfaßer
                     die Leichtigkeit der Güterübertragung von einer Landtafel zur andern, daher auch
                     die Änderung der Landesgränze rühmt, so haben doch die Troppauer und Mährer
                     sowohl wegen der Güterübertragungen als auch wegen der Gränzen gestritten. Die
                     Troppauer vertheidigten somit ihre selbstständige Territorialgerichtsbarkeit,
                     und dieser Umstand wird sonderbarer Weise vom Verfaßer als Beleg für die
-                    Verbindung <region key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</region> mit <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> angeführt. Da das Oppaland nach der Goldenen Bulle ein
-                    böhmisches Kronlehen war, so fiel es nach dem Tode des Vasallen an <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</region> zurück, weshalb sich der König, wie früher
+                    Verbindung <rs type="place" subtype="region" key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</rs> mit <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> angeführt. Da das Oppaland nach der Goldenen Bulle ein
+                    böhmisches Kronlehen war, so fiel es nach dem Tode des Vasallen an <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> zurück, weshalb sich der König, wie früher
                     bemerkt wurde, auch <hi rend="ul">Herr</hi> von Troppau nennt.<lb/>Hätte das
                     Aussterben der Vasallitischen Familie, wie der Verfaßer behauptet, die
-                    Consolidation und zugleich Einverleibung von <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> und <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> ipso facto veranlaßt, so müßte
+                    Consolidation und zugleich Einverleibung von <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> und <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> ipso facto veranlaßt, so müßte
                     der König in einem solchen Falle die bezüglichen Titel als Markgraf von Mähren
                     und Herr von Troppau ablegen; wir sehen aber, daß der König von Böhmen sich auch
                     nach jenem Aussterben <hi rend="ul">Herr von Troppau</hi> nennt, wie er <hi rend="ul">Markgraf von Mähren</hi> betitelt wird, also bewährt
-                        <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> stets denselben durch die Goldene Bulle erhaltenen
-                    Charakter wie <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region>, d. h. jenen eines
-                    selbstständigen nur von <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</region> abhängigen
+                        <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> stets denselben durch die Goldene Bulle erhaltenen
+                    Charakter wie <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs>, d. h. jenen eines
+                    selbstständigen nur von <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> abhängigen
                     Kronlehens, bey welchem die <hi rend="ul">Consolidation nicht die politische
                         Einverleibung</hi> nothwendig zur Folge hatte. Wenn auch damit die
                     Verhältnisse Anfangs des 16. Jahrhunderts auf die Rechtsbasis der Goldenen Bulle
-                    zurückgeführt werden und <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> als kein schlesisches
+                    zurückgeführt werden und <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> als kein schlesisches
                     Herzogthum angesehen wird, so ist es andrerseits nicht zu bezweifeln, daß
-                        <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> als ein mit <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region>
+                        <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> als ein mit <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs>
                     koordinirtes Kronlehen – <hi rend="ul">
                         <hi rend="ul">als eine selbstständige
                             Landschaft galt</hi>
                     </hi>.<lb/>Wo ist denn das behauptete Unrecht, wo
                     die beklagte Verletzung der Hausgesetze, wo haben die Troppauer Stände
                     protestirt? Welche staatsrechtlichen Momente kann der Verfaßer für seine
-                    Behauptung anführen? Haben <persName key="ottokar-II">Ottokar</persName>, haben
-                        <persName key="johann-von-luxemburg">Johann</persName> oder spätere
+                    Behauptung anführen? Haben <rs type="person" ref="ottokar-II" key="ottokar-II">Ottokar</rs>, haben
+                        <rs type="person" ref="johann-von-luxemburg" key="johann-von-luxemburg">Johann</rs> oder spätere
                     Monarchen oder irgend welch rechtsförmlicher Vertrag die die Reincorporirung
-                        <region key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</region> mit <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> ausgesprochen?<lb/>So wie die obangeführten Reception eines
+                        <rs type="place" subtype="region" key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</rs> mit <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> ausgesprochen?<lb/>So wie die obangeführten Reception eines
                     Rechtsbuchs oder von Rechtsgewohnheiten aus fremden Landen eine politische
                     Abhängigkeit nicht zur Folge hatte, eben so läßt sich aus dem Umstande, daß die
                     Troppauer mit den schlesischen Ständen einen Landfrieden schlossen, weder eine
                     Unabhängigkeit p. 63, noch die Abhängigkeit der Paciscenten daraus ableiten.
                     Wenn zum Beweise der Unabhängigkeit der Paciscenten der zwischen den Souverainen
-                    in keinem Verbande stehenden Fürsten von <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region>
-                    und <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> geschlossene Landfriede
+                    in keinem Verbande stehenden Fürsten von <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs>
+                    und <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> geschlossene Landfriede
                     durch den Verfaßer citirt wird, so könnte andererseits das Schließen eines
                     Landfriedens der mährischen Stände, welche sicher in einem innigen
                     staatsrechtlichen Verbande miteinander standen, als Beweis für ein ähnliches,
@@ -359,109 +358,109 @@
                     war die Aufstellung eines Normativs zwischen den Vertragsschließenden Partheyen
                     und konnte sowohl in staatsrechtlichen wie in völkerrechtlichen Beziehungen
                     Anwendung finden. Eben so wenig kann ich als Beweis eines politisch
-                    administrativen Verbandes zwischen <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> und <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> den Apellationszug von
-                        <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> nach <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region>
+                    administrativen Verbandes zwischen <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> und <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> den Apellationszug von
+                        <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> nach <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs>
                     anerkennen.<lb/>Die <orgName key="universitaet-leipzig">Universität
-                        Leipzig</orgName> und andere, das <placeName key="dohna" ref="#place_bc45b8fa55627c5f9d03b5eccf9570da">Dohnasche</placeName> Schöffengericht und <placeName key="bruenn" ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünn</placeName> selbst waren Appelgerichte für Orte, welche nicht mit in
+                        Leipzig</orgName> und andere, das <rs type="place" subtype="place" key="dohna" ref="#place_bc45b8fa55627c5f9d03b5eccf9570da">Dohnasche</rs> Schöffengericht und <rs type="place" subtype="place" key="bruenn" ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünn</rs> selbst waren Appelgerichte für Orte, welche nicht mit in
                     den Staatsverband jenes Gerichtsortes standen. Die Rechtsgewohnheit der
                     damaligen Zeit gestattete dies, ohne ein weiteres politisches Verhältnis
                     zwischen den Appeleanten und derjenigen Landschaft deshalb herzustellen, in
                     welcher sich der Sitz des Appellationsgerichtes befand.<lb/>In der IV. Periode,
-                    in welcher <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> unter Habsburgs Scepter durch jene
-                    geistvolle und tugendhafte <persName key="anna-jagiello-von-boehmen-und-ungarn">Anna</persName> kam, haben die premyslidischen Präjudikate (Bogen 3) so
-                    mächtig gewirkt, daß <persName key="ferdinand-I">Ferdinand</persName>
-                    <region ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</region> zum Defensionswerke in 4 Kreise theilt,
-                        <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> dem südlichen Kreise einverleibt, die Steuer und
-                    das Contigent des Oppalandes nach <placeName ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</placeName> weist.<lb/>Wenn
+                    in welcher <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> unter Habsburgs Scepter durch jene
+                    geistvolle und tugendhafte <rs type="person" ref="anna-jagiello-von-boehmen-und-ungarn" key="anna-jagiello-von-boehmen-und-ungarn">Anna</rs> kam, haben die premyslidischen Präjudikate (Bogen 3) so
+                    mächtig gewirkt, daß <rs type="person" ref="ferdinand-I" key="ferdinand-I">Ferdinand</rs>
+                    <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs> zum Defensionswerke in 4 Kreise theilt,
+                        <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> dem südlichen Kreise einverleibt, die Steuer und
+                    das Contigent des Oppalandes nach <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs> weist.<lb/>Wenn
                     der Verfaßer diesem Faktum den Umstand S. 111 entgegenhält, daß
-                        <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> seine besondern Landrechte und Landtage hatte, mit
-                    hin mit <region ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</region> in keinen Verbande stand, so muß wiederholt
+                        <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> seine besondern Landrechte und Landtage hatte, mit
+                    hin mit <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs> in keinen Verbande stand, so muß wiederholt
                     werden, daß damit immerhin die autonome Verfaßung Troppaus behauptet, nie aber
                     die <hi rend="ul">Folgerung gemacht werden könne: also hat
-                            <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region>, weil es mit <region ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</region> nicht
-                        verbunden werden konnte, zu <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region>
+                            <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs>, weil es mit <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs> nicht
+                        verbunden werden konnte, zu <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs>
                         gehört</hi>.<lb/>Auf diese Art müssen die ähnlichen Beweisführungen S. 127
-                    und 137 gewürdiget werden. Daß <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> damals mit
-                        <region ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</region> und <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region>
+                    und 137 gewürdiget werden. Daß <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> damals mit
+                        <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs> und <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs>
                     coordinirt, wie der Verfaßer selbst bemerkt, auf den Generallandtag zu
-                        <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, wo alle Kronländer vertreten waren, auftrat,
+                        <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, wo alle Kronländer vertreten waren, auftrat,
                     ist nur ein Beleg mehr für meine Ansicht, so wie diese Beschickung des
-                    Generallandtages p. 116 und 118 der Autonomie <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mährens</region>, <region key="schlesien" ref="#place_555f6fe9ebdd56123400b9e628944934">Schlesiens</region> und <region key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</region> nicht präjudicirlich seyn konnte, eben so
+                    Generallandtages p. 116 und 118 der Autonomie <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mährens</rs>, <rs type="place" subtype="region" key="schlesien" ref="#place_555f6fe9ebdd56123400b9e628944934">Schlesiens</rs> und <rs type="place" subtype="region" key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</rs> nicht präjudicirlich seyn konnte, eben so
                     war die bloße Anwesenheit der Troppauer Stände bey den Brünner Zusammenkünften
-                    kein Beweis für die politisch administrative Verbindung <region key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</region> mit <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region>.<lb/>Ungeachtet
-                    der autonomen Stellung <region key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</region> und dessen
+                    kein Beweis für die politisch administrative Verbindung <rs type="place" subtype="region" key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</rs> mit <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs>.<lb/>Ungeachtet
+                    der autonomen Stellung <rs type="place" subtype="region" key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</rs> und dessen
                     Eigenschaft als böhmisches und den böhmischen Centralbehörden unterstehendes
-                    Kronlehen geht nach p. 116 der Troppauer Landeshauptmann zum <placeName key="breslau" ref="#place_811c769d0dbe2ab018cd7ddee5e5c3de">Breslauer</placeName> Fürstentage.<lb/>Obwohl der Verfaßer
+                    Kronlehen geht nach p. 116 der Troppauer Landeshauptmann zum <rs type="place" subtype="place" key="breslau" ref="#place_811c769d0dbe2ab018cd7ddee5e5c3de">Breslauer</rs> Fürstentage.<lb/>Obwohl der Verfaßer
                     diese faktische Annexation tadelt und ihr keine Geltung gibt, weil der
                     Landeshauptmann als kaiserlicher Beamter, ohne sich um die Berechtigung seiner
                     Schritte zu kümmern, gehorchen muß, so ließ er doch das staatsrechtlich so
                     wichtige (übrigens die eigentliche Frage nicht berührende) Moment unerörtert, ob
                     mit Rücksicht auf das damals geltende Staatsrecht die diesfälligen, an den
                     Landeshauptmann erlassenen Anordnungen den legitimen Charakter bewähren und ob,
-                    falls dies bejaht wird, Consequenzen für <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> auf der
-                    Verbindung mit <region ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</region> und welche gezogen werden können? Dann
+                    falls dies bejaht wird, Consequenzen für <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> auf der
+                    Verbindung mit <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs> und welche gezogen werden können? Dann
                     die nicht minder interessante und wichtige Frage: In welchen Verhältnissen
                     standen die schlesischen Landschaften zum Fürstentage und dieser zum
                     Generallandtage, in wie weit waren die Beschlüsse des Fürstentages für die
                     Landschaften bindend? usw.<lb/>Nach S. 122 scheint
-                        <placeName ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</placeName> ein Zwischencentralpunkt für die schlesischen
+                        <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs> ein Zwischencentralpunkt für die schlesischen
                     Fürstenthümer gewesen zu seyn, dort werden Steuern gezahlt, dort Truppen
                     gestellt und die Cameralgefälle abgeführt. Das Oberrecht und die k. Kanzley
-                    residiren in <placeName ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</placeName> und ertheilen schon den Troppauern
-                    Befehle.<lb/>Die Bande, welche <region ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</region> in der 2. Hälfte des
-                    16. Jahrhunderts um <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> schlingt, werden immer fester und
+                    residiren in <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs> und ertheilen schon den Troppauern
+                    Befehle.<lb/>Die Bande, welche <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs> in der 2. Hälfte des
+                    16. Jahrhunderts um <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> schlingt, werden immer fester und
                     legen hiemit den Grund zu einem Prozesse der oberen Stände (die Städte waren
-                    deutsch und neigten sich immer dem mehr germanisirten <region ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</region>
-                    zu) gegen <region ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</region>, welcher ohne entschieden zu werden,
+                    deutsch und neigten sich immer dem mehr germanisirten <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs>
+                    zu) gegen <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs>, welcher ohne entschieden zu werden,
                     Jahrhunderte dauerte, die faktische und seit 1622 auf die zweifellos rechtliche
-                    Incorporirung <region key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</region> und des an die Familie
-                        <persName key="schellenberg-johann">Schellenberg</persName> übergangenen
-                    Fürstenthums <placeName key="jaegerndorf" ref="#place_eb98342f44d3c6fb447ad2a3264157f7">Jägerndorf</placeName> mit
-                        <region ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</region> bewirkte. Die Geschichte dieses Prozesses umfaßt
+                    Incorporirung <rs type="place" subtype="region" key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</rs> und des an die Familie
+                        <rs type="person" ref="schellenberg-johann" key="schellenberg-johann">Schellenberg</rs> übergangenen
+                    Fürstenthums <rs type="place" subtype="place" key="jaegerndorf" ref="#place_eb98342f44d3c6fb447ad2a3264157f7">Jägerndorf</rs> mit
+                        <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs> bewirkte. Die Geschichte dieses Prozesses umfaßt
                     die drey letzten Perioden des Werkes und wird zu einer Bedeutung erhoben,
-                    welcher leider zur Förderung einer eventuellen Incorporirung <region key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</region> nichts beyträgt, denn alle Argumente, welche
+                    welcher leider zur Förderung einer eventuellen Incorporirung <rs type="place" subtype="region" key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</rs> nichts beyträgt, denn alle Argumente, welche
                     der Verfaßer für die Troppauer Sache anhäuft, können weder die faktische
                     Verbindung mit Schlesien und die von den Kaisern auf Grund dieser getroffenen
                     Verfügungen wegläugnen, noch die Frage über eine existirende faktische oder
-                    rechtliche Verbindung <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mährens</region> mit
-                        <region ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</region> auch nur um einen Schritt der Lösung näher
+                    rechtliche Verbindung <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mährens</rs> mit
+                        <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs> auch nur um einen Schritt der Lösung näher
                     rücken.<lb/>Es wird gezeigt, daß die Mährer die Troppauer moralisch und
                     materiell dabey unterstützten. Dagegen sprechen viele gewichtige Umstände für
-                    den Bestand einer faktischen Verbindung zwischen <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> und
-                        <region ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</region>. So z. B. huldigen die Troppauer 1563 dem Kaiser
-                        <persName key="maximilian-II">Max</persName> in
-                        <placeName ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</placeName>, und als der Prozeß begonnen, trifft der
-                    Kaiser das Provisorium, daß <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> in der Verbindung mit
-                        <placeName ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</placeName> verbleibe 1567.<note xml:id="note_3">Anmerkung am unteren Blattrand: Ein ähnliches Provisorium womit die
-                        faktischen Zustände geschätzt werden, verfügt 1612 <persName key="mathias-I">Mathias</persName>, als er zur Herrschaft kam; <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region>
-                        soll die Steuern nach <placeName ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</placeName>
+                    den Bestand einer faktischen Verbindung zwischen <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> und
+                        <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs>. So z. B. huldigen die Troppauer 1563 dem Kaiser
+                        <rs type="person" ref="maximilian-II" key="maximilian-II">Max</rs> in
+                        <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs>, und als der Prozeß begonnen, trifft der
+                    Kaiser das Provisorium, daß <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> in der Verbindung mit
+                        <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs> verbleibe 1567.<note xml:id="note_3">Anmerkung am unteren Blattrand: Ein ähnliches Provisorium womit die
+                        faktischen Zustände geschätzt werden, verfügt 1612 <rs type="person" ref="mathias-I" key="mathias-I">Mathias</rs>, als er zur Herrschaft kam; <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs>
+                        soll die Steuern nach <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs>
                     abführen.</note>
                     <lb/>Wenn auch die Troppauer dieser Anordnung sich nicht fügen
-                    und dem Kaiser <persName key="rudolf-II">Rudolf</persName> die Huldigung in
-                        <placeName ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</placeName> verweigern, so motiviren sie ihre Bitte, <hi rend="ul">der Kaiser möge sich in <placeName ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</placeName> huldigen
+                    und dem Kaiser <rs type="person" ref="rudolf-II" key="rudolf-II">Rudolf</rs> die Huldigung in
+                        <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs> verweigern, so motiviren sie ihre Bitte, <hi rend="ul">der Kaiser möge sich in <rs type="place" subtype="place" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> huldigen
                         lassen</hi>, damit, daß sie nicht <hi rend="ul">außerhalb der Landesgränzen
-                        huldigen</hi> wollen. Wäre es ihnen um die Verbindung mit <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> Ernst gewesen, so hätten sie gebethen, in
-                        <placeName key="bruenn" ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünn</placeName> oder <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>
+                        huldigen</hi> wollen. Wäre es ihnen um die Verbindung mit <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> Ernst gewesen, so hätten sie gebethen, in
+                        <rs type="place" subtype="place" key="bruenn" ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünn</rs> oder <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>
                     huldigen zu dürfen, und dadurch die beste Gelegenheit gehabt, durch einen nach
                     dem damaligen Staatsrechte die Territorialautonomie charakterisirenden Akt ihre
-                    Annexationslust mit <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> und ihre Neigung zum
-                    politischen Selbstmord glänzend an Tag zu legen. Und als <persName key="rudolf-II">Rudolf</persName> 1577 sich huldigen läßt, so thut er es als
+                    Annexationslust mit <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> und ihre Neigung zum
+                    politischen Selbstmord glänzend an Tag zu legen. Und als <rs type="person" ref="rudolf-II" key="rudolf-II">Rudolf</rs> 1577 sich huldigen läßt, so thut er es als
                         <hi rend="ul">König</hi> von <hi rend="ul">Böhmen</hi>, nicht als Markgraf
-                    von Mähren. Eben so <persName key="mathias-I">Mathias</persName>, als ihm 1611
-                    in <placeName ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</placeName> gehuldigt wurde.<lb/>Mit dem Jahre 1613 tritt
+                    von Mähren. Eben so <rs type="person" ref="mathias-I" key="mathias-I">Mathias</rs>, als ihm 1611
+                    in <rs type="place" subtype="place" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> gehuldigt wurde.<lb/>Mit dem Jahre 1613 tritt
                     der Prozeß in ein neues Stadium, ohne deshalb einen für die angeblichen Rechte
                     Mährens günstigeren Charakter zu gewinnen, im Gegentheile, es wird jetzt die
                     Selbstständigkeit Troppaus und seine Verbindung mit Schlesien eine fast
                     unausweichliche Nothwendigkeit.<lb/>Die von keiner Seite angefochtene
-                    Consolidation des Lehens <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> mit der böhmischen Krone hört
-                    in diesem Jahre auf. <persName key="mathias-I">Mathias</persName> belohnt den
-                        <persName key="liechtenstein-karl-I">Fürsten Liechtenstein</persName> über
-                    Vorschlag des schlesischen Vizekanzlers <persName key="schoenaich-georg">Schöneaichs</persName> [Schönaich] mit <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> (<placeName key="jaegerndorf" ref="#place_eb98342f44d3c6fb447ad2a3264157f7">Jägerndorf</placeName> war an den <persName key="johann-georg-von-brandenburg">Markgrafen von Brandenburg</persName>
+                    Consolidation des Lehens <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> mit der böhmischen Krone hört
+                    in diesem Jahre auf. <rs type="person" ref="mathias-I" key="mathias-I">Mathias</rs> belohnt den
+                        <rs type="person" ref="liechtenstein-karl-I" key="liechtenstein-karl-I">Fürsten Liechtenstein</rs> über
+                    Vorschlag des schlesischen Vizekanzlers <rs type="person" ref="schoenaich-georg" key="schoenaich-georg">Schöneaichs</rs> [Schönaich] mit <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> (<rs type="place" subtype="place" key="jaegerndorf" ref="#place_eb98342f44d3c6fb447ad2a3264157f7">Jägerndorf</rs> war an den <rs type="person" ref="johann-georg-von-brandenburg" key="johann-georg-von-brandenburg">Markgrafen von Brandenburg</rs>
                     übergegangen, den nachmaligen obern- und niederschlesischen Condottiere der
                     protestantischen Rebellen).<lb/>Ohne die Hausgesetze der Regentenfamilie bekannt
-                    zu machen, findet der Verfaßer, daß <persName key="mathias-I">Mathias</persName>
-                    zu dieser Belehnung nicht berechtigt war, weil nach den Privilegien <persName key="vladislav-II">Wladislaws</persName>, welche wiederholt confirmirt
-                    wurden, die Könige <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmens</region> die Nichtalienirung
+                    zu machen, findet der Verfaßer, daß <rs type="person" ref="mathias-I" key="mathias-I">Mathias</rs>
+                    zu dieser Belehnung nicht berechtigt war, weil nach den Privilegien <rs type="person" ref="vladislav-II" key="vladislav-II">Wladislaws</rs>, welche wiederholt confirmirt
+                    wurden, die Könige <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmens</rs> die Nichtalienirung
                     des Herzogthums den Troppauern sicherten.<lb/>Es hätte, um diese Behauptung zu
                     rechtfertigen, mit Hinweisung auf das Staatsrecht der damaligen Zeit der für die
                     Streitfrage <hi rend="ul">entscheidende Begriff der Nichtalienirung erörtert und
@@ -469,28 +468,28 @@
                     Belehnung, die Separirung des Ober- vom Nutzungseigenthume oder das Abtreten des
                     Lehens an einen fremden, mit der Krone in keiner Verbindung stehenden Herrscher
                     zu verstehen?<lb/>In so lange diese Frage nicht beantwortet wird, muß das
-                    Urtheil über die Rechtmäßigkeit der Belehnung <persName key="liechtenstein-karl-I">Liechtensteins</persName> suspendirt werden, und
+                    Urtheil über die Rechtmäßigkeit der Belehnung <rs type="person" ref="liechtenstein-karl-I" key="liechtenstein-karl-I">Liechtensteins</rs> suspendirt werden, und
                     es hätte sich der Verfaßer von so schweren Anklagen gegen den Kaiser um so mehr
                     enthalten sollen, als S. 178 angegeben wird, daß die <hi rend="ul">schlesischen,
                         Troppauer und mährischen Stände</hi> bey der Entscheidung des Proceßes auf
                     den <hi rend="ul">Kaiser kompromitirt haben</hi> und <hi rend="ul">ihm daher das
-                        Endurtheil</hi> überließen.<lb/>Kraft dieses Compromißes belehnte <persName key="mathias-I">Mathias</persName> den <persName key="liechtenstein-karl-I">Liechtenstein</persName> oder mit einem Worte: der Kaiser erhob ihn zu
-                    einem schlesischen Fürsten und wollte dadurch die Verbindung <region key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</region> mit <region ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</region>
+                        Endurtheil</hi> überließen.<lb/>Kraft dieses Compromißes belehnte <rs type="person" ref="mathias-I" key="mathias-I">Mathias</rs> den <rs type="person" ref="liechtenstein-karl-I" key="liechtenstein-karl-I">Liechtenstein</rs> oder mit einem Worte: der Kaiser erhob ihn zu
+                    einem schlesischen Fürsten und wollte dadurch die Verbindung <rs type="place" subtype="region" key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</rs> mit <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs>
                     andeuten.<lb/>Wenn auch die Frage bezüglich der Alienirung klar beantwortet, des
                     Kaisers unrechtmäßige Gebiethstrennung <note xml:id="note_4">Anmerkung am
-                        unteren Blattrand: Nach pag. 205 hat sich <persName key="mathias-I">Mathias</persName> zur Entscheidung des Schrittes allein competent
+                        unteren Blattrand: Nach pag. 205 hat sich <rs type="person" ref="mathias-I" key="mathias-I">Mathias</rs> zur Entscheidung des Schrittes allein competent
                         erklärt.</note> bewiesen, das Compromiß (wie es auch faktisch nach S. 180
                     und 182 geschah) durch die Stände nicht anerkannt worden wäre – frage ich: Hat
                     der Verfaßer außer den gemeinschaftlichen Prozeßinstruirungen der Mährer und
-                    Troppauer, auch nur den schwächsten politisch administrativen Nexus <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mährens</region> mit <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region>
+                    Troppauer, auch nur den schwächsten politisch administrativen Nexus <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mährens</rs> mit <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs>
                     nachgewiesen?<lb/>Er that es nicht und konnte es um so weniger thun, als selbst
-                    die mährischen Abgeordneten zur <placeName key="prag" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prager</placeName>
+                    die mährischen Abgeordneten zur <rs type="place" subtype="place" key="prag" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prager</rs>
                     Tagsatzung (in Sachen des Troppauer Prozeßes) des Mai 1616
-                        <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> als böhmisches Krohnlehen<hi rend="ul">
-                        anerkennen</hi>.<lb/>Aus dieser einstigen Erklärung und Anerkennung <region key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</region> als böhmisches Kronlehen (dessen Stellung
-                    durch <persName key="karl-IV">Carls</persName> Goldene Bulle normirt war)
-                    folgerte der Verfaßer, <hi rend="ul">daß zwischen <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</region>, <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> und
-                            <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> eine Personal-, dagegen zwischen <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> und <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> eine
+                        <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> als böhmisches Krohnlehen<hi rend="ul">
+                        anerkennen</hi>.<lb/>Aus dieser einstigen Erklärung und Anerkennung <rs type="place" subtype="region" key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</rs> als böhmisches Kronlehen (dessen Stellung
+                    durch <rs type="person" ref="karl-IV" key="karl-IV">Carls</rs> Goldene Bulle normirt war)
+                    folgerte der Verfaßer, <hi rend="ul">daß zwischen <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs>, <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> und
+                            <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> eine Personal-, dagegen zwischen <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> und <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> eine
                         Realunion existirt habe</hi>, ohne aus zuvordererst mit der staatsrechtlich
                     so wichtigen und hier so nothwendigen Begriffsbestimmung über Personal- und
                     Realunion bekannt zu machen.<lb/>Wenn der Verfaßer die Personalunion auffaßt als
@@ -499,61 +498,61 @@
                     denselben geltenden Successionsgesetzen dieselbe Person oder Familie zu zwey
                     oder mehreren Kronen berufen wird, nach deren Aussterben jedes Land nach seinem
                     eigenthümlichen Gesetzen auch von verschiedenen Regenten beherrscht werden kann,
-                    so zeigt die Geschichte, daß eine solche Personalunion zwischen <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</region>, <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> und
-                        <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> nicht vorhanden war; denn der Besitz der Krone
-                    Böhmens bedingt die Herrschaft von <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> und
-                        <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region>.<lb/>Dagegen glaubt der Verfaßer, daß zwischen
-                        <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> und <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> eine <hi rend="ul">Realunion</hi> bestanden habe. Mag nun diese Realunion als
+                    so zeigt die Geschichte, daß eine solche Personalunion zwischen <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs>, <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> und
+                        <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> nicht vorhanden war; denn der Besitz der Krone
+                    Böhmens bedingt die Herrschaft von <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> und
+                        <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs>.<lb/>Dagegen glaubt der Verfaßer, daß zwischen
+                        <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> und <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> eine <hi rend="ul">Realunion</hi> bestanden habe. Mag nun diese Realunion als
                     gemeinsames für zwey oder mehrere Länder verbindliches Sucessionsgesetz oder als
                     das Bestehen einer gemeinschaftlichen Vertretung und Verwaltung des durch keine
                     Gränzen geschiedenen autonomen Gemeinwesens aufgefaßt werden, so wäre gerade
-                    eine <hi rend="ul">solche Realunion nicht vorhanden</hi>, weil diese in der <hi rend="ul">ersten</hi> Bedeutung für <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> und <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> gemeinsame, den böhmischen entgegengesetzte
+                    eine <hi rend="ul">solche Realunion nicht vorhanden</hi>, weil diese in der <hi rend="ul">ersten</hi> Bedeutung für <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> und <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> gemeinsame, den böhmischen entgegengesetzte
                     Sucessionsgesetze voraussetzt, was historisch und rechtlich unrichtig ist, da
                     der König von Böhmen wie bemerkt als <hi rend="ul">solcher</hi>, <hi rend="ul">nicht</hi> aber als <hi rend="ul">Markgraf</hi> von Mähren <hi rend="ul">Herr von Troppau</hi> war, da endlich in der zweyten Bedeutung nach dem
-                    Jahre 1318 <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> und <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region>
+                    Jahre 1318 <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> und <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs>
                     nie <hi rend="ul">eine</hi>, sondern immer <hi rend="ul">zwey</hi>
-                    Repräsentationen hatten. Daher ist die Folgerung, daß zwischen <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region>, <region key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</region> und
-                        <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> eine Personal-, zwischen <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> und <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> aber eine Realunion aus dem
-                    Grunde bestand, weil die Mährer in <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>
+                    Repräsentationen hatten. Daher ist die Folgerung, daß zwischen <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs>, <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> und
+                        <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> eine Personal-, zwischen <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> und <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> aber eine Realunion aus dem
+                    Grunde bestand, weil die Mährer in <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>
                     <hi rend="ul">
-                        <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> als ein böhmisches Kronlehen</hi>, hiemit
+                        <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> als ein böhmisches Kronlehen</hi>, hiemit
                     als eine selbstständige Landschaft anerkannten, nicht allein nicht historisch
                     begründet, sondern auch staatsrechtlich unrichtig.<lb/>Die sechste und letzte
                     Periode 1623, die Belehnung des Hauses Liechtenstein mit
-                        <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> und mit dem, dem geächteten <persName key="johann-georg-von-brandenburg">Rebellen von Brandeburg</persName>
+                        <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> und mit dem, dem geächteten <rs type="person" ref="johann-georg-von-brandenburg" key="johann-georg-von-brandenburg">Rebellen von Brandeburg</rs>
                     abgenommenen Jägerndorf, läßt uns aber die Stellung dieser Fürtstenthümer in
                     keinem Zweifel, wenn auch die Troppauer die Unterwerfungsbedingungen, worunter
                     die Annexation deutlich ausgesprochen ist, im Jahre 1622 nicht unterschrieben
                     hätten, wenn auch die mährischen Troppauer Stände die Verbindung mit
-                        <region ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</region> stillschweigend nicht anerkannten und die
+                        <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs> stillschweigend nicht anerkannten und die
                     ersteren durch Wiederaufnahme des Prozeßes 1657 und 1682 (zum letzten Mal) die
-                    Troppauer als <region ref="#place_c736c0f45ab9a93b1db9820b15c526cf">Mähren</region>
+                    Troppauer als <rs type="place" subtype="region" ref="#place_c736c0f45ab9a93b1db9820b15c526cf">Mähren</rs>
                     <hi rend="ul">nahe stehend</hi> p. 223 betrachteten.<lb/>
-                    <persName key="liechtenstein-karl-I">Liechtenstein</persName> wurde belehnt, die
+                    <rs type="person" ref="liechtenstein-karl-I" key="liechtenstein-karl-I">Liechtenstein</rs> wurde belehnt, die
                     Stände gaben ihre Zustimmung und der neue Herzog nahm seinen Sitz unter den
-                    schlesischen Fürsten sein. Selbst die unter <persName key="ferdinand-III">Ferdinand III.</persName> geschehene Bestätigung der alten Troppauer
+                    schlesischen Fürsten sein. Selbst die unter <rs type="person" ref="ferdinand-III" key="ferdinand-III">Ferdinand III.</rs> geschehene Bestätigung der alten Troppauer
                     Privilegien, hiemit der „Nichtalienirung“ p. 237 konnte den Troppauern nicht
-                    förderlich seyn, wie der Verfaßer behauptet; im Gegentheil, <persName key="ferdinand-III">Ferdinand III.</persName> zeigte <hi rend="ul">damit,
+                    förderlich seyn, wie der Verfaßer behauptet; im Gegentheil, <rs type="person" ref="ferdinand-III" key="ferdinand-III">Ferdinand III.</rs> zeigte <hi rend="ul">damit,
                         daß unter Alienirung nicht eine Belehnung</hi>, sondern die Veräußerung an
                     andere Souverains zu verstehen sey; <hi rend="ul">daß folglich die Belehnung
-                            <persName key="liechtenstein-karl-I">Liechtensteins</persName> den
+                            <rs type="person" ref="liechtenstein-karl-I" key="liechtenstein-karl-I">Liechtensteins</rs> den
                         Privilegien nicht widerspreche</hi>.<lb/>Durch die Verbindung mit
-                        <region ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</region> ist <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> größtentheils
+                        <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs> ist <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> größtentheils
                     germanisirt worden; die Erinnerung an die gemeinsamen natürlichen Bande mit
-                        <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> verschwand bis zu dem Grade, daß nach
-                    dem Verluste <region key="schlesien" ref="#place_555f6fe9ebdd56123400b9e628944934">Schlesiens</region> im Hubertsburger
-                    Frieden <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region> mit <placeName ref="#place_27f77677310f3f4e0b878e7f7f0f0dd1">Teschen</placeName>
-                    selbstständig wurden.<lb/>Unter <persName key="joseph-II">Kaiser
-                        Josef</persName> fand zwar eine administrative Vereinigung, jedoch nur in
+                        <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> verschwand bis zu dem Grade, daß nach
+                    dem Verluste <rs type="place" subtype="region" key="schlesien" ref="#place_555f6fe9ebdd56123400b9e628944934">Schlesiens</rs> im Hubertsburger
+                    Frieden <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs> mit <rs type="place" subtype="place" ref="#place_27f77677310f3f4e0b878e7f7f0f0dd1">Teschen</rs>
+                    selbstständig wurden.<lb/>Unter <rs type="person" ref="joseph-II" key="joseph-II">Kaiser
+                        Josef</rs> fand zwar eine administrative Vereinigung, jedoch nur in
                     den obersten Landesstellen statt, welche den specifisch schlesischen Geist
-                        <region key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</region> so wenig an <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> fesselte, daß, als im Jahre 1848 in Folge einer durch
-                    Professor <persName key="sembera-alois-vojtech">Schembera</persName> [Šembera]
+                        <rs type="place" subtype="region" key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</rs> so wenig an <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> fesselte, daß, als im Jahre 1848 in Folge einer durch
+                    Professor <rs type="person" ref="sembera-alois-vojtech" key="sembera-alois-vojtech">Schembera</rs> [Šembera]
                     im Landtage angeregten parlamentarischen Conversation über die Incorporirung
-                        <region key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</region> mit <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region>, zahlreiche Demonstrationen in <region ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</region>
-                    dagegen stattfanden. Im Jahre 1849 erfolgte eine neue Constituirung <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Ostreichs</country>. <region ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</region> erhielt
+                        <rs type="place" subtype="region" key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</rs> mit <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs>, zahlreiche Demonstrationen in <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs>
+                    dagegen stattfanden. Im Jahre 1849 erfolgte eine neue Constituirung <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Ostreichs</rs>. <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs> erhielt
                     die Würde eines Kronlandes und angelte sogar nach den zweifellos mährischen
                     Enclaven.<lb/>Nur 11 Gemeinden des Troppauer Kreises mährischer Zunge
-                    überreichten 1848 zur Zeit, als der hochwürdige Herr Prälat, <persName key="wokral">Ritter von Wokral</persName>, Präsident und ich Sekretär des
+                    überreichten 1848 zur Zeit, als der hochwürdige Herr Prälat, <rs type="person" ref="wokral" key="wokral">Ritter von Wokral</rs>, Präsident und ich Sekretär des
                     Petitionscomites waren, dem Landtage eine Bittschrift, worin sie um Annexation
                     bathen. Allein die Petition wurde dem Verfassungscomite überwiesen und theilte
                     dort das Schicksal mehrerer anderer Petitionen, sie wurde unerledigt dem
@@ -572,22 +571,22 @@
                     gegen die vieldeutigen Facta zu führen, wobei die Kraft der Argumente
                     zersplittert, unhistorische Analogien und, wo Beweise fehlen, grammatische
                     Assertionen angewendet werden müssen!<lb/>Wenn auch die Thatsachen der Sache
-                        <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mährens</region> günstiger wären, so sind die daraus
+                        <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mährens</rs> günstiger wären, so sind die daraus
                     abgeleiteten oder abzuleitenden praktischen Schlußfolgerungen dadurch erschwert,
                         <hi rend="ul">weil die Materialien zur Erörterung der Rechtfrage
                     fehlen</hi>.<lb/>Die Entfernung vom Rechtsboden hat aber auch noch die
                     wesentlichen Nachtheile, daß der Forscher wie von dem allein wahren Compaß
                     verlassen nach gewissen Beweisen hascht, die in einer Staatsschrift nicht
                     vorkommen dürfen.<lb/>Der Verfaßer beruft sich oft auf das mährische Bewußtseyn
-                    der Troppauer, auf die Stammverwandtschaft mit <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region>, auf <hi rend="ul">Wünsche</hi>, <hi rend="ul">Hoffnungen</hi>, ja sogar auf Schritte, welchen die Weise der
+                    der Troppauer, auf die Stammverwandtschaft mit <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs>, auf <hi rend="ul">Wünsche</hi>, <hi rend="ul">Hoffnungen</hi>, ja sogar auf Schritte, welchen die Weise der
                     Gesetzlichkeit fehlt. Weder <hi rend="ul">sympathische Velleitäten</hi> noch
                     Naturbestimmtheiten können in positiven Staatsfragen ein Recht aufheben oder
-                    begründen. Dem Lombarden wird die Liebe zu <region ref="#place_1469985450437a47ed4a7f33c0d1a621">Piemont</region>, dem Pohlen
+                    begründen. Dem Lombarden wird die Liebe zu <rs type="place" subtype="region" ref="#place_1469985450437a47ed4a7f33c0d1a621">Piemont</rs>, dem Pohlen
                     die Sympathie für ein nationales Reich, dem Deutschen die Neigung zum einigen
-                        <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country> nie als staatsrechtlicher Titel angerechnet
+                        <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> nie als staatsrechtlicher Titel angerechnet
                     werden.<lb/>Da auf das Bewußtseyn der Troppauer so viel Gewicht gelegt wird, so
                     erinnere ich, daß wenn dieses Bewußtseyn im Mittelalter <hi rend="ul">für,
-                        dasselbe Bewußtseyn</hi> in jüngster Zeit gegen <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region> sprach.<lb/>Durch diese Methode in der Beweisführung, die
+                        dasselbe Bewußtseyn</hi> in jüngster Zeit gegen <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> sprach.<lb/>Durch diese Methode in der Beweisführung, die
                     den Forscher oft auf ein der Frage fernstehendes Feld drängt, gewinnt es den
                     Anschein, daß der Verfaßer im Dienste einer vorgefaßten Meinung steht, die ihn
                     nöthigte als <hi rend="ul">Sachwalter</hi> aufzutreten dort, wo er hätte <hi rend="ul">Richter</hi> seyn sollen.<lb/>Ich will hier nicht nochmals auf die
@@ -599,14 +598,14 @@
                     Versuches geben, sondern beschränke mich bloß, die Aufmerksamkeit auf einige
                     Stellen zu leiten, welche in einer über Aufforderung des Landesausschußes
                     geschriebenen, von ihm zu sanktionirenden Schrift geradezu unschlicklich
-                    erscheinen. So beurtheilt z. B. 163 der Verfaßer die Belehnung <persName key="liechtenstein-karl-I">Liechtensteins</persName> durch Kaiser <persName key="mathias-I">Mathias</persName> mit folgenden Worten:<lb/>„Das
+                    erscheinen. So beurtheilt z. B. 163 der Verfaßer die Belehnung <rs type="person" ref="liechtenstein-karl-I" key="liechtenstein-karl-I">Liechtensteins</rs> durch Kaiser <rs type="person" ref="mathias-I" key="mathias-I">Mathias</rs> mit folgenden Worten:<lb/>„Das
                     Fürstenthum mußte der Politik, oder besser gesagt, dem <hi rend="ul">Privatinteresse</hi> des <hi rend="ul">Kaisers wider jedes Recht
                         unterliegen</hi>! Es mußte als Tauschmittel gegen die Grafschaft
-                        <placeName ref="#place_ce80131cd3e639c957e84214fd9d57c8">Pardubitz</placeName> und der Geschichte als neues Beleg dienen,
+                        <rs type="place" subtype="place" ref="#place_ce80131cd3e639c957e84214fd9d57c8">Pardubitz</rs> und der Geschichte als neues Beleg dienen,
                     daß das Ludwigsche l’etat c’est moi praktisch seit undenklichen Zeiten bekannt
                     ist!“ Dann wieder S. 178: „<hi rend="ul">Ob nicht eine Schaamröthe des Kaisers
                         Antlitz überzog</hi>, als er den böhmischen Ständen die vollzogene Belehnung
-                    anzeigt.“<lb/>Wenn auch <persName key="mathias-I">Mathias</persName>, was noch
+                    anzeigt.“<lb/>Wenn auch <rs type="person" ref="mathias-I" key="mathias-I">Mathias</rs>, was noch
                     zu erweisen ist, unrecht gehabt hatte, so glaub‘ ich, daß dergleichen im
                     Pamphletenstyl gehaltene Reflexionen über die Persönlichkeit und die Gesinnungen
                     eines Vorfahren des regierenden Kaisers in einer ernsten Staatsschrift, die von
@@ -616,7 +615,7 @@
                     unsere Zustände auf einen solchen Akt basieren und daß jeder öffentliche Schritt
                     einer gewählten politischen Körperschaft so leicht als Demonstration
                     interpretirt werden kann; es müßten daher die schroffen Winke in der
-                    Beurtheilung der Belehnung <persName key="liechtenstein-karl-I">Liechtensteins</persName> nach der Schlacht am Weißen Berge durch <persName key="ferdinand-II">Ferdinand II.</persName> sehr gemildert, wo nicht ganz
+                    Beurtheilung der Belehnung <rs type="person" ref="liechtenstein-karl-I" key="liechtenstein-karl-I">Liechtensteins</rs> nach der Schlacht am Weißen Berge durch <rs type="person" ref="ferdinand-II" key="ferdinand-II">Ferdinand II.</rs> sehr gemildert, wo nicht ganz
                     ausgelassen werden.<lb/>Endlich hätten <hi rend="ul">wage</hi> Ausdrücke
                     vermieden werden sollen, weil solche Ausdrücke bey schwierigen und verwickelten
                     staatsrechtlichen Erörterungen leicht Mißverständnisse erzeugen. Nach den oft
@@ -637,8 +636,8 @@
                             Hintergründe der Entstehung der Arbeit ein und erklärt die Verzögerung,
                             mit der sie erschien. Vgl. <ref target="http://books.google.de/books?id=upMAAAAAcAAJ&amp;hl=de&amp;source=gbs_navlinks_s">Beda Dudik, Des Herzogtums Troppau ehemalige Stellung zur
                                 Markgrafschaft Mähren, Wien 1857.</ref>
-                        </note> zu legen und dem <persName key="dudik-beda">Dr. Dudik</persName> die
-                            <placeName key="breslau" ref="#place_811c769d0dbe2ab018cd7ddee5e5c3de">Breslauer</placeName> Reise zu vergüten, weil
+                        </note> zu legen und dem <rs type="person" ref="dudik-beda" key="dudik-beda">Dr. Dudik</rs> die
+                            <rs type="place" subtype="place" key="breslau" ref="#place_811c769d0dbe2ab018cd7ddee5e5c3de">Breslauer</rs> Reise zu vergüten, weil
                         er sie im Auftrage des Landesausschußes unternahm.</hi>
                     <lb/>Sollte sich
                     jedoch der Landesausschuß nicht bestimmt finden, von dem schon in der Sitzung
@@ -648,13 +647,13 @@
                     Begutachtung zu übergeben, damit dieselbe sich ausspreche:<lb/>a. über die
                     Richtigkeit der gemachten historisch staatsrechtlichen Beweisführungen und
                     Deductionen und b. über die praktisch rechtliche Folgerung, welche in Bezug auf
-                    einen eventuellen Antrag auf Incorporirung <region key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</region> mit <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</region>, aus dem
-                    Verhältnisse <region key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mährens</region> zu <region ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</region>
+                    einen eventuellen Antrag auf Incorporirung <rs type="place" subtype="region" key="troppau" ref="#place_e407a13205c64411552e9c092d0805cb">Troppaus</rs> mit <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs>, aus dem
+                    Verhältnisse <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mährens</rs> zu <rs type="place" subtype="region" ref="#place_0e5965aa6363b878ccbac634a51170b1">Troppau</rs>
                     gezogen werden könnten.<lb/>Wenn auch der Landesausschuß in meiner Beleuchtung
                     nicht volles Vertrauen setzt, so glaube ich, daß bey der hohen Bedeutung, welche
                     diese Schrift durch die Agnostirung von Seite des Landesausschußes erhalten
                     soll, <hi rend="ul">eine unbefangen gerechte wissenschaftliche Beurtheilung
-                        derselben</hi> nur im Interesse des hohen Gremiums und des <persName key="dudik-beda">Dr. Dudik</persName> selbst liegen kann.<lb/>Im Übrigen
+                        derselben</hi> nur im Interesse des hohen Gremiums und des <rs type="person" ref="dudik-beda" key="dudik-beda">Dr. Dudik</rs> selbst liegen kann.<lb/>Im Übrigen
                     behalte ich mir nach Vollendung der Commissionsarbeiten vor, selbst in dem Falle
                     als dazu Arbeiten allerfällige Incorporirungsideen unterstützen und motiviren
                     könnten (woran ich nicht glaube), den Antrag zu stellen, <hi rend="ul">die

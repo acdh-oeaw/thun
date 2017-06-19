@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="tomek-vaclav-vladivoi" role="recipient">Václav Vladivoi
-                        Tomek</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="tomek-vaclav-vladivoi" key="tomek-vaclav-vladivoi" role="recipient">Václav Vladivoi
+                        Tomek</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1855-07-20">20. Juli [1855]</date>
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1855-07-20">20. Juli [1855]</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -37,7 +36,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -58,7 +57,7 @@
                     Gewährsmänner bedurfte, für den Werth desselben die Liebe mit der Sie daran
                     gearbeitet, und der Fleiß und die Mühe, die Sie wie mir längst bekannt ist, seit
                     Jahren darauf verwendet haben.<lb/>Ich hoffe demnächst bei meiner Rückkehr nach
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> durch <persName key="jirecek-josef">Jirecek</persName> ein Mehreres über ihre Bestrebungen und Arbeiten,
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> durch <rs type="person" ref="jirecek-josef" key="jirecek-josef">Jirecek</rs> ein Mehreres über ihre Bestrebungen und Arbeiten,
                     namentlich auch über den Fortgang Ihrer Geschichte Österreichs zu hören.</p>
                 <p>Mit aufrichtiger Hochachtung<lb/>Ihr<lb/>Ergebener Leo Thun</p>
             </div>

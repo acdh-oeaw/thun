@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Gutachten von <persName key="krombholz-anton">Anton Krombholz</persName> zu §
+                <title>Gutachten von <rs type="person" ref="krombholz-anton" key="krombholz-anton">Anton Krombholz</rs> zu §
                     17 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des
                         Konkordats<lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1856-08-23">23.
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1856-08-23">23.
                         August 1856</date>
                 </title>
             </titleStmt>
@@ -48,7 +47,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -79,7 +78,7 @@
                     welchen die politische Schulverfassung Geltung hatte, vorgegangen, ohne daß –
                     soweit es dem Gefertigten bekannt ist – von einem Ordinariate oder Konsistorium
                     ein Bedenken erhoben worden wäre. Auch waren alle Judengemeinden mit Ausnahme
-                    einiger in <region ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</region> mit der für ihre Schulen angeordneten
+                    einiger in <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs> mit der für ihre Schulen angeordneten
                     Aufsicht einverstanden. Diese Aufsicht hat sich in mehr als einer Hinsicht sehr
                     ersprießlich bewiesen. Die Israeliten fühlten sich durch die angeordnete
                     Aufsicht sehr geehrt und waren daher bemüht, die Schulen nach den bestehenden
@@ -161,15 +160,15 @@
                     wurde – bisher kein Bischof in den Kronländern, in welchen die politische
                     Schulverfassung in Geltung stand, an der in Rede stehenden Aufsicht, wie sie
                     vorgezeichnet war und geübt würde, Anstoß nahm und daß auch die Bischöfe in
-                        <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> mit Ausnahme des Bischofs von
-                        <placeName ref="#place_a2e898976534a8c4c23ffada0583eb4b">Waitzen</placeName>, als an sie das Anlangen wegen
+                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> mit Ausnahme des Bischofs von
+                        <rs type="place" subtype="place" ref="#place_a2e898976534a8c4c23ffada0583eb4b">Waitzen</rs>, als an sie das Anlangen wegen
                     Beaufsichtigung der israelitischen Schulen durch die Ortsseelsorger und
                     Schulbezirksaufseher gestellt wurde, sich hiezu bereitwillig erklärten.<lb/>Es
                     darf nicht unbemerkt bleiben, daß die politische Schulverfassung durch die
                     Mitwirkung der Geistlichkeit und einzelner kirchlicher Behörden entstanden ist.
                     Die im Jahre 1805 neu eingeführte Leitung und Beaufsichtigung der deutschen
                     Volksschulen, folglich auch der jüdischen Volksschulen, wurde mit ausdrücklicher
-                    Zustimmung des Fürst-Erzbischofs in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> zu Stande
+                    Zustimmung des Fürst-Erzbischofs in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> zu Stande
                     gebracht. (siehe dessen Schreiben vom 10. Juni 1805)<lb/>Wem möchte auch die
                     Beaufsichtigung der israelitschen Schulen übertragen werden können, wenn sie den
                     katholischen Ortsseelsorgern und Schulbezirksaufsehern abgenommen werden sollte.

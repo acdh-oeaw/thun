@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="goluchowski-agenor" role="sender:beamter">Agenor
-                        Goluchowski</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="goluchowski-agenor" key="goluchowski-agenor" role="sender:beamter">Agenor
+                        Goluchowski</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName key="olmuetz" ref="#place_c0ce3216e3cb050a80363757086a42f0">Olmütz</placeName>, <date when="1853-09-18">18. September
+                    <rs type="place" subtype="place" key="olmuetz" ref="#place_c0ce3216e3cb050a80363757086a42f0">Olmütz</rs>, <date when="1853-09-18">18. September
                     1853</date>
                 </title>
             </titleStmt>
@@ -44,7 +43,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -61,10 +60,10 @@
                 <p>Olmütz, den 18. September 1853</p>
                 <p>Hochgeborner Graf!</p>
                 <p>In Erwiderung auf das verehrte Schreiben vom 8. September 1853 Z. 10/R gebe ich
-                    mir die Ehre Euer Exzellenz über die durch den Herrn Erzbischof <persName key="baraniecki-lukas">R[itter] von Baraniecki</persName> zur Sprache
+                    mir die Ehre Euer Exzellenz über die durch den Herrn Erzbischof <rs type="person" ref="baraniecki-lukas" key="baraniecki-lukas">R[itter] von Baraniecki</rs> zur Sprache
                     gebrachten Unzukömmlichkeiten in Betreff des mangelhaften Unterrichts der
                     lateinischen Sprache in den galizischen Gymnasien nachstehende Äußerung
-                    abzugeben. Es unterliegt keinem Zweifel, daß in <region ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</region> die
+                    abzugeben. Es unterliegt keinem Zweifel, daß in <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs> die
                     Gymnasialschüler nach dem früheren Unterrichtsplane sich mit mehr Geläufigkeit
                     in der lateinischen Sprache auszudrücken vermochten. Diese Erscheinung findet
                     nicht etwa in der Unvollkommenheit der gegenwärtigen Unterrichtsmethode, wohl
@@ -80,21 +79,21 @@
                     unterliegt es keinem Zweifel, daß es ihm ein leichtes sein werde, gleich im
                     ersten Jahrgange des theologischen Studiums, wo wie bekannt die
                     Unterrichtssprache die lateinische ist, die nothwendige Sprachgeläufigkeit sich
-                    eigen zu machen.<lb/>Was insbesondere die <placeName key="lemberg" ref="#place_3ff694e5c82611cda53341a9bae21735">Lemberger</placeName> lateinischen Cleriker anbelangt, so habe ich die
-                    Auskunft vom <persName key="baraniecki-lukas">Herrn Erzbischof</persName>
+                    eigen zu machen.<lb/>Was insbesondere die <rs type="place" subtype="place" key="lemberg" ref="#place_3ff694e5c82611cda53341a9bae21735">Lemberger</rs> lateinischen Cleriker anbelangt, so habe ich die
+                    Auskunft vom <rs type="person" ref="baraniecki-lukas" key="baraniecki-lukas">Herrn Erzbischof</rs>
                     erhalten, daß von den in den letzten zwey Jahren ins Seminar eingetretenen
                     Alumnen nur einer oder zweye die Maturitätsprüfung bestanden haben, es darf
                     somit kein Wunder nehmen, daß diesen Kandidaten des geistlichen Standes die
                     Kenntnis der lateinischen Sprache abging.<lb/>In Betreff der Zuordnung des einen
                     oder des andern Gymnasiums an die Ordenspriester der Gesellschaft Jesu sind
                     bereits mehrere Vorbereitungen getroffen worden und sobald der Ordensprovinzial
-                    aus <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName> – wohin er sich zur Wahl des Jesuiten Generals
+                    aus <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs> – wohin er sich zur Wahl des Jesuiten Generals
                     verfügt hat – zurückgekommen sein wird, werde ich nicht ermangeln, an das
                         <orgName key="ministerium-fuer-kultus-und-unterricht">hohe
                         Unterrichtsministerium</orgName> den einschlägigen Bericht zu erstatten. Was
                     endlich den Zustand der theologischen Fakultät in <orgName key="universitaet-lemberg">Lemberg</orgName> anbelangt, so habe ich der
-                    gegebenen Weisung gemäß den <persName key="baraniecki-lukas">Herrn
-                        Erzbischof</persName> auf die Zusicherungen Euer Exzellenz vertröstet,
+                    gegebenen Weisung gemäß den <rs type="person" ref="baraniecki-lukas" key="baraniecki-lukas">Herrn
+                        Erzbischof</rs> auf die Zusicherungen Euer Exzellenz vertröstet,
                     allein er erwiderte mir darauf, daß ihm schon vor einem Jahre die nehmliche
                     Eröffnung von Seite Euer Exzellenz gemacht worden sey, ohne daß der frägliche
                     Gegenstand der endlichen Entscheidung näher gerückt worden wäre. Hiemit

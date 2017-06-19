@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="ficker-julius" role="recipient">Julius
-                        Ficker</persName>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="ficker-julius" key="ficker-julius" role="recipient">Julius
+                        Ficker</rs>
                     <lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1858-06-19">19. Juni 1858</date>
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1858-06-19">19. Juni 1858</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -34,7 +33,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -49,16 +48,16 @@
                 <p>Wien, den 19. Juni 1858</p>
                 <p>Werther Herr Professor!</p>
                 <p>Da Sie so freundlich sind, sich hierzu anzubiethen, so nehme ich Ihre Vermittlung
-                    um über <persName key="muys-gottfried">Dr. Muys</persName> genauere
-                    Erkundigungen einzuholen mit vielem Dank an.<lb/>Wegen <persName key="wildauer-tobias">Wildauer</persName> seien Sie ohne Sorge, die
-                        Rezension<note xml:id="note_1">Vgl. <ref target="http://books.google.at/books?id=E6oNAAAAYAAJ&amp;hl=de&amp;source=gbs_navlinks_s">Alfred Ludwig, Platon's&#160;Protagoras mit Einleitungen und Anmerkungen von
+                    um über <rs type="person" ref="muys-gottfried" key="muys-gottfried">Dr. Muys</rs> genauere
+                    Erkundigungen einzuholen mit vielem Dank an.<lb/>Wegen <rs type="person" ref="wildauer-tobias" key="wildauer-tobias">Wildauer</rs> seien Sie ohne Sorge, die
+                        Rezension<note xml:id="note_1">Vgl. <ref target="http://books.google.at/books?id=E6oNAAAAYAAJ&amp;hl=de&amp;source=gbs_navlinks_s">Alfred Ludwig, Platon's Protagoras mit Einleitungen und Anmerkungen von
                             Ed. Jahn, Wien, C. Gerold's Sohn, 1857, in: Zeitschrift für die
                             Österreichischen Gymnasien, Bd. 8, 1857, S. 212–217</ref>.</note> soll
                     ihm gewiss nicht schaden, und ich werde seiner nicht vergessen. Ich begreife
-                    sehr wohl, daß sie in <placeName key="innsbruck" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Inspruck</placeName>
+                    sehr wohl, daß sie in <rs type="place" subtype="place" key="innsbruck" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Inspruck</rs>
                     [Innsbruck] übles Blut gemacht hat, obwohl ich aber nicht glaube, daß sie so
-                    übel gemeint war. Der <persName key="ludwig-alfred">Verfasser</persName>, ein
-                    sehr tüchtiger und bescheidener junger Mensch, ist ein Mitschüler von <persName key="jahn-eduard">Jahn</persName> und hat es ohne Zweifel deshalb höher
+                    übel gemeint war. Der <rs type="person" ref="ludwig-alfred" key="ludwig-alfred">Verfasser</rs>, ein
+                    sehr tüchtiger und bescheidener junger Mensch, ist ein Mitschüler von <rs type="person" ref="jahn-eduard" key="jahn-eduard">Jahn</rs> und hat es ohne Zweifel deshalb höher
                     aufgenommen, daß seiner Arbeit<note xml:id="note_2">Gemeint ist: Eduard Jahn,
                         Platon's Protagoras, mit Einleitung und Anmerkungen, Wien 1857.</note> kaum
                     Erwähnung geschah, als es namentlich in Berücksichtigung der ihm unbekannten,

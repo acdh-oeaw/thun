@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Bemerkungen zur Schulreform von <persName key="kwiecinski-josef" role="sender">Josef Kwieciński</persName>
+                <title>Bemerkungen zur Schulreform von <rs type="person" ref="kwiecinski-josef" key="kwiecinski-josef" role="sender">Josef Kwieciński</rs>
                     <lb/>
-                    <placeName ref="#place_92a76d6721fea9af930410297cd7b5f5">Biala</placeName>,
+                    <rs type="place" subtype="place" ref="#place_92a76d6721fea9af930410297cd7b5f5">Biala</rs>,
                         <date when="1850-10-02">2. Oktober 1850</date>
                 </title>
             </titleStmt>
@@ -60,7 +59,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -81,7 +80,7 @@
                     Staatseinrichtung in meinen Betrachtungen berührt habe und die mir so weit
                     geläufig sind, als sie mit meiner Philosophie und Staatswissenschaft
                     Berührungspunkte biethen. Die große Literatur in und außer
-                        <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country> in diesem Fache ist mir so gut wie ganz
+                        <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> in diesem Fache ist mir so gut wie ganz
                     unbekannt, die Verordnungen des <orgName key="ministerium-fuer-kultus-und-unterricht">Unterrichtsministeriums</orgName> sowie der Organisationsentwurf sind mir
                     aus theilweiser gelegentlicher Lesung nur dunkel erinnerlich. Wäre mein Geist
                     von Thätigkeit anderer Art frei und mir eine längere Zeit zur Verarbeitung einer
@@ -90,7 +89,7 @@
                     meines Kopfes von anderen Betrachtungen und der Frist von einigen Tagen, die ich
                     dieser Mittheilung widmen kann, muß ich auf die freundschaftliche Nachsicht
                     Anspruch machen. Nur jene Punkte will ich berühren, die ich als Angelpunkte der
-                    Volkserziehung und besonders in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</country>
+                    Volkserziehung und besonders in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</rs>
                     betrachte und deren Einfluß ich in dem Verfahren der <orgName key="ministerium-fuer-kultus-und-unterricht">obersten
                         Erziehungsbehörde</orgName>, obwohl diese in ihren Verordnungen und
                     Anstalten die erleuchtesten Grundsätze und die liberalsten Ansichten an den Tag
@@ -127,7 +126,7 @@
                     Staat hat das Zwangsrecht der Erziehung, der Erreichung der dazu erforderlichen
                     Mittel. Aus diesem Standpunkte ist auch auf das Gemeinde- und Kircheneigenthum
                     und den so oft besprochenen Schulzwang herabzusehen, dessen Aufhebung wie in
-                        <region ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</region> keine guten Folgen gehabt, und der vielmehr so
+                        <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs> keine guten Folgen gehabt, und der vielmehr so
                     allgemein als möglich eingeführt werden sollte.<lb/>Der Staat begegnet in seinem
                     Berufe der Volkserziehung ähnlichen Strebungen der Religion oder eigentlich der
                     verschiedenen religiösen Sekten, die den Menschen durch die Macht des Glaubens
@@ -144,7 +143,7 @@
                     könnte wohl ein solches System aber nur anscheinend und vorübergehend zur
                     Staatsreligion und zum Staatserziehungsinstitut werden, anscheinend und
                     vorübergehend, weil der Mangel der Erzwingbarkeit es illusorisch machen würde.
-                        <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</country> wegen des Bekenntnisses der
+                        <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</rs> wegen des Bekenntnisses der
                     Dynastie und der Mehrheit der Staatsgehörigen für einen christlichen und
                     specifisch christkatholischen Staat zu halten, ist aus obigen Grunde und auch
                     deswegen nicht zulässig, weil es dem Staate nicht recht zukommt, sich mit der
@@ -152,7 +151,7 @@
                     allgemeine Zulässigkeit hinaus derselben als Gemeinschaften zum Genusse des
                     Staatslebens zu befassen oder gar die Staatsgehörigen und besonders nach dem
                     äußeren und veränderlichen Scheine ihrer religiösen Zugehörigkeit zu beurtheilen
-                    und abzuzählen. <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</country> sei ein
+                    und abzuzählen. <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</rs> sei ein
                     Rechtsstaat und seine Bewohner brave Staatsbürger! Die Staatsregierung hat einen
                     gerechten Grundsatz dadurch ausgesprochen, daß sie die persönliche
                     Religionsansicht und häusliche Religionsübung ganz freigiebt, den Glauben, das
@@ -212,7 +211,7 @@
                     Staate berechtigten Standes nichts vorzuschreiben, es ist aber zu bedauern, daß
                     bei dem Erlasse der ganz gerechten und freisinnigen Gesetze der freien Ausübung
                     des Lehramts und der Kirchendisciplin der katholischen Kirche auf die Stimme des
-                    östreichischen Reichstags in <placeName ref="#place_ac9a7e0c352dbdc2acb6df43ed879b68">Kremsier</placeName> wegen Aufhebung der
+                    östreichischen Reichstags in <rs type="place" subtype="place" ref="#place_ac9a7e0c352dbdc2acb6df43ed879b68">Kremsier</rs> wegen Aufhebung der
                     weltlichen Verbindlichkeit der Kirchengelübde nicht Rücksicht genommen wurde,
                     wonach eine verfehlte Standeswahl durch freiwilligen Austritt schwer
                     ausgeglichen und nicht gestattet wurde, daß sich der weltliche Arm zur
@@ -226,7 +225,7 @@
                     Unrecht.<lb/>Anstalten wie Gymnasien, von denen zu wünschen ist, daß durch
                     dieselben die Staatsbürger schon in der Jugend durch das Band gemeinschaftlich
                     genossener Bildung und Sodalitaet zu brüderlich einträchtlicher Anstrebung des
-                    höchsten Wohles <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreichs</country> vereint werden,
+                    höchsten Wohles <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreichs</rs> vereint werden,
                     soll man nie Confessionsanstalten werden lassen, wie es leider die katholische
                     Priesterschaft schon durchgesetzt hat, um sich von ihrer gespenstrigen Furcht zu
                     befreien, die sie vor der echten Aufklärung und bürgerlichen Einigkeit hegt, und
@@ -250,11 +249,11 @@
                     seine, schönste Zierde, wahre und sittliche Bildung nicht erkannt hat; mit der
                     Steigerung und Ausbreitung der Bildung im Volke wird auch die Bereitwilligkeit,
                     die Regierung für die Volksbildung zu unterstützen, sich gewiß steigern. Das
-                    gesammte <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</country> befindet sich im ganzen
+                    gesammte <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</rs> befindet sich im ganzen
                     auf einer sehr günstigen Mittelstufe der Volksbildung; noch einige
                     Thätigkeitsentwicklung, die Anwendung des Bildungszwangrechts auch gegen die
                     entlasteten oder doch sehr erleichterten Staatsgehörigen und Gemeinden: und
-                        <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</country> erhebt sich auf eine glänzende
+                        <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</rs> erhebt sich auf eine glänzende
                     Stufe europäischer Volksbildung. Auch müßte einer billigen Berücksichtigung
                     unterzogen werden das Verhältnis mancher Ortsgemeinden, welche bis jetzt
                     gehalten sind, eine Schule höhern Ranges aus eigenen Mitteln zu dotiren, die
@@ -296,9 +295,9 @@
                     gewinnen, denn die Gläubigen werden dieses Vermögen nicht sparen, um ihre Lasten
                     zu erleichtern. Eine solche Maßregel, wenn nur ihre Ausführung Privatrücksichten
                     nicht hinderten, wäre so leicht als möglich auszuführen und würde in
-                        <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country> mehr Sympathie für <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</country> erwecken, als das Zollanschlußprojekt des
-                    Handelsministers, denn <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country> fühlt es richtig und tief,
-                    daß mit <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</country>, so lange dasselbe mit dem
+                        <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> mehr Sympathie für <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</rs> erwecken, als das Zollanschlußprojekt des
+                    Handelsministers, denn <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> fühlt es richtig und tief,
+                    daß mit <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</rs>, so lange dasselbe mit dem
                     auf despotisch-aristokratischen Grundlagen stehenden katholischen Kirchenthume
                     in partheiischer Bevorzugung verkehrt, kein auf echte Liberalitaet gestützter
                     Bund für das Vaterland der Reformation zu hoffen sei, da ja die katholische
@@ -356,7 +355,7 @@
                     Charakter der Völker.<lb/>Zu solcher Behandlung der Kinder sind aber auch als
                     Erzieher tüchtige Lehrer nöthig; zur Heranbildung solcher ist aber die
                     Vollendung der jetzigen vierten Klasse und des Präparandenkurses nicht
-                    hinreichend; Lehrerseminare, die in andern Staaten wie in <country key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</country> mit großen Kosten unterhalten werden, haben
+                    hinreichend; Lehrerseminare, die in andern Staaten wie in <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> mit großen Kosten unterhalten werden, haben
                     am Ende aus ihren Zöglingen, wenn diese nicht mit besonderer Begabung
                     hineinkamen, keine besonderen Kirchenlichter geliefert, die außer Fähigkeit in
                     der Musik von den privatim herangebildeten und auf dem Wege der Schulprax[is]
@@ -369,12 +368,12 @@
                     und die sichere Aussicht auf gewisse Beförderung bei würdiger Verwendung und
                     Aufführung werden uns ganz sicher mit guten Volkslehrern versorgen. Schulräthe
                     auf angemessene Bezirke und Lehrervereine werden das Fehlende ergänzen; ist doch
-                    ein großer Theil <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreichs</country> bei der
+                    ein großer Theil <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreichs</rs> bei der
                     bisherigen fehlerhaften Beschaffenheit des Lehrer- und Volksschulwesens gewiß in
                     der Volksbildung und dem moralischen Charakter auf einer so soliden Stufe, wie
                     in irgendeinem noch so gelobten Staate: unsre Hoffnung für die Zukunft ist durch
                     die Vergangenheit gerechtfertigt und begründet, wir können mit freudigem Herzen
-                    ausrufen: Vorwärts unser <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</country> über
+                    ausrufen: Vorwärts unser <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</rs> über
                     alles, wenn du willst!<lb/>Die Gymnasien als eigentliche Gelehrtenpflanzschulen,
                     die Horde der höheren Region der Volksbildung, also eigentliche
                     Humanitätsschulen, sind vom <orgName key="ministerium-fuer-kultus-und-unterricht">Ministerium</orgName> aufs
@@ -406,10 +405,10 @@
                     Anwendung kommen, wie solche schon früher vom <orgName key="ministerium-fuer-kultus-und-unterricht">Unterrichtsministerium</orgName> in seinem Programm versprochen
                     wurden.<lb/>Noch erübrigt über die Sprache des Volksunterricht das zu bemerken,
                     daß es wohl Tyrannei wäre, den Elementarschüler in einer andern als der
-                    Muttersprache unterrichten zu wollen, es wäre auch zwecklos; da aber <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</country> in diplomatischer wie in staatlicher
+                    Muttersprache unterrichten zu wollen, es wäre auch zwecklos; da aber <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</rs> in diplomatischer wie in staatlicher
                     Beziehung nur als vorwiegend deutscher Staat betrachtet werden muß, weil selbst
                     die slavischen Idiome, die noch am stärksten vertreten sind, nur durch das
-                    Mittel der deutschen Sprache sich verständigen, und diese Sprache in <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</country>, außer <country ref="#place_389962c9dec540ab28d04517e82c3996">Italien</country>, am
+                    Mittel der deutschen Sprache sich verständigen, und diese Sprache in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</rs>, außer <rs type="place" subtype="country" ref="#place_389962c9dec540ab28d04517e82c3996">Italien</rs>, am
                     meisten verwendet und verbreitet ist, auch leicht von allen Nationen erlernt
                     wird: so wird es billig und wohlthätig sein, Schüler, die den Bau ihrer
                     Muttersprache schon grammatisch erlernt haben, in die Kenntnis der deutschen
@@ -438,7 +437,7 @@
                     bestimmen ist: er reicht so weit als es darum geht, den Staat durch
                     Wissenschaft, Kunst und Sittlichkeit zu befestigen, zu beglücken und so das
                     Reich Gottes auf Erden zu gründen.<lb/>Bedenkt man die Ausführbarkeit dieser nur
-                    annähernd zu lösenden Aufgabe in unserm theuren <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</country>, verschieden an Völkern, Volksschichten, Religionen,
+                    annähernd zu lösenden Aufgabe in unserm theuren <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</rs>, verschieden an Völkern, Volksschichten, Religionen,
                     Zungen und Tendenzen, weit ausgebreitet nach allen Strahlen der Windrose: da
                     erscheint die Aufgabe riesenhaft; erwägt man dabei das tragische Ende und
                     Erlöschen der kolosalen Staaten des Alterthums, die doch den Vortheil der
@@ -447,20 +446,20 @@
                     zänkischen Nationalitätchen so haicklich [sic!] umgehen muß: da wird’s um diese
                     Ausführbarkeit uns sehr wehmüthig.<lb/>Das eine wachende Auge im Mittelpunkte
                     des Staatsorganismus, dem diese ungeheure Aufgabe vorliegt, den Unterricht, die
-                    Erziehung und Beglückung der Völker <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreichs</country> zu leiten und zum höchsten Ziele zu führen, kann dieses
+                    Erziehung und Beglückung der Völker <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreichs</rs> zu leiten und zum höchsten Ziele zu führen, kann dieses
                     Ziel nur dann erreichen, wenn es ihm bald gelingt, in den beabsichtigten
                     Schulräthen, durch die Wahl an Wissen, Willen und Vaterlandsliebe erprobter
                     Männer, taugliche Werkzeuge, verläßliche Gehilfen zu erwerben. Durch solche Wahl
-                    und durch unerbittliche Beseitigung des Unkrauts wird es gelingen, <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</country> zu einem Sittlichkeits- zum wahren
+                    und durch unerbittliche Beseitigung des Unkrauts wird es gelingen, <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</rs> zu einem Sittlichkeits- zum wahren
                     christlichen Staat voller Ehren zu machen, welchen das tragische Ende der
                     Alterthumsstaaten nie bedrohen wird. Das wird geschehen, wenn es ernstlich
                     gewollt wird, es ist aber dazu rathsam und nöthig, daß schon jetzt das <orgName key="ministerium-fuer-kultus-und-unterricht">Unterrichtsministerium</orgName> seine Thätigkeit durch Aufnahme der besten
                     Männer aller Confessionen und Kronländer verstärke, während dieses bis nun nicht
                     der Fall zu sein scheint.<lb/>Wer wie ich die Vergangenheit von 35 Jahren, die
-                    Fortschritte in der Prosperitaet und Bildung <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreichs</country> und besonders die günstige Klärung der Ansichten und
+                    Fortschritte in der Prosperitaet und Bildung <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreichs</rs> und besonders die günstige Klärung der Ansichten und
                     Tendenzen in allen Volksklassen seit 1848 aufmerksam, ohne Furcht und
                     unpartheiisch beobachtet hat, der kann getrost sich den schönsten Hoffnungen für
-                        <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreichs</country> Zukunft hingeben.</p>
+                        <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreichs</rs> Zukunft hingeben.</p>
                 <p>Das hier Mitgetheilte, lieber Freund, ist nicht neu und Millionen Mitbürgern
                     bekannt; ich habe es niedergeschrieben, um meinem theuren Lehrer Rechenschaft zu
                     legen von meinen Ansichten und Wünschen hinsichtlich der einen Staats- und

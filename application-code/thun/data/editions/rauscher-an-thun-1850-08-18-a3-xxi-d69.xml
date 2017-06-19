@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="rauscher-joseph" role="sender:kleriker">Joseph Othmar
-                        Rauscher</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="rauscher-joseph" key="rauscher-joseph" role="sender:kleriker">Joseph Othmar
+                        Rauscher</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_ca7668a05b2a3dbf29ca3d768c0febe8">Graz</placeName>, <date when="1850-08-18">18. August 1850</date>
+                    <rs type="place" subtype="place" ref="#place_ca7668a05b2a3dbf29ca3d768c0febe8">Graz</rs>, <date when="1850-08-18">18. August 1850</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -46,7 +45,7 @@
                 </p>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -63,7 +62,7 @@
                     Wichtigkeit Euer Excellenz wohlwollende Beachtung in Anspruch zu nehmen und um
                     einige Aufklärungen zu bitten. Die nähere Bestimmung des Verhältnisses der
                     Kirche zur Volksschule wurde einer weiteren Verhandlung vorbehalten; doch ist
-                    bereits die Zusicherung erfolgt, die Regierung <persName key="franz-joseph">Seiner Majestät</persName> beabsichtige keineswegs den Einfluß, welchen die
+                    bereits die Zusicherung erfolgt, die Regierung <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät</rs> beabsichtige keineswegs den Einfluß, welchen die
                     Kirche bisher auf die Volksschule geübt hat, zu beschränken oder zu
                     beeinträchtigen. Die Amtsreise, von welcher ich vor Kurzem zurückkam,
                     verschaffte mir Anschauungen, welche mir lebendiger als jemals vor Augen
@@ -71,7 +70,7 @@
                     Befestigung der sittlichen und rechtlichen Zustände sey. Doch ich schweige
                     darüber, weil ich weiß, wie sehr Euer Excellenz diese meine Überzeugung theilen.
                     Mittlerweile ist jedoch die Errichtung der Schulbehörde erfolgt, welche in
-                        <region ref="#place_b5e9e75db151e1fff33838003e5fa591">Steiermark</region> ihre Amtsthätigkeit am 20. August beginnen wird.
+                        <rs type="place" subtype="region" ref="#place_b5e9e75db151e1fff33838003e5fa591">Steiermark</rs> ihre Amtsthätigkeit am 20. August beginnen wird.
                     Die betreffende Verordnung vom 11. Junius <note xml:id="note_1">Vgl. <ref target="http://alex.onb.ac.at/cgi-content/alex?aid=lgm&amp;datum=1850&amp;page=365&amp;size=45">Allgemeines Landesgesetz- und Regierungsblatt für das Kronland
                             Steiermark, 16. Juli 1850, Nr. 240, Verordnung des Ministeriums des
                             Cultus und Unterrichts vom 11. Juni 1850</ref>.</note>ist erst hier zu
@@ -110,8 +109,8 @@
                     wahrzunehmen, daß meine Geistlichkeit eine solche Auslegung besorgt, und sobald
                     die Sache allgemeiner bekannt wird, werden viele Anfragen und Klagen an mich
                     gelangen. Wie die Landesbehörden das Verhältnis auffassen werden, weiß ich
-                    nicht, wiewohl ich von der Einsicht des <persName key="burger-friedrich">Herrn
-                        Statthalters</persName> das Beste hoffe. Um Schwierigkeiten und Irrungen
+                    nicht, wiewohl ich von der Einsicht des <rs type="person" ref="burger-friedrich" key="burger-friedrich">Herrn
+                        Statthalters</rs> das Beste hoffe. Um Schwierigkeiten und Irrungen
                     zuvorzukommen, halte ich es für nothwendig an die Dechante als
                     Schulbezirksaufseher eine Belehrung zu erlassen; doch will ich es nicht ohne
                     Euer Excellenz Vorwissen und Billigung thun. Ich denke die geistlichen
@@ -131,14 +130,14 @@
                     Schulrathe alle gewünschten Aufschlüsse bereitwillig zu ertheilen. Dies scheint
                     mir der kürzeste und zweckmäßigste Weg, um die Sache im Einklange mit den
                     Grundsätzen, welche in der Verordnung vom 11. Junius ausgedrückt sind,
-                    provisorisch zu ordnen.<lb/>Seit ich <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> verließ, habe
+                    provisorisch zu ordnen.<lb/>Seit ich <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> verließ, habe
                     ich gar mancherlei zu thun gehabt. Nachdem ich wenige Tage hier zugebracht und
                     trotz einer Unpäßlichkeit, welche mich zur ungelegensten Zeit befiel, die
                     heiligen Weihen ertheilt hatte, firmte ich vom 1. bis 13. August zu
-                        <placeName ref="#place_fd3ebb9f41f9f036dba5791051bc5749">Marburg</placeName>, <placeName ref="#place_6247022a2050c0da56a01dbaab1400f9">Pettau</placeName>,
-                        <placeName ref="#place_d3d383878385b4352a47d900c1281b2c">Friedau</placeName>, <placeName ref="#place_49362f6a839b8e98e709268b1cb2de5e">Luttenberg</placeName>,
-                        <placeName ref="#place_31b52551447a8bcbf3e6f5aceba8a7cd">Radkersburg</placeName>, <placeName ref="#place_31f6df29d0aed17e65f5badf000e44b6">Straden</placeName>,
-                        <placeName ref="#place_72e29c8017c0cd07fab34a2a3d7c7349">Riegersburg</placeName> 24.300 Menschen. Ich sprach auf dieser
+                        <rs type="place" subtype="place" ref="#place_fd3ebb9f41f9f036dba5791051bc5749">Marburg</rs>, <rs type="place" subtype="place" ref="#place_6247022a2050c0da56a01dbaab1400f9">Pettau</rs>,
+                        <rs type="place" subtype="place" ref="#place_d3d383878385b4352a47d900c1281b2c">Friedau</rs>, <rs type="place" subtype="place" ref="#place_49362f6a839b8e98e709268b1cb2de5e">Luttenberg</rs>,
+                        <rs type="place" subtype="place" ref="#place_31b52551447a8bcbf3e6f5aceba8a7cd">Radkersburg</rs>, <rs type="place" subtype="place" ref="#place_31f6df29d0aed17e65f5badf000e44b6">Straden</rs>,
+                        <rs type="place" subtype="place" ref="#place_72e29c8017c0cd07fab34a2a3d7c7349">Riegersburg</rs> 24.300 Menschen. Ich sprach auf dieser
                     ziemlich weiten Reise eine große Anzahl von Geistlichen und viele Staatsbeamte
                     und Gemeindevorsteher, und überall lobten Beamte und Geistliche einander
                     wechselseitig und rühmten die Unterstützung, welche sie voneinander empfingen.
@@ -147,17 +146,17 @@
                     Bezirken durchaus gut ausgefallen; eine einzige, kleine Gemeinde machte eine
                     alberne Wahl, welche jedoch für ungiltig erklärt wurde. Die neue Ordnung der
                     Dinge findet man freilich im Durchschnitte noch sehr unbequem. Am 20. früh
-                    morgens reise ich nach <region ref="#place_d710cc11225ff6c74bb2b4dc34fe8473">Obersteiermark</region>, wo ich bis zum 30. zu
+                    morgens reise ich nach <rs type="place" subtype="region" ref="#place_d710cc11225ff6c74bb2b4dc34fe8473">Obersteiermark</rs>, wo ich bis zum 30. zu
                     bleiben gedenke. Ich hoffe auch dort Erfreuliches zu hören und zu sehen.
-                    Übrigens hatten die Wahlen in fast ganz <region ref="#place_b5e9e75db151e1fff33838003e5fa591">Steiermark</region> ein
+                    Übrigens hatten die Wahlen in fast ganz <rs type="place" subtype="region" ref="#place_b5e9e75db151e1fff33838003e5fa591">Steiermark</rs> ein
                     erwünschtes Ergebnis; doch zeigten die Rongeaner wieder, was eine sehr kleine
                     Minderzahl durch Zusammenhalten, Thätigkeit und Keckheit vermag. Zu Gratz
-                        [<placeName ref="#place_ca7668a05b2a3dbf29ca3d768c0febe8">Graz</placeName>] hätten sie beinahe einen ihrer Anführer, den
-                    berüchtigten <persName key="horstig-moriz-franz">Horstig</persName>,
+                        [<rs type="place" subtype="place" ref="#place_ca7668a05b2a3dbf29ca3d768c0febe8">Graz</rs>] hätten sie beinahe einen ihrer Anführer, den
+                    berüchtigten <rs type="person" ref="horstig-moriz-franz" key="horstig-moriz-franz">Horstig</rs>,
                     durchgesetzt und brachten wirklich ein paar Radicale in den Gemeinderath. Zu
-                        <placeName ref="#place_31670c790c5c69e762e2c3c765112845">Eisbach</placeName>, welches nahe bei <persName key="horstig-moriz-franz">Horstigs</persName> Landgute Plankenwarth liegt,
+                        <rs type="place" subtype="place" ref="#place_31670c790c5c69e762e2c3c765112845">Eisbach</rs>, welches nahe bei <rs type="person" ref="horstig-moriz-franz" key="horstig-moriz-franz">Horstigs</rs> Landgute Plankenwarth liegt,
                     wurden fast durchgängig Leute von der schlechtesten Gesinnung gewählt.<lb/>Die
-                    Katzenmusiken zu <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> gefallen mir nicht; ich besorge,
+                    Katzenmusiken zu <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> gefallen mir nicht; ich besorge,
                     daß sie dem Ansehen der gesetzmäßigen Gewalt eine tiefe Wunde geschlagen haben.
                     Wenn der Pöbel während des Belagerungszustandes stundenlang ungestraft toben
                     darf, so muß das Selbstvertrauen der Wähler sich steigern.<lb/>Entschuldigen
@@ -166,7 +165,7 @@
                     und Alles, was den Einklang stören könnte, ferne zu halten. Sobald ich nöthig
                     bin, werde ich mich wieder zu Wien einstellen. Es wäre allerdings
                     wünschenswerth, daß die Ehefrage bald so weit gebracht würde, daß die
-                    Verhandlungen mit <placeName ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</placeName> eingeleitet werden
+                    Verhandlungen mit <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs> eingeleitet werden
                     könnten.<lb/>Übrigens erneuere ich den Ausdruck der vollkommensten Verehrung und
                     Ergebenheit, womit ich verharre,</p>
                 <p>Euer Excellenz</p>

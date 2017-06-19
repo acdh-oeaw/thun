@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Konzept eines Briefes von <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> ohne Adressat<lb/>
+                <title>Konzept eines Briefes von <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> ohne Adressat<lb/>
                     <date when="1849">o. O., o. D.
                         [1849]</date>
                 </title>
@@ -41,7 +40,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -83,7 +82,7 @@
                     überdies wenigstens der dringenden Noth gleich abhelfen, während die Regierung
                     es nicht kann, ehe sie durch Gesetze dazu ermächtigt ist. Was sie einmal gibt,
                     das muß sie alle Jahre wieder geben. Ja die österreichische Monarchie gibt es.
-                        <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> abgerechnet würden mir noch die nöthigen Auskünfte
+                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> abgerechnet würden mir noch die nöthigen Auskünfte
                     fehlen – beiläufig ... Schullehrer. Soll jedem von ihnen vom Staate nur 50 fl
                     gegeben werden, so macht das jährlich ... Es bedarf wohl keiner Erklärung, daß
                     eine solche bleibende Vermehrung der Ausgaben des Staates nicht stattfinden

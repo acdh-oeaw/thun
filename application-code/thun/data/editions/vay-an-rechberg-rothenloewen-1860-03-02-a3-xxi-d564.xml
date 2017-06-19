@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="vay-nikolaus" role="sender:beamter">Nikolaus Vay</persName> an
-                        <persName key="rechberg-rothenloewen-bernhard" role="recipient">Bernhard
-                        Rechberg-Rothenlöwen</persName>
+                    <rs type="person" ref="vay-nikolaus" key="vay-nikolaus" role="sender:beamter">Nikolaus Vay</rs> an
+                        <rs type="person" ref="rechberg-rothenloewen-bernhard" key="rechberg-rothenloewen-bernhard" role="recipient">Bernhard
+                        Rechberg-Rothenlöwen</rs>
                     <lb/>
-                    <placeName ref="#place_c6f21d4402257ede81a2ee894fd89d6f">Miskolc</placeName>, <date when="1860-03-02">2. März 1860</date>
+                    <rs type="place" subtype="place" ref="#place_c6f21d4402257ede81a2ee894fd89d6f">Miskolc</rs>, <date when="1860-03-02">2. März 1860</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -55,7 +54,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -72,15 +71,15 @@
                 <p>Erst heute bin ich in der Lage von der mir gnädigst ertheilten Erlaubnis Gebrauch
                     [zu] machen und Eurer Excellenz über den Stand der protestantischen
                     Angelegenheiten einiges mittheilen zu können.<lb/>Als ich gleich nach den in
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> gepflogenen Besprechungen nach
-                        <placeName ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</placeName> kam, fand ich dort bereits eine zahlreiche
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> gepflogenen Besprechungen nach
+                        <rs type="place" subtype="place" ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</rs> kam, fand ich dort bereits eine zahlreiche
                     meiner Ankunft harrende Konferenz versammelt, deren vielfachen Interpellationen
                     ich Stand halten mußte; ich traf in der Versammlung eine so gereizte Stimmung
                     an, daß ich die unter dem hohen Vorsitze Eurer Excellenz angeregte Idee wegen
                     einer abzuhaltenden Generalkonferenz und einer von dort aus zu erlassenden, eine
                     neue Eintheilung der Superintendenzen anstrebenden Petition, kaum gesprächsweise
-                    vorzubringen für rathsam hielt.<lb/>Nicht so in <placeName key="debrezin" ref="#place_ae8effcf53078ebe204e349a55546ca8">Debreczin</placeName> und hier in Miskolcz
-                    [<placeName ref="#place_c6f21d4402257ede81a2ee894fd89d6f">Miskolc</placeName>], wo ich in sehr zahlreichen wiederholten
+                    vorzubringen für rathsam hielt.<lb/>Nicht so in <rs type="place" subtype="place" key="debrezin" ref="#place_ae8effcf53078ebe204e349a55546ca8">Debreczin</rs> und hier in Miskolcz
+                    [<rs type="place" subtype="place" ref="#place_c6f21d4402257ede81a2ee894fd89d6f">Miskolc</rs>], wo ich in sehr zahlreichen wiederholten
                     Zusammenkünften kürzlich erst über diese Frage berathen ließ.<lb/>Es ergaben
                     sich jedoch bei Erörterung des gedachten Vorschlages zwei wesentliche
                     Hindernisse; vor allem – da wir gegenwärtig keinen einzigen Oberkurator haben –
@@ -94,19 +93,19 @@
                     wünschenswerthe Vereinbarung heraus zu kommen sein dürfte.<lb/>Auch sprach sich
                     beinahe einstimmig die Hoffnung aus, daß auf den Fall, wenn die in nächster
                     Zukunft noch abzuhalten beabsichtigten Superintendentialversammlungen nicht
-                    gewaltsam gestört werden, in der <placeName key="miskolc" ref="#place_af35ec026fddf9c8c4ecda002507bd0e">Miskolcz’er</placeName> man mich zum Oberkurator erwählen würde, wo zu
+                    gewaltsam gestört werden, in der <rs type="place" subtype="place" key="miskolc" ref="#place_af35ec026fddf9c8c4ecda002507bd0e">Miskolcz’er</rs> man mich zum Oberkurator erwählen würde, wo zu
                     gleich, wie auch in den anderen dreien, nebstbei nicht ohne Erfolg man dahin
                     würde wirken können, daß jede derselben eine unter meinem Präsidium abzuhaltende
                     Generalkonferenz ohne Verzug mit vier Deputirten beschickte; so zwar, daß diese
                     Versammlung dann als Ausfluß sämmtlicher reformirten Gemeinden ohne Rücksicht
                     auf deren gegenwärtige Eintheilung könnte betrachtet werden; diese Konferenz
-                    würde dann in <placeName key="debrezin" ref="#place_ae8effcf53078ebe204e349a55546ca8">Debreczin</placeName> zusammentreten,
+                    würde dann in <rs type="place" subtype="place" key="debrezin" ref="#place_ae8effcf53078ebe204e349a55546ca8">Debreczin</rs> zusammentreten,
                     eine den Umständen angemessene alleruntertänigste Petition verfassen, solche
                     nach vorläufig eingeholter Erlaubnis durch einige ihrer Mitglieder an die Stufen
-                    des allerhöchsten Thrones entsenden und auch die Intermediation <persName key="albrecht-erzherzog">Seiner k.k. Hoheit des durchlauchtigsten Herrn
-                        Erzherzog Landesgouverneurs</persName> ehrfurchtsvoll erbitten; was aber die
+                    des allerhöchsten Thrones entsenden und auch die Intermediation <rs type="person" ref="albrecht-erzherzog" key="albrecht-erzherzog">Seiner k.k. Hoheit des durchlauchtigsten Herrn
+                        Erzherzog Landesgouverneurs</rs> ehrfurchtsvoll erbitten; was aber die
                     Hauptsache ist, würde diese Generalkonferenz seitens der reformirten
-                    Gesammtkirche ermächtiget sein, auf etwaigen Wunsch oder Befehl <persName key="franz-joseph">Seiner k.k. Apostolischen Majestät</persName> zur
+                    Gesammtkirche ermächtiget sein, auf etwaigen Wunsch oder Befehl <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner k.k. Apostolischen Majestät</rs> zur
                     erwünschten Ausgleichung der leider im Zunehmen begriffenen Mißhelligkeiten auf
                     Grundlage der bestehenden Pacificationen und des Grundgesetzes von 1790 auch
                     ihrerseits das Nöthige beizutragen.<lb/>Wie erwähnt, war der Wunsch einer
@@ -152,10 +151,10 @@
                         gehalten werden. Nachdem aber solche Convente in Folge bedauerlicher Akte
                         der Auflehnung gegen das allerhöchste Patent verboten werden mußten, so
                         werden Euer ~ nicht verkennen, daß deren nochmalige Abhaltung nur zulässig
-                        sein könnte, wenn <persName key="franz-joseph">Seine k.k. apostolische
-                            Majestät</persName> Sich allergnädigst bestimmt finden sollten, hierzu
+                        sein könnte, wenn <rs type="person" ref="franz-joseph" key="franz-joseph">Seine k.k. apostolische
+                            Majestät</rs> Sich allergnädigst bestimmt finden sollten, hierzu
                         eine spezielle Erlaubnis zu ertheilen, was offenbar nur in Erledigung einer
-                        unter Anerkennung jenes allerhöchsten Patentes an <persName key="franz-joseph">Seine Majestät</persName> gestellten
+                        unter Anerkennung jenes allerhöchsten Patentes an <rs type="person" ref="franz-joseph" key="franz-joseph">Seine Majestät</rs> gestellten
                         allerunterthänigsten Bitte denkbar wäre. Für ein nur auf dieses Petitum sich
                         beschränkendes Gesuch können bloße Formfragen über das Mandat der
                         Bittsteller wohl von keinem Belange sein. Jedenfalls dürfte für dessen
@@ -174,7 +173,7 @@
                         sollten.<lb/>Was die am Schlusse Ihres geschätzten Schreibens erwähnten
                         aufregenden Gerüchte anbelangt, so gehören dieselben allerdings nur in die
                         Reihe jener Unwahrheiten, mit denen man die Gemüther der protestantischen
-                        Unterthanen <persName key="franz-joseph">Seiner Majestät</persName> zu
+                        Unterthanen <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät</rs> zu
                         vergiften in sträflicher Weise bemüht ist.</p>
                     <p>Wien, 16. März 1860</p>
                     <p>Gf. Rechberg</p>

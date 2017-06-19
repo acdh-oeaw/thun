@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="mamula-lazarus" role="sender:beamter">Lazarus
-                        Mamula</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="mamula-lazarus" key="mamula-lazarus" role="sender:beamter">Lazarus
+                        Mamula</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_f8c2475361c649af0f3bf7c2e2aa5160">Zara</placeName>, <date when="1856-07-31">31. Juli 1856</date>
+                    <rs type="place" subtype="place" ref="#place_f8c2475361c649af0f3bf7c2e2aa5160">Zara</rs>, <date when="1856-07-31">31. Juli 1856</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -30,7 +29,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -41,7 +40,7 @@
                 <p>Hochgeborner Graf!</p>
                 <p>Es kann der hiesigen Provinz nur wahrhaft schmeicheln, daß einer ihrer jungen
                     Söhne so viel Gnade vor seinem höchsten Chef gefunden, und dessen Zufriedenheit
-                    zu erwerben verstanden hat. Ich bin jetzt mehr als überzeugt, daß <persName key="alesani-hieronymus">Alesani</persName> sobald als nur immer möglich
+                    zu erwerben verstanden hat. Ich bin jetzt mehr als überzeugt, daß <rs type="person" ref="alesani-hieronymus" key="alesani-hieronymus">Alesani</rs> sobald als nur immer möglich
                     sein wird – sobald nämlich seine dortige dringende Verwendung es nur gestattet –
                     seiner neuen Bestimmung nachzukommen nicht versäumen wolle. Was nur immer unser
                     Bedürfniß hier dringend verlange, so gereicht es mir doch zum Vergnügen, Euere

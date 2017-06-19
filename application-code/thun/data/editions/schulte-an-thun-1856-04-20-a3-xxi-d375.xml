@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="schulte-friedrich" role="sender:gelehrter">Johann Friedrich
-                        Schulte</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="schulte-friedrich" key="schulte-friedrich" role="sender:gelehrter">Johann Friedrich
+                        Schulte</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, <date when="1856-04-20">20. April 1856</date>
+                    <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1856-04-20">20. April 1856</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -52,7 +51,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -71,22 +70,22 @@
                         Monats<note xml:id="note_1">Dieser Brief ist im Nachlass von Johann
                         Friedrich Schulte erhalten. Bayrische Staatsbibliothek,
                         Handschriftenabteilung. Schulteana 23,14.</note> schreibt mir der Geheime
-                    Regierungsrath und Prof. der klassischen Philologie aus <orgName key="universitaet-bonn">Bonn</orgName>, <persName key="ritschl-friedrich-wilhelm">Dr. Ritschl</persName>, von
-                        <placeName ref="#place_9974545279455eb03bf50b1b1b4d7fea">Wiesbaden</placeName> also:</p>
+                    Regierungsrath und Prof. der klassischen Philologie aus <orgName key="universitaet-bonn">Bonn</orgName>, <rs type="person" ref="ritschl-friedrich-wilhelm" key="ritschl-friedrich-wilhelm">Dr. Ritschl</rs>, von
+                        <rs type="place" subtype="place" ref="#place_9974545279455eb03bf50b1b1b4d7fea">Wiesbaden</rs> also:</p>
                 <p>"Während ich hier gerade noch die letzten Ferientage verlebe, werde ich durch die
-                    Zeitungsnachricht von dem unerwarteten Tode des <persName key="grysar-karl">Prof. Grysar</persName> überrascht und dadurch lebhaft in Gedanken
+                    Zeitungsnachricht von dem unerwarteten Tode des <rs type="person" ref="grysar-karl" key="grysar-karl">Prof. Grysar</rs> überrascht und dadurch lebhaft in Gedanken
                     zurückversetzt in die mancherlei Gespräche, die wir in
-                        <placeName ref="#place_84bb7a44667327c91eade4b980a38a6f">Karlsbad</placeName> führten und an die bei diesem Anlaß wieder
+                        <rs type="place" subtype="place" ref="#place_84bb7a44667327c91eade4b980a38a6f">Karlsbad</rs> führten und an die bei diesem Anlaß wieder
                     anzuknüpfen Sie mir wohl gestatten. Auf wen wird man sein Auge werfen, um einen
                     so schönen Wirkungskreis würdig, und ich darf hinzusetzen mit noch mehr Aussicht
                     auf eingreifenden Erfolg, auszufüllen? Die Wahl unter den gewiegten Philologen
                     katholischer Confession ist nicht groß. Will man einen älteren Mann von schon
                     fertigem Rufe, so ist dagegen nichts zu sagen; in diesem Falle wüßte ich kaum
-                    einen Dritten als entweder <persName key="halm-karl-felix">Halm</persName> in
-                        <placeName ref="#place_d0a6343a081a7335baa965ce4fd0845c">München</placeName> oder <persName key="urlichs-karl-ludwig">Urlichs</persName> in <orgName key="universitaet-wuerzburg">Würzburg</orgName>, – wenn sie gehen, was mir sehr zweifelhaft ist. Wollen
-                    Sie aber einen genannt haben, der gewiß geht und an dem <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</country> nach meiner innigsten und
+                    einen Dritten als entweder <rs type="person" ref="halm-karl-felix" key="halm-karl-felix">Halm</rs> in
+                        <rs type="place" subtype="place" ref="#place_d0a6343a081a7335baa965ce4fd0845c">München</rs> oder <rs type="person" ref="urlichs-karl-ludwig" key="urlichs-karl-ludwig">Urlichs</rs> in <orgName key="universitaet-wuerzburg">Würzburg</orgName>, – wenn sie gehen, was mir sehr zweifelhaft ist. Wollen
+                    Sie aber einen genannt haben, der gewiß geht und an dem <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> nach meiner innigsten und
                     gewissenhaftesten Überzeugung eine ganz vorzügliche Erwerbung machen würde, so
-                    ist das der <persName key="vahlen-johannes">Dr. Vahlen</persName> (Privatdozent)
+                    ist das der <rs type="person" ref="vahlen-johannes" key="vahlen-johannes">Dr. Vahlen</rs> (Privatdozent)
                     in <orgName key="universitaet-bonn">Bonn</orgName>, einer der 3 bis 4
                     ausgezeichnetesten Philologen, die ich seit zwei Decennien unter meinen Augen
                     habe heranwachsen sehen; ein trefflicher Docent; in der litterarischen Welt
@@ -102,23 +101,23 @@
                     mich das nicht minder als um des jungen Mannes willen, auch um der
                     philologischen Studien willen von Herzen freuen. Wo nicht, so habe ich hiermit
                     gethan, was zu unterlassen ich für ein Unrecht gehalten hätte und tröste mich
-                    mit meiner guten Absicht."<lb/>Im weiteren Verlaufe lobt <persName key="ritschl-friedrich-wilhelm">Prof. Ritschl</persName>
-                    <persName key="pauly-franz">Dr. Pauly</persName> und <persName key="goebel-eduard">Goebel</persName> ausnehmend und fügt hinzu, daß noch
+                    mit meiner guten Absicht."<lb/>Im weiteren Verlaufe lobt <rs type="person" ref="ritschl-friedrich-wilhelm" key="ritschl-friedrich-wilhelm">Prof. Ritschl</rs>
+                    <rs type="person" ref="pauly-franz" key="pauly-franz">Dr. Pauly</rs> und <rs type="person" ref="goebel-eduard" key="goebel-eduard">Goebel</rs> ausnehmend und fügt hinzu, daß noch
                     gleich gute Kräfte in der Rheinprovinz sein [sic!].</p>
                 <p>Euer Excellenz werden gewiß bei diesem Inhalte des Briefes, und weil ich
-                    überzeugt bin, daß man mich in <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country> anfeindete, wollte
+                    überzeugt bin, daß man mich in <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> anfeindete, wollte
                     ich keinen Gebrauch davon machen, die Mittheilung gnädigst entschuldigen. Auch
-                    ich habe von <persName key="vahlen-johannes">Dr. Vahlen</persName>
+                    ich habe von <rs type="person" ref="vahlen-johannes" key="vahlen-johannes">Dr. Vahlen</rs>
                     wissenschaftlich nur Gutes gehört, kenne ihn persönlich nicht, da er erst nach
                     mir sich in <orgName key="universitaet-bonn">Bonn</orgName> habilitirt hat, weiß
                     aber, daß er Katholik ist und habe im Übrigen nichts Nachtheiliges über
-                    denselben vernommen. Daß <persName key="pauly-franz">Dr. Pauly</persName> auch
-                    für den Katheder ebenso geeignet ist, glaubt gewiß auch <persName key="ritschl-friedrich-wilhelm">Prof. Ritschl</persName>. Zu den zwei
-                    älteren ließe sich übrigens mit vollem Rechte noch <persName key="winiewski-franz">Prof. Dr. Winiewski</persName> in
-                        <placeName ref="#place_9bb43a4ce6b060e4766588c1d88fcb1b">Münster</placeName>, einer der talentvollsten Schüler von
-                        <persName key="boeckh-august">Böckh</persName>, beifügen; der, wie ich von
+                    denselben vernommen. Daß <rs type="person" ref="pauly-franz" key="pauly-franz">Dr. Pauly</rs> auch
+                    für den Katheder ebenso geeignet ist, glaubt gewiß auch <rs type="person" ref="ritschl-friedrich-wilhelm" key="ritschl-friedrich-wilhelm">Prof. Ritschl</rs>. Zu den zwei
+                    älteren ließe sich übrigens mit vollem Rechte noch <rs type="person" ref="winiewski-franz" key="winiewski-franz">Prof. Dr. Winiewski</rs> in
+                        <rs type="place" subtype="place" ref="#place_9bb43a4ce6b060e4766588c1d88fcb1b">Münster</rs>, einer der talentvollsten Schüler von
+                        <rs type="person" ref="boeckh-august" key="boeckh-august">Böckh</rs>, beifügen; der, wie ich von
                     Vielen weiß, auch ein sehr guter Docent ist, eine Eigenschaft, welche dem sonst
-                    schätzbaren <persName key="ritter-franz">Prof. Ritter</persName> in <orgName key="universitaet-bonn">Bonn</orgName> gänzlich abgeht.<lb/>Euer Excellenz
+                    schätzbaren <rs type="person" ref="ritter-franz" key="ritter-franz">Prof. Ritter</rs> in <orgName key="universitaet-bonn">Bonn</orgName> gänzlich abgeht.<lb/>Euer Excellenz
                     erlaube ich mir schließlich noch die ganz ergebenste Mittheilung, daß ich zwar
                     noch mehrere sehr ausgezeichnete Leute aus der Rheinprovinz für Gymnasien
                     empfehlen könnte und glaube, daß Euer Excellenz vielleicht von anderer Seite
@@ -129,7 +128,7 @@
                     eine Weise die Bewerbung eines Verdächtigen erfahren, so gebe ich Euer Excellenz
                     mein Wort darauf, dieselben sofort aufmerksam zu machen.<lb/>Geruhen Euer
                     Excellenz den Ausdruck tiefster Hochachtung und Dankbarkeit entgegenzunehmen und
-                    gestatten gnädigst, daß ich den <persName key="buhl-eduard">Dr. Buhl</persName>
+                    gestatten gnädigst, daß ich den <rs type="person" ref="buhl-eduard" key="buhl-eduard">Dr. Buhl</rs>
                     Euer Excellenz Gnade bestens empfehle, da derselbe ein ernstes Streben bekundet
                     und für eine kleine Universität meines Erachtens wohl eine Professur ausfüllen
                     könnte.</p>

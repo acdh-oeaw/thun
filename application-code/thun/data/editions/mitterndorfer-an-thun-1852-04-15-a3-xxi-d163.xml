@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="mitterndorfer-thomas" role="sender:kleriker">Thomas
-                        Mitterndorfer</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="mitterndorfer-thomas" key="mitterndorfer-thomas" role="sender:kleriker">Thomas
+                        Mitterndorfer</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName key="kremsmuenster" ref="#place_79697b6604f72ca16d8cb781da0b2a26">Kremsmünster</placeName>, <date when="1852-04-15">15. April
+                    <rs type="place" subtype="place" key="kremsmuenster" ref="#place_79697b6604f72ca16d8cb781da0b2a26">Kremsmünster</rs>, <date when="1852-04-15">15. April
                     1852</date>
                 </title>
             </titleStmt>
@@ -74,7 +73,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -98,7 +97,7 @@
                     Absicht veranlaßt und die Versendung an alle Benediktinerklöster gemacht habe,
                     um dadurch meine Ordensbrüder zu bestimmen, die Schlafmütze abzunehmen und die
                     Anforderungen der Zeit zu beachten.<lb/>In Erfüllung des zweiten von Euer
-                    Excellenz ausgesprochenen Wunsches bin ich so frei, das von <persName key="hagn-theoderich">Pater Theodorich</persName> an mich erlassene
+                    Excellenz ausgesprochenen Wunsches bin ich so frei, das von <rs type="person" ref="hagn-theoderich" key="hagn-theoderich">Pater Theodorich</rs> an mich erlassene
                     Schreiben zur geneigtesten Einsicht anzuschließen<note xml:id="note_4">Vgl. <ref target="#D163_1">Theodorich Hagn an Thomas Mitterndorfer. Kremsmünster,
                             15. April 1852.</ref>
                     </note>, in welchem er seine allerdings schroffe
@@ -108,7 +107,7 @@
                     beruft, so lege ich die beiden Blätter in der Absicht bei, um Euer Excellenz die
                     Mühe des Nachschlagens zu ersparen und fühle mich verpflichtet offenherzig zu
                     bekennen, daß auch der Verfasser dieses Aufsatzes ein Priester meines Stiftes
-                    ist. <persName key="felloecker-sigmund">Pater Sigmund Fellöcker</persName>.
+                    ist. <rs type="person" ref="felloecker-sigmund" key="felloecker-sigmund">Pater Sigmund Fellöcker</rs>.
                     Beide sind sehr kirchlich gesinnte und vielseitig gebildete junge Männer. Dieses
                     möge Euerer Excellenz bürgen, daß ihren etwas feurigen, übrigens aber frommen
                     Wünschen keineswegs anmaßende Tonangeberei, sondern nur Beförderung der guten
@@ -117,7 +116,7 @@
                     Gott segne und lohne Euere Excellenz dafür. Mit der Zeit wird die betretene Bahn
                     noch mehr sich ebnen und durch Hebung mancher Hemmnisse das Wirken noch
                     umfassender und gedeihlicher werden!<lb/>Noch erlaube ich mir Euer Excellenz
-                    ehrfurchtsvoll an mein Gesuch wegen Abnahme der <placeName key="linz" ref="#place_907e6aad95b11593946e28f6e29860aa">Linzer</placeName> Bibliothek zu erinnern und um hochgnädige Bedachtnahme
+                    ehrfurchtsvoll an mein Gesuch wegen Abnahme der <rs type="place" subtype="place" key="linz" ref="#place_907e6aad95b11593946e28f6e29860aa">Linzer</rs> Bibliothek zu erinnern und um hochgnädige Bedachtnahme
                     unterthänigst umso mehr zu bitten, als ich das ansehnliche Haus dem Staate als
                     Eigenthum überlasse und an der hiesigen Lehranstalt, Convikte und Sternwarte 16
                     Individuen beschäftigt sind, die vom Stifte allein besoldet und verpflegt
@@ -138,7 +137,7 @@
                         nur die Anwendung auf einen speziellen Fall vorliegt, weil ferner die in dem
                         beiliegenden Aufsatze der Wiener Kirchenzeitung „Regelung des
                         Gymnasialwesens“ ausgesprochene Anschauung um soviel mehr auch die meinige
-                        ist, als ich dem mir befreundeten <persName key="felloecker-sigmund">Verfasser</persName> bei der Ausarbeitung desselben zur Seite stand,
+                        ist, als ich dem mir befreundeten <rs type="person" ref="felloecker-sigmund" key="felloecker-sigmund">Verfasser</rs> bei der Ausarbeitung desselben zur Seite stand,
                         weshalb ich auch zur Vermeidung von Wiederholungen darauf verweise und weil
                         ich endlich ohnehin auf die von Euer Gnaden über dieselben Stellen bei
                         Durchlesung des Manuscriptes schon geäußerten Bedenken unumwunden meine
@@ -159,7 +158,7 @@
                         oder man hat <hi rend="ul">ihre</hi> Schulen und <hi rend="ul">ihre</hi>
                         lehrenden Diener zu Staatsorganen umgemodelt. Die Früchte sind bereits reif
                         geworden, und doch gelten diese Grundsätze mit wenigen Ausnahmen fast noch
-                        in ganz <country ref="#place_5c4b925bf527c4f8581815a35a10d658">Europa</country>!!!<lb/>Gerade ein volles Seculum ist
+                        in ganz <rs type="place" subtype="country" ref="#place_5c4b925bf527c4f8581815a35a10d658">Europa</rs>!!!<lb/>Gerade ein volles Seculum ist
                         verfloßen, daß auch in unserem Stifte, wo gerade damahls (1752) die
                         Ritteracademie am schönsten blüthe, das erste Regierungsdecret eintraf mit
                         Anordnungen in Betreff der theologischen Abtheilung; diesem Decrete folgten
@@ -173,8 +172,8 @@
                         vielfacher Rücksicht nothwendig emporwachsenden Übelstände brauche ich wohl
                         nicht weiter zu erörtern, da sie zu sehr in die Augen springen, als daß sie
                         übersehen oder zu gering angeschlagen werden könnten. Euer Gnaden haben sie
-                        auch <persName key="thun-hohenstein-leo">Seiner Excellenz dem Herrn
-                            Unterrichtsminister</persName> zum Theile schon dargelegt: die möglichen
+                        auch <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Seiner Excellenz dem Herrn
+                            Unterrichtsminister</rs> zum Theile schon dargelegt: die möglichen
                         traurigen Folgen solcher Verhältnisse und bezüglich einer Bitte um Abhilfe
                         ein geneigtes Ohr gefunden; ich fürchte jedoch sehr, das Heilmittel dürfte
                         nur palliativ oder ganz werthlos seyn. Ich gestehe es nämlich offen, daß ich
@@ -183,15 +182,15 @@
                         Stiftsvorstände an der von seinen Capitularen besetzten Lehranstalt, etwa
                         durch irgendein schmeichelhaftes Decret, die Direktion wieder überkommen und
                         so nur der Zustand vor 1848, aber nicht der vor 1770 hergestellt wird. In
-                            <country ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</country> wurden seit dem Gesetze vom 18. März 1850
+                            <rs type="place" subtype="country" ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</rs> wurden seit dem Gesetze vom 18. März 1850
                         bereits mehr als 150 freie Collegien durch den opferfreudigen Sinn der
-                        Katholiken gegründet. <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> dürfte
+                        Katholiken gegründet. <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> dürfte
                         aber nicht einmal Opfer bringen, es dürfte nur seine Klosterschulen
                         freisprechen und entfesseln unter Zuerkennung der Rechte öffentlicher
-                        Anstalten. Wenn die Regierungen von <country ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</country> und
-                            <country ref="#place_361e734b7e9d674efb5e3ac441e2c149">Belgien</country> von jenen freien Collegien nichts fürchten,
+                        Anstalten. Wenn die Regierungen von <rs type="place" subtype="country" ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</rs> und
+                            <rs type="place" subtype="country" ref="#place_361e734b7e9d674efb5e3ac441e2c149">Belgien</rs> von jenen freien Collegien nichts fürchten,
                         ja vielmehr mit Freude als eine ihrer Früchte das Wiederaufleben des
-                        religiösen Sinns sehen, sollte <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country>, das altcatholische, sich dagegen sträuben freie
+                        religiösen Sinns sehen, sollte <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>, das altcatholische, sich dagegen sträuben freie
                         kirchliche Unterrichtsanstalten zu besitzen und etwa ihm allein Gefahr
                         drohen, wenn es deren Zeugnissen die Rechte öffentlicher Geltung zuerkennt?
                         Nur allein die Kirche darf in solchen Schulen organisiren und leiten, –
@@ -210,7 +209,7 @@
                         bin, der den Organisationsentwurf zu zergliedern sich unterstehen dürfte.
                         Nur möchte ich aufmerksam machen, wie tiefgebildete Männer über sein
                         Vorbild, den preußischen Studienplan, aus Anschauung über seine Früchte
-                        urtheilen – ich erinnere hier nur an die Rede des Abgeordneten <persName key="reichensperger-august">Reichensperger</persName> in der preußischen
+                        urtheilen – ich erinnere hier nur an die Rede des Abgeordneten <rs type="person" ref="reichensperger-august" key="reichensperger-august">Reichensperger</rs> in der preußischen
                         Kammer (Vide: Zugabe zur deutschen Volkshalle 1852, Nr. 93) – daß man
                         Professoren von gereifter Erfahrung offen erklären hört, es gränze ans
                         Unglaubliche, wie weit die Schüler in den classischen Sprachen zurückkämen,
@@ -220,22 +219,22 @@
                         Mir kommt auch nicht das Recht zu, die vielfältig laut gewordenen Klagen
                         über Berufung protestantischer Professoren oder unchristlicher Philosophen,
                         z. B. Herbartianer, auf Lehrkanzeln des <hi rend="ul">catholischen</hi>
-                        <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</country> zu wiederholen um soviel
-                        weniger, als von der anerkannt kirchlichen Gesinnung <persName key="thun-hohenstein-leo">Seiner Excellenz des Herrn
-                            Unterrichtsministers</persName> vorauszusetzen ist, daß nur der Drang
+                        <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> zu wiederholen um soviel
+                        weniger, als von der anerkannt kirchlichen Gesinnung <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Seiner Excellenz des Herrn
+                            Unterrichtsministers</rs> vorauszusetzen ist, daß nur der Drang
                         der Umstände daran die Schuld trage und da der Kirche dafür durch so viele
                         anderweitige treffliche Maßregeln zum Theile wieder Ersatz geworden ist;
-                        aber gedrungen fühle ich mich es hervorzuheben, daß <persName key="thun-hohenstein-leo">Seine Excellenz</persName> eben nur eine
+                        aber gedrungen fühle ich mich es hervorzuheben, daß <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Seine Excellenz</rs> eben nur eine
                         Persönlichkeit sei, die früher oder später eine andere ersetzen wird, gewiß
                         nicht mehr mit denselben ausgezeichneten, der Kirche so viele Garantien
                         biethenden Eigenschaften. Was wird aber dann aus den Klosterschulen werden,
                         wie werden die Ordensvorstände sich rathen und helfen können, wenn einmal
                         die Decrete ein ganz anderer Geist durchweht als gegenwärtig?! Unzweifelhaft
-                        würde sich <persName key="thun-hohenstein-leo">Seine Excellenz der Herr
-                            Unterrichtsminister</persName> das größte Verdienst für Mit- und
+                        würde sich <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Seine Excellenz der Herr
+                            Unterrichtsminister</rs> das größte Verdienst für Mit- und
                         Nachwelt dadurch erwerben, wenn durch seine Mitwirkung die Kirche freie
                         Schulen bekäme, weil durch gar nichts anderes nachhaltiger für die religiöse
-                        Neugestaltung <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</country> gesorgt
+                        Neugestaltung <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> gesorgt
                         würde. Andrerseits haben aber auch alle kirchlichen Vorstände, die
                         Hochwürdigsten Herrn Bischöfe und Äbte, eine in ihren Folgen gar nicht zu
                         ermessende Verantwortung, wenn sie ihre Pflicht verabsäumen und ohne alle

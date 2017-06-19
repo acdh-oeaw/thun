@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -36,7 +35,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -47,7 +46,7 @@
                     <term>Ungarn</term>
                 </index>
                 <p>
-                    <persName key="schoenbach-joseph">Schönbach</persName>
+                    <rs type="person" ref="schoenbach-joseph" key="schoenbach-joseph">Schönbach</rs>
                     <lb/>Der Antrag ist
                     sogleich nur zu meinem Gebrauch abzuschreiben, halbbrüchig, so wie es von mir
                     mit Bleistift korrigiert ist, ohne die Bleistiftbemerkungen, die hie und da auf
@@ -55,10 +54,10 @@
                         beigeschlossenen Blatt.</note>
                 </p>
                 <p>
-                    <persName key="franz-joseph">Wir</persName> usw.. Nachdem die von den
+                    <rs type="person" ref="franz-joseph" key="franz-joseph">Wir</rs> usw.. Nachdem die von den
                     Evangelischen beider Bekenntnisse in Unserem Königreiche
-                        <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country> aus ihrem zu <placeName key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</placeName> und <placeName ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</placeName> im September und October
-                    1791 gehaltenen beiden Generalsynoden Unserem ... dem <persName key="leopold-II">Kaiser Leopold II.</persName> zur Allerhöchsten Schlußfassung unterlegten
+                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> aus ihrem zu <rs type="place" subtype="place" key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</rs> und <rs type="place" subtype="place" ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</rs> im September und October
+                    1791 gehaltenen beiden Generalsynoden Unserem ... dem <rs type="person" ref="leopold-II" key="leopold-II">Kaiser Leopold II.</rs> zur Allerhöchsten Schlußfassung unterlegten
                     kirchlichen Gesetzvorschläge betreffend die kirchliche Vertretung und Verwaltung
                     in der stufenweisen Gliederung der Ortsgemeinden, der Seniorate, der einzelnen
                     Superintendenzen und die betreffende Gesammtheit sämtlicher Superintendenzen des
@@ -74,9 +73,9 @@
                     Districtualconventen beider Confessionen zur unbedingt freien Meinungsäußerung
                     mitgetheilt worden ist, nachdem sowohl die Äußerungen der acht Superintendenzen
                     über diesen Entwurf, als auch die nachherigen bezüglichen Erklärungen und
-                    Eingaben der Evangelischen beider Bekenntnisse aus <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country>,
-                    der <region key="serbische-woiwodschaft" ref="#place_3b7d6bda0785d2523c2551de79a7d017">Wojwodschaft Serbien</region> nebst dem
-                        <region key="temescher-banat" ref="#place_67c8655646f02446cc1e4ecffd769f79">Temescher Banate</region> Unserer
+                    Eingaben der Evangelischen beider Bekenntnisse aus <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>,
+                    der <rs type="place" subtype="region" key="serbische-woiwodschaft" ref="#place_3b7d6bda0785d2523c2551de79a7d017">Wojwodschaft Serbien</rs> nebst dem
+                        <rs type="place" subtype="region" key="temescher-banat" ref="#place_67c8655646f02446cc1e4ecffd769f79">Temescher Banate</rs> Unserer
                     Schlußfassung unterzogen worden sind: so finden Wir nach Anhörung Unserer
                     Minister und Vernehmung Unseres Reichsrathes, indem Wir Uns hinsichtlich des
                     Unterrichtswesens auch Unsere für das ganze Reich verbindliche Entschließung vom
@@ -121,21 +120,21 @@
                         Gesetzentwurfes.</note>Als oberste Kirchenbehörde wird für jede Confession
                     ein besonderer k.k. Oberkirchenrath, dessen sämtliche Mitglieder ohne Ausnahme
                     der betreffenden Confession angehören müssen, eingesetzt.<lb/>Derselbe hat in
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> seinen Sitz. Der Präsident ist beiden Collegien
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> seinen Sitz. Der Präsident ist beiden Collegien
                     gemeinschaftlich.</p>
                 <p>§ V<lb/>Die kirchliche Gerichtsbarkeit wird in folgendem Instanzenzuge:<lb/>1.
                     durch das Senioralconsistorium<lb/>2. durch das
                     Superintendenzialconsistorium<lb/>3. durch die betreffende Generalconferenz
                     sämmtlicher Superintendenzen der einen oder der anderen Confession
                     endlich<lb/>4. in oberster und letzter Instanz durch den k.k. Oberkirchenrath in
-                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> ausgeübt.</p>
+                        <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> ausgeübt.</p>
                 <p>§ VI<lb/>
                     <note xml:id="note_7">Anmerkung am linken Rand: Vide Bogen 29 usw. "das
                         zweite[?] Bedenken" pp.</note>&lt;Sobald diese kirchlichen Gerichtsbehörden
                     ins Leben treten, wird&gt;<note xml:id="note_8">Eh. Korrektur Thuns aus: Mit der
                         Einführung des gegenwärtigen Gesetzes hört.</note> die Ehegerichtsbarkeit
                     Unserer landesfürstlichen Gerichte in Unserem Königreich
-                        <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country>, der <region key="serbische-woiwodschaft" ref="#place_3b7d6bda0785d2523c2551de79a7d017">Wojwodschaft Serbien</region> nebst dem <region key="temescher-banat" ref="#place_67c8655646f02446cc1e4ecffd769f79">Temescher Banate</region> über die Evangelischen beider Bekenntnisse
+                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, der <rs type="place" subtype="region" key="serbische-woiwodschaft" ref="#place_3b7d6bda0785d2523c2551de79a7d017">Wojwodschaft Serbien</rs> nebst dem <rs type="place" subtype="region" key="temescher-banat" ref="#place_67c8655646f02446cc1e4ecffd769f79">Temescher Banate</rs> über die Evangelischen beider Bekenntnisse
                     &lt;aufgehoben werden und dieselbe wird sofort auszuüben sein&gt;<note xml:id="note_9">Eh. Korrektur Thuns aus: auf und ist künftig
                         auszuüben.</note>
                     <lb/>a. in erster Instanz durch das
@@ -357,29 +356,29 @@
                     <lb/>A.
                     für die Evangelischen Augsburgischer Confession:<lb/>1. in dem
                     Verwaltungsgebiete der k.k. Statthalterei-Abtheilung von
-                        <placeName ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</placeName> die Pesther.<lb/>2. in dem Verwaltungsgebiete
-                    der k.k. Statthalterei-Abtheilung von <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</placeName> die Preßburger,<lb/>3. in dem Verwaltungsbiete der
-                    k.k. Statthalterei-Abtheilung von <placeName key="oedenburg" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Ödenburg</placeName> [Sopron] die Ödenburger,<lb/>4. in dem
+                        <rs type="place" subtype="place" ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</rs> die Pesther.<lb/>2. in dem Verwaltungsgebiete
+                    der k.k. Statthalterei-Abtheilung von <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</rs> die Preßburger,<lb/>3. in dem Verwaltungsbiete der
+                    k.k. Statthalterei-Abtheilung von <rs type="place" subtype="place" key="oedenburg" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Ödenburg</rs> [Sopron] die Ödenburger,<lb/>4. in dem
                     Verwaltungsgebiete der k.k. Statthalterei-Abtheilung von
-                        <placeName ref="#place_dd51fef1ae0877c04e8b4e19eddbabd5">Kaschau</placeName> [Košice] die Eperieser [Prešov],<lb/>5. in
+                        <rs type="place" subtype="place" ref="#place_dd51fef1ae0877c04e8b4e19eddbabd5">Kaschau</rs> [Košice] die Eperieser [Prešov],<lb/>5. in
                     dem Verwaltungsgebiete der k.k. Statthalterei-Abtheilung von
-                        <placeName ref="#place_091a775d4fe4af75210ba5a562afea9e">Großwardein</placeName> [Oradea] die Szarvaser,<lb/>6. in der
-                        <region key="serbische-woiwodschaft" ref="#place_3b7d6bda0785d2523c2551de79a7d017">serbischen Wojwodschaft</region> mit
-                    dem <region key="temescher-banat" ref="#place_67c8655646f02446cc1e4ecffd769f79">Temeser Banate</region> die Neu-Verbasser
+                        <rs type="place" subtype="place" ref="#place_091a775d4fe4af75210ba5a562afea9e">Großwardein</rs> [Oradea] die Szarvaser,<lb/>6. in der
+                        <rs type="place" subtype="region" key="serbische-woiwodschaft" ref="#place_3b7d6bda0785d2523c2551de79a7d017">serbischen Wojwodschaft</rs> mit
+                    dem <rs type="place" subtype="region" key="temescher-banat" ref="#place_67c8655646f02446cc1e4ecffd769f79">Temeser Banate</rs> die Neu-Verbasser
                     [Vrbas].<lb/>B. Für die Evangelischen Helvetischer Confession:<lb/>1. in dem
                     Verwaltungsgebiete der k.k. Statthalterei-Abtheilung von
-                        <placeName ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</placeName> die Pesther,<lb/>2. in dem Verwaltungsbiete der
-                    k.k. Statthalterei-Abtheilung von <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</placeName> die Comorner [Komárom/Komárno],<lb/>3. in dem
+                        <rs type="place" subtype="place" ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</rs> die Pesther,<lb/>2. in dem Verwaltungsbiete der
+                    k.k. Statthalterei-Abtheilung von <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</rs> die Comorner [Komárom/Komárno],<lb/>3. in dem
                     Verwaltungsgebiete der k.k. Statthalterei-Abtheilung von
-                        <placeName ref="#place_b2660274e80f632575bfca10675d282b">Ödenburg</placeName> [Sopron] die Papaer,<lb/>4. in dem
+                        <rs type="place" subtype="place" ref="#place_b2660274e80f632575bfca10675d282b">Ödenburg</rs> [Sopron] die Papaer,<lb/>4. in dem
                     Verwaltungsgebiete der k.k. Statthalterei-Abtheilung von
-                        <placeName ref="#place_dd51fef1ae0877c04e8b4e19eddbabd5">Kaschau</placeName> [Košice] die Sarospataker,<lb/>5. in dem
-                    Verwaltungsgebiete der k.k. Statthalterei-Abtheilung von <placeName key="grosswardein" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Großwardein</placeName> [Oradea] die Debreziner,<lb/>6.
-                    in der <region key="serbische-woiwodschaft" ref="#place_3b7d6bda0785d2523c2551de79a7d017">Serbischen Wojwodschaft</region> und
-                    dem <region key="temescher-banat" ref="#place_67c8655646f02446cc1e4ecffd769f79">Temeser Banate </region>die Neu-Szivaczer
+                        <rs type="place" subtype="place" ref="#place_dd51fef1ae0877c04e8b4e19eddbabd5">Kaschau</rs> [Košice] die Sarospataker,<lb/>5. in dem
+                    Verwaltungsgebiete der k.k. Statthalterei-Abtheilung von <rs type="place" subtype="place" key="grosswardein" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Großwardein</rs> [Oradea] die Debreziner,<lb/>6.
+                    in der <rs type="place" subtype="region" key="serbische-woiwodschaft" ref="#place_3b7d6bda0785d2523c2551de79a7d017">Serbischen Wojwodschaft</rs> und
+                    dem <rs type="place" subtype="region" key="temescher-banat" ref="#place_67c8655646f02446cc1e4ecffd769f79">Temeser Banate </rs>die Neu-Szivaczer
                     [Novi Sivac].<note xml:id="note_35">Eh. Einfügung von Thun: dieser
-                        Superintendenz werden auch die in <region key="kroatien" ref="#place_46ef149805b1b370596a83886b1e010e">Kroazien</region>,
-                            <region ref="#place_299612e0d182b014fab16ff4af53cb95">Slawonien</region> und der Militärgränze ansässigen
+                        Superintendenz werden auch die in <rs type="place" subtype="region" key="kroatien" ref="#place_46ef149805b1b370596a83886b1e010e">Kroazien</rs>,
+                            <rs type="place" subtype="region" ref="#place_299612e0d182b014fab16ff4af53cb95">Slawonien</rs> und der Militärgränze ansässigen
                         Evangelischen helvetischen Bekenntnisses anzugehören haben.</note>
                 </p>
                 <p>§ XXIII<lb/>Die Bildung neuer Superintendenzen innerhalb der politischen
@@ -506,24 +505,24 @@
                     <lb/>Als
                     Amts- und Wohnort der Superintendenten werden bestimmt:<lb/>A. für die
                     Evangelischen Augsburgischen Bekenntnisses:<lb/>1. in der Pesther Superintendenz
-                    die Stadt <placeName key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</placeName>.<lb/>2. in der Preßburger
-                    Superintendenz die Stadt <placeName key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</placeName>
+                    die Stadt <rs type="place" subtype="place" key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</rs>.<lb/>2. in der Preßburger
+                    Superintendenz die Stadt <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</rs>
                     <lb/>3.
-                    in der Ödenburger Superintendenz die Stadt <placeName key="oedenburg" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Ödenburg</placeName> [Sopron]<lb/>4. in der Eperieser Superintendenz die
-                    Stadt <placeName ref="#place_1d3a164e45efdad9a1b68b54bd69260c">Eperies</placeName> [Prešov]<lb/>5. in der Szarvascher
-                    Superintendenz die Stadt <placeName ref="#place_7728787c359914e3c4902bab25091dce">Szarvas</placeName>, <lb/>6. in der
-                    Neu-Verbaßer Superintendenz der Ort <placeName ref="#place_d5235e0cc9015e44e7c16e4c316fa364">Neu-Verbaß</placeName>
+                    in der Ödenburger Superintendenz die Stadt <rs type="place" subtype="place" key="oedenburg" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Ödenburg</rs> [Sopron]<lb/>4. in der Eperieser Superintendenz die
+                    Stadt <rs type="place" subtype="place" ref="#place_1d3a164e45efdad9a1b68b54bd69260c">Eperies</rs> [Prešov]<lb/>5. in der Szarvascher
+                    Superintendenz die Stadt <rs type="place" subtype="place" ref="#place_7728787c359914e3c4902bab25091dce">Szarvas</rs>, <lb/>6. in der
+                    Neu-Verbaßer Superintendenz der Ort <rs type="place" subtype="place" ref="#place_d5235e0cc9015e44e7c16e4c316fa364">Neu-Verbaß</rs>
                     [Vrbas].</p>
                 <p>§ XXXVIII<lb/>Für die Evangelischen Helvetischen Bekenntnisses weden als Amts-
                     und Wohnorte der Superintendenten bestimmt:<lb/>1. in der Pesther Superintendenz
-                    die Stadt <placeName key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</placeName>.<lb/>2. in der Comorner
-                    Superintendenz die Stadt <placeName ref="#place_d7332bf34fa660170ca313b54b17e34c">Comorn</placeName> [Komárom/Komárno]<lb/>3.
-                    In der Papaer Superintendenz die Stadt <placeName ref="#place_bc7339e35ab33789ade87cdefb9e157f">Papa</placeName>
+                    die Stadt <rs type="place" subtype="place" key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</rs>.<lb/>2. in der Comorner
+                    Superintendenz die Stadt <rs type="place" subtype="place" ref="#place_d7332bf34fa660170ca313b54b17e34c">Comorn</rs> [Komárom/Komárno]<lb/>3.
+                    In der Papaer Superintendenz die Stadt <rs type="place" subtype="place" ref="#place_bc7339e35ab33789ade87cdefb9e157f">Papa</rs>
                     [Pápa],<lb/>4. in der Sarospataker Superintendenz die Stadt
-                        <placeName ref="#place_f0a8fb8d23d7cc74928a00cb648f3368">Sarospatak</placeName> [Sárospatak]<lb/>5. in der Debrecziner
-                    Superintendenz die Stadt <placeName key="debrezin" ref="#place_ae8effcf53078ebe204e349a55546ca8">Debreczin</placeName>
+                        <rs type="place" subtype="place" ref="#place_f0a8fb8d23d7cc74928a00cb648f3368">Sarospatak</rs> [Sárospatak]<lb/>5. in der Debrecziner
+                    Superintendenz die Stadt <rs type="place" subtype="place" key="debrezin" ref="#place_ae8effcf53078ebe204e349a55546ca8">Debreczin</rs>
                     [Debrecen].<lb/>6. in der Neu-Szivaczer Superintendenz der Ort
-                        <placeName ref="#place_bceb0bb3c7766fa2651ea556ac72d9c4">Neu-Szivacz</placeName> [Novi Sivac].</p>
+                        <rs type="place" subtype="place" ref="#place_bceb0bb3c7766fa2651ea556ac72d9c4">Neu-Szivacz</rs> [Novi Sivac].</p>
                 <p>§ &lt;XXXIX&gt;<note xml:id="note_58">Korrektur aus: XXIII.</note>
                     <note xml:id="note_59">Anmerkung am linken Rand: § 79 modif.</note>
                     <lb/>Den
@@ -549,7 +548,7 @@
                     <note xml:id="note_65">Anmerkung am linken Rand: § 95.</note>
                     <lb/>Jede Conferenz
                     versammelt sich jährlich einmal am ersten Sonntag nach Trinitatis jeden Jahres
-                    in <placeName key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</placeName>.</p>
+                    in <rs type="place" subtype="place" key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</rs>.</p>
                 <p>§ &lt;XLIV&gt;<note xml:id="note_66">Korrektur aus: XXVII.</note>
                     <note xml:id="note_67">Anmerkung am linken Rand: § 97.</note>
                     <lb/> Den Vorsitz in
@@ -666,7 +665,7 @@
                     der voranstehenden definitiven Bestimmungen befehlen wir hiermit, daß das
                     beiliegende Gesetz über die Vertretung und Verwaltung der Kirchenangelegenheiten
                     der Evangelischen beider Bekenntnisse in Unserem Königreiche
-                        <country ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</country>, in der <region key="woiwodschaft-serbien" ref="#place_c1a76f350bcfa4d0b1f71fc95e9a882b">Wojwodschaft Serbien</region> nebst dem <region key="temescher-banat" ref="#place_67c8655646f02446cc1e4ecffd769f79">Temeser Banate</region> und in der Militärgränze nach seinem ganzen Inhalte
+                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, in der <rs type="place" subtype="region" key="woiwodschaft-serbien" ref="#place_c1a76f350bcfa4d0b1f71fc95e9a882b">Wojwodschaft Serbien</rs> nebst dem <rs type="place" subtype="region" key="temescher-banat" ref="#place_67c8655646f02446cc1e4ecffd769f79">Temeser Banate</rs> und in der Militärgränze nach seinem ganzen Inhalte
                     provisorisch in Wirksamkeit gesetzt werde. Mit der Wirksamkeit dieses Gesetzes
                     erlischt die mit Unserer Beschließung vom 21. Juni 1854 genehmigte Verordnung
                     Unseres Ministers für Cultus und Unterricht (Landes-Regierungsblatt für das

@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="maassen-friedrich" role="sender:gelehrter">Friedrich
-                        Maassen</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="maassen-friedrich" key="maassen-friedrich" role="sender:gelehrter">Friedrich
+                        Maassen</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</placeName>, <date when="1857-07-04">4. Juli 1857</date>
+                    <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs>, <date when="1857-07-04">4. Juli 1857</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -39,7 +38,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -52,12 +51,12 @@
                     <term>Römisches Recht</term>
                 </index>
                 <p>Eure Excellenz!</p>
-                <p>Der Professor <persName key="zielonacki-josephat">Zielonacki</persName> in
+                <p>Der Professor <rs type="person" ref="zielonacki-josephat" key="zielonacki-josephat">Zielonacki</rs> in
                         <orgName key="universitaet-prag">Prag</orgName> bewirbt sich, wie ich
                     erfahren habe, um seine Versetzung nach <orgName key="universitaet-lemberg">Lemberg</orgName>. Für den Fall, daß Eure Excellenz geneigt sein sollten,
                     diesem Gesuch zu willfahren, erlaube ich mir, die ehrerbietigste Bitte
                     auszusprechen, daß Hochdieselben geruhen mögen, mich an die Stelle des
-                    Professors <persName key="zielonacki-josephat">Zielonacki</persName> als
+                    Professors <rs type="person" ref="zielonacki-josephat" key="zielonacki-josephat">Zielonacki</rs> als
                     Ordinarius nach <orgName key="universitaet-prag">Prag</orgName> zu
                     befördern.<lb/>Zu dieser Bitte bestimmt mich einmal der Wunsch, von Innsbruck
                     überhaupt versetzt zu werden. Es besteht für mich gegenwärtig, nachdem ich durch
@@ -91,7 +90,7 @@
                     schon in dieser Abhandlung von mir mitgetheilt sind, so glaube ich mich der
                     Hoffnung hingeben zu dürfen, daß bereits diese kleinere Arbeit der Beachtung der
                     gelehrten Welt werth sein werde. Ich werde bei meinem in die nächsten Ferien
-                    fallenden Aufenthalt in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> nicht verfehlen, Eure
+                    fallenden Aufenthalt in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> nicht verfehlen, Eure
                     Excellenz um gnädigste Erlaubnis zu bitten, daß ich Hochdenselben ein Exemplar
                     gehorsamst überreichen dürfe.<lb/>Geruhen Hochdieselben den Ausdruck der
                     tiefsten Ehrerbietung huldvollst zu genehmigen, mit der ich beharre</p>

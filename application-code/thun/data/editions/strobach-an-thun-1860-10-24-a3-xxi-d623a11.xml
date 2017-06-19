@@ -1,16 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="strobach-friedrich" role="sender:beamter">Friedrich Strobach,
-                            <persName key="stifter-adalbert" role="sender:beamter">Adalbert
-                            Stifter</persName>
-                    </persName> und <persName key="kurz-johann" role="sender:beamter">Johann Kurz</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName>
+                    <rs type="person" ref="strobach-friedrich" key="strobach-friedrich" role="sender:beamter">Friedrich Strobach,
+                            <rs type="person" ref="stifter-adalbert" key="stifter-adalbert" role="sender:beamter">Adalbert
+                            Stifter</rs>
+                    </rs> und <rs type="person" ref="kurz-johann" key="kurz-johann" role="sender:beamter">Johann Kurz</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
                     <lb/>
-                    <placeName ref="#place_443befbacdaa99c161dd11495b82b99b">Linz</placeName>, <date when="1860-10-24">24.
+                    <rs type="place" subtype="place" ref="#place_443befbacdaa99c161dd11495b82b99b">Linz</rs>, <date when="1860-10-24">24.
                         Oktober 1860</date>
                 </title>
             </titleStmt>
@@ -41,7 +40,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -53,7 +52,7 @@
                 <p>Linz, den 24. Oktober 1860</p>
                 <p>Euere Excellenz!</p>
                 <p>In dem Augenblicke, wo Euere Excellenz von der in der Geschichte des
-                    Unterrichtswesens <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</country>
+                    Unterrichtswesens <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs>
                     Epoche machenden Leitung des <orgName key="ministerium-fuer-kultus-und-unterricht">Unterrichtsministeriums</orgName> abtreten, drängt es die Gefertigten, den
                     tiefgefühlten Dank für die Huld auszusprechen, welche Euere Excellenz ihnen seit
                     einer Reihe von Jahren ununterbrochen zu widmen die Gnade hatten, und wofür die
@@ -62,7 +61,7 @@
                     Anhänglichkeit an die verehrte Person Euerer Excellenz. Wenn sich mit dem Danke,
                     den wir hier niederzulegen uns erlauben, ein Gefühl lebhaften Schmerzes und der
                     Trauer mischt, so gilt dies Gefühl dem Scheiden eines Mannes, der dem
-                    Unterrichtswesen <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</country> zu seinem
+                    Unterrichtswesen <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> zu seinem
                     jetzigen hohen Standpunkte verholfen, der seinen Untergebenen stets ein
                     leuchtendes Beispiel redlichen Eifers und ehrenhafter Gesinnung war. Möge das
                     von Euerer Excellenz geschaffene, mit Erfolg gekrönte Unterrichtssystem auch die

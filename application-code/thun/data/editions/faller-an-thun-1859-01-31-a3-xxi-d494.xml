@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <persName key="faller-clemens" role="sender:kleriker">Clemens
-                        Faller</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <rs type="person" ref="faller-clemens" key="faller-clemens" role="sender:kleriker">Clemens
+                        Faller</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <placeName ref="#place_fef029496b06aa0f5a4468390461f12c">Feldkirch</placeName>, <date when="1859-01-31">31. Januar 1859</date>
+                    <rs type="place" subtype="place" ref="#place_fef029496b06aa0f5a4468390461f12c">Feldkirch</rs>, <date when="1859-01-31">31. Januar 1859</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -33,7 +32,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -43,12 +42,12 @@
                     <term>Gesellschaft Jesu</term>
                 </index>
                 <p>Euer Excellenz!</p>
-                <p>Mit Freude habe ich den mir zugesandten Brief schleunigst an Pater <persName key="deharbe-joseph">Joseph Deharbe</persName> gelangen lassen. Pater
-                        <persName key="deharbe-joseph">Deharbe</persName> wird nicht säumen auf das
+                <p>Mit Freude habe ich den mir zugesandten Brief schleunigst an Pater <rs type="person" ref="deharbe-joseph" key="deharbe-joseph">Joseph Deharbe</rs> gelangen lassen. Pater
+                        <rs type="person" ref="deharbe-joseph" key="deharbe-joseph">Deharbe</rs> wird nicht säumen auf das
                     Schreiben nach Verlangen Euer Excellenz zu antworten. Sein gegenwärtiger
-                    Aufenthalt ist <placeName ref="#place_2fc01bde301ce78776bfd009c2edc542">Köln</placeName>, Breitestraße Nr. 161.<lb/>Euer
+                    Aufenthalt ist <rs type="place" subtype="place" ref="#place_2fc01bde301ce78776bfd009c2edc542">Köln</rs>, Breitestraße Nr. 161.<lb/>Euer
                     Excellenz bitte ich bei dieser Gelegenheit mir erlauben zu wollen, ein Wort
-                    betreffend den Bau des Gymnasium in <placeName ref="#place_fef029496b06aa0f5a4468390461f12c">Feldkirch</placeName> hinzufügen
+                    betreffend den Bau des Gymnasium in <rs type="place" subtype="place" ref="#place_fef029496b06aa0f5a4468390461f12c">Feldkirch</rs> hinzufügen
                     zu dürfen. Da die Anzahl unserer Schüler jetzt schon so hoch gestiegen ist, daß
                     wir gezwungen sind, nebst einer Vorbereitungsclasse vier Gymnasialclassen im
                     Pensionatgebäude zu halten, so kommen wir der Räumlichkeiten wegen, welche für

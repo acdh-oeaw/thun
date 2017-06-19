@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Gutachten von <persName key="krombholz-anton">Anton Krombholz</persName> zu §
+                <title>Gutachten von <rs type="person" ref="krombholz-anton" key="krombholz-anton">Anton Krombholz</rs> zu §
                     11 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des
                         Konkordats<lb/>
-                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1856-08-19">19.
+                    <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1856-08-19">19.
                         August 1856</date>
                 </title>
             </titleStmt>
@@ -45,7 +44,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc docStatus="approved"/>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -89,7 +88,7 @@
                     kann; ebenso wenig kann ihre Einflußnahme nachtheilig werden, wenn sie ein
                     getheiltes Präsentationsrecht mit dem Pfarrer oder mit diesem und dem
                     Schulpatrone ausüben.<lb/>Auch dort ist kein Nachtheil abzusehen, wo sie, wie es
-                    in <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> und einigen andern Orten der Fall ist, an einen
+                    in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> und einigen andern Orten der Fall ist, an einen
                     Ternavorschlag des Konsistoriums gebunden sind.<lb/>Aber auch bezüglich jener
                     Schulen ist nichts zu besorgen, wo einzelne Gemeinden als Pfarr- und
                     Schulpatrone oder als bloße Schulpatrone das Präsentationsrecht gleich andern
