@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <persName key="franz-joseph" role="sender">Kaiser Franz Joseph</persName> an
+                        <persName key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</persName>
+                    <lb/>
+                    <placeName ref="#place_26772cb430822468d91f9978930b32cd">Laxenburg</placeName>, <date when="--07-15">15. Juli</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D634</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Kaiser sendet Leo Thun den Vortrag des Reichsratspräsidenten
+                            bezüglich der Stellung der Schulräte. Der Kaiser bittet um ein Gespräch
+                            in dieser Sache.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Das Schreiben befindet sich im Nachlass gemeinsam mit zehn weiteren
+                            kurzen Mitteilungen des Kaisers unter der Signatur A3 XXI D634.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc docStatus="approved"/>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Ministerium für Kultus und Unterricht</term>
+                    <term>Schulräte</term>
+                </index>
+                <p>Lieber Graf Thun,</p>
+                <p>Ihrem Wunsche gemäß, sende ich Ihnen beiliegend<note xml:id="note_1">Die Beilage
+                        ist im Nachlass Thuns nicht überliefert.</note> den Vortrag des
+                    Reichsrathspräsidenten über die Stellung der Schulräthe.<lb/>Ich ersuche Sie,
+                    den Gegenstand, wenn Sie den Vortrag gelesen haben, noch mündlich mit mir zu
+                    besprechen.<lb/>Laxenburg, den 15. Juli</p>
+                <p>Franz Joseph</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
+                        <persName key="bach-alexander" role="recipient">Alexander
+                        Bach</persName>
+                    <lb/>
+                    <placeName ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</placeName>, <date when="1851-04-27">o.
+                        D. [27. April 1851]</date>
+                    <note xml:id="note_1">Das Datum ergibt sich aus
+                        dem im Brief erwähnten Tod des Patriarchen von Venedig.</note>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichisches Staatsarchiv</institution>
+                        <repository>Allgemeines Verwaltungsarchiv</repository>
+                        <idno>Nachlass Bach, Karton 11</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun gibt Alexander Bach den Tod des Patriarchen von Venedig
+                            bekannt.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc docStatus="approved"/>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                </index>
+                <p>Lieber Freund!</p>
+                <p>So eben erhalte ich von dem l.v. Gen. Gouvernement die telegraphische Anzeige daß
+                    der <persName key="monico-giacomo">Patriarch von Venedig</persName> ohne
+                    vorausgegangene bedeutende Krankheit am <date when="1851-04-25">25.</date>
+                    gestorben ist.</p>
+                <p>Aufrichtig der Ihrige<lb/>Thun</p>
+                <p>Sonntag Nachm.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
+                        <persName key="ficker-julius" role="recipient">Julius
+                        Ficker</persName>
+                    <lb/>
+                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1858-06-19">19. Juni 1858</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Institut für Österreichische Geschichtsforschung</institution>
+                        <repository>Archiv</repository>
+                        <idno>Nachlass Ficker. Thun, 2</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bedankt sich bei Julius Ficker dafür, dass er Informationen über
+                            Gottfried Muys einholen wird. Er versichert Ficker auch, dass er für die
+                            Berufung von Tobias Wildauer Sorge tragen werde. Die schlechte Rezension
+                            einer Arbeit Wildauers wird diesem nicht schaden, da es offensichtlich
+                            sei, dass dieselbe von persönlichen Gefühlen beeinflusst war.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Verweis auf A3 XXI D464.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc docStatus="approved"/>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Geschichtswissenschaften</term>
+                    <term>Universität Lemberg</term>
+                    <term>Universität Innsbruck</term>
+                    <term>Philosophie</term>
+                </index>
+                <p>Wien, den 19. Juni 1858</p>
+                <p>Werther Herr Professor!</p>
+                <p>Da Sie so freundlich sind, sich hierzu anzubiethen, so nehme ich Ihre Vermittlung
+                    um über <persName key="muys-gottfried">Dr. Muys</persName> genauere
+                    Erkundigungen einzuholen mit vielem Dank an.<lb/>Wegen <persName key="wildauer-tobias">Wildauer</persName> seien Sie ohne Sorge, die
+                        Rezension<note xml:id="note_1">Vgl. <ref target="http://books.google.at/books?id=E6oNAAAAYAAJ&amp;hl=de&amp;source=gbs_navlinks_s">Alfred Ludwig, Platon's&#160;Protagoras mit Einleitungen und Anmerkungen von
+                            Ed. Jahn, Wien, C. Gerold's Sohn, 1857, in: Zeitschrift für die
+                            Österreichischen Gymnasien, Bd. 8, 1857, S. 212–217</ref>.</note> soll
+                    ihm gewiss nicht schaden, und ich werde seiner nicht vergessen. Ich begreife
+                    sehr wohl, daß sie in <placeName key="innsbruck" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Inspruck</placeName>
+                    [Innsbruck] übles Blut gemacht hat, obwohl ich aber nicht glaube, daß sie so
+                    übel gemeint war. Der <persName key="ludwig-alfred">Verfasser</persName>, ein
+                    sehr tüchtiger und bescheidener junger Mensch, ist ein Mitschüler von <persName key="jahn-eduard">Jahn</persName> und hat es ohne Zweifel deshalb höher
+                    aufgenommen, daß seiner Arbeit<note xml:id="note_2">Gemeint ist: Eduard Jahn,
+                        Platon's Protagoras, mit Einleitung und Anmerkungen, Wien 1857.</note> kaum
+                    Erwähnung geschah, als es namentlich in Berücksichtigung der ihm unbekannten,
+                    und leider durch meine Schuld nicht aufklärbaren Geschichte des Manuskriptes
+                    gerechtfertigt ist.</p>
+                <p>Mit aufrichtiger Hochachtung<lb/>Thun</p>
+            </div>
+        </body>
+    </text>
+</TEI>

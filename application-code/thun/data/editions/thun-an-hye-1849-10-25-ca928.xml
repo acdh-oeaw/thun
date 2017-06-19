@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
+                        <persName key="hye-von-gluneck-anton" role="recipient">Anton Hye von
+                        Gluneck</persName>
+                    <lb/>
+                    <placeName ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</placeName>, <date when="1849-10-25">25. Oktober [1849]</date>
+                    <note xml:id="note_1">Die Datierung in das Jahr
+                        1849 ergibt sich aus Briefen, die die im Brief angesprochene versuchte
+                        Berufung von Leopold Warnkönig betreffen. Vgl. dazu <ref target="thun/thun-korrespondenz/tetschen/wessenberg-an-thun_1849-10-23_A3-XXI-D10.xml">Johann Philipp Wessenberg an Leo Thun. Karlsbad, 23. Oktober
+                        1849</ref>; sowie <ref target="thun/thun-korrespondenz/Oesterreichisches_Staatsarchiv/thun-an-wessenberg_1849-10-31_CA1570.xml">Leo Thun an Johann Philipp Wessenberg. Wien, 31. Oktober
+                        1849</ref>.</note>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichisches Staatsarchiv</institution>
+                        <repository>Allgemeines Verwaltungsarchiv</repository>
+                        <idno>Nachlass Hye, Karton 23</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun dankt dem Juristen und Ministerialrat Anton Hye für einen Brief
+                            und für die Vermittlung in einigen Personalfragen. Thun möchte die
+                            Angelegenheit um Karl Adolph Vangerow vorerst ruhen lassen und sich
+                            stattdessen verstärkt um eine Berufung von Leopold Warnkönig bemühen.
+                            Sollte die Berufung desselben zu Stande kommen, hätte sich Hye nach der
+                            Ansicht des Ministers ein bleibendes Verdienst um Österreichs
+                            Rechtswissenschaften gesichert.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc docStatus="approved"/>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Universität</term>
+                    <term>Rechtswissenschaften</term>
+                    <term>Personalfragen</term>
+                </index>
+                <p>Werthester Herr Ministerialrath!</p>
+                <p>Mit vielem Dank stelle ich Ihnen beiliegend die mir gütigst mitgetheilten Briefe
+                        zurück<note xml:id="note_2">Dabei könnte es sich um Briefe von Warnkönig und
+                        Vangerow handeln, die sich im Nachlass von Hye finden.</note>. Daß mich ihr
+                    Inhalt in hohem Grade befriedigt und erfreut hat, brauche ich nicht erst zu
+                    sagen. <persName key="vangerow-karl-adolph">Wangerow’s</persName> Andeutungen
+                    rechtfertigen es allerdings, in einer Beziehung[?] in den Verhandlungen einen
+                    Stillstand eintreten zu lassen. Ich werde inzwischen die Zeit nicht verlieren,
+                    und habe bereits weitere vorbereitende Schritte, insbesondere in Betreff
+                        <persName key="warnkoenig-leopold-august">Warnkönigs</persName> eingeleitet.
+                    Führen sie zu einem günstigen Erfolge, so habe ich es großentheils der
+                    vortrefflichen Weise zu danken, in welcher Sie den Weg bahnten, wodurch Sie mich
+                    in hohem Grade verpflichten und dem <placeName key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Vaterlande</placeName> und der Wissenschaft wie ich hoffe einen
+                    wesentlichen Dienst geleistet haben.</p>
+                <p>Mit der Versicherung der ausgezeichnetsten Hochachtung verharre ich</p>
+                <p>Ihr<lb/>Ergebener<lb/>L. Thun</p>
+            </div>
+        </body>
+    </text>
+</TEI>

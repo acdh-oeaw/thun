@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
+                        <persName key="helfert-joseph-alexander" role="recipient">Joseph Alexander
+                        Helfert </persName>
+                    <lb/>o. O. [<placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>], <date when="1853-08-21">o. D. [21. August 1853]</date>
+                    <note xml:id="note_1">Datum
+                        und Ort sind mit Bleistift am oberen Blattrand vermerkt.</note>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Mährisches Landesarchiv [Moravský zemský archiv v
+                            Brně]</institution>
+                        <repository>G 44, Nachlass Helfert</repository>
+                        <idno>Karton 26, Thun Lev</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bittet Joseph Alexander Helfert um Auskunft, ob der Dozent
+                            Julius Galba seine Venia legendi bereits nach der neuen
+                            Habilitationsordnung erworben habe.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc docStatus="approved"/>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Universität Wien</term>
+                    <term>Habilitation</term>
+                </index>
+                <p>Noch Eines!</p>
+                <p>Ich brauche die Auskunft wann und wie Dr. <persName key="galba-julius">Galba</persName> Dozent geworden war; ich glaube nämlich noch vor 1848,
+                    wenigstens vor Einführung des jetzigen Habilitazionsgesetzes. Ich bitte Sie zu
+                    veranlassen, daß mir diese Auskunft nach <placeName ref="#place_84bb7a44667327c91eade4b980a38a6f">Karlsbad</placeName>
+                    geschickt werde.</p>
+                <p>Thun</p>
+            </div>
+        </body>
+    </text>
+</TEI>

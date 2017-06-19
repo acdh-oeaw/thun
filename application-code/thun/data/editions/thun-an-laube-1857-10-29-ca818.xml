@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
+                        <persName key="laube-heinrich" role="recipient">Heinrich
+                        Laube</persName>
+                    <lb/>
+                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1857-10-29">29. Oktober 1857</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichische Nationalbibliothek</institution>
+                        <repository>Handschriftenabteilung</repository>
+                        <idno>Autogr. 165/73-2</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bittet den Direktor des Burgtheaters, Heinrich Laube, um den
+                            Text eines Lustspiels. Seine Verwandten möchten sich nämlich auf dem
+                            Land mit dem Stück erheitern, Thun konnte den Text des gewünschten
+                            Stücks jedoch nicht finden.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc docStatus="approved"/>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term/>
+                </index>
+                <p>Wien, den 29. Oktober 1857</p>
+                <p>Werther Herr Direktor!</p>
+                <p>Verwandte von mir wollen sich auf dem Lande, wenn auch nicht mit dramatischer
+                    Kunst, so doch mit einer Dilettanten-Komödie unterhalten und haben mich deshalb
+                    gebethen, ihnen schleunigst "Er ist nicht eifersüchtig!"<note xml:id="note_1">Gemeint ist: <ref target="http://books.google.at/books?id=c3suAAAAYAAJ&amp;hl=de&amp;source=gbs_navlinks_s">Alexander Elz, Er ist nicht eifersüchtig.</ref>
+                    </note> zu verschaffen.
+                    Vergeblich habe ich mich deshalb an <persName key="wallishausser-johann-baptist">Wallishauser</persName> gewendet, und wage es deshalb abermals Ihre Güte
+                    mit der Bitte in Anspruch zu nehmen, ob Sie mir wohl dieses Lustspiel für einige
+                    Wochen aus Ihrem Archive leihen wollten. Könnten Sie etwa gar die
+                    ausgeschriebenen Rollen zugleich anvertrauen, so wäre ich Ihnen um so
+                    dankbarer.</p>
+                <p>Mit ausgezeichneter Hochachtung</p>
+                <p>Ihr<lb/>ergebener<lb/>Graf Leo Thun</p>
+                <p>Ich bitte aber nicht etwa die Rollen <hi rend="ul">erst abschreiben</hi> zu
+                    lassen, denn meine Sendung soll wo möglich morgen schon abgehen.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

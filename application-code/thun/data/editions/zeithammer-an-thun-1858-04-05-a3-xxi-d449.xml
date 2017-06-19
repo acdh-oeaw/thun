@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <persName key="zeithammer-gregor" role="sender:beamter">Gregor
+                        Zeithammer</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <lb/>
+                    <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>, <date when="1858-04-05">5. April 1858</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D449</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Gregor Zeithammer, Gymnasialinspektor für Böhmen, übermittelt seine
+                            Vorschläge in der Diskussion um die Änderung des Gymnasiallehrplans.
+                            Sein Vorschlag weicht von seiner letztjährigen Ansicht, als er sich dem
+                            Gutachten Franz Effenbergers angeschlossen hatte, etwas ab.
+                            Grundsätzlich schlägt er eine Vermehrung der Lateinstunden im
+                            Untergymnasium auf Kosten des Unterrichts in den Landessprachen, der
+                            Mathematik und der Naturgeschichte vor. Für Naturgeschichte und Physik
+                            schlägt er eine alternative Verteilung vor. Griechisch soll im
+                            bisherigen Ausmaß unterrichtet, Mittelhochdeutsch fortan bloß an den
+                            Universitäten gelehrt werden.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Beilage: <ref target="#D449_1">Gregor Zeithammers Vorschlag für die
+                                Abänderung des Gymnasiallehrplans</ref>.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc docStatus="approved"/>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Gymnasien</term>
+                    <term>Lehrplan</term>
+                    <term>Reform</term>
+                </index>
+                <p>Euere Excellenz!</p>
+                <p>Obwohl ich meiner Pensionirung entgegensehe und fortwährend kränkle, so
+                    interessirt mich doch sehr die Debatte über den Lehrplansabänderungsentwurf, und
+                    es drängt mich in Beiliegendem auch meine Stimme darüber abzugeben.<lb/>Sie ist
+                    etwas abweichend von dem Gutachten <persName key="effenberger-franz-ferdinand">Effenberger</persName>’s, dem ich mich vom Urlaub im vorigen Juli
+                    zurückkehrend einfach anschloß, obgleich ich den Entfall des geometrischen
+                    Anschauungsunterrichts und der Naturwissenschaften im Untergymnasium bedauerte.
+                    Mich beruhigte, daß principiell am gegenwärtigen Plane festgehalten wurde, wenn
+                    man gleich die Übelstände der Ausführung anerkannte.<lb/>Nach meinem Vorschlag
+                    gewinnt das Latein in jeder Classe 1 Stunde, in der 4. wegen der wichtigen und
+                    schwierigen Tempus- und Moduslehre 2 Stunden, zusammen 9 Stunden. Dagegen
+                    verlieren aus den dort angegebenen Gründen die Landessprachen 1 Stunde, die
+                    Mathematik 1 Stunde und die Naturgeschichte 1 Stunde – geometrische
+                    Anschauungslehre und Naturwissenschaften im Untergymnasium bleiben, letztere in
+                    etwas veränderter Anordnung, wodurch zugleich der Wechsel der Lehrer in der 3.
+                    Classe entfällt, da jetzt nach dem I. Semester der Naturhistoriker 2 Stunden
+                    weniger und der Physiker mehr hat – ein Übelstand bei der Vertheilung. Die zwei
+                    mathematisch-naturwissenschaftlichen Lehrer haben dann genau 40 Stunden, in die
+                    sie sich gut theilen können, anstatt, daß sie nach dem Entwurf auch noch andere
+                    Fächer übernehmen müßten. Das Griechische bleibt unberührt, was sehr zu wünschen
+                    ist. Das Mittelhochdeutsche mag namentlich in Ländern mit gemischter Sprache
+                    ganz entfallen; es gehört eigentlich auf die Universität für Candidaten der
+                    deutschen Sprachwissenschaft.<lb/>Das sind Ansichten, mit denen ich mich schon
+                    lange herumtrage und die ich hie und da in den Äußerungen wiederfinde;
+                    vielleicht daß Euere Excellenz etwas darin einer Beachtung werth finden.
+                    <lb/>Genehmigen den Ausdruck unbegrenzter Dankbarkeit und Verehrung, womit ich
+                    die Ehre habe zu geharren.</p>
+                <p>Euer Excellenz<lb/>unterthänigster<lb/>Gregor Zeithammer</p>
+                <p>Prag, am 5. April 1858</p>
+            </div>
+            <div type="enclosure" xml:id="D449_1">
+                <p>Königreich Böhmen<lb/>Lehrplan für das Schuljahr 185.<lb/>Gymnasium ... </p>
+                <p>
+                    <table>
+                        <row>
+                            <cell>Klasse</cell>
+                            <cell>Religion</cell>
+                            <cell>Latein</cell>
+                            <cell>Griechisch</cell>
+                            <cell>Deutsch</cell>
+                            <cell>Böhmisch zweite Landessprache</cell>
+                            <cell>Geographie und Geschichte</cell>
+                            <cell>Mathematik und Philosophische Propädeutik</cell>
+                            <cell>Naturgeschichte und Physik</cell>
+                            <cell>Stundenzahl</cell>
+                        </row>
+                        <row>
+                            <cell>I.</cell>
+                            <cell/>
+                            <cell>9 Stunden</cell>
+                            <cell/>
+                            <cell>3 Stunden in deutschen Gegenden, 2 Stunden anderwärts</cell>
+                            <cell>0 in deutschen Gegenden, 2 Stunden anderwärts</cell>
+                            <cell/>
+                            <cell/>
+                            <cell>2 Stunden Geologie</cell>
+                            <cell rows="8">Keine Vermehrung</cell>
+                        </row>
+                        <row>
+                            <cell>II.</cell>
+                            <cell/>
+                            <cell>9 Stunden</cell>
+                            <cell/>
+                            <cell>2 Stunden</cell>
+                            <cell>2 Stunden</cell>
+                            <cell>Erweiterter geographischer Unterricht</cell>
+                            <cell/>
+                            <cell>2 Stunden 1. Semester Mineralogie 2. Semester Botanik Die in der
+                                3. Classe entfallende Stunde wird bei dem erweiterten geographischen
+                                Unterricht ersetzt</cell>
+                        </row>
+                        <row>
+                            <cell>III.</cell>
+                            <cell/>
+                            <cell>7 Stunden</cell>
+                            <cell/>
+                            <cell>2 Stunden</cell>
+                            <cell>2 Stunden</cell>
+                            <cell>nach selbständigen Lehrbüchern</cell>
+                            <cell/>
+                            <cell>2 Stunden Physik</cell>
+                        </row>
+                        <row>
+                            <cell>IV.</cell>
+                            <cell/>
+                            <cell>8 Stunden Im Untergymnasium alle Wochen eine Prüfung</cell>
+                            <cell/>
+                            <cell>2 Stunden</cell>
+                            <cell>2 Stunden</cell>
+                            <cell/>
+                            <cell/>
+                            <cell>2 Stunden Physik</cell>
+                        </row>
+                        <row>
+                            <cell>V.</cell>
+                            <cell/>
+                            <cell>7 Stunden Wiederholte Einübung der Syntax</cell>
+                            <cell/>
+                            <cell>2 Stunden wie sonst</cell>
+                            <cell>2 Stunden</cell>
+                            <cell/>
+                            <cell>3 Stunden Da die Mathematik ohnehin 1 Stunde in der 8. Classe
+                                gewann</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>VI.</cell>
+                            <cell/>
+                            <cell>7 Stunden ebenso</cell>
+                            <cell/>
+                            <cell>2 Stunden</cell>
+                            <cell>2 Stunden</cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>VII.</cell>
+                            <cell/>
+                            <cell>6 Stunden</cell>
+                            <cell/>
+                            <cell>2 Stunden</cell>
+                            <cell>2 Stunden</cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>VIII.</cell>
+                            <cell/>
+                            <cell>6 Stunden</cell>
+                            <cell/>
+                            <cell cols="2">2 Stunden Die Landessprache, die 3 Stundenzahl, kann
+                                (ohnehin meist in den Classen abwechselnd) ohne Gefahr 1 Stunde
+                                abgeben, da sie Mutter- oder Unterrichtssprache oder beides ist, und
+                                weil auch beim altdeutschen Sprachunterricht vergleichend mit den
+                                Landessprachen vorgegangen wird. 2 Stunden</cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                        </row>
+                    </table>
+                </p>
+                <p>Gute Lesebücher, neue für die Geographie und geometrische Anschauungslehre</p>
+            </div>
+        </body>
+    </text>
+</TEI>

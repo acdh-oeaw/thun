@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
+                        <persName key="ficker-julius" role="recipient">Julius
+                        Ficker</persName>
+                    <lb/>
+                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1854-06-02">2. Juni 1854</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Institut für Österreichische Geschichtsforschung</institution>
+                        <repository>Archiv</repository>
+                        <idno>Nachlass Ficker. Thun, 5</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun freut sich, dass Julius Ficker in Innsbruck bleiben möchte. Der
+                            Minister will alles tun, damit Ficker in Innsbruck erfolgreich wirken
+                            kann. Er kündigt Ficker außerdem seinen Urlaub in Tirol an und möchte
+                            den Professor gern bei seinem Aufenthalt in Innsbruck treffen. Thun will
+                            nach seinem Urlaub auch den Kaiser über Fickers Entschluss
+                            informieren.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc docStatus="approved"/>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <index>
+                    <term>Universität Innsbruck</term>
+                    <term>Personalfragen</term>
+                </index>
+                <p>Wien, den 2. Juni 1854</p>
+                <p>Werther Herr Professor!</p>
+                <p>Gerne verzeihe ich Ihnen die Verzögerung der Mittheilung Ihres Entschlusses der
+                    Sie zu dem mir überaus erfreulichen, und kaum mehr gehofften Ergebnisse geführt
+                    hat, welches ich aus Ihrem werthen Schreiben vom 29. vorigen Monats<note xml:id="note_1">Vgl. <ref target="thun/thun-korrespondenz/IfOeG/ficker_an_thun_konzept_1854-04-29_CA197.xml">Julius Ficker an Leo Thun (Konzept). Innsbruck, 29. Mai
+                        1854.</ref>
+                    </note> ersehe. Auch ich hoffe zuversichtlich Sie werden es nicht
+                    bereuen, uns treu geblieben zu sein, und was ich dazu beitragen kann, um Ihre
+                    Stellung angenehm und erfolgreich zu machen, das werde ich mit Freuden thun. Nur
+                    in diesem Augenblick kann ich nicht handeln. Ich stehe nämlich im Begriffe eine
+                    Erholungsreise anzutreten, und zwar nach <region key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tyrol</region>.
+                        <placeName key="innsbruck" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Inspruck</placeName> [Innsbruck] werde ich erst
+                    auch dem Rückwege, das ist Anfangs Juli berühren, freue mich aber recht sehr,
+                    Sie dort zu sprechen, und nach meiner Heimkehr sodann <persName key="franz-joseph">Seiner Majestät</persName> über diese Angelegenheit
+                    Vortrag zu erstatten.</p>
+                <p>Mit ausgezeichneter Hochachtung</p>
+                <p>Ihr ergebener<lb/>Thun</p>
+            </div>
+        </body>
+    </text>
+</TEI>

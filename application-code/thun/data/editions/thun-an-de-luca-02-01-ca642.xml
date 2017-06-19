@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
+                        <persName key="luca-antonio-de" role="recipient">Antonio Saverio de
+                        Luca</persName>
+                    <lb/>
+                    <placeName ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</placeName>, <date when="--02-01">1.
+                        Februar</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Vatikanisches Geheimarchiv</institution>
+                        <repository>Segreteria di Stato</repository>
+                        <idno>Spogli di Cardinali e Officiali di Curia, De Luca card. Antonio
+                            Saverio, 2A</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Thun bittet den Kardinal ein anliegendes Dokument zu lesen und ihm
+                            mitzuteilen, wann er ihn aufsuchen kann.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Französisch.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc docStatus="approved"/>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                </index>
+                <p>Monseigneur !</p>
+                <p>J'ose prier Votre Excellence de bien vouloir lire le document ci-joint, et me
+                    faire indiquer à quelle heure je puis avoir l'honneur de me présenter chez
+                    vous.<lb/>Agréez Monseigneur l'expression de ma haute considération et de tous
+                    mes sentiments les plus distingués</p>
+                <p>le 1 fevrier</p>
+                <p>Comte Thun</p>
+            </div>
+        </body>
+    </text>
+</TEI>

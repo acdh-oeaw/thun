@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
+                        <persName key="bach-alexander" role="recipient">Alexander
+                        Bach</persName>
+                    <lb/>
+                    <placeName ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</placeName>, <date>o. D.</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichisches Staatsarchiv</institution>
+                        <repository>Allgemeines Verwaltungsarchiv</repository>
+                        <idno>Nachlass Bach, Karton 11</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Thun lobt die Predigten von Johann Emanuel Veith. Dieser habe großen
+                            Einfluß auf die Bevölkerung und könne gegen die Revolution wirken.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Eh. kurze Notiz mit Bleistift von Leo Thun.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc docStatus="approved"/>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Katholische Kirche</term>
+                    <term>Revolution</term>
+                </index>
+                <p>Die Predigten des <persName key="veith-johann-emanuel">Veith</persName> sind von
+                    wesentlichem Einfluß um das Gewissen des Volkes in Beziehung auf die politischen
+                    Angelegenheiten wieder zu wecken, wovon am Ende allein Heilung der
+                    Zeitkrankheiten erwartet werden kann. Ihm Hindernisse legen, heißt der Permanenz
+                    der Revoluzion in die Hände arbeiten; den <persName key="rauscher-joseph">Erzbischof</persName>
+                    <note xml:id="note_1">Da das Datum nicht klar ist, ist
+                        eine klare Zuordnung nicht möglich. Es kann sich um Erzbischof Joseph Othmar
+                        Rauscher oder um dessen Vorgänger Vinzenz Eduard Milde handeln.</note> dazu
+                    gebrauchen, überdieß auch der kirchlichen Demokrazie (<persName key="brunner-sebastian">Brunner</persName> et cons[?]) Vorschub
+                    leisten.</p>
+                <p>Thun</p>
+            </div>
+        </body>
+    </text>
+</TEI>

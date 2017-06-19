@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
+                        <persName key="exner-franz" role="recipient">Franz Exner</persName>
+                    <lb/>
+                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="--08-10">10. August
+                        [1850]</date>
+                    <note xml:id="note_1">Im Katalog der Nationalbibliothek ist der
+                        Brief in das Jahr 1849 datiert. Das Jahr 1849 ist mit Bleistift auf dem
+                        Blatt notiert. Mehrere Indizien sprechen allerdings für eine Datierung in
+                        das Jahr 1850: Einmal ist dies die Erwähnung von Heinrich Grauerts Berufung,
+                        die erst im Jahr 1850 erfolgte. Gregor Zeithammer wurde erst im Mai 1850 zum
+                        Gymnasialinspektor ernannt.</note>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichische Nationalbibliothek</institution>
+                        <repository>Handschriftenabteilung</repository>
+                        <idno>Autogr. 273/47-7</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun erkundigt sich bei Franz Exner, wann dieser wieder in das
+                            Ministerium kommen werde. Der Minister möchte nämlich, einem Vorschlag
+                            von Gregor Zeithammer folgend, einige Gymnasialinspektoren aus Böhmen
+                            und Galizien zu einer Besprechung nach Wien einladen, um deren Eindrücke
+                            über die Situation an den Gymnasien zu erfahren. Thun bittet Exner um
+                            seine Meinung dazu. Thun glaubt nicht, dass eine Reise Exners nach
+                            Deutschland derzeit erforderlich sei, es sei denn, Exner könne auf einer
+                            solchen Reise einen Professor für Geschichte für die Prager Universität
+                            gewinnen. Abschließend wünscht Thun Exner noch eine gute
+                            Besserung.<lb/>In der Beilage findet sich ein Brief von Gregor Zeithammer,
+                            in der dieser einige Fragen zur Reorganisation der Gymnasien an Leo Thun
+                            richtet.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Auf der Rückseite findet sich in Abschrift ein <ref target="#CA77_1">Auszug aus einem Brief von Gregor Zeithammer</ref>.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc docStatus="approved"/>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Gymnasien</term>
+                    <term>Gymnasialinspektoren</term>
+                    <term>Geschichtswissenschaften</term>
+                    <term>Universität Prag</term>
+                </index>
+                <p>Wien, den 10. August</p>
+                <p>Lieber Herr Ministerialrath!</p>
+                <p>Ein Brief von <persName key="zeithammer-gregor">Zeithammer</persName> – aus
+                    welchem ich einen <ref target="#CA77_1">Auszug</ref> am Ende folgen lasse
+                    bestärkt mich wieder in meiner früheren Ansicht, daß es sehr gut wäre die
+                    Gymnasial-Inspektoren – wenigstens diejenigen, die schon in der Lage waren
+                    Bereisungen vorzunehmen und die eine große Anzahl von Gymnasien unter ihrer
+                    Aufsicht haben, etwa die aus <region ref="#place_1a477f0b4ff0e44372369bbd196cb38a">Böhmen</region> und
+                        <region ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</region> und dazu vielleicht <persName key="kleemann-johann">Kleemann</persName> – auch während der Ferien
+                    einzuberufen. Ich bitte, schreiben Sie mir Ihre Meinung darüber, und zugleich
+                    wann Sie wieder hier einzutreffen denken, wobei ich Sie aber dringend bitte,
+                    sich nicht zu übereilen, sondern sich ordentlich auszukurieren. Zu einer Reise
+                    nach <country ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</country> wüßte ich Ihnen keine besonderen Aufträge zu
+                    geben, es wäre denn, daß Sie Hoffnung hätten für <placeName ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</placeName>
+                    einen zweiten <persName key="grauert-heinrich">Grauert</persName> zu finden. Das
+                    ließe sich aber auch später machen und ich sollte denken Sie thäten besser jetzt
+                    auf gar nichts als Ihrer Erholung zu denken, und die Rückreise daher mit einer
+                    Tour in das <region ref="#place_998cb15276c5e21f109375bbe4f7cceb">Salzkammergut</region> oder dergleichen zu verbinden. Ich
+                    hoffe der Kreuzbrunn schlägt Ihnen gut an, und Sie finden unter der Gästen von
+                    denen <placeName ref="#place_07746ef3772ea6e718f5cd3a37681d92">Marienbad</placeName> überfüllt sein soll, einige die Ihnen die
+                    Brunnen und Waldpromenaden angenehm machen.</p>
+                <p>Mit aufrichtiger Hochachtung</p>
+                <p>Ihr ergebener Thun</p>
+                <div type="enclosure" xml:id="CA77_1">
+                    <p>
+                        <hi rend="ul">Auszug:</hi>
+                    </p>
+                    <p>Es entstehen jetzt viele wichtige Fragen, welche vielleicht am besten ihre
+                        Lösung erhielten, wenn wir Inspektoren nach <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> zu
+                        den einschlägigen Berathungen berufen würden, denn schriftlich sind die
+                        Erörterungen darüber zeitraubend und unvollständig. Ich erlaube mir hier
+                        einige zu berühren:<lb/>Sind die als befähigt anerkannten Kandidaten
+                        sogleich vorzuschlagen und anzustellen? was sehr wünschenswerth ist, da das
+                        Supplentenwesen nicht viel taugt.<lb/>Welche Gymnasien werden Ober-, welche
+                        nur Untergymnasien sein? sind vor der Hand sechsklassige zu
+                        belassen?<lb/>Wie ist es in Hinkunft mit dem utraquistischen Unterricht zu
+                        halten? Da der Usus ein sehr verschiedener ist, wie aus meinem, dem
+                            <persName key="mecsery-von-tsoor-karl">H. Statthalter</persName> bereits
+                        übergebenen Revisionsbericht an das <orgName key="ministerium-fuer-kultus-und-unterricht">hohe Ministerium</orgName>
+                        hervorgeht.<lb/>Was haben die Gemeinden für Dotationen zu übernehmen? Ich
+                        habe überall diesfalls, ohne früher das betreffende Dekret zu kennen, mit
+                        den Stadtverordneten konferiert und die Resultate in meinen Bericht
+                        aufgenommen.<lb/>Wie steht es mit den für die zwei obersten Klassen nöthigen
+                        Lokalitäten und Apparaten?</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

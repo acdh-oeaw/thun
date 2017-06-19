@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
+                        <persName key="helfert-joseph-alexander" role="recipient">Joseph Alexander
+                        Helfert</persName>
+                    <lb/>
+                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1851-03-20">20. März 1851</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Mährisches Landesarchiv [Moravský zemský archiv v
+                            Brně]</institution>
+                        <repository>G 44, Nachlass Helfert</repository>
+                        <idno>Karton 26, Thun Lev</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun hofft, dass Joseph Alexander Helfert und Josef Jirecek Prof.
+                            Václav Tomek von einer nicht näher genannten Angelegenheit überzeugen
+                            können.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc docStatus="approved"/>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Vídeňský denník</term>
+                </index>
+                <p>Wien 20. März 1851.</p>
+                <p>Ich habe in einem Anfalle von Zerstreuung das Couvert zerrissen und bitte deshalb
+                    recht sehr um Verzeihung.<lb/>Ich hoffe die Korrespondenz mit Ihnen und
+                        <persName key="jirecek-josef">Jir.</persName> wird behülflich sein, um
+                        <persName key="tomek-vaclav-vladivoi">Tomek</persName> aufrecht zu halten.
+                    Gelingt das, so ist damit etwas Bedeutendes gewonnen.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
+                        <persName key="bach-alexander" role="recipient">Alexander
+                        Bach</persName>
+                    <lb/>
+                    <placeName ref="#place_e3a1571b9091d6d78548ad3b4b159d11">Hetzendorf</placeName>, <date when="--07-11">11. Juli [o. J.]</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichisches Staatsarchiv</institution>
+                        <repository>Allgemeines Verwaltungsarchiv</repository>
+                        <idno>Nachlass Bach, Karton 11</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bittet seinen Ministerkollegen Alexander Bach, ihn umgehend von
+                            der Entscheidung des Kaisers in einer nicht näher genannten
+                            Angelegenheit zu informieren.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc docStatus="approved"/>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Verwaltung</term>
+                    <term>Ministerrat</term>
+                </index>
+                <p>Hetzendorf den 11. Juli</p>
+                <p>Verehrtester Collega!</p>
+                <p>Mit der peinlichsten Spannung sehe ich der Lösung des Räthsels entgegen, das mich
+                    vor der Hand den schmerzlichsten Gefühlen preis gibt! Erweisen Sie mir die
+                    Wohlthat, wenn sie eine Nachricht über den Erfolg der Unterredung erhalten, mit
+                    der unser <persName key="franz-joseph">Kaiser</persName> leider den
+                    gebrandmarkten Abenteuerer begnadigt hat, sie in mein Ministerium zu schicken.
+                    Ich ertheile Auftrag, daß mir sogleich herausgebracht werde, was von Ihnen
+                    kommen sollte.</p>
+                <p>Ihr ergebener<lb/>Thun</p>
+            </div>
+        </body>
+    </text>
+</TEI>

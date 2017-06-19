@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
+                        <persName key="bach-alexander" role="recipient">Alexander
+                        Bach</persName>
+                    <lb/>
+                    <placeName ref="#place_3301f4500e16711d273deb7247ad07cd">o. O. [Wien]</placeName>, <date when="1850">[1850]</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichisches Staatsarchiv</institution>
+                        <repository>Allgemeines Verwaltungsarchiv</repository>
+                        <idno>Nachlass Bach, Karton 11</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bittet Alexander Bach um eine Unterredung.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc docStatus="approved"/>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Ministerkonferenz</term>
+                </index>
+                <p>Verehrtester Collega!</p>
+                <p>Als ich heute Ihre Rückkehr aus der "Korrespondenz" erfuhr, wollte ich Sie eben
+                    um eine Unterredung – etwa heute Abend ersuchen. Nachdem mir nun – erst jetzt –
+                    Ihre Zeilen von gestern Früh zukommen, sende ich Ihnen beiliegend die
+                    gewünschten Akten. – Ist heute <orgName key="ministerrat">Ministerrath</orgName>
+                    so werden die einschlägigen Fragen dabei ohnehin der Erörterung unterzogen
+                    werden müssen. Im Allgemeinen haben wir uns neulich schon verständigt. Sollte
+                    heute noch kein <orgName key="ministerrat">Ministerrath</orgName> sein, – ich
+                    habe noch keine Einladung erhalten, – so bitte ich Sie mir sagen zu lassen, ob
+                    ich Sie Abends etwa zwischen 8 und 9 Uhr aufsuchen kann? Ich hoffe der Ausflug
+                    hat Ihnen gut angeschlagen.</p>
+                <p>Der Ihrige<lb/>Thun</p>
+                <p>Montag 12 Uhr.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

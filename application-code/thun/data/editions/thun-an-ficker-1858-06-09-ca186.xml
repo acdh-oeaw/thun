@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
+                        <persName key="ficker-julius" role="recipient">Julius
+                        Ficker</persName>
+                    <lb/>
+                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1858-06-09">9. Juni 1858</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Institut für Österreichische Geschichtsforschung</institution>
+                        <repository>Archiv</repository>
+                        <idno>Nachlass Ficker. Thun, 10</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bittet Julius Ficker um Auskunft über den Historiker Gottfried
+                            Muys. Der Minister möchte diesen an die Universität Lemberg berufen.
+                            Professor Joseph Aschbach hat sich für Muys ausgesprochen und Thun
+                            glaubt sich zu erinnern, dass auch Ficker sich vor Jahren für Muys stark
+                            gemacht hatte. Thun hat allerdings eine anonyme Warnung aus Bonn
+                            erhalten und möchte nun Näheres über Muys' Lebenswandel und
+                            wissenschaftliches Werk in Erfahrung bringen.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Auf der Rückseite des Briefes eine Notiz von Julius Ficker.</p>
+                        <p>Verweis auf A3 XXI D453.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc docStatus="approved"/>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Geschichtswissenschaften</term>
+                    <term>Universität Lemberg</term>
+                </index>
+                <p>Wien den 9. Juni 1858</p>
+                <p>Werther Herr Professor!</p>
+                <p>Unter den Männern die Sie mir bei früheren Gelegenheiten für eine Berufung nach
+                        <country ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</country> empfohlen haben, war auch <persName key="muys-gottfried">Dr. Muys</persName>. Ich habe nun die Absicht ihn als
+                    Professor der Geschichte – namentlich für alte Geschichte – nach <orgName key="universitaet-lemberg">Lemberg</orgName> in Antrag zu bringen. Auch
+                        <persName key="aschbach-joseph">Prof. Aschbach</persName> empfiehlt ihn
+                    sehr, und hat deshalb mit ihm eine vorläufige Verhandlung gepflogen. Schon vor
+                    einiger Zeit erhielt ich aus <placeName ref="#place_03b16e0a78b56bb5ada8e43123aaaa62">Bonn</placeName> eine anonyme Warnung.
+                    Anonyme Schreiben pflege ich einfach in den Papierkorb zu werfen. Ich erhalte
+                    nun heute die anliegende dringende Wiederholung. Ich sehe mich dadurch doch
+                    veranlaßt Ihre erprobte Gefälligkeit noch einmal in Anspruch zu nehmen, und Sie
+                    zu bitten, mir zu schreiben, ob Sie noch der Überzeugung sind, daß <persName key="muys-gottfried">Dr. Muys</persName> volles Vertrauen verdient oder
+                    falls Sie ihn persönlich nicht hinreichend kennen sollten, wer etwa als ein ganz
+                    verlässlicher Gewährsmann anzusehen sein dürfte.</p>
+                <p>Mit aufrichtiger Hochachtung<lb/>Ihr ergebener<lb/>Thun</p>
+                <p/>
+                <p>&lt;Herr Minister<lb/>Erkundigen Sie sich nochmals&gt;</p>
+                <note xml:id="note_1">Bemerkung von Ficker auf der Rückseite des Briefes.</note>
+            </div>
+        </body>
+    </text>
+</TEI>

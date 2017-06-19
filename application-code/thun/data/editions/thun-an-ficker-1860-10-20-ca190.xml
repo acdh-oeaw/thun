@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
+                        <persName key="ficker-julius" role="recipient">Julius
+                        Ficker</persName>
+                    <lb/>
+                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1860-10-20">20. Oktober 1860</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Institut für Österreichische Geschichtsforschung</institution>
+                        <repository>Archiv</repository>
+                        <idno>Nachlass Ficker. Thun, 16</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun teilt Julius Ficker mit, dass er die Angelegenheit von Alphons
+                            Hubers Habilitation im Sinne von Julius Ficker entschieden habe. Thun
+                            bittet Ficker vor seinem Abgang aus dem Ministerium noch einmal
+                            eindringlich, Österreich treu zu bleiben. Thun hofft, dass damit der von
+                            ihm eingeschlagene Kurs fortgesetzt werden könne.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc docStatus="approved"/>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Geschichtswissenschaften</term>
+                    <term>Österreichische Geschichte</term>
+                    <term>Universität Innsbruck</term>
+                </index>
+                <p>Wien den 20. Oktober 1860</p>
+                <p>Werther Herr Professor!</p>
+                <p>Ich danke Ihnen für Ihr umständliches Schreiben. Die Angelegenheit des <persName key="huber-alphons">Dr. Huber</persName> habe ich, von Ihren Argumenten
+                    überzeugt, noch in einer Weise entschieden, welche hoffentlich Ihren Wünschen
+                    entsprechen wird. Mir erübrigt nur eine dringende Bitte: Bleiben Sie <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> treu, auch nachdem ich aufgehört
+                    habe, Minister zu sein. Selbst wenn – was hoffentlich nicht der Fall sein wird –
+                    zeitweilig Verhältnisse eintreten sollten, welche der Förderung der Studien
+                    minder günstig wären. Dann gälte es erst recht, daß diejenigen die mir
+                    freundlich gesinnt sind, aufrecht erhalten, woran ich zu bauen bemüht war.</p>
+                <p>Mit aufrichtiger Hochachtung</p>
+                <p>Ihr<lb/>ergebener<lb/>Thun</p>
+            </div>
+        </body>
+    </text>
+</TEI>

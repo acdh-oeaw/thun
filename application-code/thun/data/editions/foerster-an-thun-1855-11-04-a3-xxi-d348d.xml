@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <persName key="foerster-heinrich" role="sender:kleriker">Heinrich
+                        Förster</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <lb/>
+                    <placeName ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</placeName>, <date when="1855-11-04">4. November 1855</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D348</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Fürstbischof Heinrich Förster berichtet dem Minister, dass der Direktor
+                            des Teschener Gymnasiums ihn mehrmals um die Entfernung des Lehrers
+                            Florian Lukas gebeten hat, der durch anonyme Briefe die geistlichen
+                            Lehrer des Gymnasiums verleumdet hatte. Förster bittet daher um eine
+                            kurze Mitteilung, was in der Sache geschehen soll.<lb/>Im beigelegten
+                            Schreiben von Direktor Philipp Gabriel an Heinrich Förster beklagt sich
+                            jener, dass das anonyme Schreiben, in welchem er und andere Lehrer
+                            verleumdet wurden, mittlerweile auch in der Öffentlichkeit bekannt
+                            geworden sei. Er deutet dies als weitere Verschwörung der Verleumder
+                            gegen die katholische Kirche. Das Ansehen der Lehrer bei der Bevölkerung
+                            und insbesondere bei den Schülern leide sehr darunter. Er bittet den
+                            Bischof daher den Schreiber schnellstmöglich zu enttarnen und ihn und
+                            seine Helfer aus dem Gymnasium zu entfernen, da sonst der Schaden nicht
+                            nur für das Gymnasium, sondern für ganze katholische Kirche nur noch
+                            größer werde.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Der Brief ist gemeinsam mit weiteren Briefen, die dieselbe Thematik
+                            betreffen, abgelegt:<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/foerster-an-thun_1855_09-15_A3-XXI-D348.xml">Heinrich Förster an Leo Thun. Schloss Johannesberg, 10. September
+                                1855</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/wilhelm-an-thun_1855-09-15_A3-XXI-D348a.xml">Andreas Wilhelm an Leo Thun. Krakau, 15. September
+                                1855</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/wilhelm-an-kink_1855-09-15_A3-XXI-D348b.xml">Andreas Wilhelm an Rudolph Kink. Krakau, 15. September 1855
+                                </ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/foerster-an-thun_1855-10-11_A3-XXI-D348c.xml">Heinrich Förster an Leo Thun. Schloss Johannesberg, 11. Oktober
+                                1855</ref>.</p>
+                        <p>Beilage: <ref target="#D348d_1">Philipp Gabriel an Heinrich Förster.
+                                Teschen, 1. November 1855</ref>.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc docStatus="approved"/>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Gymnasien</term>
+                    <term>Schulräte</term>
+                    <term>Gesellschaft Jesu</term>
+                </index>
+                <p>Hochgebietender Herr Minister,<lb/>Hochgeborener Her Graf!</p>
+                <p>In der betrübenden Teschner Angelegenheit bin ich seither von dem Direktor
+                        <persName key="gabriel-philipp">Gabriel</persName> in Wahrheit mit einer
+                    Fluth von Klagen, Hilferufen und Bitten überschwemmt worden. Die <ref target="#D348d_1">neueste gestern</ref> empfangene scheint mir der Art, daß
+                    ich es Euer Excellenz nicht ersparen kann, Hochdieselben damit zu belästigen und
+                    um Abhilfe dieser Übelstände, namentlich aber um Amotion jenes früher
+                    bezeichneten <persName key="lukas-florian">Lehrers</persName> ganz gehorsamst zu
+                    bitten, von welchem die anonymen Briefe ausgegangen sind und dem jedes Mittel
+                    recht zu sein scheint, sein Ziel – die Amotion der Priester und namentlich des
+                        <persName key="gabriel-philipp">Gabriel</persName> vom Gymnasium – zu
+                    erreichen.<lb/>Eine, wenn auch noch so kurze Notiz von dem, was in dieser Sache
+                    geschehen wird, würde mich sehr beruhigen als dankbar
+                    verpflichten.<lb/>Genehmigen Hochdieselben den Ausdruck der besonderen
+                    Verehrung, mit welcher verharrt</p>
+                <p>Euer Excellenz gehorsamster Diener<lb/>Heinrich<lb/>Fürstbischof</p>
+                <p>Breslau den 4. November 1855</p>
+                <div type="enclosure" xml:id="D348d_1">
+                    <p>Hochwürdigster Fürstbischof!<lb/>Gnädigster Herr!</p>
+                    <p>Mit tiefer Betrübnis gebe ich Euer Fürstbischöflichen Gnaden bekannt, daß
+                            <placeName ref="#place_27f77677310f3f4e0b878e7f7f0f0dd1">Teschen</placeName> von der Thatsache erfüllt ist: die
+                        katholischen Priester am Gymnasium seien sowol bei <persName key="thun-hohenstein-leo">Seiner Excellenz dem k.k.
+                            Cultusminister</persName> als auch bei Euer Fürstbischöflichen Gnaden
+                        verklagt; ebenso wurde der Innhalt des anonymen Schreibens in öffentlichen
+                        Häusern bereits kund gegeben. Dies meldeten mir heute der Katechet <persName key="sobetzky-leopold">Sobetzki</persName> und der Lehrer <persName key="danel-franz">Danel</persName>.<lb/>Da ich bis jetzt von dem mir auf
+                        vertraulichen Wege bekannt gewordenen Innhalte des anonymen Schreibens gegen
+                        Niemand Erwähnung gemacht habe, so muß der Schluß nahe liegen, daß der
+                        Verfasser selbst oder einer der Helfershelfer – denen der Erfolg zu lange
+                        ausbleibt – den Innhalt des Schreibens absichtlich zur Kenntnis der
+                        Bevölkerung gebracht haben, um die Erbitterung gegen die katholischen
+                        Priester am Gymnasium in speciel zu entflammen und – durch die consequente
+                        Fortsetzung der revolutionären Handlungsweise – den Sieg endlich doch über
+                        dieselben – inmitten der Protestanten, im Angesichte der katholischen
+                        Bevölkerung und was flucherregend erscheint, vor der Jugend, bestehend aus
+                        einigen tausend großen und kleinen Schülern, beiderlei Geschlechtes –
+                        davonzutragen!<lb/>Unter den genannten Umständen, da die Schandthat von
+                        außen an uns dringt, habe ich heute die beteiligten Priester mit dem
+                        Sachverhalte bekannt gemacht. Sie erkennen in der infernalen Bosheit des
+                        Verfassers zugleich die destructive Tendenz deßelben in sittlicher und
+                        religiöser Beziehung und erklären: „Daß der Sittlichkeit und Religiosität
+                        der Jugend und katholischen Bevölkerung hohe Gefahr drohe, wenn nicht der
+                        Verfasser – sogleich von <placeName ref="#place_27f77677310f3f4e0b878e7f7f0f0dd1">Teschen</placeName> übersetzt wird,
+                        welcher überdies kaum solche freventliche, die Zwecke des Staates und der
+                        Kirche untergrabende Schritte gewagt haben würde, hätte derselbe nicht auf
+                        die Gunst und den Schutz des vorgesetzten Herrn Schulrates – vermeßentlich
+                        gesündiget. In diesem Verhältnisse und in dem von heftiger Leidenschaft und
+                        Haß gegen den katholischen Clerus erfüllten Character des Verfassers liegt
+                        die tiefste Wurzel der Schandthat.“<lb/>Die besseren Bürger der Stadt, so
+                        wie die Staatsbeamten sind über die maßlose Schlechtigkeit sehr indigniert;
+                        Niemand ahnt jedoch noch, daß der Verfasser zugleich ein Mitglied des
+                        katholischen Lehrkörpers ist.<lb/>Es ist bei den genannten Umständen aus
+                        Rücksichten der religiös-sittlichen Erziehung der Jugend im Angesichte der
+                        Bevölkerung dringend geboten, daß Euere Fürstbischöflichen Gnaden, als
+                        Oberhirt dieses Anteils, die allsogleiche Versetzung und Entfernung dieses
+                        Lehrers von <placeName ref="#place_27f77677310f3f4e0b878e7f7f0f0dd1">Teschen</placeName> postulieren und wenn – aus
+                        persönlichen Rücksichten noch Verzögerungen eintreten sollten – aus
+                        unverschiebbaren Dringlichkeitsgründen, diese systematische Revolution,
+                        wegen ihrer bedeutungsvollen Tragweite für den Staat und die Kirche,
+                        zunächst aber wegen der destructiven Tendenz, zur unmittelbaren Kenntnis
+                        Seiner k.k. Apostolischen Majestät bringen. Es kann solch ein extremer Fall
+                        sich kaum wieder im Umfange der Monarchie ereignen!<lb/>Sollten Euere
+                        Fürstbischöflichen Gnaden des Seelenheiles der Hochihrem Schutze
+                        anvertrauten Priester und Diöcesanen wegen, so wie aus Rücksichten für das
+                        katholische Gymnasium, der einzigen Pflanzschule des diesseitigen Clerus,
+                        selbst eine Reise nach <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> unternehmen müssen; so
+                        mögen Sie, Hochwürdigster Fürstbischof, dieses Opfer, des erhabenen Zweckes
+                        und der Zukunft wegen, im Hinblicke auf die religiös-sittliche Bildung der
+                        Generation, nicht scheuen. Der Herr wird Ihnen dafür segensreich edle
+                        Früchte heranreifen lassen!<lb/>Die katholischen Priester des Gymnasiums
+                        halten den bezeichneten Weg für den besten und schnellsten, weil Gefahr im
+                        Verzuge liegt; sie nehmen jedoch keinen Anstand, selbst den Weg der
+                        Öffentlichkeit zu betreten, wenn Euere Fürstbischöflichen Gnaden gestatten,
+                        daß sich dieselben auf das hohe Ordinariatsschreiben vom 8. Oktober berufen
+                        dürfen, in welchem der Verfasser des anonymen Schreibens aus der vorgelegten
+                        Handschrift unbezweifelt erkannt wurde. Im letzteren Falle würde jedoch hier
+                        großes Aufsehen und Parteienhaß erregt werden und eine Verletzung des Herrn
+                        Schulrates – den wir Alle hoch schätzen – unvermeidlich sein, auch,
+                        unbezweifelt, viele persönliche Reibungen für die Zukunft
+                        herbeiführen.<lb/>Daß ein energisches Einschreiten bei einzelnen auffälligen
+                        Erscheinungen nicht statt fand, wird wol erklärlich sein, wenn bedacht wird,
+                        daß die ganze Zukunft eines Professors von dem Vorgesetzten abhängt und ich
+                        es jederzeit als unlöblich für den katholischen Priester erachtet habe,
+                        denselben in irgend einer Weise amtlich unangenehm zu berühren, was offenbar
+                        unvermeidlich gewesen wäre. Euer Fürstbischöflichen Gnaden aber steht in
+                        Erziehungsangelegenheiten der katholischen Schulen in der Diöcese das Recht
+                        und die Pflicht zu, rücksichtslos, auf Grund der constatierten Thatsachen,
+                        einzuschreiten und somit von den katholischen Priestern, als Untergebenen
+                        bei der Schule – eine Calamität von Seite des Schulrates –
+                        abzuwenden.<lb/>Aus den oben bezeichneten Gründen ist es daher dringlich
+                        notwendig, daß für den Führer dieser – seit Jahren eingeleiteten
+                        systematischen Revolution gegen den katholischen Clerus, mit dem Zwecke die
+                        katholischen Institute aufzulösen oder mit dem evangelischen Gymnasium in
+                        Teschen zu vereinigen – ein Lehrer für Latein, welcher zugleich in der
+                        katholischen Richtung erprobt ist, hieher schleunigst berufen, derselbe aber
+                        angewiesen werde, <placeName ref="#place_27f77677310f3f4e0b878e7f7f0f0dd1">Teschen</placeName> sogleich zu verlassen.
+                        Könnte eine solche Berufung auch für den Lehrer S., welcher eben auch Latein
+                        lehrt geschehen, da derselbe in diese Angelegenheit mitverflochten ist – den
+                        kein Piaristenrector wegen gleicher Zerwürfnisse in seiner Familie dulden
+                        wollte, der viel Unheil über unzählige Personen in und außer dem Orden
+                        gebracht hat; – dann glaube ich, dürfte der Herd des schmachvollen
+                        Zerwürfnisses, gleich hemmend für den wissenschaftlichen als
+                        sittlich-religiösen Fortschritt der Jugend, für die Gegenwart gesprengt
+                        sein!<lb/>Indem die katholischen Priester <persName key="bitta-josef">Bitta</persName>, <persName key="danel-franz">Danel</persName>,
+                            <persName key="sobetzky-leopold">Sobetzky</persName> mit dem Gefertigten
+                        ihre zur Beseitigung dieses gewiß beklagenswerten Ereignisses unerläßliche
+                        Bitte Euer Fürstbischöflichen Gnaden ehrfurchtsvollst unterbreiten,
+                        empfehlen sich dieselben zu weiteren Gnaden mit der Versicherung, daß sie
+                        jederzeit dem Berufe treu und würdig vorgehen werden.<lb/>In demutsvoller
+                        Ergebenheit verharret</p>
+                    <p>Euer Fürstbischöflichen Gnaden<lb/>unterthänigster<lb/>Dr. Gabriel<lb/>pr.
+                        Director des kth. Gymnas. u. [?] [?] adligen Convictes</p>
+                    <p>Teschen am 1 November 1855</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

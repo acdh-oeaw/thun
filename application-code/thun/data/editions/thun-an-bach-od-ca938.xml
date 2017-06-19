@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
+                        <persName key="bach-alexander" role="recipient">Alexander
+                        Bach</persName>
+                    <lb/>
+                    <placeName ref="#place_3301f4500e16711d273deb7247ad07cd">o. O. [Wien]</placeName>, <date when="1851">[1851]</date>
+                    <note xml:id="note_1">Das Datum ist mit Bleistift am Blatt
+                        vermerkt.</note>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichisches Staatsarchiv</institution>
+                        <repository>Allgemeines Verwaltungsarchiv</repository>
+                        <idno>Nachlass Bach, Karton 11</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bittet Alexander Bach im Namen seines Schwagers um ein
+                            Treffen.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc docStatus="approved"/>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term/>
+                </index>
+                <p>Liebster Freund!</p>
+                <p>Mein <persName key="clam-martinic-heinrich-jaroslav">Schwager</persName> ist
+                    angekommen, und bleibt nur morgen hier. Darf er Sie morgen aufsuchen und zu
+                    welcher Stunde?</p>
+                <p>Aufrichtig der Ihrige<lb/>Thun</p>
+            </div>
+        </body>
+    </text>
+</TEI>

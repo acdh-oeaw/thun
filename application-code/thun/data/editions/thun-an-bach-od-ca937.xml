@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
+                        <persName key="bach-alexander" role="recipient">Alexander
+                        Bach</persName>
+                    <lb/>
+                    <placeName ref="#place_3301f4500e16711d273deb7247ad07cd">o. O. [Wien]</placeName>, <date when="1851-04">[April 1851]</date>
+                    <note xml:id="note_1">Das Datum ist auf
+                        dem Blatt mit Bleistift verzeichnet, lässt sich aber nicht weiter
+                        verifizieren.</note>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichisches Staatsarchiv</institution>
+                        <repository>Allgemeines Verwaltungsarchiv</repository>
+                        <idno>Nachlass Bach, Karton 11</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bittet Minister Alexander Bach um ein Zusammentreffen beim
+                            Justizminister, damit man dort die Angelegenheit der Ehefragen näher
+                            besprechen kann.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc docStatus="approved"/>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Ehefrage</term>
+                </index>
+                <p>Der <persName key="schmerling-anton">Justizminister</persName> hatte mir beim
+                    Hofkonzert versprochen heute um 1 Uhr mit uns bezüglich der Ehefrage
+                    zusammenzutreten. Ich habe leider gestern verabsäumt die Sache nochmals zur
+                    Sprache zu bringen. Ist es Ihnen genehm heute um diese Zeit, oder wenn Sie
+                    verhindert sein sollten Abends, oder morgen u. zu welcher Zeit sich mit mir beim
+                        <persName key="schmerling-anton">Justizminister</persName> einzufinden?</p>
+                <p>Aufrichtig der Ihrige<lb/>Thun</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
+                        <persName key="tomek-vaclav-vladivoi" role="recipient">Václav Vladivoi
+                        Tomek</persName>
+                    <lb/>
+                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1855-07-20">20. Juli [1855]</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Tschechisches Nationalmuseum [Archiv Národního
+                            muzea]</institution>
+                        <repository>Archiv</repository>
+                        <idno>Nachlass Tomek</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun entschuldigt sich zunächst auf Tschechisch, dass er nicht den
+                            ganzen Brief in tschechischer Sprache schreibt. Thun bedankt sich dann,
+                            dass Václav Tomek ihm dessen Werk über die Geschichte Prags widmen will.
+                            Er sieht das als Beweis des gemeinsamen Fühlens und Strebens. Thun hatte
+                            noch keine Zeit, das Buch zu lesen, aber er ist sich sicher, dass es
+                            gelungen sei. Er freut sich auch weiterhin über Nachrichten über den
+                            Fortgang seiner Studien.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Deutsch und Tschechisch.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc docStatus="approved"/>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Geschichtswissenschaften</term>
+                </index>
+                <p>Na Peruci dne 30ho července.</p>
+                <p>Vzácný pane!</p>
+                <p>Po česku psáti již mi zase nejde – tedy po německu.</p>
+                <p>Ihre Absicht, mir Ihre Geschichte Prags <note xml:id="note_1">Vgl. Václav Tomek,
+                        Geschichte der Stadt Prag, Bd. 1, Prag 1856.</note> zu widmen, glaube ich
+                    als eine Anerkennung der Thatsache deuten zu dürfen, daß gemeinsame Zwecke Ihnen
+                    und mir vorschweben. Ich lege auf diese Thatsache zu großen Werth, als daß ich
+                    mich nicht dieser Anerkennung freuen und daher Ihre Widmung mit herzlichem Danke
+                    annehmen sollte. Ich habe hier leider keine Zeit gefunden, von dem Inhalte des
+                    Werkes Kenntnis zu nehmen, doch bürgt mir, ohne daß es irgend welcher
+                    Gewährsmänner bedurfte, für den Werth desselben die Liebe mit der Sie daran
+                    gearbeitet, und der Fleiß und die Mühe, die Sie wie mir längst bekannt ist, seit
+                    Jahren darauf verwendet haben.<lb/>Ich hoffe demnächst bei meiner Rückkehr nach
+                        <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName> durch <persName key="jirecek-josef">Jirecek</persName> ein Mehreres über ihre Bestrebungen und Arbeiten,
+                    namentlich auch über den Fortgang Ihrer Geschichte Österreichs zu hören.</p>
+                <p>Mit aufrichtiger Hochachtung<lb/>Ihr<lb/>Ergebener Leo Thun</p>
+            </div>
+        </body>
+    </text>
+</TEI>

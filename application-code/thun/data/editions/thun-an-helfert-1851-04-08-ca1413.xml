@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
+                        <persName key="helfert-joseph-alexander" role="recipient">Joseph Alexander
+                        Helfert</persName>
+                    <lb/>o. O., <date when="1851-04-08">o. D. [8. April
+                        1851]</date>
+                    <note xml:id="note_1">Das Datum ist mit Bleistift am oberen
+                        Blattrand vermerkt.</note>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Mährisches Landesarchiv [Moravský zemský archiv v
+                            Brně]</institution>
+                        <repository>G 44, Nachlass Helfert</repository>
+                        <idno>Karton 26, Thun Lev</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun sendet Joseph Alexander Helfert einige Akten zum ruthenischen
+                            Seminar in Paris, die er vom Minister des Innern, Alexander Bach,
+                            erhalten hat. Er bittet um baldige Rücksendung derselben.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc docStatus="approved"/>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Nationalitätenfrage</term>
+                </index>
+                <p>Statt Ihr Konzept abgehen zu lassen, habe ich die beiliegenden Akten<note xml:id="note_2">Die erwähnten Akten sind nicht vorhanden.</note> über das
+                    ruthenische Seminar in <placeName ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</placeName> – da ich davon schon wußte –
+                    b. M. von <persName key="bach-alexander">Bach</persName> erbethen. – Ich bitte,
+                    sie mir morgen zurückzustellen.</p>
+                <p>Thun</p>
+            </div>
+        </body>
+    </text>
+</TEI>

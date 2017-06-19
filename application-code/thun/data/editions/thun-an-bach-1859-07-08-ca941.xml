@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
+                        <persName key="bach-alexander" role="recipient">Alexander
+                        Bach</persName>
+                    <lb/>
+                    <placeName ref="#place_e3a1571b9091d6d78548ad3b4b159d11">Hetzendorf</placeName>, <date when="1859-07-08">8. Juli 1859</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichisches Staatsarchiv</institution>
+                        <repository>Allgemeines Verwaltungsarchiv</repository>
+                        <idno>Nachlass Bach, Karton 11</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bittet Alexander Bach bei Ministerpräsident Rechberg darauf zu
+                            drängen, dass in der Wiener Zeitung der Waffenstillstand zum Vorfrieden
+                            von Villafranca bekannt gegeben werde. Man müsse verhindern, dass die
+                            österreichische Bevölkerung den Beschluss aus der französischen Presse
+                            erfahre.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc docStatus="approved"/>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Ministerkonferenz</term>
+                </index>
+                <p>Hetzendorf den 8. Juli 859</p>
+                <p>Verehrtester Collega!</p>
+                <p>Soll <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country> auch den Waffenstillstand
+                    (was mag der bedeuten?!) aus dem Moniteur erfahren? Ich hoffe es gelingt Ihnen
+                    von <persName key="rechberg-rothenloewen-bernhard">Rechberg</persName> noch
+                    rechtzeitig darüber eine Mittheilung für die Wiener Zeitung zu erzwingen.</p>
+                <p>Ihr ergebener</p>
+                <p>Thun</p>
+            </div>
+        </body>
+    </text>
+</TEI>

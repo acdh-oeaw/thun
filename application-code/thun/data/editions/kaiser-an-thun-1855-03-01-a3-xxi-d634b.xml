@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <persName key="franz-joseph" role="sender">Kaiser Franz Joseph</persName> an
+                        <persName key="thun-hohenstein-leo" role="recipient">Leo
+                    Thun</persName>
+                    <lb/>o. O., <date when="1855-03-01">1. März 1855</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D634</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Kaiser bittet Leo Thun um einen mündlichen Vortrag zu einem Gutachten
+                            des Reichsrats.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Das Schreiben befindet sich im Nachlass gemeinsam mit zehn weiteren
+                            kurzen Mitteilungen des Kaisers unter der Signatur A3 XXI D634.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc docStatus="approved"/>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Verwaltung</term>
+                </index>
+                <p>Lieber Graf Thun</p>
+                <p>Nach genommener Einsicht des anliegenden<note xml:id="note_1">Die Beilage ist im
+                        Nachlass von Thun nicht überliefert.</note> reichsräthlichen Gutachtens,
+                    wollen Sie mir Ihre hierüber gefasste Ansicht mündlich vortragen.<lb/>den 1.
+                    März 1855</p>
+                <p>Franz Joseph</p>
+            </div>
+        </body>
+    </text>
+</TEI>

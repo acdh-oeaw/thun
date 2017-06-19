@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <persName key="handel-maximilian" role="sender:beamter">Maximilian
+                        Handel</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo Thun</persName>
+                    <lb/>
+                    <placeName ref="#place_210f0edfbb6ec32a5e855e232eda91b4">Bad Gastein</placeName>, <date when="1855-07-30">30. Juli 1855</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D336</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der österreichische Gesandte in Stuttgart Maximilian Handel teilt Thun
+                            mit, dass er den Auftrag desselben in der Frage der Berufung von Franz
+                            Pfeiffer derzeit nicht ausführen könne. Auf Grund der Diffizilität des
+                            Auftrages möchte Handel auch nicht seinen Stellvertreter in Stuttgart
+                            damit beauftragen, sondern den Auftrag nach seiner Rückkehr nach
+                            Stuttgart persönlich erledigen.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Der Brief ist im Nachlass gemeinsam mit dem Schreiben von <ref target="thun/thun-korrespondenz/handel-an-thun_1855-03-34_A3-XXI-D336.xml">Maximilian Handel an Leo Thun. Stuttgart, 24. März 1855</ref>,
+                            abgelegt.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc docStatus="approved"/>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Universität Wien</term>
+                    <term>Deutsche Philologie</term>
+                </index>
+                <p>Hochgeborner Graf,</p>
+                <p>Euer Excellenz geehrtes Schreiben vom 1. July ist mir hier in <placeName key="bad-gastein" ref="#place_5dac03f57d7cb8586d6e7ee5f9a81bc2">Gastein</placeName> zugekommen, wo ich zur Herstellung
+                    meiner durch die Cholera angegriffenen Gesundheit durch drei Wochen verweilt
+                    habe.<lb/>Ich habe in der letzten Zeit meines Aufenthaltes in
+                        <placeName ref="#place_a330ac6c48198545d4d2f9ff2cb0fc05">Stuttgart</placeName> den <persName key="pfeiffer-franz">Dr.
+                        Pfeiffer</persName> einige Male gesehen, habe es aber vermieden ihn
+                    anzusprechen und bin von ihm auch nicht angesprochen worden.<lb/>Bei so
+                    bewandten Umständen und da der mir von Eurer Excellenz ertheilte Auftrag doch
+                    einigermaßen häcklicher Natur ist, habe ich es nicht für angemessen finden
+                    können meinem zeitweiligen Stellvertreter in <placeName ref="#place_a330ac6c48198545d4d2f9ff2cb0fc05">Stuttgart</placeName>
+                    die Vollziehung dieses Auftrages anzuvertrauen. Ich muß mir vielmehr dessen
+                    Erledigung bis zu meiner Ende August erfolgenden Rückkehr
+                    vorbehalten.<lb/>Sollten Hochdieselben Sich bestimmt finden mir inzwischen
+                    andere Befehle zukommen zu lassen, so bitte ich Sie selbige nach
+                        <placeName ref="#place_078e08e659f177dfe034c9d462e508ea">Hagenau</placeName>, bei Braunau am Inn in Ober Oesterreich zu
+                    adressiren.<lb/>Genehmigen Hochdieselben den Ausdruck der aufrichtigen
+                    Verehrung, in der ich verharre,</p>
+                <p>Euer Excellenz<lb/>gehorsamer etc.<lb/>Handel</p>
+                <p>Bad Gastein, 30. July 1855</p>
+            </div>
+        </body>
+    </text>
+</TEI>

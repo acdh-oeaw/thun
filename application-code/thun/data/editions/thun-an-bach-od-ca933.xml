@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
+                        <persName key="bach-alexander" role="recipient">Alexander
+                        Bach</persName>
+                    <lb/>
+                    <placeName ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</placeName>, o. D. <date when="1850">[1850/51]</date>
+                    <note xml:id="note_1">Die vorgeschlagene Datierung ergibt
+                        sich aus der Nennung von Anton Beck als Geschäftsführer des Vindesky
+                        dennik.</note>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichisches Staatsarchiv</institution>
+                        <repository>Allgemeines Verwaltungsarchiv</repository>
+                        <idno>Nachlass Bach, Karton 11</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bittet Alexander Bach dem Beamten Eduard Lackenbacher notwendige
+                            Informationen für ein Treffen desselben mit dem Geschäftsführer der
+                            Zeitung "Vidensky dennik" zu geben.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc docStatus="approved"/>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Vidensky dennik</term>
+                </index>
+                <p>In Folge unserer Besprechung über die Zukunft des Vidensky dennik habe ich den
+                        <persName key="beck-anton">Beck</persName> – als dessen Geschäftsführer –
+                    angewiesen, sich an <persName key="lackenbacher-eduard">Lackenbacher</persName>
+                    zu wenden.- Dieser erklärt eben noch keine Instruktionen zu haben. Ich erlaube
+                    mir deshalb dringend um gütige Abhilfe zu bitten.</p>
+                <p>Thun</p>
+            </div>
+        </body>
+    </text>
+</TEI>

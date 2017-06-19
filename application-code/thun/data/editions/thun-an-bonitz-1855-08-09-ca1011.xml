@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
+                        <persName key="bonitz-hermann" role="recipient">Hermann
+                        Bonitz</persName>
+                    <lb/>
+                    <placeName ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</placeName>, <date when="1855-08-09">9. August [1855] </date>
+                    <note xml:id="note_1">Die Datierung in das Jahr
+                        1855 ergibt sich aus anderen Briefen, dieselbe Angelegenheit
+                        betreffend.</note>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Abgedruckt in: Alfred Schneider, Briefe Österreichischer Gelehrter aus den Jahren
+                    1849-1862. Beiträge zur Geschichte der österreichischen Unterrichtsreform, in:
+                    Archiv für österreichische Geschichte, Bd. 113/1936. S. 167-304, hier S.
+                    205.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Universitätsbibliothek Breslau</institution>
+                        <repository>Handschriftenabteilung</repository>
+                        <idno>Autograph Haase 940</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun teilt dem Philologen Hermann Bonitz mit, dass er den an Hermann
+                            Bonitz herangetragenen Ruf an das Gymnasium Schulpforta noch nicht mit
+                            dem Kaiser besprechen konnte. Er bittet ihn aber vorerst um Geduld und
+                            lädt ihn zu einer Unterredung ein.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc docStatus="approved"/>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Universität Wien</term>
+                </index>
+                <p>Werther Herr Professor!</p>
+                <p>Leider bin ich trotz meiner Versuche mit <persName key="franz-joseph">S.
+                        Majestät</persName> den Gegenstand <note xml:id="note_2">Vgl. hierzu den
+                        Brief <ref target="thun/thun-korrespondenz/Konzepte_Briefe_an_Thun/bonitz-an-thun_1855-07-30_CA1012.xml">Hermann Bonitz an Leo Thun, 30. Juli 1855.</ref>
+                    </note> zu besprechen
+                    noch immer nicht in der Lage Ihnen Entscheidendes zu sagen. Gleichwohl wäre es
+                    mir doch sehr erwünscht vorläufig schon mit Ihnen einige Punkte zu
+                    besprechen.<lb/> Sie finden mich heute und morgen Abend von 8–11 und morgen und
+                    übermorgen früh von 9–11 in meiner Wohnung oder später Vormittag im <orgName key="ministerium-fuer-kultus-und-unterricht">Ministerium</orgName>.</p>
+                <p>Hochachtungsvoll<lb/>Thun<lb/>den 9. August</p>
+            </div>
+        </body>
+    </text>
+</TEI>

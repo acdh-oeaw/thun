@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
+                        <persName key="exner-franz" role="recipient">Franz
+                        Exner</persName>
+                    <lb/>
+                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="--08-24">24.
+                        August [1852?]</date>
+                    <note xml:id="note_1">Auf dem Blatt ist mit Bleistift
+                        das Jahr 1852 verzeichnet. Die Datierung in dieses Jahr erscheint plausibel,
+                        da im Herbst 1852 über das provisorische Gesetz zur Prüfung der
+                        Realschullehrer verhandelt wurde. Das Gesetz wurde im April 1853 erlassen.
+                        Vgl. <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=apr&amp;datum=18521017&amp;seite=3&amp;zoom=33">Die Presse, Nr. 246, 17. Oktober 1852</ref>; sowie <ref target="http://alex.onb.ac.at/cgi-content/alex?apm=0&amp;aid=rgb&amp;datum=18530004&amp;seite=00000347&amp;size=45">RGBl 76/1853</ref>.</note>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <msDesc>
+                        <msIdentifier>
+                            <institution>Österreichische Nationalbibliothek</institution>
+                            <repository>Handschriftenabteilung</repository>
+                            <idno>Autogr. 273/47-9</idno>
+                        </msIdentifier>
+                        <msContents>
+                            <p>Leo Thun übersendet Franz Exner einige Akten zu den Prüfungen für die
+                                Lehramtskandidaten der Realschulen. Thun bittet Exner hierzu um eine
+                                Stellungnahme. Er fordert Exner auch auf, ihm einen Termin für eine
+                                Besprechung mitzuteilen. Thun schließt außerdem einen Entwurf Marian
+                                Kollers zur Reorganisation der Realschulen bei und erbittet auch
+                                hierzu eine Stellungnahme von Exner.</p>
+                        </msContents>
+                    </msDesc>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc docStatus="approved"/>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Realschulen</term>
+                    <term>Ministerium für Kultus und Unterricht</term>
+                </index>
+                <p>In der Anlage übersende ich Ihnen</p>
+                <p>I. die Lithographie<note xml:id="note_2">Alle in dem Brief erwähnten Beilagen
+                        sind hier nicht überliefert.</note> die der Berathung über das Gesetz für
+                    die Prüfung der Kandidaten des Lehramtes an Realschulen zu Grunde lag, mit den
+                    Änderungen, die <persName key="koller-marian">Koller</persName> auf Grundlage
+                    jener Berathungen daran angebracht hat.</p>
+                <p>II. Ein Exemplar mit den Änderungen, die ich ohne Rücksicht auf die Ergebnisse
+                    jener Berathung entworfen habe. Ich lasse die zur Beurtheilung der Sache
+                    erforderlichen weiteren Behelfe anschließen, und bitte Sie nun um Ihre Meinung.
+                    Es wird sich dann herausstellen, ob es Noth thut, eine nochmalige Berathung über
+                    das Ganze oder einzelne Theile zu veranlassen, und mit wem.</p>
+                <p>Haben Sie die Güte mir anzuzeigen wenn Sie bereit sind den Gegenstand mit mir zu
+                    besprechen, ob Sie lieber in die Stadt oder nach <placeName ref="#place_6fc6f10422bfe80ddcba23b4f7f080dc">Hietzing</placeName>
+                    kämen. Mit herzlicher Hochachtung</p>
+                <p>Thun</p>
+                <p>24/8</p>
+                <p>Ich schließe auch noch <persName key="koller-marian">Kollars</persName> Entwurf
+                    über die weiteren dem Org.-Entwurfe nachgebildeten Abtheilungen der Org. der
+                    Realschulen bei. – Ich habe sie noch gar nicht gelesen und erbitte mir Ihre
+                    Meinung, ob überhaupt damit herauszurücken sein dürfte und was etwa zu bemerken
+                    wäre.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

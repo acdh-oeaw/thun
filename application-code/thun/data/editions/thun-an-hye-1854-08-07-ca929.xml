@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
+                        <persName key="hye-von-gluneck-anton" role="recipient">Anton Hye von
+                        Gluneck</persName>
+                    <lb/>
+                    <placeName ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</placeName>, <date when="1854-08-07">7. August 1854</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichisches Staatsarchiv</institution>
+                        <repository>Allgemeines Verwaltungsarchiv</repository>
+                        <idno>Nachlass Hye, Karton 23</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun dankt dem Juristen und Ministerialrat Anton Hye für die
+                            Übersendung eines Prachtexemplars von dessen Kommentar zum
+                            Strafgesetzbuch.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc docStatus="approved"/>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Universität</term>
+                    <term>Rechtswissenschaften</term>
+                </index>
+                <p>Wien den 7. August 1854</p>
+                <p>Geehrtester Herr Ministerialrath!</p>
+                <p>Für das Prachtexemplar Ihres Kommentares über das Strafgesetzbuch, mit welchem
+                    Sie die Güte gehabt haben, mich zu beschenken, nachdem Sie bereits die
+                    Aufmerksamkeit gehabt hatten, mir eine Reihe der einzelnen Hefte desselben
+                    zukommen zu lassen, sage ich Ihnen meinen verbindlichsten Dank.</p>
+                <p>Genehmigen Sie den Ausdruck der ausgezeichnetsten Hochachtung mit welcher ich die
+                    Ehre habe zu sein</p>
+                <p>Euerer Hochwohlgeboren<lb/>ergebenster<lb/>Gf. Leo Thun</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -95,11 +95,11 @@ let $href := concat('show.html','?document=', app:getDocName($node))
  :)
 declare function app:indexSearch_hits($node as node(), $model as map(*), $searchkey as xs:string?, $path as xs:string?)
 {
-    for $title in collection(concat($config:app-root, '/data/editions/'))//tei:TEI[.//tei:placeName[functx:contains-case-insensitive(./text()[1], $searchkey)] 
-    | .//tei:placeName[@key=$searchkey] | .//tei:persName[@key=$searchkey] | .//tei:term[text()=$searchkey]]
-    let $hits := if (count(root($title)//*[@key=$searchkey]) = 0) then 1 else count(root($title)//*[@key=$searchkey])
+    for $title in collection(concat($config:app-root, '/data/editions/'))//tei:TEI[.//*[@ref=$searchkey] 
+    | .//*[@key=$searchkey] | .//*[@key=$searchkey] | .//tei:term[text()=$searchkey]]
+    let $hits := if (count(root($title)//*[@ref=$searchkey]) = 0) then 1 else count(root($title)//*[@ref=$searchkey])
     let $snippet := 
-    for $person in root($title)//*[@key=$searchkey]
+    for $person in root($title)//*[@key=$searchkey] | *[@ref=$searchkey]
         let $before := $person/preceding::text()[1]
         let $after := $person/following::text()[1]
         return
@@ -168,7 +168,7 @@ declare function app:listPlace($node as node(), $model as map(*)) {
         return
         <tr>
             <td>
-                <a href="{concat($hitHtml,data($place/@xml:id))}">{$place/tei:placeName[@type="pref"]}</a>
+                <a href="{concat($hitHtml,'#',data($place/@xml:id))}">{$place/tei:placeName[@type="pref"]}</a>
             </td>
             <td>{for $altName in $place//tei:placeName[@type="alt"] return <li>{$altName}</li>}</td>
             <td>{$place//tei:idno}</td>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
+                        <persName key="helfert-joseph-alexander" role="recipient">Joseph Alexander
+                        Helfert</persName>
+                    <lb/>o. O., <date when="1859-02-08">8. Februar
+                    1859</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Mährisches Landesarchiv [Moravský zemský archiv v
+                            Brně]</institution>
+                        <repository>G 44, Nachlass Helfert</repository>
+                        <idno>Karton 26, Thun Lev</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun schickt Joseph Alexander Helfert einen Entwurf Andreas
+                            Meschutars für ein neues Statut der Kirche und des Kollegs Santa Maria
+                            dell'Anima in Rom. Thun glaubt, dass das Statut in dieser Form bewilligt
+                            werden könne. Er bittet Helfert jedoch, in einem Brief Alois Flirs aus
+                            Rom zu kontrollieren, ob dieser wünsche, dass ein deutscher Bischof als
+                            Visitator der Anima berufen werde.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc docStatus="approved"/>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Santa Maria dell'Anima</term>
+                    <term>Rom</term>
+                    <term>Kultus</term>
+                </index>
+                <p>beiliegend <persName key="meschutar-andreas">Meschutars</persName> Entwurf über
+                    die nun schon dringend gewordene Angelegenheit der <orgName key="santa-maria-dell'-anima">Kirche dell'anima</orgName>. Im Wesentlichen
+                    wird dagegen kein Anstand sein, und fällt es mit <persName key="flir-alois">Flirs</persName> Anträgen zusammen. Nur scheint mir, daß dieser in einem
+                    Brief den Wunsch ausdrückte, daß <country key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</country>
+                    einen deutschen Bischof als Visitator schicke, worüber ich mir bei Ihnen
+                    Aufklärung erbitte. Die Geschichte ist schon dringend geworden.</p>
+                <p>Thun</p>
+                <p>8 2 / 9</p>
+            </div>
+        </body>
+    </text>
+</TEI>

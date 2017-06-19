@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <persName key="winkler-anton" role="sender:gelehrter">Anton
+                        Winkler</persName> an <persName key="philippsberg-eugen" role="recipient">Eugen Philippsberg</persName>
+                    <lb/>
+                    <placeName ref="#place_4d3e0acd6166e7434bc37196cd875740">Karlsruhe</placeName>, <date when="1851-11-14">14. November 1851</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D129</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Mathematiker Anton Winkler übermittelt dem österreichischen Gesandten
+                            in Karlsruhe, Eugen Philippsberg, ein für Friedrich Thun bestimmtes
+                            Schreiben mitsamt einem Bittgesuch an das Ministerium für Kultus und
+                            Unterricht. Winkler bittet darin um eine Anstellung als Professor für
+                            Mathematik. Er bedankt sich schließlich bei Philippsberg, dass er ihn
+                            mit Friedrich Thun bekannt machte und bittet ihn um Unterstützung bei
+                            seinem Ansuchen.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Beilage:<lb/>Ein Brief von <ref target="thun/thun-korrespondenz/tetschen/winkler-an-thun-friedrich_1851-11-11_A3-XXI-D129b.xml">Anton Winkler an Friedrich Thun. Karlsruhe, 11. November
+                                1851.</ref>
+                            <note xml:id="note_1">Der Brief mit Beilage wurde eigens
+                                aufgenommen.</note>
+                            <lb/>Dieser sowie weitere Briefe in dieser
+                            Angelegenheit sind im Nachlass unter der Signatur A3 XXI D129
+                            zusammengefasst.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc docStatus="approved"/>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Universität</term>
+                    <term>Mathematik</term>
+                </index>
+                <p>Hochwohlgeborner Herr,<lb/>Hochverehrtester Herr Legationsrath!</p>
+                <p>Euer Hochwohlgeboren gütiger Erlaubnis zufolge habe ich hiermit die Ehre, Ihnen
+                    ein Schreiben an Seine Excellenz den Bundespräsidialgesandten, Herrn <persName key="thun-hohenstein-friedrich">Grafen <hi rend="ul">von
+                        Thun</hi>
+                    </persName>, in <placeName ref="#place_4312d5c8cdda027420c474e2221abc34">Frankfurt</placeName> und eine Eingabe
+                    an das hohe k.k. Ministerium des Unterrichts, worin ich um gnädige Aufnahme in
+                    k.k. Dienste als Lehrer der Mathematik zu bitten mir die Freiheit nehme, mit der
+                    ergebensten Bitte um hochgefällige Beförderung an den Herrn <persName key="thun-hohenstein-friedrich">Grafen von Thun</persName> Excellenz zu
+                        übersenden.<note xml:id="note_2">Vgl. den Brief <ref target="thun/thun-korrespondenz/tetschen/winkler-an-thun-friedrich_1851-11-11_A3-XXI-D129b.xml">Anton Winklers an Friedrich Thun vom 11. November 1851</ref> sowie die
+                        dort beigelegte Eingabe an das Ministerium für Kultus und Unterricht mit
+                        demselben Datum.</note>
+                    <lb/>Indem ich Euer Hochwohlgeboren meine schuldige
+                    herzliche Danksagung für die Güte und Freundlichkeit, womit Sie mir Gelegenheit
+                    gaben, <persName key="thun-hohenstein-friedrich">jenem hohen Herrn</persName>
+                    meine Aufwartung machen und meine Wünsche vortragen zu können, ergebenst
+                    wiederhole, erlaube ich mir noch die Bitte um Ihre hochgeneigte Unterstützung
+                    der gehorsamsten Eingabe, in welcher ich auf Euer Hochwohlgeboren mich zu
+                    beziehen die Freiheit mir genommen habe.<lb/>In größter Hochachtung habe ich die
+                    Ehre zu sein</p>
+                <p>Euer Hochwohlgeboren</p>
+                <p>dankbarster<lb/>Dr. A. Winckler</p>
+                <p>Carlsruhe, 14. November 1851</p>
+            </div>
+        </body>
+    </text>
+</TEI>
