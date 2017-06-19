@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="brenner-felsach-adolph" key="brenner-felsach-adolph" role="sender:beamter">Adolph
-                        Brenner-Felsach</rs> an <rs type="person" ref="haferl-josef" key="haferl-josef" role="recipient">Josef Haferl</rs>
+                    <rs type="person" ref="#brenner-felsach-adolph" role="sender:beamter">Adolph
+                        Brenner-Felsach</rs> an <rs type="person" ref="#haferl-josef" role="recipient">Josef Haferl</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_a350403ae19fbe9cfa1e951c8b90afb0">Frankfurt a. M.</rs>, <date when="1854-09-21">21. September 1854</date>
                 </title>
@@ -65,7 +65,7 @@
                     <term>Universität Prag</term>
                     <term>Klassische Philologie</term>
                 </index>
-                <p>&lt;An den Ministerialkonzipisten <rs type="person" ref="haferl-josef" key="haferl-josef">Haferl</rs>&gt;<note xml:id="note_1">Eh. Randnotiz von
+                <p>&lt;An den Ministerialkonzipisten <rs type="person" ref="#haferl-josef">Haferl</rs>&gt;<note xml:id="note_1">Eh. Randnotiz von
                     Thun.</note>
                 </p>
                 <p>Frankfurt am Main, 21. September 1854</p>
@@ -73,63 +73,63 @@
                 <p>erstaunen Sie nicht, wenn ich mir auf unsere alte Freundschaft bauend, hiemit die
                     Freiheit nehme, Ihnen über eine Angelegenheit zu sprechen, die mir von sehr
                     achtbarer Seite dringend ans Herz gelegt worden ist und die als das
-                    Unterrichtswesen in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> betreffend,
+                    Unterrichtswesen in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> betreffend,
                     soviel ich weiß, in den Bereich Ihrer amtlichen Wirkungssphäre fallen
                     dürfte.<lb/>Wie ich höre, haben sich sehr angesehene litterarische und
-                    universitätische Notabilitäten im „Reich“ und auch in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> geeigneten Orts dafür verwendet, einen gewißen
-                        <rs type="person" ref="bock-cornelius-peter" key="bock-cornelius-peter">Dr. Cornelius Bock</rs>, der
-                    gegenwärtig Profeßor der Philologie in <orgName key="universitaet-bruessel">Brüßel</orgName> ist, für eine Lehrkanzel in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> zu gewinnen. Dieser Gelehrte soll ebenso ausgezeichnet
+                    universitätische Notabilitäten im „Reich“ und auch in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> geeigneten Orts dafür verwendet, einen gewißen
+                        <rs type="person" ref="#bock-cornelius-peter">Dr. Cornelius Bock</rs>, der
+                    gegenwärtig Profeßor der Philologie in <orgName>Brüßel</orgName> ist, für eine Lehrkanzel in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> zu gewinnen. Dieser Gelehrte soll ebenso ausgezeichnet
                     durch seine Kenntniße in der claßischen Philologie wie durch seine correcte
                     politische und katholische Gesinnung seyn und überdieß die Gabe eines äußerst
                     anziehenden Vortrags besitzen, was für den Unterricht von jungen Männern
-                    besonders zu berücksichtigen ist. Der Prof. der Geschichte in <orgName key="universitaet-graz">Gratz</orgName>, <rs type="person" ref="weiss-johann-baptist" key="weiss-johann-baptist">Dr. Weiß</rs>, kennt Herrn <rs type="person" ref="bock-cornelius-peter" key="bock-cornelius-peter">Dr. Bock </rs>und hat sich, wie mir
-                    berichtet wird, bereits Mühe gegeben, die Behörden in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> für seine Berufung geneigt zu machen, wozu die
-                    Besetzung der gegenwärtig erledigten Lehrkanzel der Philologie in <orgName key="universitaet-prag">Prag</orgName> eine erwünschte Gelegenheit bietet.
-                    In einem Briefe des <rs type="person" ref="weiss-johann-baptist" key="weiss-johann-baptist">Dr. Weiß</rs>,
+                    besonders zu berücksichtigen ist. Der Prof. der Geschichte in <orgName>Gratz</orgName>, <rs type="person" ref="#weiss-johann-baptist">Dr. Weiß</rs>, kennt Herrn <rs type="person" ref="#bock-cornelius-peter">Dr. Bock </rs>und hat sich, wie mir
+                    berichtet wird, bereits Mühe gegeben, die Behörden in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> für seine Berufung geneigt zu machen, wozu die
+                    Besetzung der gegenwärtig erledigten Lehrkanzel der Philologie in <orgName>Prag</orgName> eine erwünschte Gelegenheit bietet.
+                    In einem Briefe des <rs type="person" ref="#weiss-johann-baptist">Dr. Weiß</rs>,
                     der mir mitgetheilt wurde, sagt derselbe: „Gelegentlich der Berufung des
-                        <rs type="person" ref="bock-cornelius-peter" key="bock-cornelius-peter">Dr. Bock</rs> nach <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> habe ich heute einen Brief erhalten,
+                        <rs type="person" ref="#bock-cornelius-peter">Dr. Bock</rs> nach <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> habe ich heute einen Brief erhalten,
                     wonach die Sache noch unentschieden ist, daß man sich aber alle Mühe giebt,
-                    Seine Eminenz den <rs type="person" ref="schwarzenberg-friedrich" key="schwarzenberg-friedrich">Cardinal
-                        Schwarzenberg</rs> – der als Patron der <orgName key="universitaet-prag">Universität Prag</orgName> am meisten dabei zu sagen
+                    Seine Eminenz den <rs type="person" ref="#schwarzenberg-friedrich">Cardinal
+                        Schwarzenberg</rs> – der als Patron der <orgName>Universität Prag</orgName> am meisten dabei zu sagen
                     hat – für einen Inländer zu stimmen. Ich kenne keinen Österreicher, der an Fülle
-                    des Wißens und Feinheit des Urtheils in diesem Fache <rs type="person" ref="bock-cornelius-peter" key="bock-cornelius-peter">Bock</rs> gleich käme. Läßt man diese
-                    Gelegenheit vorüber, die eminenten Gaben des <rs type="person" ref="bock-cornelius-peter" key="bock-cornelius-peter">Dr. Bock</rs> für die conservative und
+                    des Wißens und Feinheit des Urtheils in diesem Fache <rs type="person" ref="#bock-cornelius-peter">Bock</rs> gleich käme. Läßt man diese
+                    Gelegenheit vorüber, die eminenten Gaben des <rs type="person" ref="#bock-cornelius-peter">Dr. Bock</rs> für die conservative und
                     katholische Sache zu gewinnen, so wird sich vielleicht eine ähnliche nie mehr
                     bieten. Gestern und heute habe ich den ganzen Tag mit ihm zugebracht und staune
                     fortwährend über diese coloßale Gelehrsamkeit, über diese feinen Combinationen
-                    und neuen überraschenden Standpuncte der Betrachtung. Was könnte <rs type="person" ref="bock-cornelius-peter" key="bock-cornelius-peter">Bock</rs> nicht leisten, wenn man ihn an
+                    und neuen überraschenden Standpuncte der Betrachtung. Was könnte <rs type="person" ref="#bock-cornelius-peter">Bock</rs> nicht leisten, wenn man ihn an
                     die rechte Stelle brächte! Er wäre eine Zierde des Kaiserstaates. Durch viele
                     traurige Erfahrungen bitter gemacht, durch die völlig isolirte Stellung als
-                    Deutscher in <rs type="place" subtype="country" ref="#place_361e734b7e9d674efb5e3ac441e2c149">Belgien</rs> niedergeschlagen, will <rs type="person" ref="bock-cornelius-peter" key="bock-cornelius-peter">Bock</rs> selber keinen Schritt thun, was
+                    Deutscher in <rs type="place" subtype="country" ref="#place_361e734b7e9d674efb5e3ac441e2c149">Belgien</rs> niedergeschlagen, will <rs type="person" ref="#bock-cornelius-peter">Bock</rs> selber keinen Schritt thun, was
                     bei dem starken Selbstgefühl seiner Leistung sich begreifen läßt. Er meint, daß
                     wenn die österreichische Regierung sich zuverläßige Berichte über sein
-                    vieljähriges Leben und Wirken in <orgName key="universitaet-bruessel">Brüßel</orgName> verschaffen wollte, es ihr ein leichtes seyn werde; sie
-                    dürfe sich diesfalls nur an den <rs type="person" ref="arenberg-prosper-ludwig" key="arenberg-prosper-ludwig">Herzog
-                        von Aremberg</rs>, den Oheim des <rs type="person" ref="schwarzenberg-friedrich" key="schwarzenberg-friedrich">Cardinal Schwarzenberg</rs>,
-                    wenden.“<lb/>So schreibt <rs type="person" ref="weiss-johann-baptist" key="weiss-johann-baptist">Dr.
-                        Weiß</rs>. Sie sehen, welchen hohen Begriff derselbe von <rs type="person" ref="bock-cornelius-peter" key="bock-cornelius-peter">Bocks</rs> Werth hat und welches Gewicht er
-                    darum auf deßen Berufung nach <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>
-                    legt. Noch muß ich hinzusetzen, daß <rs type="person" ref="bock-cornelius-peter" key="bock-cornelius-peter">Dr.
+                    vieljähriges Leben und Wirken in <orgName>Brüßel</orgName> verschaffen wollte, es ihr ein leichtes seyn werde; sie
+                    dürfe sich diesfalls nur an den <rs type="person" ref="#arenberg-prosper-ludwig">Herzog
+                        von Aremberg</rs>, den Oheim des <rs type="person" ref="#schwarzenberg-friedrich">Cardinal Schwarzenberg</rs>,
+                    wenden.“<lb/>So schreibt <rs type="person" ref="#weiss-johann-baptist">Dr.
+                        Weiß</rs>. Sie sehen, welchen hohen Begriff derselbe von <rs type="person" ref="#bock-cornelius-peter">Bocks</rs> Werth hat und welches Gewicht er
+                    darum auf deßen Berufung nach <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>
+                    legt. Noch muß ich hinzusetzen, daß <rs type="person" ref="#bock-cornelius-peter">Dr.
                         Bock</rs> persönliches Vermögen hat, also der Geldpunct bei seiner
                     etwaigen Anstellung seinerseits keine Schwierigkeiten bieten wird.<lb/>Da mir,
                     wie oben bemerkt, diese Angelegenheit von höchst achtbaren Personen empfohlen
-                    wird, welchen <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> bereits mehrere
+                    wird, welchen <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> bereits mehrere
                     Acquisitionen im Lehrfache verdankt, zu denen wir uns nur Glück wünschen können,
                     so habe ich mir die Freiheit genommen, mich an Sie zu wenden, weil ich sonst gar
-                    niemand von den darauf Einfluß nehmenden Autoritäten kenne und den <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Minister Grafen Leo Thun</rs> nur einmal
-                    besucht habe, obwohl ihm vielleicht durch seinen <rs type="person" ref="thun-hohenstein-friedrich" key="thun-hohenstein-friedrich">Bruder</rs> den Gesandten, mit dem ich
+                    niemand von den darauf Einfluß nehmenden Autoritäten kenne und den <rs type="person" ref="#thun-hohenstein-leo">Minister Grafen Leo Thun</rs> nur einmal
+                    besucht habe, obwohl ihm vielleicht durch seinen <rs type="person" ref="#thun-hohenstein-friedrich">Bruder</rs> den Gesandten, mit dem ich
                     sehr befreundet bin, mein Name einigermaßen bekannt seyn dürfte.<lb/>Nehmen Sie
                     sich daher wo möglich der Sache an, suchen Sie gehörigen Orts zu diesem Zwecke
                     einzuwirken, weil es mir wirklich wichtig scheint, eine Gelegenheit nicht außer
                     Acht zu laßen, um einen Mann zu gewinnen, der auf die heranwachsende Generation
-                    in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> im politisch und religiös
+                    in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> im politisch und religiös
                     heilsamen Sinne einwirken kann, was mir bei der Philologie nicht minder wichtig
                     erscheint als bei der Geschichte und Mißgriffe und Unannehmlichkeiten wie die
-                    mit <rs type="person" ref="bonitz-hermann" key="bonitz-hermann">Prof. Bonitz</rs> vermeidet. Schreiben
+                    mit <rs type="person" ref="#bonitz-hermann">Prof. Bonitz</rs> vermeidet. Schreiben
                     Sie mir jedenfalls gütigst, wie die Sache steht, ob Aussicht vorhanden oder
                     welche Schritte etwa noch zu thun wären, um einen günstigen Erfolg
-                    herbeizuführen. Ich war so glücklich zur Berufung von <rs type="person" ref="juelg-bernhard" key="juelg-bernhard">Jülg</rs>, <rs type="person" ref="winkler-anton" key="winkler-anton">Winkler</rs>, <rs type="person" ref="weiss-johann-baptist" key="weiss-johann-baptist">Weiß</rs>
-                    und <rs type="person" ref="mischler-peter" key="mischler-peter">Mischler</rs> mitzuwirken, welche man,
+                    herbeizuführen. Ich war so glücklich zur Berufung von <rs type="person" ref="#juelg-bernhard">Jülg</rs>, <rs type="person" ref="#winkler-anton">Winkler</rs>, <rs type="person" ref="#weiss-johann-baptist">Weiß</rs>
+                    und <rs type="person" ref="#mischler-peter">Mischler</rs> mitzuwirken, welche man,
                     wie ich meine, in <rs type="place" subtype="country" ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</rs> nicht zu bereuen hat, es wäre
                     mir sehr angenehm, wenn ich auch dießmal dazu beitragen könnte, für unser
                     Vaterland eine so tüchtige Lehrkraft zu gewinnen. Nehmen Sie mir nicht übel, daß

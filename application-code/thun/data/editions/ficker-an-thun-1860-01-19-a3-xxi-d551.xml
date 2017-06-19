@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="ficker-julius" key="ficker-julius" role="sender:gelehrter">Julius
-                        Ficker</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#ficker-julius" role="sender:gelehrter">Julius
+                        Ficker</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs>, <date when="1860-01-19">19. Januar 1860</date>
                 </title>
@@ -79,7 +79,7 @@
                 </index>
                 <p>Eure Excellenz!</p>
                 <p>Wenn ich es wage, mich in einer Sache unmittelbar an Eure Excellenz zu wenden,
-                    welche meinen Kollegen Professor <rs type="person" ref="glax-heinrich" key="glax-heinrich">Glax</rs>
+                    welche meinen Kollegen Professor <rs type="person" ref="#glax-heinrich">Glax</rs>
                     nicht im günstigsten Lichte erscheinen läßt, so habe ich mich nur sehr ungern
                     und erst auf wiederholtes Zureden anderer Fakultätsmitglieder dazu entschlossen,
                     nachdem ich mich überzeugt habe, daß meine gutgemeinten Versuche, diesen Schritt
@@ -87,7 +87,7 @@
                     ich Hochderselben gegenüber bisher nie etwas zum Nachtheile jenes Kollegen
                     gesagt habe, obwohl mir die Gelegenheit dazu mehrfach geboten gewesen wäre und
                     meine Stellung ihm gegenüber schon seit Jahren eine überaus peinliche war; als
-                    mir vor drei Jahren zum zweiten Male eine Professur zu <orgName key="universitaet-bonn">Bonn</orgName> angetragen wurde, war diese Stellung,
+                    mir vor drei Jahren zum zweiten Male eine Professur zu <orgName>Bonn</orgName> angetragen wurde, war diese Stellung,
                     wie solche, mit welchen ich damals Rücksprache nahm, bezeugen könnten, das
                     einzige erhebliche, was mich einige Zeit zweifelhaft machte, ob ich hier bleiben
                     solle; dennoch konnte ich mich auch damals nicht entschließen, durch eine
@@ -112,7 +112,7 @@
                     um Reprobirung gehandelt hätte, auf welcher der Kollege allerdings nie zu
                     bestehen wagte; die mir unbillig scheinende Verschlechterung der Zeugnisse wie
                     die mündlichen Urtheile nahm ich schweigend hin.<lb/>Jetzt handelt es sich
-                    zunächst um einen meiner frühern Schüler, Dr. <rs type="person" ref="huber-alphons" key="huber-alphons">Alfons Huber</rs>, über dessen ganz ungewöhnliches Talent, Fleiß und
+                    zunächst um einen meiner frühern Schüler, Dr. <rs type="person" ref="#huber-alphons">Alfons Huber</rs>, über dessen ganz ungewöhnliches Talent, Fleiß und
                     Besonnenheit des Charakters hier nur eine Stimme herrscht; seit Jahren lebe ich
                     der Hoffnung, daß die Erfolge, welche ich bei halbweg günstiger Gestaltung der
                     äußern Verhältnisse mit Sicherheit von ihm erwarten kann, mich hinreichend für
@@ -125,7 +125,7 @@
                     400 fl gesichert, wofür er wie ich uns dem hohen Ministerium so verpflichtet
                     fühlen, daß nur nichts ferner liegen würde, als in seinem Interesse hier weitere
                     Schritte zu thuen, aber der Vorgang seiner Habilitirung hat meine eigene und
-                    wohl auch die Stellung der Fakultät gegenüber dem Prof. <rs type="person" ref="glax-heinrich" key="glax-heinrich">Glax</rs> zu einer so unleidlichen gemacht, daß
+                    wohl auch die Stellung der Fakultät gegenüber dem Prof. <rs type="person" ref="#glax-heinrich">Glax</rs> zu einer so unleidlichen gemacht, daß
                     wir die Sache nicht füglich ruhen lassen konnten.<lb/>Es war meine wie anderer
                     Mitglieder Ansicht, daß er sich für das Gesammtgebiet der Geschichte mit
                     Einschluß der österreichischen habilitiren solle; eine Trennung schien uns hier
@@ -133,19 +133,19 @@
                     Geschichte beschäftigt hatte; wir riethen ihm nur zur größern Sicherheit sich
                     den Habilitationsleistungen für allgemeine wie für österreichische Geschichte zu
                     unterziehen, wie auch geschah. Als vor Jahresfrist zuerst die Rede davon war,
-                    erklärte Prof. <rs type="person" ref="glax-heinrich" key="glax-heinrich">Glax</rs> von vornherein, daß
+                    erklärte Prof. <rs type="person" ref="#glax-heinrich">Glax</rs> von vornherein, daß
                     von einer Habilitation in seinem Fache nicht die Rede sein könne und hat seitdem
                     die verschiedensten Wege eingeschlagen, dieselbe zu hintertreiben; ein Vorgehen,
                     über welches, wie ich glaube, an der ganzen Universität nur eine Stimme
                     herrscht, zumal immer mit der größtmöglichen Schonung gegen ihn vorgegangen
                     wurde. Als der Kandidat, da er glaubte den Forderungen des Gesetzes genügen zu
-                    können, sich von vornherein nicht abschrecken ließ, erklärte Prof. <rs type="person" ref="glax-heinrich" key="glax-heinrich">Glax</rs>, die beabsichtigte Habilitationsschrift
+                    können, sich von vornherein nicht abschrecken ließ, erklärte Prof. <rs type="person" ref="#glax-heinrich">Glax</rs>, die beabsichtigte Habilitationsschrift
                     über die älteste Geschichte des Hauses Habsburg nicht gelten lassen zu können,
                     weil sie nicht in die österreichische Geschichte gehöre. Der Kandidat arbeitete
                     geduldig eine zweite über die österreichischen Privilegien aus, welche ich für
-                    so gelungen halte, daß ich sie in diesen Tagen der <orgName key="akademie-der-wissenschaften">kaiserlichen Akademie</orgName> einsenden
+                    so gelungen halte, daß ich sie in diesen Tagen der <orgName>kaiserlichen Akademie</orgName> einsenden
                     werde und, wenn sie dort etwa nicht angenommen würde, anderweitig zum Druck
-                    befördern werde. Über diese gab Prof. <rs type="person" ref="glax-heinrich" key="glax-heinrich">Glax</rs> ein Gutachten, in dessen wissenschaftlichem Theile er sich
+                    befördern werde. Über diese gab Prof. <rs type="person" ref="#glax-heinrich">Glax</rs> ein Gutachten, in dessen wissenschaftlichem Theile er sich
                     meiner Ansicht nach solche Blößen gab, daß aller Grund da war, weiterhin
                     behutsam aufzutreten, während sie im übrigen eine Reihe von Ausfällen gegen den
                     Kandidaten enthielt, deren Grundlosigkeit den Fakultätsmitgliedern klar war,
@@ -157,13 +157,13 @@
                     wolle, nicht aber, ob er es auch könne; er müsse ein Programm haben, aus welchem
                     er letzteres ersehen könne. Dieser Forderung, welche einem Vorlegen von
                     Kollegienheften gleichkäme, für welche auch der geringste Anhalt im Gesetze
-                    fehlt, stimmte natürlich kein Mitglied bei; zwei, <rs type="person" ref="waltenhofen-adalbert" key="waltenhofen-adalbert">von Waltenhofen</rs> und <rs type="person" ref="wildauer-tobias" key="wildauer-tobias">Wildauer</rs>, gaben ausführliche Gutachten
+                    fehlt, stimmte natürlich kein Mitglied bei; zwei, <rs type="person" ref="#waltenhofen-adalbert">von Waltenhofen</rs> und <rs type="person" ref="#wildauer-tobias">Wildauer</rs>, gaben ausführliche Gutachten
                     dagegen; alle waren für Zulassung zum Kolloquium. Darauf verweigerte Prof.
-                        <rs type="person" ref="glax-heinrich" key="glax-heinrich">Glax</rs>, daran theilzunehmen und gab
-                    im Eifer eine an das <orgName key="ministerium-fuer-kultus-und-unterricht">Ministerium</orgName> zu richtende Beschwerdeschrift ein, welche
+                        <rs type="person" ref="#glax-heinrich">Glax</rs>, daran theilzunehmen und gab
+                    im Eifer eine an das <orgName>Ministerium</orgName> zu richtende Beschwerdeschrift ein, welche
                     beleidigend für die Fakultät wie für mich insbesondere war. Ich erbat mir von
                     der Fakultät die Erlaubnis, den Akten zu meiner und des Kandidaten Vertheidigung
-                    eine kritische Beleuchtung des Gutachtens des Prof. <rs type="person" ref="glax-heinrich" key="glax-heinrich">Glax</rs> beifügen zu dürfen; um aber keinen
+                    eine kritische Beleuchtung des Gutachtens des Prof. <rs type="person" ref="#glax-heinrich">Glax</rs> beifügen zu dürfen; um aber keinen
                     schonendern Weg unversucht zu lassen, setzte ich, damals kaum genesen, ihm
                     schriftlich genau auseinander, welche Blößen er sich gegeben habe, daß ich die
                     Aufdeckung derselben gern vermeiden möchte und ich gern darauf verzichten würde,
@@ -177,7 +177,7 @@
                     Meinung lediglich auf jenen unmöglich maßgebenden Programmpunkt richtete, seine
                     übrigen Urtheile durchaus günstig waren, so war nicht mehr abzusehen, daß dem
                     Kandidaten ein Hindernis erwachsen könne.<lb/>Nach allem Vorhergegangenen
-                    glaubte ich sicher sein zu dürfen, daß Prof. <rs type="person" ref="glax-heinrich" key="glax-heinrich">Glax</rs> einen Widerstand, welchen er offen aufgegeben hatte, nicht
+                    glaubte ich sicher sein zu dürfen, daß Prof. <rs type="person" ref="#glax-heinrich">Glax</rs> einen Widerstand, welchen er offen aufgegeben hatte, nicht
                     etwa auf andern Wegen, wo der Fakultät die Mittel zur Vertheidigung fehlten,
                     fortsetzen würde; ich hielt mich auch ihm gegenüber dazu verpflichtet, nicht
                     etwa durch eine Mittheilung des Sachverhaltes an Eure Excellenz einem
@@ -187,11 +187,11 @@
                     Fakultät Geltung zu verschaffen. Über die endliche Entscheidung wurde hier
                     allgemein geurtheilt, daß sie sich schwerlich allein auf die Akten stützen
                     könne, daß sie, wenn nicht unter Einwirkung, wenigstens im Interesse des Prof.
-                        <rs type="person" ref="glax-heinrich" key="glax-heinrich">Glax</rs> ergangen sein müsse.<lb/>Es
+                        <rs type="person" ref="#glax-heinrich">Glax</rs> ergangen sein müsse.<lb/>Es
                     wurde die Habilitation für allgemeine Geschichte gewährt, nicht aber für
                     österreichische. Der Hauptgrund, daß beide Fächer ein zu großes Feld sein,
                     berührte allerdings die Fakultätsverhandlungen gar nicht; denn niemand, auch
-                    nicht Prof. <rs type="person" ref="glax-heinrich" key="glax-heinrich">Glax</rs>, hatte darauf früher
+                    nicht Prof. <rs type="person" ref="#glax-heinrich">Glax</rs>, hatte darauf früher
                     hingewiesen. Der Fakultät kann es auch natürlich nicht zustehen, gegen diesen
                     Hauptgrund irgendwelche Einwendungen zu erheben. Ich persönlich habe allerdings
                     die feste Ansicht gewonnen, daß das scharfe Auseinanderhalten der allgemeinen
@@ -206,31 +206,31 @@
                     es möge die venia legendi für das Gesammtgebiet ertheilt werden, berücksichtigt
                     werden könne.<lb/>Die hohe Entscheidung fußte aber nicht allein auf jenem
                     Grunde, sondern enthielt zugleich wenigstens mittelbar eine Billigung der
-                    Ansicht des Prof. <rs type="person" ref="glax-heinrich" key="glax-heinrich">Glax</rs>. Denn einmal war
+                    Ansicht des Prof. <rs type="person" ref="#glax-heinrich">Glax</rs>. Denn einmal war
                     es nicht etwa der Fakultät freigestellt oder dem Kandidaten, sich für das eine
                     oder das andere Fach zu entscheiden, sondern es wurde von vornherein gegen die
                     österreichische Geschichte entschieden. Es wurde weiter bezüglich dieser auf
                     eine abweisende Meinung der Fachprofessoren verwiesen; eine solche bestand aber
                     nach den Akten gar nicht, da über die Fachleistungen von beiden Fachprofessoren
                     günstig geurtheilt war, es bestand nur eine Meinungsverschiedenheit zwischen
-                    Prof. <rs type="person" ref="glax-heinrich" key="glax-heinrich">Glax</rs> einerseits und der gesammten
+                    Prof. <rs type="person" ref="#glax-heinrich">Glax</rs> einerseits und der gesammten
                     Fakultät andererseits, und zwar wegen jenes Programmpunktes, bezüglich dessen
                     Buchstabe wie Sinn des Gesetzes unbedingt auf Seiten der Fakultät waren. Prof.
-                        <rs type="person" ref="glax-heinrich" key="glax-heinrich">Glax</rs> würde demnach durchaus in der
+                        <rs type="person" ref="#glax-heinrich">Glax</rs> würde demnach durchaus in der
                     Lage sein, geltend zu machen, daß hohen Orts sein Einwand als berechtigt
                     anerkannt sei und die Fakultät würde bei jeder Habilitation, sei es aus was
                     immer für einem Fache, nicht mehr wissen, wie sie sich dem Gesetze gegenüber zu
                     verhalten habe.<lb/>Bei dieser Sachlage fühlte ich mich veranlaßt, bei der
                     Fakultät zwei Anträge in Vorschlag zu bringen, welche von derselben angenommen
-                    und in diesen Tagen an das <orgName key="ministerium-fuer-kultus-und-unterricht">hohe Ministerium</orgName> gesandt wurden. Ich glaube, daß beide in den
+                    und in diesen Tagen an das <orgName>hohe Ministerium</orgName> gesandt wurden. Ich glaube, daß beide in den
                     Akten genügend begründet sind. Ein doppelter Umstand schien es aber
                     unausweichlich zu machen, die Aufmerksamkeit Eurer Excellenz auf diesem
                     Privatwege darauf hinzulenken, wenn wir nicht auf den Erfolg verzichten wollen.
-                    Einmal stehen dem Prof. <rs type="person" ref="glax-heinrich" key="glax-heinrich">Glax</rs> bei seiner
+                    Einmal stehen dem Prof. <rs type="person" ref="#glax-heinrich">Glax</rs> bei seiner
                     ausgedehnten Bekanntschaft zu <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> so viel Privatwege zu
                     Gebote, seine Ansichten geltend zu machen, ohne daß die Fakultät ihren
                     Standpunkt dagegen vertheidigen kann, daß es beim besten Willen den Beamten des
-                        <orgName key="ministerium-fuer-kultus-und-unterricht">hohen
+                        <orgName>hohen
                         Ministeriums</orgName>, in deren Bereich die Sache zunächst fällt, nicht
                     auffallen könnte, wenn dieselben einer ungünstigeren Entscheidung für die
                     Fakultät geneigt sein sollten, als sie sich aus bloßer Einsicht der Akten
@@ -242,17 +242,17 @@
                     eröffnen, in der Hoffnung, daß sie so auch, ohne in weitern Kreisen bekannt zu
                     werden, dennoch auf eine der Fakultät günstige Entscheidung würden einwirken
                     können.<lb/>Der <hi rend="ul">erste Antrag</hi> geht auf eine Anfrage der
-                    Fakultät an das <orgName key="ministerium-fuer-kultus-und-unterricht">hohe
+                    Fakultät an das <orgName>hohe
                         Ministerium</orgName>: ob, da eine andere abweisende Ansicht über die
-                    Leistungen des Dr. <rs type="person" ref="huber-alphons" key="huber-alphons">Huber</rs> für
+                    Leistungen des Dr. <rs type="person" ref="#huber-alphons">Huber</rs> für
                     österreichische Geschichte sich aus den Akten nicht ergebe, der das Programm
                     betreffende § des Gesetzes von der Fakultät richtig verstanden sei, was nach der
                     hohen Entscheidung zweifelhaft sein könne. Die Berechtigung dieses Antrags an
-                    und für sich, welchem auch Prof. <rs type="person" ref="glax-heinrich" key="glax-heinrich">Glax</rs>
+                    und für sich, welchem auch Prof. <rs type="person" ref="#glax-heinrich">Glax</rs>
                     zustimmte, dürfte in den Akten genügend motivirt erscheinen. Das Gewicht einer
                     der Fakultät günstigen Entscheidung liegt aber in einem Umstande, welcher dort
                     überhaupt nicht berührt werden konnte und über welchen ich glaube offen sprechen
-                    zu müssen. Prof. <rs type="person" ref="glax-heinrich" key="glax-heinrich">Glax</rs> tritt der
+                    zu müssen. Prof. <rs type="person" ref="#glax-heinrich">Glax</rs> tritt der
                     Fakultät, wie sich selbst aus den Akten erweisen ließe, häufig mit einer
                     Selbstüberhebung und Rücksichtslosigkeit gegenüber, welche man überhaupt ungern
                     hinnimmt und noch weniger, wenn man sich nicht veranlaßt fühlt, dem betreffenden
@@ -261,18 +261,18 @@
                     eine Stütze zu finden scheinen, hält er mit einer Zähigkeit fest, welchen
                     gegenüber jeder Versuch, sie zu vermitteln, scheitern muß. Ist das unerfreulich,
                     so ist es doch ohne Gewicht, insofern solche Ansichten Majoritätsbeschlüsse
-                    nicht hindern. Es kommt aber ein anderes hinzu. Prof. <rs type="person" ref="glax-heinrich" key="glax-heinrich">Glax</rs> liebt es, sich als den besondern
-                    Vertrauensmann des <orgName key="ministerium-fuer-kultus-und-unterricht">Ministeriums</orgName> hinzustellen, seine besondere Kenntnis der hohen
+                    nicht hindern. Es kommt aber ein anderes hinzu. Prof. <rs type="person" ref="#glax-heinrich">Glax</rs> liebt es, sich als den besondern
+                    Vertrauensmann des <orgName>Ministeriums</orgName> hinzustellen, seine besondere Kenntnis der hohen
                     Intentionen hervorzuheben, von ihm gewordenen ministeriellen Andeutungen zu
                     sprechen und insbesondere, wenn er überstimmt wird, Separatvoten und
-                    Spezialberichte an das <orgName key="ministerium-fuer-kultus-und-unterricht">hohe Ministerium</orgName> in Aussicht zu stellen. Wir sind das schon
+                    Spezialberichte an das <orgName>hohe Ministerium</orgName> in Aussicht zu stellen. Wir sind das schon
                     ziemlich gewöhnt und wissen, daß dem Worte nicht gerade immer die That folgt.
                     Andererseits können wir uns nicht verhehlen, daß nach Maßgabe früherer
-                    Entscheidungen, an welchen Prof. <rs type="person" ref="glax-heinrich" key="glax-heinrich">Glax</rs>
+                    Entscheidungen, an welchen Prof. <rs type="person" ref="#glax-heinrich">Glax</rs>
                     näheres Interesse hatte, derselbe allerdings Grund zu haben scheint, auf
                     besondere Berücksichtigung seiner Ansichten hohen Orts rechnen zu dürfen, was
                     natürlich die Fakultät ihm gegenüber in eine peinliche Stellung bringt. Jetzt
-                    liegt nun ein Fall vor, in welchem Prof. <rs type="person" ref="glax-heinrich" key="glax-heinrich">Glax</rs> der ganzen Fakultät, selbst einzelnen ihm sonst
+                    liegt nun ein Fall vor, in welchem Prof. <rs type="person" ref="#glax-heinrich">Glax</rs> der ganzen Fakultät, selbst einzelnen ihm sonst
                     näherstehenden Mitgliedern gegenübersteht, wo sein Vorgehen ein sehr
                     rücksichtsloses war, seine Ansicht den klaren Gesetzesbestimmungen aufs
                     bestimmteste widerspricht; müßte auch in diesem Falle die Fakultät auf eine
@@ -285,8 +285,8 @@
                     übrig blieb, wenn ich mich nicht gefaßt machen wollte, daß diese Verhältnisse so
                     unleidlich werden könnten, daß mir schließlich nichts übrig bliebe, als mich
                     ihnen durch Räumung des Feldes zu entziehen. Und so etwas thut man doch ungern,
-                    ohne die Mittel zur Vertheidigung erschöpft zu haben.<lb/>Der <hi rend="ul">zweite Antrag</hi> geht dahin, das <orgName key="ministerium-fuer-kultus-und-unterricht">hohe Ministerium</orgName> möge
-                    geruhen, dem Dr. <rs type="person" ref="huber-alphons" key="huber-alphons">Huber</rs> zu erlauben,
+                    ohne die Mittel zur Vertheidigung erschöpft zu haben.<lb/>Der <hi rend="ul">zweite Antrag</hi> geht dahin, das <orgName>hohe Ministerium</orgName> möge
+                    geruhen, dem Dr. <rs type="person" ref="#huber-alphons">Huber</rs> zu erlauben,
                     statt über die ganze allgemeine Geschichte, über alte und österreichische
                     Geschichte lesen zu dürfen. Dem Gesichtspunkte der hohen Entscheidung, daß das
                     Feld zu verengen sei, dürfte dadurch eben so vollständig Rechnung getragen sein;
@@ -294,10 +294,10 @@
                     alte Geschichte Bedürfnis seien; was die österreichische Geschichte betrifft, es
                     wünschenswerth scheine, daß der Dozent nicht von dem Fache ausgeschlossen sei,
                     in welchem die tüchtigste Leistung von ihm zu erwarten sei. Seinen Widerstand
-                    gegen diesen Antrag motivirt Prof. <rs type="person" ref="glax-heinrich" key="glax-heinrich">Glax</rs>
+                    gegen diesen Antrag motivirt Prof. <rs type="person" ref="#glax-heinrich">Glax</rs>
                     dadurch, daß kein Bedürfnis nach weitern Vorträgen über österreichische
                     Geschichte vorhanden sei. Die Fakultät mochte allerdings in ihrer Eingabe auf
-                    den Punkt nicht eingehen, in wie weit die Vorlesungen des Prof. <rs type="person" ref="glax-heinrich" key="glax-heinrich">Glax</rs> jedem Bedürfnisse genügen.
+                    den Punkt nicht eingehen, in wie weit die Vorlesungen des Prof. <rs type="person" ref="#glax-heinrich">Glax</rs> jedem Bedürfnisse genügen.
                     Zwangskollegien, wie es die österreichische Geschichte für Juristen ist, haben
                     so lange sie nur durch Einen gelesen werden nur zu häufig die Folge, daß der
                     Professor auf die Güte seiner Vorlesung wenig achtet, da die Studirenden doch
@@ -308,7 +308,7 @@
                     Dozent dasselbe Fach liest, so scheint das andererseits doch nur im Interesse
                     des Staats zu liegen, zumal, wenn die Vorlesungen des Fachprofessors zu wünschen
                     übrig lassen. Was den wissenschaftlichen Werth der Vorlesungen des Prof.
-                        <rs type="person" ref="glax-heinrich" key="glax-heinrich">Glax</rs> betrifft, so konnte ich mir
+                        <rs type="person" ref="#glax-heinrich">Glax</rs> betrifft, so konnte ich mir
                     mit der Zeit ein Urtheil bilden aus den übereinstimmenden Urtheilen tüchtiger
                     Schüler; über seine wissenschaftliche Bildung überhaupt zu urtheilen gaben mir
                     von anderm abgesehen, insbesondere die Prüfungen genügende Gelegenheit; und es
@@ -316,16 +316,16 @@
                     Ansicht ziemlich allgemein sein, daß es nur wünschenswerth sei, wenn über
                     österreichische Geschichte noch von einem andern gelesen werde. Ein Eingehen auf
                     den Wunsch der Fakultät dürfte nur im Interesse der Universität
-                    liegen.<lb/>Prof. <rs type="person" ref="glax-heinrich" key="glax-heinrich">Glax</rs> bezieht sich in
-                    seiner neusten Äußerung darauf, daß Dr. <rs type="person" ref="huber-alphons" key="huber-alphons">Huber</rs>, welcher nur hier studirte, genügende Kenntnis für
+                    liegen.<lb/>Prof. <rs type="person" ref="#glax-heinrich">Glax</rs> bezieht sich in
+                    seiner neusten Äußerung darauf, daß Dr. <rs type="person" ref="#huber-alphons">Huber</rs>, welcher nur hier studirte, genügende Kenntnis für
                     österreichische Geschichte gar nicht haben könne. Die Fakultät kann darauf
                     natürlich nicht sehen, da er die vorgeschriebenen Habilitationsleistungen
-                    erfüllt hat und Prof. <rs type="person" ref="glax-heinrich" key="glax-heinrich">Glax</rs>, hier gewiß
+                    erfüllt hat und Prof. <rs type="person" ref="#glax-heinrich">Glax</rs>, hier gewiß
                     kein zu milder Richter, den wissenschaftlichen Werth derselben nicht in Frage zu
                     stellen wagte. Was den Einwand an und für sich betrifft, so kann ich nicht
-                    beurtheilen, welchen Werth Prof. <rs type="person" ref="glax-heinrich" key="glax-heinrich">Glax</rs>
+                    beurtheilen, welchen Werth Prof. <rs type="person" ref="#glax-heinrich">Glax</rs>
                     seiner eigenen hiesigen Wirksamkeit beilegt. Ich habe mich jetzt ins fünfte Jahr
-                    bemüht, den Dr. <rs type="person" ref="huber-alphons" key="huber-alphons">Huber</rs> bei seinen
+                    bemüht, den Dr. <rs type="person" ref="#huber-alphons">Huber</rs> bei seinen
                     Studien, insbesondere auch über österreichische Geschichte zu unterstützen; und
                     ich glaube durchaus dafür einstehen zu dürfen, daß er über dieselbe sehr
                     tüchtige Vorlesungen halten kann und Arbeiten über dieselbe veröffentlichen
@@ -338,7 +338,7 @@
                     Vorlesungen die Fakultät nicht kompromittiren; und diese dürfte übergenügend
                     vorhanden sein, da ihm abgesehen von seinen Kenntnissen und seiner
                     Charaktertüchtigkeit auch äußere Begabung für den Vortrag reichlich zu Gebote
-                    steht. Ihn für allgemeine Geschichte zu approbiren trug auch Prof. <rs type="person" ref="glax-heinrich" key="glax-heinrich">Glax</rs> nicht das geringste Bedenken, obwohl
+                    steht. Ihn für allgemeine Geschichte zu approbiren trug auch Prof. <rs type="person" ref="#glax-heinrich">Glax</rs> nicht das geringste Bedenken, obwohl
                     seine Einwände dieses Gebiet eben so gut getroffen hätten.<lb/>Eure Excellenz
                     werden die Unbescheidenheit verzeihen, mit der ich Hochdieselbe, welche jetzt
                     von so vielen wichtigen Dingen in Anspruch genommen sein dürfte, mit einer
@@ -352,19 +352,19 @@
                     als irgend eine Form öffentlichen Auftretens, welche ich, wollte ich mich zu
                     jener nicht entschließen, auf die Dauer schon meines wissenschaftlichen Rufes
                     wegen kaum würde vermeiden können.<lb/>Schließlich erlaube ich mir beiläufig zu
-                    erwähnen, daß der Dr. <rs type="person" ref="tewes-heinrich-august" key="tewes-heinrich-august">Tewes</rs> aus
+                    erwähnen, daß der Dr. <rs type="person" ref="#tewes-heinrich-august">Tewes</rs> aus
                         <rs type="place" subtype="place" ref="#place_c27539167ff9723b32673ddab9dcbe09">Hannover</rs>, welcher hier konvertirte und sich dann als
                     Privatdozent für römisches Recht habilitirte, mir kürzlich mittheilte, sein mit
-                    jenen Schritten, welche die Mutter billigte, nicht einverstandener <rs type="person" ref="tewes" key="tewes">Vater</rs> denke Schritte beim <orgName key="ministerium-fuer-kultus-und-unterricht">hohen Ministerium</orgName> zu
+                    jenen Schritten, welche die Mutter billigte, nicht einverstandener <rs type="person" ref="#tewes">Vater</rs> denke Schritte beim <orgName>hohen Ministerium</orgName> zu
                     thuen, damit ihm die Erlaubnis hier zu lesen entzogen und er zur Rückkehr in den
                     hannover’schen Staatsdienst genöthigt werde. Ich kann mir nun freilich nicht
                     wohl denken, wie solche Schritte irgend einen Erfolg haben können; möchte aber
                     doch die Gelegenheit benutzen, um zu erwähnen, daß, insoweit an geeigneten
-                    Romanisten kein Überfluß zu sein scheint, das Verbleiben des Dr. <rs type="person" ref="tewes-heinrich-august" key="tewes-heinrich-august">Tewes</rs> dem Staate wohl nur erwünscht
+                    Romanisten kein Überfluß zu sein scheint, das Verbleiben des Dr. <rs type="person" ref="#tewes-heinrich-august">Tewes</rs> dem Staate wohl nur erwünscht
                     sein dürfte; nach den Urtheilen sachverständiger Kollegen wie seiner Schüler
                     besitzt er eine sehr gründliche wissenschaftliche Bildung und eine sehr
                     bedeutende Lehrgabe; er dürfte insbesondere im gegenwärtigen Semester bei der
-                    Abwesenheit des Prof. <rs type="person" ref="maassen-friedrich" key="maassen-friedrich">Maassen</rs> durch
+                    Abwesenheit des Prof. <rs type="person" ref="#maassen-friedrich">Maassen</rs> durch
                     seine stark besuchten Vorlesungen hier sehr genützt haben.<lb/>Mit größter
                     Hochachtung und Ehrerbietung</p>
                 <p>Eurer Excellenz</p>

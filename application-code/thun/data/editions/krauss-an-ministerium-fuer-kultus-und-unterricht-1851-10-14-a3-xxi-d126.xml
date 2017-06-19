@@ -4,10 +4,10 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="krauss-josef" key="krauss-josef" role="sender:gelehrter">Josef Krauss</rs>
-                    an das <orgName key="ministerium-fuer-kultus-und-unterricht" role="recipient">Ministerium für Kultus und Unterricht</orgName>
+                    <rs type="person" ref="#krauss-josef" role="sender:gelehrter">Josef Krauss</rs>
+                    an das <orgName role="recipient">Ministerium für Kultus und Unterricht</orgName>
                     <lb/>
-                    <rs type="place" subtype="place" key="huenfeld" ref="#place_c7653461ad2c9c2939e47b428b1cb1b2">Hünfeld</rs>, <date when="1851-10-14">14. Oktober
+                    <rs type="place" subtype="place" ref="#place_c7653461ad2c9c2939e47b428b1cb1b2">Hünfeld</rs>, <date when="1851-10-14">14. Oktober
                         1851</date>
                 </title>
             </titleStmt>
@@ -70,19 +70,19 @@
                     <term>Gymnasiallehrer</term>
                 </index>
                 <p>Kaiserliches Königliches Hohes Ministerium des Cultus!</p>
-                <p>Der unterzeichnete <rs type="person" ref="krauss-josef" key="krauss-josef">Dr. Joseph Krauss</rs> in
+                <p>Der unterzeichnete <rs type="person" ref="#krauss-josef">Dr. Joseph Krauss</rs> in
                         <rs type="place" subtype="place" ref="#place_03b16e0a78b56bb5ada8e43123aaaa62">Bonn</rs> bittet unterthänigst um eine außerordentliche
-                    Professur der klassischen Litteratur an der <orgName key="universitaet-wien">Universität Wien</orgName>.</p>
-                <p>Da bei der Reorganisation der <orgName key="universitaet-wien">Universität
+                    Professur der klassischen Litteratur an der <orgName>Universität Wien</orgName>.</p>
+                <p>Da bei der Reorganisation der <orgName>Universität
                         Wien</orgName> die kritisch-grammatische Seite der Philologie, von der ganz
                     vorzüglich die Blüthe der Gymnasien abhängt, bis jetzt durch keine geeignete
                     Persönlichkeit vertreten ist, so bitte ich ganz unterthänigst um eine
-                    außerordentliche Professur der klassischen Litteratur an derselben <orgName key="universitaet-wien">Universität</orgName> unter Hinweisung auf die im
+                    außerordentliche Professur der klassischen Litteratur an derselben <orgName>Universität</orgName> unter Hinweisung auf die im
                         <ref target="#D126_1">anliegenden Promemoria</ref> in den flüchtigsten
                     Skizzen entworfenen Grundsätze.<lb/>Griechische und römische Dichter, antike
                     Metrik, griechische und lateinische Grammatik, Encyklopädie, Kritik und
                     Hermeneutik würden hauptsächlich den Kreis meiner Vorlesungen ausmachen.<lb/>Zum
-                    sofortigen Eintritt bereit ist es mein sehnlichster Wunsch, dem <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Kaiserstaate</rs> und dem katholischen
+                    sofortigen Eintritt bereit ist es mein sehnlichster Wunsch, dem <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Kaiserstaate</rs> und dem katholischen
                         <rs type="place" subtype="country" ref="#place_218a5fe877e4bc568c172927b6e72f66">Deutschlande</rs> meine Kräfte zu weihen und für das hohe Ziel
                     beider keine Mühe und Arbeit zu scheuen; auf einer protestantischen Universität
                     zu wirken entspricht nicht meinen Grundsätzen als Katholik.<lb/>Indem ich um die
@@ -91,16 +91,16 @@
                 <p>unterthänigster<lb/>Dr. J. Krauss</p>
                 <p>Hünfeld in Kurhessen, den 14. Oktober 1851</p>
                 <div type="enclosure" xml:id="D126_1">
-                    <p>Unterthänigstes Promemoria zum Gesuche des <rs type="person" ref="krauss-josef" key="krauss-josef">Dr.
+                    <p>Unterthänigstes Promemoria zum Gesuche des <rs type="person" ref="#krauss-josef">Dr.
                             phil. Joseph Krauss</rs> in <rs type="place" subtype="place" ref="#place_03b16e0a78b56bb5ada8e43123aaaa62">Bonn</rs> um eine
-                        außerordentliche Professur der klassischen Litteratur an der <orgName key="universitaet-wien">Universität Wien</orgName>
+                        außerordentliche Professur der klassischen Litteratur an der <orgName>Universität Wien</orgName>
                     </p>
                     <p>Wenn ich, ein Unbekannter, es wage, Euer Excellenz mein Anliegen vorzutragen,
                         so bewegt mich dazu einerseits der Wunsch, mir selbst eine passende Laufbahn
                         für die Zukunft zu eröffnen, andererseits aber die zuversichtliche Hoffnung,
                         durch Vereinigung der mir verliehenen Kraft mit den zu erwartenden
                         Leistungen anderer es zu bewerkstelligen, daß im Laufe einiger Dezennien
-                            <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> eine philologische
+                            <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> eine philologische
                         Wissenschaft aufweisen kann, wie es seiner hohen Stellung würdig und für die
                         zukünftige Aufgabe des Kaiserstaates unumgänglich nötig ist. Um diese
                         Aufgabe näher zu bestimmen, erlaube ich mir Hochdenselben meine Ansicht
@@ -113,7 +113,7 @@
                         selbstständige unüberwindliche Stellung erwerbe.<lb/>2. aber muß sie, von
                         jener gänzlich verschieden, dahin ihre Anstrengungen richten, daß sie auf
                         soliden positiv-kritischen Grundlagen ruhend Hand in Hand gehe mit der von
-                        mir als <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> zukünftige Aufgabe
+                        mir als <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> zukünftige Aufgabe
                         betrachteten antirevolutionären Richtung in staatlicher wie in kirchlicher
                         Entwickelung und zugleich diese aufs eifrigste fördere.<lb/>Daß diese beiden
                         Punkte das Ziel einer wahrhaft gesunden Philologie sind, die zugleich auf
@@ -125,32 +125,32 @@
                         gibt.<lb/>Als am Ende des vorigen Jahrhunderts die Seichtigkeit und
                         Plattheit französischer Philosophen alle Zweige der historischen
                         Wissenschaft dergestalt unterwühlt hatte, daß an einer Heilung gradezu
-                        verzweifelte, war es der große Philolog <rs type="person" ref="hermann-gottfried" key="hermann-gottfried">Gottfried Hermann</rs> in <orgName key="universitaet-leipzig">Leipzig</orgName>, der zuerst und vor allem auf die Quellen der
+                        verzweifelte, war es der große Philolog <rs type="person" ref="#hermann-gottfried">Gottfried Hermann</rs> in <orgName>Leipzig</orgName>, der zuerst und vor allem auf die Quellen der
                         Überlieferung hinwies, die Wahrheit vom Truge wieder unterscheiden lehrte
                         und beim Mangel unbedingter Evidenz auf die Grade der Probabilität
                         aufmerksam machte, der an grammatisch-kritischen Stoffen die Denkkraft
                         seiner Schüler übend, sie mit scharfem Urteile und einfacher Präzision den
                         Sinn der Classiker zu ergründen lehrte, und indem er ihnen so Schritt für
                         Schritt das Alterthum erschloß, sie – um es mit einem Worte zu sagen – fähig
-                        machte productiv zu werden. Unsterblich sind <rs type="person" ref="hermann-gottfried" key="hermann-gottfried">Hermanns</rs> Verdienste nicht allein um
+                        machte productiv zu werden. Unsterblich sind <rs type="person" ref="#hermann-gottfried">Hermanns</rs> Verdienste nicht allein um
                         die Philologie, sondern um jede Wissenschaft, die mehr oder weniger mit ihr
                         in Verbindung steht; durch ganz <rs type="place" subtype="country" ref="#place_5c4b925bf527c4f8581815a35a10d658">Europa</rs> erscholl der Ruf
                         der Leipziger Schule, und jeder Philolog, jeder Schulmann von einigem Namen
                         hat seine Disciplin genossen. Aber nicht jeder seiner Schüler hatte wiederum
                         didaktisches Talent, nicht jeder derselben ist befähigt gewesen eine Schule
-                        zu gründen; nur einer ist es, der die Vorzüge der <rs type="person" ref="hermann-gottfried" key="hermann-gottfried">Hermannschen</rs> Schule zusammenfassend,
-                        ihre Mängel, denn auch von ihnen war <rs type="person" ref="hermann-gottfried" key="hermann-gottfried">Hermann</rs> nicht frei, ausgleichend den philologischen Ruhm von
+                        zu gründen; nur einer ist es, der die Vorzüge der <rs type="person" ref="#hermann-gottfried">Hermannschen</rs> Schule zusammenfassend,
+                        ihre Mängel, denn auch von ihnen war <rs type="person" ref="#hermann-gottfried">Hermann</rs> nicht frei, ausgleichend den philologischen Ruhm von
                             <rs type="place" subtype="place" ref="#place_4a887b8a68acf9b04d9d027bddedb06b">Leipzig</rs> nach dem Rheine verpflanzte, es ist der
-                        erste Meister in seinem Fache, - <rs type="person" ref="ritschl-friedrich-wilhelm" key="ritschl-friedrich-wilhelm">Friedrich Ritschl</rs>. Und wie die Blüthe der sächsischen und
-                        preußischen Gymnasien auf <rs type="person" ref="hermann-gottfried" key="hermann-gottfried">Hermann</rs> zurückfällt, so ist es jetzt <rs type="person" ref="ritschl-friedrich-wilhelm" key="ritschl-friedrich-wilhelm">Ritschl</rs>, der jährlich
+                        erste Meister in seinem Fache, - <rs type="person" ref="#ritschl-friedrich-wilhelm">Friedrich Ritschl</rs>. Und wie die Blüthe der sächsischen und
+                        preußischen Gymnasien auf <rs type="person" ref="#hermann-gottfried">Hermann</rs> zurückfällt, so ist es jetzt <rs type="person" ref="#ritschl-friedrich-wilhelm">Ritschl</rs>, der jährlich
                         zahlreiche und wohlgereifte Jünglinge aus seiner Schule entläßt, auf daß sie
                         segensreich wirken, wo immer die Vorsehung sie hinführt. Aber solch tüchtige
                         Gymnasiallehrer können auch nur in einer Schule gebildet werden, die man
                         nach ihrer Richtung eine kritisch-grammatische zu nennen pflegt. Nicht
-                        scharf genug kann ich diese Wahrheit hervorheben. Schon zu <rs type="person" ref="hermann-gottfried" key="hermann-gottfried">Hermanns</rs> Zeiten und noch heute sitzen
+                        scharf genug kann ich diese Wahrheit hervorheben. Schon zu <rs type="person" ref="#hermann-gottfried">Hermanns</rs> Zeiten und noch heute sitzen
                         auf den Lehrstühlen der deutschen Universitäten ausgezeichnete Philologen:
-                            <rs type="person" ref="boeckh-august" key="boeckh-august">Böckh</rs> in <orgName key="universitaet-berlin">Berlin</orgName>, <rs type="person" ref="lobeck-christian" key="lobeck-christian">Lobeck</rs> in <orgName key="universitaet-koenigsberg">Königsberg</orgName>, <rs type="person" ref="bernhardy-gottfried" key="bernhardy-gottfried">Bernhardy</rs> in <orgName key="universitaet-halle">Halle</orgName>, <rs type="person" ref="hermann-karl-friedrich" key="hermann-karl-friedrich">K[arl] Friedr[ich] Hermann</rs> in
-                            <orgName key="universitaet-goettingen">Göttingen</orgName>, aber die
+                            <rs type="person" ref="#boeckh-august">Böckh</rs> in <orgName>Berlin</orgName>, <rs type="person" ref="#lobeck-christian">Lobeck</rs> in <orgName>Königsberg</orgName>, <rs type="person" ref="#bernhardy-gottfried">Bernhardy</rs> in <orgName>Halle</orgName>, <rs type="person" ref="#hermann-karl-friedrich">K[arl] Friedr[ich] Hermann</rs> in
+                            <orgName>Göttingen</orgName>, aber die
                         Schüler, die sie bilden, ohne ihnen im Entferntesten die Tüchtigkeit
                         absprechen zu wollen, sind doch keineswegs diejenigen, welche die Blüthe der
                         Gymnasien begründen, die Masse der Einzelheiten, die Fülle der Erudition
@@ -174,7 +174,7 @@
                         zur Heranbildung methodisch tüchtiger Lehrer muß eine Universität zum
                         wenigsten <hi rend="ul">einen</hi> Professor aufweisen können, der seine
                         Richtung mit Gründlichkeit und Schärfe vertritt, der im vollen Besitze der
-                        Methode ist, die man sich heutzutage einzig und allein in <orgName key="universitaet-bonn">
+                        Methode ist, die man sich heutzutage einzig und allein in <orgName>
                             <hi rend="ul">Bonn</hi>
                         </orgName> erwerben
                             kann.<note xml:id="note_1">Am Rand von anderer Hand ein Fragezeichen
@@ -189,7 +189,7 @@
                         nicht, wie es in Norddeutschland der Fall ist, ein offener und unheilbarer
                         Riß entstehn zwischen Gelehrsamkeit und Volkssitte, zwischen Wissenschaft
                         und Glauben, es wird eine Einheit und Harmonie entstehn, die der Segen des
-                        Himmels begleitet.<lb/>Daß aber diese Richtung in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> bisher sehr wenige Garantien für sich habe, daß
+                        Himmels begleitet.<lb/>Daß aber diese Richtung in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> bisher sehr wenige Garantien für sich habe, daß
                         die aus dem nicht-österreichischen <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> dazu
                         berufenen Kräfte zum Theil ungenügend, weil abgelebt, zum Theil im
                         Gegensatze wirksam sind, ist eine Beobachtung, die sich jedem draußen
@@ -202,19 +202,19 @@
                         beiliegenden Zeugnisse seines unvergeßlichen Lehrers.<note xml:id="note_2">Die Zeugnisse liegen nicht bei.</note> Über den bisherigen Gang seiner
                         Studien erlaubt er sich nachfolgende Notizzen anzuführen.<lb/>Kurz nach
                         Ostern des Jahres 1847 begab ich mich mit dem Zeugnisse der Reife auf die
-                            <orgName key="universitaet-marburg">Universität Marburg</orgName>, wo
-                        namentlich <rs type="person" ref="bergk-wilhelm" key="bergk-wilhelm">Prof. Bergk</rs>, ein
-                        tüchtiger Schüler <rs type="person" ref="hermann-gottfried" key="hermann-gottfried">Gottfried
+                            <orgName>Universität Marburg</orgName>, wo
+                        namentlich <rs type="person" ref="#bergk-wilhelm">Prof. Bergk</rs>, ein
+                        tüchtiger Schüler <rs type="person" ref="#hermann-gottfried">Gottfried
                             Hermanns</rs> die Hauptseiten der Philologie vertritt. Aber
-                        obschon <rs type="person" ref="bergk-wilhelm" key="bergk-wilhelm">Bergk</rs> selbst im Besitze
+                        obschon <rs type="person" ref="#bergk-wilhelm">Bergk</rs> selbst im Besitze
                         einer tüchtigen Methode ist, so vermag er doch keineswegs seine Schüler
                         ebenfalls methodisch heranzubilden, statt selbstständiger Forschung herrscht
-                        daselbst eine geistlose Compilation weitschüssiger Commentare. Auf <rs type="person" ref="bergk-wilhelm" key="bergk-wilhelm">Bergks</rs> eigenen Rath wanderte ich daher zu
-                        dem ersten Philologen unserer Zeit, zu <rs type="person" ref="ritschl-friedrich-wilhelm" key="ritschl-friedrich-wilhelm">Friedrich Ritschl</rs> in <orgName key="universitaet-bonn">Bonn</orgName>. Hier wurde mir der ungeheure
+                        daselbst eine geistlose Compilation weitschüssiger Commentare. Auf <rs type="person" ref="#bergk-wilhelm">Bergks</rs> eigenen Rath wanderte ich daher zu
+                        dem ersten Philologen unserer Zeit, zu <rs type="person" ref="#ritschl-friedrich-wilhelm">Friedrich Ritschl</rs> in <orgName>Bonn</orgName>. Hier wurde mir der ungeheure
                         Unterschied klar zwischen den früheren Collegien und denen, wo man das Beste
                         gibt, was die Wissenschaft bisher zu leisten im Stande war; hier erst lernte
                         ich den Weg der Forschung, den Weg, wie ich selber dahin gelangen konnte, wo
-                        ich andere seither bewundert hatte. Im philologischen Seminar, wo <rs type="person" ref="ritschl-friedrich-wilhelm" key="ritschl-friedrich-wilhelm">Ritschl</rs> sein Haupttalent
+                        ich andere seither bewundert hatte. Im philologischen Seminar, wo <rs type="person" ref="#ritschl-friedrich-wilhelm">Ritschl</rs> sein Haupttalent
                         entfaltete, war ich drei Jahre hindurch ordentliches Mitglied und leitete
                         schon im letzten Jahre als Senior desselben die Übungen. Aber weit mehr noch
                         als alles dies nützte mir das freundschaftliche Verhältnis, der persönliche
@@ -227,7 +227,7 @@
                         philosophischen Fakultät recensirt wurden: docte, subtiliter atque
                         eleganter, und machte mein Doktorexamen magna cum laude.<lb/>Leider
                         gestatteten es aber meine häuslichen Verhältnisse nicht als Docent auf einer
-                        Universität mich niederzulassen, mit schwerem Herzen gab <rs type="person" ref="ritschl-friedrich-wilhelm" key="ritschl-friedrich-wilhelm">Ritschl</rs> selber seine
+                        Universität mich niederzulassen, mit schwerem Herzen gab <rs type="person" ref="#ritschl-friedrich-wilhelm">Ritschl</rs> selber seine
                         Zustimmung dazu, daß ich das Preußische Oberlehrerexamen machte und am
                         Gymnasium in <rs type="place" subtype="place" ref="#place_03b16e0a78b56bb5ada8e43123aaaa62">Bonn</rs> Beschäftigung erhielt, wo ich mich
                         bis jetzt befinde. Den persönlichen Umgang mit meinem Lehrer konnte ich
@@ -235,7 +235,7 @@
                         unterstützen konnte. Es reiften mir so unter der Hand zwei neue Abhandlungen
                         ebenfalls über den Terenz, die nächstens in den philologischen Zeitschriften
                         erscheinen werden. Seit einem Jahre ungefähr ist mir die Ausbildung Seiner
-                        Durchlaucht des <rs type="person" ref="thurn-und-taxis-theodor" key="thurn-und-taxis-theodor">Prinzen Theodor von
+                        Durchlaucht des <rs type="person" ref="#thurn-und-taxis-theodor">Prinzen Theodor von
                             Thurn und Taxis</rs> übertragen, die ich auch im künftigen
                         Semester fortsetzen werde, bis eine höhere Pflicht mich abruft.</p>
                     <p>Dr. Joseph Krauss</p>

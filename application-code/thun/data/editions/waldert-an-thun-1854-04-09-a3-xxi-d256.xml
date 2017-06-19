@@ -4,11 +4,11 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="waldert-anton" key="waldert-anton" role="sender:kleriker">Anton Waldert</rs>
-                    an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                    <rs type="person" ref="#waldert-anton" role="sender:kleriker">Anton Waldert</rs>
+                    an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" key="goerkau" ref="#place_6f7cc055d11cf2cbbaa605d5449eb44c">Görkau</rs> [Jirkov],
+                    <rs type="place" subtype="place" ref="#place_6f7cc055d11cf2cbbaa605d5449eb44c">Görkau</rs> [Jirkov],
                         <date when="1854-04-09">9. April 1854</date>
                 </title>
             </titleStmt>
@@ -72,10 +72,10 @@
                     Oesterreichs unter Hochderselben weisen Leitung zur wesentlichen Ausgestaltung
                     gebracht werden. Darinn [sic!] Gottes Schutz und Segen über Euer
                     Excellenz!!<lb/>Zugleich benütze ich diese Gelegenheit, um Hochdenselben meinen
-                    innigsten Dank wegen der Anstellung meines Freundes des Pater <rs type="person" ref="weber" key="weber">Weber</rs> auszudrücken. Die Zeit wird Euer Excellenz
+                    innigsten Dank wegen der Anstellung meines Freundes des Pater <rs type="person" ref="#weber">Weber</rs> auszudrücken. Die Zeit wird Euer Excellenz
                     lehren, welchen gesinnungstüchtigen, reich begabten Priester Hochdieselben in
                     diesem Manne dem Lehramte gewonnen haben. Ich kann mirs nicht versagen einen
-                    Passus aus einem Briefe, den mir <rs type="person" ref="weber" key="weber">Pater Weber</rs>
+                    Passus aus einem Briefe, den mir <rs type="person" ref="#weber">Pater Weber</rs>
                     aus <rs type="place" subtype="place" ref="#place_dd51fef1ae0877c04e8b4e19eddbabd5">Kaschau</rs> [Košice] geschrieben, zur geneigten
                     Kenntnißnahme hier einfließen zu lassen. Er schreibt: „Meine Kollegen sind, was
                     Kenntnisse anbelangt, tüchtig, mit der christlichen Gesinnung aber … darum ist

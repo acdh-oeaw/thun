@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
-                        <rs type="person" ref="linde-justin" key="linde-justin" role="recipient:gelehrter">Justin
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#linde-justin" role="recipient:gelehrter">Justin
                         Linde</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1855-12-26">26. Dezember 1855</date>
@@ -65,11 +65,11 @@
                     ist vorüber, ich darf aber noch nicht schreiben, darum diktire ich diese Zeilen,
                     durch welche ich Ihre mir wiederholt erwiesene Gefälligkeit abermals in Anspruch
                     nehme. Durch Vermittlung mehrerer Personen ist mir der Wunsch eines Convertiten,
-                        <rs type="person" ref="blakert-georg" key="blakert-georg">Dr. Blakert</rs>, um eine Anstellung in
-                        <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> vorgetragen worden. Derselbe
+                        <rs type="person" ref="#blakert-georg">Dr. Blakert</rs>, um eine Anstellung in
+                        <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> vorgetragen worden. Derselbe
                     hat eine Pfarre mit Gehalt von 1000 Thalern verlassen, um sammt seiner Familie
                     in den Schoß der katholischen Kirche zurückkehren zu können. Er soll ein
-                    ausgezeichneter Philolog sein, in <orgName key="universitaet-marburg">Marburg</orgName> doktorirt haben und dann durch längere Zeit an den
+                    ausgezeichneter Philolog sein, in <orgName>Marburg</orgName> doktorirt haben und dann durch längere Zeit an den
                     Gymnasien zu <rs type="place" subtype="place" ref="#place_fd3ebb9f41f9f036dba5791051bc5749">Marburg</rs> und <rs type="place" subtype="place" ref="#place_036c67a15b83e47679fe70703764a11f">Rinteln</rs>
                     als Oberlehrer angestellt gewesen sein, auch soll er gegenwärtig eine
                     griechische Grammatik herausgeben. Ich glaube voraussetzen zu dürfen, daß Sie
@@ -84,7 +84,7 @@
                     Gymnasium anzustellen, wenn mir seine Eignung hierzu in jeder Beziehung verbürgt
                     werden kann. Eine solche Anstellung würde zwar anfänglich nur einen geringen
                     Gehalt (800 fl.) bieten, eine Verbesserung desselben bis auf 1000 fl. jedoch
-                    bald erreichbar sein. Sollten Sie mit <rs type="person" ref="blakert-georg" key="blakert-georg">Dr.
+                    bald erreichbar sein. Sollten Sie mit <rs type="person" ref="#blakert-georg">Dr.
                         Blakert</rs> in persönlicher Berührung stehen, so ermächtige ich Sie,
                     ihm dieses mitzutheilen, ohne sich jedoch vorläufig dabei auf mich zu berufen.
                     Nähere Andeutungen behalte ich mir für den Fall vor, daß die erbetenen Auskünfte

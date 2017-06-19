@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="pitra-jean-baptiste" key="pitra-jean-baptiste" role="sender:kleriker">Jean-Baptiste
-                        Pitra</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                    <rs type="person" ref="#pitra-jean-baptiste" role="sender:kleriker">Jean-Baptiste
+                        Pitra</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1860-09-04">4.
@@ -69,7 +69,7 @@
                 <p>J'ai du considérer comme un devoir, après les marques indignes de bonté dont
                     Votre Excellence a daigné m'honorer de consigner par écrit, conformément au
                     désir exprès de Votre Excellence, les principales observations que j'ai eu
-                    l'honneur de lui soumettre concernant l'ordre de Saint Basile en <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Autriche</rs>.<lb/>La pensée principale du saint
+                    l'honneur de lui soumettre concernant l'ordre de Saint Basile en <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Autriche</rs>.<lb/>La pensée principale du saint
                     législateur de cet ordre, qui ne l'a pas crée, mais qui lui a donné une
                     direction et une discipline nouvelle, parait avoir été celle-ci: transporter de
                     la solitude au milieu des populations des moines jusqu'alors volontairement
@@ -79,7 +79,7 @@
                     foi.<lb/>L'Histoire atteste que les moines d'orient ont généralement rempli
                     cette double mission. Apôtres et soldats, ils n'ont celle de combattre et
                     d'évangéliser, tant que les chefs ne leur ont pas fait défaut. Même après
-                    Ghotius [Grotius?], ils reculent de deux siècles la rupture avec <rs type="place" subtype="place" key="rom" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rome</rs>. Pendant plus de mille ans, le martyrologe romain
+                    Ghotius [Grotius?], ils reculent de deux siècles la rupture avec <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rome</rs>. Pendant plus de mille ans, le martyrologe romain
                     lui-même eut regretté leurs triomphes et s'enrichit de leurs noms. Si enlacés de
                     mensonges, trahis par les Évêques et les empereurs, ils n'ont pas repoussé plus
                     efficacement le schisme et l'islamisme, du moins ont-ils en partie neutralisé
@@ -107,32 +107,32 @@
                     qu'elles sont, ou ne seront jamais Basiliennes.<lb/>Aussi Dieu a-t-il voulu que
                     son Église ne fut jamais prisée de cette milice. Quand Michel Cérulaire consomma
                     le schisme, une élite de ces moines, transporta de nombreuses colonies en
-                        <rs type="place" subtype="country" key="italien" ref="#place_19cb29505c294db5ca9190ea93447e98">Italie</rs>, en <rs type="place" subtype="country" key="koenigreich-beider-sizilien" ref="#place_f40f64e9f62ad587f6de7a4913473552">Sicilie</rs> et en <rs type="place" subtype="country" key="spanien" ref="#place_84c63835ca2fcac8636cf7d36aa48fa4">Espagne</rs>. Au seizième siècle, peu après que l'orient
-                    à la voix de S. <rs type="person" ref="francisco-de-xavier" key="francisco-de-xavier">François Xavier</rs>
+                        <rs type="place" subtype="country" ref="#place_19cb29505c294db5ca9190ea93447e98">Italie</rs>, en <rs type="place" subtype="country" ref="#place_f40f64e9f62ad587f6de7a4913473552">Sicilie</rs> et en <rs type="place" subtype="country" ref="#place_84c63835ca2fcac8636cf7d36aa48fa4">Espagne</rs>. Au seizième siècle, peu après que l'orient
+                    à la voix de S. <rs type="person" ref="#francisco-de-xavier">François Xavier</rs>
                     se fut ouvert à l'autre bout du monde à nos portes, une pacifique défection du
                     schisme grec fit passer en nos rangs, avec plusieurs millions de fidèles, deux
                     cents monastères Basiliens.<lb/>Des côtés de la Baltique, liés comme une longue
-                    chaîne à travers la <rs type="place" subtype="country" key="litauen" ref="#place_d9113a4a0ece0da8589e47019ab7e470">Lithuanie</rs> et la <rs type="place" subtype="country" key="polen" ref="#place_f7e32af910ea100716664681d1244a74">Pologne</rs> à ceux que <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">l'Autriche</rs> possédait dans la <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Hongrie</rs> et la <rs type="place" subtype="country" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Transylvanie</rs>, et qui s'échelonnaient tout le long du Danube jusqu'à
+                    chaîne à travers la <rs type="place" subtype="country" ref="#place_d9113a4a0ece0da8589e47019ab7e470">Lithuanie</rs> et la <rs type="place" subtype="country" ref="#place_f7e32af910ea100716664681d1244a74">Pologne</rs> à ceux que <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">l'Autriche</rs> possédait dans la <rs type="place" subtype="country" ref="#place_200678ecb5e63e26681b5d3f05466a37">Hongrie</rs> et la <rs type="place" subtype="country" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Transylvanie</rs>, et qui s'échelonnaient tout le long du Danube jusqu'à
                     la mer noire, c'était tout à la fois un rempart et un camps de réserve: un
-                    rempart, qui a véritablement préservé la <rs type="place" subtype="country" key="russland" ref="#place_5c0704d47c0a58a0922e25b5b9b66b27">Russie</rs> de l'invasion luthérienne et les slaves occidentaux du
+                    rempart, qui a véritablement préservé la <rs type="place" subtype="country" ref="#place_5c0704d47c0a58a0922e25b5b9b66b27">Russie</rs> de l'invasion luthérienne et les slaves occidentaux du
                     schisme russe; une réserve d'apôtres, qui a donné, au nom de tout l'orient et de
-                    quinze siècles d'éclatant d'émeutiers aux innovations de la <rs type="place" subtype="country" key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Germanie</rs>, et qui bien dirigés d'autre part,
+                    quinze siècles d'éclatant d'émeutiers aux innovations de la <rs type="place" subtype="country" ref="#place_5869efb178cbefee33172ba03d331cb0">Germanie</rs>, et qui bien dirigés d'autre part,
                     auraient pu en s'assimilant de poche en poche les monastères gréco-slaves,
                     entamer le schisme et précipiter la ruine.<lb/>Telle a été la pensée constante
-                    et manifeste du Saint Siège. <rs type="person" ref="benedikt-XIV" key="benedikt-XIV">Benoit XIV.</rs>
+                    et manifeste du Saint Siège. <rs type="person" ref="#benedikt-XIV">Benoit XIV.</rs>
                     en est l'éloquent interprète. Il est douloureux de voir que presque tous les
                     auxiliaires, appelés à seconder cette grande pensée, n'ont rien omis pour la
-                    faire échouer.<lb/>Survivant à tous les déchirements de la <rs type="place" subtype="country" key="polen" ref="#place_f7e32af910ea100716664681d1244a74">Pologne</rs> et aux tourments de <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">l'Autriche</rs>, l'ordre possédait encore, sur la fin du siècle
+                    faire échouer.<lb/>Survivant à tous les déchirements de la <rs type="place" subtype="country" ref="#place_f7e32af910ea100716664681d1244a74">Pologne</rs> et aux tourments de <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">l'Autriche</rs>, l'ordre possédait encore, sur la fin du siècle
                     dernier 198 monastères; il fallut d'abord détacher la belle et florissante
-                    province de <rs type="place" subtype="country" key="litauen" ref="#place_d9113a4a0ece0da8589e47019ab7e470">Lithuanie</rs>, qui comptait 108
-                    monastères. La <rs type="place" subtype="country" key="litauen" ref="#place_d9113a4a0ece0da8589e47019ab7e470">lithuanie</rs> n'a pas oublié ces
+                    province de <rs type="place" subtype="country" ref="#place_d9113a4a0ece0da8589e47019ab7e470">Lithuanie</rs>, qui comptait 108
+                    monastères. La <rs type="place" subtype="country" ref="#place_d9113a4a0ece0da8589e47019ab7e470">lithuanie</rs> n'a pas oublié ces
                     anciens apôtres et c'est à eux surtout qu'elle doit la foi naïve, les mœurs
                     patriarcales, l'héroïsme de son peuple catholique, l'un des plus admirables du
                     monde chrétien. Il fallut encore séparer en deux tronçons la province de
-                        <rs type="place" subtype="country" key="polen" ref="#place_f7e32af910ea100716664681d1244a74">Pologne</rs>. Les 22 monastères de la <rs type="place" subtype="region" key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Gallicie</rs> firent un suprême et sublime effort en
-                    demandant qu'on les réunit aux obscurs et pauvres couvents de la <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Hongrie</rs> et qu'on les soumit tous à un Général qui à
-                        <rs type="place" subtype="place" key="rom" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rome</rs> gouvernerait tous les romains épars en
-                        <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Autriche</rs>, en <rs type="place" subtype="country" key="italien" ref="#place_19cb29505c294db5ca9190ea93447e98">Italie</rs>, au <rs type="place" subtype="country" key="koenigreich-beider-sizilien" ref="#place_f40f64e9f62ad587f6de7a4913473552">Sicile</rs> et en <rs type="place" subtype="country" key="spanien" ref="#place_84c63835ca2fcac8636cf7d36aa48fa4">Espagne</rs>. <rs type="person" ref="joseph-II" key="joseph-II">Josep II</rs>, répondit à cette requête par les
+                        <rs type="place" subtype="country" ref="#place_f7e32af910ea100716664681d1244a74">Pologne</rs>. Les 22 monastères de la <rs type="place" subtype="region" ref="#place_4ec4d4015169a4209797da17b240c7c3">Gallicie</rs> firent un suprême et sublime effort en
+                    demandant qu'on les réunit aux obscurs et pauvres couvents de la <rs type="place" subtype="country" ref="#place_200678ecb5e63e26681b5d3f05466a37">Hongrie</rs> et qu'on les soumit tous à un Général qui à
+                        <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rome</rs> gouvernerait tous les romains épars en
+                        <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Autriche</rs>, en <rs type="place" subtype="country" ref="#place_19cb29505c294db5ca9190ea93447e98">Italie</rs>, au <rs type="place" subtype="country" ref="#place_f40f64e9f62ad587f6de7a4913473552">Sicile</rs> et en <rs type="place" subtype="country" ref="#place_84c63835ca2fcac8636cf7d36aa48fa4">Espagne</rs>. <rs type="person" ref="#joseph-II">Josep II</rs>, répondit à cette requête par les
                     décrets qui interceptaient tout commerce aves les supérieurs étrangers,
                     confisquaient les caisses provinciales, anéantissaient tout jurisdiction des
                     archimandrites et protoarchimandrites. La congrégation fut dissoute; quelques
@@ -140,8 +140,8 @@
                     sauf un petit nombre, luttent dans l'agonie contre l'opprobre et l'indigence
                     extrême.<lb/>Ce fait est d'autant plus affligeant qu'il contraste avec la
                     permanence et la dignité de l'institution Basilienne, au milieu même du schisme
-                    et de l'islamisme. Il y a plus: la <rs type="place" subtype="country" key="polen" ref="#place_f7e32af910ea100716664681d1244a74">Pologne</rs>
-                    catholique d'autrefois, et, qu'il me soit permis de l'ajouter, <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">l'Autriche</rs> d'aujourd'hui ont possédé et
+                    et de l'islamisme. Il y a plus: la <rs type="place" subtype="country" ref="#place_f7e32af910ea100716664681d1244a74">Pologne</rs>
+                    catholique d'autrefois, et, qu'il me soit permis de l'ajouter, <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">l'Autriche</rs> d'aujourd'hui ont possédé et
                     possèdent des Monastères Basiliens <hi rend="ul">non-unis</hi> qui n'ont rien
                     perdu de leur antique splendeur, qui ont des Églises magnifiques, qui
                     entretiennent des écoles florissantes, qui ne manquent ni de maitres savants nie
@@ -191,7 +191,7 @@
                     ont à mener chaque jour. Enfin, s'il y quelque art des éléments sérieux de
                     restauration, <hi rend="ul">il s'en trouve là tout autant, et nulle part il
                         n'est plus opportun et plus urgent de les mettre en œuvre</hi>.<lb/>
-                    <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">L'Autriche</rs> est la seule puissance catholique
+                    <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">L'Autriche</rs> est la seule puissance catholique
                     slave. Non seulement les vingt millions de slaves soumis à son sceptre seront
                     tous attentifs et reconnaissants à toute parole, à tout acte bienveillant pour
                     l'ordre de Saint Basile. Mais d'autres millions d'hommes, slaves, valaques et
@@ -201,7 +201,7 @@
                     églises et leurs monastères prospérer. Ils nous prendront en aversion et
                     blasphémeront toute la catholicité, si l'union ne produit parmi nous, même pour
                     les personnes consacrées à Dieu, que l'indigence et l'opprobre. Cette union que
-                    Dieu semble préparer aux portes de <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">l'Autriche</rs> et qui peut prendre au loin l'essor, peut aussi
+                    Dieu semble préparer aux portes de <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">l'Autriche</rs> et qui peut prendre au loin l'essor, peut aussi
                     s'évanouir par quelques plaintes et d'odieux parallèles. De plus, une époque
                     mémorable et fastique, qui déjà passionne tous les enthousiasmes slaves, le
                     Millénaire de S. Cyrille et de S. Méthode en 1863 semble ériger impérieusement
@@ -211,7 +211,7 @@
                     élever l'empire Apostolique.<lb/>S'il m'est permis d'indiquer brièvement les
                     moyens qui peuvent concourir à cette œuvre providentielle, j'oserais énumérer,
                     entr'autres, les suivants:<lb/>1. Accorder avant tout, pour quatre ou cinq ans
-                    aux monastères de la <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Hongrie</rs> les plus pauvres,
+                    aux monastères de la <rs type="place" subtype="country" ref="#place_200678ecb5e63e26681b5d3f05466a37">Hongrie</rs> les plus pauvres,
                         <rs type="place" subtype="place" ref="#place_7c7923917ee52d63d7ac2808703ffb31">Krasnobrod</rs>, Beresn, Afidzticz,
                         <rs type="place" subtype="place" ref="#place_6d2a3822a111ec5d6369f95733c87469">Bukocz</rs> un subside annuel de [?] ou 500 florins, à
                     prendre sur le fonds de religion, destiné aux ordres mendiants. Les Basiliens ne
@@ -231,7 +231,7 @@
                     l'édition des livres de ce rit imprimée par le gouvernement, à la charge de
                     mettre à profit la vente de cette édition pour fonder une typographie qui
                     fournisse les éditions subséquentes et répand les bons livres dans toutes les
-                    langues du rite grec. Le gouvernement d'<rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Autriche</rs> ne peut faire un meilleur emploi des capitaux que la
+                    langues du rite grec. Le gouvernement d'<rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Autriche</rs> ne peut faire un meilleur emploi des capitaux que la
                     belle édition des livres slaves à pu absorber. Il y aurait toutefois, en ce qui
                     concerne les livres schismatiques des mesures à prendre avec les autorités
                     ecclésiastiques respectives. La seule concession d'un brevet d'imprimerie et de
@@ -240,8 +240,8 @@
                     et sur le subside annuel et sur la vente des livres, et sur les ressources des
                     écoles ou autres, un fonds suffisant pour entretenir un noviciat nouveau et
                     commun, qui prépare des moines exemplaires, destinés à raviver successivement
-                    toutes les maisons. Le chapitre général des Basiliens de <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Hongrie</rs> a nommé pour cet emploi un pieux et [?] Père polonais,
-                    qui serait sans doute également agrée par la Province de <rs type="place" subtype="region" key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Gallicie</rs>. Si les distances ne rendent pas impraticables ce
+                    toutes les maisons. Le chapitre général des Basiliens de <rs type="place" subtype="country" ref="#place_200678ecb5e63e26681b5d3f05466a37">Hongrie</rs> a nommé pour cet emploi un pieux et [?] Père polonais,
+                    qui serait sans doute également agrée par la Province de <rs type="place" subtype="region" ref="#place_4ec4d4015169a4209797da17b240c7c3">Gallicie</rs>. Si les distances ne rendent pas impraticables ce
                     noviciat commun, il y aurait avantage spirituel et matériel à réunir sous une
                     même direction tout les novices dont l'émulation, les bons exemples et la
                     persévérance croîtraient avec le nombre. <lb/>5. Céder aux Basiliens pour le
@@ -265,22 +265,22 @@
                     manquer à cette œuvre qui trouvera également un puissant auxiliaire dans la
                     piété de sa majesté Apostolique. Il suffira d'ailleurs de consolider et
                     d'étendre à des proportions limitées ce qui déjà subsiste en partie. La Province
-                    de <rs type="place" subtype="region" key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Gallicie</rs> possède un archimandrite et un
+                    de <rs type="place" subtype="region" ref="#place_4ec4d4015169a4209797da17b240c7c3">Gallicie</rs> possède un archimandrite et un
                     chapitre provincial. Les mêmes privilèges sont indispensables aux monastères de
-                    la <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Hongrie</rs>. Le protoarchimandrite
+                    la <rs type="place" subtype="country" ref="#place_200678ecb5e63e26681b5d3f05466a37">Hongrie</rs>. Le protoarchimandrite
                     alternativement nommé dans l'un ou l'autre province aura la suprême intendance.
                     Velehrad pourrait être le pont central d'où son action s'exercerait à la fois et
-                    sur le noviciat, et sur la typographie et sur les deux provinces de <rs type="place" subtype="region" key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Gallicie</rs> et de <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Hongrie</rs> qui ne seraient pas sans analogie avec les deux anciennes
-                    provinces de <rs type="place" subtype="country" key="polen" ref="#place_f7e32af910ea100716664681d1244a74">Pologne</rs> et de <rs type="place" subtype="country" key="litauen" ref="#place_d9113a4a0ece0da8589e47019ab7e470">Lithuanie</rs>, dont les contrastes se complétaient et créaient une
+                    sur le noviciat, et sur la typographie et sur les deux provinces de <rs type="place" subtype="region" ref="#place_4ec4d4015169a4209797da17b240c7c3">Gallicie</rs> et de <rs type="place" subtype="country" ref="#place_200678ecb5e63e26681b5d3f05466a37">Hongrie</rs> qui ne seraient pas sans analogie avec les deux anciennes
+                    provinces de <rs type="place" subtype="country" ref="#place_f7e32af910ea100716664681d1244a74">Pologne</rs> et de <rs type="place" subtype="country" ref="#place_d9113a4a0ece0da8589e47019ab7e470">Lithuanie</rs>, dont les contrastes se complétaient et créaient une
                     utile et féconde émulation. <lb/>7. Aussitôt que la congrégation aurait repris
                     une activité régulière, il importerait de rétablir la procure générale à
-                        <rs type="place" subtype="place" key="rom" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rome</rs>, qui eut son siège à l'Église des S.S.
+                        <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rome</rs>, qui eut son siège à l'Église des S.S.
                     Cosme et Damien et un hospice pour les étudiants à <hi rend="ul">S. Maria del
                         Pascolo</hi>. L'Empereur de Russie, vers 1820, faisait encore faire des
                     démarches auprès du Saint Siège pour réclamer le bénéfice de ces fondations. Si
                     les titres et les droits ne sont pas périmés, il importerait de les revendiquer,
                     pour ménager surtout un asyle aux élèves que l'ordre pourrait envoyer suivre les
-                    cours des collèges de <rs type="place" subtype="place" key="rom" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rome</rs>. <lb/>8. Il
+                    cours des collèges de <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rome</rs>. <lb/>8. Il
                     importerait enfin de ne pas laisser dans un provisoire indéfini les règlements
                     formulés à la suite de la visitation générale de 1857 et dont en attend encore
                     l'approbation apostolique. J'ose insister en terminant pour que l'on s'abstienne

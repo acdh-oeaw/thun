@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="jaksch-anton" key="jaksch-anton" role="sender:gelehrter">Anton Jaksch</rs>
-                    an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                    <rs type="person" ref="#jaksch-anton" role="sender:gelehrter">Anton Jaksch</rs>
+                    an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1856-05-06">6.
@@ -74,13 +74,13 @@
                 <p>Euer Excellenz!</p>
                 <p>Ich nehme mir die Freiheit, zu meinem letzten Berichte <note xml:id="note_1">Vgl.
                             <ref target="thun/thun-korrespondenz/tetschen/jaksch-an-thun_1856-04-18_A3-XXI-D373b.xml">Anton Jaksch an Leo Thun. Prag, 18. April 1856</ref>.</note> Einiges
-                    nachzutragen. Vorerst verhielt es sich mit den von der <rs type="person" ref="helwig-theresia" key="helwig-theresia">Frau Generaloberin</rs> gewährten Concessionen
+                    nachzutragen. Vorerst verhielt es sich mit den von der <rs type="person" ref="#helwig-theresia">Frau Generaloberin</rs> gewährten Concessionen
                     anders, als ich damals erfahren und Euerer Excellenz berichtet hatte. Daß die
                     klinischen Säle neben einander bleiben, und die Assistenten ihre Wohnung in der
                     Nähe der Klinik behalten, hat seine Richtigkeit, doch die 3. Concession, daß die
                     1. Sekundarärzte der Internabtheilungen wie bisher im Mittelpunkte der ihnen zur
                     Aufsicht und Obsorge zugewiesenen Abtheilung ihre Wohnungen haben, konnte nicht
-                    als solche angesehen werden, da die <rs type="person" ref="helwig-theresia" key="helwig-theresia">Frau
+                    als solche angesehen werden, da die <rs type="person" ref="#helwig-theresia">Frau
                         Generaloberin</rs> blos zugegeben hatte, daß die 1. Sekundarärzte in
                     der Anstalt, aber nicht im Centrum ihrer Abtheilung, sondern entfernt im
                     entgegengesetzten Flügel des Hauses wohnen. Da mir der Zweck, den die
@@ -88,18 +88,18 @@
                     daß der Sekundararzt bei augenblicklich gefahrdrohenden Zufällen schnell bei der
                     Hand sey und mit leichter Mühe des Tags und Nachts die Krankenbeobachtung
                     pflegen und die Krankenwartung überwachen könne, so brachte ich es noch einmal
-                    zu einer Berathung mit der <rs type="person" ref="helwig-theresia" key="helwig-theresia">Frau
+                    zu einer Berathung mit der <rs type="person" ref="#helwig-theresia">Frau
                         Generaloberin</rs>, bei der erst nach einem hartnäckigen Widerstande
                     auch dieser Forderung Genüge geleistet wurde, natürlich, wenn, was hier besorgt
-                    wird, der Herr <rs type="person" ref="weiss-von-starkenfels-theodor" key="weiss-von-starkenfels-theodor">Ministerialrath
+                    wird, der Herr <rs type="person" ref="#weiss-von-starkenfels-theodor">Ministerialrath
                         Weiß von St[arkenfels]</rs> diese Concession nicht hinterher wieder
                     annullirt. Die vierte Forderung, daß einer größeren Anzahl junger Ärzte die
                     Gelegenheit geboten werde, sich allseitig für das praktische Leben auszubilden
                     und deshalb das Institut der Internpräparanden nicht aufgehoben werde, getraute
-                    ich mich nicht weiter zu stellen, da die <rs type="person" ref="helwig-theresia" key="helwig-theresia">Frau
+                    ich mich nicht weiter zu stellen, da die <rs type="person" ref="#helwig-theresia">Frau
                         Generaloberin</rs> rundweg erklärte, daß sie keine weitere Concession
                     machen werde. Dieses Institut ist somit bisher noch als aufgehoben zu
-                    betrachten. Das Schlimmste dabei scheint mir zu seyn, daß die <rs type="person" ref="helwig-theresia" key="helwig-theresia">Frau Generaloberin</rs> nicht aus Überzeugung,
+                    betrachten. Das Schlimmste dabei scheint mir zu seyn, daß die <rs type="person" ref="#helwig-theresia">Frau Generaloberin</rs> nicht aus Überzeugung,
                     daß sie das Krankenwohl fördert, diese Concessionen machte, sondern mehr, um dem
                     Drängen der Primarärzte nachzugeben.<lb/>Da ich die heurigen Ferien keine Reise
                     mache, sondern mich, um Einiges arbeiten zu können, in die Einsamkeit
@@ -107,10 +107,10 @@
                     bestehenden Orden der barmherzigen Schwestern schreiben und gestützt auf die
                     Statuten der einzelnen Orden zu ermitteln suchen, für welche Humanitätsanstalten
                     einer oder der andere mehr geeignet sey. Ich habe mich deshalb bereits nach
-                        <rs type="place" subtype="place" key="paris" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs>, <rs type="place" subtype="place" key="berlin" ref="#place_d35a02eb49149450fb2fffc6e467eb37">Berlin</rs> und <rs type="place" subtype="place" key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs>
-                    gewendet; wenn ich nur auch zur Kenntnis der Statuten der in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> bestehenden Orden gelangen könnte!
+                        <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs>, <rs type="place" subtype="place" ref="#place_d35a02eb49149450fb2fffc6e467eb37">Berlin</rs> und <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs>
+                    gewendet; wenn ich nur auch zur Kenntnis der Statuten der in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> bestehenden Orden gelangen könnte!
                     Vielleicht wird hieraus ein Nutzen für die Zukunft hervorgehen und werden
-                    ähnliche Mißgriffe, wie hier in <rs type="place" subtype="place" key="prag" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, ferner
+                    ähnliche Mißgriffe, wie hier in <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, ferner
                     vermieden werden. Denn das bisherige Wirken des Ordens in der Prager
                     Krankenanstalt reducirt sich auf ein Minimum. Ich glaube unbefangen zu
                     beobachten und behaupten und beweisen zu können, daß bisher, wenn auch die

@@ -4,10 +4,10 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="phillips-george" key="phillips-george" role="sender:gelehrter">George
-                        Phillips</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#phillips-george" role="sender:gelehrter">George
+                        Phillips</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" key="aigen" ref="#place_b6ee3fa99572ecc6e1f16c5b18a3ebb6">Aigen bei
+                    <rs type="place" subtype="place" ref="#place_b6ee3fa99572ecc6e1f16c5b18a3ebb6">Aigen bei
                         Salzburg</rs>, <date when="1854-09-08">8. September
                     1854</date>
                 </title>
@@ -65,7 +65,7 @@
                     <term>Geschichtswissenschaften</term>
                 </index>
                 <p>Hochgeborner Herr Graf,<lb/>Euer Excellenz!</p>
-                <p>Als ich vor einigen Tagen die Ehre hatte in Betreff des <rs type="person" ref="maassen-friedrich" key="maassen-friedrich">Dr. Maassen</rs> an Hochdieselben ein
+                <p>Als ich vor einigen Tagen die Ehre hatte in Betreff des <rs type="person" ref="#maassen-friedrich">Dr. Maassen</rs> an Hochdieselben ein
                     unterthäniges Schreiben zu richten, wollte ich mit dessen Angelegenheit nicht
                     auch die meinige verbinden, obschon ich seit geraumer Zeit bereits die
                     Überzeugung von der Nothwendigkeit in mir trage, mich noch einmal zu Euer
@@ -76,7 +76,7 @@
                     gedenken, welche mir durch die huldreiche Vermittlung Euer Excellenz zu Theil
                     geworden sind; Hochdieselben haben mich dadurch für meine Lebenszeit zu Ihrem
                     Schuldner gemacht.<lb/>So günstig sich nun auch in dieser Hinsicht meine Lage in
-                        <orgName key="universitaet-wien">Wien</orgName> gestaltet hat, so habe ich
+                        <orgName>Wien</orgName> gestaltet hat, so habe ich
                     dennoch eine für mich sehr schwere Zeit durchlebt, da die dortigen Verhältnisse
                     es durchaus nicht gestatten wollen, daß diejenige wissenschaftliche Richtung,
                     welcher ich angehöre und um derentwillen ich nach <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs>
@@ -93,7 +93,7 @@
                     Gnade getragen, Hochdemselben überreichen zu können.<lb/>Euer Excellenz werden
                     es mit mir fühlen, daß für einen Mann, der sein Leben einer hohen
                     wissenschaftlichen Aufgabe gewidmet und für diese seit mehr als zwanzig Jahren
-                    auf zweien der berühmtesten Universitäten <rs type="place" subtype="country" key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</rs> mit günstigem Erfolge gewirkt hat, nichts
+                    auf zweien der berühmtesten Universitäten <rs type="place" subtype="country" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</rs> mit günstigem Erfolge gewirkt hat, nichts
                     schmerzlicher sein kann, als wenn er, der mit Begeisterung und mit der Hoffnung
                     eines erweiterten Wirkungskreises dem Rufe nach <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs>
                     gefolgt ist, ganze Jahre ohne Einfluß auf die studirende Jugend verliren und
@@ -124,15 +124,15 @@
                     hineingezogenen Jugend aufzutreten, bitte ich Euer Excellenz mich dispensiren zu
                     wollen.<lb/>Bei dieser Gelegenheit muß ich mir zugleich die Freiheit nehmen,
                     Hochdemselben wiederum über zwei an mich gelangte Briefe, welche durch die
-                    Erledigung der philologischen Professur zu <orgName key="universitaet-prag">Prag</orgName> veranlaßt worden sind, Bericht zu erstatten. Der sehr
-                    bescheidene und anspruchslose Professor <rs type="person" ref="bippart-georg" key="bippart-georg">Bippart</rs> hofft auf eine gnädige Berücksichtigung, während zu
+                    Erledigung der philologischen Professur zu <orgName>Prag</orgName> veranlaßt worden sind, Bericht zu erstatten. Der sehr
+                    bescheidene und anspruchslose Professor <rs type="person" ref="#bippart-georg">Bippart</rs> hofft auf eine gnädige Berücksichtigung, während zu
                     gleicher Zeit ein aus <rs type="place" subtype="place" ref="#place_f1ef0ef1eaa60c0aeff7203df96508fd">Aachen</rs> gebürtiger Professor
-                        <rs type="person" ref="bock-cornelius-peter" key="bock-cornelius-peter">Bock</rs> zu <orgName key="universitaet-bruessel">Brüssel</orgName> seine Augen auf eben jene
+                        <rs type="person" ref="#bock-cornelius-peter">Bock</rs> zu <orgName>Brüssel</orgName> seine Augen auf eben jene
                     Professur gerichtet hat. Derselbe ist mir von meinem früheren Aufenthalte in
                         <rs type="place" subtype="place" ref="#place_ee1611b61f5688e70c12b40684dbb395">Berlin</rs> als ein tüchtiger Philolog und als ein
-                    Katholik von fester Überzeugung bekannt. Nähere Auskünfte als ich weiß <rs type="person" ref="weiss-johann-baptist" key="weiss-johann-baptist">Prof. Weiß</rs> in <rs type="place" subtype="place" key="graz" ref="#place_6e00929feb7fb02acaa548f47f67c61c">Graez</rs> [Graz] über ihn zu geben, zu dessen Werk über <rs type="person" ref="alfred-der-grosse" key="alfred-der-grosse">Alfred den Großen</rs>
-                    <rs type="person" ref="bock-cornelius-peter" key="bock-cornelius-peter">Bock</rs> eine den
-                        <rs type="person" ref="">Boethius</rs> betreffende Abhandlung geschrieben
+                    Katholik von fester Überzeugung bekannt. Nähere Auskünfte als ich weiß <rs type="person" ref="#weiss-johann-baptist">Prof. Weiß</rs> in <rs type="place" subtype="place" ref="#place_6e00929feb7fb02acaa548f47f67c61c">Graez</rs> [Graz] über ihn zu geben, zu dessen Werk über <rs type="person" ref="#alfred-der-grosse">Alfred den Großen</rs>
+                    <rs type="person" ref="#bock-cornelius-peter">Bock</rs> eine den
+                        <rs type="person" ref="#">Boethius</rs> betreffende Abhandlung geschrieben
                     hat.<lb/>Genehmigen Hochdieselben den Ausdruck meiner größten Verehrung und
                     Hochachtung, mit welcher ich bestehe als</p>
                 <p>Euer Excellenz</p>

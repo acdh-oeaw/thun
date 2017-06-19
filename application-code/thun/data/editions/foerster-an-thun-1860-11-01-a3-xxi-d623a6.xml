@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="foerster-heinrich" key="foerster-heinrich" role="sender:kleriker">Heinrich
-                        Förster</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#foerster-heinrich" role="sender:kleriker">Heinrich
+                        Förster</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs>, <date when="1860-11-01">1. November 1860</date>
                 </title>
@@ -54,7 +54,7 @@
                 <p>Das sehr geehrte Schreiben Euer Excellenz vom 13. Oktober, obwohl nicht ohne
                     Hinweis auf die beklagenswerthen Verhältnisse der gegenwärtigen Zeit, enthielt
                     gleichwohl nicht die leiseste Andeutung, die mich auf Hochdero baldigen
-                    Rücktritt aus dem <orgName key="ministerium-fuer-kultus-und-unterricht">k.k.
+                    Rücktritt aus dem <orgName>k.k.
                         Ministerium</orgName> hätte schließen lassen, darum bezweifelte ich die
                     ersten Zeitungsnachrichten um so lieber, als man ohnehin nicht gern glaubt, was
                     man nicht wünscht. Leider haben sich jene Nachrichten seitdem bestättiget und es
@@ -69,7 +69,7 @@
                     sich Hochdieselben versichert halten, daß es recht viele Segenswünsche und
                     Gebete sind, die Euer Excellenz nachfolgen und Sie begleiten werden auf Ihrem
                     Lebenswege.<lb/>Inzwischen werden die Zeitverhältnisse immer düsterer und
-                    drohender. Gott schütze <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Ostreich</rs>. Um die
+                    drohender. Gott schütze <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Ostreich</rs>. Um die
                     Kirche bange ich nicht. Ihr Weg ist der ihres Hauptes und Stifters; er führt aus
                     dem Charfreitag in den Ostermorgen.<lb/>Mögen mir Euere Excellenz ein
                     freundliches Andenken bewahren, wie ich nie aufhören werde, mit dankbarer

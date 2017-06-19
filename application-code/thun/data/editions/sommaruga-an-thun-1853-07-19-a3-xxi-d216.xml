@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="sommaruga-franz-seraph" key="sommaruga-franz-seraph" role="sender:beamter">Franz
-                        Sommaruga</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#sommaruga-franz-seraph" role="sender:beamter">Franz
+                        Sommaruga</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>[<rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>], <date when="1853-07-19">19. Juli 1853</date>
                 </title>
             </titleStmt>
@@ -51,13 +51,13 @@
                     <term>Kultus</term>
                 </index>
                 <p>Euere Excellenz!</p>
-                <p>Ein Neffe von mir, General <rs type="person" ref="haen-peter" key="haen-peter">Baron Haen</rs>, hat
+                <p>Ein Neffe von mir, General <rs type="person" ref="#haen-peter">Baron Haen</rs>, hat
                     mir das hier ergebenst angeschloßene Empfehlungsschreiben eines Mailänder
                     Domherrn um eine Abbazia in <rs type="place" subtype="place" ref="#place_986f51a7ad3bed298456ad48d484ebc2">Mantua</rs> mit der Bitte
                     gesendet, dasselbe an Euere Excellenz zu befördern und mit einem Vorwort zu
                     begleiten.<lb/>Dem ersteren Ansuchen kann ich mich nicht entziehen. Zur
                     Begründung eines Vorworts habe ich aber, da ich den Bewerber nicht kenne, nur
-                    die Versicherung meines <rs type="person" ref="haen-peter" key="haen-peter">Neffen</rs>, eines
+                    die Versicherung meines <rs type="person" ref="#haen-peter">Neffen</rs>, eines
                     Mannes von Ehre, der den Bewerber als einen sehr würdigen Mann
                     schildert.<lb/>Überzeugt von dem Gerechtigkeitssinne des Herrn Ministers, daß
                     das Gesuch dieses geistlichen Würdenträgers die ihm vielleicht gebührende
@@ -74,8 +74,8 @@
                         servito e come parroco pello spazio di 26 anni, e per lo spazio di due anni
                         e due mesi alle carceri dell’I.R. Tribunale di
                             <rs type="place" subtype="place" ref="#place_9a677a8fef077d847cc1d6d558b8630f">Cremona</rs> con nomina della Luogotenenza I. e R. di
-                            <rs type="place" subtype="place" key="mailand" ref="#place_e30630933146ed8683482de23229fd6a">Milano</rs>, possa esser nominato a tal
-                        canonicato da <rs type="person" ref="franz-joseph" key="franz-joseph">Sua Maestà Apostolica</rs>,
+                            <rs type="place" subtype="place" ref="#place_e30630933146ed8683482de23229fd6a">Milano</rs>, possa esser nominato a tal
+                        canonicato da <rs type="person" ref="#franz-joseph">Sua Maestà Apostolica</rs>,
                         alle Quale per grazia di Dio si mantenne sempre fedelissimo suddito. Il
                         detto ex parroco senza pensione, che vi annunciò liberamente e
                         spontaneamente la parrocchia di <rs type="place" subtype="place" ref="#place_a98f4d301d53fc29ec5a138bf9ed2243">Pugnolo</rs> nel distretto
@@ -83,9 +83,9 @@
                             <rs type="place" subtype="place" ref="#place_9a677a8fef077d847cc1d6d558b8630f">Cremona</rs>; ha 52 anni compiuti; non ha alcun
                         entrata fissa, altro de Lire 482 aust. dalle carceri; e Lire 290 aust. di
                         due benefici semplici ottenuti dall’I.R. Luogotenenza, in .. [?] feriali
-                        essendo messo in dupla dal <rs type="person" ref="novasconi-antonio" key="novasconi-antonio">Suo
+                        essendo messo in dupla dal <rs type="person" ref="#novasconi-antonio">Suo
                             amorosissimo vescovo</rs> prega Vostra Ill. e Nobil. a far buon
-                        opera appo <rs type="person" ref="franz-joseph" key="franz-joseph">Sua Maestà
+                        opera appo <rs type="person" ref="#franz-joseph">Sua Maestà
                         apostolica</rs>.<lb/>Ascolti ottimo Signore le preghiere d’un misero
                         ecclesiastico, confida nella sua protezione, e ne sarà gratissimo e pregherà
                         sempre Iddio per Lei e pel Suo Monarca.<lb/>Con rispetto e stima profonda si

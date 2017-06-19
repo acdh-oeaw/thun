@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Brief eines nicht identifizierbaren Absenders an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                <title>Brief eines nicht identifizierbaren Absenders an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>o. O.,
                         <date when="1851-01-29">29. Januar 1851</date>
                 </title>
@@ -54,7 +54,7 @@
                     <term>Revolution</term>
                 </index>
                 <p>Eure Excellenz!</p>
-                <p>In der Unterlage bin ich so frei, einige Daten <rs type="person" ref="waleswski-antoni" key="waleswski-antoni">Walewski</rs> betreffend mitzutheilen; dieselben beruhen nur
+                <p>In der Unterlage bin ich so frei, einige Daten <rs type="person" ref="#waleswski-antoni">Walewski</rs> betreffend mitzutheilen; dieselben beruhen nur
                     theilweise auf seiner eigenen, im Übrigen auf verläßlicher Mittheilung dritter
                     Personen.</p>
                 <p>In tiefster Hochachtung</p>
@@ -62,28 +62,28 @@
                 </p>
                 <div type="enclosure" xml:id="D104_1">
                     <p>
-                        <rs type="person" ref="waleswski-antoni" key="waleswski-antoni">A[ntoni] Walewski</rs> in
+                        <rs type="person" ref="#waleswski-antoni">A[ntoni] Walewski</rs> in
                             <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs> geboren, machte den russisch-polnischen
                         Feldzug mit und ging im Jahr 1833 mit Reisepaß nach
                             <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, wo er fruchtlos um Zulassung ins Archiv
                         ersuchte, dann nach <rs type="place" subtype="place" ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</rs>; im Jahr 1834 arbeitete er
-                        mit <rs type="person" ref="mochnacki-maurycy" key="mochnacki-maurycy">Moritz Mochnacki</rs> am 2.
+                        mit <rs type="person" ref="#mochnacki-maurycy">Moritz Mochnacki</rs> am 2.
                         Bande von dessen Geschichte (der polnischen Revolution)<note xml:id="note_2">Vgl. <ref target="http://www.pbi.edu.pl/book_reader.php?p=41570&amp;s=1">Maurycy Mochnacki, Powstanie Narodu Polskiego W R. 1830 I 1831, Bd.
                                 1., Paris 1834</ref>.</note>, der nicht mehr im radicalen Sinne des
-                        1. abgefaßt ist.<lb/>Im Jahr 1835 wurde <rs type="person" ref="waleswski-antoni" key="waleswski-antoni">Walewski</rs> in das <rs type="place" subtype="place" key="paris" ref="#place_ccbee73cd81c7f42405e1920409247ec">Pariser</rs>
-                        Archiv zugelassen.<lb/>Von den Demokraten verfolgt ging er nach <rs type="place" subtype="place" key="bruessel" ref="#place_7279949b987b1b373468947f87fe6753">Brüssel</rs>, <rs type="place" subtype="place" ref="#place_3eb8670d999ac077dd0e2c345cb7c905">Amsterdam</rs> und
+                        1. abgefaßt ist.<lb/>Im Jahr 1835 wurde <rs type="person" ref="#waleswski-antoni">Walewski</rs> in das <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Pariser</rs>
+                        Archiv zugelassen.<lb/>Von den Demokraten verfolgt ging er nach <rs type="place" subtype="place" ref="#place_7279949b987b1b373468947f87fe6753">Brüssel</rs>, <rs type="place" subtype="place" ref="#place_3eb8670d999ac077dd0e2c345cb7c905">Amsterdam</rs> und
                             <rs type="place" subtype="place" ref="#place_1d4660e0a445b02912a96b0ac4fe036a">Haag</rs>, wo er in Archiven arbeitete und Materialen
                         für seine im Manuscripte vorbereitete <hi rend="ul">Geschichte des
                             europäischen Gleichgewichtes</hi> sammelte (1840–1841), ein Gleiches
                         that er im Jahr 1842–1844 in <rs type="place" subtype="place" ref="#place_ee1611b61f5688e70c12b40684dbb395">Berlin</rs>,
-                            <rs type="place" subtype="place" ref="#place_35d7df6ed3d93be2927d14acc5f1fc9a">Hamburg</rs>, <rs type="place" subtype="place" key="kopenhagen" ref="#place_fac3e8ffdba1df35c7ce679d9bf4cb30">Copenhagen</rs>; wegen mehrerer Schriften im
+                            <rs type="place" subtype="place" ref="#place_35d7df6ed3d93be2927d14acc5f1fc9a">Hamburg</rs>, <rs type="place" subtype="place" ref="#place_fac3e8ffdba1df35c7ce679d9bf4cb30">Copenhagen</rs>; wegen mehrerer Schriften im
                         Oesterreichfreundlichen Sinne und für dessen Allianz mit
                             <rs type="place" subtype="country" ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</rs> wurde er von den Demokraten angefeindet,
-                        von <rs type="person" ref="czartoryski-adam-jerzy" key="czartoryski-adam-jerzy">Czartoryski</rs> aber nach
+                        von <rs type="person" ref="#czartoryski-adam-jerzy">Czartoryski</rs> aber nach
                             <rs type="place" subtype="place" ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</rs> eingeladen, wo er auf dessen Verlangen vom
                         Jahr bis 1844 [sic!] vier Memoria an <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs>,
                             <rs type="place" subtype="country" ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</rs> und <rs type="place" subtype="country" ref="#place_64f607906be7598a02d75dbc1e979662">England</rs> schrieb,
-                        von denen zwei hier durch <rs type="person" ref="saint-aulaire-louis" key="saint-aulaire-louis">St.
+                        von denen zwei hier durch <rs type="person" ref="#saint-aulaire-louis">St.
                             Aulaire</rs> übergeben worden sein sollen:<lb/>1. Des droits et
                         des obligations des puissances signataires du traité de Vienne.<lb/>2. De
                         l’influence de l’infraction des traités sur les idées sociales.<lb/>3. De la
@@ -102,20 +102,20 @@
                         Verhältnisse nach dem alten öffentlichen Recht des heiligen römischen
                         Reiches und nach den Traktaten zu beleuchten, namentlich die Einheitsfrage
                         zu behandeln; er schrieb auch hierüber eine Abhandlung, so wie eine zweite
-                        unvollendete für M. <rs type="person" ref="guizot-francois" key="guizot-francois">Guizot</rs>
+                        unvollendete für M. <rs type="person" ref="#guizot-francois">Guizot</rs>
                         bestimmt „Ce qu’il y a á faire dans la politique du nord“. Die
-                        Februarrevolution vernichtete die Aussichten <rs type="person" ref="waleswski-antoni" key="waleswski-antoni">Walewskis</rs> auf eine Anstellung in
+                        Februarrevolution vernichtete die Aussichten <rs type="person" ref="#waleswski-antoni">Walewskis</rs> auf eine Anstellung in
                             <rs type="place" subtype="country" ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</rs>.<lb/>Im Jahr 1848 betheiligte sich
-                            <rs type="person" ref="waleswski-antoni" key="waleswski-antoni">Walewski</rs> anfangs an dem
+                            <rs type="person" ref="#waleswski-antoni">Walewski</rs> anfangs an dem
                         Journal Polska, verließ es jedoch bald und war in heftiger Opposition gegen
                         die Radicalen.<lb/>So viel ich mich entsinne war einmal das Gerücht
-                        verbreitet und sogar in den Journalen besprochen, daß <rs type="person" ref="waleswski-antoni" key="waleswski-antoni">Walewski</rs> fruchtlos die Naturalisation
+                        verbreitet und sogar in den Journalen besprochen, daß <rs type="person" ref="#waleswski-antoni">Walewski</rs> fruchtlos die Naturalisation
                         in <rs type="place" subtype="country" ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</rs> angesucht und daß man nach der Revolution
                         ein Verzeichnis der Summen gefunden, die er von der französischen Regierung
                         bezogen haben soll; er widerspricht dessen Angaben, und ich glaube, daß hier
-                        eine Verwechslung mit dem Diplomaten <rs type="person" ref="colonna-walewski-alexandre" key="colonna-walewski-alexandre">Walewski</rs> zu Grunde liegen
+                        eine Verwechslung mit dem Diplomaten <rs type="person" ref="#colonna-walewski-alexandre">Walewski</rs> zu Grunde liegen
                         dürfte.<lb/>Er ist streng katholisch und aus confessionellen Gründen eben so
-                        sehr wie aus nationellen ein Gegner <rs type="place" subtype="country" key="russland" ref="#place_5c0704d47c0a58a0922e25b5b9b66b27">Rußlands</rs>.<lb/>Wenn er ein <rs type="person" ref="czartoryski-adam-jerzy" key="czartoryski-adam-jerzy">Czartoryskischer</rs> Emissär war,
+                        sehr wie aus nationellen ein Gegner <rs type="place" subtype="country" ref="#place_5c0704d47c0a58a0922e25b5b9b66b27">Rußlands</rs>.<lb/>Wenn er ein <rs type="person" ref="#czartoryski-adam-jerzy">Czartoryskischer</rs> Emissär war,
                         wie man behauptete, so wird er der ohnehin sterbenden Sache dieser
                         Theaterdynastie wenig genützt haben, er ist zu doctrinair wie zu
                         agitive[?].</p>

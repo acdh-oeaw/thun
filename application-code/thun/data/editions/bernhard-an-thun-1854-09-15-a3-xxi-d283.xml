@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="bernhard-athanasius" key="bernhard-athanasius" role="sender:kleriker">Athanasius
-                        Bernhard</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#bernhard-athanasius" role="sender:kleriker">Athanasius
+                        Bernhard</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_32b01a4087e5053899efae50c67b02fb">Neustadt</rs>, <date when="1854-09-15">15. September 1854</date>
                 </title>
@@ -48,7 +48,7 @@
                 </index>
                 <p>Hochgeborner Graf!<lb/>Euer Excellenz!</p>
                 <p>Dem gütigen Wunsche Euer Excellenz gemäß gebe ich mir die Ehre anzuzeigen, daß am
-                    16. dieses [Monats] im <orgName key="stift-heiligenkreuz">Stifte
+                    16. dieses [Monats] im <orgName>Stifte
                         Heiligenkreuz</orgName> die apostolische Visitation beginnen und bis 20.
                     incl. dauern wird.<lb/>Genehmigen Euer Excellenz die aufrichtigsten Ausdrücke
                     tiefster Verehrung, mit welcher ich die Ehre habe zu seyn</p>

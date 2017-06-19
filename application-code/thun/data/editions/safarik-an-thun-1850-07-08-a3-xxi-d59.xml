@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="safarik-pavel-josef" key="safarik-pavel-josef" role="sender:gelehrter">Pavel Josef
-                        Šafařík</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Leo
+                    <rs type="person" ref="#safarik-pavel-josef" role="sender:gelehrter">Pavel Josef
+                        Šafařík</rs> an <rs type="person" ref="#thun-hohenstein-leo">Leo
                         Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1850-07-08">8.
@@ -61,16 +61,16 @@
                 </index>
                 <p>Eure Excellenz!</p>
                 <p>Da mir beide für die Stelle eines Inspectors der serbischen Volks- und
-                    Mittelschulen in der <rs type="place" subtype="region" key="woiwodschaft-serbien-und-temeser-banat" ref="#place_35d1161cc45f7c1d2b14ff99f1d259a3">Wojwodschaft Serbien und dem Temescher Banat</rs> in Vorschlag
-                    gekommene Männer, die Herren Dr. <rs type="person" ref="joannovic-peter" key="joannovic-peter">Peter
-                        Joannović</rs> und <rs type="person" ref="pavlovic-theodor" key="pavlovic-theodor">Theodor
+                    Mittelschulen in der <rs type="place" subtype="region" ref="#place_35d1161cc45f7c1d2b14ff99f1d259a3">Wojwodschaft Serbien und dem Temescher Banat</rs> in Vorschlag
+                    gekommene Männer, die Herren Dr. <rs type="person" ref="#joannovic-peter">Peter
+                        Joannović</rs> und <rs type="person" ref="#pavlovic-theodor">Theodor
                         Pavlović</rs>, persönlich wohl bekannt sind, so nehme ich keinen
                     Anstand, Eurer Excellenz hochgeneigter Aufforderung gemäß <note xml:id="note_1">Vgl. <ref target="thun/thun-korrespondenz/Tschechisches_Literaturarchiv/thun-an-safarik_1850-07-05_CA982">Leo Thun an Pavel Šafařík. Wien, 5. Juli 1850</ref>.</note>, meine
                     unmaßgebliche Meinung über deren relative Eignung zu einem solchen Amte
-                    ehrerbietigst abzugeben. Herr <rs type="person" ref="joannovic-peter" key="joannovic-peter">Joannović</rs> war mir am <orgName key="gymnasium-novi-sad">Neusatzer
+                    ehrerbietigst abzugeben. Herr <rs type="person" ref="#joannovic-peter">Joannović</rs> war mir am <orgName>Neusatzer
                         [Novi Sad] Gymnasium</orgName> einige Jahre lang, zuletzt als Humaniorum
                     Professor, sehr nahe gestellt und ich kannte ihn als einen wissenschaftlich
-                    genügend gebildeten – er hat seine Studien an der <orgName key="universitaet-pest">Pesther Universität</orgName> vollendet – dabei
+                    genügend gebildeten – er hat seine Studien an der <orgName>Pesther Universität</orgName> vollendet – dabei
                     sittlichen, bescheidenen, ruhigen Mann und zugleich als einen nicht
                     ungeschickten Lehrer und Pädagogen. Er hat nach meinem Abgang von
                         <rs type="place" subtype="place" ref="#place_e25656cfd1782b06405c792e047684f6">Neusatz</rs>, wenn ich nicht irre, eine Zeit lang nicht
@@ -79,7 +79,7 @@
                     auf jeden Fall ein mit der Schule, ihren Bedürfnissen und den Mitteln, ihnen zu
                     genügen, durch jahrelange Übung und, wie ich voraussetze, auch durch Studium
                     vertrauter Mann, dabei von ruhiger Gemüthsart und sittlich unbescholtenem
-                    Character. Den Herrn <rs type="person" ref="pavlovic-theodor" key="pavlovic-theodor">Theodor
+                    Character. Den Herrn <rs type="person" ref="#pavlovic-theodor">Theodor
                         Pavlović</rs> kenne ich nur als Advocaten und Zeitungsredacteur. Die
                     erste Eigenschaft lasse ich unbesprochen, da sie mir abseits liegt: aber als
                     Redacteur, Publicist und Schriftsteller hat er kein glänzendes Talent
@@ -89,8 +89,8 @@
                     sein. Soll ich demnach über die relative Befähigung beider Männer zu dem
                     obgenannten Amte meine Meinung äußern, so kann ich, dem Obigen zu Folge, nicht
                     umhin, unumwunden zu gestehen, daß meiner Überzeugung nach dem erstgenannten,
-                    nämlich Herrn <rs type="person" ref="joannovic-peter" key="joannovic-peter">Joannović</rs>, unbedingt
-                    und ohne Vergleich der Vorzug gebühre.<lb/>Über den dritten, Herrn <rs type="person" ref="georgievic-moses" key="georgievic-moses">Moses Georgiević</rs> aus
+                    nämlich Herrn <rs type="person" ref="#joannovic-peter">Joannović</rs>, unbedingt
+                    und ohne Vergleich der Vorzug gebühre.<lb/>Über den dritten, Herrn <rs type="person" ref="#georgievic-moses">Moses Georgiević</rs> aus
                         <rs type="place" subtype="place" ref="#place_7674e1c4e5c96d0fcb290e9fa130e6ed">Esseg</rs> [Osijek], wahrscheinlich einen viel jüngern
                     Mann, bin ich nicht in der Lage, irgend eine Meinung zu äußern, da er mir bis
                     jetzt nur dem Namen nach bekannt geworden ist.<lb/>Genehmigen Eure Excellenz die

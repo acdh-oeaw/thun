@@ -4,10 +4,10 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="ficker-julius" key="ficker-julius" role="sender:gelehrter">Julius
-                        Ficker</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#ficker-julius" role="sender:gelehrter">Julius
+                        Ficker</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" key="muenster" ref="#place_610dc3a15bda751de4d4c52373b2620f">Münster</rs>,
+                    <rs type="place" subtype="place" ref="#place_610dc3a15bda751de4d4c52373b2620f">Münster</rs>,
                         <date from="1860-09-16" to="1860-09-20">16.–20. September
                     1860</date>
                 </title>
@@ -83,7 +83,7 @@
                 <p>Eure Excellenz!</p>
                 <p>Das gnädige Schreiben Eurer Excellenz vom 31. Aug.<note xml:id="note_1">Vgl. <ref target="thun/thun-korrespondenz/tetschen/thun-an-ficker_1860-08-31_CA188.xml">Leo Thun an Julius Ficker. Wien, 31. August 1860.</ref>
                     </note> kam mir
-                    durch gütige Vermittlung des <rs type="person" ref="ehrhart-vincenz" key="ehrhart-vincenz">Herrn von
+                    durch gütige Vermittlung des <rs type="person" ref="#ehrhart-vincenz">Herrn von
                         Erhardt</rs> erst verspätet zu, da es mir auf der Reise nachgeschickt
                     wurde. Da Eure Excellenz in demselben selbst auf das Wünschenswerthe mündlicher
                     Besprechung hinwiesen, so erwog ich sogleich die Frage, wie es zu ermöglichen
@@ -108,15 +108,15 @@
                     dadurch keine lästige Verpflichtung auferlegen würden und ich es nur bedaure,
                     nicht augenblicklich dem angedeuteten Wunsche entsprechen zu können.<lb/>Eure
                     Excellenz fordern mich auf, mich über die Habilitationsangelegenheit des
-                        <rs type="person" ref="huber-alphons" key="huber-alphons">Dr. Huber</rs> mit voller Aufrichtigkeit
+                        <rs type="person" ref="#huber-alphons">Dr. Huber</rs> mit voller Aufrichtigkeit
                     zu äußern und ich nehme daher keinen Anstand, das auch bezüglich derjenigen
                     Punkte zu thuen, über welche meine eigene unmaßgebliche Meinung sich von der
                     Eurer Excellenz entfernt.<lb/>Mit dem Grundsatze, daß zum Lesen des
                     Obligatkollegs über österreichische Geschichte eine besondere Habilitation
                     nöthig sei, bin ich durchaus einverstanden, wir gingen auch von vornherein von
-                    dieser Ansicht aus, indem <rs type="person" ref="huber-alphons" key="huber-alphons">Dr. Huber</rs>
+                    dieser Ansicht aus, indem <rs type="person" ref="#huber-alphons">Dr. Huber</rs>
                     sich allen Habilitationsleistungen doppelt unterzog. Wir legen weiter keinerlei
-                    entscheidenden Werth darauf, daß <rs type="person" ref="huber-alphons" key="huber-alphons">Dr.
+                    entscheidenden Werth darauf, daß <rs type="person" ref="#huber-alphons">Dr.
                         Huber</rs> zum Lesen des Obligatkollegs wirklich berechtigt werde. Dem
                     Geschichtspunkte, daß es wünschenswerth ist, wenn ein junger Gelehrter, welcher
                     sich vorzugsweise mit österreichischer Geschichte beschäftigt, Gelegenheit
@@ -127,13 +127,13 @@
                     allgemeinen allerdings für den mittellosen Privatdozenten schwerer ins Gewicht
                     fallen als für den besoldeten Professor; im gegebenen Falle ist er
                     untergeordnet, da ich hoffe, daß die gnädige Unterstützung von 400 fl, welche im
-                    verflossenen Jahre dem <rs type="person" ref="huber-alphons" key="huber-alphons">Dr. Huber</rs>
+                    verflossenen Jahre dem <rs type="person" ref="#huber-alphons">Dr. Huber</rs>
                     gewährt wurde, ihm auch für das kommende auf mein bereits geschehenes
                     Einschreiten bewilligt werden dürften und da ich auch für den Fall, daß das
-                        <orgName key="ministerium-fuer-kultus-und-unterricht">hohe
+                        <orgName>hohe
                         Ministerium</orgName> dazu nicht in der Lage sein sollte, Einleitung
                     getroffen habe, daß ihm aus Privatmitteln eine entsprechende Unterstützung
-                    gewährt werden wird. Auch würde der <rs type="person" ref="huber-alphons" key="huber-alphons">Dr.
+                    gewährt werden wird. Auch würde der <rs type="person" ref="#huber-alphons">Dr.
                         Huber</rs> selbst, wenn ihm die Wahl gestellt wäre zwischen
                     allgemeiner und österreichischer Geschichte, sich unbedingt für die erstere
                     entschieden haben.<lb/>So durchaus einverstanden ich demnach mit der von Eurer
@@ -189,16 +189,16 @@
                     Eingeweihten zeigen, daß der Geprüfte dem Prüfenden überlegen sei und was
                     dergleichen Anhaltspunkte mehr sind. Stellt sich in solcher Weise eine
                     abweichende Meinung der Fakultät und des Fachprofessors heraus, so dürfte das
-                    mindestens für das <orgName key="ministerium-fuer-kultus-und-unterricht">hohe
+                    mindestens für das <orgName>hohe
                         Ministerium</orgName> ein erwünschter Fingerzeig sein, die Gutachten des
                     letztern und die Arbeiten des Kandidaten einer anderweitigen wissenschaftlichen
                     Prüfung unterziehen zu lassen.<lb/>Im vorliegenden Falle handelte es sich nun
                     aber gar nicht um einen solchen, jedenfalls bedenklichern, wissenschaftlichen
                     Konflikt zwischen der Fakultät und dem Fachprofessor. Das Gesetz verlangt vier
                     wissenschaftliche Leistungen: Habilitationsschrift, Programm, Kolloquium und
-                    Probevorlesung, die Gutachten des Prof. <rs type="person" ref="glax-heinrich" key="glax-heinrich">Glax</rs> über alle vier sind theils ganz entschieden günstig, theils
+                    Probevorlesung, die Gutachten des Prof. <rs type="person" ref="#glax-heinrich">Glax</rs> über alle vier sind theils ganz entschieden günstig, theils
                     wenigstens so anerkennend, daß ein wissenschaftliches Motiv für die Abweisung
-                    daraus nicht entnommen werden kann. Es ist richtig, daß Prof. <rs type="person" ref="glax-heinrich" key="glax-heinrich">Glax</rs> trotzdem unerwarteter Weise nicht
+                    daraus nicht entnommen werden kann. Es ist richtig, daß Prof. <rs type="person" ref="#glax-heinrich">Glax</rs> trotzdem unerwarteter Weise nicht
                     zustimmte; und wenn Eure Excellenz meinen, ich sei von der Anschauung
                     ausgegangen, er habe schließlich zugestimmt, so ist mir nicht bewußt, welche
                     Stelle meiner Äußerungen dazu Anlaß gegeben haben könnte; ich muß mich
@@ -214,14 +214,14 @@
                     Das Gesetz, so weit ich mich auf den Wortlaut desselben besinne, verlangt ein
                     Programm, woraus sich ergibt, welche Vorlesungen der Kandidat halten will und in
                     welcher Art und Weise er sie zu behandeln gedenkt. Dieser deutlichen Forderung
-                    hat der Kandidat auch nach dem Gutachten des Prof. <rs type="person" ref="glax-heinrich" key="glax-heinrich">Glax</rs> unzweifelhaft entsprochen. Gegen das vorliegende Programm
-                    hatte doch Prof. <rs type="person" ref="glax-heinrich" key="glax-heinrich">Glax</rs> nichts
+                    hat der Kandidat auch nach dem Gutachten des Prof. <rs type="person" ref="#glax-heinrich">Glax</rs> unzweifelhaft entsprochen. Gegen das vorliegende Programm
+                    hatte doch Prof. <rs type="person" ref="#glax-heinrich">Glax</rs> nichts
                     einzuwenden; aber er erklärte, daß ihm ein Programm nicht genüge, aus welchem
                     er nur ersehe, wie der Kandidat den Gegenstand behandeln wolle, nicht aber ob er
                     ihn genügend so behandeln könne. Die Akten ergeben aufs bestimmteste, daß diese
                     Forderung, welche aber so unvereinbar ist mit dem einfachen Sinne des Wortes
                     Programm, als sie der Angabe des Gesetzes über den Inhalt desselben
-                    widerspricht, das Einzige war, auf das Prof. <rs type="person" ref="glax-heinrich" key="glax-heinrich">Glax</rs> schließlich seine abweichende Meinung stützte. War das aber
+                    widerspricht, das Einzige war, auf das Prof. <rs type="person" ref="#glax-heinrich">Glax</rs> schließlich seine abweichende Meinung stützte. War das aber
                     der Fall, so handelte es sich gar nicht um irgend ein wissenschaftliches Moment,
                     sondern lediglich um die richtige Auslegung und Anwendung des Gesetzes, über
                     welche unzweifelhaft der Chemiker oder Philosoph ein ebenso gewichtiges Urtheil
@@ -229,7 +229,7 @@
                     der Begriff des Fachprofessors gar nicht mehr in Frage kommt, die Stimme dieses
                     schwerer wiegen als die der gesammten übrigen Fakultät, so würde die Theilnahme
                     der letztern an jeder Habilitation nur eine ganz leere Form sein; und wird ein
-                    Vorwand, wie der vom Prof. <rs type="person" ref="glax-heinrich" key="glax-heinrich">Glax</rs>
+                    Vorwand, wie der vom Prof. <rs type="person" ref="#glax-heinrich">Glax</rs>
                     gebrauchte, in der höhern Instanz ausdrücklich anerkannt, so wird in der Folge
                     jeder Kandidat dem guten Willen des Fachprofessors ganz preisgegeben sein.
                     Dieses prinzipielle Moment vor allem war es, was die Fakultät im Interesse
@@ -251,10 +251,10 @@
                     kann ich von meinen Bedenken gegen die schroffe Scheidung von allgemeiner und
                     österreichischer Geschichte absehen; ich sprach sie mehr mit Rücksicht auf
                     zukünftige Fälle aus. Ebenso lege ich aus den angeführten Gründen keinen Werth
-                    darauf, daß der <rs type="person" ref="huber-alphons" key="huber-alphons">Dr. Huber</rs> wirklich
+                    darauf, daß der <rs type="person" ref="#huber-alphons">Dr. Huber</rs> wirklich
                     berechtigt werde, das Obligatkolleg über österreichische Geschichte zu lesen;
                     und wird das aus irgend einem Grunde verhindert, so dürfte doch den Wünschen des
-                    Prof. <rs type="person" ref="glax-heinrich" key="glax-heinrich">Glax</rs> durchaus Genüge geschehen
+                    Prof. <rs type="person" ref="#glax-heinrich">Glax</rs> durchaus Genüge geschehen
                     sein. Dagegen würde ich nach meinem subjektiven Standpunkte nur davon ausgehen
                     können, daß die Entscheidung nach den bestehenden Verordnungen und im Interesse
                     einer ungehinderten Entwicklung des Privatdozententhums nur davon ausgehen
@@ -265,18 +265,18 @@
                     Entscheidung, daß der Kandidat in beiden Fächern den Forderungen entsprochen
                     habe, daß aber für beide zugleich die Facultas nicht ertheilt werden könne, daß
                     er sich demnach für eins von beiden Fächern entscheiden möge. In diesem Falle
-                    könnte ich mich dafür verbürgen, daß <rs type="person" ref="huber-alphons" key="huber-alphons">Dr.
+                    könnte ich mich dafür verbürgen, daß <rs type="person" ref="#huber-alphons">Dr.
                         Huber</rs> sich für allgemeine Geschichte entscheiden wird. Gegen
                     solche Entscheidung würde freilich das Bedenken obwalten, daß sie sich der
                     frühern hohen Entscheidung nicht genau anschließt.<lb/>Eine der frühern sich
                     möglichst genau anschließenden Entscheidung wäre dagegen aber folgende: das
-                        <orgName key="ministerium-fuer-kultus-und-unterricht">hohe
+                        <orgName>hohe
                         Ministerium</orgName> hält an seiner frühern Entscheidung fest, weil beide
                     Fächer unvereinbar sind und bei dem bestimmt betonten Bedürfnisse nach
                     eingehenden Vorlesungen über alte Geschichte im Interesse der Universität dem
                     Fache der allgemeinen Geschichte der im gegebenen Falle der Vorzug zu geben ist;
                     auf die mit Rücksicht auf die Behandlung ähnlicher Fälle gestellte Anfrage der
-                    Fakultät erklärt das <orgName key="ministerium-fuer-kultus-und-unterricht">hohe
+                    Fakultät erklärt das <orgName>hohe
                         Ministerium</orgName>, daß ein Bedenken gegen das Majoritätsurtheil der
                     Fakultät, insbesondere auch gegen die Auffassung der das Programm betreffenden
                     Gesetzesstelle nicht vorliege und die Bestätigung der Habilitation für
@@ -286,29 +286,29 @@
                     darf ich freilich kaum hoffen, daß eine solche oder ähnliche Entscheidung
                     erfolgen dürfte und bitte deshalb nochmals um Entschuldigung, wenn ich es wagte,
                     meine Ansicht in solcher Weise zu formuliren.</p>
-                <p>Eure Excellenz erwähnen weiter die Eventualität einer Berufung nach <orgName key="universitaet-muenchen">München</orgName>. Mir selbst ist darüber
+                <p>Eure Excellenz erwähnen weiter die Eventualität einer Berufung nach <orgName>München</orgName>. Mir selbst ist darüber
                     Genaueres nicht bekannt geworden; nur wurde vor einiger Zeit versichert, es
-                    herrsche höchsten Orts zu <rs type="place" subtype="place" key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs> die
+                    herrsche höchsten Orts zu <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs> die
                     Geneigtheit mich dorthin zu berufen; doch ist es mir sehr zweifelhaft, ob es
                     wirklich dazu kommen dürfte. Ich gestehe offen, daß, wenn ich
-                        <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs> verlassen sollte, <rs type="place" subtype="place" key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs> der Ort wäre, nach welchem ich mich mit Vorliebe wenden
+                        <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs> verlassen sollte, <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs> der Ort wäre, nach welchem ich mich mit Vorliebe wenden
                     würde; schon deshalb, weil ich dort nach meinen politischen und kirchlichen
                     Gesinnungen in meiner Wirksamkeit zwar nicht unangefochten, was ich nicht
                     scheue, aber auch nicht isolirt stehen würde. Ließ mich der Gedanke an
-                    eventuelle Wendungen meiner Stellung zum Prof. <rs type="person" ref="glax-heinrich" key="glax-heinrich">Glax</rs> oder auch daran, daß wir zu unserm Bedauern Eure Excellenz
+                    eventuelle Wendungen meiner Stellung zum Prof. <rs type="person" ref="#glax-heinrich">Glax</rs> oder auch daran, daß wir zu unserm Bedauern Eure Excellenz
                     als Chef verlieren könnten, wohl gelegentlich erwägen, wo ich mich außer
                         <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs> hinwenden könnte, so lag mir am nächsten,
-                    wenn nicht an eine Anstellung, doch an eine Wirksamkeit zu <rs type="place" subtype="place" key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs> zu denken. Dennoch kann ich Eure
+                    wenn nicht an eine Anstellung, doch an eine Wirksamkeit zu <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs> zu denken. Dennoch kann ich Eure
                     Excellenz versichern, daß ich nicht den geringsten Schritt that, auf eine
-                    Berufung dorthin einzuwirken, daß ich bei längerm Aufenthalte zu <rs type="place" subtype="place" key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs> um Ostern absichtlich manches vermied,
+                    Berufung dorthin einzuwirken, daß ich bei längerm Aufenthalte zu <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs> um Ostern absichtlich manches vermied,
                     was sich dahin hätte deuten lassen. Eine Berufung kann allerdings erwünscht
                     sein, auch wenn sie nicht angenommen wird; aber ich möchte mich nicht dazu
                     verstehen, so lange ich nicht entschlossen wäre, sie wirklich anzunehmen, auf
                     eine solche hinzuwirken, dazu wäre ich aber in keiner Weise bestimmt
-                    entschlossen, da ich mich im allgemeinen in meinem Wirkungskreis zu <orgName key="universitaet-innsbruck">Innsbruck</orgName> ganz befriedigt fühle; es
-                    würde sich auch darum handeln, was für ein Wirkungskreis mir zu <orgName key="universitaet-muenchen">München</orgName> geboten würde, andererseits,
+                    entschlossen, da ich mich im allgemeinen in meinem Wirkungskreis zu <orgName>Innsbruck</orgName> ganz befriedigt fühle; es
+                    würde sich auch darum handeln, was für ein Wirkungskreis mir zu <orgName>München</orgName> geboten würde, andererseits,
                     ob Eure Excellenz nicht in der Lage wären, mir einige Vergünstigungen, welche
-                    mir meine Stellung in <orgName key="universitaet-innsbruck">Innsbruck</orgName>
+                    mir meine Stellung in <orgName>Innsbruck</orgName>
                     noch werther machen würden, zu gewähren; falls mir eine Berufung Anlaß geben
                     sollte, darum zu bitten. Doch ist mir das Eintreten dieses Falles so
                     zweifelhaft, daß es vorläufig Eurer Excellenz genügen dürfte, wenn ich
@@ -320,19 +320,19 @@
                     und es mich besonders freuen würde, in solchem Falle durch ein Anschließen an
                     die Wünsche Eurer Excellenz zeigen zu können, wie sehr ich das Vertrauen, mit
                     welchem Hochdieselben mich so vielfach beehren, zu schätzen weiß. Deuten Eure
-                    Excellenz auf die Möglichkeit einer Beförderung nach <orgName key="universitaet-wien">Wien</orgName> hin, so weiß ich auch diesen Beweis
+                    Excellenz auf die Möglichkeit einer Beförderung nach <orgName>Wien</orgName> hin, so weiß ich auch diesen Beweis
                     des hohen Vertrauens dankbarst anzuerkennen, aber nach meiner jetzigen
                     Beurtheilung der Sachlage glaube ich doch, ohne auf die Gründe einzugehen,
                     andeuten zu sollen, daß eine solche Beförderung weder meinen Wünschen
                     entsprechen dürfte noch auch den günstigen Erfolg haben dürfte, welchen sich
                     Eure Excellenz vielleicht davon versprechen.</p>
                 <p>Mit tiefem Bedauern habe ich die Bemerkungen Eurer Excellenz über die Klagen
-                    gelesen, welche Hochderselben über die <rs type="place" subtype="place" key="innsbruck" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbrucker</rs> Studenten zu Ohren gekommen sind. Ich stehe keinen
+                    gelesen, welche Hochderselben über die <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbrucker</rs> Studenten zu Ohren gekommen sind. Ich stehe keinen
                     Augenblick an, und zwar nicht blos mit Berufung auf die Aufrichtigkeit, zu
                     welcher ich mich jeder Privatanfrage Eurer Excellenz gegenüber verpflichtet
                     fühlen muß, sondern mit ausdrücklicher Berufung auf meine Amtsverpflichtungen,
                     zu erklären, daß meiner <hi rend="ul">subjektiven</hi>, aber wohlerwogenen
-                    Ansicht nach, der Geist der <rs type="place" subtype="place" key="innsbruck" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbrucker</rs>
+                    Ansicht nach, der Geist der <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbrucker</rs>
                     Studirenden im allgemeinen nicht allein zu Tadel keinen Anlaß gibt, sondern
                     meiner Meinung nach der Staat sich glücklich schätzen könnte, wenn an allen
                     Universitäten ein entsprechender Geist herrschte. Daß die Nachrichten Eurer
@@ -354,7 +354,7 @@
                     verabsäumt, so klein ist, daß er gegen die entsprechenden Verhältnisse anderer
                     Universitäten, so weit mir diese bekannt sind, gar nicht in Betracht kommt. Ich
                     habe mich noch, ohne den Anlaß anzudeuten, bei einem von hier gebürtigen, mir
-                    befreundeten <rs type="place" subtype="place" key="innsbruck" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbrucker</rs> Studirenden
+                    befreundeten <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbrucker</rs> Studirenden
                     ausdrücklich nach Umständen erkundet, welche eine Klage über Irreligiosität
                     begründen könnten, auch er wußte mir nichts anzuführen. In den ersten Jahren
                     meines Aufenthalts schienen allerdings von einem bestimmten Kreise aus
@@ -365,14 +365,14 @@
                     mir Bekannten möchte ich eher eine Hebung des religiösen Sinnes annehmen.
                     Vielleicht könnte man in dieser Beziehung hinweisen auf eine Abneigung der
                     Studirenden gegen die Professoren, welche vorzugsweise als Vertreter der
-                    religiösen Richtung gelten, so der Pater <rs type="person" ref="kobler-andreas" key="kobler-andreas">Kobler</rs>, <rs type="person" ref="moy-de-sons-ernst" key="moy-de-sons-ernst">Baron Moy</rs>,
-                        <rs type="person" ref="kopetzky-karl" key="kopetzky-karl">Kopetzky</rs>. Bei letzterm liegen die
+                    religiösen Richtung gelten, so der Pater <rs type="person" ref="#kobler-andreas">Kobler</rs>, <rs type="person" ref="#moy-de-sons-ernst">Baron Moy</rs>,
+                        <rs type="person" ref="#kopetzky-karl">Kopetzky</rs>. Bei letzterm liegen die
                     Gründe lediglich in der Art seiner wissenschaftlichen Thätigkeit; auch bei den
-                    andern bleibt ihre kirchliche Richtung ganz außer dem Spiel. <rs type="person" ref="moy-de-sons-ernst" key="moy-de-sons-ernst">B[aron] Moy</rs> hat sich im verflossenen
+                    andern bleibt ihre kirchliche Richtung ganz außer dem Spiel. <rs type="person" ref="#moy-de-sons-ernst">B[aron] Moy</rs> hat sich im verflossenen
                     Jahre 1859 als Prorektor Rücksichtslosigkeiten gegen die Studirenden zu Schulden
                     kommen lassen; die daraus entsprungenen Differenzen wurden beigelegt, doch
                     schien die gegenseitige Abneigung sich nur allmählig zu verlieren. Die
-                    Differenzen der Studirenden mit dem Pater <rs type="person" ref="kobler-andreas" key="kobler-andreas">Kobler</rs> gingen ebenfalls lediglich von der Stellung desselben als
+                    Differenzen der Studirenden mit dem Pater <rs type="person" ref="#kobler-andreas">Kobler</rs> gingen ebenfalls lediglich von der Stellung desselben als
                     Rektor aus; daß er dem bestverläumdeten Orden angehört, war darauf, so weit ich
                     irgend beurtheilen kann, ohne Einfluß; daß unberufene Korrespondenten das in
                     dieser Richtung ausbeuteten, war nicht Schuld der Studenten, diese haben sogar,
@@ -387,9 +387,9 @@
                     einflußlos, wie sich schon vielleicht daraus ergeben dürfte, daß bei der
                     diesjährigen Rektorswahl, bei welcher in Folge von Verhältnissen, welche mit den
                     hier angedeuteten nicht ganz außer Zusammenhang stehen, sehr lebhaft gegen Prof.
-                        <rs type="person" ref="maassen-friedrich" key="maassen-friedrich">Maassen</rs> operirt wurde, drei von
+                        <rs type="person" ref="#maassen-friedrich">Maassen</rs> operirt wurde, drei von
                     den vier Wahlmännern des Ordens mit der vorzüglich durch die Philosophen
-                    gebildeten Majorität stimmten, obwohl Pater <rs type="person" ref="kobler-andreas" key="kobler-andreas">Kobler</rs> die Minorität zu begünstigen schien.<lb/>Was die
+                    gebildeten Majorität stimmten, obwohl Pater <rs type="person" ref="#kobler-andreas">Kobler</rs> die Minorität zu begünstigen schien.<lb/>Was die
                     Verbreitung der süddeutschen Zeitung und andrer schlechter Blätter (Frankfurter
                     Journal) betrifft, so ist es richtig, daß dieselben mehrfach in
                         <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs> aufliegen; das Publikum hat aber seine
@@ -402,11 +402,11 @@
                     müssen, haben ich und mehrere meiner Kollegen längst ins Auge gefaßt und dachten
                     an Herstellung eines akademischen Lesevereins im Universitätsgebäude, wo sich
                     das mit ganz geringen Mitteln erreichen läßt; der Gefertigte, welcher in
-                        <orgName key="universitaet-bonn">Bonn</orgName> als Studirender im Ausschuße
+                        <orgName>Bonn</orgName> als Studirender im Ausschuße
                     eines derartigen Instituts war, hat schon vor einem Jahre einen Studentenentwurf
                     gemacht; im verflossenen Studienjahre war die Sache nicht in Gang zu bringen,
                     ist aber jetzt wieder aufgefaßt und dürfte wohl bald eine Vorlage an das
-                        <orgName key="ministerium-fuer-kultus-und-unterricht">hohe
+                        <orgName>hohe
                         Ministerium</orgName> erfolgen, auf deren Genehmigung wir wohl von dem hier
                     besprochenen Gesichtspunkte aus ums so eher hoffen dürfen.<lb/>Soll mit dem
                     Vorwurfe des Lesens der Süddeutschen Zeitung zugleich gesagt sein, daß die
@@ -453,7 +453,7 @@
                     zeigen suchen, daß die Versuche von Studirenden zur Gründung von Verbindungen
                     ohne ihr Verschulden länger fortgesetzt wurden, als vielleicht mit den
                     bestehenden Verordnungen vereinbar war; sei es in Folge eines Mißverständnisses,
-                    sei es in Folge einer Sinnesänderung <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner
+                    sei es in Folge einer Sinnesänderung <rs type="person" ref="#franz-joseph">Seiner
                         kaiserlichen Hoheit</rs>, glaubte man, daß von dieser Seite das Tragen
                     der Kompagniebänder nicht mißbilligt werde, auf die erste bestimmte Weisung sind
                     dieselben augenblicklich abgelegt.<lb/>Indem ich es lebhaft bedauere, daß es mir

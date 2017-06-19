@@ -4,7 +4,7 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="hoefler-karl-adolf-constantin" key="hoefler-karl-adolf-constantin" role="sender:gelehrter">Constantin Höfler</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#hoefler-karl-adolf-constantin" role="sender:gelehrter">Constantin Höfler</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_2a355a5b0521435f8248f11b12db208a">Bamberg</rs>,
                         <date when="1853-12-02">2. Dezember 1853</date>
@@ -63,7 +63,7 @@
                         Pirkheimer, Äbtissin zu S. Clara zu Nürnberg. Denkwürdigkeiten aus dem
                         Reformationszeitalter, Bamberg 1852.</note> beizufügen, welche ich Euer
                     Excellenz persönlich übergeben zu können hoffte. Da ich aber das Glück nicht
-                    hatte Euer Excellenz in <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> meine Aufwartung
+                    hatte Euer Excellenz in <rs type="place" subtype="region" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> meine Aufwartung
                     machen zu können und im Jahre 1854 schwerlich nach <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>
                     kommen werde, erlaube ich mir das Bändchen, welches die Reformationsgeschichte
                     in ein neues Stadium bringt, Euer Excellenz mit der Bitte zu übersenden, es
@@ -75,7 +75,7 @@
                     geben zu können. Er ist die Frucht meiner Ferien und meiner Nachtwachen.<lb/>Ich
                     habe in diesem Semester den Wurf gewagt, einen regelmäßigen Cyclus von
                     historischen Vorträgen zu eröffnen und denselben mit alter Geschichte zu
-                    beginnen, welche ich mit einer in <orgName key="universitaet-prag">Prag</orgName> bisher nicht gekannten Ausführlichkeit der orientalischen
+                    beginnen, welche ich mit einer in <orgName>Prag</orgName> bisher nicht gekannten Ausführlichkeit der orientalischen
                     und occidentalen Verhältnisse lese. Ich war entschlossen mit acht Zuhörern
                     anzufangen, nur um die Sache in Gang zu bringen und den jungen Leuten zu zeigen,
                     was man unter Weltgeschichte zu verstehen hat. Ich bin erfreut wieder einen
@@ -91,8 +91,8 @@
                     Vorbereitung zu einer Kollegienstunde verwendet, muß mich aber jetzt etwas
                     schonen, da ich zu meinem Schrecken bemerkte, daß ich Blut auswarf, die Natur
                     somit ihr Recht zurückverlange.<lb/>Euer Excellenz geruhten mich einmal in Bezug
-                    auf einen Zögling des <rs type="place" subtype="place" key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">Münchner</rs>
-                    philologischen Seminars, Dr. <rs type="person" ref="wernberger" key="wernberger">Wernberger</rs>,
+                    auf einen Zögling des <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">Münchner</rs>
+                    philologischen Seminars, Dr. <rs type="person" ref="#wernberger">Wernberger</rs>,
                     gegenwärtig in <rs type="place" subtype="place" ref="#place_bcde1f19377e162b380416de06ad183b">Osmolice</rs> bei
                     <rs type="place" subtype="place" ref="#place_f5b9b7d9f442d1b4d1e1314abf4df9d2">Lublin</rs>, der neben gründlichen Kenntnissen in den
                     classischen Sprachen, besonders im Griechischen, auch polnisch spricht und auch

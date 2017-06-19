@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
-                        <rs type="person" ref="helfert-joseph-alexander" key="helfert-joseph-alexander" role="recipient">Joseph Alexander
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#helfert-joseph-alexander" role="recipient">Joseph Alexander
                         Helfert</rs>
                     <lb/>o. O., <date when="1859-02-08">8. Februar
                     1859</date>
@@ -47,10 +47,10 @@
                     <term>Rom</term>
                     <term>Kultus</term>
                 </index>
-                <p>beiliegend <rs type="person" ref="meschutar-andreas" key="meschutar-andreas">Meschutars</rs> Entwurf über
-                    die nun schon dringend gewordene Angelegenheit der <orgName key="santa-maria-dell'-anima">Kirche dell'anima</orgName>. Im Wesentlichen
-                    wird dagegen kein Anstand sein, und fällt es mit <rs type="person" ref="flir-alois" key="flir-alois">Flirs</rs> Anträgen zusammen. Nur scheint mir, daß dieser in einem
-                    Brief den Wunsch ausdrückte, daß <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>
+                <p>beiliegend <rs type="person" ref="#meschutar-andreas">Meschutars</rs> Entwurf über
+                    die nun schon dringend gewordene Angelegenheit der <orgName>Kirche dell'anima</orgName>. Im Wesentlichen
+                    wird dagegen kein Anstand sein, und fällt es mit <rs type="person" ref="#flir-alois">Flirs</rs> Anträgen zusammen. Nur scheint mir, daß dieser in einem
+                    Brief den Wunsch ausdrückte, daß <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>
                     einen deutschen Bischof als Visitator schicke, worüber ich mir bei Ihnen
                     Aufklärung erbitte. Die Geschichte ist schon dringend geworden.</p>
                 <p>Thun</p>

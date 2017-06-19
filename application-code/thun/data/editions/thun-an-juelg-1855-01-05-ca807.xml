@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
-                        <rs type="person" ref="juelg-bernhard" key="juelg-bernhard" role="recipient">Bernhard
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#juelg-bernhard" role="recipient">Bernhard
                         Jülg</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1855-01-05">5.
@@ -53,7 +53,7 @@
                 <p>Wien, den 5. Jänner 1854 [sic! richtig 1855]</p>
                 <p>Werther Herr Professor!</p>
                 <p>
-                    <rs type="person" ref="sawczynski-sigmund" key="sawczynski-sigmund">Sawczyński</rs>, Lehrer am <rs type="place" subtype="place" key="krakau" ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Krakauer</rs> Gymnasium befindet sich hier um sich für
+                    <rs type="person" ref="#sawczynski-sigmund">Sawczyński</rs>, Lehrer am <rs type="place" subtype="place" ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Krakauer</rs> Gymnasium befindet sich hier um sich für
                     die Lehramtsprüfung vorzubereiten, und zwar zunächst für das
                     historisch-geographische Gebieth. Er hat mir eben seinen Wunsch zu erkennen
                     gegeben, seinen Studien die Richtung auf slawische Philologie zu geben, und über
@@ -62,7 +62,7 @@
                     seine Beschäftigung am Gymnasium habe ihm zwar wenig Muße dazu gelassen, dennoch
                     habe er sich für ein Kollegium über Sanscrit bei Ihnen gemeldet, dasselbe sei
                     aber wegen allzu geringer Zahl von Theilnehmern nicht zu Stande gekommen. Ich
-                    bitte Sie mir mitzutheilen, ob Sie Gelegenheit gehabt haben, auf <rs type="person" ref="sawczynski-sigmund" key="sawczynski-sigmund">Sawczynski</rs> aufmerksam zu sein und ob Sie
+                    bitte Sie mir mitzutheilen, ob Sie Gelegenheit gehabt haben, auf <rs type="person" ref="#sawczynski-sigmund">Sawczynski</rs> aufmerksam zu sein und ob Sie
                     glauben, daß er Beruf zu linguistischen Studien haben dürfte?</p>
                 <p>Mit aufrichtiger Hochachtung</p>
                 <p>Thun</p>

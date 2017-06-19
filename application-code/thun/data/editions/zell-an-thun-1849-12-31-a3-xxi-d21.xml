@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="zell-karl" key="zell-karl" role="sender:gelehrter">Karl Zell</rs> an
-                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#zell-karl" role="sender:gelehrter">Karl Zell</rs> an
+                        <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_35ec7062379a5b1e1743de648e2f3809">Heidelberg</rs>, <date when="1849-12-31">31. Dezember
                         1849</date>
@@ -76,14 +76,14 @@
                     <p>Ein um das höhere Schulwesen in <rs type="place" subtype="place" ref="#place_9a43e84f6e1d406076f2372205804f6d">Baden</rs> hochverdienter
                         Humanist, geb. am 8. April 1793 zu <rs type="place" subtype="place" ref="#place_bd2b145b873049a539012fea08bfa71a">Mannheim</rs>, erhielt
                         in den Lehranstalten seiner Vaterstadt eine tüchtige Vorbildung und bezog
-                        1810 die <orgName key="universitaet-heidelberg">Universität zu
-                            Heidelberg</orgName>, wo er sich besonders unter <rs type="person" ref="creuzer-friedrich" key="creuzer-friedrich">Kreuzers</rs> Leitung dem Studium der
-                        Philologie widmete. Nachdem er hierauf seit 1813 dasselbe zu <orgName key="universitaet-goettingen">Göttingen</orgName> und <orgName key="universitaet-breslau">Breslau</orgName> mit Eifer fortgesetzt
-                        hatte, erhielt er 1814 bei seiner Rükkehr eine Professur an dem <orgName key="lyzeum-rastatt">Lizeum zu Rastadt</orgName> [Rastatt], zu dessen
+                        1810 die <orgName>Universität zu
+                            Heidelberg</orgName>, wo er sich besonders unter <rs type="person" ref="#creuzer-friedrich">Kreuzers</rs> Leitung dem Studium der
+                        Philologie widmete. Nachdem er hierauf seit 1813 dasselbe zu <orgName>Göttingen</orgName> und <orgName>Breslau</orgName> mit Eifer fortgesetzt
+                        hatte, erhielt er 1814 bei seiner Rükkehr eine Professur an dem <orgName>Lizeum zu Rastadt</orgName> [Rastatt], zu dessen
                         Glanz er durch sein ausgezeichnetes Lehrtalent nicht wenig mit beitrug.
                         Während dieser Zeit erwarb er sich auch durch schriftstellerische Thätigkeit
                         einen guten Namen, und es wurde ihm daher 1821 die Stelle eines ordentlichen
-                        Professors an der Universität zu <orgName key="universitaet-freiburg">Freiburg</orgName> übertragen, wo er namentlich durch Gründung eines
+                        Professors an der Universität zu <orgName>Freiburg</orgName> übertragen, wo er namentlich durch Gründung eines
                         philologischen Seminars, das 1830 nach Überwindung mancher Schwierigkeiten
                         ins Leben trat, viel für Erweckung und Förderung der
                         Alterthumswissenschaften wirkte. Selbst auf dem stürmischen Landtage von

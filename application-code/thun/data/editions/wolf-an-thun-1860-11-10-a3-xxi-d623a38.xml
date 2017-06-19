@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="wolf-stephan" key="wolf-stephan" role="sender:gelehrter">Stephan Wolf
-                    </rs>, an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                    <rs type="person" ref="#wolf-stephan" role="sender:gelehrter">Stephan Wolf
+                    </rs>, an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_473a33abfe6141e8b2f9fddf964bf69a">Czernowitz</rs>, <date when="1860-11-10">10. November 1860</date>
@@ -126,7 +126,7 @@
                         auszusprechen.<lb/>Indem wir dieses thun, können wir die Hoffnung nicht
                         unterdrücken, Euere Excellenz werde auch fürderhin in der neuen Stellung als
                         Einer der ersten Räthe der Krone und des Staates den geistigen
-                        Bildungsanstalten <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> ein
+                        Bildungsanstalten <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> ein
                         kräftiges Wort und den redlichen Bemühungen der Lehrer und Förderer
                         geistigen Fortschrittes Unterstützung und Schutz gewähren.</p>
                     <p>Der Lehrkörper des Czernowitzer Gymnasiums</p>

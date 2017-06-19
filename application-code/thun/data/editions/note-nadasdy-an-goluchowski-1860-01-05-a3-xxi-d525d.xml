@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Note von <rs type="person" ref="nadasdy-franz" key="nadasdy-franz" role="sender:beamter">Franz
-                        Nádasdy</rs> an <rs type="person" ref="goluchowski-agenor" key="goluchowski-agenor" role="recipient:beamter">Agenor Goluchowski</rs>
+                <title>Note von <rs type="person" ref="#nadasdy-franz" role="sender:beamter">Franz
+                        Nádasdy</rs> an <rs type="person" ref="#goluchowski-agenor" role="recipient:beamter">Agenor Goluchowski</rs>
                     <lb/>o. O., <date when="1860-01-05">5. Januar 1860</date>
                 </title>
             </titleStmt>
@@ -76,7 +76,7 @@
                     17802 <note xml:id="note_1">Vgl. <ref target="thun/thun-korrespondenz/keine_Briefe/nadasdy-an-goluchowski_1859-11-05_A3-XXI-D525b.xml">Note von Franz Nádasdy an Agenor Goluchowski, 5. November
                         1859</ref>.</note> zu eröffnen die Ehre hatte, daß ich die Frage wegen
                     allgemeiner Regelung der Gerichtssprachen in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> ihrer
-                    besonderen Wichtigkeit wegen bald nach der Übernahme meiner Leitung des <orgName key="ministerium-der-justiz">Justizministeriums</orgName> zum Gegenstand
+                    besonderen Wichtigkeit wegen bald nach der Übernahme meiner Leitung des <orgName>Justizministeriums</orgName> zum Gegenstand
                     meiner besonderen Erwägung machte und die bisher von Fall zu Fall erlassenen
                     Verordnungen in Sprachsachen für <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> als abgeschlossen
                     nicht angesehen werden können, so kann es mir nur willkommen sein, daß Euer
@@ -91,7 +91,7 @@
                     Statthaltereiabtheilungen in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> ertheilten Weisungen
                     weder principiellen Entscheidungen in der Sprachfrage vorgreifen noch vorläufig
                     zur Publicität gelangen werden, weil ich in Folge meiner genauen Kenntnis der
-                    Verhältnisse <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarns</rs> Eure Exzellenz zu
+                    Verhältnisse <rs type="place" subtype="country" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarns</rs> Eure Exzellenz zu
                     versichern in der Lage bin, daß besonders in diesem Lande das vorzeitige
                     Kundwerden von beabsichtigten principiellen Entscheidungen in der wichtigen
                     Sprachfrage unliebsame Aufregungen zu veranlassen geeignet wäre und Agitationen
@@ -101,27 +101,27 @@
                     angeordneten Erhebungen der Sprachverhältnisse in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>
                     entgegen sehe, erlaube ich mir zugleich das ergebene Ersuchen, mir jedenfalls
                     auch die Ansichten Seiner kaiserlichen Hoheit des durchlauchtigsten Herrn
-                        <rs type="person" ref="albrecht-erzherzog" key="albrecht-erzherzog">Erzherzogs Gouverneurs
+                        <rs type="person" ref="#albrecht-erzherzog">Erzherzogs Gouverneurs
                         Albrecht</rs> über diesen wichtigen Gegenstand gefälligst andeuten zu
                     wollen, da ich voraussetze, daß die ungarischen Statthaltereiabtheilungen ihre
                     Gutachten im Wege des k.k. Generalgouvernements für <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>
                     Eurer Exzellenz vorzulegen angewiesen wurden. <lb/>Ich kann übrigens nicht
                     umhin, jetzt schon zu bemerken, daß wesentliche Änderungen der bestehenden
-                    Bestimmungen über die gerichtliche Geschäftssprache in den Sprengeln <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</rs> und <rs type="place" subtype="place" ref="#place_1d3a164e45efdad9a1b68b54bd69260c">Eperies</rs> kaum
-                    zulässig befunden werden dürften, indem zu Folge des von <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner k.k. apostolischen Majestät</rs> in den
+                    Bestimmungen über die gerichtliche Geschäftssprache in den Sprengeln <rs type="place" subtype="place" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</rs> und <rs type="place" subtype="place" ref="#place_1d3a164e45efdad9a1b68b54bd69260c">Eperies</rs> kaum
+                    zulässig befunden werden dürften, indem zu Folge des von <rs type="person" ref="#franz-joseph">Seiner k.k. apostolischen Majestät</rs> in den
                     Ministerconferenzen vom 30. und 31. Oktober vorigen Jahres geäußerten
                     allerhöchsten Befehles in diesen Sprengeln, in denen großentheils bereits die
                     deutsche Amtssprache eingeführt ist, an den bestehenden Verhältnissen nicht
                     gerüttelt werden soll, übrigens auch in diesen Sprengeln, wenn bei Feststellung
                     der Landessprachen auf die Nationalitätsverhältnisse der einzelnen Comitate
                     gebührende Rücksicht genommen werden wollte, die ungarische Sprache großentheils
-                    als Landessprache nicht anerkannt werden dürfte, da die Comitate <rs type="place" subtype="region" key="komitat-arwa" ref="#place_2ba80697c410b3115b7ce01183106b48">Arva-Thurocz</rs>, <rs type="place" subtype="region" key="komitat-liptau" ref="#place_7e94e843694214e6576aabc0a94a5291">Liptau</rs>, <rs type="place" subtype="region" key="komitat-neutra" ref="#place_d856324689e6964c27e3903e6f63a34e">Ober-Neutra</rs>, <rs type="place" subtype="region" key="komitat-sohl" ref="#place_ee8bff82abac5ff6e3e7912ed45aa215">Sohl</rs> und <rs type="place" subtype="region" key="komitat-trentschin" ref="#place_261e1b6ee7653a09ba60a4db29c8a123">Trenchin</rs> des <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburger</rs>
-                    Sprengels, dann die Comitate <rs type="place" subtype="region" ref="#place_5ef52a6cee1dc677236daca51b0fcbe9">Taros</rs> und <rs type="place" subtype="region" key="komitat-zips" ref="#place_8726daccee33997f29c2bb8b4908ff3e">Zips</rs> des <rs type="place" subtype="place" key="eperies" ref="#place_e5853e90ec28ed86c205d8d6502aa3a9">Eperieser</rs> Sprengels von Magyaren nur in sehr geringer Anzahl
+                    als Landessprache nicht anerkannt werden dürfte, da die Comitate <rs type="place" subtype="region" ref="#place_2ba80697c410b3115b7ce01183106b48">Arva-Thurocz</rs>, <rs type="place" subtype="region" ref="#place_7e94e843694214e6576aabc0a94a5291">Liptau</rs>, <rs type="place" subtype="region" ref="#place_d856324689e6964c27e3903e6f63a34e">Ober-Neutra</rs>, <rs type="place" subtype="region" ref="#place_ee8bff82abac5ff6e3e7912ed45aa215">Sohl</rs> und <rs type="place" subtype="region" ref="#place_261e1b6ee7653a09ba60a4db29c8a123">Trenchin</rs> des <rs type="place" subtype="place" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburger</rs>
+                    Sprengels, dann die Comitate <rs type="place" subtype="region" ref="#place_5ef52a6cee1dc677236daca51b0fcbe9">Taros</rs> und <rs type="place" subtype="region" ref="#place_8726daccee33997f29c2bb8b4908ff3e">Zips</rs> des <rs type="place" subtype="place" ref="#place_e5853e90ec28ed86c205d8d6502aa3a9">Eperieser</rs> Sprengels von Magyaren nur in sehr geringer Anzahl
                     bewohnt sind, daher um so weniger ein Grund vorhanden sein dürfte, die in diesen
                     beiden Sprengeln bestehenden aus Anlaß besonderer Fälle bereits zur
                     allerhöchsten Kenntnis gebrachten Sprachnormen einer durchgreifenden Änderung zu
                     unterziehen, weshalb sich eine etwaige weitere Regelung der Sprachfrage
-                    vornehmlich blos auf den <rs type="place" subtype="place" key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesther</rs>, <rs type="place" subtype="place" key="oedenburg" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Ödenburger</rs> und <rs type="place" subtype="place" key="grosswardein" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Großwardeiner</rs> Sprengel zu beziehen hätte.</p>
+                    vornehmlich blos auf den <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesther</rs>, <rs type="place" subtype="place" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Ödenburger</rs> und <rs type="place" subtype="place" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Großwardeiner</rs> Sprengel zu beziehen hätte.</p>
             </div>
         </body>
     </text>

@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="kusevic-svetozar" key="kusevic-svetozar" role="sender:beamter">Svetozar
-                        Kušević</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#kusevic-svetozar" role="sender:beamter">Svetozar
+                        Kušević</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_b827d268b3e75abe3c4419d959d93998">Zagreb</rs>, <date when="1851-02-24">24. Februar 1851</date>
                 </title>
@@ -54,18 +54,18 @@
                     <term>Gymnasialinspektoren</term>
                 </index>
                 <p>Euer Hochwohlgeboren!</p>
-                <p>Bei meinem Abschiede aus der <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Residenz</rs> hatten
+                <p>Bei meinem Abschiede aus der <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Residenz</rs> hatten
                     Euer Hochwohlgeboren die Güte mir aufzutragen, Ihnen über die Beschaffenheit
                     zweier Individuen, die als Competenten einer Gymnasialinspectorsstelle
                     bezeichnet werden könnten, eine nähere Mittheilung zu machen. Ich entledige mich
                     mit Vergnügen dieses mich beehrenden Auftrages, indem ich Euer Hochwohlgeboren
                     höflichst zu berichten die Ehre habe, daß ich Gelegenheit gesucht habe, um mit
-                    dem <rs type="person" ref="zlatarovic-josef" key="zlatarovic-josef">Dr. Zlatarović</rs> pensionirter
-                    Professor des <orgName key="josephinum">Josephinums</orgName> und dermalen
+                    dem <rs type="person" ref="#zlatarovic-josef">Dr. Zlatarović</rs> pensionirter
+                    Professor des <orgName>Josephinums</orgName> und dermalen
                     practischen Homeopatharzt hier, über den obberührten Gegenstand eines
                     Gymnasialinspectors zu sprechen und seine Meinung hierüber zu sondiren, wo es
                     mir gelang zu erfahren, daß er das Amt eines Professors jeder Beschäftigung
-                    vorzieht, und daß er bei der Errichtung einer Universität für <rs type="place" subtype="region" key="kroatien" ref="#place_46ef149805b1b370596a83886b1e010e">Croatien</rs> um ein solches jedenfalls als Medicinae
+                    vorzieht, und daß er bei der Errichtung einer Universität für <rs type="place" subtype="region" ref="#place_46ef149805b1b370596a83886b1e010e">Croatien</rs> um ein solches jedenfalls als Medicinae
                     Professor sich bewerben würde. Er zeigte bei dieser Gelegenheit auch sehr viel
                     Lust für die Stelle eines Gymnasialinspectors, nur scheint es, daß ihn der
                     Wirkungskreis und die Aufgabe eines solchen minder bekannt ist. Dies ist, was
@@ -74,7 +74,7 @@
                     stehen, dem ich sonst nichts beizufügen habe, als daß er hier allgemein geachtet
                     und als Arzt viel in Anspruch genommen wird.<lb/>Das zweite Individuum, über
                     welches ich die Ehre hatte Euer Hochwohlgeboren mündlich zu erwähnen, ist der
-                        <rs type="person" ref="pavic-anton" key="pavic-anton">Dr. Anton Pavić</rs>, Comitatsphysicus zu
+                        <rs type="person" ref="#pavic-anton">Dr. Anton Pavić</rs>, Comitatsphysicus zu
                     Poseg [<rs type="place" subtype="place" ref="#place_ae18acc55f5052b97377f2d082652be0">Possegg</rs>] seit 1836. Derselbe ist ein Mann von 48
                     Jahren, verheirathet, hat alle Studien mit einem ausgezeichneten Fleiße
                     vollendet, ist 22-jähriger practischer Arzt, diente im Allgemeinen Krankenhause
@@ -82,7 +82,7 @@
                     Spitale zu <rs type="place" subtype="place" ref="#place_ea6515eca27ae68c06c82e8cc2a6d318">Salzburg</rs> als Assistent und Primarius, nicht
                     minder versah er daselbst die Lehrstühle der Geburtshilfe wie auch der
                     theoretischen und praktischen Medizin, ferner diente er auch als Bezirksarzt zu
-                        <rs type="place" subtype="place" key="voelkermarkt" ref="#place_6561a308188c907f6540ecec5fea9c3a">Völkermarkt</rs> und erwarb sich
+                        <rs type="place" subtype="place" ref="#place_6561a308188c907f6540ecec5fea9c3a">Völkermarkt</rs> und erwarb sich
                     überall die besondere Zufriedenheit der Vorgesetzten, die Liebe und Achtung des
                     Publikums, wovon er unzweifelhafte, mir wohlbekannte Zeugnisse besitzt, außer
                     seinem Berufe erfüllt er die Pflicht eines guten Bürgers als Wahlbürger der

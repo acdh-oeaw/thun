@@ -4,10 +4,10 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="feigerle-ignaz" key="feigerle-ignaz" role="sender:kleriker">Ignaz
-                        Feigerle</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#feigerle-ignaz" role="sender:kleriker">Ignaz
+                        Feigerle</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" key="st-poelten" ref="#place_d61ca6f44ac954c2c4ecc43d0db38ce5">St. Pölten</rs>,
+                    <rs type="place" subtype="place" ref="#place_d61ca6f44ac954c2c4ecc43d0db38ce5">St. Pölten</rs>,
                         <date when="1860-04-16">16. April 1860</date>
                 </title>
             </titleStmt>
@@ -67,8 +67,8 @@
                     ergebenst vorlegen.<note xml:id="note_1">Vgl. den <ref target="#D575_1">Bericht
                             in der Beilage</ref>.</note>
                     <lb/>Die Meßlicenz und Beichtjurisdiction
-                    für die Zeit seines Aufenthaltes in Kleinpochlarn [<rs type="place" subtype="place" key="kleinpoechlarn" ref="#place_c80382980ad6d369b760894e1669279e">Kleinpöchlarn</rs>] erhielt Prof. <rs type="person" ref="gaertner-wilhelm" key="gaertner-wilhelm">Gärtner</rs> auf sein eigenes Ansuchen und mit
-                    Vorwissen seines Ordinarius, des hochverehrten Herrn <rs type="person" ref="hille-augustin" key="hille-augustin">Bischofes von Leitmeritz</rs>, unterm 19. Sept.
+                    für die Zeit seines Aufenthaltes in Kleinpochlarn [<rs type="place" subtype="place" ref="#place_c80382980ad6d369b760894e1669279e">Kleinpöchlarn</rs>] erhielt Prof. <rs type="person" ref="#gaertner-wilhelm">Gärtner</rs> auf sein eigenes Ansuchen und mit
+                    Vorwissen seines Ordinarius, des hochverehrten Herrn <rs type="person" ref="#hille-augustin">Bischofes von Leitmeritz</rs>, unterm 19. Sept.
                     1857.<lb/>Seit jener Zeit kam bezüglich des genannten Professors nichts zur
                     Verhandlung.<lb/>Genehmigen Euer Excellenz den Ausdruck der ausgezeichnetsten
                     Hochachtung, Verehrung und Ergebenheit, womit ich zu seyn die Ehre habe</p>
@@ -76,24 +76,24 @@
                 <p>gehorsamster Diener<lb/>Ignaz Feigerle<lb/>Bischof</p>
                 <p>St. Pölten, am 16. April [1]860</p>
                 <div xml:id="D575_1" type="enclosure">
-                    <p>Herr Doctor und Professor <rs type="person" ref="gaertner-wilhelm" key="gaertner-wilhelm">Wilhelm
-                            Gärtner</rs> hat im Jahre 1856, als er zu Großpochlarn [<rs type="place" subtype="place" key="grosspoechlarn" ref="#place_307fd9c6aa5bb1f1723bf6710c6f7ecf">Großpöchlarn</rs>] im Stummerschen Gasthause
+                    <p>Herr Doctor und Professor <rs type="person" ref="#gaertner-wilhelm">Wilhelm
+                            Gärtner</rs> hat im Jahre 1856, als er zu Großpochlarn [<rs type="place" subtype="place" ref="#place_307fd9c6aa5bb1f1723bf6710c6f7ecf">Großpöchlarn</rs>] im Stummerschen Gasthause
                         wegen der dortigen Alterthümer verweilte, das Schiffsmeisterhaus zu
-                        Kleinpochlarn [<rs type="place" subtype="place" key="kleinpoechlarn" ref="#place_c80382980ad6d369b760894e1669279e">Kleinpöchlarn</rs>]
+                        Kleinpochlarn [<rs type="place" subtype="place" ref="#place_c80382980ad6d369b760894e1669279e">Kleinpöchlarn</rs>]
                         Haus N. 9 um beyläufig 1200 f CM lizitando erstanden und später noch einen
                         Obst- und Gemüsegarten um beyläufig 600 f CM hinzugekauft, die an dem
                         Kleinhause N. 9 aber haftende Schiffmeistergerechtigkeit an den Nachbar Haus
                         N. 10 verpachtet. Er ist sonach wirklicher Besitzer der obigen Realität,
                         deren obern Stock er selbst bewohnt. Die Wohnparthey im Erdgeschoße vertritt
-                        die Stelle eines Hausmeisters und hat in Abwesenheit des <rs type="person" ref="gaertner-wilhelm" key="gaertner-wilhelm">Professors</rs> Aufsicht über das Haus und
+                        die Stelle eines Hausmeisters und hat in Abwesenheit des <rs type="person" ref="#gaertner-wilhelm">Professors</rs> Aufsicht über das Haus und
                         den Garten.<lb/>
-                        <rs type="person" ref="stelzer-anna" key="stelzer-anna">Anna Stelzer</rs>, dem
+                        <rs type="person" ref="#stelzer-anna">Anna Stelzer</rs>, dem
                         Anschein nach 20–24 Jahre alt, angeblich im Jahre 1823 im Viertel Unterm
                         Mannhartsberge wahrscheinlich in einem Orte bey
                             <rs type="place" subtype="place" ref="#place_07e2e84e3cfd8e6d8476b1f331b0dd20">Oberhollabrunn</rs> geboren, eine Wirthstochter,
                         ledigen Standes, katholischer Religion, wohnt seit 6 Jahren ununterbrochen
-                        bey dem Prof. <rs type="person" ref="gaertner-wilhelm" key="gaertner-wilhelm">Gärtner</rs> in
-                            <rs type="place" subtype="place" key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</rs>, Waitznerstraße Levera und
+                        bey dem Prof. <rs type="person" ref="#gaertner-wilhelm">Gärtner</rs> in
+                            <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</rs>, Waitznerstraße Levera und
                         Cafféhaus, und wird von diesem bald für seine Nichte, eine Waise, die er
                         seit ihrem zehnten Lebensjahre bey sich habe und für die er väterlich zu
                         sorgen verpflichtet sey, bald für eine Person ausgegeben, die von ihrer
@@ -102,20 +102,20 @@
                         Ziegeldeckermeister und Hausbesitzer Steinfelsner beerbt. Der unter die 6
                         Geschwister vertheilte Nachlaß belief sich auf circa 36000 fr. Im Jahre 1858
                         machte jedoch ein anderer Stamm des Erblassers sein Erbrecht auf die Hälfte
-                        des obigen Nachlasses (circa 18000 f) geltend und <rs type="person" ref="stelzer-anna" key="stelzer-anna">Anna Stelzer</rs> wurde auf Ausfolgung der
+                        des obigen Nachlasses (circa 18000 f) geltend und <rs type="person" ref="#stelzer-anna">Anna Stelzer</rs> wurde auf Ausfolgung der
                         zurück zu ersetzenden Hälfte des auf sie gefallenen Nachlaßantheils geklagt.
                         Der Ausgang der Klage ist nicht bekannt. Sie ist wirklich Besitzerin der
                         sogenannten Hausmühle (ehedem Stiftsmühle) zu <rs type="place" subtype="place" ref="#place_1ad9b40d02555252bd601a9200565976">Pielach</rs>
-                        bei <rs type="place" subtype="place" ref="#place_70bde987c42c09240ef3e840fc66a461">Melk</rs>, welche Prof. <rs type="person" ref="gaertner-wilhelm" key="gaertner-wilhelm">G[ärtner]</rs> am 7. April 1858 für sie im
+                        bei <rs type="place" subtype="place" ref="#place_70bde987c42c09240ef3e840fc66a461">Melk</rs>, welche Prof. <rs type="person" ref="#gaertner-wilhelm">G[ärtner]</rs> am 7. April 1858 für sie im
                         Licitationswege um 6000 f CM (baar ausgezahlt) angekauft hat und worauf
-                        jetzt ein von der <rs type="place" subtype="place" key="st-poelten" ref="#place_d61ca6f44ac954c2c4ecc43d0db38ce5">St. Pöltner</rs>
+                        jetzt ein von der <rs type="place" subtype="place" ref="#place_d61ca6f44ac954c2c4ecc43d0db38ce5">St. Pöltner</rs>
                         Sparcasse genommenes Darlehen gr 1200 f CM lastet. Die Hausmühle ist an den
-                        Bruder des besagten Prof. <rs type="person" ref="gaertner-wilhelm" key="gaertner-wilhelm">G[ärtner]</rs> (Müllermeister in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>)
+                        Bruder des besagten Prof. <rs type="person" ref="#gaertner-wilhelm">G[ärtner]</rs> (Müllermeister in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>)
                         verpachtet, welcher daselbst wieder einen Afterpächter (Vielkind, dann
-                        Pichler) hat. Im Jahre 1859 bekam Prof. <rs type="person" ref="gaertner-wilhelm" key="gaertner-wilhelm">G[ärtner]</rs> die obrigkeitliche Bewilligung, in dieser
+                        Pichler) hat. Im Jahre 1859 bekam Prof. <rs type="person" ref="#gaertner-wilhelm">G[ärtner]</rs> die obrigkeitliche Bewilligung, in dieser
                         Hausmühle, die im ersten Stocke nur ein Zimmer hat, aus dem Vorhause 2
                         Zimmer noch herzustellen. Diese sind bisher ohne Fußboden und Thüren, also
-                        nicht vollendet.<lb/>Prof. <rs type="person" ref="gaertner-wilhelm" key="gaertner-wilhelm">G[ärtner]</rs> kam nach <rs type="place" subtype="place" key="kleinpoechlarn" ref="#place_c80382980ad6d369b760894e1669279e">Kleinpochlarn</rs> mit Anfang der Herbstferien im Jahre 1857 und
+                        nicht vollendet.<lb/>Prof. <rs type="person" ref="#gaertner-wilhelm">G[ärtner]</rs> kam nach <rs type="place" subtype="place" ref="#place_c80382980ad6d369b760894e1669279e">Kleinpochlarn</rs> mit Anfang der Herbstferien im Jahre 1857 und
                         wohnte daselbst in seinem Hause fortwährend – mit Ausnahme einiger Reisen
                         (nach <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <rs type="place" subtype="place" ref="#place_22c1334b53dfa475b12a296e9d2ae838">Mariazell</rs> etc.) –
                         bis zum Ende der Herbstferien im Jahre 1858 in Gemäßheit des zuerst für den
@@ -123,26 +123,26 @@
                         Urlaubs.<lb/>Eben so brachte er die Oster- und Herbstferien des Jahres 1859
                         großentheils dort zu und kam heuer in der Carwoche hin und blieb bis
                         Ostersonntag Nachmittags.<lb/>
-                        <rs type="person" ref="stelzer-anna" key="stelzer-anna">Anna
-                            Stelzer</rs> kam jedesmal mit Prof. <rs type="person" ref="gaertner-wilhelm" key="gaertner-wilhelm">G[ärtner]</rs> zugleich in <rs type="place" subtype="place" key="kleinpoechlarn" ref="#place_c80382980ad6d369b760894e1669279e">Kleinpochlarn</rs> an und kehrte mit ihm
-                        wieder zurück. Sie war während seines Aufenthalts in <rs type="place" subtype="place" key="kleinpoechlarn" ref="#place_c80382980ad6d369b760894e1669279e">Kleinpochlarn</rs> allezeit bey ihm und
+                        <rs type="person" ref="#stelzer-anna">Anna
+                            Stelzer</rs> kam jedesmal mit Prof. <rs type="person" ref="#gaertner-wilhelm">G[ärtner]</rs> zugleich in <rs type="place" subtype="place" ref="#place_c80382980ad6d369b760894e1669279e">Kleinpochlarn</rs> an und kehrte mit ihm
+                        wieder zurück. Sie war während seines Aufenthalts in <rs type="place" subtype="place" ref="#place_c80382980ad6d369b760894e1669279e">Kleinpochlarn</rs> allezeit bey ihm und
                         begleitete ihn auch öfter auf den Reisen. Sie wohnen beyde miteinander, sie
                         fahren miteinander ohne Schau im offenem Wagen, sie speisen miteinander;
-                        daher das Gerücht: <rs type="person" ref="stelzer-anna" key="stelzer-anna">Anna St[elzer]</rs>
-                        sey die <hi rend="ul">Schöne</hi> des <rs type="person" ref="gaertner-wilhelm" key="gaertner-wilhelm">Professors</rs>.<lb/>In dem bezeichneten Hause des Prof.
-                            <rs type="person" ref="gaertner-wilhelm" key="gaertner-wilhelm">G[ärtner]</rs> zu <rs type="place" subtype="place" key="kleinpoechlarn" ref="#place_c80382980ad6d369b760894e1669279e">Kleinpochlarn</rs> sind 4 jetzt gemalte
-                        Zimmer. Von dem ersten derselben sagte der <rs type="person" ref="gaertner-wilhelm" key="gaertner-wilhelm">Professor</rs>, es sey für die <rs type="person" ref="stelzer-anna" key="stelzer-anna">Anna
+                        daher das Gerücht: <rs type="person" ref="#stelzer-anna">Anna St[elzer]</rs>
+                        sey die <hi rend="ul">Schöne</hi> des <rs type="person" ref="#gaertner-wilhelm">Professors</rs>.<lb/>In dem bezeichneten Hause des Prof.
+                            <rs type="person" ref="#gaertner-wilhelm">G[ärtner]</rs> zu <rs type="place" subtype="place" ref="#place_c80382980ad6d369b760894e1669279e">Kleinpochlarn</rs> sind 4 jetzt gemalte
+                        Zimmer. Von dem ersten derselben sagte der <rs type="person" ref="#gaertner-wilhelm">Professor</rs>, es sey für die <rs type="person" ref="#stelzer-anna">Anna
                             Stelzer</rs> bestimmt.<lb/>In der Hausmühle zu
-                            <rs type="place" subtype="place" ref="#place_1ad9b40d02555252bd601a9200565976">Pielach</rs>, wo Prof. <rs type="person" ref="gaertner-wilhelm" key="gaertner-wilhelm">G[ärtner]</rs> mit <rs type="person" ref="stelzer-anna" key="stelzer-anna">Anna St[elzer]</rs> auch heuer vor Ostern war,
+                            <rs type="place" subtype="place" ref="#place_1ad9b40d02555252bd601a9200565976">Pielach</rs>, wo Prof. <rs type="person" ref="#gaertner-wilhelm">G[ärtner]</rs> mit <rs type="person" ref="#stelzer-anna">Anna St[elzer]</rs> auch heuer vor Ostern war,
                         befindet sich nur Ein Zimmer im ersten Stock und in diesem steht Ein
                         Bettgestell und Ein Sofa; daher wohnen und schlafen beyde in Einem Zimmer,
                         welches zur Nachtzeit verschlossen ist.<lb/>Ob zwischen diesen zwey Personen
                         ein unsittliches Verhältnis stattfinde, ist nicht bekannt; wohl aber der
-                        unchristliche Wandel der <rs type="person" ref="stelzer-anna" key="stelzer-anna">Anna
+                        unchristliche Wandel der <rs type="person" ref="#stelzer-anna">Anna
                             Stelzer</rs>, die zum großen Ärgernis für die dortige
                         Pfarrgemeinde den öffentlichen Gottesdienst an Sonn- und Feyertagen, ja
                         selbst an den höchsten Festen vernachläßiget, kein Fasten hält und keine
-                        Abstinenz beobachtet. Der Prof. <rs type="person" ref="gaertner-wilhelm" key="gaertner-wilhelm">G[ärtner]</rs>, welcher nach seinen Reden ein Mann von strengen
+                        Abstinenz beobachtet. Der Prof. <rs type="person" ref="#gaertner-wilhelm">G[ärtner]</rs>, welcher nach seinen Reden ein Mann von strengen
                         Grundsätzen zu seyn scheint, duldet, entschuldiget und vertheidigt dies ihr
                         Benehmen damit, daß sie gar oft kränklich sey und den Kirchendunst nicht
                         vertrage. Die Leute aber sagen (die Einen seufzend, die Andern laut

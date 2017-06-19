@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="tischendorf-constantin" key="tischendorf-constantin" role="sender:gelehrter">Constantin
-                        Tischendorf</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#tischendorf-constantin" role="sender:gelehrter">Constantin
+                        Tischendorf</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_4a887b8a68acf9b04d9d027bddedb06b">Leipzig</rs>,
                         <date when="1850-07-17">17. Juli 1850</date>
@@ -60,10 +60,10 @@
                     längst ein so huldvolles Interesse geschenkt, daß ich Ihre Anwesenheit in
                         <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> für einen Zweck zu nützen wage, den ich der
                     Protektion eines so erleuchteten Staatsmannes würdig glaube.<lb/>Ich habe unterm
-                    16. April Seiner Erlaucht dem <rs type="person" ref="kuefstein-franz-seraph" key="kuefstein-franz-seraph">Grafen
+                    16. April Seiner Erlaucht dem <rs type="person" ref="#kuefstein-franz-seraph">Grafen
                         Kuefstein</rs>, nicht ohne seiner eigenen Veranlassung, den Antrag
                     einer wissenschaftlichen Mission übergeben, den derselbe sofort hochgeneigtest
-                    an den Herrn <rs type="person" ref="schwarzenberg-felix" key="schwarzenberg-felix">Fürsten
+                    an den Herrn <rs type="person" ref="#schwarzenberg-felix">Fürsten
                         Ministerpräsidenten</rs> selbst einsandte. Dieser Antrag bezweckt
                     zunächst eine wissenschaftliche Mission nach dem Morgenlande, soweit ich
                     dasselbe schon früher bereist habe, theils um einen großen einzigen Bibelschatz
@@ -76,13 +76,13 @@
                     daran eine förmliche Berufung nach <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>. Dabei hob ich
                     den Wunsch hervor, vorzugsweise den Bibliotheken des Kaiserstaats, wie denen zu
                         <rs type="place" subtype="place" ref="#place_e4d4b19346747823e5636ed1238a7521">Venedig</rs>, zu <rs type="place" subtype="place" ref="#place_ab21db0a2aa2e84be73932be6063b033">Mailand</rs>, zu
-                        <rs type="place" subtype="place" ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</rs>, in <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs>
+                        <rs type="place" subtype="place" ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</rs>, in <rs type="place" subtype="region" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs>
                     meine Thätigkeit zu widmen, und deutete mehrere Gesichtspunkte an, unter denen
-                    meine Forschungen der <orgName key="akademie-der-wissenschaften">Kaiserlichen
+                    meine Forschungen der <orgName>Kaiserlichen
                         Akademie der Wissenschaften</orgName> nicht unwillkommen sein
-                    möchten.<lb/>Da ich nun, so gut wie <rs type="person" ref="kuefstein-franz-seraph" key="kuefstein-franz-seraph">Graf
+                    möchten.<lb/>Da ich nun, so gut wie <rs type="person" ref="#kuefstein-franz-seraph">Graf
                         Kuefstein</rs>, bis jetzt noch ohne Bescheid geblieben, so wage ich
-                    Eurer Excellenz unterthänigst zu ersuchen Seiner Durchlaucht dem <rs type="person" ref="schwarzenberg-felix" key="schwarzenberg-felix">Fürsten Ministerpräsidenten</rs> mein
+                    Eurer Excellenz unterthänigst zu ersuchen Seiner Durchlaucht dem <rs type="person" ref="#schwarzenberg-felix">Fürsten Ministerpräsidenten</rs> mein
                     Schreiben vom 16. April in Erinnerung zu bringen, und für dasselbe, wenn es
                     anders mit dem gnädigen Urtheile Eurer Excellenz über mich vereinbar ist, der
                     gewichtigste Fürsprecher werden zu wollen.<lb/>Wie sehr meine im letzten

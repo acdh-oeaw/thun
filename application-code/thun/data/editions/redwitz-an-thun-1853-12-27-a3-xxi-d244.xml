@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="redwitz-oskar" key="redwitz-oskar" role="sender:gelehrter">Oskar
-                        Redwitz</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#redwitz-oskar" role="sender:gelehrter">Oskar
+                        Redwitz</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_7662c07d69c12560e2c9652b796714f0">Schellenberg</rs>, <date when="1853-12-27">27. Dezember 1853</date>
                 </title>
@@ -58,7 +58,7 @@
                     Verehrung Hochihrer Person erlaube ich mir Euerer Excellenz meine
                         „Sieglinde“<note xml:id="note_1">Vgl. <ref target="http://books.google.at/books?id=Jp0uAAAAYAAJ&amp;printsec=frontcover&amp;hl=de#v=onepage&amp;q&amp;f=false">Oskar von Redwitz, Sieglinde: eine Tragödie, Mainz 1854</ref>.</note>
                     zu übersenden mit der Bitte das andere Exemplar als Zeichen größter herzlichster
-                    Ehrerbietung der gnädigen <rs type="person" ref="thun-hohenstein-caroline" key="thun-hohenstein-caroline">Frau
+                    Ehrerbietung der gnädigen <rs type="person" ref="#thun-hohenstein-caroline">Frau
                         Gräfin</rs> gütigst einhändigen zu wollen.<lb/>Trotz dem, daß bereits
                     die Critik, deren unlautere Motive nur zu leicht zu errathen sind, mit giftigem
                     Hohn alles aufbietet, um mein Werk sogleich beim Erscheinen unterdrücken zu
@@ -104,8 +104,8 @@
                     machen, die Zeit Euerer Excellenz in Anspruch zu nehmen. Gott weiß, ich bin mit
                     großer Freude und Liebe nach <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> gegangen, aber auch,
                     lassen Euer Excellenz mich das offen eingestehen, mit anderen Erwartungen. Ich
-                    glaubte als Professor eine Stellung einzunehmen, wie sie z. B. <rs type="person" ref="geibel-emanuel" key="geibel-emanuel">Geibel</rs>, dem ich mich wohl an die Seite
-                    stellen darf, in <orgName key="universitaet-muenchen">München</orgName> zutheil
+                    glaubte als Professor eine Stellung einzunehmen, wie sie z. B. <rs type="person" ref="#geibel-emanuel">Geibel</rs>, dem ich mich wohl an die Seite
+                    stellen darf, in <orgName>München</orgName> zutheil
                     ward, daß eben über dem Professor der Dichter nicht ganz übersehen wird. Euere
                     Excellenz haben mich mit aller denkbaren Liebe und Theilnahme beehrt, die ich
                     nie vergessen werde, ich brauche deshalb auch gewiß nicht zu fürchten, von Euer
@@ -131,7 +131,7 @@
                     Urlaubs zu zögern, darüber wollen mir Euere Excellenz vielleicht einmal einen
                     gütigen Wink ertheilen lassen. Ich will dann ganz Hochihrem Rathe folgen.
                     Bewahren mir Euere Excellenz dann auch für die Zukunft Ihre Liebe und
-                    Theilnahme, empfehlen Sie mich auf das Ehrerbietigste der gnädigen <rs type="person" ref="thun-hohenstein-caroline" key="thun-hohenstein-caroline">Frau Gräfin</rs> und nehmen Sie meine
+                    Theilnahme, empfehlen Sie mich auf das Ehrerbietigste der gnädigen <rs type="person" ref="#thun-hohenstein-caroline">Frau Gräfin</rs> und nehmen Sie meine
                     rückhaltslose Offenheit zum Pfand der wahrhaftigsten Verehrung hin, mit der ich
                     für immer verharre</p>
                 <p>Euerer Excellenz</p>

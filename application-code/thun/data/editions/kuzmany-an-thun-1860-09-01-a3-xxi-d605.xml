@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="kuzmany-karl" key="kuzmany-karl" role="sender:gelehrter">Karl Kuzmány</rs>
-                    an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                    <rs type="person" ref="#kuzmany-karl" role="sender:gelehrter">Karl Kuzmány</rs>
+                    an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_0546943cdb764ce66d21e8910937b72a">Neusohl</rs>, <date when="1860-09-01">1. September 1860</date>
@@ -63,23 +63,23 @@
                 </index>
                 <p>Euer Excellenz!</p>
                 <p>In der Beilage nehme ich mir die Freiheit mitzutheilen, was ich Seiner Excellenz
-                    dem Herrn <rs type="person" ref="benedek-ludwig" key="benedek-ludwig">FZM Ritter von Benedek</rs> unter
+                    dem Herrn <rs type="person" ref="#benedek-ludwig">FZM Ritter von Benedek</rs> unter
                     17. Aug. Z. 715 vorgelegt habe; <note xml:id="note_1">Vgl. die Beilage <ref target="#D605_1">Karl Kuzmány an Ludwig Benedek. Neusohl, 17. August
                             1860</ref>.</note> weil ich gestern von ihm die Antwort erhielt, es
                     würde meine Bitte in einer Berathung der dortigen Centralstelle erwogen und mir
                     das Resultat bekannt gegeben werden. Ich theile dies Eurer Excellenz in der
                     Absicht mit, Euer Excellenz unterthänigst zu bitten, Hochdieselben wollen
                     geruhen auf geeignetem Wege dahin zu wirken, dass die Sache im Sinne des von mir
-                    gestellten Ansuchens entschieden werde.<lb/>Wir haben jetzt in der <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburger</rs> Superintendenz 36 vollständig
-                    geordnete Gemeinden, dazu kehren soeben 2 im <rs type="place" subtype="region" key="komitat-trentschin" ref="#place_261e1b6ee7653a09ba60a4db29c8a123">Trentschiner</rs>, 2 in <rs type="place" subtype="place" key="komitat-neutra" ref="#place_d856324689e6964c27e3903e6f63a34e">Neutraer</rs>, 1 in Arver Seniorate zurück zu der Coordination; in
-                        <rs type="place" subtype="place" key="komitat-hont" ref="#place_34757f828b3f00c518507eb75bc8f67d">Hont</rs> bereiten sich größere
-                    Conversionen; in <rs type="place" subtype="place" key="neograd" ref="#place_f90a9311387c69b31f948405b0a6777b">Neograd</rs> und hier (Bries,
+                    gestellten Ansuchens entschieden werde.<lb/>Wir haben jetzt in der <rs type="place" subtype="place" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburger</rs> Superintendenz 36 vollständig
+                    geordnete Gemeinden, dazu kehren soeben 2 im <rs type="place" subtype="region" ref="#place_261e1b6ee7653a09ba60a4db29c8a123">Trentschiner</rs>, 2 in <rs type="place" subtype="place" ref="#place_d856324689e6964c27e3903e6f63a34e">Neutraer</rs>, 1 in Arver Seniorate zurück zu der Coordination; in
+                        <rs type="place" subtype="place" ref="#place_34757f828b3f00c518507eb75bc8f67d">Hont</rs> bereiten sich größere
+                    Conversionen; in <rs type="place" subtype="place" ref="#place_f90a9311387c69b31f948405b0a6777b">Neograd</rs> und hier (Bries,
                     [?]) erwartet man einen ersten Impuls – wie etwa die angesuchte Erklärung – um
                     sogleich umzukehren, weil sie selbst einzusehen beginnen – ich habe mich davon
                     persönlich überzeugt –, dass sie schlecht gethan, dem Andrang der politischen
                     Fanatiker nachgegeben zu haben und nur einen Praetext haben wollen, öffentlich
                     aufzutreten. Leider wird diese Conversion die Ankündigung des Generalconventes
-                    von <rs type="person" ref="zay-von-csoemoer-karl" key="zay-von-csoemoer-karl">Graf Zay</rs> auf den 10. Oct.
+                    von <rs type="person" ref="#zay-von-csoemoer-karl">Graf Zay</rs> auf den 10. Oct.
                     wiederum hemmen, denn viele werden nun wiederum auf die Regierung, ob sie in der
                     Sache was thut, hinschauen und den Erfolg des Conventes abwarten wollen. Wäre es
                     denn nicht möglich denselben zu inhibieren? – ist es doch schnurstracks allen
@@ -88,7 +88,7 @@
                     Convente aus, den ich am Michaeli zu halten gedenke, einzulegen; weil ich aber
                     die Unkosten dieses Conventes aus Eigenem bestreiten muß – da die Cassen bei den
                     Gegnern sind – so brauche ich unumgänglich der Flüßigmachung meiner
-                    Functionszulage. Die <rs type="place" subtype="place" key="komitat-neutra" ref="#place_d856324689e6964c27e3903e6f63a34e">Neutraer</rs>
+                    Functionszulage. Die <rs type="place" subtype="place" ref="#place_d856324689e6964c27e3903e6f63a34e">Neutraer</rs>
                     Gemeinden kann ich nun nicht eher besuchen, bis das oben berührte Ansuchen nicht
                     erledigt ist. Wird dasselbe in meinem Sinne erledigt, so wird es dann mit der
                     Zurückführung der Gemeinden rasch vorwärts gehen und unser [?] und [?] Kampf
@@ -100,7 +100,7 @@
                     <p>Auf die autoritative Aufforderung der in <rs type="place" subtype="place" ref="#place_8f2aee794286772a06ad3133d0a64c72">Pest</rs>
                         usurpatorischer Weise aufgestellt gewesenen sogenannten Centralcomission der
                         Evangelischen A.C. haben sich, Grund absichtlich falscher Erklärungen des
-                        allerhöchsten Handschreibens vom 15. Mai in den Comitaten <rs type="place" subtype="place" key="komitat-hont" ref="#place_34757f828b3f00c518507eb75bc8f67d">Hont</rs>, <rs type="place" subtype="place" key="komitat-sohl" ref="#place_ee8bff82abac5ff6e3e7912ed45aa215">Sohl</rs> und <rs type="place" subtype="place" key="komitat-neutra" ref="#place_d856324689e6964c27e3903e6f63a34e">Neutra</rs>
+                        allerhöchsten Handschreibens vom 15. Mai in den Comitaten <rs type="place" subtype="place" ref="#place_34757f828b3f00c518507eb75bc8f67d">Hont</rs>, <rs type="place" subtype="place" ref="#place_ee8bff82abac5ff6e3e7912ed45aa215">Sohl</rs> und <rs type="place" subtype="place" ref="#place_d856324689e6964c27e3903e6f63a34e">Neutra</rs>
                         gewisse Männer für Senioralinspectoren erklärt, öffentliche
                         Senioralconferenzen zusammenberufen, aus denselben Deputationen und
                         Untersuchungscomissionen in die coordinirten Gemeinden entsendet, diese als
@@ -116,97 +116,97 @@
                         Deputationen und Untersuchungscomissionen zu den legalen Senioren
                         aussendeten und von denselben die Archive, Siegel usw. unter Drohungen und
                         verschiedenen Unbilden oder Scheingründen aufforderten. Dies geschah
-                        insbesondere in <rs type="place" subtype="place" key="komitat-hont" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs> und
-                            <rs type="place" subtype="place" key="komitat-sohl" ref="#place_ee8bff82abac5ff6e3e7912ed45aa215">Sohl</rs> und ist, wie mir der
-                            <rs type="place" subtype="place" key="komitat-neutra" ref="#place_d856324689e6964c27e3903e6f63a34e">Neutraer</rs> Senior <rs type="person" ref="trokan-johann" key="trokan-johann">Joh[ann] Trokane</rs>, Pfarrer von
+                        insbesondere in <rs type="place" subtype="place" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs> und
+                            <rs type="place" subtype="place" ref="#place_ee8bff82abac5ff6e3e7912ed45aa215">Sohl</rs> und ist, wie mir der
+                            <rs type="place" subtype="place" ref="#place_d856324689e6964c27e3903e6f63a34e">Neutraer</rs> Senior <rs type="person" ref="#trokan-johann">Joh[ann] Trokane</rs>, Pfarrer von
                             <rs type="place" subtype="place" ref="#place_9288e63756d392cff95d1e20786607c3">Kostolná</rs>, berichtet auch dort bereits im
                         Zuge.<lb/>Welche Plackereien und Verfolgungen man gegen einzelne Gemeinden
                         durch immerfort sich wiederholende Beunruhigungen derselben mittelst
                         Emissären, gegen einzelne Pfarrer durch Untersuchungscomissionen ausgeübt
                         habe, damit will ich Euer Excellenz verschonen. Zum Beweise des Gesagten
                         lege ich nur hier bei einen Bericht des nach maßlosen erduldeten Unbilden
-                        aus Überdruß der Schutzlosigkeit abgedankten Seniors von <rs type="place" subtype="place" key="komitat-hont" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs>, <rs type="person" ref="wengericzky-andreas" key="wengericzky-andreas">Andr[eas] Wengericzky</rs>, und einen
-                        zweiten des Pfarrers von <rs type="place" subtype="place" ref="#place_cac911dbd5121527b9b33b925a770ecc">Hodrics</rs>, <rs type="person" ref="hersko-paul" key="hersko-paul">Paul Hersko</rs>.<lb/>Euer Excellenz! Die so in
-                            <rs type="place" subtype="place" key="komitat-hont" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs>, <rs type="place" subtype="place" key="komitat-neutra" ref="#place_d856324689e6964c27e3903e6f63a34e">Neutra</rs> und <rs type="place" subtype="place" key="komitat-sohl" ref="#place_ee8bff82abac5ff6e3e7912ed45aa215">Sohl</rs> wiederrechtlich eingesetzten
+                        aus Überdruß der Schutzlosigkeit abgedankten Seniors von <rs type="place" subtype="place" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs>, <rs type="person" ref="#wengericzky-andreas">Andr[eas] Wengericzky</rs>, und einen
+                        zweiten des Pfarrers von <rs type="place" subtype="place" ref="#place_cac911dbd5121527b9b33b925a770ecc">Hodrics</rs>, <rs type="person" ref="#hersko-paul">Paul Hersko</rs>.<lb/>Euer Excellenz! Die so in
+                            <rs type="place" subtype="place" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs>, <rs type="place" subtype="place" ref="#place_d856324689e6964c27e3903e6f63a34e">Neutra</rs> und <rs type="place" subtype="place" ref="#place_ee8bff82abac5ff6e3e7912ed45aa215">Sohl</rs> wiederrechtlich eingesetzten
                         Senioralbeamten, sowie auch die Seniorate der nicht coordinirt gebliebenen
                         Gemeinden verbreiten eifrigst die Meinung, dass nun die nach dem
                         allerhöchsten Patente nichtcoordinirten oder von demselben abgefallenen
-                        Gemeinden und Seniorate in dem Bereiche der Comitate: <rs type="place" subtype="place" key="komitat-pressburg" ref="#place_ece75294da7f8fdea4ffbf3bdb8f5d9f">Preßburg</rs>, <rs type="place" subtype="place" key="komitat-neutra" ref="#place_d856324689e6964c27e3903e6f63a34e">Ober- und Unter-Neutra</rs>, <rs type="place" subtype="place" key="komitat-trentschin" ref="#place_261e1b6ee7653a09ba60a4db29c8a123">Trenschin</rs>, <rs type="place" subtype="place" key="komitat-arwa" ref="#place_2ba80697c410b3115b7ce01183106b48">Arva-Thurocz</rs>, <rs type="place" subtype="place" key="komitat-liptau" ref="#place_7e94e843694214e6576aabc0a94a5291">Liptau</rs>, <rs type="place" subtype="place" key="komitat-sohl" ref="#place_ee8bff82abac5ff6e3e7912ed45aa215">Sohl</rs>, <rs type="place" subtype="place" key="komitat-bars" ref="#place_af0eceb0f6ff4906a8e0f7cc4bb683c2">Bars</rs>,
-                            <rs type="place" subtype="place" key="komitat-hont" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs> und <rs type="place" subtype="place" key="komitat-neograd" ref="#place_07198ac9f90b46b7d3930924305a26af">Neograd</rs> nicht zu der <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</rs>, sondern jene derselben in den
-                        Comitaten: <rs type="place" subtype="place" key="komitat-pressburg" ref="#place_ece75294da7f8fdea4ffbf3bdb8f5d9f">Preßburg</rs>,
-                            <rs type="place" subtype="place" key="komitat-neutra" ref="#place_d856324689e6964c27e3903e6f63a34e">Ober- und Unter-Neutra</rs>,
-                            <rs type="place" subtype="place" key="komitat-trentschin" ref="#place_261e1b6ee7653a09ba60a4db29c8a123">Trenschin</rs>, <rs type="place" subtype="place" key="komitat-arwa" ref="#place_2ba80697c410b3115b7ce01183106b48">Arva-Thurocz</rs> und <rs type="place" subtype="place" key="komitat-liptau" ref="#place_7e94e843694214e6576aabc0a94a5291">Liptau</rs> selbst trotz der Erklärung Euer
-                        Excellenz vor den am 12. Juli in <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</rs> zu einem willkührlich einberufenen
+                        Gemeinden und Seniorate in dem Bereiche der Comitate: <rs type="place" subtype="place" ref="#place_ece75294da7f8fdea4ffbf3bdb8f5d9f">Preßburg</rs>, <rs type="place" subtype="place" ref="#place_d856324689e6964c27e3903e6f63a34e">Ober- und Unter-Neutra</rs>, <rs type="place" subtype="place" ref="#place_261e1b6ee7653a09ba60a4db29c8a123">Trenschin</rs>, <rs type="place" subtype="place" ref="#place_2ba80697c410b3115b7ce01183106b48">Arva-Thurocz</rs>, <rs type="place" subtype="place" ref="#place_7e94e843694214e6576aabc0a94a5291">Liptau</rs>, <rs type="place" subtype="place" ref="#place_ee8bff82abac5ff6e3e7912ed45aa215">Sohl</rs>, <rs type="place" subtype="place" ref="#place_af0eceb0f6ff4906a8e0f7cc4bb683c2">Bars</rs>,
+                            <rs type="place" subtype="place" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs> und <rs type="place" subtype="place" ref="#place_07198ac9f90b46b7d3930924305a26af">Neograd</rs> nicht zu der <rs type="place" subtype="place" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</rs>, sondern jene derselben in den
+                        Comitaten: <rs type="place" subtype="place" ref="#place_ece75294da7f8fdea4ffbf3bdb8f5d9f">Preßburg</rs>,
+                            <rs type="place" subtype="place" ref="#place_d856324689e6964c27e3903e6f63a34e">Ober- und Unter-Neutra</rs>,
+                            <rs type="place" subtype="place" ref="#place_261e1b6ee7653a09ba60a4db29c8a123">Trenschin</rs>, <rs type="place" subtype="place" ref="#place_2ba80697c410b3115b7ce01183106b48">Arva-Thurocz</rs> und <rs type="place" subtype="place" ref="#place_7e94e843694214e6576aabc0a94a5291">Liptau</rs> selbst trotz der Erklärung Euer
+                        Excellenz vor den am 12. Juli in <rs type="place" subtype="place" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</rs> zu einem willkührlich einberufenen
                         Superintendentialconvente versammelten Männern, dass die Beschlüsse dieses
                         Conventes keine Geltung haben würden – zu der früher bestandenen
                         Superintendenz diesseits der Donau gehören, und dem auf demselben erwähnten
-                        Convente von <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</rs> illegal
-                        gewählten Superintendenten <rs type="person" ref="stromszky-samuel" key="stromszky-samuel">Stromszky</rs>, Pfarrer von <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</rs>, jene aber in den Comitaten <rs type="place" subtype="place" key="komitat-sohl" ref="#place_ee8bff82abac5ff6e3e7912ed45aa215">Sohl</rs>, <rs type="place" subtype="place" key="komitat-bars" ref="#place_af0eceb0f6ff4906a8e0f7cc4bb683c2">Bars</rs>, <rs type="place" subtype="place" key="komitat-hont" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs> und
-                            <rs type="place" subtype="place" key="komitat-neograd" ref="#place_07198ac9f90b46b7d3930924305a26af">Neograd</rs> zu der sogenannten
+                        Convente von <rs type="place" subtype="place" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</rs> illegal
+                        gewählten Superintendenten <rs type="person" ref="#stromszky-samuel">Stromszky</rs>, Pfarrer von <rs type="place" subtype="place" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</rs>, jene aber in den Comitaten <rs type="place" subtype="place" ref="#place_ee8bff82abac5ff6e3e7912ed45aa215">Sohl</rs>, <rs type="place" subtype="place" ref="#place_af0eceb0f6ff4906a8e0f7cc4bb683c2">Bars</rs>, <rs type="place" subtype="place" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs> und
+                            <rs type="place" subtype="place" ref="#place_07198ac9f90b46b7d3930924305a26af">Neograd</rs> zu der sogenannten
                         Montan-Superintendenz und demnach dem für diese bestellten Superintendenten
-                            <rs type="person" ref="szekacs-josef" key="szekacs-josef">Székaćs</rs>, Pfarrer in <rs type="place" subtype="place" key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</rs>, unterstehen; wenngleich das allerhöchste
+                            <rs type="person" ref="#szekacs-josef">Székaćs</rs>, Pfarrer in <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</rs>, unterstehen; wenngleich das allerhöchste
                         Handschreiben vom 15. Mai letzten Jahres ausdrücklich als den allerhöchsten
-                        Befehl es hinstellt, dass die <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburger</rs> Superintendenz – also der Verband der Gemeinden
+                        Befehl es hinstellt, dass die <rs type="place" subtype="place" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburger</rs> Superintendenz – also der Verband der Gemeinden
                         und Seniorate für diesen Superintendenzbezirk, wie er in dem allerhöchsten
                         Patente vom 1. Sept. vorigen Jahres §§ XXVI, 2 abgegrenzt erscheint – nicht
                         beirrt werden dürfe. Zum Beweise des hier von mir Behaupteten, lege ich hier
                         sub die Abschrift eines dem gewesenen Superintendentialadministrator der
-                            <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburger</rs> Superintendenz,
-                            <rs type="person" ref="chalupka-johann" key="chalupka-johann">Johann Chalupka</rs>, von dem
-                        Schriftführer des <rs type="place" subtype="place" key="komitat-neograd" ref="#place_07198ac9f90b46b7d3930924305a26af">Neograder</rs>
+                            <rs type="place" subtype="place" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburger</rs> Superintendenz,
+                            <rs type="person" ref="#chalupka-johann">Johann Chalupka</rs>, von dem
+                        Schriftführer des <rs type="place" subtype="place" ref="#place_07198ac9f90b46b7d3930924305a26af">Neograder</rs>
                         Seniorates zugesendeten Protocollauszuges des in Losoner am 24. Juni letzten
                         Jahres abgehaltenen Conventes.<lb/>Ich bitte daher unterthänigst Euer
                         Excellenz, nach meiner Pflicht, an die Herrn:<lb/>
-                        <rs type="person" ref="zelenka-daniel" key="zelenka-daniel">Zelenka Daniel</rs>, Senior und Pfarrer in
-                            <rs type="place" subtype="place" key="vanyarc" ref="#place_b6eb764996d2bbe5992a409ca0fbde6a">Vanyarez</rs> im <rs type="place" subtype="place" key="komitat-neograd" ref="#place_07198ac9f90b46b7d3930924305a26af">Neograder Comitate</rs>
+                        <rs type="person" ref="#zelenka-daniel">Zelenka Daniel</rs>, Senior und Pfarrer in
+                            <rs type="place" subtype="place" ref="#place_b6eb764996d2bbe5992a409ca0fbde6a">Vanyarez</rs> im <rs type="place" subtype="place" ref="#place_07198ac9f90b46b7d3930924305a26af">Neograder Comitate</rs>
                         <lb/>
-                        <rs type="person" ref="mastisch-adam" key="mastisch-adam">Adam Mastisch</rs>, Consenior und
-                        Pfarrer in Devicse im <rs type="place" subtype="place" key="komitat-hont" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honther
+                        <rs type="person" ref="#mastisch-adam">Adam Mastisch</rs>, Consenior und
+                        Pfarrer in Devicse im <rs type="place" subtype="place" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honther
                             Comitate</rs>
                         <lb/>
-                        <rs type="person" ref="kossany-josef" key="kossany-josef">Jos[ef] Kossány</rs>, Senior und
-                        Pfarrer in <rs type="place" subtype="place" ref="#place_ddda7248ef49cfa4c259623ae8d5db62">Kremnitz</rs> im <rs type="place" subtype="place" key="komitat-bars" ref="#place_af0eceb0f6ff4906a8e0f7cc4bb683c2">Barscher Comitate</rs>
+                        <rs type="person" ref="#kossany-josef">Jos[ef] Kossány</rs>, Senior und
+                        Pfarrer in <rs type="place" subtype="place" ref="#place_ddda7248ef49cfa4c259623ae8d5db62">Kremnitz</rs> im <rs type="place" subtype="place" ref="#place_af0eceb0f6ff4906a8e0f7cc4bb683c2">Barscher Comitate</rs>
                         <lb/>
-                        <rs type="person" ref="makonyi-paul" key="makonyi-paul">Paul Makónyi</rs>, Pfarrer in
-                            <rs type="place" subtype="place" ref="#place_6daa3f578c3d715ff743d3950d4bafd6">Altsohl</rs> im <rs type="place" subtype="place" key="komitat-sohl" ref="#place_ee8bff82abac5ff6e3e7912ed45aa215">Sohler
+                        <rs type="person" ref="#makonyi-paul">Paul Makónyi</rs>, Pfarrer in
+                            <rs type="place" subtype="place" ref="#place_6daa3f578c3d715ff743d3950d4bafd6">Altsohl</rs> im <rs type="place" subtype="place" ref="#place_ee8bff82abac5ff6e3e7912ed45aa215">Sohler
                             Comitate</rs>
                         <lb/>
-                        <rs type="person" ref="plech-josef" key="plech-josef">Jos[ef] Plech</rs>, Senior und
-                        Pfarrer in St. Peter im <rs type="place" subtype="place" key="komitat-liptau" ref="#place_7e94e843694214e6576aabc0a94a5291">Liptauer
+                        <rs type="person" ref="#plech-josef">Jos[ef] Plech</rs>, Senior und
+                        Pfarrer in St. Peter im <rs type="place" subtype="place" ref="#place_7e94e843694214e6576aabc0a94a5291">Liptauer
                             Comitate</rs>
                         <lb/>
-                        <rs type="person" ref="belohorsky-andreas" key="belohorsky-andreas">Andr[eas] Belohorsky</rs>,
+                        <rs type="person" ref="#belohorsky-andreas">Andr[eas] Belohorsky</rs>,
                         Senior und Pfarrer in Tót-Próna [<rs type="place" subtype="place" ref="#place_3b640424c7213466a77fb584ff65af9f">Tótpróna</rs>] im
-                            <rs type="place" subtype="place" key="komitat-turz" ref="#place_ab803a453592b4aea05cb2449245ff34">Thuróczer Comitate</rs>
+                            <rs type="place" subtype="place" ref="#place_ab803a453592b4aea05cb2449245ff34">Thuróczer Comitate</rs>
                         <lb/>
-                        <rs type="person" ref="szwaty-matthias" key="szwaty-matthias">Matth[ias] Szwaty</rs>, Senior
-                        und Pfarrer in <rs type="place" subtype="place" ref="#place_37b1502b0a1a8f0ef2518a5b30e3b53b">Zay-Ugrócz</rs> im <rs type="place" subtype="place" key="komitat-trentschin" ref="#place_261e1b6ee7653a09ba60a4db29c8a123">Trenschiner Comitate</rs>
+                        <rs type="person" ref="#szwaty-matthias">Matth[ias] Szwaty</rs>, Senior
+                        und Pfarrer in <rs type="place" subtype="place" ref="#place_37b1502b0a1a8f0ef2518a5b30e3b53b">Zay-Ugrócz</rs> im <rs type="place" subtype="place" ref="#place_261e1b6ee7653a09ba60a4db29c8a123">Trenschiner Comitate</rs>
                         <lb/>
-                        <rs type="person" ref="teszak-samuel" key="teszak-samuel">Samuel Teszák</rs>, Pfarrer in
-                            <rs type="place" subtype="place" ref="#place_04f952469eb0d52b08e8242cdf81d031">Szenicz</rs> im <rs type="place" subtype="place" key="komitat-neutra" ref="#place_d856324689e6964c27e3903e6f63a34e">Neutraer Comitate</rs>
+                        <rs type="person" ref="#teszak-samuel">Samuel Teszák</rs>, Pfarrer in
+                            <rs type="place" subtype="place" ref="#place_04f952469eb0d52b08e8242cdf81d031">Szenicz</rs> im <rs type="place" subtype="place" ref="#place_d856324689e6964c27e3903e6f63a34e">Neutraer Comitate</rs>
                         <lb/>
-                        <rs type="person" ref="hollerneg-karl" key="hollerneg-karl">Karl Hollerneg</rs>, Senior und
-                        Pfarrer in <rs type="place" subtype="place" ref="#place_ad1c9cd3e7b07e2c364c985f73188054">Modern</rs> [Modra] im <rs type="place" subtype="place" key="komitat-pressburg" ref="#place_ece75294da7f8fdea4ffbf3bdb8f5d9f">Preßburger Comitate</rs>
+                        <rs type="person" ref="#hollerneg-karl">Karl Hollerneg</rs>, Senior und
+                        Pfarrer in <rs type="place" subtype="place" ref="#place_ad1c9cd3e7b07e2c364c985f73188054">Modern</rs> [Modra] im <rs type="place" subtype="place" ref="#place_ece75294da7f8fdea4ffbf3bdb8f5d9f">Preßburger Comitate</rs>
                         <lb/>
-                        <rs type="person" ref="stromszky-samuel" key="stromszky-samuel">Sam[uel] Stromsky</rs>, emer.
-                        Superintendent d. Z. Senior und Pfarrer in <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</rs>
+                        <rs type="person" ref="#stromszky-samuel">Sam[uel] Stromsky</rs>, emer.
+                        Superintendent d. Z. Senior und Pfarrer in <rs type="place" subtype="place" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</rs>
                         <lb/>durch die politischen Behörden die Erklärung
-                        abgehen zu lassen, daß der Befehl <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner
+                        abgehen zu lassen, daß der Befehl <rs type="person" ref="#franz-joseph">Seiner
                             Majestät</rs>, wie er in dem allerhöchsten Handschreiben vom 15.
                         Mai ausgesprochen ist, aufrechterhalten werden, und die Sprengung des §§
                         XVI, 2 des allerhöchsten Patentes vom 1. Sept. vorigen Jahres abgegrenzten
                         Superintendenz nicht geduldet werden würde, sondern alle evangelischen
-                        kirchlichen Vorstände A.C. des so abgegrenzten <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburger</rs> Superintendentialsprengels sich in allen
+                        kirchlichen Vorstände A.C. des so abgegrenzten <rs type="place" subtype="place" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburger</rs> Superintendentialsprengels sich in allen
                         kirchlichen und kirchlich politischen Angelegenheiten nur an mich, als den
                         für diese Superintendenz allerhöchst bestättigten Superintendenten amtlich
                         zu wenden haben, alle ihre auf einem andern Wege an die k.k. politische
                         Behörde gerichteten Angelegenheiten zurückgewiesen werden würden und alle
-                        kirchlichen Vorstände A.C. in den Comitaten: <rs type="place" subtype="place" key="komitat-pressburg" ref="#place_ece75294da7f8fdea4ffbf3bdb8f5d9f">Preßburg</rs>, <rs type="place" subtype="place" key="komitat-neutra" ref="#place_d856324689e6964c27e3903e6f63a34e">Neutra</rs>, <rs type="place" subtype="place" key="komitat-trentschin" ref="#place_261e1b6ee7653a09ba60a4db29c8a123">Trenschin</rs>, <rs type="place" subtype="place" key="komitat-arwa" ref="#place_2ba80697c410b3115b7ce01183106b48">Arva-Thúrócz</rs>, <rs type="place" subtype="place" key="komitat-liptau" ref="#place_7e94e843694214e6576aabc0a94a5291">Liptau</rs>, <rs type="place" subtype="place" key="komitat-sohl" ref="#place_ee8bff82abac5ff6e3e7912ed45aa215">Sohl</rs>, <rs type="place" subtype="place" key="komitat-bars" ref="#place_af0eceb0f6ff4906a8e0f7cc4bb683c2">Barsch</rs>,
-                            <rs type="place" subtype="place" key="komitat-hont" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs> und <rs type="place" subtype="place" key="komitat-hont" ref="#place_34757f828b3f00c518507eb75bc8f67d">Neográd</rs> unter persönlicher Verantwortung
+                        kirchlichen Vorstände A.C. in den Comitaten: <rs type="place" subtype="place" ref="#place_ece75294da7f8fdea4ffbf3bdb8f5d9f">Preßburg</rs>, <rs type="place" subtype="place" ref="#place_d856324689e6964c27e3903e6f63a34e">Neutra</rs>, <rs type="place" subtype="place" ref="#place_261e1b6ee7653a09ba60a4db29c8a123">Trenschin</rs>, <rs type="place" subtype="place" ref="#place_2ba80697c410b3115b7ce01183106b48">Arva-Thúrócz</rs>, <rs type="place" subtype="place" ref="#place_7e94e843694214e6576aabc0a94a5291">Liptau</rs>, <rs type="place" subtype="place" ref="#place_ee8bff82abac5ff6e3e7912ed45aa215">Sohl</rs>, <rs type="place" subtype="place" ref="#place_af0eceb0f6ff4906a8e0f7cc4bb683c2">Barsch</rs>,
+                            <rs type="place" subtype="place" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs> und <rs type="place" subtype="place" ref="#place_34757f828b3f00c518507eb75bc8f67d">Neográd</rs> unter persönlicher Verantwortung
                         schuldig seien, die von mir an Sie abgehenden Zuschriften anzunehmen und
                         darnach auch zu handeln.<lb/>Euer Excellenz! Diese Verordnung ist
                         schlechterdings nothwendig, wenn das k. Wort, die allerhöchste Bestättigung
-                        meiner Person zum Superintendenten des <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburger</rs> Superintendenzbezirkes vom 16. Juli letzten
+                        meiner Person zum Superintendenten des <rs type="place" subtype="place" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburger</rs> Superintendenzbezirkes vom 16. Juli letzten
                         Jahres und das Majestätsrecht der Aufsicht bei den evangelischen A.C.
                         Kirchengemeinden noch irgendwie Geltung finden und behalten, die kirchliche
                         Leitung aber nicht in eine grenzenlose Verwirrung gerathen, sondern noch

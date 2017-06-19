@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="prokesch-osten-anton" key="prokesch-osten-anton" role="sender:beamter">Anton
-                        Prokesch-Osten</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#prokesch-osten-anton" role="sender:beamter">Anton
+                        Prokesch-Osten</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_ee1611b61f5688e70c12b40684dbb395">Berlin</rs>,
                         <date when="1851-10-03">3. Oktober 1851</date>
@@ -37,8 +37,8 @@
                     </msContents>
                     <physDesc>
                         <p>Beilage: <ref target="#D125_1">
-                                <rs type="person" ref="pelldram-leopold" key="pelldram-leopold">Leopold
-                                    Pelldram</rs> an <rs type="person" ref="prokesch-osten-anton" key="prokesch-osten-anton">Anton Prokesch-Osten</rs>, <rs type="place" subtype="place" ref="#place_ee1611b61f5688e70c12b40684dbb395">Berlin</rs>,
+                                <rs type="person" ref="#pelldram-leopold">Leopold
+                                    Pelldram</rs> an <rs type="person" ref="#prokesch-osten-anton">Anton Prokesch-Osten</rs>, <rs type="place" subtype="place" ref="#place_ee1611b61f5688e70c12b40684dbb395">Berlin</rs>,
                                 2. Oktober 1851.</ref>
                         </p>
                     </physDesc>
@@ -61,9 +61,9 @@
                 </index>
                 <p>Berlin, 3. Oktober 1851</p>
                 <p>Hochgeborner Graf,</p>
-                <p>Der <rs type="person" ref="gruen-dionys" key="gruen-dionys">Überbringer</rs> ist ein österreichischer
+                <p>Der <rs type="person" ref="#gruen-dionys">Überbringer</rs> ist ein österreichischer
                     Unterthan und kürzlich aus dem jüdischen Glauben übergetreten, der mir auf das
-                    Wärmste durch den <rs type="person" ref="pelldram-leopold" key="pelldram-leopold">hiesigen katholischen
+                    Wärmste durch den <rs type="person" ref="#pelldram-leopold">hiesigen katholischen
                         Probst</rs> mündlich und schriftlich als ein sehr braves und
                     unterrichtetes Individuum empfohlen wurde. Es ist derselbe Mann, über den ich
                     vor einigen Monaten zu schreiben die Ehre hatte. Ich lege das eben erhaltene
@@ -74,10 +74,10 @@
                 <div type="enclosure" xml:id="D125_1">
                     <p>Euer Excellenz,</p>
                     <p>wollen es nicht ungnädig aufnehmen, wenn ich Hochdieselben heute durch die
-                        Mittheilung behellige, daß der israelitische Student <rs type="person" ref="gruen-dionys" key="gruen-dionys">Grün</rs> vorigen Montag das heilige Sakrament
+                        Mittheilung behellige, daß der israelitische Student <rs type="person" ref="#gruen-dionys">Grün</rs> vorigen Montag das heilige Sakrament
                         der Taufe mit vieler Rührung empfangen hat und nun in
                             <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> seine Studien zu vollenden gedenkt. Ich
-                        wiederhole das wohlerwogene ergebenste Geständnis, daß Herr <rs type="person" ref="gruen-dionys" key="gruen-dionys">Grün</rs> zu den schönsten Hoffnungen
+                        wiederhole das wohlerwogene ergebenste Geständnis, daß Herr <rs type="person" ref="#gruen-dionys">Grün</rs> zu den schönsten Hoffnungen
                         berechtiget und einst seinem Vaterlande recht nützlich werden wird. Für die
                         nächste Zukunft habe ich dem Mehrgenannten die nöthigen Geldmittel
                         beschafft; aber wenn Euer Excellenz die Gnade haben wollten, demselben ein

@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
-                        <rs type="person" ref="tomek-vaclav-vladivoi" key="tomek-vaclav-vladivoi" role="recipient">Václav Vladivoi
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#tomek-vaclav-vladivoi" role="recipient">Václav Vladivoi
                         Tomek</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1854-05-12">12. Mai [1854] </date>
@@ -54,7 +54,7 @@
                 <p>Wien den 12. Mai</p>
                 <p>Werther Herr Professor!</p>
                 <p>
-                    <rs type="person" ref="helfert-joseph-alexander" key="helfert-joseph-alexander">Helfert</rs> hat mir Ihr
+                    <rs type="person" ref="#helfert-joseph-alexander">Helfert</rs> hat mir Ihr
                     umständliches Schreiben vom 30. v. M. mitgetheilt. Morgen ist der Termin bis zu
                     welchem Sie eine Antwort nöthig haben. So müssen denn heute diese Zeilen
                     abgehen, obgleich ich wieder nicht die nöthige Muse, um ihnen so überlegt zu
@@ -63,7 +63,7 @@
                     einzurücken. Sie bedürfen dazu meiner Erlaubnis nicht; ich will Sie Ihnen aber
                     auch nicht verweigern. Mehr noch. Ich finde den Aufsatz im Herzen sehr gut; ich
                     habe ihn mit wahrer Freude gelesen, ich bin überzeugt, daß er namentlich in
-                        <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> heilsam wirken wird. Ich muß daher
+                        <rs type="place" subtype="region" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> heilsam wirken wird. Ich muß daher
                     wünschen ihn gedruckt zu sehen; in je mehr Sprachen desto besser, gleichwohl
                     wenn ich von meinen Wünschen reden soll, muß ich sagen: ich wünsche nicht, daß
                     er genau so, wie ich ihn gelesen habe, sondern, daß er mit einigen Änderungen
@@ -71,16 +71,16 @@
                     besser werden würde, als er schon ist, 2. weil dadurch einer Problematik
                     vorgebeugt würde, die mir durchaus unerwünscht scheint. Darüber möchte ich mich
                     deutlicher aussprechen.<lb/>Sie haben allerdings Recht, wenn Sie sagen, es gebe
-                    eine Parthei, welche die Einheit und Macht <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> mit der Herrschaft des deutschen Stammes über alle
-                    andere identifiziert und die <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> nur
+                    eine Parthei, welche die Einheit und Macht <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> mit der Herrschaft des deutschen Stammes über alle
+                    andere identifiziert und die <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> nur
                     betrachtet jako velikého Německa. Sie haben so recht, wenn Sie sagen: Nicht wir,
                     sondern jene Leute sind eine nazionale Parthei. – Hingegen ist es eben so wahr,
                     daß dieser nazionalen Parthei andere nazionale Partheien entgegenstehen. Ferner,
-                    daß jene wenigstens, wenn auch auf ihrem Wege, doch <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> erhalten und mächtig wissen will, während die anderen
+                    daß jene wenigstens, wenn auch auf ihrem Wege, doch <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> erhalten und mächtig wissen will, während die anderen
                     bisher zu Tage getretenen nazionalen Partheien nicht gezeigt haben, daß sie das
                     wollen. Wahr ist es endlich, daß diejenigen, die denken wie wir, d. i. die
                     österreichisch und deutsch nicht identifiziert wissen wollen, die ohne nazionale
-                    Vorutheile eben doch <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> mächtig
+                    Vorutheile eben doch <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> mächtig
                     wissen wollen, die das mit voller Aufrichtigkeit wollen, d.i. sodaß sie bereit
                     sind, auch alle dazu nothwendigen Bedingungen zu wollen, noch sehr wenige sind,
                     daß ferner unsere Auffassung der Sache noch ziemlich neu und den wenigsten
@@ -96,7 +96,7 @@
                     über einiges nicht ausspricht und deshalb im Zweifel läßt, ob es nicht deshalb
                     geschehe, weil hinter der Lücke eine unösterreichische Ansicht stand. Es ist mir
                     leider wegen Mangel an Zeit nicht möglich, mich hierüber schriftlich umständlich
-                    auszusprechen, und es will mir scheinen, daß <rs type="person" ref="helfert-joseph-alexander" key="helfert-joseph-alexander">Helfert</rs>, als er es that, meine
+                    auszusprechen, und es will mir scheinen, daß <rs type="person" ref="#helfert-joseph-alexander">Helfert</rs>, als er es that, meine
                     Gedanken dabei nicht ganz aufgefasst hat. Ich sehne mich aber dennoch mit Ihnen
                     darüber zu sprechen, weil ich an einer Verständigung nicht zweifeln kann. Auf
                     diese lege ich aber großen Werth, denn es will mir scheinen, daß es davon
@@ -114,7 +114,7 @@
                     geben und das wäre mir außerordentlich leid, weil es Ihre eigene Haltung
                     gefährden müsste. Mein Wunsch wäre also allerdings, Sie warteten noch mit der
                     Publikation Ihres Aufsatzes, bis wir uns einmal darüber ausgesprochen haben.
-                    Inzwischen würde ich gern – wenn es Ihnen recht ist – <rs type="person" ref="jirecek-josef" key="jirecek-josef">Jirecek</rs> zu unserem Zwischenträger machen. Er
+                    Inzwischen würde ich gern – wenn es Ihnen recht ist – <rs type="person" ref="#jirecek-josef">Jirecek</rs> zu unserem Zwischenträger machen. Er
                     könnte die Briefe, die bereits an Sie in der Sache geschrieben wurden (diesen
                     inclusive), so wie die von Ihnen geschriebenen, studieren, mit mir diskutieren,
                     und Ihre Schreiben nach Umständen mit Ihnen sprechen, bis Sie mich etwa in den

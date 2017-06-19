@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Note von <rs type="person" ref="nadasdy-franz" key="nadasdy-franz" role="sender:beamter">Franz
-                        Nádasdy</rs> an <rs type="person" ref="goluchowski-agenor" key="goluchowski-agenor" role="recipient:beamter">Agenor Goluchowski</rs>
+                <title>Note von <rs type="person" ref="#nadasdy-franz" role="sender:beamter">Franz
+                        Nádasdy</rs> an <rs type="person" ref="#goluchowski-agenor" role="recipient:beamter">Agenor Goluchowski</rs>
                     <lb/>o. O., <date when="1859-11-05">5. November 1859</date>
                 </title>
             </titleStmt>
@@ -82,13 +82,13 @@
                     Grafen von Goluchowski, dtto. 5. November 1859 Z. 17678</p>
                 <p>Mit Bezug auf meine Note betreffend den Stand der Regelung der gerichtlichen
                     Geschäftssprache in <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs>, <rs type="place" subtype="region" ref="#place_c955ee18abbce83f81d36ed3ceccf545">Lodomerien</rs> und
-                    dem <rs type="place" subtype="region" key="krakau" ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Großherzogthume Krakau</rs> beehre ich mich Euer
+                    dem <rs type="place" subtype="region" ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Großherzogthume Krakau</rs> beehre ich mich Euer
                     Excellenz in Nachfolgendem diejenigen Normen mitzutheilen, mit denen die
-                    gerichtliche Geschäftssprache in den Kronländern <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>, der <rs type="place" subtype="region" key="woiwodschaft-serbien-und-temeser-banat" ref="#place_35d1161cc45f7c1d2b14ff99f1d259a3">Wojwodschaft Serbien und dem
-                        Temeser Banate</rs>, dann in <rs type="place" subtype="region" key="kroatien-slawonien" ref="#place_6fe90dd680c4a571ed89e631ef2d48ed">Croatien
-                        und Slavonien</rs> geregelt wurde. <lb/>In <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> erfolgte diese Regelung durch das dortige Civil- und
+                    gerichtliche Geschäftssprache in den Kronländern <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>, der <rs type="place" subtype="region" ref="#place_35d1161cc45f7c1d2b14ff99f1d259a3">Wojwodschaft Serbien und dem
+                        Temeser Banate</rs>, dann in <rs type="place" subtype="region" ref="#place_6fe90dd680c4a571ed89e631ef2d48ed">Croatien
+                        und Slavonien</rs> geregelt wurde. <lb/>In <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> erfolgte diese Regelung durch das dortige Civil- und
                     Militärgouvernement und die bestandene siebenbürgische
-                    Gerichtseinführungscommission, ohne daß ein Einschreiten des <orgName key="ministerium-der-justiz">Justizministeriums</orgName> in dieser
+                    Gerichtseinführungscommission, ohne daß ein Einschreiten des <orgName>Justizministeriums</orgName> in dieser
                     Beziehung nöthig wurde. <lb/>Nachdem nämlich das Gouvernement mit der dem <hi rend="ul">siebenbürgischen</hi> Landesregierungsblatte vom Jahre 1850 sub
                     Nr. 3 eingeschalteten Verordnung vom 28. Februar 1850 für den inneren Dienst der
                     siebenbürgischen k.k. Behörden und deren Korrespondenz die deutsche Sprache als
@@ -108,22 +108,22 @@
                     deutsche Ausfertigung als der Urtext anzusehen. Auch wurde vorgeschrieben, daß
                     diese Bestimmungen nach Thunlichkeit auch in Gegenständen des Strafverfahrens
                     beobachtet werden sollen. <lb/>Die vorstehenden fachgemäßen Bestimmungen haben
-                    nicht nur vom <orgName key="ministerium-der-justiz">Justizministerium</orgName>
+                    nicht nur vom <orgName>Justizministerium</orgName>
                     mit dem Erlaße vom 7. Juli 1852 Z. 8843 die Genehmigung erhalten, sondern wurden
-                    auch vom löblichen <orgName key="ministerium-des-innern">Ministerium des
+                    auch vom löblichen <orgName>Ministerium des
                         Innern</orgName> mit dem Erlaße vom 9. August 1855 Z. 8896 für die
-                    Waisenkommissionen in <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> als
+                    Waisenkommissionen in <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> als
                     Regel vorgeschrieben und es ist bisher die Durchführung dieser Bestimmungen auf
                     gar keine Schwierigkeit gestoßen, noch irgend eine Beschwerde gegen den diesen
-                    Normen entsprechenden Vorgang der Gerichte erhoben worden. <lb/>In der <rs type="place" subtype="region" key="woiwodschaft-serbien-und-temeser-banat" ref="#place_35d1161cc45f7c1d2b14ff99f1d259a3">serbischen <hi rend="ul">Wojwodschaft</hi> und dem Temeser Banate</rs>, wo anfänglich von
+                    Normen entsprechenden Vorgang der Gerichte erhoben worden. <lb/>In der <rs type="place" subtype="region" ref="#place_35d1161cc45f7c1d2b14ff99f1d259a3">serbischen <hi rend="ul">Wojwodschaft</hi> und dem Temeser Banate</rs>, wo anfänglich von
                     den daselbst eingeführten provisorischen Gerichten ohne Rücksicht auf deren
                     Standorte und auf die Nationalität der rechtssuchenden Parteien größtentheils
                     die magyarische Sprache in Anwendung gebracht wurde, sind gegen den Gebrauch
                     dieser Sprache bereits im Jahre 1850 vielfache Beschwerden laut geworden und es
-                    haben sowohl Parteien als Advokaten an das <orgName key="ministerium-der-justiz">Justizministerium</orgName> die Bitte gestellt, den Gebrauch der
+                    haben sowohl Parteien als Advokaten an das <orgName>Justizministerium</orgName> die Bitte gestellt, den Gebrauch der
                     magyarischen Sprache in jenen Bezirken des serbischen Banater
                     Verwaltungsgebiethes, die von Serben und Romanen bewohnt werden, aufzuheben.
-                    <lb/>Das <orgName key="ministerium-der-justiz">Justizministerium</orgName> fand
+                    <lb/>Das <orgName>Justizministerium</orgName> fand
                     sich deshalb bestimmt, mit dem Erlaße vom 29. September 1851 Z. 17307 das
                     Präsidium der serbischen Banater Gerichtseinführungscommission aufzufordern,
                     sich über den Stand der Verhältnisse die volle Überzeugung zu verschaffen,
@@ -142,29 +142,29 @@
                     daß bei den dortigen Landesbehörden die Nationalsprache als Geschäftssprache zu
                     gelten habe, eine höchst einseitige und exclusiv nationale Auffaßung erfuhr, die
                     Regelung der gerichtlichen Geschäftssprache durch eine allerhöchste Anordnung
-                    für nöthig befunden und nachdem das <orgName key="ministerium-der-justiz">Justizministerium</orgName> diesfalls nicht nur das Gutachten des <rs type="person" ref="jelacic-joseph" key="jelacic-joseph">Banus von Croatien</rs> eingeholt, sondern sich
-                    auch mit dem löblichen <orgName key="ministerium-des-innern">k.k. Ministerium
+                    für nöthig befunden und nachdem das <orgName>Justizministerium</orgName> diesfalls nicht nur das Gutachten des <rs type="person" ref="#jelacic-joseph">Banus von Croatien</rs> eingeholt, sondern sich
+                    auch mit dem löblichen <orgName>k.k. Ministerium
                         des Innern</orgName> unterm 9. Jänner 1853 Z. 20802, 31. Jänner 1853 Z. 1779
-                    und 13. Juli 1853 Z. 10648 in das Einvernehmen gesetzt hatte, wurden <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner k.k. Apostolischen Majestät</rs> am 30. Juli
+                    und 13. Juli 1853 Z. 10648 in das Einvernehmen gesetzt hatte, wurden <rs type="person" ref="#franz-joseph">Seiner k.k. Apostolischen Majestät</rs> am 30. Juli
                     1854 Z. 13256 die allerunterthänigsten Anträge wegen Regelung der
-                    Geschäftssprache bei den Gerichten der <rs type="place" subtype="region" key="kroatien-slawonien" ref="#place_6fe90dd680c4a571ed89e631ef2d48ed">Königreiche Kroatien und Slavonien</rs> mit Inbegriff des Kroatischen
+                    Geschäftssprache bei den Gerichten der <rs type="place" subtype="region" ref="#place_6fe90dd680c4a571ed89e631ef2d48ed">Königreiche Kroatien und Slavonien</rs> mit Inbegriff des Kroatischen
                     Küstenlandes vorgelegt, welche mit der dem früheren Minister des Innern,
-                        <rs type="person" ref="bach-alexander" key="bach-alexander">Freiherrn von Bach</rs>, vom <orgName key="ministerium-der-justiz">Justizministerium</orgName> am 29. Oktober 1854
+                        <rs type="person" ref="#bach-alexander">Freiherrn von Bach</rs>, vom <orgName>Justizministerium</orgName> am 29. Oktober 1854
                     Z. 20234 mitgetheilten allerhöchsten Entschließung vom 17. Oktober 1854 die
-                    allerhöchste Erledigung fanden.<lb/>Nachdem <rs type="person" ref="franz-joseph" key="franz-joseph">Seine
+                    allerhöchste Erledigung fanden.<lb/>Nachdem <rs type="person" ref="#franz-joseph">Seine
                         k.k. Apostolische Majestät</rs> zugleich allergnädigst geruhten, daß
-                    auch das <orgName key="ministerium-des-innern">k.k. Ministerium des
-                        Innern</orgName> bezüglich der politischen Behörden in <rs type="place" subtype="region" key="kroatien-slawonien" ref="#place_6fe90dd680c4a571ed89e631ef2d48ed">Kroatien und Slavonien</rs> analoge Verfügungen
-                    erlasse, wurde nach der in dieser Beziehung von Seite des löblichen <orgName key="ministerium-des-innern">k.k. Ministeriums des Innern</orgName> unterm
+                    auch das <orgName>k.k. Ministerium des
+                        Innern</orgName> bezüglich der politischen Behörden in <rs type="place" subtype="region" ref="#place_6fe90dd680c4a571ed89e631ef2d48ed">Kroatien und Slavonien</rs> analoge Verfügungen
+                    erlasse, wurde nach der in dieser Beziehung von Seite des löblichen <orgName>k.k. Ministeriums des Innern</orgName> unterm
                     5. Juni 1855 Z. 5293 erfolgten Eröffnung die die Sprachfrage in diesen
                     Kronländern regelnde allerhöchste Entschließung vom 17. Oktober 1854 dem
-                        <rs type="person" ref="jelacic-joseph" key="jelacic-joseph">Banus von Kroatien</rs> zur
+                        <rs type="person" ref="#jelacic-joseph">Banus von Kroatien</rs> zur
                     Durchführung mitgetheilt und eine Abschrift des diesfälligen
                     Justizministerialerlaßes am 24. September 1855 Z. 11941 dem Minister des Innern,
-                        <rs type="person" ref="bach-alexander" key="bach-alexander">Freiherrn von Bach</rs>, zugesendet.
-                    <lb/>Die Regelung der Sprachfrage in <rs type="place" subtype="region" key="kroatien-slawonien" ref="#place_6fe90dd680c4a571ed89e631ef2d48ed">Kroatien
+                        <rs type="person" ref="#bach-alexander">Freiherrn von Bach</rs>, zugesendet.
+                    <lb/>Die Regelung der Sprachfrage in <rs type="place" subtype="region" ref="#place_6fe90dd680c4a571ed89e631ef2d48ed">Kroatien
                         und Slavonien</rs> hat jedoch ihren Abschluß in so ferne noch nicht
-                    erlangt, als <rs type="person" ref="franz-joseph" key="franz-joseph">Seine k.k. Apostolische
+                    erlangt, als <rs type="person" ref="#franz-joseph">Seine k.k. Apostolische
                         Majestät</rs> mit der allerhöchsten Entschließung vom 17. Oktober 1854
                     zugleich anzuordnen geruhten, daß die allerhöchsten Bestimmungen in Betreff der
                     Sprache des inneren Dienstes der Bezirksämter und Bezirksgerichte, dann des
@@ -172,14 +172,14 @@
                     nach Ablauf von 3 Jahren einer neuen Erörterung zu unterziehen und über das
                     weitere Verfahren allerunterthänigste gutächtliche Vorträge zu erstatten sind.
                     <lb/>Um diesem allerhöchsten Befehle nachkommen zu können, habe ich am 11.
-                    Oktober dieses Jahres Z. 16232 Seine Excellenz den <rs type="person" ref="coronini-cronberg-johann" key="coronini-cronberg-johann">Banus von Croatien</rs> ersucht, die
+                    Oktober dieses Jahres Z. 16232 Seine Excellenz den <rs type="person" ref="#coronini-cronberg-johann">Banus von Croatien</rs> ersucht, die
                     betreffenden allerhöchsten Bestimmungen, sobald es die von ihm gewonnene genaue
                     Kenntnis der Personal- und Lokalverhältnisse möglich machen wird, seiner
                     besonderen Erwägung zu unterziehen und mir sodann seine Wohlmeinung über diesen
                     Gegenstand bekannt zu geben.<lb/>Sobald mir das diesfällige Gutachten des
-                        <rs type="person" ref="coronini-cronberg-johann" key="coronini-cronberg-johann">Banus</rs> zugekommen sein
+                        <rs type="person" ref="#coronini-cronberg-johann">Banus</rs> zugekommen sein
                     wird, werde ich nicht unterlassen, mich hierüber mit Euerer Excellenz in das
-                    Einvernehmen zu setzen, um hiernach <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner k.k.
+                    Einvernehmen zu setzen, um hiernach <rs type="person" ref="#franz-joseph">Seiner k.k.
                         Apostolischen Majestät</rs> die erforderlichen weiteren Anträge
                     allerunterthänigst zu erstatten.</p>
                 <p/>

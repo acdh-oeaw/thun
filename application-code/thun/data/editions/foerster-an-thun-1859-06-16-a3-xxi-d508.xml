@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="foerster-heinrich" key="foerster-heinrich" role="sender:kleriker">Heinrich
-                        Förster</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#foerster-heinrich" role="sender:kleriker">Heinrich
+                        Förster</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs>, <date when="1859-06-16">16. Juni 1859</date>
                 </title>
@@ -72,15 +72,15 @@
                     Andringlichkeit oder als Anmaßung ausgelegt werden wird.<lb/>Ich erlaube mir
                     dieser ergebensten Mittheilung noch folgende aphoristische Anmerkungen
                     beizufügen.<lb/>Durch eine 35jährige kampfreiche Amtsführung habe ich die
-                    kirchlichen Zustände in <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> kennen
-                    gelernt, bin nun auch seit nahezu 6 Jahren Bischof in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</rs> und kann mit gutem Gewissen sagen, daß ich sehr
-                    zufrieden sein würde: wenn die Katholiken in <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs>, wo sie die kleinere Hälfte bilden, die selben Rechte <hi rend="ul">ungeschmählert</hi> besäßen, welche die Protestanten in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</rs> haben, wo sie ein Minimum
+                    kirchlichen Zustände in <rs type="place" subtype="country" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> kennen
+                    gelernt, bin nun auch seit nahezu 6 Jahren Bischof in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</rs> und kann mit gutem Gewissen sagen, daß ich sehr
+                    zufrieden sein würde: wenn die Katholiken in <rs type="place" subtype="country" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs>, wo sie die kleinere Hälfte bilden, die selben Rechte <hi rend="ul">ungeschmählert</hi> besäßen, welche die Protestanten in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</rs> haben, wo sie ein Minimum
                     bilden.<lb/>Auch ist es gewiß, daß die Protestanten den Katholiken gegenüber nie
                     zufrieden gestellt werden können und in dem Grade ihre Ansprüche erhöhen als
                     dieselben Gewähr finden.<lb/>Ferner dürfte man in der Berathung eines
                     protestantischen Oberkirchenrathes in <rs type="place" subtype="place" ref="#place_ee1611b61f5688e70c12b40684dbb395">Berlin</rs> mehr ein
-                    Zeichen der Schwäche und Lamoiranz als des freien Entschlußes seitens <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreichs</rs> sehen.<lb/>Endlich wird dieser Schritt
-                    nicht verborgen bleiben und seine Einwirkung auf die Katholiken <rs type="place" subtype="country" key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</rs> kein günstiger sein.<lb/>Vergeben
+                    Zeichen der Schwäche und Lamoiranz als des freien Entschlußes seitens <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreichs</rs> sehen.<lb/>Endlich wird dieser Schritt
+                    nicht verborgen bleiben und seine Einwirkung auf die Katholiken <rs type="place" subtype="country" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</rs> kein günstiger sein.<lb/>Vergeben
                     mir Hochdieselben meine redlich gemeinte Offenheit und genehmigen Euer Excellenz
                     den erneuerten Ausdruck der größten Verehrung, mit welcher ich verharre</p>
                 <p>Euer Excellenz</p>
@@ -90,11 +90,11 @@
                     <p>In aller Eile theile ich im engsten Vertrauen mit, wie mir heute in
                         zuverläßigster Weise bekannt wird, daß die östreichische Regierung behufs
                         Regulirung der Verhältnisse der Protestanten unseren bekannten Canonisten,
-                        meinen jetzigen Collegen Professor <rs type="person" ref="richter-emil" key="richter-emil">Richter</rs> (er ist jetzt Justitiar in der evangelischen
+                        meinen jetzigen Collegen Professor <rs type="person" ref="#richter-emil">Richter</rs> (er ist jetzt Justitiar in der evangelischen
                         Abtheilung) zu Rathe gezogen hat und daß ein Gutachten desselben sich in den
-                        Händen des <rs type="person" ref="albrecht-erzherzog" key="albrecht-erzherzog">Erzherzogs Albrecht</rs>
+                        Händen des <rs type="person" ref="#albrecht-erzherzog">Erzherzogs Albrecht</rs>
                         befindet, welches sich speziell auf <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> bezieht.
-                            <rs type="person" ref="richter-emil" key="richter-emil">Richter</rs> ist jedenfalls ein
+                            <rs type="person" ref="#richter-emil">Richter</rs> ist jedenfalls ein
                         Ehrenmann und sollte mal ein Protestant hier Rath ertheilen, so ist die auf
                         ihn gefallene Wahl eine gute. Aber er ist doch – wie dies die beiden letzten
                         Ausgaben seines Kirchenrechts<note xml:id="note_2">Vgl. Emil Ludwig Richter,
@@ -113,13 +113,13 @@
                         Blättern, unter denen kaum noch ein katholisches ist, täglich und stündlich
                         repetirt werden, so muß ich um so mehr besorgen, daß man sich dort übereilte
                         – zumal dieselbe Presse kein Maaß findet in dem Lobe der goldenen Lage der
-                        Katholiken in <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs>. Indem möge sein
+                        Katholiken in <rs type="place" subtype="country" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs>. Indem möge sein
                         volles Recht werden, aber nicht dem einen Theile allein, während der andere
-                        in so vielen Theilen <rs type="place" subtype="country" key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</rs> in
+                        in so vielen Theilen <rs type="place" subtype="country" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschlands</rs> in
                         Ketten liegt. Wir kennen die Verhandlungen in
                             <rs type="place" subtype="place" ref="#place_fccb115ce061292b8d421348b5fe9158">Holstein</rs> etc.<lb/>Nur Ihnen, hochwürdigster
                         theuerer Gönner, kann ich diese Notiz geben: denn ich wüßte Niemand, der
-                        sonst in der Lage wäre, in Betreff <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wiens</rs>
+                        sonst in der Lage wäre, in Betreff <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wiens</rs>
                         orientirt zu sein, um etwa Vorsicht empfehlen zu können.</p>
                     <p>Berlin, den 10.6.[18]59</p>
                 </div>

@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="curtius-georg" key="curtius-georg" role="sender:gelehrter">Georg
-                        Curtius</rs> an <rs type="person" ref="bonitz-hermann" key="bonitz-hermann" role="recipient">Hermann Bonitz</rs>
+                    <rs type="person" ref="#curtius-georg" role="sender:gelehrter">Georg
+                        Curtius</rs> an <rs type="person" ref="#bonitz-hermann" role="recipient">Hermann Bonitz</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1853-12-27">27. Dezember 1853</date>
                 </title>
@@ -57,7 +57,7 @@
                     <term>Universität Prag</term>
                     <term>Klassische Philologie</term>
                 </index>
-                <p>Abschrift &lt;eines Briefes des Prof. <rs type="person" ref="curtius-georg" key="curtius-georg">Curtius</rs> an Prof. <rs type="person" ref="bonitz-hermann" key="bonitz-hermann">Bonitz</rs>&gt;<note xml:id="note_1">Hinzufügung mit Bleistift von
+                <p>Abschrift &lt;eines Briefes des Prof. <rs type="person" ref="#curtius-georg">Curtius</rs> an Prof. <rs type="person" ref="#bonitz-hermann">Bonitz</rs>&gt;<note xml:id="note_1">Hinzufügung mit Bleistift von
                         unbekannter Hand [Thun?].</note>
                 </p>
                 <p>Was hat es denn mit den schauerlichen Gerüchten auf sich, welche in Betreff
@@ -69,7 +69,7 @@
                     wenn nicht sehr bald dem servilen Eifer einer Anzahl von Professoren ein Ziel
                     gesetzt wird, welche seit dem bekannten Ministerialerlaß über Disputationen etc.
                     die Studenten ärger als Schulbuben behandeln. Folgende Thatsachen kann ich Ihnen
-                    verbürgen. Unserm Professor <rs type="person" ref="padlesak-johann" key="padlesak-johann">Padlesak</rs>
+                    verbürgen. Unserm Professor <rs type="person" ref="#padlesak-johann">Padlesak</rs>
                     ist seit einem Erlaße, der seinen „Übungen in der Gymnasialpädagogik“ einen für
                     alle Lehramtscandidaten obligatorischen Charakter gibt, dermaßen der Kamm
                     geschwollen, daß er die Studenten zur Verzweiflung treibt. Er läßt in diesem
@@ -83,7 +83,7 @@
                     „Organisationsentwurfe“ hingebracht. Das nennt man Wissenschaft! Auch andere
                     Professoren fangen an, die Studenten wie Schuljungen aufzurufen und zu
                     examiniren, sich kleine elende Pensa von ihnen liefern zu lassen, ja sogar (so
-                    Gubernialrat <rs type="person" ref="schnabel-georg-norbert" key="schnabel-georg-norbert">Schnabel</rs>) sie
+                    Gubernialrat <rs type="person" ref="#schnabel-georg-norbert">Schnabel</rs>) sie
                     Clausurarbeiten anfertigen zu lassen. Wenn man hierin nicht Einhalt thut, so
                     wird sich die Meinung immer allgemeiner verbreiten, die man schon jetzt vielfach
                     äußern hört, daß die Wiedereinführung der alten Prüfungen eine Erleichterung
@@ -95,14 +95,14 @@
                     Anzahl von Professoren, die sich zu solchen Erbärmlichkeiten nicht herbeilassen.
                     Aber das Gift wird immer weiter um sich fressen und schon jetzt hört man Klagen
                     über unziemliches Betragen der Studenten, wovon nie die Rede war, solange man
-                    diese behandelte, wie es sich gebührt. Wie steht es denn bei Ihnen in <rs type="place" subtype="place" key="universitaet-wien" ref="#place_53398431071e55b0f02ed9f554bd1067">Wien</rs>? Zeigt sich dort nicht dasselbe? So
+                    diese behandelte, wie es sich gebührt. Wie steht es denn bei Ihnen in <rs type="place" subtype="place" ref="#place_53398431071e55b0f02ed9f554bd1067">Wien</rs>? Zeigt sich dort nicht dasselbe? So
                     trüb wie jetzt ist mir der Zustand des Unterrichtswesens noch nie erschienen.
                     Mit meinen Zuhörern habe ich Grund zufrieden zu sein; aber was hilft es, wenn im
                     Ganzen die Barbarei hereinbricht, deren entsittlichender Einfluß sich auch denen
                     bemerkbar machen wird, die keine Schuld daran haben! Ich stehe mit dieser
-                    Auffassung nicht allein da, <rs type="person" ref="hoefler-karl-adolf-constantin" key="hoefler-karl-adolf-constantin">Höfler</rs> z. B. theilt sie ganz, und <rs type="person" ref="chambon-eduard" key="chambon-eduard">Chambon</rs>, der mit den besten Hoffnungen herkam, ist schon völlig
-                    umgestimmt. Er wird gewiß, wie <rs type="person" ref="schwanert-hermann" key="schwanert-hermann">Schwanert</rs>, die erste Gelegenheit benützen fortzukommen. Helfen
-                    könnte allein ein entschiedenes und kräftiges Wort von Seiten des <orgName key="ministerium-fuer-kultus-und-unterricht">Ministeriums</orgName>.</p>
+                    Auffassung nicht allein da, <rs type="person" ref="#hoefler-karl-adolf-constantin">Höfler</rs> z. B. theilt sie ganz, und <rs type="person" ref="#chambon-eduard">Chambon</rs>, der mit den besten Hoffnungen herkam, ist schon völlig
+                    umgestimmt. Er wird gewiß, wie <rs type="person" ref="#schwanert-hermann">Schwanert</rs>, die erste Gelegenheit benützen fortzukommen. Helfen
+                    könnte allein ein entschiedenes und kräftiges Wort von Seiten des <orgName>Ministeriums</orgName>.</p>
                 <p>Prag, 27. Dezember 1853</p>
             </div>
         </body>

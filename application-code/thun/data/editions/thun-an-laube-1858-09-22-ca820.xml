@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
-                        <rs type="person" ref="laube-heinrich" key="laube-heinrich" role="recipient">Heinrich
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#laube-heinrich" role="recipient">Heinrich
                         Laube</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1858-09-28">28. September 1858</date>
@@ -48,9 +48,9 @@
                 <p>Eure Hochwohlgeboren!</p>
                 <p>Die auf Allerhöchste Anordnung zu Ehren der Versammlung deutscher Philologen,
                     Schulmänner und Orientalisten stattgefundene Vorstellung der Iphigenia [sic!]
-                    auf Delphi von <rs type="person" ref="halm-friedrich" key="halm-friedrich">Halm</rs> war eine so
+                    auf Delphi von <rs type="person" ref="#halm-friedrich">Halm</rs> war eine so
                     vollendete Kunstleistung, daß die begeisterte Theilnahme der versammelt
-                    gewesenen Zuhörer gewiß weit über die Grenzen <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> hinausgetragen werden wird. Mit Vergnügen spreche ich
+                    gewesenen Zuhörer gewiß weit über die Grenzen <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> hinausgetragen werden wird. Mit Vergnügen spreche ich
                     daher Eurer Hochwohlgeboren meinen aufrichtigsten Dank für die viele und
                     angestrengte Mühewaltung aus, mit der Sie sich um dieses der Versammlung
                     gebotene, glänzende Fest verdient gemacht haben.</p>

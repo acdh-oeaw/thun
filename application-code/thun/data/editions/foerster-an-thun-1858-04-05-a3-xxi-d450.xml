@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="foerster-heinrich" key="foerster-heinrich" role="sender:kleriker">Heinrich
-                        Förster</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#foerster-heinrich" role="sender:kleriker">Heinrich
+                        Förster</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs>, <date when="1858-04-05">5. April 1858</date>
                 </title>
@@ -56,7 +56,7 @@
                     von Neuem meiner gehorsamsten Bitte für einen Mann entgegen gekommen sind, der
                     seines katholischen Glaubens wegen Amt und Brod geopfert und in bittere
                     Verlassenheit gerathen ist. Ich habe den gewesenen Pastor und Schulrektor
-                        <rs type="person" ref="geisler" key="geisler">Geisler</rs> von Euer Excellenz gnädigen
+                        <rs type="person" ref="#geisler">Geisler</rs> von Euer Excellenz gnädigen
                     Absichten in Kenntnis gesetzt und zugleich beauftragt, die weiteren
                     Verhandlungen dieserhalb selbst fortzuführen.<lb/>Was Euer Excellenz
                     Schlußbemerkung über die passive Assistenz der Geistlichen in gemischten Ehen
@@ -66,7 +66,7 @@
                     sehr ungern und darum zugelassen ist, damit die Mischehen, bei welchen die
                     kirchlichen Bedingungen nicht eingegangen werden, wenn sie auch keine erlaubte,
                     doch giltige Ehen – etsi non licita, tamen valida – seien. Da aber ein
-                    besonderes Breve <rs type="person" ref="benedikt-XIV" key="benedikt-XIV">Benedikt des 14.</rs> für
+                    besonderes Breve <rs type="person" ref="#benedikt-XIV">Benedikt des 14.</rs> für
                         <rs type="place" subtype="region" ref="#place_67eb2b8d0aab60ec69666532ff9527c9">Holland</rs> die matrimonia mixta, wenn sie auch nicht licita
                     sind, doch auch dann in jener Provinz für valida erklärt, wenn sie nicht coram
                     parocho propria abgeschlossen sind, und jenes Breve später auch auf die
@@ -84,7 +84,7 @@
                     gestattet ist. Ich werde daher demnächst die Assistentia passiva anordnen und
                     Eurer Excellenz Kenntnis davon geben.<lb/>Auch ist mir heute der neue
                     Studienplan zugegangen, und werde ich mich darüber baldigst mit dem Herrn
-                        <rs type="person" ref="fuerstenberg-friedrich-egon" key="fuerstenberg-friedrich-egon">Fürsterzbischof von
+                        <rs type="person" ref="#fuerstenberg-friedrich-egon">Fürsterzbischof von
                         Olmütz</rs> benehmen.<lb/>Nachdem ich die lästige
                     Staatsanleihungsangelegenheit, die mich gleich bei meinem Bisthumsantritte traf,
                     glücklich abgewickelt, habe ich schon im vorigen Jahre angefangen, zu

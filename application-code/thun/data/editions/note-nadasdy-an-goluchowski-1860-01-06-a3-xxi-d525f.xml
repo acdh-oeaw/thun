@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Note von <rs type="person" ref="nadasdy-franz" key="nadasdy-franz" role="sender:beamter">Franz
-                        Nádasdy</rs> an <rs type="person" ref="goluchowski-agenor" key="goluchowski-agenor" role="recipient:beamter">Agenor Goluchowski</rs>
+                <title>Note von <rs type="person" ref="#nadasdy-franz" role="sender:beamter">Franz
+                        Nádasdy</rs> an <rs type="person" ref="#goluchowski-agenor" role="recipient:beamter">Agenor Goluchowski</rs>
                     <lb/>o. O., <date when="1860-01-06">6. Januar 1860</date>
                 </title>
             </titleStmt>
@@ -82,19 +82,19 @@
                     Geschäftssprache bei den Gerichtsbehörden, namentlich in den östlichen
                     Kronländern der Monarchie, <note xml:id="note_1">Vgl. <ref target="thun/thun-korrespondenz/keine_Briefe/goluchowski-an-nadasdy_1859-12-21_A3-XXI-D525c.xml">Note von Agenor Goluchowski an Franz Nádasdy, 21. Dezember
                         1859</ref>.</note>habe ich einer reiflichen Erwägung unterzogen und mich
-                    auch bereits bestimmt gefunden in Betreff <rs type="place" subtype="region" key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galiziens</rs> angemessene Modificationen der dort geltenden
-                    Bestimmungen über die gerichtliche Geschäftssprache bei <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner k.k. apostolischen Majestät</rs> zu
+                    auch bereits bestimmt gefunden in Betreff <rs type="place" subtype="region" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galiziens</rs> angemessene Modificationen der dort geltenden
+                    Bestimmungen über die gerichtliche Geschäftssprache bei <rs type="person" ref="#franz-joseph">Seiner k.k. apostolischen Majestät</rs> zu
                     beantragen, wie ich Eurer Excellenz mit der Note zur Justizministeriumszahl
                     20732/1859 <note xml:id="note_2">Vgl. <ref target="thun/thun-korrespondenz/keine_Briefe/nadasdy-an-goluchowski_1860-01-05_A3-XXI-D525e.xml">Note von Franz Nádasdy an Agenor Goluchowski, 5. Januar
                         1860</ref>.</note>zu eröffnen die Ehre hatte. <lb/>In Betreff der Kronländer
-                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>, der <rs type="place" subtype="region" key="woiwodschaft-serbien-und-temeser-banat" ref="#place_35d1161cc45f7c1d2b14ff99f1d259a3">serbischen Woiwodschaft und des Temescher Banates</rs> haben Euer
+                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>, der <rs type="place" subtype="region" ref="#place_35d1161cc45f7c1d2b14ff99f1d259a3">serbischen Woiwodschaft und des Temescher Banates</rs> haben Euer
                     Excellenz vorläufig noch die Sammlung der nöthigen Daten anzuordnen befunden um
                     mir in Bezug auf die Feststellung der Landessprachen in diesen Kronländern die
                     erleuchteten Ansichten mit vollster Beruhigung und möglichster Bestimmtheit
                     mittheilen zu können. Indem ich mir erlaube, diese von Eurer Excellenz
                     getroffene Maßregel in Bezug auf <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> in einer
                     abgesonderten Note zu besprechen <note xml:id="note_3">Vgl. <ref target="thun/thun-korrespondenz/keine_Briefe/nadasdy-an-goluchowski_1860-01-05_A3-XXI-D525d.xml">Note von Franz Nádasdy an Agenor Goluchowski, 5. Januar
-                        1860</ref>.</note>, daß sich Euer Excellenz in Bezug auf <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>, die <rs type="place" subtype="region" key="woiwodschaft-serbien-und-temeser-banat" ref="#place_35d1161cc45f7c1d2b14ff99f1d259a3">serbische Woiwodschaft und das
+                        1860</ref>.</note>, daß sich Euer Excellenz in Bezug auf <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>, die <rs type="place" subtype="region" ref="#place_35d1161cc45f7c1d2b14ff99f1d259a3">serbische Woiwodschaft und das
                         Temescher Banat</rs> zu einer gleichen Maßregel veranlaßt gefunden
                     haben. <lb/>In diesen beiden Kronländern wurde die Sprachfrage bereits in den
                     Jahren 1850 bis 1852 von den politischen und gerichtlichen über die Verhältnisse
@@ -104,7 +104,7 @@
                     Verlegenheiten bereitet, den Anforderungen der den verschiedenen Nationalitäten
                     angehörigen Bevölkerungen aber schließlich doch nicht vollständig entsprochen
                     werden könnte. <lb/>In diesen beiden Kronländern sind nämlich, mit etwaiger
-                    Ausnahme des ehemaligen Siebenbürger <rs type="place" subtype="region" key="szeklerland" ref="#place_67da62b6c19004082b6c987162d5c7d3">Szeklerlandes</rs>, die Bevölkerungen der verschiedenen Nationalitäten
+                    Ausnahme des ehemaligen Siebenbürger <rs type="place" subtype="region" ref="#place_67da62b6c19004082b6c987162d5c7d3">Szeklerlandes</rs>, die Bevölkerungen der verschiedenen Nationalitäten
                     nicht nur in den einzelnen Landestheilen abgegränzt, sondern sie wohnen nicht in
                     den einzelnen Bezirken, sondern auch in den meisten Orten vermischt neben
                     einander. <lb/>Die in diesen Kronländern üblichen verschiedenen Sprachen sind
@@ -128,13 +128,13 @@
                         1859</ref>.</note>diese Lösung nicht nur auf praktische Weise, sondern auch
                     zur Befriedigung des größten Theils der Bevölkerung dieser beiden Kronländer
                     erfolgt ist. <lb/>Ich bin selbst mit den Verhältnissen in diesen beiden
-                    Kronländern sehr genau bekannt, habe insbesondere in <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> durch mehrere Jahre Ämter bekleidet und war in der
+                    Kronländern sehr genau bekannt, habe insbesondere in <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> durch mehrere Jahre Ämter bekleidet und war in der
                     Lage den Eindruck wahrzunehmen, den die die Sprachfrage regelnden Bestimmungen
                     in diesen Ländern bei der Bevölkerung hervorriefen. <lb/>Nach den von mir
                     gemachten Wahrnehmungen wurde allenwärts in wichtiger Würdigung der Verhältnisse
                     eingesehen, daß es unmöglich sey, die Sprachfrage in den benannten Kronländern
                     entsprechend auf andere als die bereits erfolgte Weise zu lösen und weder
-                    während meiner Dienstleistung in <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> noch auch in meiner jetzigen Stellung sind mir
+                    während meiner Dienstleistung in <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> noch auch in meiner jetzigen Stellung sind mir
                     Beschwerden über den Vorgang der Gerichte in sprachlicher Beziehung vorgekommen,
                     obwohl ich diesfalls bei wiederholten Gelegenheiten und bei Personen der
                     verschiedensten Nationalitäten und Volksklassen die eindringlichsten
@@ -151,7 +151,7 @@
                     Anordnung den jetzt für die beiden Kronländer bestehenden Bestimmungen über die
                     Geschäftssprache nur Nachtheil bringen würde, kann ich meinerseits zu einer
                     solchen Anordnung deshalb nicht die Hand biethen, weil, wie Eurer Excellenz
-                    bekannt ist, <rs type="person" ref="franz-joseph" key="franz-joseph">Seine k.k. apostolische
+                    bekannt ist, <rs type="person" ref="#franz-joseph">Seine k.k. apostolische
                         Majestät</rs> in den Ministerconferenzen vom 30. und 31. Oktober, dann
                     vom 3. November vorigen Jahres allergnädigst darauf hinzudeuten sich bestimmt
                     gefunden haben, daß bei der Wahl der Sprachen das praktische Bedürfnis zu
@@ -161,16 +161,16 @@
                     als Entscheidungen über ein Prinzip, sondern blos als von Fall zu Fall erlassene
                     Verordnungen hinausgegeben werden sollen. Wenn ich nun auch voraussetze, daß die
                     von Euer Excellenz an die Statthaltereien in <rs type="place" subtype="place" ref="#place_f0cb899d2f50889980d12f59807d7ae0">Hermannstadt</rs>
-                    und <rs type="place" subtype="place" key="temeswar" ref="#place_3b202c11c9eb9f8d289acdb678dbc975">Temesvar</rs> wegen Vorlegung der die
+                    und <rs type="place" subtype="place" ref="#place_3b202c11c9eb9f8d289acdb678dbc975">Temesvar</rs> wegen Vorlegung der die
                     Sprachfrage betreffenden Daten erlassenen Weisungen nicht allgemein bekannt und
                     somit hiedurch keine wie immer geartete Aufregung bei den verschiedenen
                     Nationalitäten dieser Länder veranlaßt werden wird, so glaube ich doch meine
                     unmaßgebliche Meinung dahin aussprechen zu müssen, daß es angemessener sein
                     dürfte, weitere Erhebungen in dieser Angelegenheit besonders durch
                     untergeordnete Behörden zu unterlassen, zumal es nach den oben angegebenen
-                    Weisungen <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner k.k. apostolischen
+                    Weisungen <rs type="person" ref="#franz-joseph">Seiner k.k. apostolischen
                         Majestät</rs> füglich keinem Zweifel unterliegen kann, daß an den in
-                        <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>, der <rs type="place" subtype="region" key="woiwodschaft-serbien-und-temeser-banat" ref="#place_35d1161cc45f7c1d2b14ff99f1d259a3">serbischen Woiwodschaft und dem
+                        <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>, der <rs type="place" subtype="region" ref="#place_35d1161cc45f7c1d2b14ff99f1d259a3">serbischen Woiwodschaft und dem
                         Temescher Banate</rs> gegenwärtig geltenden Bestimmungen über die
                     Geschäftssprache keine wesentliche Änderung vorgenommen werden soll.</p>
                 <p/>

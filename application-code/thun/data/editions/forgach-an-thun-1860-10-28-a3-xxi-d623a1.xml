@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="forgach-anton" key="forgach-anton" role="sender:beamter">Anton Forgách</rs>
-                    an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                    <rs type="person" ref="#forgach-anton" role="sender:beamter">Anton Forgách</rs>
+                    an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_e33aa4ba5c56cc07714ea6d6520cf548">Brünn</rs>, <date when="1860-10-28">28. Oktober 1860</date>
@@ -52,14 +52,14 @@
                     <term>Entlassung Thuns</term>
                 </index>
                 <p>Hochgeborner Graf!</p>
-                <p>Die geistige Ausbildung des Volkes im Markgrafthum <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> hat in der jüngsten Zeit mächtige Fortschritte gemacht –
+                <p>Die geistige Ausbildung des Volkes im Markgrafthum <rs type="place" subtype="region" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> hat in der jüngsten Zeit mächtige Fortschritte gemacht –
                     bis in die entfernteste Hütte des ärmsten Landbewohners dringt das Licht des
                     verbesserten Volksunterrichts – die großartigen Unterrichts- und Lehranstalten,
                     die zahllosen Volksschulen, die die große Monarchie nun aufzuweisen vermag, sind
                     die Werke Euerer Excellenz und des Ministeriums von dessen Leitung Euere
                     Excellenz nun zurücktreten.<lb/>Euere Excellenz haben den für die geistige und
                     materielle Wohlfahrt des Landes so wichtigen Angelegenheiten des Cultus und
-                    Unterrichtes in <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> stets so viel fördernde
+                    Unterrichtes in <rs type="place" subtype="region" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> stets so viel fördernde
                     Sorgfalt und dem Wirken der k.k. Statthalterei in diesen Zweigen eine so
                     wohlwollende und kräftige Unterstützung angedeihen lassen, daß ich nur dem
                     Gebote der Pflicht gehorche, indem ich mir erlaube, Hochdenselben hiefür im

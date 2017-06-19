@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="faller-clemens" key="faller-clemens" role="sender:kleriker">Clemens
-                        Faller</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#faller-clemens" role="sender:kleriker">Clemens
+                        Faller</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_fef029496b06aa0f5a4468390461f12c">Feldkirch</rs>, <date when="1859-01-31">31. Januar 1859</date>
                 </title>
@@ -47,8 +47,8 @@
                     <term>Gesellschaft Jesu</term>
                 </index>
                 <p>Euer Excellenz!</p>
-                <p>Mit Freude habe ich den mir zugesandten Brief schleunigst an Pater <rs type="person" ref="deharbe-joseph" key="deharbe-joseph">Joseph Deharbe</rs> gelangen lassen. Pater
-                        <rs type="person" ref="deharbe-joseph" key="deharbe-joseph">Deharbe</rs> wird nicht säumen auf das
+                <p>Mit Freude habe ich den mir zugesandten Brief schleunigst an Pater <rs type="person" ref="#deharbe-joseph">Joseph Deharbe</rs> gelangen lassen. Pater
+                        <rs type="person" ref="#deharbe-joseph">Deharbe</rs> wird nicht säumen auf das
                     Schreiben nach Verlangen Euer Excellenz zu antworten. Sein gegenwärtiger
                     Aufenthalt ist <rs type="place" subtype="place" ref="#place_2fc01bde301ce78776bfd009c2edc542">Köln</rs>, Breitestraße Nr. 161.<lb/>Euer
                     Excellenz bitte ich bei dieser Gelegenheit mir erlauben zu wollen, ein Wort

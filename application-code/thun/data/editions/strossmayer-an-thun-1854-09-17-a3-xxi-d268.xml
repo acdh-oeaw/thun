@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="strossmayer-joseph" key="strossmayer-joseph" role="sender:kleriker">Joseph
-                        Strossmayer</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#strossmayer-joseph" role="sender:kleriker">Joseph
+                        Strossmayer</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_6f861448f4b387a81831495aed4acb74">Đakovo</rs>,
                         <date when="1854-09-17">17. September 1854</date>
@@ -50,20 +50,20 @@
                     <term>Personalfragen</term>
                 </index>
                 <p>Euer Excellenz!</p>
-                <p>Ich habe aus den Zeitungen entnommen, daß der <rs type="person" ref="bozanic-bartol" key="bozanic-bartol">Bischof von der Insel Veglia</rs> gestorben sei. Wiewohl ich
+                <p>Ich habe aus den Zeitungen entnommen, daß der <rs type="person" ref="#bozanic-bartol">Bischof von der Insel Veglia</rs> gestorben sei. Wiewohl ich
                     überzeugt bin, daß mehrere sehr würdige Männer zu dieser erledigten
                     Bischofsstelle vorgeschlagen werden, so bin ich doch so frei, die Aufmerksamkeit
                     Eurer Excellenz auf einen Priester zu lenken, der mir zu der besagten hohen
-                    Stelle ganz besonders berufen zu sein scheint. Es ist dies <rs type="person" ref="soics-venzelaus" key="soics-venzelaus">Venceslaus Soics</rs>, Priester der Zenger
+                    Stelle ganz besonders berufen zu sein scheint. Es ist dies <rs type="person" ref="#soics-venzelaus">Venceslaus Soics</rs>, Priester der Zenger
                     Diöcese, Bukaraner Domherr, Abt und zugleich in Bukari Pfarrer, Doctor der
                     Theologie, ein sehr frommer, eifriger, gelehrter und beredter Priester. Er war
-                    gleichzeitig mit mir in dem höheren <orgName key="frintaneum">Bildungsinstitute
+                    gleichzeitig mit mir in dem höheren <orgName>Bildungsinstitute
                         zu St. Augustin</orgName>. Er war einer der ausgezeichnetsten Priester
                     seiner Zeit im Institute und hat in den Annalen der gedachten Anstalt ein
                     überaus lobenswerthes Andenken hinterlassen, wie sich Eure Excellenz sehr leicht
                     überzeugen können aus den Protocollen des Institutes und selbst von den älteren
-                    der Directoren, z.B. von dem gegenwärtigen Bischof von St. Pölten <rs type="person" ref="feigerle-ignaz" key="feigerle-ignaz">Feigerle</rs> und von dem ältesten Direktor
-                        <rs type="person" ref="widmer-bartolomaeus" key="widmer-bartolomaeus">Wiedmer</rs>. Er spricht vollkommen gut italienisch,
+                    der Directoren, z.B. von dem gegenwärtigen Bischof von St. Pölten <rs type="person" ref="#feigerle-ignaz">Feigerle</rs> und von dem ältesten Direktor
+                        <rs type="person" ref="#widmer-bartolomaeus">Wiedmer</rs>. Er spricht vollkommen gut italienisch,
                     deutsch, slavonisch und lateinisch. Ich bitte übrigens recht sehr diesen meinen
                     Schritt entschuldigen zu wollen, der aus dem reinsten Gewissen hervorgeht und
                     aus der Absicht der Kirche und dem Staate zu nützen.<lb/>Genehmigen Eure

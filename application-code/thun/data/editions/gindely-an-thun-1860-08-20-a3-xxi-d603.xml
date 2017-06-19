@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="gindely-anton" key="gindely-anton" role="sender:gelehrter">Anton
-                        Gindely</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#gindely-anton" role="sender:gelehrter">Anton
+                        Gindely</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</rs>, <date when="1860-08-20">20. August 1860</date>
                 </title>
@@ -73,31 +73,31 @@
                     Archiven erleichtert haben.<lb/>In <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs>,
                         <rs type="place" subtype="country" ref="#place_361e734b7e9d674efb5e3ac441e2c149">Belgien</rs> und den <rs type="place" subtype="country" ref="#place_dade05c3eff728442570d04fa82752ba">Niederlanden</rs> war mir
                     der Zutritt zu den Archiven überall gestattet, in <rs type="place" subtype="place" ref="#place_1d4660e0a445b02912a96b0ac4fe036a">Haag</rs>
-                    und in <rs type="place" subtype="place" key="bruessel" ref="#place_7279949b987b1b373468947f87fe6753">Brüssel</rs> konnte ich sogar meine
+                    und in <rs type="place" subtype="place" ref="#place_7279949b987b1b373468947f87fe6753">Brüssel</rs> konnte ich sogar meine
                     Arbeiten an dem Tag vornehmen, wo ich in diesen Städten anlangte. Nur bezüglich
-                        <rs type="place" subtype="country" key="frankreich" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreich’s</rs> bekam ich überall ziemlich
+                        <rs type="place" subtype="country" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreich’s</rs> bekam ich überall ziemlich
                     unerfreuliche Nachrichten und man sagte mir besonders in
                         <rs type="place" subtype="country" ref="#place_361e734b7e9d674efb5e3ac441e2c149">Belgien</rs> voraus, daß es mir unmöglich sein würde, Zutritt
                     zu dem Archiv des Ministeriums der auswärtigen Angelegenheiten in
                         <rs type="place" subtype="place" ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</rs> zu erlangen. Vornehmlich also, um in
                         <rs type="place" subtype="place" ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</rs> allen Schwierigkeiten zu begegnen, wünschte ich
                     die Intercession von Euer Excellenz.<lb/>In <rs type="place" subtype="place" ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</rs> langte
-                    ich nun in der ersten Woche des Monats August an und suchte Herrn <rs type="person" ref="champollion-figeac-jacques-joseph" key="champollion-figeac-jacques-joseph">Champollion</rs>, der für
+                    ich nun in der ersten Woche des Monats August an und suchte Herrn <rs type="person" ref="#champollion-figeac-jacques-joseph">Champollion</rs>, der für
                     seine Forschungen auf dem Gebiete der österreichischen Geschichte das
                     Ritterkreuz des Franz-Josephsordens erhalten hat, auf und erbat mir von ihm die
                     nöthigen Mittheilungen sowohl über die Beschaffenheit der französischen Archive
-                    als über die Wege in dieselben zu gelangen. Herr <rs type="person" ref="champollion-figeac-jacques-joseph" key="champollion-figeac-jacques-joseph">Champollion</rs> kam meinen
+                    als über die Wege in dieselben zu gelangen. Herr <rs type="person" ref="#champollion-figeac-jacques-joseph">Champollion</rs> kam meinen
                     Bitten auf das bereitwilligste nach, machte mich nicht nur mit den Schätzen der
                     kaiserlichen Bibliothek, so weit dies für die nächsten Forschungen nothwendig
                     war, bekannt, sondern führte mich auch zum Direktor des französischen
-                    Staatsarchivs, dem <rs type="person" ref="laborde-leon" key="laborde-leon">Grafen Laborde</rs>, und
+                    Staatsarchivs, dem <rs type="person" ref="#laborde-leon">Grafen Laborde</rs>, und
                     erwirkte mir so durch seine freundliche Vermittlung die Erlaubnis in demselben
                     arbeiten zu dürfen, ohne daß ich durch sonst übliche Formalitäten zu leiden
                     hatte. Immerhin blieb aber auch das schwierigste übrig, noch mußte ich mir
                     nämlich den Zutritt zu jenem Archiv erwirken, welches sich im Ministerium der
                     auswärtigen Angelegenheiten befindet.<lb/>Um auch dahin zu gelangen, wendete ich
                     mich an die hiesige österreichische Gesandtschaft, theilte dem ersten Sekretär
-                    derselben, dem <rs type="person" ref="mulinen-rudolf" key="mulinen-rudolf">Grafen Mulinen</rs>, mein
+                    derselben, dem <rs type="person" ref="#mulinen-rudolf">Grafen Mulinen</rs>, mein
                     Anliegen mit und überreichte ihm mein Empfehlungsscheiben. Gestern erhielt ich
                     nun die Nachricht, daß die nöthigen Schritte bei der französischen Regierung
                     geschehen und daß mir die Erlaubnis zur Benützung des erwähnten Archivs in
@@ -114,14 +114,14 @@
                     meine Broschüre über den Prager Fenstersturz von 1618<note xml:id="note_1">Vgl.
                         Anton Gindely, Der Prager Fenstersturz, 1859.</note> übersetzt sich
                     vorfindet, und welche Übersetzung ich mir zuzusenden erlaubte, falls dieselbe
-                    als Familienerinnerung für Seine Excellenz den Herrn <rs type="person" ref="clam-martinic-heinrich-jaroslav" key="clam-martinic-heinrich-jaroslav">Grafen Martinitz</rs> einigen
-                    Werth haben sollte. Die Übersetzung, von deren Existenz ich erst in <rs type="place" subtype="place" key="bruessel" ref="#place_7279949b987b1b373468947f87fe6753">Brüssel</rs> erfuhr, rührt vom <rs type="person" ref="villermont-antoine" key="villermont-antoine">Grafen Villermont</rs> her, den ich während
-                    meiner Studien in dieser Stadt kennen zu lernen Gelegenheit hatte. <rs type="person" ref="villermont-antoine" key="villermont-antoine">Herr von Villermont</rs>, einer französischen
+                    als Familienerinnerung für Seine Excellenz den Herrn <rs type="person" ref="#clam-martinic-heinrich-jaroslav">Grafen Martinitz</rs> einigen
+                    Werth haben sollte. Die Übersetzung, von deren Existenz ich erst in <rs type="place" subtype="place" ref="#place_7279949b987b1b373468947f87fe6753">Brüssel</rs> erfuhr, rührt vom <rs type="person" ref="#villermont-antoine">Grafen Villermont</rs> her, den ich während
+                    meiner Studien in dieser Stadt kennen zu lernen Gelegenheit hatte. <rs type="person" ref="#villermont-antoine">Herr von Villermont</rs>, einer französischen
                     Familie angehörig, aber in <rs type="place" subtype="country" ref="#place_361e734b7e9d674efb5e3ac441e2c149">Belgien</rs> begütert, ist neben dem
-                        <rs type="person" ref="merode-felix" key="merode-felix">Grafen Merode</rs> einer der Chefs der
+                        <rs type="person" ref="#merode-felix">Grafen Merode</rs> einer der Chefs der
                     Katholiken von <rs type="place" subtype="country" ref="#place_361e734b7e9d674efb5e3ac441e2c149">Belgien</rs> und vertritt seine Sache sowohl in
                     politischer wie in wissenschaftlicher Beziehung. Im vorigen Jahr veröffentlichte
-                    derselbe ein auf Studien im <rs type="place" subtype="place" key="bruessel" ref="#place_7279949b987b1b373468947f87fe6753">Brüsseler</rs>
+                    derselbe ein auf Studien im <rs type="place" subtype="place" ref="#place_7279949b987b1b373468947f87fe6753">Brüsseler</rs>
                     Archiv beruhendes Werk über Tilly, das vor kurzem auch ins Deutsche übersetzt
                         wurde.<note xml:id="note_2">Vgl. Antoine C. Hennequin Villermont, Tilly ou
                         la Guerre de Trente Ans de 1618 a 1632, 2 Bde., Paris 1860. Die deutsche
@@ -132,17 +132,17 @@
                     erhalten haben, so bitte ich es nicht übel zu nehmen, daß es über meine Anregung
                         geschehen.<note xml:id="note_3">Vgl. <ref target="thun/thun-korrespondenz/tetschen/villermont-an-thun_1860-08-08_A3-XXI-D600.xml">Antoine Villermont an Leo Thun. Namur, 8. August 1860.</ref>
                     </note>
-                    Durch <rs type="person" ref="villermont-antoine" key="villermont-antoine">Herrn von Villermonts</rs>
+                    Durch <rs type="person" ref="#villermont-antoine">Herrn von Villermonts</rs>
                     Vermittlung konnte ich mich übrigens auf ziemlich eingehende Weise über die
-                    politischen und Journalverhältnisse <rs type="place" subtype="country" key="belgien" ref="#place_f79ffe9e826a19f9f6a446c90e21c4e3">Belgiens</rs>
+                    politischen und Journalverhältnisse <rs type="place" subtype="country" ref="#place_f79ffe9e826a19f9f6a446c90e21c4e3">Belgiens</rs>
                     orientiren. Die französische Aggression hat daselbst in nicht wenigen Kreisen
                     eine stärkere Hinneigung zu <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs> erzeugt und man
                     klagte deshalb, daß man sich mit uns so wenig in eine Verbindung setzen könne,
                     daß Aufforderung zur politischen Korrespondenz in einem
                         <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs> ganz günstigen Sinne größtentheils
                     unbeantwortet bleiben. Ich hoffe Euer Excellenz später näher berichten zu
-                    können, was ich in dieser Beziehung gethan. Von <rs type="place" subtype="place" key="bruessel" ref="#place_7279949b987b1b373468947f87fe6753">Brüssel</rs> wurde ich nach <rs type="place" subtype="place" ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</rs> an den
-                        <rs type="person" ref="montalembert-charles" key="montalembert-charles">Grafen Montalembert</rs>
+                    können, was ich in dieser Beziehung gethan. Von <rs type="place" subtype="place" ref="#place_7279949b987b1b373468947f87fe6753">Brüssel</rs> wurde ich nach <rs type="place" subtype="place" ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</rs> an den
+                        <rs type="person" ref="#montalembert-charles">Grafen Montalembert</rs>
                     empfohlen, da ich jedoch noch zu sehr mit mancherlei Schwierigkeiten zu kämpfen
                     habe, um mit Muße allen meinen Studien hier obzuliegen, so konnte ich von dieser
                     Empfehlung noch nicht Gebrauch machen. Ich werde es jedoch auch hier nicht
@@ -152,9 +152,9 @@
                     meiner Rückkehr durch den Druck veröffentlichen. Durch die höchst bedeutenden
                     Resultate meiner Forschungen in <rs type="place" subtype="place" ref="#place_38a7ae324d9de053a6c2fa6013f9ddb9">Bernburg</rs> ward ich
                     veranlaßt, meine Studien etwas auszudehnen und nach diesem erweiterten Plan in
-                        <rs type="place" subtype="place" key="bruessel" ref="#place_7279949b987b1b373468947f87fe6753">Brüssel</rs>, <rs type="place" subtype="place" ref="#place_1d4660e0a445b02912a96b0ac4fe036a">Haag</rs>
+                        <rs type="place" subtype="place" ref="#place_7279949b987b1b373468947f87fe6753">Brüssel</rs>, <rs type="place" subtype="place" ref="#place_1d4660e0a445b02912a96b0ac4fe036a">Haag</rs>
                     und <rs type="place" subtype="place" ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</rs> zu studieren. Obwohl ich nun deshalb noch
-                        <rs type="place" subtype="place" key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs>, <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>
+                        <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs>, <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>
                     und <rs type="place" subtype="place" ref="#place_19ed5f8ceab486afbee6b3ba5c88884d">Dresden</rs> wieder aufsuchen muß, so werde ich doch bei
                     Tag und Stunde mit dem letzten September 1861 fertig, denn ich sah mich durch
                     keine widrigen Zwischenfälle bisher veranlaßt, irgend eine Zeit meinen Arbeiten
@@ -169,12 +169,12 @@
                     Entschluß gefaßt, meine Aufmerksamkeit auch einer Frage zu widmen, deren Lösung
                     sei es hier, sei es in <rs type="place" subtype="country" ref="#place_5ea5f4002712b1a9a4e292d3c83736b9">Spanien</rs> gelingen kann. Ich gehe
                     nämlich über das nächste Ziel meiner Studien hinaus und forsche in den Papieren
-                    des französischen Gesandten <rs type="person" ref="feuquieres-isaac" key="feuquieres-isaac">Feuquieres</rs> nach, was sich daselbst über <rs type="person" ref="wallenstein-albrecht" key="wallenstein-albrecht">Wallenstein</rs> und dessen Ende befindet.
+                    des französischen Gesandten <rs type="person" ref="#feuquieres-isaac">Feuquieres</rs> nach, was sich daselbst über <rs type="person" ref="#wallenstein-albrecht">Wallenstein</rs> und dessen Ende befindet.
                     Es ist nicht wahrscheinlich, daß ich etwas Entscheidendes darin finde, weil
                     diese Papiere von einem oder dem anderen französischen Gelehrten durchforscht
                     worden sein mögen, der wohl nicht versäumt hätte, entscheidende Schriftstücke zu
                     veröffentlichen. Größere Hoffnungen setze ich eben auf
-                        <rs type="place" subtype="country" ref="#place_5ea5f4002712b1a9a4e292d3c83736b9">Spanien</rs>. Der <rs type="person" ref="guevara-inigo-velez" key="guevara-inigo-velez">spanische Gesandte</rs> in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, stets auf das
+                        <rs type="place" subtype="country" ref="#place_5ea5f4002712b1a9a4e292d3c83736b9">Spanien</rs>. Der <rs type="person" ref="#guevara-inigo-velez">spanische Gesandte</rs> in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, stets auf das
                     genaueste von allen nöthigen Ereignissen in <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs>
                     unterrichtet, referirte gewiß über alle Ursache und Umstände der
                     Wallensteinischen Katastrophe und in dieser Beziehung ist das Archiv von
@@ -198,7 +198,7 @@
                     Dezember bleiben zu müssen, in <rs type="place" subtype="country" ref="#place_5ea5f4002712b1a9a4e292d3c83736b9">Spanien</rs> dürfte ich wohl bis
                     zum März oder April 1861 verbleiben, einen Monat verwende ich auf
                         <rs type="place" subtype="place" ref="#place_42dc29389d6318f0fe5b21396ce73b22">Turin</rs> und den Rest widme ich der ergänzenden
-                    Durchforschung der Archive von <rs type="place" subtype="place" key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs>,
+                    Durchforschung der Archive von <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs>,
                         <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> und
                     <rs type="place" subtype="place" ref="#place_19ed5f8ceab486afbee6b3ba5c88884d">Dresden</rs>.<lb/>Genehmigen Euer Excellenz den Ausdruck
                     ausgezeichneter Hochachtung, mit der ich verbleibe dero</p>

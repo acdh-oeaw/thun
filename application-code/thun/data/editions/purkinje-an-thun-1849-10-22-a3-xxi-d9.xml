@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="purkinje-johann" key="purkinje-johann" role="sender:gelehrter">Johann
-                        Purkinje</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#purkinje-johann" role="sender:gelehrter">Johann
+                        Purkinje</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs>, <date when="1849-10-22">22. Oktober 1849</date>
                 </title>
@@ -68,10 +68,10 @@
                 <p>Hochgeborner Herr Graf!</p>
                 <p>Hochgebietender Herr Minister!</p>
                 <p>Eure Excellenz!</p>
-                <p>Es ist mir zu Anfang dieses Monats durch <rs type="person" ref="hamernik-josef" key="hamernik-josef">Dr.
+                <p>Es ist mir zu Anfang dieses Monats durch <rs type="person" ref="#hamernik-josef">Dr.
                         D’Hamerník</rs> in <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> die Mittheilung
                     geworden, daß der Lehrkörper der dortigen medicinischen Facultät mich bei Eurer
-                    Excellenz zum Professor der Physiologie an der <orgName key="universitaet-prag">Prager Hochschule</orgName> in Vorschlag gebracht hat, mit der Andeutung
+                    Excellenz zum Professor der Physiologie an der <orgName>Prager Hochschule</orgName> in Vorschlag gebracht hat, mit der Andeutung
                     des Wunsches der dortigen Collegen, daß mit meiner etwaigen Berufung die
                     Errichtung eines physiologischen Instituts in <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>
                     verbunden werde, wobei ich aufgefordert wurde die Gelegenheit zu ergreifen und
@@ -127,10 +127,10 @@
                     Stellung der Physiologie ist durch die neuerliche Stiftung physiologischer
                     Institute eingetreten. Ich darf mir es zum Verdienst anrechnen, daß durch meine
                     Bemühungen das allererste normalmäßig dotirte mit eigenem Gebäude versehene
-                    physiologische Institut hier zu <orgName key="universitaet-breslau">Breslau</orgName> ins Leben getreten ist, was seitdem zu Stiftung mehrerer
+                    physiologische Institut hier zu <orgName>Breslau</orgName> ins Leben getreten ist, was seitdem zu Stiftung mehrerer
                     an verschiedenen Hochschulen die Veranlassung gab.<lb/>Bei meinem hiesigen
                     Eintreffen übernahm ich das Lehrfach der Physiologie von meinem Vorgänger
-                        <rs type="person" ref="bartels-ernst" key="bartels-ernst">Prof. Bartels</rs> als einen meist
+                        <rs type="person" ref="#bartels-ernst">Prof. Bartels</rs> als einen meist
                     discursiven Gegenstand, mit Übergehung aller Anschaulichkeit, höchstens mit
                     bloßen Berufungen auf die Erfahrungen und Experimente anderer, von denen
                     gelegentlich referirt wurde. Es war eine bequeme Lehrkanzel, man konnte mit
@@ -146,7 +146,7 @@
                     physiologisch-propädeutische Erfahrung auch wohl geeignet sei als Grundlage der
                     klinischen therapeutischen und chirurgischen zu dienen. Bei dieser Gesinnung
                     gelang es mir allmählig mit Unterstützung des Universitätskurators, bei der
-                    bekannten Munificenz des damaligen Ministers <rs type="person" ref="altenstein-karl" key="altenstein-karl">von
+                    bekannten Munificenz des damaligen Ministers <rs type="person" ref="#altenstein-karl">von
                         Altenstein</rs>, das hiesige physiologische Institut so weit zu
                     realisiren, daß es alle Organe der materiellen Beziehungen der Wissenschaft und
                     die keiner weiteren Entwicklung in sich enthält und auch eine nach Außen
@@ -154,7 +154,7 @@
                     denken, daß auch hier nicht alle Blüthenträume reiften und daß meine Idee, wie
                     das in der Natur liegt, immer die Wirklichkeit überstreben wird.<lb/>Sollte mir
                     nun das Glück werden durch die großmüthige Vermittlung Euerer Excellenz auf der
-                        <orgName key="universitaet-prag">Hochschule in Prag</orgName> in neue
+                        <orgName>Hochschule in Prag</orgName> in neue
                     Wirksamkeit einzutreten, so liegt es in meiner Existenz und in dem, was die
                     wissenschaftliche Welt von mir erwartet, daß ich in der Organisation des
                     physiologischen Instituts weitere Fortschritte mache. Gerne will ich das hiesige
@@ -230,7 +230,7 @@
                     könnte, müßte ein Haus, möglichst ohne fremde Mitbewohner, gemiethet werden, bis
                     indes anderweitig Rath geschafft würde.<lb/>Eure Excellenz ersehen aus diesen
                     Angaben, wie ein physiologisches Institut in großartiger Weise, wie es die
-                    Culturlage <rs type="place" subtype="place" key="prag" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prags</rs> in <rs type="place" subtype="country" ref="#place_5c4b925bf527c4f8581815a35a10d658">Europa</rs>
+                    Culturlage <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prags</rs> in <rs type="place" subtype="country" ref="#place_5c4b925bf527c4f8581815a35a10d658">Europa</rs>
                     wohl mit sich brächte, errichtet werden müßte. Außerdem gäbe es natürlich
                     mehrere Abstufungen des Preises und des Leistungswerthes physiologischer
                     Institute nach Maßgabe der Mittel, die zu ihrer Realisation verwendet würden und

@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="suchecki-heinrich" key="suchecki-heinrich" role="sender:gelehrter">Heinrich
-                        Suchecki</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#suchecki-heinrich" role="sender:gelehrter">Heinrich
+                        Suchecki</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1860-01-10">10. Januar 1860</date>
                 </title>
@@ -63,9 +63,9 @@
                 </index>
                 <p>Hochgeborner Herr Graf und Excellenz!</p>
                 <p>Meine Lage zwingt mich zu der Taktlosigkeit, auf die gnädigen Andeutungen Eurer
-                    Excellenz Bezug zu nehmen.<lb/>Vor 4 Jahren wurde mir durch die <rs type="place" subtype="place" key="lemberg" ref="#place_3ff694e5c82611cda53341a9bae21735">Lemberger</rs> Statthalterei die Mittheilung gemacht,
+                    Excellenz Bezug zu nehmen.<lb/>Vor 4 Jahren wurde mir durch die <rs type="place" subtype="place" ref="#place_3ff694e5c82611cda53341a9bae21735">Lemberger</rs> Statthalterei die Mittheilung gemacht,
                     Eure Excellenz wollten mich für <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs> in linguistischer
-                    Richtung gnädigst verwenden, wenn ich zuvörderst auf 1–2 Jahre nach <orgName key="universitaet-prag">Prag</orgName> mit 600 fl gehe.<lb/>Vom tiefsten
+                    Richtung gnädigst verwenden, wenn ich zuvörderst auf 1–2 Jahre nach <orgName>Prag</orgName> mit 600 fl gehe.<lb/>Vom tiefsten
                     Dankgefühl durchdrungen, folgte ich der huldvollen Ordre, lese schon <hi rend="ul">3 Jahre</hi> Collegien, von denen auf einen [sic!] Semester ein
                     streng wissenschaftliches im Durchschnitte fallen dürfte, lebe aber bei dem
                     unausreichenden Gehalte in bedrängter Lage mit Familie in der Aussicht auf
@@ -73,12 +73,12 @@
                     Bestimmung.<lb/>Ohne zudringlich sein zu wollen, wagte ich im Jahre 1858 Eurer
                     Excellenz mich persönlich blos <hi rend="ul">in Erinnerung</hi> zu bringen.
                     Seitdem verliefen 15 hoffnungsvolle Monde. Dann legte ich dem Hochgeehrten
-                    Staatssekretär <rs type="person" ref="helfert-joseph-alexander" key="helfert-joseph-alexander">Baron Helfert</rs>
+                    Staatssekretär <rs type="person" ref="#helfert-joseph-alexander">Baron Helfert</rs>
                     auf dessen Geheiß ein Verzeichnis meiner wissenschaftlichen Vorlesungen mit der
                     Bitte vor, Eurer Excellenz meine Tendenz, Diensteifer, Fortschritte im Fach und
                     dabei mißliche Lage schildern zu wollen.<lb/>Um aber in der Zwischenzeit Eurer
                     Excellenz einen bescheidenen Beweis für die <hi rend="ul">Tragweite</hi> meiner
-                    Kenntnisse zu liefern, las ich im verflossenen Sommerhalbjahr das nach <rs type="person" ref="schleicher-august" key="schleicher-august">Schleicher</rs> unbesetzte <hi rend="ul">Sanscrit</hi>
+                    Kenntnisse zu liefern, las ich im verflossenen Sommerhalbjahr das nach <rs type="person" ref="#schleicher-august">Schleicher</rs> unbesetzte <hi rend="ul">Sanscrit</hi>
                     <note xml:id="note_1">Anmerkung Sucheckis am linken Rand:
                         Ordnung der Vorlesungen an der k.k. Universität zu Prag im Sommersemester
                         1859, pag. 23.</note> mit Beziehungen auf das Kirchenslavische und dann
@@ -90,7 +90,7 @@
                     bloßer <hi rend="ul">Kenner</hi> und Nachsprecher der bisherigen fremden
                     Resultate der Sprachwissenschaft bin, sondern im indoeuropäischen und vorzüglich
                     slavischen Gebiete mit <hi rend="ul">selbstthätiger Forschung</hi> arbeite, las
-                    ich in der <orgName key="boehmische-gesellschaft-der-wissenschaften">k.
+                    ich in der <orgName>k.
                         böhmischen Gesellschaft der Wissenschaften</orgName>, als <hi rend="ul">Mitglied</hi> derselben, eine Abhandlung<note xml:id="note_2">Anmerkung
                         Sucheckis am linken Rand: Sitzungsberichte der k. böhmischen Gesellschaft
                         der Wissenschaften in Prag Januar–Juni, pag. 4.</note>
@@ -99,7 +99,7 @@
                     břímĕ), eine von den originellen Wahrnehmungen und Erschlüssen, die meine <hi rend="ul">Materialien zu einer historisch vergleichenden Grammatik der
                         slavischen Sprachen</hi> aufzuweisen hätten. Im Druck kann die Abhandlung
                     erst später erscheinen, da ich jetzt an der polnischen Concursgrammatik für
-                    Gymnasien arbeite.<lb/>Um in <rs type="place" subtype="country" key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschland</rs>
+                    Gymnasien arbeite.<lb/>Um in <rs type="place" subtype="country" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschland</rs>
                     einen Anhaltspunkt für meine Forschungen im Bereiche des <hi rend="ul">Sanscrit
                         und Zend</hi> zu gewinnen, trat ich in Verhältnisse mit der <hi rend="ul">deutschorientalischen Gesellschaft zu <rs type="place" subtype="place" ref="#place_4a887b8a68acf9b04d9d027bddedb06b">Leipzig</rs> und
                             <rs type="place" subtype="place" ref="#place_d72261a58f8777c2da6598d43adbbf2b">Halle</rs>
@@ -152,9 +152,9 @@
                             <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs> findet <hi rend="ul">das umgekehrte
                             Verhältnis</hi> statt.<lb/>Geruhen daher Euer Excellenz bei der
                         huldvollen Erwägung des Bedürfnisses eines <hi rend="ul">wirksameren</hi>
-                        Sprachlehrstuhles in <orgName key="universitaet-krakau">Krakau</orgName>
+                        Sprachlehrstuhles in <orgName>Krakau</orgName>
                         noch doppeltes zu berücksichtigen, einerseits den erfreulichen Umstand, daß
-                        nach der neuesten Verordnung des <rs type="person" ref="bach-alexander" key="bach-alexander">Herrn
+                        nach der neuesten Verordnung des <rs type="person" ref="#bach-alexander">Herrn
                             Ministers des Innern</rs> die galizischen Beamten mit dem Volke
                             <hi rend="ul">in der Landessprache</hi> mündlich und schriftlich zu
                         verkehren haben, andererseits aber die traurige Thatsache, daß im polnischen
@@ -162,7 +162,7 @@
                         alten und Unkenntnis der bessern neuern Theorien nicht blos eine <hi rend="ul">Stagnation</hi>, sondern sogar ein fortschreitendes <hi rend="ul">Verderbnis</hi> allzu sichtbar ist.<lb/>Das Schicksal der
                         polnischen Sprache, welche namhafte literarische und sprachliche Schätze im
                         Slaventhum aufweiset, liegt nun lediglich in der Hand Eurer Excellenz, da
-                        bekanntlich außerhalb <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> nur
+                        bekanntlich außerhalb <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> nur
                         auf ihre Vernichtung abgezielt wird.<lb/>Die heutige wie jede spätere
                         Generation der polnischen Zunge wird den Namen Eurer Excellenz zu verewigen
                         haben in ihrer Culturgeschichte.</p>

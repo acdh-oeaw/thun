@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="schliephake-theodor" key="schliephake-theodor" role="sender:gelehrter">Theodor
-                        Schliephake</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#schliephake-theodor" role="sender:gelehrter">Theodor
+                        Schliephake</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_9974545279455eb03bf50b1b1b4d7fea">Wiesbaden</rs>,
                         <date when="1851-08-12">12. August 1851</date>
@@ -48,7 +48,7 @@
                     <term>Philosophie</term>
                 </index>
                 <p>Excellenz!</p>
-                <p>Indem ich dem gnädigen Willen Ihrer königlichen Hoheit der Frau <rs type="person" ref="pauline-von-wuerttemberg" key="pauline-von-wuerttemberg">Herzogin zu Nassau</rs> nachkomme,
+                <p>Indem ich dem gnädigen Willen Ihrer königlichen Hoheit der Frau <rs type="person" ref="#pauline-von-wuerttemberg">Herzogin zu Nassau</rs> nachkomme,
                     beehre ich mich, einen Aufsatz in Ihre Hände zu legen, dessen Zweck und
                     Bestimmung ich als Euer Excellenz bekannt annehmen darf. Auf den anliegenden
                     Blättern habe ich, außer den verlangten persönlichen Notizen, auch meine

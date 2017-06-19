@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
-                        <rs type="person" ref="exner-franz" key="exner-franz" role="recipient">Franz Exner</rs>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#exner-franz" role="recipient">Franz Exner</rs>
                     <lb/> o. O., <date when="1852-04">o. D. [April 1852]</date>
                     <note xml:id="note_1">Die Datierung in den April 1852 ergibt sich aus dem Inhalt des Briefes: Die
                         von Thun genannte Verlängerung des Urlaubs von Exner erfolgte im April 1852.
@@ -61,7 +61,7 @@
                     des Urlaubes nach Bedürfnis zu erwirken.<lb/>Ich hatte geglaubt, es würde Ihnen
                     vielleicht erwünscht sein, noch einige Zeit in <rs type="place" subtype="country" ref="#place_389962c9dec540ab28d04517e82c3996">Italien</rs> zu
                     bleiben, in welchem Falle ich Ihnen hätte einen amtlichen Auftrage zur Bereisung
-                    des Landes geben können, auch <rs type="person" ref="gaentner" key="gaentner">Gäntner</rs>[?]
+                    des Landes geben können, auch <rs type="person" ref="#gaentner">Gäntner</rs>[?]
                     billiget aber die Ansicht, daß Sie sich der italienischen Sommerhitze entziehen
                     sollen. Ich selbst muß nach <rs type="place" subtype="place" ref="#place_84bb7a44667327c91eade4b980a38a6f">Karlsbad</rs> und werde wohl
                     Anfangs oder Mitte May dahin abreisen und so kann es wohl sein, daß ich noch

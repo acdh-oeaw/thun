@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Note von <rs type="person" ref="nadasdy-franz" key="nadasdy-franz" role="sender:beamter">Franz
-                        Nádasdy</rs> an <rs type="person" ref="goluchowski-agenor" key="goluchowski-agenor" role="recipient:beamter">Agenor Goluchowski</rs>
+                <title>Note von <rs type="person" ref="#nadasdy-franz" role="sender:beamter">Franz
+                        Nádasdy</rs> an <rs type="person" ref="#goluchowski-agenor" role="recipient:beamter">Agenor Goluchowski</rs>
                     <lb/>o. O., <date when="1860-01-05">5. Januar 1860</date>
                 </title>
             </titleStmt>
@@ -89,13 +89,13 @@
                     Bezug auf <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs> im eigenen Wirkungskreise und ohne
                     allerhöchste Ermächtigung, den Gerichten in Bezug auf den Gebrauch der
                     Geschäftssprache dergleichen Weisungen zu ertheilen, wie solche Euer Excellenz
-                    für die politischen Behörden <rs type="place" subtype="region" key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galiziens</rs> zu
+                    für die politischen Behörden <rs type="place" subtype="region" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galiziens</rs> zu
                     erlassen befunden haben, weil die Regelung der gerichtlichen Geschäftssprachen
                     für <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs> bereits durch die Eurer Excellenz mit meiner Note
                     vom 5. November vorigen Jahres Z. 17679 <note xml:id="note_2">Vgl. <ref target="thun/thun-korrespondenz/keine_Briefe/nadasdy-an-goluchowski_1859-11-05_A3-XXI-D525a.xml">Note von Franz Nádasdy an Agenor Goluchowski,  5. November
                         1859</ref>.</note> mitgetheilten allerhöchsten Entschließungen vom 20.
                     Oktober 1852 und 1. Dezember 1857 erfolgt ist, zudem aber die von Eurer
-                    Excellenz für die politischen Behörden <rs type="place" subtype="region" key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galiziens</rs>
+                    Excellenz für die politischen Behörden <rs type="place" subtype="region" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galiziens</rs>
                     erlassenen Weisungen mit diesen allerhöchsten Bestimmungen nicht durchgängig
                     übereinstimmen. <lb/>Indem aber Euer Excellenz zugleich so gütig waren, mir in
                     der geehrten Note vom 19. Dezember vorigen Jahres Z. 12472 <note xml:id="note_3">Vgl. <ref target="thun/thun-korrespondenz/keine_Briefe/goluchowski-an-nadasdy_1859-12-21_A3-XXI-D525c.xml">Note von Agenor Goluchowski an Franz Nádasdy, 21. Dezember
@@ -109,7 +109,7 @@
                     Landessprachen bei Gericht im Allgemeinen einfach bewenden zu lassen. Ich habe
                     mich vielmehr für verpflichtet gehalten, die mir in Betreff der Sprachfrage in
                         <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs> von Eurer Excellenz gütigst gemachten
-                    Mittheilungen zur allerhöchsten Kenntnis <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner
+                    Mittheilungen zur allerhöchsten Kenntnis <rs type="person" ref="#franz-joseph">Seiner
                         k.k. apostolischen Majestät</rs> zu bringen und jene Modifikationen
                     der in Bezug auf die Gerichtssprache in <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs> geltenden
                     Normen zu beantragen, welche mir mit Rücksicht auf die Wahrnehmungen Eurer

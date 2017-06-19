@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="reisach-karl-august" key="reisach-karl-august" role="sender:kleriker">Karl August
-                        Reisach</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#reisach-karl-august" role="sender:kleriker">Karl August
+                        Reisach</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs>, <date when="1859-05-24">24. Mai 1859</date>
                 </title>
@@ -54,13 +54,13 @@
                     <term>Santa Maria dell'Anima</term>
                 </index>
                 <p>Euer Exzellenz!<note xml:id="note_1">Anmerkung Thuns am Briefanfang:
-                            <rs type="person" ref="erhart-vinzenz" key="erhart-vinzenz">Erhart</rs>[?]<lb/>Da darin nicht einmal der Name
+                            <rs type="person" ref="#erhart-vinzenz">Erhart</rs>[?]<lb/>Da darin nicht einmal der Name
                         genannt ist, so ist weitere Weisung von mir zu erwarten. Thun</note>
                 </p>
                 <p>Werden mir erlauben, daß ich als Protector des deutschen Hospitiums St. Maria de
                     Anima mich mit der Bitte an HochSie wende, die Ernennung des neuen Rectors so
                     viel möglich zu beschleunigen. Euer Exzellenz werden wohl von Seiner Eminenz
-                    Herrn Kardinal <rs type="person" ref="rauscher-joseph" key="rauscher-joseph">Rauscher</rs> vernommen
+                    Herrn Kardinal <rs type="person" ref="#rauscher-joseph">Rauscher</rs> vernommen
                     haben, daß ich auf sein Begehren einen Personalvorschlag gemacht habe, bei
                     welchem ich freilich keine Rücksicht auf geborene Östreicher nehmen konnte, weil
                     ich auch nicht die geringste Kenntnis von dem östreichischen Clerus habe. Ich
@@ -81,7 +81,7 @@
                     Grade uneigennütziges und allein das Wohl der ihr anvertrauten Anstalt
                     verfolgendes Wirken mich selbst in meiner bischöflichen Thätigkeit auf’s
                     kräftigste unterstützt hat. Ich bin weit entfernt zu glauben, daß sich in dem so
-                    zahlreichen Clerus von <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oestreich</rs> nicht
+                    zahlreichen Clerus von <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oestreich</rs> nicht
                     Männer finden, welche dieselben Eigenschaften besitzen. Ich kenne sie nicht und
                     werde daher auch keineswegs fordern können, daß man nur auf meinen Wunsch Rücksicht
                     nehme. Einer so erleuchteten Regierung aber, welche gerade bezüglich der Anima
@@ -94,7 +94,7 @@
                     ernennende Rector besitzen muß; ich glaubte sie in der von mir benannten Person
                     vereinigt zu finden und deshalb habe ich dieselbe vorgeschlagen.<lb/>Es drängte
                     mich, Euer Exzellenz mit aller Offenheit den Sachverhalt darzulegen und HochSie zu
-                    versichern, daß ich mit vollkommenem Vertrauen in die Weisheit <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner kaiserlichen Majestät</rs> und seiner
+                    versichern, daß ich mit vollkommenem Vertrauen in die Weisheit <rs type="person" ref="#franz-joseph">Seiner kaiserlichen Majestät</rs> und seiner
                     Rathgeber einer Entscheidung entgegensehe.<lb/>Genehmigen Euer Exzellenz die
                     Versicherung der ausgezeichnetsten Hochachtung, mit der ich die Ehre habe mich
                     zu nennen</p>

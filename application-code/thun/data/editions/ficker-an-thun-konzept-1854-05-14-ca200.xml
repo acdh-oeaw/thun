@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="ficker-julius" key="ficker-julius" role="sender">Julius Ficker</rs> an
-                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                    <rs type="person" ref="#ficker-julius" role="sender">Julius Ficker</rs> an
+                        <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs>, <date when="1854-05-14">14. Mai 1854</date>
@@ -60,17 +60,17 @@
                     zugekommen und indem ich für dieses neue Zeichen des Zutrauens und Wohlwollens
                     Euer Exzellenz meinen aufrichtigsten Dank sage, mag ich nicht verhehlen, daß der
                     Gehalt dieses Schreiben überhaupt, wie insbesondere die gnädige Mittheilung der
-                    Absicht Euer Exzellenz, der Hebung der <orgName key="universitaet-innsbruck">Innsbrucker Hochschule</orgName> Deren besondere Aufmerksamkeit zuwenden zu
+                    Absicht Euer Exzellenz, der Hebung der <orgName>Innsbrucker Hochschule</orgName> Deren besondere Aufmerksamkeit zuwenden zu
                     wollen, mich in meinem Wunsche, meine bisherige Stellung beibehalten zu können,
                     nur bestärken konnte und mich zu nochmaliger reiflicher Überlegung der Sache
                     bestimmen musste.<lb/>Obwohl ich nun nicht verkennen kann, daß für den Fall, daß
-                    ich den erhaltenen Ruf nach <orgName key="universitaet-bonn">Bonn</orgName>
+                    ich den erhaltenen Ruf nach <orgName>Bonn</orgName>
                     annehmen möchte, Euer Exzellenz daran gelegen sein müsste, diesen meinen
                     Entschluß möglichst bald in Erfahrung zu bringen, so hoffe ich doch
                     zuversichtlich, daß Euer Exzellenz es mir nicht übel deuten werden, wenn ich
                     meine entscheidende Beantwortung Deren gnädigen Schreibens noch um einige Tage
                     verschiebe. Ich habe nämlich in der folgenden Woche einen Besuch meiner
-                        <rs type="person" ref="scheffer-boichorst-auguste-amalia" key="scheffer-boichorst-auguste-amalia">Mutter</rs> zu
+                        <rs type="person" ref="#scheffer-boichorst-auguste-amalia">Mutter</rs> zu
                     erwarten und da, wie ich mir bereits in meinem Schreiben vom 1. des Monats<note xml:id="note_2">Vgl. den Brief Julius <ref target="thun/thun-korrespondenz/IfOeG/ficker-an-thun_konzept_1854-05-01_CA195.xml">Ficker an Leo Thun. Innsbruck, 1. Mai 1854</ref>.</note> zu bemerken
                     erlaubte, die Wünsche derselben für mich zwar nicht entscheidend, aber doch
                     vielfach maßgebend sein müssen, so möchte ich diese sich bietende günstige

@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="heufler-von-hohenbuehel-ludwig" key="heufler-von-hohenbuehel-ludwig" role="sender:beamter">Ludwig
-                        Heufler</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#heufler-von-hohenbuehel-ludwig" role="sender:beamter">Ludwig
+                        Heufler</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>[<rs type="place" subtype="place" ref="#place_f0cb899d2f50889980d12f59807d7ae0">Hermannstadt</rs>, <date when="1850-04">April 1850</date>]<note xml:id="note_1">Der Brief ist
                         undatiert. Die Datierung ergibt sich aus einer Notiz Thuns auf dem Brief:
                         erhalten den 29. April 1850.</note>
@@ -84,20 +84,20 @@
                     Ausfluß persönlichen, ich möchte sagen, kindlichen Zutrauens so nehmen werden,
                     wie er gemeint ist, gut und aufrichtig, sine ira et studio.<lb/>Ich habe seit
                     dieser Zeit die Männer der Regierung näher kennengelernt und bin ohne Ausnahme
-                    von ihrer guten Absicht fest überzeugt. <rs type="person" ref="wohlgemuth-ludwig" key="wohlgemuth-ludwig">Baron
+                    von ihrer guten Absicht fest überzeugt. <rs type="person" ref="#wohlgemuth-ludwig">Baron
                         Wohlgemuth</rs> macht den Eindruck eines Ehrenmannes durch und durch
                     und es scheint mir, daß er die Zügel der Regierung nicht nur nominell, sondern
                     wirklich in der Hand habe.<lb/>
-                    <rs type="person" ref="wohlgemuth-ludwig" key="wohlgemuth-ludwig">Baron
+                    <rs type="person" ref="#wohlgemuth-ludwig">Baron
                         Wohlgemuth</rs> hatte mit der Kundmachung der Grundsätze für die
-                    Organisirung des Unterrichtswesens in <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> absichtlich auf meine Ankunft gewartet. Ich schlug
+                    Organisirung des Unterrichtswesens in <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> absichtlich auf meine Ankunft gewartet. Ich schlug
                     vor, dieser Kundmachung eine Zusammentretung mit Vertrauensmännern verschiedener
-                    Confessionen vorausgehen zu lassen, was denn auch geschah, und woran <rs type="person" ref="schaguna-andreas" key="schaguna-andreas">Bischof Schaguna</rs>, der
-                    griechisch-katholische Pfarrer <rs type="person" ref="maniu-nikolaus" key="maniu-nikolaus">Manu</rs>,
-                    der römisch-katholische Pfarrer <rs type="person" ref="schlauf" key="schlauf">Schlauf</rs>, der
-                    evangelische Pfarrer <rs type="person" ref="roth-johann-joseph" key="roth-johann-joseph">Roth</rs>, der
-                    Recktor des evangelischen Gymnasiums <rs type="person" ref="goebbel-johann" key="goebbel-johann">Göbbel</rs>, dann von Seite der Regierung <rs type="person" ref="bach-eduard" key="bach-eduard">Bach</rs>, Secktionsrath <rs type="person" ref="glanz" key="glanz">Glanz</rs> und
-                        <rs type="person" ref="schuller-johann-karl" key="schuller-johann-karl">Prof. Schuller</rs> und ich Theil
+                    Confessionen vorausgehen zu lassen, was denn auch geschah, und woran <rs type="person" ref="#schaguna-andreas">Bischof Schaguna</rs>, der
+                    griechisch-katholische Pfarrer <rs type="person" ref="#maniu-nikolaus">Manu</rs>,
+                    der römisch-katholische Pfarrer <rs type="person" ref="#schlauf">Schlauf</rs>, der
+                    evangelische Pfarrer <rs type="person" ref="#roth-johann-joseph">Roth</rs>, der
+                    Recktor des evangelischen Gymnasiums <rs type="person" ref="#goebbel-johann">Göbbel</rs>, dann von Seite der Regierung <rs type="person" ref="#bach-eduard">Bach</rs>, Secktionsrath <rs type="person" ref="#glanz">Glanz</rs> und
+                        <rs type="person" ref="#schuller-johann-karl">Prof. Schuller</rs> und ich Theil
                     nahmen.<lb/>Diese Grundsätze machten sehr guten Eindruck und zerstreuten die
                     Besorgnisse, welche schon hie und da wegen der bisherigen interimistischen und
                     etwas soldatenhaften Art und Weise, das Unterrichtswesen zu behandeln,
@@ -105,9 +105,9 @@
                     Volksschulen soll in der Muttersprache der Schüler ertheilt werden, wenn nicht
                     die Mischung der Nationalitäten es unmöglich macht. Es wurde bei der Conferenz
                     die Frage aufgeworfen, was denn in einem solchen Ausnahmsfalle zu geschehen
-                    habe. <rs type="person" ref="bach-eduard" key="bach-eduard">Bach</rs> und <rs type="person" ref="schaguna-andreas" key="schaguna-andreas">Schaguna</rs> waren der Ansicht, daß dann die
+                    habe. <rs type="person" ref="#bach-eduard">Bach</rs> und <rs type="person" ref="#schaguna-andreas">Schaguna</rs> waren der Ansicht, daß dann die
                     Mehrheit entscheide und daß dieser Grundsatz dem Paragraphe bei der Publikation
-                    eingeschoben werden soll.<lb/>Ich vertheidigte die Ansicht, daß das <orgName key="ministerium-fuer-kultus-und-unterricht">Ministerium</orgName> gewiß
+                    eingeschoben werden soll.<lb/>Ich vertheidigte die Ansicht, daß das <orgName>Ministerium</orgName> gewiß
                     nicht zufällig hier eine Lücke gelassen, sondern sicher mit Grund diese Frage
                     unbeantwortet gelassen habe. Der Ausdruck die Mehrheit sei unbestimmt, es frage
                     sich dann, ob die Mehrheit der Einwohner oder die Mehrheit der Schulkinder, im
@@ -117,30 +117,30 @@
                     Endlich sei es ja möglich, daß eine Gemeinde, durch besondere Bedürfnisse
                     veranlaßt, gerade die Muttersprache der Minderheit als Unterrichtssprache
                     vorzöge. Überdies wäre es möglich, daß die Schule einer bestimmten Confession
-                    und Nation angehöre, wie dieses in der Regel in <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> der Fall sein wird, daß dieselbe auch von Schülern
+                    und Nation angehöre, wie dieses in der Regel in <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> der Fall sein wird, daß dieselbe auch von Schülern
                     und anderer Confessionen und Nationen besucht würde, und daß diese Fremden die
                     Mehrzahl ausmachten. Es sei also besser, diesen Grundsatz nicht auszusprechen,
                     sondern die Entscheidung den einzelnen Fällen vorzubehalten. Meine Ansicht wurde
-                    von der überwiegenden Mehrheit der Vertrauensmänner angenommen, und <rs type="person" ref="bach-eduard" key="bach-eduard">Bach</rs> entschied sich demnach, die unveränderte
-                    Kundmachung beim <rs type="person" ref="wohlgemuth-ludwig" key="wohlgemuth-ludwig">Gouverneur</rs> zu
+                    von der überwiegenden Mehrheit der Vertrauensmänner angenommen, und <rs type="person" ref="#bach-eduard">Bach</rs> entschied sich demnach, die unveränderte
+                    Kundmachung beim <rs type="person" ref="#wohlgemuth-ludwig">Gouverneur</rs> zu
                     beantragen, was denn auch geschieht. Wäre ich unterlegen, so hätte ich
                     jedenfalls drauf gedrungen, eine Anfrage bei Eurer Exzellenz zu machen, wie ich
                     überhaupt in allen Dingen darauf halten werde, daß alles organische und
                     prinzipielle dem Ministerium vorgelegt werde, damit die Siebenbürger Lob und was
                     hoffentlich nicht geschehen wird, auch den Tadel dem verantwortlichen Minister
-                    zuwenden mögen und keinem anderem.<lb/>Warum <rs type="person" ref="schaguna-andreas" key="schaguna-andreas">Schaguna</rs> für die Einschiebung dieser par [sic!] Wörter war, ist
+                    zuwenden mögen und keinem anderem.<lb/>Warum <rs type="person" ref="#schaguna-andreas">Schaguna</rs> für die Einschiebung dieser par [sic!] Wörter war, ist
                     klar: die Romanen machen die große Mehrzahl der Einwohner aus; sie trachten nach
                     der Herrschaft im Lande, und die Kundmachung jenes Grundsatzes wäre der erste
-                    wichtige und pracktische Schritt dazu gewesen.<lb/>Der <rs type="person" ref="wohlgemuth-ludwig" key="wohlgemuth-ludwig">Gouverneur</rs> war mit diesem Erfolge der
+                    wichtige und pracktische Schritt dazu gewesen.<lb/>Der <rs type="person" ref="#wohlgemuth-ludwig">Gouverneur</rs> war mit diesem Erfolge der
                     Conferenz zufrieden und empfiehlt mir überhaupt auf das dringendste, gegen die
-                    Romanen und ihren Führer <rs type="person" ref="schaguna-andreas" key="schaguna-andreas">Bischof
+                    Romanen und ihren Führer <rs type="person" ref="#schaguna-andreas">Bischof
                         Schaguna</rs> auf der Hut zu sein. Er hält den Grundsatz, daß die
                     Kirche die Volksschulen leite, in Beziehung auf die Griechen für sehr gefährlich
                     und hätte ihn selbst nicht aufgestellt; allein, er sieht ein, daß eine Ausnahme
                     doch nicht gemacht werden könne. Hingegen wird die Controlle des Schulrathes der
                     Regierung und die polizeiliche Aufsicht in Hinsicht auf sie umso strenger geübt
-                    werden müssen.<lb/>Der hiesige griechisch-katholische Pfarrer <rs type="person" ref="maniu-nikolaus" key="maniu-nikolaus">Manu</rs> soll ein heimlicher Anhänger <rs type="person" ref="schaguna-andreas" key="schaguna-andreas">Schagunas</rs> sein; überhaupt ist die Union in
-                        <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> in Gefahr, und die
+                    werden müssen.<lb/>Der hiesige griechisch-katholische Pfarrer <rs type="person" ref="#maniu-nikolaus">Manu</rs> soll ein heimlicher Anhänger <rs type="person" ref="#schaguna-andreas">Schagunas</rs> sein; überhaupt ist die Union in
+                        <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> in Gefahr, und die
                     Einsetzung eines griechisch-katholischen Bischofes in <rs type="place" subtype="place" ref="#place_105e6ec60e9b42d19341ec8bb02ad4a9">Blasendorf
                         [Blaj]</rs>, der sich an Klugheit und Energie mit dem Disunirten
                     messen kann, ist im Interesse der katholischen Kirche von höchster
@@ -157,7 +157,7 @@
                     Glaubensbekenntnisses ist hier über alle Maßen traurig; alle Kräfte sind
                     zersplittert und jede Maßregel ist nur ein Nothnagel. Die siebenbürgischen
                     Landstände haben am Schlusse der Reformation, welche mit der Revolution gegen
-                        <rs type="person" ref="ferdinand-I" key="ferdinand-I">Ferdinand I.</rs> Hand in Hand ging und
+                        <rs type="person" ref="#ferdinand-I">Ferdinand I.</rs> Hand in Hand ging und
                     ein Vehikel derselben war, jede weitere Neuerung in Religionssachen bei
                     Todesstrafe verbothen. Das war von ihnen unlogisch gehandelt, aber man erkennt
                     aus diesem Gesetze, daß die siegreichen Rebellen das Übel der Glaubensspaltung
@@ -167,7 +167,7 @@
                     (mit Ausnahme der Dorfschulen), welche in den Grundzügen als Regel ausgesprochen
                     ist, halte ich nach gewonnener persönlicher Einsicht wirklich für sehr nöthig
                     und auch die Präparandenkurse werden davon nicht ausgenommen sein dürfen. So
-                    hörte ich z. B. einem Vortrage des hiesigen Recktors <rs type="person" ref="mueller-gottfried" key="mueller-gottfried">Müller</rs> über christliche und
+                    hörte ich z. B. einem Vortrage des hiesigen Recktors <rs type="person" ref="#mueller-gottfried">Müller</rs> über christliche und
                     philosophische Moral an die Schullehrerpräparanden evangelischer Nation zu.
                     Seine Methode erklärte er selbst mir nach der Vorlesung folgendermaßen: Er sage
                     den Schülern zuerst, was ihr Dogma enthalte, dann was die Bibel sage, dann was

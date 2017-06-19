@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="serafini-filippo" key="serafini-filippo" role="sender:gelehrter">Filippo
-                        Serafini</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#serafini-filippo" role="sender:gelehrter">Filippo
+                        Serafini</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_934634023c7f7a663fdc994504f14b4a">Siena</rs>, <date when="1857-04-01">1. April 1857</date>
                 </title>
@@ -75,7 +75,7 @@
                 </index>
                 <p>Excellenz!</p>
                 <p>Bevor ich anfange dem schmeichelhaften Auftrage nachzukommen, Euerer Excellenz
-                    über den Zustand der Rechtsstudien an der <orgName key="universitaet-siena">Universität zu Siena</orgName> Bericht zu erstatten, erlaube ich mir den
+                    über den Zustand der Rechtsstudien an der <orgName>Universität zu Siena</orgName> Bericht zu erstatten, erlaube ich mir den
                     tiefsten Dank auszusprechen für die gütige Unterstützung, die mir in den letzten
                     zwei Jahren zu Theil wurde. Liebe zum Studium ging mir nie ab, nachdem ich aber
                     die hohe Gunst Eurer Excellenz zu genießen das Glück habe, kann ich die
@@ -85,45 +85,45 @@
                     meiner Dankbarkeit mit Thaten zu bekräftigen.<lb/>Nun lasse ich die nöthigen
                     Bemerkungen über die toscanischen Schulen nachfolgen:<lb/>I. Was die niederen
                     und mittleren Schulen betrifft, so ist Alles genug charakterisirt, wenn ich
-                    sage, daß das heutige <rs type="place" subtype="region" key="toskana" ref="#place_f5cb53e2c8520238f84e17c24c64e8b0">Toscana</rs> gewiß nichts
-                    Besseres aufzuweisen hat als das vormärzliche <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>, mit dem einzigen Unterschied, daß man hier die
+                    sage, daß das heutige <rs type="place" subtype="region" ref="#place_f5cb53e2c8520238f84e17c24c64e8b0">Toscana</rs> gewiß nichts
+                    Besseres aufzuweisen hat als das vormärzliche <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>, mit dem einzigen Unterschied, daß man hier die
                     italienische Literatur ziemlich betreibt, während die österreichischen Gymnasien
                     vor noch nicht langer Zeit lateinische Schulen im wahren Sinne des Wortes
                     genannt werden konnten.<lb/>II. Die toscanischen Hochschulen waren in den 40ger
                     Jahren allgemein als die besten der Halbinsel anerkannt, und dieser Ruf war
-                    wohlverdient. Daher waren an der <orgName key="universitaet-pisa">Pisaner
+                    wohlverdient. Daher waren an der <orgName>Pisaner
                         Universität</orgName> alljährlich 7 bis 800 inländische Studenten und gegen
-                    200 Ausländer aus der italienischen <rs type="place" subtype="country" ref="#place_7a0be5a1ed9675975e678b517f07573c">Schweiz</rs>, aus <rs type="place" subtype="country" key="korsika" ref="#place_89fd531d6679c960c5bab6d575c11834">Corsica</rs>, <rs type="place" subtype="country" ref="#place_9bbe5cef5dacc0b4666c2a1d1a8b5615">Griechenland</rs> und andern
-                    Orten. Das Jahr [18]48, welches in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> von so wohltäthigen Folgen begleitet war, übte auf
-                        <rs type="place" subtype="region" key="toskana" ref="#place_f5cb53e2c8520238f84e17c24c64e8b0">Toscana</rs> den bedauerlichsten Einfluß. Die
+                    200 Ausländer aus der italienischen <rs type="place" subtype="country" ref="#place_7a0be5a1ed9675975e678b517f07573c">Schweiz</rs>, aus <rs type="place" subtype="country" ref="#place_89fd531d6679c960c5bab6d575c11834">Corsica</rs>, <rs type="place" subtype="country" ref="#place_9bbe5cef5dacc0b4666c2a1d1a8b5615">Griechenland</rs> und andern
+                    Orten. Das Jahr [18]48, welches in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> von so wohltäthigen Folgen begleitet war, übte auf
+                        <rs type="place" subtype="region" ref="#place_f5cb53e2c8520238f84e17c24c64e8b0">Toscana</rs> den bedauerlichsten Einfluß. Die
                     tüchtigsten Professoren (die wohl mitunter auch excentrische Ideen gehabt haben
                     mochten) gingen theils freiwillig, theils gezwungen ins Exil, und die besten
-                    Kräfte <rs type="place" subtype="region" key="toskana" ref="#place_f5cb53e2c8520238f84e17c24c64e8b0">Toscana</rs>’s lehren an den sardinischen
+                    Kräfte <rs type="place" subtype="region" ref="#place_f5cb53e2c8520238f84e17c24c64e8b0">Toscana</rs>’s lehren an den sardinischen
                     Universitäten, und ihre Werke erscheinen in <rs type="place" subtype="region" ref="#place_1469985450437a47ed4a7f33c0d1a621">Piemont</rs>, welches
                     ihnen weder Geburt noch Erziehung gegeben. Aus der letzterschienen [sic!]
-                    Broschüre des berühmten <rs type="person" ref="margarita-solaro-della" key="margarita-solaro-della">Grafen Solaro
-                        della Margarita</rs> ersieht man, daß allein an der <orgName key="universitaet-turin">Turiner Universität</orgName> sieben „fuorusciti“
+                    Broschüre des berühmten <rs type="person" ref="#margarita-solaro-della">Grafen Solaro
+                        della Margarita</rs> ersieht man, daß allein an der <orgName>Turiner Universität</orgName> sieben „fuorusciti“
                     als Professoren angestellt sind, und die neu eingeführten oder jetzt
                     einzuführenden Lehrkanzeln sollen ebenfalls exilirten Toscanern zufallen. Dieser
-                    Zufluß von talentvollen Männern stellt <orgName key="universitaet-turin">Turin</orgName> in wissenschaftlicher Erziehung an die Seite <rs type="place" subtype="place" key="mailand" ref="#place_e30630933146ed8683482de23229fd6a">Mailand’s</rs>, und schon streitet man, ob dieses
+                    Zufluß von talentvollen Männern stellt <orgName>Turin</orgName> in wissenschaftlicher Erziehung an die Seite <rs type="place" subtype="place" ref="#place_e30630933146ed8683482de23229fd6a">Mailand’s</rs>, und schon streitet man, ob dieses
                     letztere oder ersteres das italienische Attica sei. Dieser Zweifel kann nicht
                     lange währen, den Ausschlag muß die neue Studienorganisation geben. Dieß ist der
                     Grund, aus welchem die Ultraliberalen den Aufschwung der österreichischen
                     Literatur fürchten, und jedwelche Lehrfreiheit als ein Unding für das
                     österreichische Italien bezeichnen. Ich kann nicht umhin zu sagen, daß
-                    diejenigen, welche in <orgName key="universitaet-padua">Padova</orgName> und
-                        <orgName key="universitaet-pavia">Pavia</orgName> einen geisttödtenden Zwang
+                    diejenigen, welche in <orgName>Padova</orgName> und
+                        <orgName>Pavia</orgName> einen geisttödtenden Zwang
                     eingeführt wissen möchten, die nämlichen sind, welche in der Rivista
                     contemporanea, in der Rassegna letteraria und in andern wissenschaftlichen
                     Zeitschriften die Lehr- und Lernfreiheit an den sardinischen Hochschulen als das
                     einzige Rettungsmittel begrüßen. So schreibt der berüchtigte sicilianische
-                    Flüchtling <rs type="person" ref="la-farina-giuseppe" key="la-farina-giuseppe">La Farina</rs> in seiner
+                    Flüchtling <rs type="person" ref="#la-farina-giuseppe">La Farina</rs> in seiner
                     critischen Revue: „Das constitutionelle Sardinien sollte sich schämen, dem
                     absolutistischen Kaiserreiche den Vorrang zu lassen. In Österreich herrscht
                     Schulzwang für die Dorfschulen, bei uns (Piemont) ist es den Dorfkindern
                     erlaubt, das Schafhüten der Schule vorzuziehen; in Österreich herrscht einige
                     Freiheit in den höhern Schulen, während unsere Universitäten dem Zwange und der
-                    Pädanterie erliegen.“ Der radicale <rs type="person" ref="la-farina-giuseppe" key="la-farina-giuseppe">La
+                    Pädanterie erliegen.“ Der radicale <rs type="person" ref="#la-farina-giuseppe">La
                         Farina</rs> geht dann zu weit, wenn er meint, daß die Lehr- und
                     Lernfreiheit absolut sein müsse, d.h. bei ihm unter anderem, daß Jedem ohne
                     Ausname erlaubt sein müße Dozent zu sein, ja selbst ohne die nöthigen Studien
@@ -136,26 +136,26 @@
                     gewiß noch größer sein, weil dort die Grundlage fehlt, ich meine nämlich eine
                     gute Einrichtung der Gymnasien.<lb/>Euere Excellenz mögen diese Digression
                     entschuldigen.<lb/>Ich kehre zurück zu den toscanischen Universitäten:<lb/>Ein
-                    großes Übel für <rs type="place" subtype="country" key="toskana" ref="#place_f5cb53e2c8520238f84e17c24c64e8b0">Toscana</rs> war nach Gesagtem die
+                    großes Übel für <rs type="place" subtype="country" ref="#place_f5cb53e2c8520238f84e17c24c64e8b0">Toscana</rs> war nach Gesagtem die
                     Übersiedlung der tüchtigsten Meister nach <rs type="place" subtype="place" ref="#place_42dc29389d6318f0fe5b21396ce73b22">Turin</rs>, ein noch
                     größeres die von Seite der Regierung eingetretene Reaktion. Im Jahre 1840 wurde
                     Alles aufgeboten, um die Studien zur höchsten Blüthe zu bringen. Zehn Jahre
                     darauf sah man in denselben den Grund der traurigen 48ger Ereignisse. Eine
                     Bemerkung kann ich nicht unterdrücken, und die ist folgende: die Revolution trat
                     da am stärksten auf, wo am wenigsten wissenschaftliche Freiheit herrschte; sie
-                    ging nicht von <rs type="place" subtype="country" key="toskana" ref="#place_f5cb53e2c8520238f84e17c24c64e8b0">Toscana</rs> aus, sondern sie wurde
+                    ging nicht von <rs type="place" subtype="country" ref="#place_f5cb53e2c8520238f84e17c24c64e8b0">Toscana</rs> aus, sondern sie wurde
                     importirt und war dort überhaupt nicht so heftig als anderswo. Die Pflege der
                     Wissenschaft hat also die Revolution nicht hervorgerufen, sondern eher
                     zurückgehalten; und wenn überhaupt Geschichte beweisen soll, so möge man die
                     Wienerauftritte ruhigen Auges beobachten und wird darin ganz entgegengesetzte
-                    Motive ersehen. Hier in <rs type="place" subtype="country" key="toskana" ref="#place_f5cb53e2c8520238f84e17c24c64e8b0">Toscana</rs> ist man leider
+                    Motive ersehen. Hier in <rs type="place" subtype="country" ref="#place_f5cb53e2c8520238f84e17c24c64e8b0">Toscana</rs> ist man leider
                     anderer Meinung. Ich kann mich ins Einzelne nicht einlassen. Ein Beispiel möge
-                    genügen: Vor dem Jahre 1851 waren in <rs type="place" subtype="country" key="toskana" ref="#place_f5cb53e2c8520238f84e17c24c64e8b0">Toscana</rs>
-                    zwei vollständige <orgName key="universitaet-pisa">Universitäten zu
-                        Pisa</orgName> und zu <orgName key="universitaet-siena">Siena</orgName>.
+                    genügen: Vor dem Jahre 1851 waren in <rs type="place" subtype="country" ref="#place_f5cb53e2c8520238f84e17c24c64e8b0">Toscana</rs>
+                    zwei vollständige <orgName>Universitäten zu
+                        Pisa</orgName> und zu <orgName>Siena</orgName>.
                     Nach dem 18. Oktober 1851 hat man in Toscana gar keine wahre Universität,
                     sondern zwei Hälften einer höhern Schulanstalt. Ich hielt die Universität für
-                    etwas Untheilbares, in <rs type="place" subtype="country" key="toskana" ref="#place_f5cb53e2c8520238f84e17c24c64e8b0">Toscana</rs> wurde ich eines
+                    etwas Untheilbares, in <rs type="place" subtype="country" ref="#place_f5cb53e2c8520238f84e17c24c64e8b0">Toscana</rs> wurde ich eines
                     Bessern belehrt.<lb/>Zu <rs type="place" subtype="place" ref="#place_322db3095458956cc0d273d05531d993">Pisa</rs> sind 3 Fakultäten nämlich:
                     die medicinische, die philosophische und die mathematische; in
                         <rs type="place" subtype="place" ref="#place_934634023c7f7a663fdc994504f14b4a">Siena</rs> sind 2 andere, d.h. die theologische und die
@@ -174,18 +174,18 @@
                     würde. Die Thatsache widerlegt die Erwartung. Was die Professoren betrifft, so
                     kann ich mich glücklich schätzen, ihre wertheste Bekanntschaft gemacht zu haben.
                     Diese sind größtentheils ausgezeichnete Lehrer, nur fehlt ihnen der gehörige
-                    Eifer. Einer der gefeiertsten Professoren (Herr <rs type="person" ref="conticini-pietro" key="conticini-pietro">Conticini</rs>) sagte mir, daß er die glückliche Stunde erwarte, die
+                    Eifer. Einer der gefeiertsten Professoren (Herr <rs type="person" ref="#conticini-pietro">Conticini</rs>) sagte mir, daß er die glückliche Stunde erwarte, die
                     ihm Ruhe bringen wird. Ich hatte kaum geglaubt, daß ein Universitätsprofessor so
                     reden könnte; was macht aber nicht Alles der organisirte Zwang? Der Professor
                     ist hier eigentlich kein Professor, er ist ein bloßes Werkzeug, er ist so zu
                     sagen eine organische Maschine.<lb/>Ein Fach wird aber vorzugsweise gepflegt,
                     und da ich selbes zu meinem Hauptgegenstande gewählt habe, so werde ich weiter
                     unten etwas Näheres darüber sagen, <hi rend="ul">um so mehr, als ich fürchte,
-                        daß dasselbe in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> zu wenig
+                        daß dasselbe in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> zu wenig
                         berücksichtigt werde</hi>.<lb/>Diesen allgemeinen Bemerkungen reihe ich
                     besondere an:<lb/>III. Mit Ausnahme derjenigen, die sich dem Notariate oder den
                     administrativen Branchen widmen, für welche nämlich ein dreijähriger Cursus
-                    vorgeschrieben ist, muß jeder Jurist fünf volle Jahre an der <orgName key="universitaet-siena">Universität zu Siena</orgName> studiren und nach
+                    vorgeschrieben ist, muß jeder Jurist fünf volle Jahre an der <orgName>Universität zu Siena</orgName> studiren und nach
                     erlangter Doktorswürde andere fünf volle Jahre in <rs type="place" subtype="place" ref="#place_241030ffac0efb4f7cb1f0bbee3cba66">Florenz</rs>
                     praktiziren, um für die Advocatur oder ein höheres Amt befähigt zu sein. Für
                     jedes Schuljahr sind bestimmte Fächer vorgeschrieben, und es werden auch nur
@@ -218,12 +218,12 @@
                     oft von Studenten besucht; und zwar fand ich sie in Studien beschäftigt, die an
                     der Toscaner Universität keine Aufnahme finden, ich meine Geschichte und
                     Literatur. Es war mir nicht schwer den Schluß daraus zu ziehen, daß der Zwang
-                    auch für italienische Naturen nicht paßt. Das gilt auch für die in <rs type="place" subtype="country" key="toskana" ref="#place_f5cb53e2c8520238f84e17c24c64e8b0">Toscana</rs> vorgeschriebenen Examinatorien. Diese sind
+                    auch für italienische Naturen nicht paßt. Das gilt auch für die in <rs type="place" subtype="country" ref="#place_f5cb53e2c8520238f84e17c24c64e8b0">Toscana</rs> vorgeschriebenen Examinatorien. Diese sind
                     an und für sich ganz empfehlenswerth, und ich selbst würde sie als Dozent in
                     Anwendung bringen, nur müßten sie seltener und dem freien Ermessen der
                     Professoren und der Zuhörer überlassen sein, wie es auch in
                         <rs type="place" subtype="country" ref="#place_29a93c0139fd45a35375f2ded98bb90b">Preußen</rs> ist. Die Ämulation wirkt gewiß viel besser als
-                    der in <rs type="place" subtype="country" key="toskana" ref="#place_f5cb53e2c8520238f84e17c24c64e8b0">Toscana</rs> herrschende Zwang. Dieser macht
+                    der in <rs type="place" subtype="country" ref="#place_f5cb53e2c8520238f84e17c24c64e8b0">Toscana</rs> herrschende Zwang. Dieser macht
                     es, daß man im Professor keinen Freund, sondern einen Unterdrücker zu erkennen
                     glaubt.<lb/>IV. Am Ende des Quinquienniums legt Jeder eine Prüfung über die
                     während des letzten Jahres besuchten Fächer ab und wird auf diese Weise zum
@@ -263,8 +263,8 @@
                     Zeugnisse als dem des Dorfpfarrers. Kaum glaublich, aber wahr!<lb/>Bei den esami
                     di ammissione wird vorzüglich auf die Kenntnis der italienischen und
                     lateinischen Sprache gesehen. Von einer Weltgeschichte keine Erwähnung, ja nicht
-                    einmal von einer Geschichte <rs type="place" subtype="country" key="italien" ref="#place_19cb29505c294db5ca9190ea93447e98">Italiens</rs> oder
-                    wenigstens <rs type="place" subtype="country" key="toskana" ref="#place_f5cb53e2c8520238f84e17c24c64e8b0">Toscana</rs>’s!! Einziger Werth wird auf
+                    einmal von einer Geschichte <rs type="place" subtype="country" ref="#place_19cb29505c294db5ca9190ea93447e98">Italiens</rs> oder
+                    wenigstens <rs type="place" subtype="country" ref="#place_f5cb53e2c8520238f84e17c24c64e8b0">Toscana</rs>’s!! Einziger Werth wird auf
                     die Rosminianische Philosophie gelegt, die kaum vom zehnten Theile der Studenten
                     verstanden werden soll. So sagte mir wenigstens der Professor, der eben diesen
                     Gegenstand vorträgt. Die Gegenstände des 2. Jahrganges sind zum Theile gut
@@ -273,44 +273,44 @@
                     unverständlich. Auch kann ich nicht begreifen, wie die Regierung es nicht
                     einsieht, daß die Vorträge über politische Wissenschaften für ein ganz unreifes
                     Publicum mehr Schaden als Nutzen bringen müssen. Der tüchtige Professor
-                        <rs type="person" ref="corbani-francesco" key="corbani-francesco">Corbani</rs>, welcher sich
+                        <rs type="person" ref="#corbani-francesco">Corbani</rs>, welcher sich
                     vergeblich bemüht, seinen Zuhörern das Wichtigste von diesem so wichtigen
                     Gegenstande beizubringen, sagte mir unlängst: „Come volete che coltivino con
                     profitto le scienze di stato senza la minima cognizione delle scienze legali,
                     senza il corredo della storia e delle scienze affini?"<lb/>Die Moralphilosophie
-                    wird von den Professoren <rs type="person" ref="pendola-tommaso" key="pendola-tommaso">Pendola</rs> und
-                        <rs type="person" ref="micheli-everardo-luigi" key="micheli-everardo-luigi">Micheli</rs> (Piaristen)
+                    wird von den Professoren <rs type="person" ref="#pendola-tommaso">Pendola</rs> und
+                        <rs type="person" ref="#micheli-everardo-luigi">Micheli</rs> (Piaristen)
                     vorgetragen. Es sind beide sehr geschickt, und der Letztere versteht es
                     vorzugsweise durch außerordentliche Klarheit den Mangel an Auffassung der noch
                     unreifen Zuhörer zu ersetzen. Die Fächer des 3. Jahrganges sind auch nur zum
                     Theile gut gestellt; denn erstens findet sich auch hier wiederum die economia
                     sociale und zweitens ist auch das Strafrecht nicht am gehörigen Platze. Die
-                    Institutionen des römischen Rechts werden vom Professor <rs type="person" ref="doveri-alessandro" key="doveri-alessandro">Doveri</rs> sehr gut tradirt, nicht so die
+                    Institutionen des römischen Rechts werden vom Professor <rs type="person" ref="#doveri-alessandro">Doveri</rs> sehr gut tradirt, nicht so die
                     Anfangsgründe des canonischen und des Strafrechts.<lb/>Auch die Stellung der
                     Fächer des 4. Jahrganges ist tadelnswerth. Unter Anderem weiß ich wahrlich
                     nicht, warum man erst im 3. und 4. Jahre die Geschichte des römischen Rechts
                     vorträgt? Auch weiß ich nicht, wie man das toscanische Recht vor das
                     Pandektenrecht und gleichzeitig mit der römischen Rechtsgeschichte setzt?
                     Beiläufig bemerke ich, daß der sonst talentvolle Professor der Rechtsgeschichte
-                        (<rs type="person" ref="giorgini-giovan-battista" key="giorgini-giovan-battista">G[iovani] Giorgini</rs>) für
+                        (<rs type="person" ref="#giorgini-giovan-battista">G[iovani] Giorgini</rs>) für
                     alles andere passen mag, nur nicht für diesen Gegenstand. Der Professor
-                        <rs type="person" ref="mazzuoli-fausto" key="mazzuoli-fausto">Mazzuoli</rs>, welcher toscanisches
+                        <rs type="person" ref="#mazzuoli-fausto">Mazzuoli</rs>, welcher toscanisches
                     Recht gibt, ein sehr geistreicher und fleißiger Mann, nur ist er mir ein zu
                     großer Verehrer der josephinischen Gesetzgebung.<lb/>Im 5. Jahrgange, welcher
                     eigentlich den politischen Wissenschaften und der einheimischen Gesetzgebung und
                     vorzüglich dem Prozeßrechte gewidmet sein sollte, finden sich Pandekten- und
                     Kirchenrecht wieder. Der Professor des canonischen Rechtes ist mittelmäßig,
-                    desto besser ist der Pandektenlehrer <rs type="person" ref="conticini-pietro" key="conticini-pietro">Conticini</rs>. Es war gewiß ein Unglück für <orgName key="universitaet-padua">Padua</orgName>, daß <rs type="person" ref="conticini-pietro" key="conticini-pietro">Conticini</rs> den für ihn so vortheilhaften
-                    Antrag ausschlug, obwohl auch er mit einem <rs type="person" ref="arndts-carl-ludwig" key="arndts-carl-ludwig">Arndts</rs>, <rs type="person" ref="phillips-george" key="phillips-george">Phillips</rs> oder
-                        <rs type="person" ref="unger-joseph" key="unger-joseph">Unger</rs> nicht zu vergleichen
+                    desto besser ist der Pandektenlehrer <rs type="person" ref="#conticini-pietro">Conticini</rs>. Es war gewiß ein Unglück für <orgName>Padua</orgName>, daß <rs type="person" ref="#conticini-pietro">Conticini</rs> den für ihn so vortheilhaften
+                    Antrag ausschlug, obwohl auch er mit einem <rs type="person" ref="#arndts-carl-ludwig">Arndts</rs>, <rs type="person" ref="#phillips-george">Phillips</rs> oder
+                        <rs type="person" ref="#unger-joseph">Unger</rs> nicht zu vergleichen
                     ist.<lb/>VI. Ich erlaube mir noch einige Worte über das römische Recht. Dasselbe
-                    ist in <rs type="place" subtype="country" key="toskana" ref="#place_f5cb53e2c8520238f84e17c24c64e8b0">Toscana</rs> ganz richtig in 3 große
+                    ist in <rs type="place" subtype="country" ref="#place_f5cb53e2c8520238f84e17c24c64e8b0">Toscana</rs> ganz richtig in 3 große
                     Haupttheile getheilt: <hi rend="ul">Institutionen</hi>, <hi rend="ul">Geschichte</hi> und <hi rend="ul">Pandekten</hi>. Zugegeben, daß zwei volle
                     Jahre für Institutionen, zwei Jahre für Geschichte und zwei Jahre für Pandekten
-                    zu viel sind, so wäre es andererseits sehr wünschenswerth, daß man in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> das Ganze nicht mit <hi rend="ul">einem</hi> Jahre abfertige. Da ich über diesen Punkt sehr ausführlich dem
-                    Herrn Ministerialrathe von <rs type="person" ref="tomaschek-eduard" key="tomaschek-eduard">Tomaschek</rs>
+                    zu viel sind, so wäre es andererseits sehr wünschenswerth, daß man in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> das Ganze nicht mit <hi rend="ul">einem</hi> Jahre abfertige. Da ich über diesen Punkt sehr ausführlich dem
+                    Herrn Ministerialrathe von <rs type="person" ref="#tomaschek-eduard">Tomaschek</rs>
                     geschrieben, so halte ich es für überflüßig, noch ein Mal die Geduld des hohen
-                        <orgName key="ministerium-fuer-kultus-und-unterricht">Ministeriums</orgName>
+                        <orgName>Ministeriums</orgName>
                     in Anspruch zu nehmen. Nur wiederhohle ich den schon ausgesprochenen Gedanken,
                     daß es gewiß nützlich wäre, wenn man im ersten Jahre Institutionen und
                     Geschichte und im zweiten Jahre Pandekten vortragen würde. Gott gebe es, daß

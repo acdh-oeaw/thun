@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="apponyi-rudolf" key="apponyi-rudolf" role="sender:beamter">Rudolf
-                        Apponyi</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#apponyi-rudolf" role="sender:beamter">Rudolf
+                        Apponyi</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_d0a6343a081a7335baa965ce4fd0845c">München</rs>, <date when="1854-12-07">7. Dezember 1854</date>
                 </title>
@@ -50,7 +50,7 @@
                 </index>
                 <p>München, 7. Dezember 1854</p>
                 <p>Lieber Freund,</p>
-                <p>Um deine Anfrage in Betreff der Pensionsverhältnisse des <rs type="person" ref="arndts-carl-ludwig" key="arndts-carl-ludwig">Prof. Arndts</rs> erschöpfend beantworten zu
+                <p>Um deine Anfrage in Betreff der Pensionsverhältnisse des <rs type="person" ref="#arndts-carl-ludwig">Prof. Arndts</rs> erschöpfend beantworten zu
                     können, brauchte es einige Zeit, da ich mir auf confidenziellem Weg das Gehalts-
                     und Pensionsreglement der Universitätsprofessoren verschaffen mußte. Es liegt
                     hier bei, und wird dir auch bei künftigen Anlässen von Nutzen seyn. Arndts
@@ -59,8 +59,8 @@
                     Doktorspromozionen etc. etc., welche sich jedoch auf die Zeit des Rektorats
                     beschränken.<lb/>Als Pension hat er Anspruch auf den Standesgehalt, also auf
                     1200 f. Seine Wittwe auf den fünften Theil dieser Summe. Kinder hat er
-                    keine.<lb/>Man weiß hier, daß du <rs type="person" ref="arndts-carl-ludwig" key="arndts-carl-ludwig">Arndts</rs> zu dibauchiren im Begriffe stehst. Der
-                    Unterrichtsminister <rs type="person" ref="zwehl-theodor" key="zwehl-theodor">Zwehl</rs> ist trostlos
+                    keine.<lb/>Man weiß hier, daß du <rs type="person" ref="#arndts-carl-ludwig">Arndts</rs> zu dibauchiren im Begriffe stehst. Der
+                    Unterrichtsminister <rs type="person" ref="#zwehl-theodor">Zwehl</rs> ist trostlos
                     darüber, ein Beweis, daß du einen guten Fang machst.<lb/>Verfüge stets über mich
                     in dienstlicher und jeder anderen Beziehung, und halte dich meiner aufrichtigen
                     Freundschaft versichert.</p>

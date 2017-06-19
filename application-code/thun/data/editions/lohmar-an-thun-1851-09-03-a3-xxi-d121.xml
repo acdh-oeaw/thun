@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="lohmar-wilhelm" key="lohmar-wilhelm" role="sender:gelehrter">Wilhelm
-                        Lohmar</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#lohmar-wilhelm" role="sender:gelehrter">Wilhelm
+                        Lohmar</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_f45d358fd20dfc9437911de6e44bdc83">Trier</rs>, <date when="1851-09-03">3. September 1851</date>
                 </title>
@@ -62,7 +62,7 @@
                     neuer Zeit schon viele von ihm gesammelt. Was sich sonst noch aus der Geschichte
                     des kaiserlichen Hauses für poetische Behandlung eignet, wird von ihm und
                     einigen Freunden das Gewand der Dichtkunst erhalten. Da das Andenken an das
-                    erlauchte Haus Habsburg auch außerhalb <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oestreich</rs> in vielen Herzen fortlebt, so wäre es von großem
+                    erlauchte Haus Habsburg auch außerhalb <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oestreich</rs> in vielen Herzen fortlebt, so wäre es von großem
                     Interesse nachzuforschen, ob es nicht auch in Volkliedern noch gefeiert werde.
                     Solche Lieder würden nach meiner Ansicht ein Schmuck der Sammlung sein. Aber zur
                     Anstellung solcher Forschungen fehlen dem gehorsamst Unterzeichneten Muße und

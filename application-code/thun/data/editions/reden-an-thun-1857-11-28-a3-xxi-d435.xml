@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="reden-friedrich-wilhelm" key="reden-friedrich-wilhelm" role="sender:beamter">Friedrich
-                        Wilhelm Reden</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#reden-friedrich-wilhelm" role="sender:beamter">Friedrich
+                        Wilhelm Reden</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_5ad4eeddef969bf33c14a5c4a1bcf77d">o. O.
                     [Wien]</rs>, <date when="1857-11-28">o. D. [28. November
@@ -88,7 +88,7 @@
                     bei jeder einzelnen Universität nach dem vorhandenen Stoffe einzurichten. Über
                     einzelne Hülfsanstalten lassen sich allerdings noch mehr Einzelangaben machen,
                     z.B. über die <hi rend="ul">Bibliotheken</hi>; hinsichtlich welcher Herr
-                    Sektionsrath <rs type="person" ref="heufler-von-hohenbuehel-ludwig" key="heufler-von-hohenbuehel-ludwig">Ritter von
+                    Sektionsrath <rs type="person" ref="#heufler-von-hohenbuehel-ludwig">Ritter von
                         Häufler</rs> (auf geäußerten Wunsch) eine besondere
                     Zusammenstellung empfing. Auch in Beziehung auf die <hi rend="ul">Personalausgaben</hi> (jedoch nicht nach Fakultäten geschieden), auf den
                         <hi rend="ul">Honorarbetrag</hi> usw. Beispielsweise die Honorareinnahme
@@ -118,29 +118,29 @@
                     bezahlter Lehrkräfte.<lb/>Wer in diesem wissenschaftlichen Wettkampf zögert oder
                     gar zurück bleibt, dem würde es schwer werden nachzukommen, wenn der Schaden
                     sichtbar geworden ist.</p>
-                <p>I.<hi rend="ul"> Königreich <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs>
+                <p>I.<hi rend="ul"> Königreich <rs type="place" subtype="country" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs>
                     </hi>
                 </p>
                 <p>Nach dem Etat der Unterrichtsverwaltung für 1857 beträgt der <hi rend="ul">Staatszuschuß</hi> der preußischen <hi rend="ul">Universitäten</hi> und der
-                    katholisch-theologischen <orgName key="katholisch-theologische-akademie-muenster">Akademie in
+                    katholisch-theologischen <orgName>Akademie in
                         Münster</orgName>, 476249 Thaler Konv. Außer dem Staatszuschuße beziehen die
                     Lehranstalten aus eigenem Erwerbe, aus dem Ertrage ihres Vermögens und aus
                     andern Fonds die Summe von 270405 Thlr. Die eigene Einnahme und der
                     Staatszuschuß <hi rend="ul">vertheilen</hi> sich auf die verschiedenen
                     Universitäten in folgender Weise:<lb/>Staatszuschuß Eigene Einnahme<lb/>
-                    <orgName key="universitaet-berlin">Berlin</orgName> ___ 153.965 ___
+                    <orgName>Berlin</orgName> ___ 153.965 ___
                         7.278<lb/>
-                    <orgName key="universitaet-bonn">Bonn</orgName> ___ 104.400 ___
+                    <orgName>Bonn</orgName> ___ 104.400 ___
                         4.700<lb/>
-                    <orgName key="universitaet-breslau">Breslau</orgName> ___ 79.968
+                    <orgName>Breslau</orgName> ___ 79.968
                     ___ 10.632<lb/>
-                    <orgName key="universitaet-halle">Halle</orgName> ___ 55.445 ___
+                    <orgName>Halle</orgName> ___ 55.445 ___
                         34.613<lb/>
-                    <orgName key="universitaet-koenigsberg">Königsberg</orgName> ___
+                    <orgName>Königsberg</orgName> ___
                     79.721 ___ 3.949<lb/>
-                    <orgName key="universitaet-greifswald">Greifswald</orgName>
+                    <orgName>Greifswald</orgName>
                     ___ 1.200 ___ 67.360<lb/>
-                    <orgName key="katholisch-theologische-akademie-muenster">Akademie Münster</orgName>
+                    <orgName>Akademie Münster</orgName>
                     ___ 1.250 ___ 13.872<lb/>Zusammen ___ 475.949 ___
                     142.404<lb/>Hierzu:<lb/>Aussterbegehalt 300 <lb/>Eigene Einnahmen der<lb/>der
                     [sic!] Institute, Sammlungen, <lb/>Stiftungen 128.001<lb/>Gesamtsumme 476.249
@@ -294,9 +294,9 @@
                     später auf 132760 fl. erhöht.<lb/>Nach dem Etat der VII (die Jahre 1855–61
                     umfassenden) Finanzperiode stellen die Staatszuschüsse sich wie folgt (in fl.
                     rhein.):<lb/>Fundationsmäßige [?] Besondere budgetmäßige Zuschüsse<lb/>1.
-                        <orgName key="universitaet-muenchen">München</orgName> – 57.400<lb/>2.
-                        <orgName key="universitaet-erlangen">Erlangen</orgName> 44.466 36.000<lb/>3.
-                        <orgName key="universitaet-wuerzburg">Würzburg</orgName> 8.000 32.000<lb/>
+                        <orgName>München</orgName> – 57.400<lb/>2.
+                        <orgName>Erlangen</orgName> 44.466 36.000<lb/>3.
+                        <orgName>Würzburg</orgName> 8.000 32.000<lb/>
                     Zusammen 52.466 125.400<lb/>177.866<lb/>Ungeachtet dieser Erhöhungen und
                     obgleich schon im Jahre 1851 auch die Übernahme von Pensionen und Alimentationen
                     im Betrage von jährlich 23.043 fl auf die allgemeine Pensionsamortisationskasse
@@ -305,10 +305,10 @@
                     nur noch hervorzuheben, daß (außer bei München) wenig eigenes fruchttragendes
                     Vermögen vorhanden seyn soll. Das <hi rend="ul">Personal</hi> ergiebt sich aus
                     dem Staatshandbuche.</p>
-                <p>III. <hi rend="ul">Königreich <rs type="place" subtype="country" key="wuerttemberg" ref="#place_d3339865dfd97ccc0793c342cbd8094f">Württemberg</rs>
+                <p>III. <hi rend="ul">Königreich <rs type="place" subtype="country" ref="#place_d3339865dfd97ccc0793c342cbd8094f">Württemberg</rs>
                     </hi>
                 </p>
-                <p>Über die Verhältnisse der württembergischen Landesuniversität <orgName key="universitaet-tuebingen">Tübingen</orgName> fehlt es nicht an
+                <p>Über die Verhältnisse der württembergischen Landesuniversität <orgName>Tübingen</orgName> fehlt es nicht an
                     vielseitigen und guten Nachrichten. (Beispielsweise sind zu nennen: Klüpfel,
                     Geschichte und Beschreibung der Universität Tübingen 1849<note xml:id="note_6">Vgl. Karl Klüpfel, Geschichte und Beschreibung der Universität Tübingen,
                         Tübingen 1849.</note> und Mohl, Die pekuniären Bedürfnisse der Universität
@@ -342,11 +342,11 @@
                     scheint das Gesamterfordernis der Universität etwa 164.000 fl.<lb/>Die <hi rend="ul">Vertheilung</hi> dieser Summe auf einzelne Ausgabszweige ist nicht
                     gedruckt. Das <hi rend="ul">Personal</hi> ergiebt sich aus dem Staatshandbuch
                     und den Bekanntmachungen der Vorlesungen usw. im Regierungsblatt.</p>
-                <p>IV. <hi rend="ul">Königreich <rs type="place" subtype="country" key="hannover" ref="#place_6ea98adbe89dfab2227635ac7d7fe8fe">Hannover</rs>
+                <p>IV. <hi rend="ul">Königreich <rs type="place" subtype="country" ref="#place_6ea98adbe89dfab2227635ac7d7fe8fe">Hannover</rs>
                     </hi>
                 </p>
                 <p>
-                    <orgName key="universitaet-goettingen">Göttingen</orgName> ist vertragsmäßig
+                    <orgName>Göttingen</orgName> ist vertragsmäßig
                     zugleich Landesuniversität für <rs type="place" subtype="country" ref="#place_f213e3074e0c95c49458e3e8cc8335df">Braunschweig</rs> und
                         <rs type="place" subtype="country" ref="#place_b3a3a0c6d2cb7b5adc8d3568f73ad8b2">Nassau</rs>; jedoch empfängt die Universitätskasse aus diesen
                     Staaten keine Zuschüsse, obgleich einzelne Lehrer dergleichen sich erfreuen. Die

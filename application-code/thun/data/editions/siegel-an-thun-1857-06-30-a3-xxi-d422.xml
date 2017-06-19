@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="siegel-heinrich" key="siegel-heinrich" role="sender:gelehrter">Heinrich
-                        Siegel</rs> an <rs type="person" ref="schulte-friedrich" key="schulte-friedrich" role="recipient">Johann Friedrich Schulte</rs>
+                    <rs type="person" ref="#siegel-heinrich" role="sender:gelehrter">Heinrich
+                        Siegel</rs> an <rs type="person" ref="#schulte-friedrich" role="recipient">Johann Friedrich Schulte</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_d54f6cc2237a0ee51accd7a92bf76db1">Gießen</rs>,
                         <date when="1857-06-30">30. Juni 1857</date>
@@ -55,9 +55,9 @@
                     <term>Rechtsgeschichte</term>
                 </index>
                 <p>Verehrter Herr Professor,</p>
-                <p>Ihr Brief vom 24. dieses[?], worin Sie im Auftrage Seiner Excellenz des <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Herrn Unterrichtsministers</rs> mir eine
+                <p>Ihr Brief vom 24. dieses[?], worin Sie im Auftrage Seiner Excellenz des <rs type="person" ref="#thun-hohenstein-leo">Herrn Unterrichtsministers</rs> mir eine
                     außerordentliche Professur für deutsches Privatrecht und deutsche Reichs- und
-                    Rechtsgeschichte an der <orgName key="universitaet-wien">Universität zu
+                    Rechtsgeschichte an der <orgName>Universität zu
                         Wien</orgName> antragen, hat mich in die freudigste Stimmung versetzt, und
                     ich erkläre, daß ich in Folge des so sehr ehrenden Vertrauens, welches Seine
                     Excellenz zu mir haben, und in Berücksichtigung des in Aussicht gestellten

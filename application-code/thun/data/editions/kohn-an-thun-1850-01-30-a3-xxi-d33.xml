@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="kohn-albert" key="kohn-albert" role="sender:kleriker">Albert Kohn</rs> an
-                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#kohn-albert" role="sender:kleriker">Albert Kohn</rs> an
+                        <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_7a9a74bdf33223882bc0d58e4d3afc3e">Raudnitz</rs>, <date when="1850-01-30">30. Januar
                     1850</date>
@@ -77,7 +77,7 @@
                     Unbekannte mich belehren zu lassen, damit ich, wenn ich einst in die Lage kommen
                     sollte, etwas zur Verbesserung Ihrer Zustände thun könne.“<lb/>Durch die große
                     Umwälzung der letzten Jahre und durch die Gnade Seiner Majestät sind die Juden
-                    des <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">östreichischen Kaiserstaates</rs> befreit
+                    des <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">östreichischen Kaiserstaates</rs> befreit
                     worden von dem schweren Drucke unter welchem sie Jahrhunderte lang geschmachtet,
                     aus den verachteten Parias sind wir nun geachtete Staatsbürger worden, welche
                     alle Rechte des freien Menschen und des Bürgers ungeschmälert genießen.<lb/>Aber

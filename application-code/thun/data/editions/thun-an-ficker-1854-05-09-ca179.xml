@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
-                        <rs type="person" ref="ficker-julius" key="ficker-julius" role="recipient">Julius
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#ficker-julius" role="recipient">Julius
                         Ficker</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1854-05-09">9. Mai 1854</date>
@@ -61,9 +61,9 @@
                 <p>Mit aufrichtigem Bedauern habe ich aus Ihren beiden Briefen vom 28. vorigen<note xml:id="note_1">Vgl. <ref target="thun/thun-korrespondenz/Konzepte_Briefe_an_Thun/ficker-an-thun-konzept_1854-04-28_CA196.xml">Julius Ficker an Leo Thun (Konzept). Innsbruck, 28. April
                         1854</ref>.</note> und 1. des Monats<note xml:id="note_2">Vgl. <ref target="thun/thun-korrespondenz/Konzepte_Briefe_an_Thun/ficker-an-thun-konzept_1854-05-01_CA195.xml">Julius Ficker an Leo Thun (Konzept). Innsbruck, 1. Mai
                         1854</ref>.</note> ersehen, daß der Gedanke, den Ruf der preußischen
-                    Regierung nach <orgName key="universitaet-bonn">Bonn</orgName> anzunehmen, Ihnen
-                    nicht fremd ist. Sie führen als Gründe dafür zunächst den Wunsch ihrer <rs type="person" ref="scheffer-boichorst-auguste-amalia" key="scheffer-boichorst-auguste-amalia">Mutter</rs>, sodann die
-                    Gelegenheit sich wieder mit der Spezialgeschichte Ihrer <rs type="place" subtype="region" key="westfalen" ref="#place_3b04ac095eb521f1db03d6ba76f73aeb">Heimat</rs> zu befassen, endlich die Besorgnis Ihrer Freunde an, daß im
+                    Regierung nach <orgName>Bonn</orgName> anzunehmen, Ihnen
+                    nicht fremd ist. Sie führen als Gründe dafür zunächst den Wunsch ihrer <rs type="person" ref="#scheffer-boichorst-auguste-amalia">Mutter</rs>, sodann die
+                    Gelegenheit sich wieder mit der Spezialgeschichte Ihrer <rs type="place" subtype="region" ref="#place_3b04ac095eb521f1db03d6ba76f73aeb">Heimat</rs> zu befassen, endlich die Besorgnis Ihrer Freunde an, daß im
                     Falle Ihres Ablehnens der Lehrstuhl in einer unerwünschten Weise besetzt werden
                     könnte.<lb/>Die beiden ersten Gründe sind so subjektiver Art hat, daß Niemand
                     sich erlauben kann, ihr Gewicht beurtheilen zu wollen. Der letztere scheint die
@@ -77,32 +77,32 @@
                     insofern die Rücksicht auf der Förderung katholischer Überzeugungen ein
                     entscheidendes Moment sein kann, Ihre Mitwirkung zur Hebung der historischen
                     Studien in <rs type="place" subtype="country" ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</rs> weit erfolgreicher zu werden verspricht
-                    als ihre Wirksamkeit an der <orgName key="universitaet-bonn">Bonner
+                    als ihre Wirksamkeit an der <orgName>Bonner
                         Universität</orgName> es zu sein vermöchte. Leider muss ich allerdings
-                    zugeben, daß ihr jetziger Wirkungskreis in <rs type="place" subtype="place" key="innsbruck" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Inspruck</rs> [Innsbruck] noch ein beschränkter im Vergleiche zu
+                    zugeben, daß ihr jetziger Wirkungskreis in <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Inspruck</rs> [Innsbruck] noch ein beschränkter im Vergleiche zu
                     jenem in <rs type="place" subtype="place" ref="#place_03b16e0a78b56bb5ada8e43123aaaa62">Bonn</rs> ist. Die Besorgnis daß – wenn Sie den Ruf
                     dahin nicht annehmen würden – Sie der Hoffnung auf einen ausgedehnteren
                     Wirkungskreis entsagen müssten, kann ich aber nicht für gegründet halten.
                     Vielmehr hoffe ich zuversichtlich, daß bald die Zeit kommen wird, wo es möglich
-                    sein wird, die <orgName key="universitaet-innsbruck">Insprucker
+                    sein wird, die <orgName>Insprucker
                         Universität</orgName> zu vervollständigen, und in jeder Weise so zu heben,
                     daß sie den Vergleich mit Bonn nicht zu scheuen braucht, und sollte selbst meine
                     Hoffnung in dieser Beziehung vereitelt werden, so würde es dann auch an anderen
                     Mitteln nicht fehlen, Ihnen einen größeren Wirkungskreis in
                         <rs type="place" subtype="country" ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</rs> zu eröffnen. Ich müsste daher Ihr Scheiden um
-                    so mehr bedauern, als es eine Folge der Berufung des Professors <rs type="person" ref="aschbach-joseph" key="aschbach-joseph">Aschbach</rs> nach <orgName key="universitaet-wien">Wien</orgName> wäre, da ich doch diese nicht eher
-                        <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät</rs> in Antrag brachte,
+                    so mehr bedauern, als es eine Folge der Berufung des Professors <rs type="person" ref="#aschbach-joseph">Aschbach</rs> nach <orgName>Wien</orgName> wäre, da ich doch diese nicht eher
+                        <rs type="person" ref="#franz-joseph">Seiner Majestät</rs> in Antrag brachte,
                     als bis Sie mein Ihnen früher gegebenes Wort, daß ich solches nicht
                     beabsichtige, gelöst hatten. Darin konnte und wollte ich nun zwar keine
                     Beschränkung der Freiheit Ihrer künftigen Entschlüsse sehen, wohl aber glaubte
                     ich mich, dagegen sicher gestellt zu haben, daß die Verwaisung der katholischen
-                    Geschichtsprofessur in <orgName key="universitaet-wien">Bonn</orgName> Ihnen
+                    Geschichtsprofessur in <orgName>Bonn</orgName> Ihnen
                     eine moralische Pflicht auferlegen könne, dahin zurückzukehren; ich hätte sonst
                     wohl anders gehandelt. Nun erübrigt mir allerdings nichts, als Sie zu ersuchen,
                     mir bald Ihren definitiven Entschluss oder die Bedingungen, die er etwa
                     voraussetzen sollte, mittheilen und falls er gegen meinen Wunsch ausfiele, ein
-                    an den <rs type="person" ref="franz-joseph" key="franz-joseph">Kaiser</rs>, der ihnen die Professur
-                    in <orgName key="universitaet-innsbruck">Inspruck</orgName> verliehen hat,
+                    an den <rs type="person" ref="#franz-joseph">Kaiser</rs>, der ihnen die Professur
+                    in <orgName>Inspruck</orgName> verliehen hat,
                     gerichtetes Gesuch um Entlassung, Ihnen nicht versagt werden kann – einsenden zu
                     wollen. Vermag ich nicht zu hindern, daß das Band, durch welches Sie bleibend an
                         <rs type="place" subtype="country" ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</rs> geknüpft zu haben meinte, bald wieder gelöst

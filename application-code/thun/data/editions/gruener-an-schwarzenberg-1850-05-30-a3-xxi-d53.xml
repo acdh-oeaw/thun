@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="schwarzenberg-felix" key="schwarzenberg-felix" role="sender:beamter">Felix
-                        Schwarzenberg</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#schwarzenberg-felix" role="sender:beamter">Felix
+                        Schwarzenberg</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1850-06-05">5. Juni
                     1850</date>
@@ -47,8 +47,8 @@
                     </msContents>
                     <physDesc>
                         <p>Beilage: <ref target="#D53_1">
-                                <rs type="person" ref="gruener-joseph" key="gruener-joseph">Joseph
-                                    Grüner</rs> an <rs type="person" ref="schwarzenberg-felix" key="schwarzenberg-felix">Felix
+                                <rs type="person" ref="#gruener-joseph">Joseph
+                                    Grüner</rs> an <rs type="person" ref="#schwarzenberg-felix">Felix
                                     Schwarzenberg</rs>. <rs type="place" subtype="place" ref="#place_4a887b8a68acf9b04d9d027bddedb06b">Leipzig</rs>, <date when="1850-05-30">30. Mai 1850</date>
                             </ref>. Darin enthalten ist
                             ein Bericht Grüners zum Deutschkatholizismus.</p>
@@ -69,10 +69,10 @@
                     <term>Kultus</term>
                     <term>Deutschkatholiken</term>
                 </index>
-                <p>Der <rs type="person" ref="gruener-joseph" key="gruener-joseph">kaiserliche Consul</rs> in
+                <p>Der <rs type="person" ref="#gruener-joseph">kaiserliche Consul</rs> in
                         <rs type="place" subtype="place" ref="#place_4a887b8a68acf9b04d9d027bddedb06b">Leipzig</rs> hat mit dem <ref target="#D53_1">angeschlossenen Bericht vom 30. vorigen Monats 57.B.</ref> aus Anlaß der in
                     den öffentlichen Blättern verbreiteten Nachricht über die von der sogenannten
-                    „freichristlichen Gemeinde“ in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> an das <orgName key="ministerium-fuer-kultus-und-unterricht">kaiserliche Cultusministerium
+                    „freichristlichen Gemeinde“ in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> an das <orgName>kaiserliche Cultusministerium
                     </orgName>überreichte Eingabe, womit sie um sofortige Anerkennung als
                     Religionsgenossenschaft gebeten hat, den hier zuliegenden Aufsatz zur Aufnahme
                     in eine österreichische Zeitung hieher gesendet.<lb/>Indem ich die
@@ -88,7 +88,7 @@
                     <p>Durchlauchtig Hochgeborener Fürst,</p>
                     <p>Euerer Durchlaucht erlaube ich mir einen, aus Anlaß der in den öffentlichen
                         Blättern verbreiteten Nachricht über die von der sogenannten
-                        „freichristlichen Gemeinde“ in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> an das <orgName key="ministerium-fuer-kultus-und-unterricht">k.k. Ministerium des Cultus
+                        „freichristlichen Gemeinde“ in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> an das <orgName>k.k. Ministerium des Cultus
                             und Unterrichtes</orgName> überreichten Eingabe, womit sie um sofortige
                         Anerkennung als Religionsgenossenschaft das Ansuchen gestellt haben sollen,
                         verfaßten Aufsatz, mit der ehrfurchtsvollen Bitte vorzulegen, wegen dessen
@@ -96,7 +96,7 @@
                         treffen zu wollen.<lb/>Genehmigen Euere Durchlaucht die Versicherung meiner
                         tiefen Ehrfurcht.<lb/>Grüner</p>
                     <p>Die „Deutsche Allgemeine Zeitung“ vom 27. Mai enthält Folgendes aus
-                            <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>:<lb/>„Die hiesige <hi rend="ul">freichristliche</hi> (deutschkatholische) Gemeinde hat dem <orgName key="ministerium-fuer-kultus-und-unterricht">Ministerium des Cultus und
+                            <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>:<lb/>„Die hiesige <hi rend="ul">freichristliche</hi> (deutschkatholische) Gemeinde hat dem <orgName>Ministerium des Cultus und
                             Unterrichtes</orgName> eine Eingabe sammt den eigenhändigen
                         Namensunterschriften ihrer Mitglieder überreicht. Sie <hi rend="ul">fordert</hi> darin ihre <hi rend="ul">sofortige Anerkennung als
                             Religionsgenossenschaft</hi>, da man ihr nicht zumuthen könne, daß sie
@@ -216,12 +216,12 @@
                         Entstehen des Deutschkatholicismus ist erwiesener Maaßen im Radicalismus
                         begründet und die scheinbar religiöse Bewegung diente nur zur Verhüllung der
                         politischen, wie dies in der vollen Revolutionszeit des Jahres 1848 von den
-                        Koryphäen dieser Partei, namentlich von dem berüchtigten <rs type="person" ref="dowiat-rudolf" key="dowiat-rudolf">Dowiat</rs>, offen eingestanden worden ist.
-                        Ein <rs type="person" ref="blum-robert" key="blum-robert">Blum</rs>, der wüthende Vertheidiger
+                        Koryphäen dieser Partei, namentlich von dem berüchtigten <rs type="person" ref="#dowiat-rudolf">Dowiat</rs>, offen eingestanden worden ist.
+                        Ein <rs type="person" ref="#blum-robert">Blum</rs>, der wüthende Vertheidiger
                         der Pöbelherrschaft, ist einer ihrer Choragen gewesen. Noch fortwährend
                         gehören die Häupter des Deutschkatholicismus der revolutionären Partei an.
                         Sie haben sich jetzt zu <rs type="place" subtype="place" ref="#place_4a887b8a68acf9b04d9d027bddedb06b">Leipzig</rs> und schließlich zu
-                            <rs type="place" subtype="place" key="koethen" ref="#place_96ae10139a015ea4ac2665f6eeb506e3">Köthen</rs> enge geeinigt mit den aus
+                            <rs type="place" subtype="place" ref="#place_96ae10139a015ea4ac2665f6eeb506e3">Köthen</rs> enge geeinigt mit den aus
                         dem Protestantismus hervorgegangenen freien Gemeinden, welche, wie Niemandem
                         verborgen ist, nur revolutionäre Brutöfen sind. Offen kann man nicht
                         conspiriren, wie 1848 und 1849, und so flüchtet man sich wie 1845 wieder

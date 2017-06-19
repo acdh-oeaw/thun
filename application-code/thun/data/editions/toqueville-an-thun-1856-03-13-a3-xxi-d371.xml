@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="toqueville-alexis" key="toqueville-alexis" role="sender:gelehrter">Alexis de
-                        Tocqueville</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#toqueville-alexis" role="sender:gelehrter">Alexis de
+                        Tocqueville</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</rs>, <date when="1856-03-13">13. März 1856</date>
                 </title>
@@ -51,9 +51,9 @@
                 </index>
                 <p>J'espère, Monsieur, que vous n'avez pas entièrement oublié un homme qui conserve
                     votre précieux souvenir du rapport prolongé qu'il a eu avec vous. C'est cet
-                    espoir qui me porte à recommander à votre bienveillant aïeul <rs type="person" ref="toqueville-hubert" key="toqueville-hubert">mon jeune neveu</rs> qui est en ce moment à
-                        <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Vienne</rs> où il remplit sa fonction d'attaché
-                    dans votre ambassade; il porte mon nom et se nomme Mr. Son Excellence <rs type="person" ref="toqueville-hubert" key="toqueville-hubert">Hubert de Toqueville</rs>; je lui suis très
+                    espoir qui me porte à recommander à votre bienveillant aïeul <rs type="person" ref="#toqueville-hubert">mon jeune neveu</rs> qui est en ce moment à
+                        <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Vienne</rs> où il remplit sa fonction d'attaché
+                    dans votre ambassade; il porte mon nom et se nomme Mr. Son Excellence <rs type="person" ref="#toqueville-hubert">Hubert de Toqueville</rs>; je lui suis très
                     attaché et il mérite l'attention que je lui porte pour ces excellentes qualités.
                     Il est un jeune homme un peu timide, mais intelligent, très dévoué aux savoirs,
                     religieux et travailleur; il désirait vraiment faire votre connaissance et

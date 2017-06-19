@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="schulte-friedrich" key="schulte-friedrich" role="sender:gelehrter">Johann Friedrich
-                        Schulte</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#schulte-friedrich" role="sender:gelehrter">Johann Friedrich
+                        Schulte</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1857-12-09">9. Dezember 1857</date>
                 </title>
@@ -58,7 +58,7 @@
                     Ehegerichte unvermögend sind, sich überall in die „Instruction“ zu finden und
                     auch dann selbige richtig anzuwenden, wenn sie schweigt. Deshalb schon darf ich
                     wohl auch die Überzeugung hegen, es werde das Buch den Wünschen der hohen
-                    Regierung wie Seiner Eminenz des <rs type="person" ref="rauscher-joseph" key="rauscher-joseph">Cardinal
+                    Regierung wie Seiner Eminenz des <rs type="person" ref="#rauscher-joseph">Cardinal
                         Rauscher</rs> entsprechen, um so mehr, als es die „Instruction“
                     durchweg begründet, aus dem pro commune nachweist, Ausnahmen von letzterem
                     theils als der vigens disciplina gemäß, theils vom heutigen Rechtsstandpunkte

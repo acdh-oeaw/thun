@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="schwarzenberg-friedrich" key="schwarzenberg-friedrich" role="sender:kleriker">Friedrich
-                        Schwarzenberg</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#schwarzenberg-friedrich" role="sender:kleriker">Friedrich
+                        Schwarzenberg</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1854-08-30">30. August 1854</date>
                 </title>
@@ -53,7 +53,7 @@
                     <term>Piaristen</term>
                 </index>
                 <p>Hochgeborner Graf!</p>
-                <p>Der hochwürdigste <rs type="person" ref="jirsik-jan-valerian" key="jirsik-jan-valerian">Herr Bischof von
+                <p>Der hochwürdigste <rs type="person" ref="#jirsik-jan-valerian">Herr Bischof von
                         Budweis</rs> hat als Convisitator des Ordens der frommen Schulen im
                     Laufe der ersten Hälfte dieses Sommers sämmtliche Kollegien der österreichischen
                     Ordensprovinz der kanonischen Visitation unterzogen und, wie ich aus seinem
@@ -75,7 +75,7 @@
                     Aufbesserung der Dotation, welche unter andern besonders zu
                         <rs type="place" subtype="place" ref="#place_b2f3f42d45ff2c1018a9d3b9e6c37ece">Krems</rs>, dann an dem Josefstädter Collegium geboten
                     erscheint, dermalen nur durch die öffentlichen Fonde statt finden kann, muß ich
-                    dringend wünschen, daß das hohe <orgName key="ministerium-fuer-kultus-und-unterricht">k.k. Ministerium</orgName> auf
+                    dringend wünschen, daß das hohe <orgName>k.k. Ministerium</orgName> auf
                     meine dießfällige Eingabe vom 27. Jänner dieses Jahres Nr. 401 eine günstige
                     Entschließung zu fassen geruhen wolle, welche umso heilsamer wirken dürfte, je
                     früher die Glieder des Piaristenordens aus einer peinlichen Ungewißheit und
@@ -85,7 +85,7 @@
                     anderem Wege nicht beheben läßt, betrifft das getrennte Einzelleben jener
                     Piaristen, welche an dem akademischen Gymnasium daselbst angestellt sind. Ich
                     erlaube mir an Euere Excellenz gemäß dem Vorschlage des hochwürdigsten Herrn
-                        <rs type="person" ref="jirsik-jan-valerian" key="jirsik-jan-valerian">Bischofes von Budweis</rs> die
+                        <rs type="person" ref="#jirsik-jan-valerian">Bischofes von Budweis</rs> die
                     angelegentliche Bitte zu richten, daß diesen Priestern das statutengemäße
                     Zusammenleben ermöglicht werde, indem entweder das k.k. Stadtconvict wieder
                     hergestellt und der Leitung der Piaristen übergeben oder wenigstens den

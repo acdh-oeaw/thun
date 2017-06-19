@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="eitelberger-rudolf" key="eitelberger-rudolf" role="sender:gelehrter">Rudolf
-                        Eitelberger</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#eitelberger-rudolf" role="sender:gelehrter">Rudolf
+                        Eitelberger</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1855-03-22">22. März 1855</date>
                 </title>
@@ -129,13 +129,13 @@
                         nicht bloß dem philosophischen Denken feindliche Geister, sondern auch
                         solche, welche philosophisch gebildet sind, haben sich positiven Studien,
                         historischen oder naturwissenschaftlichen Richtungen zugewendet. So sieht
-                        man treffliche Denker, <rs type="person" ref="trendelenburg-friedrich-adolf" key="trendelenburg-friedrich-adolf">Trendelenburg</rs> in <orgName key="universitaet-berlin">Berlin</orgName>, <rs type="person" ref="lotze-rudolf-hermann" key="lotze-rudolf-hermann">Lotze</rs>
-                        in <orgName key="universitaet-goettingen">Göttingen</orgName>, <rs type="person" ref="waitz-franz-theodor" key="waitz-franz-theodor">Waitz</rs> in <orgName key="universitaet-giessen">Gießen</orgName> usf. mit philologischen oder
+                        man treffliche Denker, <rs type="person" ref="#trendelenburg-friedrich-adolf">Trendelenburg</rs> in <orgName>Berlin</orgName>, <rs type="person" ref="#lotze-rudolf-hermann">Lotze</rs>
+                        in <orgName>Göttingen</orgName>, <rs type="person" ref="#waitz-franz-theodor">Waitz</rs> in <orgName>Gießen</orgName> usf. mit philologischen oder
                         naturwissenschaftlichen Fragen sich beschäftigen, so blickt in den Schriften
-                        von <rs type="person" ref="stahl-friedrich-julius" key="stahl-friedrich-julius">Stahl</rs>, <rs type="person" ref="koestlin-christian-reinhold" key="koestlin-christian-reinhold">Köstlin</rs> und anderer
+                        von <rs type="person" ref="#stahl-friedrich-julius">Stahl</rs>, <rs type="person" ref="#koestlin-christian-reinhold">Köstlin</rs> und anderer
                         Rechtsgelehrten die philosophische Bildung deutlich durch, so betreiben
-                        Männer wie <rs type="person" ref="savigny-friedrich-carl" key="savigny-friedrich-carl">Savigny</rs> und
-                            <rs type="person" ref="puchta-georg-friedrich" key="puchta-georg-friedrich">Puchta</rs> positive
+                        Männer wie <rs type="person" ref="#savigny-friedrich-carl">Savigny</rs> und
+                            <rs type="person" ref="#puchta-georg-friedrich">Puchta</rs> positive
                         Studien nicht aus prinzipieller Feindschaft gegen philosophisches
                         Denken.<lb/>Historische, naturwissenschaftliche mehr oder minder positive
                         Studien haben jetzt die Philosophie in der Hegemonie abgelöst, welche diese
@@ -224,7 +224,7 @@
                         positive Grundlage, wie theologische Wissenschaften, keine vorzugsweise
                         geschichtliche Grundlage, wie die historischen oder Rechtswissenschaften.
                         Sie geht neben allen diesen Wissenschaften einher, ihr eigenes Gebiet mit
-                        den Worten des <rs type="person" ref="">Archimedes</rs> wahrend: noli turbare
+                        den Worten des <rs type="person" ref="#">Archimedes</rs> wahrend: noli turbare
                         circulos meos! Der Werth der Geschichte der Philosophie muß nicht nach dem
                         Werth gemessen werden, den die Geschichte anderer Wissenschaften für diese
                         hat. Er muß aus ihr heraus erklärt und festgestellt werden.<lb/>Daraus
@@ -232,13 +232,13 @@
                         der Philosophie gemacht haben. Sie haben bei ihren Studien in Geschichte der
                         Philosophie mehr oder minder einen Anknüpfungspunkt an frühere Systeme
                         gesucht, die theilweise auch die Ausgangspunkte ihrer Forschungen geworden
-                        sind. So knüpfte <rs type="person" ref="schelling-friedrich-wilhelm" key="schelling-friedrich-wilhelm">Schelling</rs> und <rs type="person" ref="hegel-georg-wilhelm-friedrich" key="hegel-georg-wilhelm-friedrich">Hegel</rs> theilweise an <rs type="person" ref="spinoza-baruch" key="spinoza-baruch">Spinoza</rs> an, die <rs type="person" ref="herbart-johann-friedrich" key="herbart-johann-friedrich">Herbart</rs>’sche Schule griff häufig nach <rs type="person" ref="leibniz-gottfried-wilhelm" key="leibniz-gottfried-wilhelm">Leibnitz</rs> zurück,
-                            <rs type="person" ref="kant-immanuel" key="kant-immanuel">Kant</rs> fußte auf <rs type="person" ref="hume-david" key="hume-david">Hume</rs> und <rs type="person" ref="locke-john" key="locke-john">Locke</rs>, die französischen Denker gehen mitunter auf <rs type="person" ref="descartes-rene" key="descartes-rene">René Descarte</rs>s zurück, die englischen
-                        auf <rs type="person" ref="bacon-francis" key="bacon-francis">Baco von Verulam</rs>, - die
+                        sind. So knüpfte <rs type="person" ref="#schelling-friedrich-wilhelm">Schelling</rs> und <rs type="person" ref="#hegel-georg-wilhelm-friedrich">Hegel</rs> theilweise an <rs type="person" ref="#spinoza-baruch">Spinoza</rs> an, die <rs type="person" ref="#herbart-johann-friedrich">Herbart</rs>’sche Schule griff häufig nach <rs type="person" ref="#leibniz-gottfried-wilhelm">Leibnitz</rs> zurück,
+                            <rs type="person" ref="#kant-immanuel">Kant</rs> fußte auf <rs type="person" ref="#hume-david">Hume</rs> und <rs type="person" ref="#locke-john">Locke</rs>, die französischen Denker gehen mitunter auf <rs type="person" ref="#descartes-rene">René Descarte</rs>s zurück, die englischen
+                        auf <rs type="person" ref="#bacon-francis">Baco von Verulam</rs>, - die
                         Scholastiker des Mittelalters, die großen Denker des christlichen
-                        Alterthumes fußen theilweise auf <rs type="person" ref="">Aristoteles</rs> und
-                            <rs type="person" ref="platon" key="platon">Plato</rs>, wie die arabischen Denker
-                            <rs type="person" ref="averroes" key="averroes">Averroës</rs> und <rs type="person" ref="avicenna" key="avicenna">Avicénna</rs>; kurz jede größere philosophische
+                        Alterthumes fußen theilweise auf <rs type="person" ref="#">Aristoteles</rs> und
+                            <rs type="person" ref="#platon">Plato</rs>, wie die arabischen Denker
+                            <rs type="person" ref="#averroes">Averroës</rs> und <rs type="person" ref="#avicenna">Avicénna</rs>; kurz jede größere philosophische
                         Richtung knüpft in irgend einer Weise ihre Gedankenwelt an eine frühere an,
                         indem sie diese fortsetzt und fortbildet, oder ihr entgegentritt und Neues
                         hinzustellen sucht. Aber die geistige Kraft eines Systemes ruht nicht auf
@@ -252,11 +252,11 @@
                         was Geschichte der Philosophie für Philosophen ist, so muß man nicht die
                         Gegner der Philosophie, sondern die Philosophen selbst zu Rathe ziehen. Und
                         sicher wird jeder, der die rein philosophischen Fundamentalwerke
-                        philosophischer Systeme vor sich gehabt hat, als: <rs type="person" ref="kant-immanuel" key="kant-immanuel">Kants</rs> Kritik der reinen Vernunft,
-                            <rs type="person" ref="hegel-georg-wilhelm-friedrich" key="hegel-georg-wilhelm-friedrich">Hegels</rs>
-                        Phänomenologie des Geistes und Logik, <rs type="person" ref="herbart-johann-friedrich" key="herbart-johann-friedrich">Herbarts</rs> größere Metaphysik,
-                        die Ethik <rs type="person" ref="spinoza-baruch" key="spinoza-baruch">Spinoza</rs>’s, das Organon
-                        und die Metaphysik des <rs type="person" ref="">Aristoteles</rs> und andere mehr. Ich
+                        philosophischer Systeme vor sich gehabt hat, als: <rs type="person" ref="#kant-immanuel">Kants</rs> Kritik der reinen Vernunft,
+                            <rs type="person" ref="#hegel-georg-wilhelm-friedrich">Hegels</rs>
+                        Phänomenologie des Geistes und Logik, <rs type="person" ref="#herbart-johann-friedrich">Herbarts</rs> größere Metaphysik,
+                        die Ethik <rs type="person" ref="#spinoza-baruch">Spinoza</rs>’s, das Organon
+                        und die Metaphysik des <rs type="person" ref="#">Aristoteles</rs> und andere mehr. Ich
                         sage Jeder, der diese Werke kennt, der wird darin bestättigt finden, daß
                         Geschichte der Philosophie, Philosophen etwas ganz Anderes ist, als es Laien
                         in der Regel scheint.<lb/>Die Geschichte der Philosophie hat daher für die
@@ -277,7 +277,7 @@
                         philosophischen Systeme kann eine Philosophie anheben oder von einer solchen
                         ausgehen. Eine Kritik philosophischer Systeme kann erst unternommen werden,
                         wenn man sie selbst in den Besitz der Principien eines Systemes gesetzt hat.
-                        Was <rs type="person" ref="">Archimedes</rs> dem König <rs type="person" ref="hieron-II" key="hieron-II">Hiero</rs> zurief: „Gieb mir einen Punkt, wo ich stehe, und ich
+                        Was <rs type="person" ref="#">Archimedes</rs> dem König <rs type="person" ref="#hieron-II">Hiero</rs> zurief: „Gieb mir einen Punkt, wo ich stehe, und ich
                         will die Erde bewegen.“ Dies gilt gewißermaßen von der Philosophie, die zur
                         Bewegung der Gedankenwelt Anderer einen festen Punkt braucht, auf dem sie
                         steht. Diesen Punkt findet sie in ihren metaphysischen Principien. Diese als
@@ -331,21 +331,21 @@
                         philosophische Systeme als solche orientieren will. Sie beginnt erst dann,
                         wenn die Philosophie selbst eine größere Reihe von Systemen hervorgerufen
                         hat, und nicht bloß eine Vertiefung, sondern auch eine Verbreitung von
-                        philosophischen Gedanken eingetreten ist. <rs type="person" ref="">Aristoteles</rs>
+                        philosophischen Gedanken eingetreten ist. <rs type="person" ref="#">Aristoteles</rs>
                         ist unter den griechischen Philosophen der erste, der in seiner Metaphysik,
                         in der Schrift „Über die Seele“ in kleineren ihm zugeschriebenen
-                        Abhandlungen über Melissos, <rs type="person" ref="">Xenophanes</rs> und
-                            <rs type="person" ref="">Gorgias</rs> usf. eine Geschichte der Philosophie
-                        Griechenlands giebt. Seit <rs type="person" ref="">Aristoteles</rs> scheint es bei
+                        Abhandlungen über Melissos, <rs type="person" ref="#">Xenophanes</rs> und
+                            <rs type="person" ref="#">Gorgias</rs> usf. eine Geschichte der Philosophie
+                        Griechenlands giebt. Seit <rs type="person" ref="#">Aristoteles</rs> scheint es bei
                         griechischen und römischen Denkern Regel geworden zu sein, geschichtliche
                         Überblicke bei passender Gelegenheit vorzunehmen. Diese Überblicke aber
                         geschehen durchaus nur, um Einsicht in die Prinzipien und Ideen der
                         Philosophen zu bekommen. Aller gelehrter biographischer oder literarischer
                         Apparat fällt weg. Erst in späteren Zeiten scheint, wie uns
-                            <rs type="person" ref="">Diogenes Laërtius</rs> zeigt, oder wie Beispiele in der
+                            <rs type="person" ref="#">Diogenes Laërtius</rs> zeigt, oder wie Beispiele in der
                         Literatur der Alexandriner vorkommen, Geschichte der Philosophie selbständig
                         behandelt worden zu sein.<lb/>In den neueren Zeiten wird Geschichte der
-                        Philosophie seit den Bestrebungen des Augsburgers <rs type="person" ref="brucker-johann-jakob" key="brucker-johann-jakob">J[ohann] J[akob] Brucker</rs>
+                        Philosophie seit den Bestrebungen des Augsburgers <rs type="person" ref="#brucker-johann-jakob">J[ohann] J[akob] Brucker</rs>
                         <note xml:id="note_1">Hierzu eine Anmerkung am Blattrand: Bruckers Historia
                             critica erschien zuerst in 4 Bänden Leipzig 1742–44, 4te. Ihm folgten
                                 <hi rend="ul">Buhle</hi> mit seinem Lehrbuch der Geschichte der
@@ -355,31 +355,31 @@
                             Geschichte der Philosophie (Hamburg bei Perthes). Neben diesen gehen die
                             größeren die ganze Philosophie umfassenden Schriften von <hi rend="ul">Reinhold</hi> (in 3 Bänden), <hi rend="ul">Rixner</hi>, <hi rend="ul">Hegel</hi> (in 3 Bänden).</note> fast ausschließlich von
                         Deutschen behandelt. Die meisten deutschen Werke sind in fremde Sprachen
-                        übersetzt worden, erst jüngst das kleine Kompendium von <rs type="person" ref="tennemann-wilhelm-gottlieb" key="tennemann-wilhelm-gottlieb">Tennemann</rs> (bei uns, längst
+                        übersetzt worden, erst jüngst das kleine Kompendium von <rs type="person" ref="#tennemann-wilhelm-gottlieb">Tennemann</rs> (bei uns, längst
                         veraltet und unbrauchbar geworden) in das Italienische<note xml:id="note_2">Hierzu eine Anmerkung am Blattrand: Tennemanns "Grundriß einer
                             Geschichte der Philosophie" erschien zum ersten Mal 1812.</note>; – in
                             <rs type="place" subtype="country" ref="#place_389962c9dec540ab28d04517e82c3996">Italien</rs> wurde es fast auf den Index gesetzt, in
-                            <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> wurde es früher an sehr
+                            <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> wurde es früher an sehr
                         vielen philosophischen Fakultäten gebraucht, wo Geschichte der Philosophie
                         als außerordentlicher Gegenstand in einem zweistündigen Colleg gelesen
-                        wurde.<lb/>In <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> wurde bisher
+                        wurde.<lb/>In <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> wurde bisher
                         Geschichte der Philosophie fast gar nicht betrieben. Sie ist die Frucht
                         philosophischer Bestrebungen. Wo diesen selbst kein Spielraum gewährt wird,
                         wo, wie es früher der Fall war, jedes Streben auf philosophischem Gebiete
                         von Staat und Kirche gleichmäßig entweder verfolgt, oder mit mißtrauischem
                         Auge beobachtet wurde – wer kennt nicht die Angriffe selbst auf Männer wie
-                            <rs type="person" ref="likawetz-joseph-calasanz" key="likawetz-joseph-calasanz">Likawetz</rs>, <rs type="person" ref="rembold-leopold" key="rembold-leopold">Rembold</rs>, <rs type="person" ref="lichtenfels-johann" key="lichtenfels-johann">Lichtenfels</rs> usf.? Wer weiß nicht,
+                            <rs type="person" ref="#likawetz-joseph-calasanz">Likawetz</rs>, <rs type="person" ref="#rembold-leopold">Rembold</rs>, <rs type="person" ref="#lichtenfels-johann">Lichtenfels</rs> usf.? Wer weiß nicht,
                         daß bis jetzt jedes philosophische System mit einem Damnatur belegt wurde?
                         Da war selbst ein bloßer Versuch eine gewagte Sache, unternommen mit
                         gebrochenem Muthe, mit Schwanken und zagenden Gedanken. Haben da wohl die
-                        Versuche von <rs type="person" ref="lichtenfels-johann" key="lichtenfels-johann">Lichtenfels</rs>,
-                            <rs type="person" ref="hanusch-ignaz" key="hanusch-ignaz">Hanusch</rs> und <rs type="person" ref="stanke-leander-josef" key="stanke-leander-josef">Stanke</rs> einen anderen als
+                        Versuche von <rs type="person" ref="#lichtenfels-johann">Lichtenfels</rs>,
+                            <rs type="person" ref="#hanusch-ignaz">Hanusch</rs> und <rs type="person" ref="#stanke-leander-josef">Stanke</rs> einen anderen als
                         kulturhistorischen Werth? Bezeugen sie etwas anderes, als den Mangel eines
                         wissenschaftlichen Bodens, den Mangel einer wissenschaftlichen Bestrebungen
                         gegenüber duldsamen Zeit? Wie steht das Gebäude deutscher Gedankenwelt in
                         sich geschlossen und erhaben? Seine leuchtenden Strahlen wirft es
                         gegenwärtig über die ganze gebildete Welt; seine Macht müssen selbst seine
-                        Gegner anerkennen, die philosophisch gebildeten Geister <rs type="place" subtype="country" key="amerika" ref="#place_1ce9287a63e38534efb11b85339cbe59">Amerikas</rs>, <rs type="place" subtype="country" key="england" ref="#place_f48861ca24e26a23a923ca68657079f4">Englands</rs>, <rs type="place" subtype="country" key="frankreich" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreichs</rs> und
+                        Gegner anerkennen, die philosophisch gebildeten Geister <rs type="place" subtype="country" ref="#place_1ce9287a63e38534efb11b85339cbe59">Amerikas</rs>, <rs type="place" subtype="country" ref="#place_f48861ca24e26a23a923ca68657079f4">Englands</rs>, <rs type="place" subtype="country" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreichs</rs> und
                             <rs type="place" subtype="country" ref="#place_389962c9dec540ab28d04517e82c3996">Italien</rs> knüpfen an die Resultate deutscher
                         Philosophie an.<lb/>In <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> waren zwei Umstände
                         den Bestrebungen auf dem Gebiete der Geschichte der Philosophie
@@ -391,22 +391,22 @@
                         die Vorbedingungen – historisch-philologische Bildung, der Geist
                         wissenschaftlicher Kritik – vorhanden, um zu den Urquellen nicht mit
                         gebundenen Augen, nicht mit verschlossenen Sinnen zu gehen.<lb/>In
-                            <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs> fehlte beides. Nur die <rs type="person" ref="guenther-anton" key="guenther-anton">Günther</rs>’sche Philosophie hatte Boden
+                            <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs> fehlte beides. Nur die <rs type="person" ref="#guenther-anton">Günther</rs>’sche Philosophie hatte Boden
                         gewonnen, und sich in größeren systematischen Werken auf rein philosophische
                         Fragen eingelassen. Sie war zwar auf Lehrkanzeln fast gar nicht zugelassen,
                         in der Literatur aber geduldet, weil sie sich bestrebte, die Dogmen der
                         katholischen Kirche gegen ihre protestantischen Gegner durch spekulative
-                        Raisonnements zu vertheidigen. <rs type="person" ref="guenther-anton" key="guenther-anton">Günther</rs>, <rs type="person" ref="pabst-johann-heinrich" key="pabst-johann-heinrich">Pabst</rs>, <rs type="person" ref="veith-johann-emanuel" key="veith-johann-emanuel">Veith</rs>, <rs type="person" ref="hock-carl" key="hock-carl">Hock</rs>, <rs type="person" ref="loewe-johann-heinrich" key="loewe-johann-heinrich">Löwe</rs> hatten auch Geschichte der
+                        Raisonnements zu vertheidigen. <rs type="person" ref="#guenther-anton">Günther</rs>, <rs type="person" ref="#pabst-johann-heinrich">Pabst</rs>, <rs type="person" ref="#veith-johann-emanuel">Veith</rs>, <rs type="person" ref="#hock-carl">Hock</rs>, <rs type="person" ref="#loewe-johann-heinrich">Löwe</rs> hatten auch Geschichte der
                         Philosophie betrieben; sie hatten zum Theil die neuere deutsche und
                         französische Philosophie, nachdem der Standpunkt einmal gewonnen war,
-                        beleuchtet, und im Zusammenhange erörtert, oder sich – wie <rs type="person" ref="hock-carl" key="hock-carl">Hock</rs> in früherer Zeit, <rs type="person" ref="loewe-johann-heinrich" key="loewe-johann-heinrich">Löwe</rs> in der jüngsten – in älteren
+                        beleuchtet, und im Zusammenhange erörtert, oder sich – wie <rs type="person" ref="#hock-carl">Hock</rs> in früherer Zeit, <rs type="person" ref="#loewe-johann-heinrich">Löwe</rs> in der jüngsten – in älteren
                         Philosophen nach Anknüpfungs- und Stützpunkten umgesehen, vorzugsweise nach
-                            <rs type="person" ref="descartes-rene" key="descartes-rene">Cartesius</rs>.<lb/>Neben der
+                            <rs type="person" ref="#descartes-rene">Cartesius</rs>.<lb/>Neben der
                         Güntherschen Philosophie waren es nur Herbartianer und Bolzanisten, die sich
                         in kleinerem Maßstabe aus denselben Bedürfnissen mit anderen älteren oder
-                        neueren Systemen beschäftigten, z.B. <rs type="person" ref="exner-franz" key="exner-franz">Exner</rs> polemisch gegen die Hegelsche Psychologie und
-                            <rs type="person" ref="rosenkranz-karl-friedrich" key="rosenkranz-karl-friedrich">Rosenkranz</rs>,
-                            <rs type="person" ref="zimmermann-robert" key="zimmermann-robert">Zimmermann</rs> mit <rs type="person" ref="leibniz-gottfried-wilhelm" key="leibniz-gottfried-wilhelm">Leibnitz</rs>; letzterer jedoch
+                        neueren Systemen beschäftigten, z.B. <rs type="person" ref="#exner-franz">Exner</rs> polemisch gegen die Hegelsche Psychologie und
+                            <rs type="person" ref="#rosenkranz-karl-friedrich">Rosenkranz</rs>,
+                            <rs type="person" ref="#zimmermann-robert">Zimmermann</rs> mit <rs type="person" ref="#leibniz-gottfried-wilhelm">Leibnitz</rs>; letzterer jedoch
                         erst in der jüngsten Zeit.<lb/>In der Gegenwart hat sich vieles gebessert.
                         Der Wissenschaft ist ein selbständiger Boden eingeräumt worden.
                         Philologische und historische Wissenschaften, früher nur zu pädagogischen
@@ -418,12 +418,12 @@
                         Philosophie zuwenden dürfte.<lb/>In allen Kreisen wird aber eine andere
                         Befürchtung ausgesprochen. Geschichte der Philosophie wird nicht ihrer
                         selbst willen getrieben, sondern der Philosophen wegen. Es lehren zwar
-                        gegenwärtig an drei Hochschulen (<orgName key="universitaet-graz">Gratz</orgName>, <orgName key="universitaet-prag">Prag</orgName>,
-                            <orgName key="universitaet-wien">Wien</orgName>) Philosophen, oder
+                        gegenwärtig an drei Hochschulen (<orgName>Gratz</orgName>, <orgName>Prag</orgName>,
+                            <orgName>Wien</orgName>) Philosophen, oder
                         wenigstens philosophisch gründlich gebildete Geister. Es machen sich
                         verschiedene Ansichten an verschiedenen Hochschulen geltend. Es wird heut
                         oder morgen kommen, daß das gesprochene Wort ein gedrucktes sein wird. Wie
-                        wird es mit der Duldung des philosophischen Gedankens in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> aussehn? Wird das System
+                        wird es mit der Duldung des philosophischen Gedankens in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> aussehn? Wird das System
                         adoptiert werden, das die Philosophie nur als „Magd der Theologie“
                         anerkennt? Das bis jetzt über alle philosophischen Systeme den Stab
                         gebrochen hat? Wird die große Täuschung, als ob die Philosophie todt sei,
@@ -437,11 +437,11 @@
                         der philosophischen Gedanken anschließen können und dürfen?<lb/>Das sind die
                         Fragen, welche in allen höheren wissenschaftlichen Kreisen jetzt mit
                         Lebhaftigkeit besprochen werden, von deren Beantwortung allein es abhängen
-                        wird, ob <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> in der nächsten
+                        wird, ob <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> in der nächsten
                         Zukunft eine Philosophie und eine Geschichte derselben in wissenschaftlichen
                         Werken haben wird.<lb/>Die Philosophie verlangt vom Staate keine Protektion;
                         sie verlangt von Kulturstaaten nur Duldung. Sie bricht sich dann leicht
-                        Bahn. Die Geschichte der Philosophie seit <rs type="person" ref="descartes-rene" key="descartes-rene">Descartes</rs> und <rs type="person" ref="spinoza-baruch" key="spinoza-baruch">Spinoza</rs> hat es gezeigt, daß die Macht der Philosophie nicht
+                        Bahn. Die Geschichte der Philosophie seit <rs type="person" ref="#descartes-rene">Descartes</rs> und <rs type="person" ref="#spinoza-baruch">Spinoza</rs> hat es gezeigt, daß die Macht der Philosophie nicht
                         an Personen oder Bücher gebunden ist. Die Menschheit braucht die
                         Philosophie, als selbständige geistige Potenz. Sie hat dieselbe zu keiner
                         Zeit entbehren können. Wird unsere von materiellen Interessen überfluthete
@@ -454,10 +454,10 @@
                         Bestrebungen, es wehren wollen, ideelle Interessen zu vertreten? Hand in
                         Hand gehend mit den geistigen Bestrebungen zur Hebung der Kultur im Staate
                         verliert sie ihre ätzende Schärfe. Sie ist unter
-                            <rs type="person" ref="">Perikles</rs> und <rs type="person" ref="alexander-der-grosse" key="alexander-der-grosse">Alexander dem Großen</rs>, unter <rs type="person" ref="hadrian" key="hadrian">Hadrian</rs> und <rs type="person" ref="antoninus-pius" key="antoninus-pius">Antonin</rs> mit den höchsten Trägern der Staatsgewalt gegangen;
+                            <rs type="person" ref="#">Perikles</rs> und <rs type="person" ref="#alexander-der-grosse">Alexander dem Großen</rs>, unter <rs type="person" ref="#hadrian">Hadrian</rs> und <rs type="person" ref="#antoninus-pius">Antonin</rs> mit den höchsten Trägern der Staatsgewalt gegangen;
                         sie hat mit großen Päbsten des XV bis XVI Jahrhunderts, mit den Mediceern
                         gemeinschaftlich die Kultur Italiens begründet; sie hat sich nicht
-                        hineingemischt in die Reformationsbestrebungen <rs type="person" ref="luther-martin" key="luther-martin">Luthers</rs>, sie hat in <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> keine
+                        hineingemischt in die Reformationsbestrebungen <rs type="person" ref="#luther-martin">Luthers</rs>, sie hat in <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> keine
                         Revolutionsbewegung hervorgerufen, wo ihr an einzelnen Höfen und Hochschulen
                         eine ruhige Stätte geboten wurde, während die Verfolgungen in
                             <rs type="place" subtype="country" ref="#place_8d865b652dc83da05aa34b499a9b01be">Frankreich</rs> die philosophischen Geister zur Opposition
@@ -466,7 +466,7 @@
                         doch der gemäßigten Parthei. Kein Philosoph hat sich an den
                         Revolutionswirren direkt betheiligt. Der Natur der Philosophie ist dieß
                         zuwieder. Wird man sich aller Orten dieser Thatsachen erinnern, wird man
-                        sich erinnern, daß zu der Zeit, wo <rs type="person" ref="hegel-georg-wilhelm-friedrich" key="hegel-georg-wilhelm-friedrich">Hegel</rs>, <rs type="person" ref="spinoza-baruch" key="spinoza-baruch">Spinoza</rs>, <rs type="person" ref="kant-immanuel" key="kant-immanuel">Kant</rs> in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs>
+                        sich erinnern, daß zu der Zeit, wo <rs type="person" ref="#hegel-georg-wilhelm-friedrich">Hegel</rs>, <rs type="person" ref="#spinoza-baruch">Spinoza</rs>, <rs type="person" ref="#kant-immanuel">Kant</rs> in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs>
                         verboten war, ihre Schriften am meisten gelesen wurden, und daß der [sic!]
                         Verbot von Schriften und Lehren am meisten beitrug, die Philosophie als
                         Angriffswaffe gegen den Staat zu benützen und sie so zu mißbrauchen?</p>
@@ -504,10 +504,10 @@
                         vorkommt, jene, welche diesen Vorschlag machten, haben entweder keine
                         Einsicht in die Eigenthümlichkeiten philosophischer Studien, oder keine
                         Lust, Philosophie und philosophische Bildung zu fördern. Was soll es einem
-                        Juristen nützen, wenn er die ethischen Grundsätze von <rs type="person" ref="kant-immanuel" key="kant-immanuel">Kant</rs> oder
-                            <rs type="person" ref="">Aristoteles</rs> kennen lernt, ohne zu wissen, wie diese
+                        Juristen nützen, wenn er die ethischen Grundsätze von <rs type="person" ref="#kant-immanuel">Kant</rs> oder
+                            <rs type="person" ref="#">Aristoteles</rs> kennen lernt, ohne zu wissen, wie diese
                         mit den metaphysischen Grundlehren dieser Philosophen zusammenhängen? Wird
-                        Jemand die pantheistischen Lehren der Moral (z.B. <rs type="person" ref="spinoza-baruch" key="spinoza-baruch">Spinoza</rs>) wiederlegen können, der nicht
+                        Jemand die pantheistischen Lehren der Moral (z.B. <rs type="person" ref="#spinoza-baruch">Spinoza</rs>) wiederlegen können, der nicht
                         die Grundsätze kennt, deren Konsequenzen jene sind? Wird Jemand die Lehre
                         von der Freiheit des Willens, der Zurechnungsfähigkeit in den verschiedenen
                         Systemen auch nur annäherungsweise begreifen, der nicht in der Ethik
@@ -528,18 +528,18 @@
                         eingehend Quellenstudien auf diesem Gebiete gemacht haben.<lb/>Von
                         Philosophen wird ein jüngerer Mann die Einsicht in den Zusammenhang
                         philosophischer Doktrinen gewinnen, er wird tief in die Prinzipien und in
-                        die philosophische Kritik eingeführt werden. So haben es z.B. <rs type="person" ref="struempell-ludwig" key="struempell-ludwig">Strümpel</rs> in der Geschichte der
+                        die philosophische Kritik eingeführt werden. So haben es z.B. <rs type="person" ref="#struempell-ludwig">Strümpel</rs> in der Geschichte der
                         griechischen Philosophie gethan. Der erste Band behandelt bloß die
                         theoretische Philosophie im Zusammenhange und erklärt historisch die Genesis
-                        rein theoretischer Grundbegriffe. So hat es <rs type="person" ref="schleiermacher-friedrich" key="schleiermacher-friedrich">Schleiermacher</rs> in den
+                        rein theoretischer Grundbegriffe. So hat es <rs type="person" ref="#schleiermacher-friedrich">Schleiermacher</rs> in den
                         „Grundlehren einer Kritik der bisherigen Sittenlehre“ Berlin 1803 gethan.
                         Solche Bücher, Vorträge solcher Art sind unendlich belehrend und anregend.
-                        So ist das jüngere <rs type="person" ref="fichte-johann-gottlieb" key="fichte-johann-gottlieb">Fichte</rs>
+                        So ist das jüngere <rs type="person" ref="#fichte-johann-gottlieb">Fichte</rs>
                         Werk „Die philosophischen Lehren von Recht, Staat und Sitte“ Leipzig 1850,
-                        so der erste Band von <rs type="person" ref="stahl-friedrich-julius" key="stahl-friedrich-julius">Stahls</rs> „Philosophie des Rechts von geschichtlicher Ansicht“
+                        so der erste Band von <rs type="person" ref="#stahl-friedrich-julius">Stahls</rs> „Philosophie des Rechts von geschichtlicher Ansicht“
                         bedeutend, weil beide Werke eine von philosophischem Standpunkte ausgehende
                         Kritik einzelner Doktrinen geben. So waren einzelne kleinere Schriften von
-                            <rs type="person" ref="herbart-johann-friedrich" key="herbart-johann-friedrich">Herbart</rs>, <rs type="person" ref="trendelenburg-friedrich-adolf" key="trendelenburg-friedrich-adolf">Trendelenburg</rs> u.a.m. auf
+                            <rs type="person" ref="#herbart-johann-friedrich">Herbart</rs>, <rs type="person" ref="#trendelenburg-friedrich-adolf">Trendelenburg</rs> u.a.m. auf
                         diesem Gebiete befruchtend.<lb/>Wenn aber Philosophen von Fach nicht
                         vorhanden sind, welche sich mit der Geschichte der Philosophie beschäftigen,
                         so werden mit Nutzen nur Gelehrte lesen, welche der Universitätsjugend die
@@ -548,11 +548,11 @@
                         Oberflächlichkeit, einem seichten Urtheilen entgegen, und die
                         Schwierigkeiten überwinden, die der Lektüre älterer philosophischer
                         Schriftsteller entgegenstehen. Dieß ist insbesonders bei solchen
-                        Schriftstellern nothwendig, die wie <rs type="person" ref="platon" key="platon">Plato</rs>,
-                            <rs type="person" ref="">Aristoteles</rs> seit mehr als zwei Jahrtausenden nicht
+                        Schriftstellern nothwendig, die wie <rs type="person" ref="#platon">Plato</rs>,
+                            <rs type="person" ref="#">Aristoteles</rs> seit mehr als zwei Jahrtausenden nicht
                         aufgehört haben, die Gebildeten aller Nationen in allen Weltgegenden zu
-                        beschäftigen. Nach diesen Richtungen hin, haben <rs type="person" ref="ritter-heinrich" key="ritter-heinrich">Heinr[ich] Ritter</rs> in <orgName key="universitaet-goettingen">Göttingen</orgName>, <rs type="person" ref="brandis-christian-august" key="brandis-christian-august">Brandis</rs> in <orgName key="universitaet-bonn">Bonn</orgName>, <rs type="person" ref="boeckh-august" key="boeckh-august">Böckh</rs> in <orgName key="universitaet-berlin">Berlin</orgName>, u.a.m. vortrefflich gewirkt; in
-                            <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs> ist es gegenwärtig nur <rs type="person" ref="bonitz-hermann" key="bonitz-hermann">H[ermann] Bonitz</rs>, der eingehend alte
+                        beschäftigen. Nach diesen Richtungen hin, haben <rs type="person" ref="#ritter-heinrich">Heinr[ich] Ritter</rs> in <orgName>Göttingen</orgName>, <rs type="person" ref="#brandis-christian-august">Brandis</rs> in <orgName>Bonn</orgName>, <rs type="person" ref="#boeckh-august">Böckh</rs> in <orgName>Berlin</orgName>, u.a.m. vortrefflich gewirkt; in
+                            <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs> ist es gegenwärtig nur <rs type="person" ref="#bonitz-hermann">H[ermann] Bonitz</rs>, der eingehend alte
                         Philosophen behandelt, wenn er auch nur vorzugsweise philologisch dieselben
                         interpretiert.<lb/>Endlich ist es wünschenswerth, wenn von Zeit zu Zeit
                         übersichtliche Vorlesungen an Universitäten gehalten werden, theils um

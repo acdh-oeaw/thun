@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="korinek-frantisek" key="korinek-frantisek" role="sender:gelehrter">Frantisek
-                        Kořínek</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#korinek-frantisek" role="sender:gelehrter">Frantisek
+                        Kořínek</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>o. O., o. D. <date when="1853">[1853?]</date>
                     <note xml:id="note_1">Auf dem ersten Blatt ist das Jahr mit Bleistift
                         notiert.</note>
@@ -64,10 +64,10 @@
                     odmrštěn?<lb/>Tímto přesvědčením jsa veden, osmělil jsem se i já, neznámý ve
                     světě cizinec, přímo na Vaši Excellencí psáti a prosbu svou Milosti Vaší
                     předložiti. Otec můj, učitel v <rs type="place" subtype="place" ref="#place_2ca895858343263e25404d692d4fb0c2">Uhřínově</rs> blíže Velké
-                    Mezříče [<rs type="place" subtype="place" ref="#place_4a2a2f91708481e47751d2ba84934f32">Velké Meziříčí</rs>] na <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Moravě</rs>, byl vloni odsazen proto, že veřejně zastával Husa a jeho
+                    Mezříče [<rs type="place" subtype="place" ref="#place_4a2a2f91708481e47751d2ba84934f32">Velké Meziříčí</rs>] na <rs type="place" subtype="region" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Moravě</rs>, byl vloni odsazen proto, že veřejně zastával Husa a jeho
                     stoupence. Velká tímto způsobem nastala nouze a bída proň, ale ještě větší pro
                     mou nekonečně milovanou matku, jejížto uživení zůstaveno mně.<lb/>Dokončil jsem
-                    tříletý běh na filosofické fakultě <orgName key="universitaet-prag">Pražské</orgName>, jsa po dvě leta spolupracovníkem vládních Novin
+                    tříletý běh na filosofické fakultě <orgName>Pražské</orgName>, jsa po dvě leta spolupracovníkem vládních Novin
                     Pražských. Obíral jsem se dějepisem a zeměpisem, jakož i literatrou českou i
                     Německou. Rodiče moji obracují se ke mně co k svému synovi, abych je ve stáří
                     živil a mně ubohému sotva zbývá na to, co sám nevyhnutelně potřebuji k

@@ -4,10 +4,10 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="phillips-george" key="phillips-george" role="sender:gelehrter">George
-                        Phillips</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#phillips-george" role="sender:gelehrter">George
+                        Phillips</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs>,
+                    <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs>,
                         <date when="1856-03-14">14. März 1856</date>
                 </title>
             </titleStmt>
@@ -54,28 +54,28 @@
                 </index>
                 <p>Euer Excellenz<lb/>Hochgeborner Herr Graf!</p>
                 <p>Dem Befehle Euer Excellenz gemäß habe ich gleich am ersten Tage nach meiner
-                    Ankunft in <rs type="place" subtype="place" ref="#place_d0a6343a081a7335baa965ce4fd0845c">München</rs> mit dem Generalvicar <rs type="person" ref="windischmann-friedrich" key="windischmann-friedrich">Dr. Windischmann</rs> in Betreff eines
+                    Ankunft in <rs type="place" subtype="place" ref="#place_d0a6343a081a7335baa965ce4fd0845c">München</rs> mit dem Generalvicar <rs type="person" ref="#windischmann-friedrich">Dr. Windischmann</rs> in Betreff eines
                     Übertrittes in den k.k. Staatsdienst weitere Rücksprache genommen. Derselbe
                     wiederholte seine Bereitwilligkeit, unter den Euer Excellenz bereits früher
                     bekannt gegebenen Voraussetzungen das für ihn ehrenvolle Anerbieten anzunehmen
                     und war insbesondere über die ihm zugedachte Art der Verwendung sehr erfreut. Da
                     ihm jedoch von <rs type="place" subtype="place" ref="#place_0bcbcfedf2ef1f96542597b9279fb141">Rom</rs> aus bekannt geworden war, daß Seine
                     Heiligkeit der Papst den Wunsch ausgesprochen habe, daß er wenigstens für den
-                    Anfang dem neuen <rs type="person" ref="scherr-georg" key="scherr-georg">Herrn Erzbischofe</rs>, wenn
+                    Anfang dem neuen <rs type="person" ref="#scherr-georg">Herrn Erzbischofe</rs>, wenn
                     auch nicht als Generalvicar, in der Leitung der Diöcese zur Seite stehen möge,
-                    so hat <rs type="person" ref="windischmann-friedrich" key="windischmann-friedrich">Windischmann</rs> es für
-                    seine Pflicht gehalten, unter dem Siegel der Verschwiegenheit dem <rs type="person" ref="reisach-karl-august" key="reisach-karl-august">Herrn Kardinal Grafen von Reisach</rs> von
+                    so hat <rs type="person" ref="#windischmann-friedrich">Windischmann</rs> es für
+                    seine Pflicht gehalten, unter dem Siegel der Verschwiegenheit dem <rs type="person" ref="#reisach-karl-august">Herrn Kardinal Grafen von Reisach</rs> von
                     den ihm von Euer Excellenz gemachten Anträgen in Kenntnis zu setzen, damit Seine
-                    Eminenz mit dem <rs type="person" ref="pius-IX" key="pius-IX">heiligen Vater</rs> in dieser
-                    Hinsicht Rücksprache nehmen könne. <rs type="person" ref="windischmann-friedrich" key="windischmann-friedrich">Windischmann</rs> erwartete bereits vor einigen Tagen die Antwort; da
+                    Eminenz mit dem <rs type="person" ref="#pius-IX">heiligen Vater</rs> in dieser
+                    Hinsicht Rücksprache nehmen könne. <rs type="person" ref="#windischmann-friedrich">Windischmann</rs> erwartete bereits vor einigen Tagen die Antwort; da
                     diese aber bis jetzt nicht eingetroffen ist, so habe ich geglaubt, nicht länger
                     damit zögern zu dürfen, Hochdenselben den befohlenen Bericht zu erstatten.
                     <lb/>Bei dieser Gelegenheit erlaube ich mir noch die ganz gehorsamste
-                    Mittheilung, daß Dr. <rs type="person" ref="mor-eugen" key="mor-eugen">Eugen Mor</rs> aus
+                    Mittheilung, daß Dr. <rs type="person" ref="#mor-eugen">Eugen Mor</rs> aus
                         <rs type="place" subtype="place" ref="#place_2f8cfc13edee95175f630a54177679cf">Preßburg</rs> mir in einem längeren Briefe
                     auseinandergesetzt hat, wie glücklich und dankbar er sein würde, wenn Euer
                     Excellenz bei der ihm zu seiner Freude angedeuteten Versetzung an eine
-                    Universität Hochdero Wahl auf <orgName key="universitaet-graz">Graz</orgName>
+                    Universität Hochdero Wahl auf <orgName>Graz</orgName>
                     lenken würden.<lb/>Genehmigen Hochdieselben den Ausdruck meiner ausgzeichnetsten
                     Hochachtung und Verehrung, mit welcher ich bestehe als</p>
                 <p>Euer Excellenz unterthäniger Diener<lb/>G. Phillips<lb/>k.k. Hofrath </p>

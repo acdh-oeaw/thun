@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="kuzmany-karl" key="kuzmany-karl" role="sender:gelehrter">Karl Kuzmány</rs>
-                    an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                    <rs type="person" ref="#kuzmany-karl" role="sender:gelehrter">Karl Kuzmány</rs>
+                    an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_0546943cdb764ce66d21e8910937b72a">Neusohl</rs>, <date when="1860-09-13">13. September 1860</date>
@@ -92,7 +92,7 @@
                 <p>Euer Excellenz!</p>
                 <p>Nachdem ich mein erstes Pastoralschreiben theils zugleich mit der Ankündigung
                     meines Amtsantrittes, theils um einige Tage nach dieser letzteren auch an die
-                    Senioren in <rs type="place" subtype="place" key="komitat-hont" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs> und <rs type="place" subtype="place" key="komitat-neograd" ref="#place_07198ac9f90b46b7d3930924305a26af">Neograd</rs> versendet, von dem ersteren aber
+                    Senioren in <rs type="place" subtype="place" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs> und <rs type="place" subtype="place" ref="#place_07198ac9f90b46b7d3930924305a26af">Neograd</rs> versendet, von dem ersteren aber
                     unmittelbar, von dem letzteren – der mittlerweile abdankte – durch den
                     Senioralinspector zurück mit der Erklärung erhielt, dass sie als zu der
                     Montansuperintendenz gehörend von mir keine amtlichen Zuschriften empfangen
@@ -105,25 +105,25 @@
                     Ministerialverordnung abließen nicht ganz und gar preisgeben, ja auch den nur
                     durch Terrorismus abgefallenen Gemeinden noch ein Mittel an die Hand geben
                     wollte, sich frei auszusprechen und zurückzukehren: so habe ich nach dem, dem
-                    Superintendentialamte inhärirenden Rechte in <rs type="place" subtype="place" key="komitat-hont" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs> den Pfarrer <rs type="person" ref="martinek-karl" key="martinek-karl">Martinek</rs>, in <rs type="place" subtype="place" key="komitat-neograd" ref="#place_07198ac9f90b46b7d3930924305a26af">Neograd</rs> aber den Pfarrer <rs type="person" ref="marothy-daniel" key="marothy-daniel">Daniel
-                        Maróthy</rs> zu Senioren dieser <rs type="place" subtype="place" key="komitat-sohl" ref="#place_ee8bff82abac5ff6e3e7912ed45aa215">Sohler</rs> Gemeinden ernannt und sie beinahe mit gleichlautenden
+                    Superintendentialamte inhärirenden Rechte in <rs type="place" subtype="place" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs> den Pfarrer <rs type="person" ref="#martinek-karl">Martinek</rs>, in <rs type="place" subtype="place" ref="#place_07198ac9f90b46b7d3930924305a26af">Neograd</rs> aber den Pfarrer <rs type="person" ref="#marothy-daniel">Daniel
+                        Maróthy</rs> zu Senioren dieser <rs type="place" subtype="place" ref="#place_ee8bff82abac5ff6e3e7912ed45aa215">Sohler</rs> Gemeinden ernannt und sie beinahe mit gleichlautenden
                     Instructionen versehen. Die uns, wie es scheint, seit jeher nicht besonders
-                    wohlwollende <rs type="place" subtype="place" key="komitat-hont" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honthér</rs> Comitatsbehörde
+                    wohlwollende <rs type="place" subtype="place" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honthér</rs> Comitatsbehörde
                     zu <rs type="place" subtype="place" ref="#place_704a6c40b375a030ba1499634d52fbb8">Ipoly-Ságh</rs> hat gewisse Bedenken dagegen bei Seiner
-                    Excellenz dem Herrn <rs type="person" ref="benedek-ludwig" key="benedek-ludwig">FZM Ritter von
+                    Excellenz dem Herrn <rs type="person" ref="#benedek-ludwig">FZM Ritter von
                         Benedek</rs> in <rs type="place" subtype="place" ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</rs> erhoben, worauf ich von
                     demselben die unter I. beiliegende Zuschrift erhielt. <note xml:id="note_1">Vgl.
                         die Beilage: <ref target="#D611_1">Abschrift eines Briefs von Ludwig Benedek
                             an Karl Kuzmány. Ofen, 6. September 1860.</ref>
                     </note>Ich konnte nicht
                     umhin, da mir der Gegenstand sehr dringend erscheint, augenblicklich die unter
-                    II. beifolgende Vorstellung an <rs type="person" ref="benedek-ludwig" key="benedek-ludwig">Seine Excellenz
+                    II. beifolgende Vorstellung an <rs type="person" ref="#benedek-ludwig">Seine Excellenz
                         den Herrn FZM</rs> zu richten <note xml:id="note_2">Vgl. die Beilage:
                             <ref target="#D611_2">Abschrift des Antwortschreibens von Karl Kuzmány
                             an Ludwig Benedek. Neusohl, 13. September 1860.</ref>
                     </note>, welcher
                     ich zu meiner größeren Legitimation auch noch die hier unter III. beigebogene
-                    Ernennung sammt der summarischen Instruction des Pfarrers <rs type="person" ref="martinek-karl" key="martinek-karl">Martinek</rs> zum surrogirten Senior in einer
+                    Ernennung sammt der summarischen Instruction des Pfarrers <rs type="person" ref="#martinek-karl">Martinek</rs> zum surrogirten Senior in einer
                     Übersetzung beilegte.<note xml:id="note_3">Vgl. die Beilage: <ref target="#D611_3">Abschrift des übersetzten Ernennungsschreibens für den
                             Senior von Hont, Karl Martinek, von Karl Kuzmány. Neusohl, 15. August
                             1860.</ref>
@@ -134,13 +134,13 @@
                     den Gebrauch zu machen, welchen es Euerer Excellenz gut dünken wird.<lb/>Die
                     Angelegenheit der Entscheidung über das Verhältnis der coordinirten Gemeinden,
                     Seniorate und Superintendenzen zu den nichtcoordinirten sollte nach einer
-                    früheren Euerer Excellenz schon mitgetheilten Zuschrift <rs type="person" ref="benedek-ludwig" key="benedek-ludwig">Seiner Excellenz des Herrn FZM</rs> bei den
-                        <rs type="place" subtype="place" key="ofen" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofner</rs> Centralbehörden entschieden werden;
+                    früheren Euerer Excellenz schon mitgetheilten Zuschrift <rs type="person" ref="#benedek-ludwig">Seiner Excellenz des Herrn FZM</rs> bei den
+                        <rs type="place" subtype="place" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofner</rs> Centralbehörden entschieden werden;
                     aus dieser hier unter I. beiliegenden Zuschrift hochderselben aber erhellt es,
                     dass diese Frage allerhöchsten Ortes entschieden werden solle. Ich brauche wohl
                     kaum Euere Excellenz zu bitten, bitte aber dennoch inbrünstigst nach aller
                     Thunlichkeit dahin zu wirken, dass sie zu unseren Gunsten erledigt werde: dass
-                    das kaiserliche Wort zur Geltung gebracht und die <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</rs> Superintendenz, so wie sie in dem allerhöchsten
+                    das kaiserliche Wort zur Geltung gebracht und die <rs type="place" subtype="place" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</rs> Superintendenz, so wie sie in dem allerhöchsten
                     Patente vom 1. Sept. vorigen Jahres abgegränzt erscheint und wie deren
                     Nichtbeirrung in dem allerhöchsten Handbillete vom 15. Mai dieses Jahres
                     anbefohlen worden, aufrecht erhalten werde. Geschieht das, so gewinnt Ungarn
@@ -152,13 +152,13 @@
                 <p>Neusohl, den 13. Sept. 1860</p>
                 <div type="enclosure" xml:id="D611_1">
                     <p>Mit der Zuschrift vom 23. August dieses Jahres Z. 724 haben Euere Hochwürden
-                        an die Comitatsbehörde für <rs type="place" subtype="place" key="komitat-hont" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs>
-                        in <rs type="place" subtype="place" ref="#place_07849710788659bfc8214707aeca2a8b">Ipolyságh</rs> die Ernennung des Pfarrers <rs type="person" ref="martinek-karl" key="martinek-karl">Karl Martinek</rs> in
-                            <rs type="place" subtype="place" ref="#place_1a3fdbda75ad7086e23e44e846b2234a">Csánk</rs> zum surrogirten Senior für das <rs type="place" subtype="place" key="komitat-hont" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honther Seniorat</rs> mitgetheilt und die
+                        an die Comitatsbehörde für <rs type="place" subtype="place" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs>
+                        in <rs type="place" subtype="place" ref="#place_07849710788659bfc8214707aeca2a8b">Ipolyságh</rs> die Ernennung des Pfarrers <rs type="person" ref="#martinek-karl">Karl Martinek</rs> in
+                            <rs type="place" subtype="place" ref="#place_1a3fdbda75ad7086e23e44e846b2234a">Csánk</rs> zum surrogirten Senior für das <rs type="place" subtype="place" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honther Seniorat</rs> mitgetheilt und die
                         politische Assistenz für denselben in Anspruch genommen.<lb/>Nachdem das
                         allerhöchste Patent vom 1. Sept. 1859 die Bestellung der Senioren von der
                         freien Wahl der betreffenden Gemeinden abhängig macht, sonach vorauszusetzen
-                        ist, dass von den sämtlich nichtcoordinirten Gemeinden im <rs type="place" subtype="place" key="komitat-hont" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honther Comitate</rs> Pfarrer <rs type="person" ref="martinek-karl" key="martinek-karl">Martinek</rs> als Senior nicht anerkannt
+                        ist, dass von den sämtlich nichtcoordinirten Gemeinden im <rs type="place" subtype="place" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honther Comitate</rs> Pfarrer <rs type="person" ref="#martinek-karl">Martinek</rs> als Senior nicht anerkannt
                         werden wird, hat die genannte Comitatsbehörde zur Vermeidung unangenehmer
                         Conflicte und Gehässigkeiten das Ansuchen gestellt, Euere Hochwürden bei
                         Bestellung des fraglichen Seniors vor allem zur Einhaltung des im Patente
@@ -178,11 +178,11 @@
                     <p>Hinsichtlich der mir gestern den 12. Sept. zugekommenen Zuschrift Euer
                         Excellenz vom 6. Sept. Z. 3215 finde ich mich nothgedrungen in aller
                         Ehrfurcht Folgendes einer gnädigen Erwägung zu unterbreiten:<lb/>1. Was die
-                        Meinung der löblichen k.k. Comitatsbehörde von <rs type="place" subtype="place" key="komitat-hont" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs> anbelangt, dass die A.C. Gemeinden in <rs type="place" subtype="place" key="komitat-hont" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs> „sämmtlich“ nichtcoordinirt seien,
+                        Meinung der löblichen k.k. Comitatsbehörde von <rs type="place" subtype="place" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs> anbelangt, dass die A.C. Gemeinden in <rs type="place" subtype="place" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs> „sämmtlich“ nichtcoordinirt seien,
                         so muß ich bemerken, dass eben die Gemeinde zu <rs type="place" subtype="place" ref="#place_1a3fdbda75ad7086e23e44e846b2234a">Csánk</rs>,
-                        wo <rs type="person" ref="martinek-karl" key="martinek-karl">Karl Martinek</rs> Pfarrer ist, nur
-                        in seiner Abwesenheit, während er bei <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner
-                            Majestät dem Kaiser</rs> als Deputirter des <rs type="place" subtype="place" key="bries" ref="#place_1b1d72c9ad79d868d9320c98325eb52e">Brieser</rs> Superintendentialconventes gewesen war, durch
+                        wo <rs type="person" ref="#martinek-karl">Karl Martinek</rs> Pfarrer ist, nur
+                        in seiner Abwesenheit, während er bei <rs type="person" ref="#franz-joseph">Seiner
+                            Majestät dem Kaiser</rs> als Deputirter des <rs type="place" subtype="place" ref="#place_1b1d72c9ad79d868d9320c98325eb52e">Brieser</rs> Superintendentialconventes gewesen war, durch
                         unberufene, ganz und gar illegaler Weise sich die Autorität von
                         Senioralbehörden anmaßende Eindringlinge beunruhigt, durch Vorspiegelungen
                         und Terrorismus zum Schwanken in der angenommenen Coordination, ja sogar
@@ -192,8 +192,8 @@
                         kirchlich und politisch strafwürdig, so wird doch die Geltung einer solchen
                         Desorganisationserklärung niemand als zu Recht bestehend ansehen und ihr
                         eine rechtliche Bedeutung zuerkennen vermögen. Eben so aber, wie die
-                            <rs type="place" subtype="place" key="csank" ref="#place_d2e3b68c09bf9b8d968f82a071af664f">Csanker</rs> sind viele, vielleicht die
-                        meisten Gemeinden A.C. in <rs type="place" subtype="place" key="komitat-hont" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs>
+                            <rs type="place" subtype="place" ref="#place_d2e3b68c09bf9b8d968f82a071af664f">Csanker</rs> sind viele, vielleicht die
+                        meisten Gemeinden A.C. in <rs type="place" subtype="place" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs>
                         nicht frei, nicht freiwillig, nicht in rechtlicher Weise zusammenberufenen
                         Localconvente durch Beschlußfassung, sondern – man kann es doch nicht anders
                         nennen – durch kirchlich-revolutionäre Vorgänge als von dem allerhöchsten
@@ -206,18 +206,18 @@
                         Meinungsäußerung den in rechtlicher Ordnung zusammentretenden Local- und
                         Senioralconventen nicht nur keine Hindernisse in den Weg legen, sondern sie
                         in diesem allerhöchst sanctionirten Rechtsgebrauch nach ihrer Pflicht
-                        schützen werden.<lb/>2. Meine Bestellung des Pfarrers <rs type="person" ref="martinek-karl" key="martinek-karl">Martinek</rs> ist nicht für die
+                        schützen werden.<lb/>2. Meine Bestellung des Pfarrers <rs type="person" ref="#martinek-karl">Martinek</rs> ist nicht für die
                         nichtcoordinirt gebliebenen und nicht für die durch keinen Terrorismus
                         beirrten, sondern frei und ungezwungen von dem allerhöchsten Patente
                         zurückgetretenen, vielmehr für die evangelischen A.C. Gemeinden von
-                            <rs type="place" subtype="place" key="komitat-hont" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs> zum surrogirten Senior
+                            <rs type="place" subtype="place" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs> zum surrogirten Senior
                         geschehen, welche entweder trotz aller Agitationen der Gegenpartei
                         coordinirt geblieben oder auf eine Art „beirrt“ worden sind (Beilage: die
-                        Surrogation des Herrn <rs type="person" ref="martinek-karl" key="martinek-karl">Martinek</rs>),
+                        Surrogation des Herrn <rs type="person" ref="#martinek-karl">Martinek</rs>),
                         die jedes von den sei es nun kirchlichen oder politischen
                         Revolutionsgelüsten nicht mit ergriffenes, christlich evangelisches
                         Menschenherz empören muss. Hat die löbliche k.k. Comitatsbehörde von
-                            <rs type="place" subtype="place" key="komitat-hont" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs> jenem widerrechtlichen
+                            <rs type="place" subtype="place" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs> jenem widerrechtlichen
                         Treiben theilnahmslos zugesehen und den von ihr verlangten Beistand den so
                         bedrängten Gemeinden geradezu verweigert, so hat sie sich auf eine Weise
                         benommen, die unter keinen Umständen kaum zu entschuldigen ist: mir jetzt
@@ -226,23 +226,23 @@
                         vom 15. Mai letzten Jahres „beirrten“ Gemeinden der usurpatorischen Gewalt
                         illegaler Kirchenobern preisgebe, das, Euer Excellenz, glaube ich übersteigt
                         alle Berechtigung einer Comitatsbehörde. Pfarrer Martinek aber hat mit
-                        eigenen Ohren zugleich mit der gesammten Deputation des <rs type="place" subtype="place" key="bries" ref="#place_1b1d72c9ad79d868d9320c98325eb52e">Brieser</rs> evangelischen A.C.
-                        Superintendentialconventes aus dem Munde <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner
+                        eigenen Ohren zugleich mit der gesammten Deputation des <rs type="place" subtype="place" ref="#place_1b1d72c9ad79d868d9320c98325eb52e">Brieser</rs> evangelischen A.C.
+                        Superintendentialconventes aus dem Munde <rs type="person" ref="#franz-joseph">Seiner
                             Majestät des Kaisers</rs> die aufmunterndsten Worte bei dem
                         allerhöchsten Patente zu bleiben und treu auszuharren vernommen und ebenso
-                        die Zusage des allerhöchsten Schutzes. Ich und <rs type="person" ref="martinek-karl" key="martinek-karl">Martinek</rs> müssen es daher zuversichtlich annehmen, dass das
-                        kaiserliche Wort und Gesetz auch durch die <rs type="place" subtype="place" key="komitat-hont" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honther</rs> Comitatsbehörde in Geltung erhalten werde.<lb/>3.
+                        die Zusage des allerhöchsten Schutzes. Ich und <rs type="person" ref="#martinek-karl">Martinek</rs> müssen es daher zuversichtlich annehmen, dass das
+                        kaiserliche Wort und Gesetz auch durch die <rs type="place" subtype="place" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honther</rs> Comitatsbehörde in Geltung erhalten werde.<lb/>3.
                         Dass die Bestellung zum surrogirten Senior durch mich dem allerhöchsten
                         Patente widerstreite, indem durch dasselbe die Bestellung der Senioren der
                         freien Wahl der Gemeinden anheimgestellt ist, kann ich durchaus nicht gelten
-                        lassen. Ich habe <rs type="person" ref="martinek-karl" key="martinek-karl">Martinek</rs> nicht zum
+                        lassen. Ich habe <rs type="person" ref="#martinek-karl">Martinek</rs> nicht zum
                         Senior bestellt, sondern surrogirt, also für eine Person bezeichnet, welche
                         bis zur gesetzmäßigen Wahl eines Seniors die Geschäfte desselben führt,
                         meine Zuschriften den Pfarrämtern mittheilt und sobald die Umstände es
                         ermöglichen, eben die gesetzmäßige Wahl des Seniors einleitet. Hat die
-                        Gegenpartei allen legalen Organismus des <rs type="place" subtype="place" key="komitat-hont" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honther Seniorates</rs> A.C. auf eine unverantwortliche Weise
+                        Gegenpartei allen legalen Organismus des <rs type="place" subtype="place" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honther Seniorates</rs> A.C. auf eine unverantwortliche Weise
                         zerstört, wollen die usurpatorischer Weise aufgestellten Senioralvorstände
-                        in <rs type="place" subtype="place" key="komitat-hont" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs> meine Zuschriften nicht
+                        in <rs type="place" subtype="place" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs> meine Zuschriften nicht
                         annehmen: so muss ich nach meiner Amtspflicht wohl zusehen, wie ich nach dem
                         seit der Existenz der evangelischen Kirche in der Welt und in unserem
                         Vaterlande geltendem Kirchenrechte mir provisorische Organe für die
@@ -252,41 +252,41 @@
                         allerhöchsten Patente für abgefallen erklärt wurden halten und in
                         gesetzmäßiger Weise sich selbst constituiren könnten. Dieses Recht, Euer
                         Excellenz, ist dem Superintendentialamte ein immanentes und kann demselben
-                        durch Niemand entzogen werden. Ist das, was in <rs type="place" subtype="place" key="komitat-hont" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs> nach dem 15. Mai letzten Jahres durch die Gegenpartei
+                        durch Niemand entzogen werden. Ist das, was in <rs type="place" subtype="place" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs> nach dem 15. Mai letzten Jahres durch die Gegenpartei
                         geschehen, sind die Invasionen aller Gemeinden, die Absetzung des Seniors,
                         die Fanatisirung des Volkes durch die schändlichsten Insinuationen gegen die
                         Geistlichkeit und gegen die Regierung rechtlich giltig und muss dieser
                         Zustand von mir schlechthin anerkannt, müssen die trotz des allerhöchsten
                         „Befehles“, trotz jedes kirchlichen und politischen Gesetzes terrorisirten
                         Gemeinden der Willkühr preisgegeben bleiben, darf ich den Gemeinden, welche
-                        gegenüber den übermächtigen Anfechtungen von der <rs type="place" subtype="place" key="komitat-hont" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honther</rs> Comitatsbehörde schutzlos
+                        gegenüber den übermächtigen Anfechtungen von der <rs type="place" subtype="place" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honther</rs> Comitatsbehörde schutzlos
                         gelassen worden waren, keine Möglichkeit bieten durch rechtlich bestellte
                         Organe sich frei auszusprechen: so hat der politische Umsturz in der
                         evangelischen Kirche jenes Senioralsprengels schon triumphirt, das Wort
-                            <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät</rs> vom 15. Mai:
+                            <rs type="person" ref="#franz-joseph">Seiner Majestät</rs> vom 15. Mai:
                         „Ich befehle“ ist in den Wind geschlagen und die Freiheit zum Gesetz ist
                         durch die Willkühr gegen das Gesetz völlig geknechtet. Darf ich der Willkühr
                         gegenüber auf rechtlichem Wege der freien Willenserklärung der Gemeinden
                         über ihren Rechtsgebrauch nach dem allerhöchsten Patente vom 1. Sept. kein
                         Mittel bieten, so wird sich der einen Willkühr eine andere entgegenstellen
                         und die Verwirrung wird immer größer. Schon bereiten sich gerade in
-                            <rs type="place" subtype="place" key="komitat-hont" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs> solche Vorgänge vor, und
+                            <rs type="place" subtype="place" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs> solche Vorgänge vor, und
                         ich habe bereits schriftliche Beweise in Händen, dass man dort an der
-                        Trennung sowohl von der <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</rs>
-                        als auch von der <rs type="place" subtype="place" key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesther</rs> Superintendenz
+                        Trennung sowohl von der <rs type="place" subtype="place" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</rs>
+                        als auch von der <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesther</rs> Superintendenz
                         arbeitet. Die weitere Folge könnte kaum eine andere werden, als die
                         Zertrümmerung jedes festen Gemeindeverbandes bis zum völligen
                         Independentismus.<lb/>Im Gegensatz zu der Eingabe der löblich k.k.
-                            <rs type="place" subtype="place" key="komitat-hont" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honther</rs> Comitatsbehörde bitte
+                            <rs type="place" subtype="place" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honther</rs> Comitatsbehörde bitte
                         ich daher Euer Excellenz derselben die Weisung zu ertheilen, dass sie
-                            <rs type="person" ref="martinek-karl" key="martinek-karl">Martinek</rs> in seiner Function
+                            <rs type="person" ref="#martinek-karl">Martinek</rs> in seiner Function
                         nicht beirre, sondern die Gemeinden und Pfarrer, welche sich wahrhaft frei
                         über ihr Verbleiben bei der Coordination oder über ihr wahrhaft freies
                         Zurückkehren zu derselben aussprechen, gegen alle Unbilden zu schützen
                         gehalten sei.<lb/>Für nichtcoordinirte und frei und rechtskräftig von der
                         Coordination abgefallene Gemeinden habe ich nirgends Seniore surrogirt und
                         werde es auch nicht thun.<lb/>Was die Hörigkeit der nichtcoordinirten
-                        Gemeinden und Seniorate in dem <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</rs> Superintendentialbezirke, wie er in dem
+                        Gemeinden und Seniorate in dem <rs type="place" subtype="place" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</rs> Superintendentialbezirke, wie er in dem
                         allerhöchsten Patente vom 1. Sept. vorigen Jahres abgegränzt ist, anbelangt:
                         so erlaube ich mir nur darauf aufmerksam zu machen, dass durch die hohe
                         Regierung wiederholt erklärt wurde, das allerhöchste Patent sei durch das
@@ -295,14 +295,14 @@
                         Dass zu rechtlich nicht existirenden Complexen etwas rechtlich zugeschlagen
                         werden könnte, kann ich unmöglich glauben, um so weniger, als der
                         Superintendentialconvent zu <rs type="place" subtype="place" ref="#place_7bf7e439fc58a1d4631028fce15fe47a">Bries</rs> am 27. und 28. Juni
-                        letzten Jahres den vollkommen rechtlichen Bestand der <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</rs> evangelischen A.C.
+                        letzten Jahres den vollkommen rechtlichen Bestand der <rs type="place" subtype="place" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</rs> evangelischen A.C.
                         Superintendenz nach ihrer Abgränzung in dem allerhöchsten Patente
-                        protocollarisch erklärt hat und dieses Protocoll mir vom <orgName key="ministerium-fuer-kultus-und-unterricht">hohen k.k. Ministerium für
+                        protocollarisch erklärt hat und dieses Protocoll mir vom <orgName>hohen k.k. Ministerium für
                             Cultus und Unterricht</orgName> ohne Bemerkung zum weiteren Gebrauch bei
                         dem nächsten Superintendentialconvente zugekommen ist.<lb/>Schließlich noch
                         die Bemerkung veranlassend, da in strittigen Fällen über den Sinn eines
                         Gesetzes nur dem Gesetzgeber selbst der endliche Urtheilsspruch zukommen
-                        könne, ich bis dahin, bis durch <rs type="person" ref="franz-joseph" key="franz-joseph">Seine
+                        könne, ich bis dahin, bis durch <rs type="person" ref="#franz-joseph">Seine
                             Majestät</rs> die Abgränzung der Superintendenzen nicht anders
                         bestimmt werden wird, als wie sie in dem allerhöchsten Patente vom 1. Sept.
                         vorigen Jahres geschehen ist, mich jedenfalls an dieses zu halten für
@@ -327,15 +327,15 @@
                     </p>
                     <p>Hochehrwürdiger Herr!</p>
                     <p>Sowohl Ihre persönliche Erklärung als eines Deputirtenmitgliedes von
-                            <rs type="place" subtype="place" key="komitat-sohl" ref="#place_ee8bff82abac5ff6e3e7912ed45aa215">Sohl</rs> der Superintendenz von
-                            <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät dem Kaiser</rs>,
+                            <rs type="place" subtype="place" ref="#place_ee8bff82abac5ff6e3e7912ed45aa215">Sohl</rs> der Superintendenz von
+                            <rs type="person" ref="#franz-joseph">Seiner Majestät dem Kaiser</rs>,
                         unserem allergnädigsten Herrn, als auch Ihr letzter Brief an mich, in
                         welchem Sie die Erklärung, Ihre Gemeinde sei von der Coordination abgefallen
                         als unwahr behaupten, ferner Ihr Eifer für das Haus Gottes und Ihre Fähigung
                         wie auch Ihre Geschicklichkeit zur Leitung der kirchlichen Angelegenheiten,
                         endlich aber die unumgängliche Nothwendigkeit meiner Fürsorge für unsere
                         heilige Angelegenheit haben mich dazu bewogen, Sie zum zeitweiligen Senior
-                        aller jener Gemeinden in <rs type="place" subtype="place" key="komitat-hont" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs> zu
+                        aller jener Gemeinden in <rs type="place" subtype="place" ref="#place_34757f828b3f00c518507eb75bc8f67d">Honth</rs> zu
                         bestellen, welche so wie Ihre Gemeinde nur aus einer verkehrten Absicht,
                         aber nicht als nach der Wahrheit für abgefallen erklärt worden wären von der
                         gesetzmäßigen Coordination, deren Seelsorger und das fromme Volk vielmehr

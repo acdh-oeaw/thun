@@ -4,10 +4,10 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="slavicek-josef" key="slavicek-josef" role="sender:gelehrter">Josef
-                        Slaviček</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#slavicek-josef" role="sender:gelehrter">Josef
+                        Slaviček</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" key="koeniggraetz" ref="#place_b19bff5a3b79c0971a99eefa36cc1670">Königgrätz</rs>, <date when="1853-03-12">12. März
+                    <rs type="place" subtype="place" ref="#place_b19bff5a3b79c0971a99eefa36cc1670">Königgrätz</rs>, <date when="1853-03-12">12. März
                     1853</date>
                 </title>
             </titleStmt>
@@ -68,11 +68,11 @@
                 <p>Der bekannte Sinn Euerer Excellenc alles Gute und Schöne thatkräftig zu fördern
                     und der glückliche Umstand, daß Euere Excellenc als hohes Mitglied des
                     würdigsten Comités zum Aufbaue einer Kirche in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> –
-                    dieses ruhmwürdigen Andenkens an die glückliche Rettung <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät</rs> unseres geliebten Landesherrn
+                    dieses ruhmwürdigen Andenkens an die glückliche Rettung <rs type="person" ref="#franz-joseph">Seiner Majestät</rs> unseres geliebten Landesherrn
                     – erscheinen, geben dem ehrfurchtsvoll Gefertigten den Muth sich an Euerer
                     Excellenc Gnade ehrerbietigst zu wenden.<lb/>Wie das sub litt. A cum alleg.<note xml:id="note_1">Anmerkung am Rand von derselben Hand: A cum 1–7.</note>
                     anruhende unterthänigste Einschreiten an Seine kaiserliche Hoheit den
-                    durchlauchtigsten Herrn <rs type="person" ref="ferdinand-maximilian-erzherzog" key="ferdinand-maximilian-erzherzog">Erzherzog
+                    durchlauchtigsten Herrn <rs type="person" ref="#ferdinand-maximilian-erzherzog">Erzherzog
                         Ferdinand Maximilian</rs> als hohen Vorstand des genannten Comités
                         darthut<note xml:id="note_2">Vgl. die Beilage <ref target="#D194_1">Josef
                             Slaviček an Ferdinand Maxmilian vom 11. März 1853.</ref>
@@ -97,14 +97,14 @@
                     angeführten weiteren Belege so wie mit weiterer Rücksicht auf den Umstand, daß
                     der ehrfurchtsvolle Gesuchleger die hohe Gnade und das hohe Glück hat, von
                     Euerer Excellenc persönlich gekannt zu werden, wogegen dessen Wenigkeit Seiner
-                    kaiserlichen Hoheit dem durchlauchtigsten Herrn <rs type="person" ref="ferdinand-maximilian-erzherzog" key="ferdinand-maximilian-erzherzog">Erzherzoge Ferdinand
+                    kaiserlichen Hoheit dem durchlauchtigsten Herrn <rs type="person" ref="#ferdinand-maximilian-erzherzog">Erzherzoge Ferdinand
                         Max[imilian]</rs> ganz fremd ist, wagt es nun der dankbarst
                     Gefertigte, Euere Excellenc die Beil. Litt. A cum alleg. vertrauungsvoll zur
                     hohen gefälligsten Einsicht und huldreichen Beurtheilung mit der unterthänigsten
                     Bitte zu unterbreiten:<lb/>Euere Excellenc als hohes Mitglied des erwähnten
                     hohen Comités geruhen in Gnaden die Beilage litt. A cum alleg. mit Hochdero
                     gnädigstem Gutachten an Seine kaiserliche Hoheit den durchlauchtigsten Herrn
-                        <rs type="person" ref="ferdinand-maximilian-erzherzog" key="ferdinand-maximilian-erzherzog">Erzherzog Ferdinand
+                        <rs type="person" ref="#ferdinand-maximilian-erzherzog">Erzherzog Ferdinand
                         Max[imilian]</rs> als hohen Vorstand des erwähnten Comités zur
                     weiteren gnädigsten Verfügung hochgeneigtest leiten zu lassen.</p>
                 <p>Königgrätz, den 12. März 1853</p>
@@ -112,7 +112,7 @@
                 <p/>
                 <div type="enclosure" xml:id="D194_1">
                     <p>Euere kaiserlich-königliche Hoheit!</p>
-                    <p>Der für jeden treuen Unterthan <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät
+                    <p>Der für jeden treuen Unterthan <rs type="person" ref="#franz-joseph">Seiner Majestät
                             unseres allergnädigsten Herrn und Kaisers</rs> unvergeßliche 18.
                         Februar 1853 war der lautere und unerschöpfliche Quell zahlloser Beweise der
                         Liebe, Treue und Anhänglichkeit an den geliebten Monarchen. Der unbegränzten
@@ -138,13 +138,13 @@
                         auch der spätesten Nachwelt in bewundernder und dankbarlicher Erinnerung zu
                         erhalten, darüber herrscht wohl jetzt nur Eine Stimme; doch Euere
                         kaiserliche Hoheit geruhten der Erste am 27. Februar 1853 diese Stimme
-                        öffentlich zu erheben, der Erste die treuen Völker <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> zu freiwilligen Beiträgen für
+                        öffentlich zu erheben, der Erste die treuen Völker <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> zu freiwilligen Beiträgen für
                         die Errichtung eines großartigen Gotteshauses in Wien huldvoll
                         aufzumuntern.<lb/>Daß eine so erhabene, den reinsten Edelsinn athmende
-                        Stimme nie verhallen könne und mit goldenen Lettern in den Annalen <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> stets geschrieben bleibe, dafür
+                        Stimme nie verhallen könne und mit goldenen Lettern in den Annalen <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> stets geschrieben bleibe, dafür
                         bürgt ihr hoher Inhalt, dafür sprechen jetzt schon klare Beweise.<lb/>Denn
                         kaum begann jener liebevolle Aufruf Euerer kaiserlichen Hoheit in den
-                        Lüften, die <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> weite Gauen
+                        Lüften, die <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> weite Gauen
                         durchwehen, ermunternd zu erschallen, so lasen wir, daß bereits unterm 3.
                         März dieses Jahres, also binnen zwei Tagen, über 134.000 fl CM zu dem
                         beabsichtigten Baue erlegt worden seien, bei welchem so nahmhaften Geschenke
@@ -155,8 +155,8 @@
                         kleinste Funke von Liebe für etwas Schönes, Gutes und Erhabenes sich rührt,
                         angeeifert und entflammt werden, nach Kräften zur Vollführung des
                         beabsichtigten ewigschönen Denkmals beizutragen! Es gilt ja sein Beitrag
-                        einem Nationaldenkmale des einigen, großen <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> – einem Werke zur Ehre des Allerhöchsten – zum
-                        Andenken an die Rettung des geliebten <rs type="person" ref="franz-joseph" key="franz-joseph">Kaisers
+                        einem Nationaldenkmale des einigen, großen <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> – einem Werke zur Ehre des Allerhöchsten – zum
+                        Andenken an die Rettung des geliebten <rs type="person" ref="#franz-joseph">Kaisers
                             Franz Josef</rs>, der unter unheilvollen Verhältnissen, im zarten
                         Jugendalter zwar, doch reich an Kenntnis und edlem Willen, Habsburgs
                         ruhmgekrönten Herrscherthron betretend, in einer kurzen Regierungsperiode
@@ -164,7 +164,7 @@
                         angestammter Liebe, mit seltener Weisheit und Umsicht, mit unermüdlichem
                         Eifer redlichst sich bemüht, das wahre Glück Seiner Völker zu fördern und
                         durch immer mehr und mehr erstarkende Einigkeit zum gemeinsamen Wohle ein
-                        mächtiges, glückliches <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> zu
+                        mächtiges, glückliches <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> zu
                         erhalten.<lb/>Dies und ähnliche ungeheuchelten Betrachtungen, Gefühle und
                         Überzeugungen müssen jeden, müssen auch den ehrerbietigst Gefertigten
                         durchdringen und sinnen machen, auf welche Art und Weise auch er in seinen
@@ -244,10 +244,10 @@
                         <hi rend="ul">„Der Soldatenspiegel.
                             Eine gewählte Reihe belehrender, aufmunternder und unterhaltender
                             Compilationen, dann Aufsätze anderer Art für den Soldaten von Dr.
-                                <rs type="person" ref="slavicek-josef" key="slavicek-josef">Josef Slawiček</rs>. Gewidmet
+                                <rs type="person" ref="#slavicek-josef">Josef Slawiček</rs>. Gewidmet
                             zum Besten der über Anregung Seiner kaiserlichen Hoheit des
-                            durchlauchtigsten Herrn <rs type="person" ref="ferdinand-maximilian-erzherzog" key="ferdinand-maximilian-erzherzog">Erzherzogs Ferdinand Maximilian Josef</rs> zum Andenken an
-                            die am 18. Februar 1853 erfolgte glückliche Rettung <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät des Kaisers Franz Josef
+                            durchlauchtigsten Herrn <rs type="person" ref="#ferdinand-maximilian-erzherzog">Erzherzogs Ferdinand Maximilian Josef</rs> zum Andenken an
+                            die am 18. Februar 1853 erfolgte glückliche Rettung <rs type="person" ref="#franz-joseph">Seiner Majestät des Kaisers Franz Josef
                                 I.</rs> in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> zu erbauenden
                             Kirche.“</hi>
                         <lb/>Aus der Beilage 7 geruhen Euere kaiserliche Hoheit das
@@ -264,7 +264,7 @@
                         kaiserlichen Hoheit beabsichtigten Kirchenbaue verwendet, um hiedurch
                         wenigstens theilweise seine Liebe zu seinem allergnädigsten Herrn und Kaiser
                         und sein innigstes freudigstes Gefühl über Hochdessen Rettung zu
-                        bestätigen.<lb/>Würden nun in der großen <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">österreichischen Monarchie</rs> von jenem Werke nur 1000 Exemplare
+                        bestätigen.<lb/>Würden nun in der großen <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">österreichischen Monarchie</rs> von jenem Werke nur 1000 Exemplare
                         ein für allemal abgesetzt und würde der Preis eines jeden Exemplars nur auf
                         1 fl 30 kr CM angesetzt werden und sich bei 1000 Exemplaren die Druck- und
                         Regiekosten auf 500 fl CM belaufen, so würde doch der für den Kirchenbau
@@ -300,7 +300,7 @@
                         sein bescheidenes Werk <hi rend="ul">dem durchlauchtigsten Namen Euerer
                             kaiserlichen Hoheit dediciren würde</hi>.<lb/>Der Umstand, daß Euere
                         kaiserliche Hoheit der Erste ein so erhabenes Andenken an die glückliche
-                        Rettung <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät</rs> hervorriefen
+                        Rettung <rs type="person" ref="#franz-joseph">Seiner Majestät</rs> hervorriefen
                         so wie der Umstand, daß Euere kaiserliche Hoheit glorreicher Name gewiß dazu
                         beitragen würde, um dem bescheidenen litterärischen Werke Gewicht,
                         Ausbreitung und sicheres Gedeihen zu verschaffen, damit es seinen gewiß
@@ -379,7 +379,7 @@
                         Unterhalt des Militärs<lb/>1.1.2. Besondere Arten der Organisirung und
                         Einhaltung des Militärs und zwar<lb/>1.1.2.a. Der Nationaltruppen oder der
                         so genannten eingetheilten Soldaten in Schweden <lb/>1.1.2.b. Der
-                        Militärkolonisten in <rs type="place" subtype="country" key="russland" ref="#place_5c0704d47c0a58a0922e25b5b9b66b27">Rußland</rs>
+                        Militärkolonisten in <rs type="place" subtype="country" ref="#place_5c0704d47c0a58a0922e25b5b9b66b27">Rußland</rs>
                         <lb/>1.1.2.c. Der Militärgränzen in <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs>
                         <lb/>1.2. Seemacht<lb/>III. Capitel<lb/>Über die Militärverwaltung in
                             <rs type="place" subtype="country" ref="#place_3883fbd2cee0ff6d323d2492482e7b79">Oesterreich</rs> insbesondere<lb/>1. Die Verwaltungsorgane
@@ -445,9 +445,9 @@
                         <hi rend="ul">1. Vereinte
                             Kräfte wirken!</hi>
                         <lb/>
-                        <hi rend="italic">Seine Majestät <rs type="person" ref="franz-joseph" key="franz-joseph">Franz Josef I.</rs> Kaiser von
+                        <hi rend="italic">Seine Majestät <rs type="person" ref="#franz-joseph">Franz Josef I.</rs> Kaiser von
                             Oesterreich</hi>
-                        <lb/>Dieser von Seiner Majestät dem <rs type="person" ref="franz-joseph" key="franz-joseph">Kaiser von Oesterreich</rs> gewählte, einem
+                        <lb/>Dieser von Seiner Majestät dem <rs type="person" ref="#franz-joseph">Kaiser von Oesterreich</rs> gewählte, einem
                         ganzen statistischen Systeme zur Grundlage dienende, wichtige Wahlspruch
                         verräth nicht bloß die tiefste Einsicht in die festen Grundlagen eines
                         beglückenden Staatslebens, sondern zeigt auch mit unauslöschlichen Merkmalen
@@ -483,43 +483,43 @@
                         glückbringende Streben seines obersten Herrn und Kaisers nicht mit aller
                         Kraft unterstützen? Wer wollte, sich jenen wichtigen Wahlspruch seines
                         großen Monarchen tief einprägend, nicht auch in jeder Hinsicht darnach
-                        handeln? Glück dem Staate, der wie der <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">österreichische</rs> ein so glänzendes Vorbild in seinem
+                        handeln? Glück dem Staate, der wie der <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">österreichische</rs> ein so glänzendes Vorbild in seinem
                         angestammten hohen Herrscher hat!</p>
                     <p>
                         <hi rend="ul">2. Vereinigt seid Ihr fähig, Stand zu halten, vereinzelt werdet
                             Ihr untergehen!</hi>
                         <lb/>
                         <hi rend="italic">
-                            <rs type="person" ref="themistokles" key="themistokles">Themistocles</rs>
+                            <rs type="person" ref="#themistokles">Themistocles</rs>
                         </hi>
                         <lb/>Diese Worte rieth der
-                        atheniensische Held <rs type="person" ref="themistokles" key="themistokles">Themistocles</rs> den
-                        Athenern, als <rs type="person" ref="xerxes-I" key="xerxes-I">Xerxes</rs>
+                        atheniensische Held <rs type="person" ref="#themistokles">Themistocles</rs> den
+                        Athenern, als <rs type="person" ref="#xerxes-I">Xerxes</rs>
                         <rs type="place" subtype="place" ref="#place_8f96082621edf8a333416cae9740e8fe">Athen</rs> bedrohte und einige Athener, die sich zu
                         Schiffe befanden, der Ansicht waren, es wäre besser, sich lieber in der
-                        Stadt als auf dem Schiffe gegen <rs type="person" ref="xerxes-I" key="xerxes-I">Xerxes</rs>
+                        Stadt als auf dem Schiffe gegen <rs type="person" ref="#xerxes-I">Xerxes</rs>
                         zu vertheidigen. Die glücklichen Resultate der Seeschlacht bei Salamis, wo
-                            <rs type="person" ref="themistokles" key="themistokles">Themistocles</rs> glänzend siegte,
+                            <rs type="person" ref="#themistokles">Themistocles</rs> glänzend siegte,
                         bekräftigten aufs deutlichste die Wahrheit obiger Worte.</p>
                     <p>3. <hi rend="ul">Die Kenntnis aller Theile der Kriegsführung erwirbt man sich
                             nur durch die Erfahrung, dann durch das Studium der Kriegsgeschichte und
                             der Schlachten großer Feldherrn. Leset sie und leset sie wieder die
-                            Geschichte der Feldzüge eines <rs type="person" ref="alexander-der-grosse" key="alexander-der-grosse">Alexander</rs>, eines <rs type="person" ref="hannibal" key="hannibal">Hannibal</rs>, eines Cäsar, eines <rs type="person" ref="gustav-II-adolf" key="gustav-II-adolf">Gustav Adolf</rs>, eines <rs type="person" ref="henri-de-la-tour-dauvergne" key="henri-de-la-tour-dauvergne">Turenne</rs>, eines <rs type="person" ref="eugen-von-savoyen" key="eugen-von-savoyen">Prinzen Eugen</rs> und bildet Euch
+                            Geschichte der Feldzüge eines <rs type="person" ref="#alexander-der-grosse">Alexander</rs>, eines <rs type="person" ref="#hannibal">Hannibal</rs>, eines Cäsar, eines <rs type="person" ref="#gustav-II-adolf">Gustav Adolf</rs>, eines <rs type="person" ref="#henri-de-la-tour-dauvergne">Turenne</rs>, eines <rs type="person" ref="#eugen-von-savoyen">Prinzen Eugen</rs> und bildet Euch
                             darnach, denn dies ist das einzige Mittel, ein großer Feldherr zu
                             werden.</hi>
                         <lb/>
-                        <rs type="person" ref="napoleon-bonaparte" key="napoleon-bonaparte">
+                        <rs type="person" ref="#napoleon-bonaparte">
                             <hi rend="italic">Napoleon Bonaparte</hi>
                         </rs>
-                        <lb/>Worte <rs type="person" ref="napoleon-bonaparte" key="napoleon-bonaparte">Napoleons Bon[aparte]</rs>
+                        <lb/>Worte <rs type="person" ref="#napoleon-bonaparte">Napoleons Bon[aparte]</rs>
                     </p>
                     <p>4. <hi rend="ul">Die liberalen Ideen haben mich zu Grunde
                             gerichtet.</hi>
                         <lb/>
-                        <rs type="person" ref="napoleon-bonaparte" key="napoleon-bonaparte">
+                        <rs type="person" ref="#napoleon-bonaparte">
                             <hi rend="italic">Napoleon Bonaparte</hi>
                         </rs>
-                        <lb/>Worte <rs type="person" ref="napoleon-bonaparte" key="napoleon-bonaparte">Napoleons Bon[aparte]</rs> nach seinem
+                        <lb/>Worte <rs type="person" ref="#napoleon-bonaparte">Napoleons Bon[aparte]</rs> nach seinem
                         Sturze. Diese wichtigen Worte sollte sich jeder nach einem Umsturze der
                         politischen Verhältnisse strebende Fanatiker wohl als ewige Warnung
                         einprägen, da sie sonst gewiß an ihm auch in Erfüllung gehen würde.</p>
@@ -537,38 +537,38 @@
                             in der französischen Revolution</hi>
                         <lb/>In der französischen Revolution
                         1793 wurden drei königlich Gesinnte von der revolutionären Parthei gefangen
-                        und vor den gleichfalls revolutionären General <rs type="person" ref="vandamme-dominique" key="vandamme-dominique">Vandamme</rs> gebracht. Zwei davon machte
-                            <rs type="person" ref="vandamme-dominique" key="vandamme-dominique">Vandamme</rs> gleich nieder,
+                        und vor den gleichfalls revolutionären General <rs type="person" ref="#vandamme-dominique">Vandamme</rs> gebracht. Zwei davon machte
+                            <rs type="person" ref="#vandamme-dominique">Vandamme</rs> gleich nieder,
                         den dritten jedoch suchte er unter Androhung eines sicheren Todes auf seine
-                        Seite zu bringen. Dieser aber blieb seinem Könige getreu und gab <rs type="person" ref="vandamme-dominique" key="vandamme-dominique">Vandamme</rs> über dessen Antrag obige
+                        Seite zu bringen. Dieser aber blieb seinem Könige getreu und gab <rs type="person" ref="#vandamme-dominique">Vandamme</rs> über dessen Antrag obige
                         Worte zur Antwort, worauf ihn Vandamme mit seiner Pistole niederschoß.</p>
                     <p>7. <hi rend="ul">Die Mutter eines Feigen pflegt nicht zu
                             weinen.</hi>
                         <lb/>
-                        <rs type="person" ref="thrasybulos" key="thrasybulos">
+                        <rs type="person" ref="#thrasybulos">
                             <hi rend="italic">Trasybulus</hi>
                         </rs>[Thrasybulos]<lb/>Cornelii nepotis
-                            <rs type="person" ref="thrasybulos" key="thrasybulos">Trasybulus</rs>
+                            <rs type="person" ref="#thrasybulos">Trasybulus</rs>
                     </p>
                     <p>8. <hi rend="ul">Für Feige ist in der Armee kein Platz.</hi>
                         <lb/>
-                        <hi rend="italic">Zumalacarregni</hi> [<rs type="person" ref="zumalacarregui-tomas" key="zumalacarregui-tomas">Zumalacárregui</rs>]<lb/>In dem spanischen Bürgerkriegen 1835
+                        <hi rend="italic">Zumalacarregni</hi> [<rs type="person" ref="#zumalacarregui-tomas">Zumalacárregui</rs>]<lb/>In dem spanischen Bürgerkriegen 1835
                         hatten sich die Christinos durch die Befestigung aller Orte gegen die
                         Karlisten, die gar keine Geschütze besaßen, geschützt. Der karlistische
-                        Feldherr <rs type="person" ref="zumalacarregui-tomas" key="zumalacarregui-tomas">Zumalacarregni</rs> war
+                        Feldherr <rs type="person" ref="#zumalacarregui-tomas">Zumalacarregni</rs> war
                         also bemüht, sich in den Besitz einiger Kanonen zu setzen. Er wußte, daß in
                         Echarri-Arenas, einem der Hauptpunkte im Borunda-Thale 6 Geschütze, 4000
                         Gewehre und andere bedeutende Vorräthe sich befinden und gewann zwei
                         Offiziere der Besatzung für sich, um seinen Plan auszuführen. Die Zeit des
                         Überfalls war auf den Zeitpunkt, wo die verrätherischen zwei Offiziere die
-                        Wache bezogen und zur Nachtzeit bestimmt. <rs type="person" ref="zumalacarregui-tomas" key="zumalacarregui-tomas">Zumalacarregni</rs> führte zur
+                        Wache bezogen und zur Nachtzeit bestimmt. <rs type="person" ref="#zumalacarregui-tomas">Zumalacarregni</rs> führte zur
                         bestimmten Zeit seine Truppen selbst an Ort und Stelle und der Überfall wäre
                         gelungen, wenn nicht die Feigheit zweier Compagnien das ganze Unternehmen
                         vereitelt hätte. In Folge dieses feigen Benehmens wurden alle Offiziere
                         dieser zwei Compagnien infam kassirt, ihres Dienstes entlassen und von jeder
                         Compagnie ein Mann, den das Loos bestimmte, erschoßen. Zwei der entlassenen
                         Offiziere suchten später unter dem genannten Feldherrn als Gemeine
-                        einzutreten, erhielt[en] aber von <rs type="person" ref="zumalacarregui-tomas" key="zumalacarregui-tomas">Zumalacarregni</rs> über ihr Ansuchen obige Worte zum
+                        einzutreten, erhielt[en] aber von <rs type="person" ref="#zumalacarregui-tomas">Zumalacarregni</rs> über ihr Ansuchen obige Worte zum
                         wohlverdienten Bescheide.</p>
                     <p>9. <hi rend="ul">Ich stehe vor dem, der mich erschaffen hat und will stehend
                             ihm meinen Geist wiedergeben. – Ich habe dem Tode so oft unerschrocken
@@ -576,18 +576,18 @@
                             verbundenen Augen ihn erwarten? Nein! Hofer weiß zu
                             sterben!</hi>
                         <lb/>
-                        <rs type="person" ref="hofer-andreas" key="hofer-andreas">
+                        <rs type="person" ref="#hofer-andreas">
                             <hi rend="italic">Andreas Hofer</hi>
                         </rs>
                         <lb/>Letzte Worte des dem
-                        österreichischen Kaiserhause treu ergebenen Tirolers <rs type="person" ref="hofer-andreas" key="hofer-andreas">Andreas Hofer</rs>, auch der Sandwirth
+                        österreichischen Kaiserhause treu ergebenen Tirolers <rs type="person" ref="#hofer-andreas">Andreas Hofer</rs>, auch der Sandwirth
                         genannt. Als nämlich Hofer am 20. Februar 1810 von den Franzosen zum Tode
                         geführt geheißen wurde, niederzuknien und sich die Augen verbinden zu
                         lassen, sprach dieser kühn und dem Herrscher getreue Mann obige Worte. Nur
                         an die Familie Hofers konnte Seine Majestät der billig denkende Kaiser
-                            <rs type="person" ref="franz-I-II" key="franz-I-II">Franz I.</rs> diesen Heldenmuth lohnen,
+                            <rs type="person" ref="#franz-I-II">Franz I.</rs> diesen Heldenmuth lohnen,
                         indem Er sich ihrer nachdrücklich annahm und sie in den Adelstand erhob. Dem
-                            <rs type="person" ref="hofer-andreas" key="hofer-andreas">Andreas Hofer</rs> selbst wurde in
+                            <rs type="person" ref="#hofer-andreas">Andreas Hofer</rs> selbst wurde in
                         der Kirche zu <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs> ein Standbild gesetzt.<lb/>u.
                         a. m.</p>
                     <p/>
@@ -627,27 +627,27 @@
                         Häuser, Dörfer, Städte nur mit Gräben und Erdaufschüttungen, dann mit Mauern
                         und zwar auch nur von Holz umgeben, ja <rs type="place" subtype="country" ref="#place_ae54a5c026f31ada088992587d92cb3a">China</rs> liefert
                         sogar ein Beispiel einer der großartigsten Befestigungen eines ganzen
-                        Länderstrichs mit einer hölzernen Mauer. <rs type="person" ref="appian-von-alexandrien" key="appian-von-alexandrien">Appian von Alexandrien</rs> führt in
-                        seinen „römischen Bürgerkriegen“ an, daß der Legat <rs type="person" ref="sulla-lucius-cornelius" key="sulla-lucius-cornelius">Cornelius Sylla</rs> [Sulla] die
+                        Länderstrichs mit einer hölzernen Mauer. <rs type="person" ref="#appian-von-alexandrien">Appian von Alexandrien</rs> führt in
+                        seinen „römischen Bürgerkriegen“ an, daß der Legat <rs type="person" ref="#sulla-lucius-cornelius">Cornelius Sylla</rs> [Sulla] die
                         Mauern einer herzinischen Stadt mit Reisig umlegen und anzünden ließ. Je
                         höher die Kultur stieg, ging man auch mit der Befestigung der Plätze weiter.
                         Man baute Mauern mit eingefügten Minen, doppelte Wälle mit Zinnen und <hi rend="ul">Bastionen</hi>. Als erste Idee der Bastion führt man an die
-                        letzte Art der Befestigung von <rs type="place" subtype="place" key="solin" ref="#place_6d3b365884aa3ff4107b6995e580de1b">Salona</rs>
-                        [Solin] (das alte <rs type="place" subtype="place" key="solin" ref="#place_6d3b365884aa3ff4107b6995e580de1b">Salona</rs> mit dem Pallaste
-                            <rs type="person" ref="diokletian" key="diokletian">Diokletians</rs>, nun ein Dorf in
-                            <rs type="place" subtype="region" key="dalmatien" ref="#place_001331e8b2651f9f78991538c3a7e594">Dalmazien</rs>, Bezirk <rs type="place" subtype="place" key="spalato" ref="#place_709f3a6e556e54e97c8bcc39dade6c1d">Spalatro</rs> [Spalato, Split]), wo über Anordnung
-                        Weiland Seiner Majestät des <rs type="person" ref="franz-I-II" key="franz-I-II">Kaisers Franz
+                        letzte Art der Befestigung von <rs type="place" subtype="place" ref="#place_6d3b365884aa3ff4107b6995e580de1b">Salona</rs>
+                        [Solin] (das alte <rs type="place" subtype="place" ref="#place_6d3b365884aa3ff4107b6995e580de1b">Salona</rs> mit dem Pallaste
+                            <rs type="person" ref="#diokletian">Diokletians</rs>, nun ein Dorf in
+                            <rs type="place" subtype="region" ref="#place_001331e8b2651f9f78991538c3a7e594">Dalmazien</rs>, Bezirk <rs type="place" subtype="place" ref="#place_709f3a6e556e54e97c8bcc39dade6c1d">Spalatro</rs> [Spalato, Split]), wo über Anordnung
+                        Weiland Seiner Majestät des <rs type="person" ref="#franz-I-II">Kaisers Franz
                             I.</rs> bedeutende Nachgrabungen angeordnet wurden. Nach genauer
                         Prüfung aller über diese und ähnliche Gegenstände veröffentlichten Werke,
-                        als: <rs type="person" ref="martini-francesco" key="martini-francesco">Martini</rs>, <rs type="person" ref="sanmicheli-michele" key="sanmicheli-michele">Sanmicheli</rs>, <rs type="person" ref="alberti-leon-battista" key="alberti-leon-battista">Leon Battista</rs>, <rs type="person" ref="duerer-albrecht" key="duerer-albrecht">Albrecht Dürer</rs> u.a. der wichtigsten
+                        als: <rs type="person" ref="#martini-francesco">Martini</rs>, <rs type="person" ref="#sanmicheli-michele">Sanmicheli</rs>, <rs type="person" ref="#alberti-leon-battista">Leon Battista</rs>, <rs type="person" ref="#duerer-albrecht">Albrecht Dürer</rs> u.a. der wichtigsten
                         Monumente, wie sie die zwei pentagonalen Thürme zu
                             <rs type="place" subtype="place" ref="#place_b2114cc02aeee3cd3f80a773ca6597de">Como</rs> vom Jahre 1192, die Befestigungen von
-                            <rs type="place" subtype="place" ref="#place_6f4402d6ad62cafca8ecfaa58cc6a2a0">Labor</rs> in <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs>
+                            <rs type="place" subtype="place" ref="#place_6f4402d6ad62cafca8ecfaa58cc6a2a0">Labor</rs> in <rs type="place" subtype="region" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs>
                         aus dem Jahre 1420, jene zu <rs type="place" subtype="place" ref="#place_bc2b63a1e6b1d5603983b2a3336f0a6f">Otranto</rs> vom Jahre 1480,
-                        die Bastionen von <rs type="place" subtype="place" key="san-michele" ref="#place_5bd1d3208e3a3e75f9ce279f74cf08fb">Sanmicheli</rs>, die
+                        die Bastionen von <rs type="place" subtype="place" ref="#place_5bd1d3208e3a3e75f9ce279f74cf08fb">Sanmicheli</rs>, die
                         Thürme von <rs type="place" subtype="place" ref="#place_9219ee9e1eb760ce3bd97532b5ca05e1">Pola</rs> usw. darstellen, hat Professor Dr.
-                            <rs type="person" ref="carrara-franz" key="carrara-franz">Carara</rs> [Carrara] in seiner
-                        Topographie von <rs type="place" subtype="place" key="solin" ref="#place_6d3b365884aa3ff4107b6995e580de1b">Salona</rs> jene Entdeckung
+                            <rs type="person" ref="#carrara-franz">Carara</rs> [Carrara] in seiner
+                        Topographie von <rs type="place" subtype="place" ref="#place_6d3b365884aa3ff4107b6995e580de1b">Salona</rs> jene Entdeckung
                         der ersten Idee der Bastion nachgewiesen. Aus den Resultaten der
                         diesfälligen Forschungen geht aber hervor, daß die Erfindung der Bastionen
                         weder eine italienische, noch spanische oder böhmische, sondern eine
@@ -663,14 +663,14 @@
                         waren es oft, die von den bedeutendsten Folgen begleitet waren. Ein
                         Steinchen, geworfen aus dem Neustädter Rathhause zu
                             <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs> auf die hussitischen Priester, gab
-                        theilweise Anlaß zum Ausbruche der hussitischen Unruhen in <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs>. Mit einer Schale Suppe soll sich der
-                        unglückliche König <rs type="person" ref="ludwig-XVI" key="ludwig-XVI">Ludwig XVI.</rs> auf
+                        theilweise Anlaß zum Ausbruche der hussitischen Unruhen in <rs type="place" subtype="region" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs>. Mit einer Schale Suppe soll sich der
+                        unglückliche König <rs type="person" ref="#ludwig-XVI">Ludwig XVI.</rs> auf
                         seiner Flucht aus <rs type="place" subtype="place" ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</rs> zu Mennehoul
                             [<rs type="place" subtype="place" ref="#place_14967be2c6f0b9ed1da33491472d1080">Sainte-Menehould</rs>] verrathen haben; einmal
                         erkannt, wurde er sofort nach <rs type="place" subtype="place" ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</rs> zurückgebracht,
                         um daselbst später grausam hingemordet zu werden. Ein Streusand ist an sich
                         eine Kleinigkeit und doch mahnt uns der Sand, mit dem das Papier, worauf der
-                        Artilleriesergeant und später Marschall und Herzog <rs type="person" ref="junot-jean" key="junot-jean">Junot</rs> die Befehle <rs type="person" ref="napoleon-bonaparte" key="napoleon-bonaparte">Napoleons</rs> niederschrieb, bestreut
+                        Artilleriesergeant und später Marschall und Herzog <rs type="person" ref="#junot-jean">Junot</rs> die Befehle <rs type="person" ref="#napoleon-bonaparte">Napoleons</rs> niederschrieb, bestreut
                         wurde, an eine so folgenreiche Zeit.<lb/>Und so sind auch manche botanische
                         Gewächse von manchem Militär vielleicht nicht genug beachtete Kleinigkeiten,
                         ohne daß sie dieses Loos wirklich verdienten. Ein einfaches Gras,
@@ -681,19 +681,19 @@
                         bestimmt war. Bescheiden und unbeachtet steht hier und da der
                         Holunderstrauch und doch erinnert er an den Sturz der böhmischen Herrn aus
                         den Fenstern der königlichen Burg zu <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, an einen
-                            <rs type="person" ref="martinic-jaroslav-borsita" key="martinic-jaroslav-borsita">Martinic</rs>, <rs type="person" ref="slavata-wilhelm" key="slavata-wilhelm">Slawata</rs>, an die so wichtige Periode des
+                            <rs type="person" ref="#martinic-jaroslav-borsita">Martinic</rs>, <rs type="person" ref="#slavata-wilhelm">Slawata</rs>, an die so wichtige Periode des
                         30jährigen Krieges. Wie mancher labt sich an dem erquickenden Dufte einer
                         weißen oder rothen Rose, ohne sich dabei zu erinnern, daß im 15.
                         Jahrhunderte die rothe Rose die Parthei des Hauses Lancaster, die weiße Rose
-                        dagegen die Parthei des Hauses <rs type="person" ref="plantagenet-richard" key="plantagenet-richard">Richard
+                        dagegen die Parthei des Hauses <rs type="person" ref="#plantagenet-richard">Richard
                             Herzogs von York</rs> geheißen und daß die Kämpfe dieser beiden
                         Rosen <rs type="place" subtype="country" ref="#place_64f607906be7598a02d75dbc1e979662">England</rs> in 30jährigen Jammer stürzten. Ähnliches
                         Schicksal widerfährt auch der zarten Lilie und der rauhen Distel und doch
                         rufen uns diese beiden Pflanzen einen 24. März 1572 und die Worte des
-                        ergrimmten <rs type="person" ref="fernando-alvarez-de-toledo" key="fernando-alvarez-de-toledo">Herzogs
-                            Alba</rs> ins Gedächtnis zurück: „<rs type="person" ref="medici-katharina" key="medici-katharina">Katharina von Medizis</rs> [Medici] hat mich mit florentinischen
+                        ergrimmten <rs type="person" ref="#fernando-alvarez-de-toledo">Herzogs
+                            Alba</rs> ins Gedächtnis zurück: „<rs type="person" ref="#medici-katharina">Katharina von Medizis</rs> [Medici] hat mich mit florentinischen
                         Lilien beschenkt, dafür werde ich ihr spanische Disteln senden.“ – erinnern
-                        uns, daß <rs type="person" ref="fernando-alvarez-de-toledo" key="fernando-alvarez-de-toledo">Alba</rs> in
+                        uns, daß <rs type="person" ref="#fernando-alvarez-de-toledo">Alba</rs> in
                         seinem Ingrimme einen neuen Kriegsplan entwarf, der für ihn von den
                         nachtheiligsten Folgen begleitet, der Revolution einen freien Spielraum
                         ließ.</p>

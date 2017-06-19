@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
-                        <rs type="person" ref="ficker-julius" key="ficker-julius" role="recipient">Julius
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#ficker-julius" role="recipient">Julius
                         Ficker</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1860-08-31">31. August 1860</date>
@@ -77,13 +77,13 @@
                     die erste Entscheidung nicht bloß auf Grundlage der Akten gefällt worden sei, so
                     glaube ich versichern zu können, daß er nicht gegründet ist. Ich kann natürlich
                     nicht dafür bürgen, ob nicht an subalterne Beamte auch Privatbriefe des
-                        <rs type="person" ref="glax-heinrich" key="glax-heinrich">Prof. Glax</rs> gelangt seien. Wohl aber
+                        <rs type="person" ref="#glax-heinrich">Prof. Glax</rs> gelangt seien. Wohl aber
                     dafür, daß die Entscheidung von höher gestellten Männern ausging, von deren
                     Unpartheilichkeit ich überzeugt bin. Auch bestätigen die Akten nicht Ihre
-                    Auffassung, daß <rs type="person" ref="glax-heinrich" key="glax-heinrich">Prof. Glax</rs> der
-                    Habilitation <rs type="person" ref="huber-alphons" key="huber-alphons">Hubers</rs> für österreichische
+                    Auffassung, daß <rs type="person" ref="#glax-heinrich">Prof. Glax</rs> der
+                    Habilitation <rs type="person" ref="#huber-alphons">Hubers</rs> für österreichische
                     Geschichte schließlich zugestimmt habe. Jene in den Akten liegende Erklärung
-                    lautete auch nach dem Kolloqium dahin, daß die Befähigung des <rs type="person" ref="huber-alphons" key="huber-alphons">Kandidaten</rs> für österreichische Geschichte
+                    lautete auch nach dem Kolloqium dahin, daß die Befähigung des <rs type="person" ref="#huber-alphons">Kandidaten</rs> für österreichische Geschichte
                     nicht erwiesen sei.<lb/>Die wissenschaftlichen Bedenken, die Sie gegen die
                     schroffe Scheidung von österreichischer und allgemeiner Geschichte erheben,
                     erkenne ich für sehr beachtenswerth. Andererseits kann ich doch nicht umhin auf
@@ -93,7 +93,7 @@
                     gehört wird, dazu geeignet sei, den Blick auf die historische Entwicklung der
                     Gesammtmonarchie zu richten. Das wird im Allgemeinen nicht zu erreichen sein,
                     wenn Privatdozenten ohne spezielle Habilitazion für dieses Fach diese Kollegien
-                    lesen dürfen. &lt;Ich habe dabei nicht den speziellen Fall <rs type="person" ref="huber-alphons" key="huber-alphons">Hubers</rs> vor Augen, sondern die grundsätzliche
+                    lesen dürfen. &lt;Ich habe dabei nicht den speziellen Fall <rs type="person" ref="#huber-alphons">Hubers</rs> vor Augen, sondern die grundsätzliche
                     Frage, und darin Anwendung auf unsere verschiedenen Universitäten.&gt;<note xml:id="note_2">Randbemerkung von Leo Thun.</note> Wird aber die spezielle
                     Habilitazion festgehalten, so kann es doch nicht umgangen werden, daß der
                     Professor der österreichischen Geschichte als derjenige angesehen werde, dem das
@@ -119,9 +119,9 @@
                     einiges anderes zu berühren.<lb/>Mir wird von <rs type="place" subtype="place" ref="#place_d0a6343a081a7335baa965ce4fd0845c">München</rs>
                     geschrieben, man gebe sich dort wieder Mühe Sie zu gewinnen. Ich hoffe zu Gott,
                     Sie bleiben <rs type="place" subtype="country" ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</rs> treu. Mein Wunsch wäre, Sie, wenn sich
-                    Gelegenheit bieten wird, nach <orgName key="universitaet-wien">Wien</orgName> zu
+                    Gelegenheit bieten wird, nach <orgName>Wien</orgName> zu
                     ziehen.<lb/>Ich höre von verschiedenen Seiten, daß der Geist unter den
-                        <rs type="place" subtype="place" key="innsbruck" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Insprucker</rs> Studenten mehr und mehr
+                        <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Insprucker</rs> Studenten mehr und mehr
                     ein anderer als der alte Tyroler Geist werde; um sich greifen
                     burschenschaftlichen Kneipenwesens, Verbreitung der süddeutschen und anderer
                     schlechter Zeitungen, Entschwinden des religiösen Sinnes etc. Wo liegen die

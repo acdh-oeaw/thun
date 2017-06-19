@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Note von <rs type="person" ref="goluchowski-agenor" key="goluchowski-agenor" role="sender:beamter">Agenor
-                        Goluchowski</rs> an <rs type="person" ref="nadasdy-franz" key="nadasdy-franz" role="recipient:beamter">Franz Nádasdy</rs>
+                <title>Note von <rs type="person" ref="#goluchowski-agenor" role="sender:beamter">Agenor
+                        Goluchowski</rs> an <rs type="person" ref="#nadasdy-franz" role="recipient:beamter">Franz Nádasdy</rs>
                     <lb/>o. O., <date when="1859-12-21">21. Dezember 1859</date>
                 </title>
             </titleStmt>
@@ -180,7 +180,7 @@
                     und namentlich der während meiner Amtsverwaltung in <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs>
                     gemachten Erfahrungen der besprochene Vorgang allgemeine Mißstimmung und
                     Unzufriedenheit hervorgerufen hat und daß dieser Stimmung eben in neuester Zeit
-                    anläßlich des italienischen Krieges seitens der Bevölkerung nicht allein <rs type="place" subtype="region" key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galiziens</rs>, sondern auch der übrigen betreffenden
+                    anläßlich des italienischen Krieges seitens der Bevölkerung nicht allein <rs type="place" subtype="region" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galiziens</rs>, sondern auch der übrigen betreffenden
                     Länder ein nur zu laut sprechender Ausdruck gegeben wurde, der übrigens auch im
                     gegenwärtigen Augenblicke noch nicht verklungen ist.<lb/>In diesem Anbetrachte
                     glaubte auch der Ministerrath, wie es Euer Exzellenz bekannt ist, in dem bei
@@ -193,7 +193,7 @@
                         praktischen Zwecke, um den es sich handelt, am besten
                     entspricht</hi>.<lb/>Nach Inhalt der bezogenen geschätzten Zuschriften hat die
                     Reglung der Sprachfrage hinsichtlich des Verkehres der Behörden mit den
-                    Partheien in <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>, der <rs type="place" subtype="region" key="serbische-woiwodschaft" ref="#place_3b7d6bda0785d2523c2551de79a7d017">serbischen Wojwodschaft</rs>,
+                    Partheien in <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>, der <rs type="place" subtype="region" ref="#place_3b7d6bda0785d2523c2551de79a7d017">serbischen Wojwodschaft</rs>,
                         <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs> mit <rs type="place" subtype="region" ref="#place_fafa41f7e32d84b3a419ca848a2b0880">Krakau</rs> und in
                         <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> besondere Schwierigkeiten geboten, weil in den
                     übrigen Kronländern hinsichtlich der Sprachverhältnisse keine Anstände vorkamen.
@@ -211,7 +211,7 @@
                     Partheien zu erfolgen habe, verstoßt gegen den Grundsatz der gebührenden
                     Berücksichtigung der Interessen der Bevölkerung und deren Muttersprache.
                     <lb/>Ebensowenig entspricht diesem Grundsatze nach meinem Dafürhalten die mit
-                    Erlaß des löblichen <orgName key="ministerium-der-justiz">Justizministeriums</orgName> vom 19. November 1851 Z. 15373 für die <rs type="place" subtype="region" key="woiwodschaft-serbien-und-temeser-banat" ref="#place_35d1161cc45f7c1d2b14ff99f1d259a3">serbische <hi rend="ul">Woiwodschaft</hi> und das Temescher Banat</rs> getroffene
+                    Erlaß des löblichen <orgName>Justizministeriums</orgName> vom 19. November 1851 Z. 15373 für die <rs type="place" subtype="region" ref="#place_35d1161cc45f7c1d2b14ff99f1d259a3">serbische <hi rend="ul">Woiwodschaft</hi> und das Temescher Banat</rs> getroffene
                     Einleitung, indem auch hier die Gerichte verpflichtet wurden, die Protokolle mit
                     Partheien, Angeschuldigten, Zeugen und Sachverständigen bloß nach Thunlichkeit
                     in der diesen eigenthümlichen Landessprache aufzunehmen und weil die
@@ -230,7 +230,7 @@
                     ferner verfügt wurde, daß bei allen Ausfertigungen an Partheien die deutsche
                     Sprache anzuwenden und in ausnahmsweisen Fällen an Landleute die Ausfolgung
                     bloßer Übersetzungen des deutschen Urtextes gestattet sei.<lb/>Der Inhalt des
-                    unterthänigsten Vortrages, welcher in dieser Angelegenheit von dem <rs type="person" ref="krauss-karl" key="krauss-karl">Herrn Vorgänger Euer Exzellenz im Amte</rs>
+                    unterthänigsten Vortrages, welcher in dieser Angelegenheit von dem <rs type="person" ref="#krauss-karl">Herrn Vorgänger Euer Exzellenz im Amte</rs>
                     erstattet wurde, ist mir nicht bekannt und ich kann nur bedauern, daß eine in
                     die Verhältnisse der Bevölkerung so tief eingreifende, auf die politische
                     Stimmung wesentlichen Einfluß übende, daher die wichtigsten Interessen der
@@ -238,7 +238,7 @@
                     politischen Landesbehörde die Gelegenheit geboten worden wäre, sich über deren
                     Angemessenheit mit Rücksicht auf die faktischen Verhältnisse auszusprechen,
                     zumal, wie ich dies aus den geehrten Zuschriften Euer Exzellenz ersehe, eine
-                    solche Einvernehmung der Länderchefs in derselben Angelegenheit in <rs type="place" subtype="region" key="kroatien" ref="#place_46ef149805b1b370596a83886b1e010e">Kroazien</rs> und <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> nicht
+                    solche Einvernehmung der Länderchefs in derselben Angelegenheit in <rs type="place" subtype="region" ref="#place_46ef149805b1b370596a83886b1e010e">Kroazien</rs> und <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> nicht
                     unterlassen wurde.<lb/>So wenig übrigens schon die bezogene Anordnung für
                         <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs> geeignet war, dem sehr fühlbaren Bedürfnisse zur
                     Anwendung einer für die Partheien verständlichen Sprache in den Ausfertigungen
@@ -259,8 +259,8 @@
                     Gerichtspflege widerstreitend bezeichnen zu sollen.<lb/>Was <hi rend="ul">
                         <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>
                     </hi> anbelangt, so ist hier in den
-                    Oberlandesgerichtssprengeln <rs type="place" subtype="place" key="grosswardein" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Großwardein</rs>, <rs type="place" subtype="place" key="oedenburg" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Ödenburg</rs>
-                    und <rs type="place" subtype="place" key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</rs> nach der geehrten Eröffnung Euer
+                    Oberlandesgerichtssprengeln <rs type="place" subtype="place" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Großwardein</rs>, <rs type="place" subtype="place" ref="#place_3fee8f40fc84defe84941d8f76b4c59a">Ödenburg</rs>
+                    und <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</rs> nach der geehrten Eröffnung Euer
                     Exzellenz im äußeren gerichtlichen Dienste gegenüber den Partheien die
                     ungarische Sprache in der Regel und die deutsche Sprache nur ausnahmsweise in
                     Anwendung. In den beiden übrigen Sprengeln <rs type="place" subtype="place" ref="#place_1d3a164e45efdad9a1b68b54bd69260c">Eperies</rs> und
@@ -284,10 +284,10 @@
                     <lb/>Was die Sprachfrage in zweiter Beziehung, nämlich <hi rend="ul">hinsichtlich des Verkehres der Behörden gegenüber den Partheien</hi>
                     anbelangt, so erscheint mir jene Anordnung ganz entsprechend, welche laut der
                     geschätzten Eröffnung vom 24. September 1855 Z. 11941 mit allerhöchster
-                    Entschließung vom 17. Oktober 1854 für <rs type="place" subtype="region" key="kroatien-slawonien" ref="#place_6fe90dd680c4a571ed89e631ef2d48ed">Croatien
+                    Entschließung vom 17. Oktober 1854 für <rs type="place" subtype="region" ref="#place_6fe90dd680c4a571ed89e631ef2d48ed">Croatien
                         und Slavonien</rs> getroffen wurde, und ich glaube, daß die Bestimmungen
                     dieser Anordnung auch für die übrigen Kronländer, nämlich
-                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>, die <rs type="place" subtype="region" key="serbische-woiwodschaft" ref="#place_3b7d6bda0785d2523c2551de79a7d017">serbische
+                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>, die <rs type="place" subtype="region" ref="#place_3b7d6bda0785d2523c2551de79a7d017">serbische
                         Woiwodschaft</rs> und <rs type="place" subtype="region" ref="#place_ec846208a2a38eace9d773acdfe33f97">Galizien</rs>, in Anwendung zu treten
                     hätten.<lb/>Für jedes der bezeichneten Kronländer ist es daher nach meinem
                     Erachten vor allem nothwendig, bestimmt festzusetzen, welche Sprachen als die in
@@ -385,31 +385,31 @@
                     Feststellung der Landessprachen ebenfalls nur auf Grund der thatsächlichen
                     Sprachverhältnisse der Bevölkerung geschehen, damit jedem Stamme das Recht zur
                     Pflege seiner Muttersprache gewahrt werde.<lb/>Es dürfte kaum einem Zweifel
-                    unterworfen werden, daß die ungarische Sprache im ganzen <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Königreiche Ungarn</rs> als eine Landessprache anerkannt werden müsse,
+                    unterworfen werden, daß die ungarische Sprache im ganzen <rs type="place" subtype="country" ref="#place_200678ecb5e63e26681b5d3f05466a37">Königreiche Ungarn</rs> als eine Landessprache anerkannt werden müsse,
                     weil diese Bestimmung in der Geschichte des Landes begründet ist und weil es
                     nicht viele Ortschaften in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> geben dürfte, in welchen
                     neben einer anderen, wenngleich vorwiegenden Landessprache nicht zugleich
                     einzelne Insassen sich der ungarischen Sprache bedienen würden, die daher als
-                    Landesangehörige <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarns</rs> berechtigt erscheinen,
+                    Landesangehörige <rs type="place" subtype="country" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarns</rs> berechtigt erscheinen,
                     bei Berührung mit den dortländigen Behörden ihre Muttersprache zu gebrauchen.
-                    Welche anderen Sprachen in <rs type="place" subtype="country" key="ungarn" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarn</rs> neben der
+                    Welche anderen Sprachen in <rs type="place" subtype="country" ref="#place_200678ecb5e63e26681b5d3f05466a37">Ungarn</rs> neben der
                     ungarischen als Landessprachen zu bestimmen wären, darüber hätte die Festsetzung
                     mit Rücksicht auf die faktischen Verhältnisse in den einzelnen Gebiethen oder
                     Comitaten zu erfolgen. Für <hi rend="ul">
-                        <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>
-                    </hi>, dann die <rs type="place" subtype="region" key="woiwodschaft-serbien-und-temeser-banat" ref="#place_35d1161cc45f7c1d2b14ff99f1d259a3">serbische <hi rend="ul">Woiwodschaft</hi> und das Temeser Banat</rs> wird wohl die
+                        <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>
+                    </hi>, dann die <rs type="place" subtype="region" ref="#place_35d1161cc45f7c1d2b14ff99f1d259a3">serbische <hi rend="ul">Woiwodschaft</hi> und das Temeser Banat</rs> wird wohl die
                     Einführung der ungarischen Sprache als Landessprache für den ganzen Umfang
                     dieser Kronländer kaum in den faktischen Verhältnissen begründet erscheinen. Es
                     wird daher die Feststellung der Landessprachen auf Grund der Kreiseintheilung
                     mit Rücksicht auf die thatsächlichen Sprachverhältnisse erfolgen müssen.<lb/>Um
                     meine Ansicht in Bezug auf die Feststellung der Landessprachen in
-                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>
-                    und der <rs type="place" subtype="region" key="woiwodschaft-serbien-und-temeser-banat" ref="#place_35d1161cc45f7c1d2b14ff99f1d259a3">serbischen
+                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>
+                    und der <rs type="place" subtype="region" ref="#place_35d1161cc45f7c1d2b14ff99f1d259a3">serbischen
                         Woiwodschaft sammt dem Temeser Banate</rs> mit vollster Beruhigung und
                     möglichster Bestimmtheit abgeben zu können, habe ich unter einem im Wege der
                     Gouvernements dieser Länder die geeigneten Daten eingeholt und behalte mir vor,
                     dieselben Euer Exzellenz nach deren Einlangen baldigst mitzutheilen.
-                    <lb/>Betreffs <rs type="place" subtype="region" key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galiziens</rs> dürften Euer etc. im
+                    <lb/>Betreffs <rs type="place" subtype="region" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galiziens</rs> dürften Euer etc. im
                     Falle der Übereinstimmung mit meinen Ansichten sich geneigt finden, schon jetzt
                     die entsprechenden Anordnungen für die dortländigen Gerichtsbehörden zu
                     erlassen, indem gegen diese Einleitung, wie ich darzulegen die Ehre hatte, in

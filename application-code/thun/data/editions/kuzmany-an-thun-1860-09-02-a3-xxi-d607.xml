@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="kuzmany-karl" key="kuzmany-karl" role="sender:gelehrter">Karl Kuzmány</rs>
-                    an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                    <rs type="person" ref="#kuzmany-karl" role="sender:gelehrter">Karl Kuzmány</rs>
+                    an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_0546943cdb764ce66d21e8910937b72a">Neusohl</rs>, <date when="1860-09-02">2. September 1860</date>
@@ -54,19 +54,19 @@
                 <p>Euer Excellenz!</p>
                 <p>Es ist der allgemeine Wunsch unserer Leute, daß doch zu meiner Installation irgend
                     ein Superintendent von größerem Ruf aus <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> kommen
-                    möchte. Ich ließ daher an den studirenden <rs type="person" ref="borbis-johannes" key="borbis-johannes">Borbis</rs> nach <rs type="place" subtype="place" ref="#place_4a887b8a68acf9b04d9d027bddedb06b">Leipzig</rs> schreiben, der dort
-                    bei <rs type="person" ref="lechler-gotthard" key="lechler-gotthard">Lechler</rs>, <rs type="person" ref="kahnis-karl" key="kahnis-karl">Kahnis</rs> und vielen anderen sehr beliebt ist, um
+                    möchte. Ich ließ daher an den studirenden <rs type="person" ref="#borbis-johannes">Borbis</rs> nach <rs type="place" subtype="place" ref="#place_4a887b8a68acf9b04d9d027bddedb06b">Leipzig</rs> schreiben, der dort
+                    bei <rs type="person" ref="#lechler-gotthard">Lechler</rs>, <rs type="person" ref="#kahnis-karl">Kahnis</rs> und vielen anderen sehr beliebt ist, um
                     bei dem Ersteren anzufragen. Dieser aber entschuldigte sich – betheuernd sonst
                     seine vollkommene Bereitwilligkeit – damit, dass er sogleich nach der Part. [?]
                     Versammlung dem Ausschuß werde präsidiren müssen, welcher mit der Ausarbeitung
                     der Gesetzvorlagen in allen kirchlich-politischen Dingen betraut ist und dass
                     diese der Art seien, dass er sich von dem sächsischen Landtag nicht einen
-                    Schritt werde entfernen können; er empfahl aber Prälat <rs type="person" ref="zimmermann-karl" key="zimmermann-karl">Zimmermann</rs>. Nun schreibt mir <rs type="person" ref="szeberinyi-johann" key="szeberinyi-johann">Seberiny</rs> [Szeberinyi] aus
+                    Schritt werde entfernen können; er empfahl aber Prälat <rs type="person" ref="#zimmermann-karl">Zimmermann</rs>. Nun schreibt mir <rs type="person" ref="#szeberinyi-johann">Seberiny</rs> [Szeberinyi] aus
                         <rs type="place" subtype="place" ref="#place_70bc242a14c37ebf22a19d11c3b61015">Ulm</rs>, dass er denselben gesprochen und ihn dazu willig
-                    gefunden; nur dass er verlange von einem Staatsbeamten aus dem <orgName key="ministerium-fuer-kultus-und-unterricht">h. Ministerium für
+                    gefunden; nur dass er verlange von einem Staatsbeamten aus dem <orgName>h. Ministerium für
                         Cultus</orgName> dazu aufgefordert zu werden, um seiner Regierung gegenüber
-                    gedeckt zu sein, dass er nicht etwas thue, was <rs type="person" ref="franz-joseph" key="franz-joseph">Seiner Majestät unseren Kaiser</rs> unangenehm wäre. Mein Wunsch ist
-                    es allerdings auch, dass der <rs type="person" ref="zimmermann-karl" key="zimmermann-karl">hohe
+                    gedeckt zu sein, dass er nicht etwas thue, was <rs type="person" ref="#franz-joseph">Seiner Majestät unseren Kaiser</rs> unangenehm wäre. Mein Wunsch ist
+                    es allerdings auch, dass der <rs type="person" ref="#zimmermann-karl">hohe
                         Prälat</rs> käme; ist es daher möglich der von ihm gestellten
                     Bedingung zu entsprechen, so bitte ich darum unterthänigst, ihr zu willfahren.
                     Reiseunkosten würde er schwerlich sich erstattet wissen wollen; eher vielleicht
@@ -74,7 +74,7 @@
                     bald offeriert werden, denn, wie mein erster Brief von heutigem Datum meldet
                         <note xml:id="note_1">Vgl. <ref target="thun/thun-korrespondenz/tetschen/nur_regesten/kuzmany-an-thun_1860-09-02_A3-XXI-D606.xml">Karl Kuzmány an Leo Thun. Neusohl, 2. September 1860.</ref>
                     </note>, ich
-                    habe die Installation bereits auf den 26. Sept. festgesetzt. <rs type="person" ref="szeberinyi-johann" key="szeberinyi-johann">Seberiny</rs> [Szeberinyi] wird in der
+                    habe die Installation bereits auf den 26. Sept. festgesetzt. <rs type="person" ref="#szeberinyi-johann">Seberiny</rs> [Szeberinyi] wird in der
                     Rückreise seine Aufwartung Eurer Excellenz zu machen nicht unterlassen. Diesen
                     sollte man doch nicht so völlig fallen lassen. Ist für ihn keine andere
                     Aussicht, so könnten ihm Euer Excellenz vielleicht den Antrag machen zu mir als

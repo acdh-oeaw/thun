@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
-                        <rs type="person" ref="bach-alexander" key="bach-alexander" role="recipient">Alexander
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#bach-alexander" role="recipient">Alexander
                         Bach</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_e3a1571b9091d6d78548ad3b4b159d11">Hetzendorf</rs>, <date when="1859-07-08">8. Juli 1859</date>
@@ -45,9 +45,9 @@
                 </index>
                 <p>Hetzendorf den 8. Juli 859</p>
                 <p>Verehrtester Collega!</p>
-                <p>Soll <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> auch den Waffenstillstand
+                <p>Soll <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> auch den Waffenstillstand
                     (was mag der bedeuten?!) aus dem Moniteur erfahren? Ich hoffe es gelingt Ihnen
-                    von <rs type="person" ref="rechberg-rothenloewen-bernhard" key="rechberg-rothenloewen-bernhard">Rechberg</rs> noch
+                    von <rs type="person" ref="#rechberg-rothenloewen-bernhard">Rechberg</rs> noch
                     rechtzeitig darüber eine Mittheilung für die Wiener Zeitung zu erzwingen.</p>
                 <p>Ihr ergebener</p>
                 <p>Thun</p>

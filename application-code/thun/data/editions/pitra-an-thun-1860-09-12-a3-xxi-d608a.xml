@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="pitra-jean-baptiste" key="pitra-jean-baptiste" role="sender:kleriker">Jean-Baptiste
-                        Pitra</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                    <rs type="person" ref="#pitra-jean-baptiste" role="sender:kleriker">Jean-Baptiste
+                        Pitra</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1860-09-12">12.
@@ -78,7 +78,7 @@
                     du clergé séculier, telle est peut être la principale cause de la décadence de
                     l'ordre Basilien.<lb/>Si la Providence permettait la création d'un nouveau siège
                     de rite grec, si Vellehrad [Velehrad] devenait tôt ou tard, pour les slaves de
-                    ce rite épars dans la <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Moravie</rs> et la <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Bohème</rs>, non seulement une abbaye Basilienne mais une
+                    ce rite épars dans la <rs type="place" subtype="region" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Moravie</rs> et la <rs type="place" subtype="region" ref="#place_867b530d8072e0e4d907aa82937d3e01">Bohème</rs>, non seulement une abbaye Basilienne mais une
                     Église épiscopale, ce serait peut être une occasion décelable, selon l'esprit et
                     la discipline de l'Église orientale une véritable hiérarchie Basilienne. Cette
                     intéressante question mériterait alors une étude spéciale par laquelle je serais
@@ -94,8 +94,8 @@
                     la commune reconnaissance des Bénédictins de France, j'oserai recommander encore
                     à votre bienveillante et généreuse attention la Bibliothèque de l'Abbaye de
                         <rs type="place" subtype="place" ref="#place_1544719c927e90192452512a8a948491">Solesmes</rs>. Si à la belle collection liturgique que
-                    j'ai eu l'honneur de recevoir du Ministre des Cultes de <rs type="person" ref="franz-joseph" key="franz-joseph">Sa Majesté impériale et royale</rs>, Son
-                    Excellence, le président de <orgName key="akademie-der-wissenschaften">l'académie de sciences</orgName> de <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Vienne</rs> daignait plus tard ajouter quelques unes de productions
+                    j'ai eu l'honneur de recevoir du Ministre des Cultes de <rs type="person" ref="#franz-joseph">Sa Majesté impériale et royale</rs>, Son
+                    Excellence, le président de <orgName>l'académie de sciences</orgName> de <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Vienne</rs> daignait plus tard ajouter quelques unes de productions
                     de cette [?], nous serions heureux de les joindre aux travaux des corps savants
                     de l'Europe, que nous nous efforçons de réunir. Nous attacherions surtout une
                     importance spéciale aux catalogues des manuscrits de l'Emprie [Empire] qui
@@ -109,7 +109,7 @@
                 <p>Le très humble et obéissant serviteur<lb/> Y. B. Pitra de l'ordre de S. B.<lb/>à
                     l'Abbaye de Solesmes (Sarthe) France</p>
                 <p>P.S. Qu'il me soit permis de rectifier ici un détail concernant les Basiliens
-                    dont la procure générale à <rs type="place" subtype="place" key="rom" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rome</rs> était attachée
+                    dont la procure générale à <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rome</rs> était attachée
                     à l'Église des S.S. Serge et Bacchus.</p>
             </div>
         </body>

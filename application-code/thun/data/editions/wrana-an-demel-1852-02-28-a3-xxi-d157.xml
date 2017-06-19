@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="wrana-cajetan" key="wrana-cajetan" role="sender:kleriker">Cajetan Wrana</rs>
-                    an <rs type="person" ref="demel-heinrich-johann" key="demel-heinrich-johann" role="recipient:gelehrter">Heinrich
+                    <rs type="person" ref="#wrana-cajetan" role="sender:kleriker">Cajetan Wrana</rs>
+                    an <rs type="person" ref="#demel-heinrich-johann" role="recipient:gelehrter">Heinrich
                         Johann Demel</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_5b95fe248458e8e40898129bb087ae5a">Nikolsburg</rs>, <date when="1852-02-28">28. Februar 1852</date>
@@ -55,7 +55,7 @@
                     <term>Theresianische Ritterakademie</term>
                 </index>
                 <p>Hochwohlgeborner Herr!<lb/>Hochgeehrter Herr Director!</p>
-                <p>Pater <rs type="person" ref="albrecht-benedikt" key="albrecht-benedikt">Benedikt Albrecht</rs> hat den
+                <p>Pater <rs type="person" ref="#albrecht-benedikt">Benedikt Albrecht</rs> hat den
                     Auftrag erhalten, sich für die Physik vorzubereiten, um in diesem
                     Lehrgegenstande an den dem Orden anvertrauten Obergymnasien verwendet zu werden.
                     Nicht meine Willkühr, sondern das Bedürfnis des Ordens hat ihm diese Bestimmung
@@ -63,17 +63,17 @@
                     einem Lehrer der Physik zu versehen, und es ist unerläßlich, daß der Provinzial
                     immer in der Lage sey, in langwierigen Krankheiten der Lehrer oder in
                     Todesfällen lehrfähige Stellvertreter oder Nachfolger im Lehramte aufzustellen.
-                    Pater <rs type="person" ref="albrecht-benedikt" key="albrecht-benedikt">Benedikt Albrecht</rs> ist aus der
+                    Pater <rs type="person" ref="#albrecht-benedikt">Benedikt Albrecht</rs> ist aus der
                     Mathematik geprüft und für lehrfähig erklärt, und sein Talent läßt zuverlässig
                     erwarten, daß er die Prüfung aus der Physik mit gleichem Erfolge bestehen werde.
                     Nur im Nothfalle würde er der Akademie entzogen werden, und dann wäre es die
                     angelegentlichste Sorge des Provinzials, ein tüchtiges Lehrindividuum in die
-                        <orgName key="theresianische-ritterakademie">Akademie</orgName> zu
-                    beordern.<lb/>Es ist dem Orden unschätzbar, den Posten in der <orgName key="theresianische-ritterakademie">Akademie</orgName> zu besetzen, auf
-                    welchem seine Glieder unter den Augen des hohen <orgName key="ministerium-fuer-kultus-und-unterricht">Unterrichtsministeriums</orgName> verdienstlich wirken können. Ich bitte
+                        <orgName>Akademie</orgName> zu
+                    beordern.<lb/>Es ist dem Orden unschätzbar, den Posten in der <orgName>Akademie</orgName> zu besetzen, auf
+                    welchem seine Glieder unter den Augen des hohen <orgName>Unterrichtsministeriums</orgName> verdienstlich wirken können. Ich bitte
                     Euere Hochwohlgeboren sich auf den Standpunkt des Provinzials zu stellen, dem
                     die Sorge für so viele Lehranstalten obliegt, und hoffe dann mit Zuversicht, daß
-                    meine Absicht mit dem mir sehr werthem Lehrer Pater <rs type="person" ref="albrecht-benedikt" key="albrecht-benedikt">Benedikt Albrecht</rs> geneigte Billigung
+                    meine Absicht mit dem mir sehr werthem Lehrer Pater <rs type="person" ref="#albrecht-benedikt">Benedikt Albrecht</rs> geneigte Billigung
                     finden werde.<lb/>Ich verharre mit ausgezeichneter Hochachtung</p>
                 <p>Euerer Hochwohlgeboren</p>
                 <p>ganz ergebener<lb/>Cajetan Wrana<lb/>Provinzial</p>

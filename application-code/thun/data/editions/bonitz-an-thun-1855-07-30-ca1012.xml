@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="bonitz-hermann" key="bonitz-hermann" role="sender">Hermann Bonitz</rs> an
-                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                    <rs type="person" ref="#bonitz-hermann" role="sender">Hermann Bonitz</rs> an
+                        <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1855-07-30">30.
@@ -50,7 +50,7 @@
                         <p>Dieser Brief ist als Konzept in der Universitätsbibliothek Breslau
                             erhalten: Universitätsbibliothek Breslau, Autograph, Haase 46.<lb/>Dort
                             findet sich auch das Original des in diesem Brief wiedergegebenen
-                            Schreibens von <rs type="person" ref="wiese-ludwig-adolf" key="wiese-ludwig-adolf">Ludwig Adolf
+                            Schreibens von <rs type="person" ref="#wiese-ludwig-adolf">Ludwig Adolf
                                 Wiese</rs> an Hermann Bonitz. Berlin, 23. Juli 1855.</p>
                     </physDesc>
                 </msDesc>
@@ -73,7 +73,7 @@
                     <term>Gymnasien</term>
                 </index>
                 <p>Euer Excellenz!</p>
-                <p>Vor wenigen Tagen erhielt ich von dem <rs type="person" ref="wiese-ludwig-adolf" key="wiese-ludwig-adolf">Gh.
+                <p>Vor wenigen Tagen erhielt ich von dem <rs type="person" ref="#wiese-ludwig-adolf">Gh.
                         Rath. Dr. L. <hi rend="ul">Wiese</hi>
                     </rs> (Ministerialrath im Kgl.
                     Preußischen Unterrichtsministerium) ein Schreiben<note xml:id="note_2">
@@ -85,27 +85,27 @@
                     vorigen Jahres zu beantworten, habe ich bis jetzt unterlassen, weil ich die
                     rechte Muse dazu erwartete: sie hat sich nicht eingestellt und auch heute ist es
                     ein anderer Gegenstand, über den ich zu schreiben habe.<lb/>Du weißt, daß
-                        <orgName key="gymnasium-schulpforta">Schulpforta</orgName> ohne Haupt ist,
+                        <orgName>Schulpforta</orgName> ohne Haupt ist,
                     als ich mit Anfang Juni eine Inspectionsreise nach der Provinz Preußen antrat,
-                    kam <rs type="person" ref="schulze-johannes" key="schulze-johannes">Johann Schulze</rs> noch in Eile zu
-                    mir, um mir die Nachricht von <rs type="person" ref="kirchner-karl" key="kirchner-karl">Kirchner's</rs> Tode zu bringen. Die Wiederbesetzung der Stelle
+                    kam <rs type="person" ref="#schulze-johannes">Johann Schulze</rs> noch in Eile zu
+                    mir, um mir die Nachricht von <rs type="person" ref="#kirchner-karl">Kirchner's</rs> Tode zu bringen. Die Wiederbesetzung der Stelle
                     beschäftigte mich auf der ganzen langen Reise, und immer kamen meine Gedanken
                     wieder zu Dir. Du kennst und liebst die Anstalt, sie ist die erste in unserem
                     Staat, und ist sie nicht mehr was sie einst war, so bist Du der Mann, ein neues
                     Leben dort wieder zu erwecken. Als ich nach Hause kam, fand ich unter den
-                    inzwischen eingegangenen Briefen auch einen von <rs type="person" ref="schmieder-heinrich-eduard" key="schmieder-heinrich-eduard">Schmieder</rs>*, dem es keine Ruhe
-                    gelassen hatte, er mußte wegen <orgName key="gymnasium-schulpforta">Pforta</orgName> schreiben, um Dich und nur Dich mir zu empfehlen, in der
+                    inzwischen eingegangenen Briefen auch einen von <rs type="person" ref="#schmieder-heinrich-eduard">Schmieder</rs>*, dem es keine Ruhe
+                    gelassen hatte, er mußte wegen <orgName>Pforta</orgName> schreiben, um Dich und nur Dich mir zu empfehlen, in der
                     liebevollsten Weise. Dieses Zusammentreffen unserer Gedanken freute mich sehr.
-                    Ich trug darauf dem (abwesenden) <rs type="person" ref="raumer-karl-otto" key="raumer-karl-otto">Minister</rs> die Sache schriftlich vor, und er hat mir heute
+                    Ich trug darauf dem (abwesenden) <rs type="person" ref="#raumer-karl-otto">Minister</rs> die Sache schriftlich vor, und er hat mir heute
                     geantwortet, und mich autorisiert, Dir die Stelle anzutragen. Dies ist es,
                     theurer Freund, eine für uns und wohl auch für Dich hochwichtige Sache. Überlege
                     Dir's nun und schreib mir bald eine Antwort, ob wir überhaupt darauf rechnen
                     können, daß Du kommst. Über das <hi rend="ul">wann</hi> und alles Übrige wird
                     dann leicht eine Verständigung zu erreichen sein.<lb/>Ich habe es immer so
-                    angesehen, Du seist eigentlich an <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> nur geliehen und habe es beneidet um Dich. Es ist
+                    angesehen, Du seist eigentlich an <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> nur geliehen und habe es beneidet um Dich. Es ist
                     nun, nachdem Du soviel dort gethan und erreicht, wohl Zeit, daß Du wieder an
-                    Dein <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Vaterland</rs> denkst, wo man Deiner nicht
-                    vergessen hat und wo Du allen willkommen sein wirst, und als Rector von <orgName key="gymnasium-schulpforta">Pforta</orgName> auch denen, die noch Deine
+                    Dein <rs type="place" subtype="country" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Vaterland</rs> denkst, wo man Deiner nicht
+                    vergessen hat und wo Du allen willkommen sein wirst, und als Rector von <orgName>Pforta</orgName> auch denen, die noch Deine
                     Lehrer gewesen sind. Gott lenke Deine Entscheidung zu Deinem und unseres
                     Vaterlandes Heil!</p>
                 <p>Treulichst der Deinige L. Wiese.<lb/>* Schmieder, Religionslehrer und Prediger in
@@ -114,7 +114,7 @@
                 <p>Es ist Euerer Excellenz bekannt, daß die Freude an meinem Beruf selbst und, ich
                     darf es ohne den Schein der Anmaßung sagen, an den Erfolgen meiner Thätigkeit
                     mich über das mannigfache Schmerzliche und Verletzende, das mich seit meiner
-                    Anstellung an der <orgName key="universitaet-wien">hiesigen
+                    Anstellung an der <orgName>hiesigen
                         Universität</orgName> betroffen hat und fortwährend betrifft, emporzuheben
                     vermochte. Hätte ich nicht Anlaß gehabt, diese Gesinnung Euer Exzellenz in
                     wichtigen Fällen auszusprechen, so würde schon die Weise, wie ich meinem Berufe
@@ -125,12 +125,12 @@
                     ursprünglich meinem Lebensberuf angehört, so daß ich aus eigenem Antriebe eine
                     Änderung nie gesucht habe und ohne dringenden Anlaß eine solche nicht in
                     Erwägung ziehen würde.<lb/>In eine andere Lage versetzt mich das mitgetheilte
-                    Schreiben. Der <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Staat</rs>, dem ich durch die Geburt
+                    Schreiben. Der <rs type="place" subtype="country" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Staat</rs>, dem ich durch die Geburt
                     angehöre, dem ich meine Bildung verdanke, dem ich durch meine Confession
                     verwandt bin, dieser Staat ruft mich in der vertrauensvollsten und ehrendsten
                     Weise zu einer Tätigkeit, welche meinem gesammten Lebensgange angemessen ist
                     und, wie ich hoffe, meine Kräfte nicht übersteigt. Der Antrag ist ehrenvoll;
-                    denn in die Blüthe von <orgName key="gymnasium-schulpforta">Schulpforta</orgName> setzt <rs type="place" subtype="country" ref="#place_29a93c0139fd45a35375f2ded98bb90b">Preußen</rs> selbst besondere
+                    denn in die Blüthe von <orgName>Schulpforta</orgName> setzt <rs type="place" subtype="country" ref="#place_29a93c0139fd45a35375f2ded98bb90b">Preußen</rs> selbst besondere
                     Ehre und hat mit seltenen Ausnahmen Männer von der Universität zur Leitung
                     berufen. Auf das im Schreiben erwähnte freundliche Entgegenkommen des
                     Lehrercollegiums, das für die Erfüllung solcher Aufgabe von Bedeutung ist, darf
@@ -176,14 +176,14 @@
                     unterliegendes und selbstverständliches voraus, daß, <hi rend="ul">wenn</hi>
                     meine bisherige Tätigkeit der Anerkennung durch die That und meine fernere
                     Thätigkeit der Erhaltung werth scheint, der österreichische Kaiserstaat an
-                    seiner <orgName key="universitaet-wien">ersten Universität</orgName> mich nicht
-                    ungünstiger stellen würde, als es <rs type="place" subtype="country" ref="#place_29a93c0139fd45a35375f2ded98bb90b">Preußen</rs> an seinem <orgName key="gymnasium-schulpforta">geachtetsten Gymnasium</orgName> thut.<lb/>Die
+                    seiner <orgName>ersten Universität</orgName> mich nicht
+                    ungünstiger stellen würde, als es <rs type="place" subtype="country" ref="#place_29a93c0139fd45a35375f2ded98bb90b">Preußen</rs> an seinem <orgName>geachtetsten Gymnasium</orgName> thut.<lb/>Die
                     Absicht dieser Mittheilung ist vielmehr, Euerer Excellenz das Gewicht der
                     Gründe, die ich in Erwägung ziehen muß, unverhohlen darzulegen und um deren
                     Würdigung zu bitten. Es handelt sich nicht um einen Antrag, wie deren leicht
                     noch mehr erfolgen könnten, sondern um einen solchen, dessen Ablehnung zugleich
-                    eine unbedingte Ablehnung jeder Berufung außerhalb <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> für immer ist. Wenn ich einen so vertrauensvoll, so
-                    ehrend, so äußerlich günstig gestellten Ruf in <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">mein
+                    eine unbedingte Ablehnung jeder Berufung außerhalb <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> für immer ist. Wenn ich einen so vertrauensvoll, so
+                    ehrend, so äußerlich günstig gestellten Ruf in <rs type="place" subtype="country" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">mein
                         Vaterland</rs> zurückweise, so liegt darin die thatsächliche Erklärung:
                     ich finde mich an <rs type="place" subtype="country" ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</rs> durch so feste Bande gebunden,
                     daß jene Gründe nicht fähig sind, sie zu lösen. Nun kennt und würdigt man in dem
@@ -216,7 +216,7 @@
                     ausdrückliche Sicherstellung für mich nöthig. Ich bedarf in dieser Hinsicht
                     einer <hi rend="ul">authentischen</hi> Erklärung, daß wie auch die Verhältnisse
                     der evangelischen Glaubensverwandten im allgemeinen mögen festgesetzt werden,
-                        <hi rend="ul">meine</hi> Stellung als Universitätslehrer an <orgName key="universitaet-wien">hiesiger Universität</orgName> gegen jeden Angriff
+                        <hi rend="ul">meine</hi> Stellung als Universitätslehrer an <orgName>hiesiger Universität</orgName> gegen jeden Angriff
                     aus confessionellem Grunde gesichert und in keinerlei Weise der meiner
                     katholischen Collegen nachgesetzt ist oder künftig nachgesetzt werden
                     wird.<lb/>Ebenso bedürfte ich in <hi rend="ul">ökonomischer</hi> Hinsicht der

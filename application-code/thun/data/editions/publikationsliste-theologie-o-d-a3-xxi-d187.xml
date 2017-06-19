@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Publikationsliste von <rs type="person" ref="riffel-caspar" key="riffel-caspar">Caspar Riffel</rs>
-                    und <rs type="person" ref="wick-joseph" key="wick-joseph">Joseph Wick</rs>
+                <title>Publikationsliste von <rs type="person" ref="#riffel-caspar">Caspar Riffel</rs>
+                    und <rs type="person" ref="#wick-joseph">Joseph Wick</rs>
                     <lb/>o. O., o. D. [post 1850]</title>
             </titleStmt>
             <publicationStmt>
@@ -45,7 +45,7 @@
                     <term>Theologie</term>
                 </index>
                 <p>
-                    <hi rend="ul">Dr. <rs type="person" ref="riffel-caspar" key="riffel-caspar">Caspar Riffels</rs> zu
+                    <hi rend="ul">Dr. <rs type="person" ref="#riffel-caspar">Caspar Riffels</rs> zu
                             <rs type="place" subtype="place" ref="#place_3496da6c1db0a5223edb1fb4c415a154">Mainz</rs> in Druck erschienene Werke</hi>:</p>
                 <p>a. <hi rend="ul">Christliche Kirchengeschichte</hi> der neuesten Zeit von dem
                     Anfang der großen Glaubens- und Kirchenspaltung des 16. Jahrhunderts bis auf
@@ -69,7 +69,7 @@
                     Westphalens abgehalten zu Köln 1849.</p>
                 <p/>
                 <p>
-                    <hi rend="ul">Vom Lizenziaten Curatus <rs type="person" ref="wick-joseph" key="wick-joseph">J[oseph]
+                    <hi rend="ul">Vom Lizenziaten Curatus <rs type="person" ref="#wick-joseph">J[oseph]
                             Wick</rs> zu <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs> erschien</hi>:</p>
                 <p>
                     <hi rend="ul">Jesus Christus</hi> der Sohn Gottes. Kanzelvorträge. Als Einleitung

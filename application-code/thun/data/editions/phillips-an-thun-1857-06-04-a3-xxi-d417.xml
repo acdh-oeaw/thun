@@ -4,10 +4,10 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="phillips-george" key="phillips-george" role="sender:gelehrter">George
-                        Phillips</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#phillips-george" role="sender:gelehrter">George
+                        Phillips</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1857-06-04">4. Juni 1857</date>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1857-06-04">4. Juni 1857</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -53,13 +53,13 @@
                 <p>Hochgeborner Herr Graf<lb/>Euer Excellenz</p>
                 <p>wollen zu Gnaden halten, wenn ich, durch viele Bitten angegangen, es wage
                     Hochdemselben einen Mann zu geneigter Berücksichtigung zu empfehlen.<lb/>Um die
-                    zu <orgName key="universitaet-prag">Prag</orgName> vacant gewordene Stelle eines
+                    zu <orgName>Prag</orgName> vacant gewordene Stelle eines
                     besoldeten Lehrers der englischen Sprache, so wie um eben diese Function bei der
-                    dortigen <orgName key="polytechnisches-institut-prag">polytechnischen
+                    dortigen <orgName>polytechnischen
                         Schule</orgName> bewirbt sich ein mir seit vielen Jahren bekannter
-                    Engländer, namens <rs type="person" ref="raby-richard" key="raby-richard">Richard Raby</rs>. Bei
+                    Engländer, namens <rs type="person" ref="#raby-richard">Richard Raby</rs>. Bei
                     einem in damaliger Zeit berühmt gewordenen Bankbruch, der hauptsächlich die
-                    Katholiken Englands traf, büßte unter diesem auch <rs type="person" ref="raby-richard" key="raby-richard">Herr Raby</rs> sein ganzes Vermögen ein und übersiedelte vor etwa
+                    Katholiken Englands traf, büßte unter diesem auch <rs type="person" ref="#raby-richard">Herr Raby</rs> sein ganzes Vermögen ein und übersiedelte vor etwa
                     dreizehn Jahren nach <rs type="place" subtype="place" ref="#place_d0a6343a081a7335baa965ce4fd0845c">München</rs>. Er hat seine Existenz
                     seither theils dadurch gefristet, daß er junge Engländer in Pension nahm, theils
                     daß er, so wie seine Frau, Lectionen in der englischen Sprache gab. Er ist ein
@@ -69,7 +69,7 @@
                         hat<note xml:id="note_1">Vgl. <ref target="https://books.google.at/books?id=K9IAAAAAcAAJ&amp;hl=de&amp;source=gbs_navlinks_s">Richard Raby, Pope Adrian IV. An historical sketch, London
                         1849</ref>.</note>, ist zwar von keinem großen Umfang: es ist die
                     Lebensgeschichte des einzigen Engländers, welcher auf dem päpstlichen Stuhle
-                    gesessen hat. Die kurze Regierung <rs type="person" ref="hadrian-IV" key="hadrian-IV">Hadrians
+                    gesessen hat. Die kurze Regierung <rs type="person" ref="#hadrian-IV">Hadrians
                         IV</rs> bot zu einem größeren Werke keinen reichhaltigen Stoff und das
                     Thema war nur wegen des besonderen Interesses gegeben, welches das katholische
                     England an diesem Manne nahm.<lb/>Indem ich Hochdieselben bitte mir meine

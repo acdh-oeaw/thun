@@ -4,10 +4,10 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="wessenberg-johann-philipp" key="wessenberg-johann-philipp" role="sender:beamter">Johann
-                        Philipp Wessenberg</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#wessenberg-johann-philipp" role="sender:beamter">Johann
+                        Philipp Wessenberg</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" key="freiburg-im-breisgau" ref="#place_84741e39bd2250054745bd841d851b05">Freiburg im Breisgau</rs>, <date when="1855-04-02">2. April 1855</date>
+                    <rs type="place" subtype="place" ref="#place_84741e39bd2250054745bd841d851b05">Freiburg im Breisgau</rs>, <date when="1855-04-02">2. April 1855</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -56,7 +56,7 @@
                 <p>Hochgebohrener [sic!] Graf</p>
                 <p>Aus den Zeitungen ersehe ich, daß dermalen wieder Philologen für die
                     österreichischen Gymnasien und Lyzeen gesucht werden. Ich bin in dem Falle einen
-                    ganz tüchtigen in der Person des <rs type="person" ref="schlegel-johann" key="schlegel-johann">Herrn J. H.
+                    ganz tüchtigen in der Person des <rs type="person" ref="#schlegel-johann">Herrn J. H.
                         Schlegel</rs>, dermalen Professor in <rs type="place" subtype="place" ref="#place_a191df18d3a28f88cf32eb0e9e5042a7">Offenburg</rs>
                     empfehlen zu können. Ich zweifle nicht, daß er hinsichtlich seiner gründlichen
                     Befähigung, zumal was die lateinische und griechische Litteratur betrifft,
@@ -67,11 +67,11 @@
                     seines Betragens. Er hat noch nicht das dreyßigste Jahr erreicht. Zur Zeit hat
                     er eine Anstellung von 900 Gulden deutscher Währung. Ich glaube er würde sehr
                     gerne eine Anstellung mit nur einigermaßen höherer Besoldung allenfalls in
-                        <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Presburg</rs> oder <rs type="place" subtype="place" key="pest" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</rs> oder sonst einer bedeutenden Stadt in Nieder oder Ober
+                        <rs type="place" subtype="place" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Presburg</rs> oder <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</rs> oder sonst einer bedeutenden Stadt in Nieder oder Ober
                     Oesterreich annehmen.<lb/>Ich beschränke mich denselben für einen vorkommenden
                     Fall Euer Exzellenz Wohlwollen und mögliche Berücksichtigung zu empfehlen und
                     benütze zugleich diesen Anlaß mich Ihrem freundlichen Andenken
-                    zurückzurufen.<lb/>Mit großem Vergnügen vernehme ich, daß Ihr Herr <rs type="person" ref="thun-hohenstein-franz-anton" key="thun-hohenstein-franz-anton">Bruder Franz</rs> sich wieder auf
+                    zurückzurufen.<lb/>Mit großem Vergnügen vernehme ich, daß Ihr Herr <rs type="person" ref="#thun-hohenstein-franz-anton">Bruder Franz</rs> sich wieder auf
                     der Besserung befinde. Seine Erkrankung hatte meine lebhafteste Theilnahme
                     erregt.<lb/>Mit der ausgezeichnetesten Hochachtung</p>
                 <p>Euer Exzellenz gehorsamst ergebenster<lb/>J. Fhr. Wessenberg</p>

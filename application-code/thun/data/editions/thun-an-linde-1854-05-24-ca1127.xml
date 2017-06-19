@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
-                        <rs type="person" ref="linde-justin" key="linde-justin" role="recipient:gelehrter">Justin
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#linde-justin" role="recipient:gelehrter">Justin
                         Linde</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1854-05-24">24. Mai 1854</date>
@@ -51,20 +51,20 @@
                 </index>
                 <p>Wien den 24. Mai 1854</p>
                 <p>Werther Herr Staatsrath!</p>
-                <p>Ich bin Ihnen herzlich dankbar, mir die persönliche Bekanntschaft des <rs type="person" ref="schulte-friedrich" key="schulte-friedrich">Dr. Schulte</rs> verschafft zu haben. Mein
+                <p>Ich bin Ihnen herzlich dankbar, mir die persönliche Bekanntschaft des <rs type="person" ref="#schulte-friedrich">Dr. Schulte</rs> verschafft zu haben. Mein
                     Wunsch wäre es ihn für eine Lehrkanzel des kanonischen Rechtes zu gewinnen; noch
                     bin ich aber nicht in der Lage mich über die Ausführbarkeit mit Bestimmtheit
                     aussprechen zu können.<lb/>Ich benütze diesen Anlaß um in einer anderen
                     Angelegenheit Ihre mir so freundlich gebothene Vermittlung in Anspruch zu
-                    nehmen. Ein <rs type="person" ref="fick-heinrich" key="fick-heinrich">Dr. Fick</rs>, ehemals
-                    Privatdozent in <orgName key="universitaet-marburg">Marburg</orgName>, bewirbt
-                    sich um eine Lehrkanzel des römischen Rechtes in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>. Wir brauchen allerdings einige tüchtige Romanisten.
-                    Er ist Protestant, der Zeit a.o. Professor in <orgName key="universitaet-zuerich">Zürich</orgName>, wird mir aber als ein ganz
+                    nehmen. Ein <rs type="person" ref="#fick-heinrich">Dr. Fick</rs>, ehemals
+                    Privatdozent in <orgName>Marburg</orgName>, bewirbt
+                    sich um eine Lehrkanzel des römischen Rechtes in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>. Wir brauchen allerdings einige tüchtige Romanisten.
+                    Er ist Protestant, der Zeit a.o. Professor in <orgName>Zürich</orgName>, wird mir aber als ein ganz
                     konservativ gesinnter Mann geschildert und beruft sich selbst auf das Zeugnis
-                    des <rs type="person" ref="koett-christoph-florentinus" key="koett-christoph-florentinus">Bischofs von Fulda</rs>.
+                    des <rs type="person" ref="#koett-christoph-florentinus">Bischofs von Fulda</rs>.
                     Ich wäre Ihnen sehr verbunden, wenn Sie die Güte haben wollten, mir über seine
                     wissenschaftliche Tüchtigkeit wie über seine Gesinnung verlässliche Auskunft zu
-                    verschaffen, und insbesondere auch sicher zu stellen, ob wirklich der <rs type="person" ref="koett-christoph-florentinus" key="koett-christoph-florentinus">Bischof von Fulda</rs> sich um den
+                    verschaffen, und insbesondere auch sicher zu stellen, ob wirklich der <rs type="person" ref="#koett-christoph-florentinus">Bischof von Fulda</rs> sich um den
                     jungen Mann interessiert. Sollten Sie in der Lage sein, mich etwa noch auf
                     andere hervorragende, oder wenigstens unzweifelhaft hoffnungsvolle Romanisten,
                     die für unsere Verhältnisse passen dürften, wo möglich Katholiken aufmerksam zu

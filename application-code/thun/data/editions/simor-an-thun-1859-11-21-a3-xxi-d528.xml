@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="simor-johann" key="simor-johann" role="sender:kleriker">János Simor</rs> an
-                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                    <rs type="person" ref="#simor-johann" role="sender:kleriker">János Simor</rs> an
+                        <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_aac36cfc2853efb1e6932ef241d56c8b">Kroisbach</rs>, <date when="1859-11-21">21. November 1859</date>
@@ -52,7 +52,7 @@
                     <term>Personalfragen</term>
                 </index>
                 <p>Euere Excellenz!</p>
-                <p>Gegen den <rs type="place" subtype="place" key="rosenau" ref="#place_94d458421577f333e584bb7fb0f47e91">Rosenauer</rs> Vorschlag läßt sich
+                <p>Gegen den <rs type="place" subtype="place" ref="#place_94d458421577f333e584bb7fb0f47e91">Rosenauer</rs> Vorschlag läßt sich
                     nichts erinnern: nach den mir zugekommenen Nachrichten unterliegen die in Antrag
                     gebrachten Individuen keinem Anstande, nur kann meines Erachtens die
                     Domherrnstelle nicht eher besetzt werden als die Domprobstei. Der Bischof hätte
@@ -68,7 +68,7 @@
                     ein Pfarrer, die fraglichen Judenkinder sind übrigens bisher noch nicht getauft
                     worden. Die Schlechtigkeit der jüdischen Mutter wurde von den Zeitungsschreibern
                     benützt, um daraus eine Mortarageschichte zu schmieden.<lb/>
-                    <rs type="person" ref="mayer-joseph" key="mayer-joseph">Dr. Joseph Mayer</rs>, welchen ich die Ehre hatte
+                    <rs type="person" ref="#mayer-joseph">Dr. Joseph Mayer</rs>, welchen ich die Ehre hatte
                     Euerer Excellenz zu <rs type="place" subtype="place" ref="#place_f07d757cdeb5acd661d89d1d54ed7e3c">Gran</rs> zu empfehlen, wird sich in der
                     künftigen Woche Euerer Excellenz vorstellen. Ich erlaube mir das Curriculum
                     vitae des gedachten ehrlichen Mannes beizuschließen und ihm mit dem besten

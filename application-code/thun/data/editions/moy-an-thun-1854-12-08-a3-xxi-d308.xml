@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="moy-de-sons-ernst" key="moy-de-sons-ernst" role="sender:gelehrter">Ernst Moy de
-                        Sons</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                    <rs type="person" ref="#moy-de-sons-ernst" role="sender:gelehrter">Ernst Moy de
+                        Sons</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs>, <date when="1854-12-08">08. Dezember 1854</date>
@@ -70,7 +70,7 @@
                         Thun.</note>
                 </p>
                 <p>Euer Exzellenz</p>
-                <p>haben mich bei Ihrer Anwesenheit in <rs type="place" subtype="place" key="innsbruck" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs> mit vieler Güte behandelt und an Sie zu schreiben
+                <p>haben mich bei Ihrer Anwesenheit in <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs> mit vieler Güte behandelt und an Sie zu schreiben
                     ermuntert. Ich war auch wiederholt im Begriffe es zu thun, um Euer Exzellenz
                     meine Freude und mein Dankgefühl auszudrücken wegen der höchsten Erlasse,
                     wodurch dem römischen und dem kanonischen Rechte und der deutschen
@@ -82,7 +82,7 @@
                     meinen Bemühungen, wie hier nie zuvor, entspricht, so wünsche ich gar nichts,
                     als daß es immer so bliebe. In der Beziehung kann ich aber die Besorgnisse nicht
                     bergen, welche der jüngste Ministerialerlaß in Betreff der Rigorosenprüfungen an
-                        <orgName key="universitaet-innsbruck">unserer Universität</orgName> zu
+                        <orgName>unserer Universität</orgName> zu
                     erregen geeignet ist, ich halte es vielmehr für Pflicht, Euer Exzellenz
                     dieselben ohne Rückhalt vorzutragen. Es ist darin bestimmt, daß von nun an die
                     italienischen Studenten beim Rigorosum in deutscher Sprache gefragt und, vom
@@ -98,7 +98,7 @@
                     wäre, die Lust und das Verlangen denselben folgen zu können, wird dadurch
                     vielmehr zurückgedrängt, und die Folge wird nur die seyn, daß die Candidaten aus
                     Welschtirol entweder nur die Staatsprüfungen machen, bei welchen sie auf den
-                    Gebrauch ihrer eigenen Sprache ein Recht haben, oder daß sie sich nach <orgName key="universitaet-padua">Padua</orgName> oder <orgName key="universitaet-pavia">Pavia</orgName> wenden. Wünscht man, daß die
+                    Gebrauch ihrer eigenen Sprache ein Recht haben, oder daß sie sich nach <orgName>Padua</orgName> oder <orgName>Pavia</orgName> wenden. Wünscht man, daß die
                     Italiener die deutsche Sprache erlernen und deutsche Universitäten besuchen, so
                     thue man ihnen keine Gewalt an, sondern sorge nur für interessante deutsche
                     Vorträge, die sie anziehen, und lasse denen, welche sich die deutsche Sprache
@@ -134,13 +134,13 @@
                     Prüfung unvereinbar bezeichnet wird, daß die Professoren während der Prüfung
                     lesen oder schreiben, so muß ich gestehen, daß mich das höchlich überrascht hat.
                     Denn ich habe von 1836–1846 incl. an den öffentlichen Staatsprüfungen in
-                        <rs type="place" subtype="country" key="bayern" ref="#place_5afc76bc69955ce317651a3dc1dbb0d6">Bayern</rs>, die dort alljährlich unter dem
+                        <rs type="place" subtype="country" ref="#place_5afc76bc69955ce317651a3dc1dbb0d6">Bayern</rs>, die dort alljährlich unter dem
                     Vorsitze eines höheren Staatsbeamten abgehalten werden, theil genommen, und nie
                     etwas anderes gesehen, als daß sowohl der Vorsitzende als die Mitglieder der
                     Prüfungscommission während des Prüfungsactes mit Lesen, Schreiben, ja sogar mit
                     Erledigung von Akten sich beschäftigten. Dergleichen, bis auf die äußere Haltung
                     herabsteigende Zurechtweisungen sind nicht dazu angethan, in den Professoren das
-                    Gefühl zu wecken und zu schärfen, wie tief sie in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> auf der Scala der öffentlichen Beamten und in den
+                    Gefühl zu wecken und zu schärfen, wie tief sie in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> auf der Scala der öffentlichen Beamten und in den
                     Augen der Regierung stehen. Eine solche Stellung, die auch daraus
                     hervorleuchtet, daß ein Universitätsprofessor sich geehrt finden muß, wenn ihm
                     der Titel eines kaiserlichen Rathes ertheilt wird, ist nicht geeignet, den Eifer

@@ -4,10 +4,10 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="phillips-george" key="phillips-george" role="sender:gelehrter">George
-                        Phillips</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#phillips-george" role="sender:gelehrter">George
+                        Phillips</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
-                    <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1858-11-24">24. November 1858</date>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1858-11-24">24. November 1858</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -67,7 +67,7 @@
                     juridischen Studien mitzuarbeiten. Ich habe daher nicht bloß die mir allein als
                     Nominalfach übertragene Reichs- und Rechtsgeschichte gelesen, sondern auch über
                     deutsches Privatrecht, Kirchenrecht, Encyklopädie und Eherecht Vorträge
-                    gehalten. Da aber nunmehr für alle diese Fächer an <orgName key="universitaet-wien">hiesiger Universität</orgName> theils schon zuvor,
+                    gehalten. Da aber nunmehr für alle diese Fächer an <orgName>hiesiger Universität</orgName> theils schon zuvor,
                     theils in den letzten Jahren durch Anstellung neuer Professoren gesorgt worden
                     ist, so hat der Wunsch, wiederum auf längere Zeit mich der Ausarbeitung meines
                     Kirchenrechts hingeben zu können, sich in mir von Neuem geltend

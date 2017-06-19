@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="mischler-peter" key="mischler-peter" role="sender:gelehrter">Peter
-                        Mischler</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#mischler-peter" role="sender:gelehrter">Peter
+                        Mischler</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1855-02-25">25. Februar 1855</date>
                 </title>
@@ -61,7 +61,7 @@
                     möglichst vollständige Erfüllung meiner Lehrpflichten, aber auch die Liebe zu
                     dem Lande meiner Wirksamkeit ist es, was mich bewegt, Euer Excellenz meine
                     un[ter]thänigste Bitte ehrfurchtvollst vorzutragen.<lb/>Die demnächst in
-                        <rs type="place" subtype="place" key="paris" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs> zur Eröffnung kommende
+                        <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs> zur Eröffnung kommende
                     Industrieausstellung bietet dem Forscher im Fache der politischen Öconomie ein
                     überaus fruchtbares Feld für Anschauungen, Ideen, Erfahrungen, eine Fundgrube
                     von wichtigen Thatsachen und Belehrungen, wie sie in Büchern kaum geboten wird.
@@ -74,7 +74,7 @@
                     nach und nach abstrahiren, beobachten und combiniren läßt, das findet der
                     Forscher und Lehrer im Fache der politischen Öconomie in der lehrreichsten
                     Nebeneinanderstellung zu Paris.<lb/>Das Studium der öconomischen Verhältnisse
-                    des <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Kaiserstaates</rs>, der in seinen
+                    des <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Kaiserstaates</rs>, der in seinen
                     verschiedenen Gliedern ein höchst zusammengesetztes Gemälde von
                     wirthschaftlichen Entwicklungsstufen darbietet, ist ferner dem beobachtenden
                     Lehrer der politischen Öconomie nicht leicht. Drei große Reisen in der Monarchie
@@ -82,7 +82,7 @@
                     neuerer Werke, mich aber auch in die Lage gesetzt, dem academischen Vortrage
                     immer zuerst belehrende Beispiele aus den Verhältnissen des Kaiserstaates
                     einzuflechten, und an diese dann Parallelbeispiele aus den öconomischen
-                    Zuständen des Zollvereins <rs type="place" subtype="country" key="belgien" ref="#place_f79ffe9e826a19f9f6a446c90e21c4e3">Belgiens</rs>, <rs type="place" subtype="country" key="england" ref="#place_f48861ca24e26a23a923ca68657079f4">Englands</rs> usw., die ich zu beobachten Gelegenheit
+                    Zuständen des Zollvereins <rs type="place" subtype="country" ref="#place_f79ffe9e826a19f9f6a446c90e21c4e3">Belgiens</rs>, <rs type="place" subtype="country" ref="#place_f48861ca24e26a23a923ca68657079f4">Englands</rs> usw., die ich zu beobachten Gelegenheit
                     hatte, <rs type="place" subtype="country" ref="#place_aac7c6b9ed1b68ed0a91e7786ba11716"> anzuschließen. Aber – Excellenz – es ist sehr schwer,
                         Oesterreich und seinen </rs> Gewerbfleiß, seine natürlichen
                     Reichthumsquellen, seine großen Vorzüge in vielen Industriezweigen und die
@@ -90,12 +90,12 @@
                     auf Reisen und durch sorgfältiges Studium einschlagender Werke so scharf und
                     tief kennen zu lernen, wie es auf einer Ausstellung von Gewerbserzeugnissen
                     geschehen kann, die jedenfalls weitaus bedeutender wird, als die Münchener
-                    Industrieausstellung. Ich bin nach <rs type="place" subtype="place" key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs>
+                    Industrieausstellung. Ich bin nach <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs>
                     geeilt, aus Liebe zur Wissenschaft und zum Lande meiner Wirksamkeit, viel – sehr
                     viel – Euer Excellenz – habe ich gelernt. Ja, was in keinem Buche zu finden war,
                     die Entwicklung der Weberei, Spinnerei, der Seidenindustrie, der
                     Porcellanmanufacturen usw. usw. hat die Welt in München gesehen, habe auch ich
-                    in <rs type="place" subtype="place" key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs> bewiesen gefunden. <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> wurde in diesen Industriezweigen,
+                    in <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs> bewiesen gefunden. <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> wurde in diesen Industriezweigen,
                     wie in so manchen andern nicht allein nicht übertroffen, nein, nicht erreicht.
                     Die Früchte dieser Anschauungen kommen meinem unvergleichlich fleißigen
                     Zuhörerkreise zu Gute, werden aber auch in einem Werke über
@@ -113,10 +113,10 @@
                     außerordentlich gefördert. In <rs type="place" subtype="place" ref="#place_d0a6343a081a7335baa965ce4fd0845c">München</rs> habe ich viele
                     Beobachtungen gemacht und sie auf meine Reise über
                         <rs type="place" subtype="place" ref="#place_ea6515eca27ae68c06c82e8cc2a6d318">Salzburg</rs> usw., besonders aber auf einer
-                    volkswirthschaftlichen Durchforschung <rs type="place" subtype="region" key="maehren" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mährens</rs> und
-                        <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmens</rs> berichtigt, erweitert und
+                    volkswirthschaftlichen Durchforschung <rs type="place" subtype="region" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mährens</rs> und
+                        <rs type="place" subtype="region" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmens</rs> berichtigt, erweitert und
                     fortgesetzt.<lb/>In meiner früheren Stellung als Privatdocent der politischen
-                    Öconomie in <orgName key="universitaet-freiburg">Freiburg</orgName> bot mir die
+                    Öconomie in <orgName>Freiburg</orgName> bot mir die
                     Großherzogliche Badische Regierung bereitwillig die Mittel, damit ich die
                     Londoner Industrieausstellung zum Zwecke der Wissenschaft besuchen konnte.
                     Jetzt, bin ich nicht in der Lage, die Reise nach <rs type="place" subtype="place" ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</rs>
@@ -126,7 +126,7 @@
                     der Lage sein, die Pariser Industrieausstellung zum Zwecke der Wissenschaft zu
                     besuchen.<lb/>Eine ausführliche Arbeit über die Ursache der Preissteigerung der
                     Nahrungsmittel in <rs type="place" subtype="region" ref="#place_1a477f0b4ff0e44372369bbd196cb38a">Böhmen</rs>, die ich im Auftrage Seiner Excellenz
-                    des <rs type="person" ref="mecsery-von-tsoor-karl" key="mecsery-von-tsoor-karl">Herrn Statthalters von
+                    des <rs type="person" ref="#mecsery-von-tsoor-karl">Herrn Statthalters von
                         Böhmen</rs> im Laufe dieses Winters auszuführen hatte, führte mich
                     nicht allein in das Innerste des böhmischen Volkslebens, sondern gab mir auch
                     eine Reihenfolge von Problemen, die ich als Gegenstand meiner Reise nach
@@ -142,7 +142,7 @@
                     hätte ich um eine Reiseunterstützung gebeten. Gewiß wird auch die französische
                     Regierung den in den Provinzen wirkenden Nationalöconomen Reisemittel bieten,
                     wie sie es 1851 gethan, in welchem Jahre auch viele Professoren an deutschen
-                    Universitäten in die Lage gesetzt wurden, <rs type="place" subtype="place" key="london" ref="#place_bc180dbc583491c00f8a1cd134f7517b">London</rs> zu besuchen. Auch in <rs type="place" subtype="place" key="muenchen" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs> waren viele Professoren als Commissaire ihrer
+                    Universitäten in die Lage gesetzt wurden, <rs type="place" subtype="place" ref="#place_bc180dbc583491c00f8a1cd134f7517b">London</rs> zu besuchen. Auch in <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs> waren viele Professoren als Commissaire ihrer
                     Regierungen thätig.<lb/>Genehmigen Euer Excellenz die Versicherung allerhöchster
                     Ehrfurcht und Ergebenheit</p>
                 <p>Euer Excellenz allerunterthänigster<lb/>Dr. Mischler<lb/>k.k. Prof. der

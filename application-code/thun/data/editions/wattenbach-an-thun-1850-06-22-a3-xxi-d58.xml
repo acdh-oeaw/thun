@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="wattenbach-wilhelm" key="wattenbach-wilhelm" role="sender:gelehrter">Wilhelm
-                        Wattenbach</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#wattenbach-wilhelm" role="sender:gelehrter">Wilhelm
+                        Wattenbach</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_ee1611b61f5688e70c12b40684dbb395">Berlin</rs>,
                         <date when="1850-06-22">22. Juni 1850</date>
@@ -55,9 +55,9 @@
                 </index>
                 <p>Euer Excellenz</p>
                 <p>wird ohne Zweifel erinnerlich sein, daß mir im Monat November 1849 von Eurer
-                    Excellenz eine Anstellung in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oestreich</rs> um
-                    Ostern 1850 zugesagt wurde. Der Herr Ministerialrath <rs type="person" ref="exner-franz" key="exner-franz">Exner</rs> hat mir auf meine Anfrage deshalb im April dieses Jahres
-                    mittheilen lassen, daß die Absicht der Berufung nach <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oestreich</rs> noch unverändert stattfinde, daß aber der Zeitpunkt
+                    Excellenz eine Anstellung in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oestreich</rs> um
+                    Ostern 1850 zugesagt wurde. Der Herr Ministerialrath <rs type="person" ref="#exner-franz">Exner</rs> hat mir auf meine Anfrage deshalb im April dieses Jahres
+                    mittheilen lassen, daß die Absicht der Berufung nach <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oestreich</rs> noch unverändert stattfinde, daß aber der Zeitpunkt
                     noch nicht zu bestimmen sei.<lb/>Wenn nun eine solche Ungewißheit überhaupt
                     manche Unannehmlichkeit mit sich bringt, so ist jetzt ein Fall eingetreten,
                     welcher es mir dringend wünschenswerth macht, Gewißheit zu erlangen. Es ist
@@ -77,7 +77,7 @@
                     angemessen erscheinen wird, bitte ich nur mich von der Entscheidung geneigtest
                     bald in Kenntnis setzen zu wollen, da ich sonst auf längere Zeit meine
                     wissenschaftliche Beschäftigung aufgeben müßte und in die Unmöglichkeit versetzt
-                    würde, dem mir in Aussicht gestellten Wirkungskreis in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oestreich</rs> meine Thätigkeit zu widmen.<lb/>In
+                    würde, dem mir in Aussicht gestellten Wirkungskreis in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oestreich</rs> meine Thätigkeit zu widmen.<lb/>In
                     Hoffnung auf eine baldige Erledigung meines Anliegens verharre ich mit der
                     ehrfurchtsvollsten Hochachtung</p>
                 <p>Euer Excellenz</p>

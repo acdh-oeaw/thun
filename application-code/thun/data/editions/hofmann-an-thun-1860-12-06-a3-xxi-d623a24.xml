@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="hofmann-vinzenz" key="hofmann-vinzenz" role="sender:gelehrter">Vinzenz Hofmann
-                    </rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                    <rs type="person" ref="#hofmann-vinzenz" role="sender:gelehrter">Vinzenz Hofmann
+                    </rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_e33aa4ba5c56cc07714ea6d6520cf548">Brünn</rs>, <date when="1860-12-06">6.
@@ -59,7 +59,7 @@
                     genügen, so möge das von der Tiefe und Innigkeit derselben Zeugnis geben. Wohl
                     mischt sich in diese freudige Erregung ein wehmuthvoller Gedanke, daß nicht mehr
                     die kundige, thatkräftige Hand das Steuer des Unterrichts führt, welche die
-                    heutige sich immer gedeihlicher entfaltende Ordnung der Studien in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> gegründet und ihre Angelegenheiten
+                    heutige sich immer gedeihlicher entfaltende Ordnung der Studien in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> gegründet und ihre Angelegenheiten
                     mit dem für Wissenschaft und Fortschritt segensreichsten Erfolg geleitet
                     hat.<lb/>Allein großer Werke Wirkungen beschränken sich nicht auf einen Tag: der
                     edle Saamen aus Eurer Excellenz gesegneter Hand ist auf fruchtbaren Boden

@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="linde-justin" key="linde-justin" role="sender">Justin Linde</rs> an
-                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                    <rs type="person" ref="#linde-justin" role="sender">Justin Linde</rs> an
+                        <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_4312d5c8cdda027420c474e2221abc34">Frankfurt</rs>, <date when="1854-05-31">31. Mai 1854 </date>
@@ -66,8 +66,8 @@
                 <p>E. Excellenz sehr geehrtes Schreiben vom 24 d. M. <note xml:id="note_1">Vgl. <ref target="thun/thun-korrespondenz/Bundesarchiv_Koblenz/thun-an-linde_1854-05-24_CA1127.xml">Leo Thun an Justin Linde, 24. Mai 1854, Bundesarchiv Koblenz, N 1759,
                             51</ref>.</note>habe ich gut empfangen, die Ehre gehabt und mich
                     wahrhaft gefreut, daraus die Überzeugung schöpfen zu dürfen, daß Hochdieselben
-                    mir Vertrauen und Wohlwollen bewahrt haben.<lb/>Die Empfehlung des[?] <rs type="person" ref="schulte-friedrich" key="schulte-friedrich">Dr. Schulte</rs>, wird ganz zuverläßig jenes
-                    Vertrauen rechtfertigen. Wenn <rs type="person" ref="schulte-friedrich" key="schulte-friedrich">Schulte</rs> zunächst auch vorzugsweise im kanonischen Rechte sich
+                    mir Vertrauen und Wohlwollen bewahrt haben.<lb/>Die Empfehlung des[?] <rs type="person" ref="#schulte-friedrich">Dr. Schulte</rs>, wird ganz zuverläßig jenes
+                    Vertrauen rechtfertigen. Wenn <rs type="person" ref="#schulte-friedrich">Schulte</rs> zunächst auch vorzugsweise im kanonischen Rechte sich
                     bekannt gemacht und seine Tüchtigkeit legitimiert hat, so ist er doch eben so
                     tüchtig in den übrigen Zweigen des Rechtes. E. Exzellenz dürfen ihn zu
                     staatsrechtlichen und römisch rechtlichen Vorlesungen mit gleicher Zuversicht
@@ -75,7 +75,7 @@
                     Professuren auf jeder beliebigen Universität anzuvertrauen, mit dem Vorbehalte,
                     sich demnächst für ein anderes Fach und an einer anderen Universität verwenden
                     zu lassen, je nachdem Sie es denn für angemessen halten.<lb/>
-                    <rs type="person" ref="schulte-friedrich" key="schulte-friedrich">Schulte</rs> gehört ausnahmsweise zu den
+                    <rs type="person" ref="#schulte-friedrich">Schulte</rs> gehört ausnahmsweise zu den
                     getreuen Söhnen der katholischen Kirche, die Aussicht haben selbst in
                         <rs type="place" subtype="country" ref="#place_29a93c0139fd45a35375f2ded98bb90b">Preußen</rs> eine akademische Carriere zu machen, vielleicht
                     bald selbst ins Ministerium als Hülfsarbeiter zugezogen zu werden. Da
@@ -84,15 +84,15 @@
                     festgesetzt hat, überhaupt schwerer, ihn zu acquirieren, und unter allen
                     Umständen wird es kostspieliger, und der so Angestellte hat nicht dieselben
                     Gründe der vorzugsweisen Hingebung, wie einer dessen Carriere E. Exzellenz von
-                    vornherein begründet haben.<lb/>Wegen des <rs type="person" ref="fick-heinrich" key="fick-heinrich">Dr.
+                    vornherein begründet haben.<lb/>Wegen des <rs type="person" ref="#fick-heinrich">Dr.
                         Fick</rs> habe ich sofort nach Empfang Ihres geehrten Schreibens
-                    direct an <rs type="person" ref="koett-christoph-florentinus" key="koett-christoph-florentinus">H. Bischof von
+                    direct an <rs type="person" ref="#koett-christoph-florentinus">H. Bischof von
                             <rs type="place" subtype="place" ref="#place_0fd179e1ec67f709e25dafb228e73d55">Fulda</rs>
                     </rs> geschrieben, und erwarte
                     umgehend Antwort. Daß ich diese noch nicht habe, hat sicher seine guten Gründe,
                     die mich nun aber nicht auch entschuldigen würden, Hochdemselben wenigstens
                     vorläufig die ergebenste Anzeige zu machen, daß ich die nötigen Einleitungen
-                    sofort zu treffen nicht versäumt habe.<lb/>Weitere Erkundigungen über <rs type="person" ref="fick-heinrich" key="fick-heinrich">Fick</rs> wede ich leicht einziehen, wenn ich erst
+                    sofort zu treffen nicht versäumt habe.<lb/>Weitere Erkundigungen über <rs type="person" ref="#fick-heinrich">Fick</rs> wede ich leicht einziehen, wenn ich erst
                     von <rs type="place" subtype="place" ref="#place_0fd179e1ec67f709e25dafb228e73d55">Fulda</rs> wegen der Haupteigentschaft vergewissert
                     bin.<lb/>Besonders interessant ist mir die Mittheilung, daß E. Exzellenz
                     entschlossen sind, für ein gründliches historisches und besonders auch römisch
@@ -116,7 +116,7 @@
                     ausbeutet[?], alle katholischen Entwicklungen durch alle Branschen der
                     Wissenschaft zu ecrasieren, was in dem zweitgrößten katholischen deutschen
                     Staate zwar noch nicht erreicht, aber mit scheinbarem Erfolge umfangsreich[?]
-                    begonnen ist. Aber auch <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>
+                    begonnen ist. Aber auch <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>
                     betrachtet diese Partei[?] als ihre Domaine. Mir sind Briefe zu Gesicht
                     gekommen, die mich ziemlich tief und zuverläßig diesen Plan und die darauf
                     begründete Propaganda durchschauen ließen. Die Mittel zur Ausführung liegen umso
@@ -131,7 +131,7 @@
                     auf einer anderen deutschen Universität wirklich ein wirksame Stellung errungen
                     hat, daraus zu berufen, weil damit leicht einem andern nachtheilichen Einfluße
                     Platz gemacht wird. In den Händen E. Excellenz als Minister des Cultus und
-                    Unterrichts, liegt am Ende doch <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> Zukunft, das liegt in der Natur der Sache, und darin
+                    Unterrichts, liegt am Ende doch <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> Zukunft, das liegt in der Natur der Sache, und darin
                     daß in keinem anderen Verwaltungszweige, die schaffenden und wirksamen Organe,
                     so kulturfähigen Boden und so nachhaltige Wirksamkeit haben.<lb/>Ein Kultus und
                     Unterrichtsminister macht Grundlagen, die leicht auf Jahrhunderte nach ihm, und
@@ -150,7 +150,7 @@
                     und bei der ich deshalb so sehr wünschte, mit meinen geingen Kräften
                     hochderselben zur Disposition zu sein. Meine Begeisterung für die Sache, ging
                     gleichen Schritt mit der Anhänglichkeit an Ihre Person, die mir durch das ganze
-                    Wesen des von mir so hochgeschätzten <rs type="person" ref="thun-hohenstein-friedrich" key="thun-hohenstein-friedrich">Herrn Bruders</rs> so verehrungsvoll geworden. Nun E. Excellenz
+                    Wesen des von mir so hochgeschätzten <rs type="person" ref="#thun-hohenstein-friedrich">Herrn Bruders</rs> so verehrungsvoll geworden. Nun E. Excellenz
                     wissen, woran diese meine Hoffnungen gescheitert sind. Meine Gesinnung und meine
                     Wünsche sind sich gleichgeblieben, aber leider auch meine Verhältnisse zum
                     großen Theil, wenngleich ich jetzt es eher möglich machen könnte, unter etwas
@@ -158,7 +158,7 @@
                     anzunehmen.<lb/>Jedenfalls werde ich mich bemühen, darüber zuverläßige Notitzen
                     zu sammeln, wo einige Capazitäten, wie E. Excellenz Sie suchen zu gewinnen sind,
                     und mich dann beeilen, Hochderselben darüber zu referieren.<lb/>Es ist schwierig
-                    wenn man nicht in dem System eines <orgName key="ministerium-fuer-kultus-und-unterricht">Unterrichtsministeriums</orgName> gehörig orientiert ist und die Pläne in
+                    wenn man nicht in dem System eines <orgName>Unterrichtsministeriums</orgName> gehörig orientiert ist und die Pläne in
                     allgemeinen Unrissen auch nur kennt, irgendeinen berechtigten angemessenen Rath
                     zu haben; und ich muß deshalb um Nachsicht bitten, wenn ich hier etwas ganz
                     unausführbares sage: aber mir scheint, daß es zweckmäßig wäre, wenn E. Excellenz
@@ -170,7 +170,7 @@
                     dann sorgsame Beobachtung der Entwicklung. Freilich kenne ich die
                     österreichischen Universitäten gar nicht, um zu wissen, auf welche dabei wohl
                     vorzugsweise Rücksicht zu nehmen wäre. Schon längst hatte ich sogar persönliches
-                    Interesse einige Gymnasien und Universitäten <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> näher kennen zu lernen, weil ich wenigsten meine
+                    Interesse einige Gymnasien und Universitäten <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> näher kennen zu lernen, weil ich wenigsten meine
                     beiden jüngsten Söhne demnächst österreichischen Anstalten übergeben muß. Ich
                     habe seither die Reise aus denselben Gründen nicht ausführen können, die es mir
                     unmöglich machten, mich in <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> niederzulassen. Wie doch

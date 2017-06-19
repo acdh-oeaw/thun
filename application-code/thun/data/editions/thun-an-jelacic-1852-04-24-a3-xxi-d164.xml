@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Abschrift eines Schreibens von <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an <rs type="person" ref="jelacic-joseph" key="jelacic-joseph" role="recipient:beamter">Joseph Jelačič</rs>
+                <title>Abschrift eines Schreibens von <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an <rs type="person" ref="#jelacic-joseph" role="recipient:beamter">Joseph Jelačič</rs>
                     <lb/>o. O., <date when="1852-04-24">24. April 1852</date>
                 </title>
             </titleStmt>
@@ -55,7 +55,7 @@
                     <term>Nationalitätenkonflikt</term>
                     <term>Kroatien</term>
                 </index>
-                <p>Abschrift des Schreibens vom 24. April 1852 an den Herrn <rs type="person" ref="jelacic-joseph" key="jelacic-joseph">FZM Freiherrn von Jelacich</rs>.</p>
+                <p>Abschrift des Schreibens vom 24. April 1852 an den Herrn <rs type="person" ref="#jelacic-joseph">FZM Freiherrn von Jelacich</rs>.</p>
                 <p>Indem ich soeben die ämtliche Zuschrift an Sie in der Frage der
                     Unterrichtssprache in Ordnung gebracht habe, kann ich nicht umhin ihr auch
                     einige Zeilen in der vertraulichen Form eines Briefes beizufügen. Daß Sie bei
@@ -79,13 +79,13 @@
                     Zuschrift von didaktischen Gründen im Allgemeinen und von dem Mangel an
                     illirischen Schulbüchern gesprochen; erlauben Sie mir noch eines Umstandes zu
                     erwähnen: des Mangels an kroatischen Lehrern. Sie haben es mir etwas übel
-                    genommen, daß ich Ihnen <rs type="person" ref="jarc" key="jarc">Jarć</rs> und <rs type="person" ref="premru-joseph" key="premru-joseph">Premru</rs> nach <rs type="place" subtype="place" ref="#place_a620921af9eef09d01368fb2c1a2fd88">Agram</rs>
+                    genommen, daß ich Ihnen <rs type="person" ref="#jarc">Jarć</rs> und <rs type="person" ref="#premru-joseph">Premru</rs> nach <rs type="place" subtype="place" ref="#place_a620921af9eef09d01368fb2c1a2fd88">Agram</rs>
                     geschickt habe. Ich kann mich der Hoffnung nicht entschlagen, daß Sie inzwischen
                     sich überzeugt haben, es sei dem Lande damit eine Wohlthat erwiesen worden. Ich
                     thue was in meiner Macht steht, um Landeseingeborne zu tüchtigen Lehrern
-                    heranbilden zu lassen, und hoffe, daß <rs type="person" ref="weber-adolph" key="weber-adolph">Weber</rs> und <rs type="person" ref="mesic-matthias" key="mesic-matthias">Mesić</rs> gute
-                    Dienste leisten werden. Das alles reicht aber nur aus, um das <rs type="place" subtype="place" key="agram" ref="#place_104b5ac4af06263707f5418d171ffe3d">Agramer</rs> Gymnasium vorwärts zu bringen. Dabei kann es
-                    aber doch nicht bleiben. Ich habe in <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</rs>, in <rs type="place" subtype="place" ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</rs> und in
+                    heranbilden zu lassen, und hoffe, daß <rs type="person" ref="#weber-adolph">Weber</rs> und <rs type="person" ref="#mesic-matthias">Mesić</rs> gute
+                    Dienste leisten werden. Das alles reicht aber nur aus, um das <rs type="place" subtype="place" ref="#place_104b5ac4af06263707f5418d171ffe3d">Agramer</rs> Gymnasium vorwärts zu bringen. Dabei kann es
+                    aber doch nicht bleiben. Ich habe in <rs type="place" subtype="place" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</rs>, in <rs type="place" subtype="place" ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</rs> und in
                         <rs type="place" subtype="place" ref="#place_a15ff820fcaf8c98a143789a9259b53e">Leutschau</rs> [Levoča] drei Gymnasien ins Leben gerufen,
                     wie bisher in <rs type="place" subtype="place" ref="#place_a620921af9eef09d01368fb2c1a2fd88">Agram</rs> noch keines bestand; das wird selbst
                     von den Ungarn anerkannt. Es sind deutsche Gymnasien, man erkennt sie aber als
@@ -95,7 +95,7 @@
                         <rs type="place" subtype="place" ref="#place_a77f66e4d7509fe69d0c708e084c6deb">Warasdin</rs> [Varaždin] und <rs type="place" subtype="place" ref="#place_8590608f45d24fb09113f702a72c21f1">Essek</rs>
                     [Osijek] ordentliche achtklassige Gymnasien zustande bringen. Die Franziskaner
                     können aber da nicht zum Ziele helfen. Es ginge nicht anders als in ähnlicher
-                    Weise wie in <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</rs> und
+                    Weise wie in <rs type="place" subtype="place" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</rs> und
                         <rs type="place" subtype="place" ref="#place_f39c5e3628c433e1b695f0b5200aa6ce">Ofen</rs>. Soll aber auch in <rs type="place" subtype="place" ref="#place_8590608f45d24fb09113f702a72c21f1">Essek</rs>
                     und <rs type="place" subtype="place" ref="#place_a77f66e4d7509fe69d0c708e084c6deb">Warasdin</rs> ausschließlich illirischer Unterricht sein,
                     so ist es gar nicht möglich an die Regulirung zu gehen. Ich bin überzeugt, die

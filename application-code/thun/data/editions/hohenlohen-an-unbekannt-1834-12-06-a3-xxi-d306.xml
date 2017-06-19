@@ -4,10 +4,10 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="hohenlohe-waldenburg-schillingfuerst-alexander" key="hohenlohe-waldenburg-schillingfuerst-alexander" role="sender:kleriker">Alexander Hohenlohe</rs> an Unbekannt<note xml:id="note_1">Im Nachlass wurde als Empfänger Johann Minkopf, Pfarrer in
+                    <rs type="person" ref="#hohenlohe-waldenburg-schillingfuerst-alexander" role="sender:kleriker">Alexander Hohenlohe</rs> an Unbekannt<note xml:id="note_1">Im Nachlass wurde als Empfänger Johann Minkopf, Pfarrer in
                         Pinkafeld, angegeben.</note>
                     <lb/>
-                    <rs type="place" subtype="place" key="grosswardein" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Großwardein</rs> [Oradea], <date when="1834-12-06">6. Dezember
+                    <rs type="place" subtype="place" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Großwardein</rs> [Oradea], <date when="1834-12-06">6. Dezember
                         1834</date>
                     <note xml:id="note_2">Das Dokument wurde im Nachlass
                         fälschlicherweise auf das Jahr 1854 datiert.</note>
@@ -59,7 +59,7 @@
                 <p>Großwardein, 6. December 1834</p>
                 <p>Hochwürdiger Herr Pfarrer<lb/>Lieber theurer Bruder in Christo!</p>
                 <p>Um so angenehmer war mir Ihr liebes Schreiben, weil ich im Voraus schon den Ruf
-                    des Mannes kannte, durch meinen seligen Freund <rs type="person" ref="job" key="job">Job</rs>, und die Schreibart mir den Geistig-Geistlichen schilderte,
+                    des Mannes kannte, durch meinen seligen Freund <rs type="person" ref="#job">Job</rs>, und die Schreibart mir den Geistig-Geistlichen schilderte,
                     der hierlands unter dem Spott-Namen Misttier [?] gescholten, gerade an und bey
                     mir seine Stelle nahe zum Herzen hat, den ich persönlich kennen will, und kennen
                     lernen werde bey meiner nächsten Hinaufreise, aus meiner Terra incognita et
@@ -87,7 +87,7 @@
                     Verständnis ist in unseren Tagen nicht mehr möglich und da ist es besser in
                     stillen Orten damit wir den Glauben behalten, der so gefährdet ist in der
                     heutigen Zeit. Bitten wir Eines, bittend der Eine für den Anderen, daß wir ihn
-                    an uns erhalten, mehren, befestigen.<lb/>Meine Stellung in <rs type="place" subtype="place" key="grosswardein" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">G[roßwardein]</rs> ist wenig, indessen alles kommt
+                    an uns erhalten, mehren, befestigen.<lb/>Meine Stellung in <rs type="place" subtype="place" ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">G[roßwardein]</rs> ist wenig, indessen alles kommt
                     von Gott und führt deshalb zu Ihm wenn man es so betrachtet – und – wo ist der
                     Platz wo man heute nützen kann? Inzwischen hat man Zeit an der eigenen
                     Vervollkommnung zu arbeiten, was immer die Hauptaufgabe bleibt, und sendet Gott
@@ -135,8 +135,8 @@
                     Bruder hast du mein offenes Glaubensbekenntnis, was freylich 100 Episcopate
                     nicht recomendiert, Schreiber dies wünscht es sich auch gar nicht, weil man
                     genug zu thun hat, seine eigene Seele zu retten, geschweige andere. Meine besten
-                    Freunde <rs type="person" ref="sailer-johann" key="sailer-johann">Sailer</rs> – <rs type="person" ref="wittmann-georg" key="wittmann-georg">Wittmann</rs> – <rs type="person" ref="job" key="job">Job</rs> – Bohtina [?] – <rs type="person" ref="berghold" key="berghold">Berghold</rs>
-                    – <rs type="person" ref="schlund-karl" key="schlund-karl">Schlund</rs> sind tod, in die jungen kann,
+                    Freunde <rs type="person" ref="#sailer-johann">Sailer</rs> – <rs type="person" ref="#wittmann-georg">Wittmann</rs> – <rs type="person" ref="#job">Job</rs> – Bohtina [?] – <rs type="person" ref="#berghold">Berghold</rs>
+                    – <rs type="person" ref="#schlund-karl">Schlund</rs> sind tod, in die jungen kann,
                     mag ich mich nicht finden. Et nunc vale. Charitas Christi urget nos, urget et
                     urgeat amplius. Tuus totus quantus in Sanctissimo Corde Jesu.</p>
                 <p>[?] Hohenlohe.</p>

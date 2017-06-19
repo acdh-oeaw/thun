@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
-                        <rs type="person" ref="ficker-julius" key="ficker-julius" role="recipient">Julius
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#ficker-julius" role="recipient">Julius
                         Ficker</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1858-06-09">9. Juni 1858</date>
@@ -54,15 +54,15 @@
                 <p>Wien den 9. Juni 1858</p>
                 <p>Werther Herr Professor!</p>
                 <p>Unter den Männern die Sie mir bei früheren Gelegenheiten für eine Berufung nach
-                        <rs type="place" subtype="country" ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</rs> empfohlen haben, war auch <rs type="person" ref="muys-gottfried" key="muys-gottfried">Dr. Muys</rs>. Ich habe nun die Absicht ihn als
-                    Professor der Geschichte – namentlich für alte Geschichte – nach <orgName key="universitaet-lemberg">Lemberg</orgName> in Antrag zu bringen. Auch
-                        <rs type="person" ref="aschbach-joseph" key="aschbach-joseph">Prof. Aschbach</rs> empfiehlt ihn
+                        <rs type="place" subtype="country" ref="#place_b472f5868425ac2bc44e693fc3267e87">Österreich</rs> empfohlen haben, war auch <rs type="person" ref="#muys-gottfried">Dr. Muys</rs>. Ich habe nun die Absicht ihn als
+                    Professor der Geschichte – namentlich für alte Geschichte – nach <orgName>Lemberg</orgName> in Antrag zu bringen. Auch
+                        <rs type="person" ref="#aschbach-joseph">Prof. Aschbach</rs> empfiehlt ihn
                     sehr, und hat deshalb mit ihm eine vorläufige Verhandlung gepflogen. Schon vor
                     einiger Zeit erhielt ich aus <rs type="place" subtype="place" ref="#place_03b16e0a78b56bb5ada8e43123aaaa62">Bonn</rs> eine anonyme Warnung.
                     Anonyme Schreiben pflege ich einfach in den Papierkorb zu werfen. Ich erhalte
                     nun heute die anliegende dringende Wiederholung. Ich sehe mich dadurch doch
                     veranlaßt Ihre erprobte Gefälligkeit noch einmal in Anspruch zu nehmen, und Sie
-                    zu bitten, mir zu schreiben, ob Sie noch der Überzeugung sind, daß <rs type="person" ref="muys-gottfried" key="muys-gottfried">Dr. Muys</rs> volles Vertrauen verdient oder
+                    zu bitten, mir zu schreiben, ob Sie noch der Überzeugung sind, daß <rs type="person" ref="#muys-gottfried">Dr. Muys</rs> volles Vertrauen verdient oder
                     falls Sie ihn persönlich nicht hinreichend kennen sollten, wer etwa als ein ganz
                     verlässlicher Gewährsmann anzusehen sein dürfte.</p>
                 <p>Mit aufrichtiger Hochachtung<lb/>Ihr ergebener<lb/>Thun</p>

@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="fuchs-adalbert" key="fuchs-adalbert" role="sender:gelehrter">Adalbert
-                        Fuchs</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                    <rs type="person" ref="#fuchs-adalbert" role="sender:gelehrter">Adalbert
+                        Fuchs</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs>, <date when="1853-04-08">8.
@@ -60,7 +60,7 @@
                 </index>
                 <p>Eure Excellenz!</p>
                 <p>Vor drei Jahren übernahm der gehorsamst Gefertigte die durch Eure Excellenz ins
-                    Leben gerufene Lehrkanzel der Landwirthschaft am <orgName key="polytechnisches-institut-wien">k.k. polytechnischen Institute</orgName>
+                    Leben gerufene Lehrkanzel der Landwirthschaft am <orgName>k.k. polytechnischen Institute</orgName>
                     mit der freudigen Zuversicht, an dieser reich dotirten Anstalt alle Mittel zu
                     erhalten, um seine Vorträge den jetzigen Anforderungen der Wissenschaft gemäß
                     ausstatten und seine ganze Zeit wissenschaftlichen Forschungen widmen zu können.
@@ -110,14 +110,14 @@
                     Aufblühen des Faches und die Heranbildung tüchtiger Landwirthe übernehmen
                     kann.<lb/>Zur Aussteuer der Kanzel gehört außer den oben angeführten
                     Erfordernissen auch die Verwilligung eines Assistenten, wie das bei den andern
-                    ordentlichen Kanzeln am <orgName key="polytechnisches-institut-wien">k.k.
+                    ordentlichen Kanzeln am <orgName>k.k.
                         polytechnischen Institute</orgName> der Fall ist. Da mein Fach früher am
                     Institute nicht gelehrt wurde, so findet sich im Falle meiner Erkrankung am
                     Institute niemand, der die Suppletur übernehmen könnte, und mein Kollegium ist
                     dann verwaiset. Überdies wird es bei wachsender Zahl der Zuhörer gewiß schon im
                     nächsten Schuljahre nothwendig sein, sie auf den Exkursionen zu theilen und die
                     eine Hälfte durch den Assistenten führen zu lassen.<lb/>Der gehorsamst
-                    Gefertigte ist seit 3 Jahren im chemischen Laboratorium des <rs type="person" ref="redtenbacher-josef" key="redtenbacher-josef">Professor Redtenbacher</rs>, der ihm mit der
+                    Gefertigte ist seit 3 Jahren im chemischen Laboratorium des <rs type="person" ref="#redtenbacher-josef">Professor Redtenbacher</rs>, der ihm mit der
                     zuvorkommendsten Güte entgegen kam, mit Erdanalysen beschäftiget, wozu er aber
                     alles Nöthige selbst anschaffen muß. Da ich ohne eigenes Vermögen von meinem
                     Gehalte leben muß, so habe ich vor zwei Jahren um Ersatz dieser Kosten gebeten,

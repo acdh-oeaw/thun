@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="heufler-von-hohenbuehel-ludwig" key="heufler-von-hohenbuehel-ludwig" role="sender:beamter">Ludwig
-                        Heufler</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#heufler-von-hohenbuehel-ludwig" role="sender:beamter">Ludwig
+                        Heufler</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_f0cb899d2f50889980d12f59807d7ae0">Hermannstadt</rs>, <date when="1850-04-13"> 13. April 1850</date>
                 </title>
@@ -72,12 +72,12 @@
                         machen. Zu amtlichen Anträgen ist es natürlich noch nicht an der Zeit; auch
                         muß ich erst mein Zelt aufschlagen, denn es giebt hier kein
                         gemeinschaftliches Regierungsgebäude und für jedes einzelne Bureau muß
-                        mühsam Dach und Fach aufgesucht werden.<lb/>Die Reise durch <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> ist eine Reise neben Trümmern
-                        zerstörter Dörfer. Das <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Sachsenland</rs> ist
+                        mühsam Dach und Fach aufgesucht werden.<lb/>Die Reise durch <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> ist eine Reise neben Trümmern
+                        zerstörter Dörfer. Das <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Sachsenland</rs> ist
                         als das fruchtbarste am meisten besucht und geplagt worden und nur das
                         Wirken der Natur, die mit ihrem Segen die Wunden ausgleicht, die der Mensch
                         geschlagen hat, giebt Trost und Hoffnung.<lb/>Die Lage der Deutschen in
-                            <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> ist keine gute; seit
+                            <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> ist keine gute; seit
                         langer Zeit ist die Bevölkerung stationär, in einzelnen Dorfschaften sogar
                         im Rückschritte, und die uralte eingeborne Einwohnerschaft, die Romanen,
                         überfluthen das germanische Element. Eine eigenthümliche Verschrobenheit ist
@@ -93,14 +93,14 @@
                         blieb er mir schuldig, und wenn ich hier als Privatmann wäre, hätte ich es
                         ihm gesagt; es ist nämlich dem evangelischen Geistlichen durch den Mangel
                         der Ohrenbeichte der Haupthebel tiefgehenden Wirkens abgeschnitten.<lb/>Eine
-                        andere Furcht der Sachsen besteht darin, daß die Regierung <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> als tabula rasa betrachtet,
+                        andere Furcht der Sachsen besteht darin, daß die Regierung <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> als tabula rasa betrachtet,
                         auf welcher ein Proconsul mit bestem Willen aber ohne Verständnis der
                         Geschichte und nationeller Gegensätze seine Linien zieht.<lb/>Durch die
                         jüngste Arrondirung des Sachsenbodens ist dort die Anzahl der Wallachen eine
                         größere als die der Deutschen. Käme nun dazu, was man so sehr fürchtet, daß
-                            <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> als Ein Kronland
-                        erklärt würde, so wäre dem Deutschthum in <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> der Todesstoß gegeben. Ich erinnere mich hier
-                        lebhaft, wie die deutschen Enclaven im <rs type="place" subtype="country" key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">Vienetischen</rs> und <rs type="place" subtype="region" key="trentino" ref="#place_9725bae93236282ca00917f9ff1168d8">Tridentinischen</rs> unter der Regierung der Dogen von Venedig und
+                            <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> als Ein Kronland
+                        erklärt würde, so wäre dem Deutschthum in <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> der Todesstoß gegeben. Ich erinnere mich hier
+                        lebhaft, wie die deutschen Enclaven im <rs type="place" subtype="country" ref="#place_f7197ed66a15667400bf934725fd7c3c">Vienetischen</rs> und <rs type="place" subtype="region" ref="#place_9725bae93236282ca00917f9ff1168d8">Tridentinischen</rs> unter der Regierung der Dogen von Venedig und
                         der Bischöfe von Trient, also unter der Regierung von Wälschen, Deutsche
                         geblieben sind, dreißig Jahre aber der deutschen österreichischen Regierung
                         hingereicht haben, das germanische Element dort auszurotten, so daß man die
@@ -116,17 +116,17 @@
                         Repräsentation. Wenn ich kein Abgesandter der Regierung wäre, schriebe ich
                         für das große Publikum. So lege ich mit dem Ausdrucke unbegränzten
                         Vertrauens Euerer Exzellenz ans Herz, was mir eine nothwendige Maßregel für
-                            <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> scheint: Eine einzige
+                            <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> scheint: Eine einzige
                         Administration mit dem Sitze der Regierung in
                             <rs type="place" subtype="place" ref="#place_f0cb899d2f50889980d12f59807d7ae0">Hermannstadt</rs>, drei repräsentativ geschiedene
-                        Kronländer. Wenn ich das Original der ethnographischen Karte <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgens</rs> studiere, das mir <rs type="person" ref="haeufler-josef-vinzenz" key="haeufler-josef-vinzenz">Häufler</rs> mitgegeben hat, fasse
+                        Kronländer. Wenn ich das Original der ethnographischen Karte <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgens</rs> studiere, das mir <rs type="person" ref="#haeufler-josef-vinzenz">Häufler</rs> mitgegeben hat, fasse
                         ich die Überzeugung von der Möglichkeit einer solchen Abgränzung; die
-                        Magyaren bewohnen nur das <rs type="place" subtype="region" key="szeklerland" ref="#place_67da62b6c19004082b6c987162d5c7d3">Szeckler [Szekler]
+                        Magyaren bewohnen nur das <rs type="place" subtype="region" ref="#place_67da62b6c19004082b6c987162d5c7d3">Szeckler [Szekler]
                             Land</rs> in kompackten Massen; im „Lande der Ungarn“ sind fast nur
                         Romanen und die Magyaren waren nur die Herren; das Land der Sachsen, wie es
                         vor dem Jahre 1848 war und wie es wieder herzustellen wäre, ist überwiegend
                         deutsch. Also ein Land der Sachsen, der Romanen und der Magyaren (Szeckler).
-                        Der gemeinschaftliche Name <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>
+                        Der gemeinschaftliche Name <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>
                         als Ausdruck für das ganze administrativ und militärisch einheitliche Land
                         soll bleiben. Ähnliches ist ja auch im Küstenlande geschehen, wo
                             <rs type="place" subtype="region" ref="#place_8be4faaae218289562dc0a8c0e2e0ff1">Triest</rs> mit seinem Gebiethe und <rs type="place" subtype="region" ref="#place_fde20c283b228b19e2990cf5175fa31e">Istrien</rs>
@@ -136,7 +136,7 @@
                         strebt.<lb/>Ich bitte Euer Exzellenz, diese Betrachtungen nicht als Ausdruck
                         von Deutschthümelei anzusehen, ich habe durch mein Benehmen in
                             <rs type="place" subtype="region" ref="#place_fde20c283b228b19e2990cf5175fa31e">Istrien</rs> und ich glaube auch durch meine Arbeiten im
-                            <orgName key="ministerium-fuer-kultus-und-unterricht">Ministerium</orgName> gezeigt, daß eine solche beschränkte Liebe
+                            <orgName>Ministerium</orgName> gezeigt, daß eine solche beschränkte Liebe
                         eigener Stammgenossen mir ferne liege.<lb/>Aber die Romanen träumen von der
                         Wiederherstellung des alten Daciens, die Ungarn von einem magyarischen
                         Donaureiche, beide sind geschworene Feinde der Habsburger und der großen
@@ -162,10 +162,10 @@
                         und hier ist sie nun, wie sie mir ward, in Worten abgespiegelt.<lb/>Ich habe
                         angefangen, Besuche zu machen und zu empfangen; ich finde überall den
                         Ausdruck des größten Vertrauens in die Persönlichkeit und die besten
-                        Absichten Euerer Exzellenz und in die des <orgName key="ministerium-fuer-kultus-und-unterricht">Ministeriums</orgName>
+                        Absichten Euerer Exzellenz und in die des <orgName>Ministeriums</orgName>
                         überhaupt; meine Aufgabe fängt im lebendigen Verkehre mit den Menschen an
                         feste Gestalt zu gewinnen, und da ich einmal im Wasser bin, kommt mir auch
-                        der Muth zum Schwimmen. Für die Adjungirung des <rs type="person" ref="schuller-johann-karl" key="schuller-johann-karl">Prof. Schuller</rs> danke ich auf das
+                        der Muth zum Schwimmen. Für die Adjungirung des <rs type="person" ref="#schuller-johann-karl">Prof. Schuller</rs> danke ich auf das
                         wärmste; schon auf der ganzen achttägigen Reise war er mir eine reiche
                         Quelle der Belehrung. Er läßt sich Euerer Exzellenz ergebenst
                         empfehlen.<lb/>Genehmigen Euere Exzellenz den Ausdruck der unbegränzten

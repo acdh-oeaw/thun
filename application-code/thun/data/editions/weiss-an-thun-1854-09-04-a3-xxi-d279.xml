@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="weiss-johann-baptist" key="weiss-johann-baptist" role="sender:gelehrter">Johann Baptist
-                        Weiß</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                    <rs type="person" ref="#weiss-johann-baptist" role="sender:gelehrter">Johann Baptist
+                        Weiß</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_63714a562352ef3ae472da20ed0384c0">Baden-Baden</rs>, <date when="1854-09-04">04. September 1854</date>
@@ -64,19 +64,19 @@
                 <p>Ich war am 31. August in <rs type="place" subtype="place" ref="#place_35ec7062379a5b1e1743de648e2f3809">Heidelberg</rs> und habe bei
                     zuverlässigen Männern die Erkundigungen eingezogen, die Ihro Excellenz von mir
                     zu wünschen die Gnade hatten.<lb/>
-                    <rs type="person" ref="stintzing-roderich" key="stintzing-roderich">Dr.
+                    <rs type="person" ref="#stintzing-roderich">Dr.
                         Stinzing</rs> ist den Stimmen zufolge, die ich über ihn hörte, ein in
                     seinem Fache sehr tüchtiger Mann, sein Charakter sehr solid und achtungswerth,
-                    sein Vortrag nicht schlecht; eine große Zuhörerzahl hatte er nie, weil <rs type="person" ref="vangerow-karl-adolph" key="vangerow-karl-adolph">Vangerow</rs> der Abgott der Studenten ist.
+                    sein Vortrag nicht schlecht; eine große Zuhörerzahl hatte er nie, weil <rs type="person" ref="#vangerow-karl-adolph">Vangerow</rs> der Abgott der Studenten ist.
                     Seiner politischen Ansichten nach gehört er zur Gotheanischen Parthei, er sei
                     aber ein sehr stiller, nur seinen Studien lebender Gelehrter; daß ihn die Basler
                     berufen, sey ein gutes Zeichen für ihn, sagte man, denn diese legten ein Stück
                     Geld sechsmal herum, ehe sie es annähmen. Als in seinem Fache tüchtig, aber
-                    unter <rs type="person" ref="stintzing-roderich" key="stintzing-roderich">Stinzing</rs> stehend, wurde mir
-                    auch <rs type="person" ref="dernburg-heinrich" key="dernburg-heinrich">Dr. Dernburg</rs> genannt, der eben
-                    einen Ruf an die <orgName key="universitaet-bern">Universität Bern</orgName>
+                    unter <rs type="person" ref="#stintzing-roderich">Stinzing</rs> stehend, wurde mir
+                    auch <rs type="person" ref="#dernburg-heinrich">Dr. Dernburg</rs> genannt, der eben
+                    einen Ruf an die <orgName>Universität Bern</orgName>
                     erhalten hat. Dieselben Ansichten über beide Romanisten hörte ich von
-                    Heidelberger Professoren, die ich hier befragte. Über Professor <rs type="person" ref="schmidt-adolf" key="schmidt-adolf">Schmidt</rs>
+                    Heidelberger Professoren, die ich hier befragte. Über Professor <rs type="person" ref="#schmidt-adolf">Schmidt</rs>
                     <note xml:id="note_1">Es ist nicht
                         klar, ob Weiß hier Prof. Karl Adolf Schmidt meint oder einen gleichnamigen
                         Lehrer in Freiburg. Vgl. dazu den Brief von <ref target="thun/thun-korrespondenz/tetschen/fraenzinger-an-thun_1854-08-08_A3-XXI-D274.xml">Geheimrat Fränzinger an Leo Thun. Freiburg i. B., 8. August
@@ -84,16 +84,16 @@
                     nöthigen Erkundigungen einziehen.<lb/>Ich bin seit zwei Tagen hier in
                         <rs type="place" subtype="place" ref="#place_63714a562352ef3ae472da20ed0384c0">Baden-Baden</rs>. Viele Professoren und Gelehrte, selbst
                     ein griechischer, sind hier. Der Gegenstand vieler Huldigungen von Protestanten
-                    wie von Katholiken ist jener Professor <rs type="person" ref="bock-cornelius-peter" key="bock-cornelius-peter">Dr.
-                        Bock</rs> aus <orgName key="universitaet-bruessel">Brüssel</orgName>,
+                    wie von Katholiken ist jener Professor <rs type="person" ref="#bock-cornelius-peter">Dr.
+                        Bock</rs> aus <orgName>Brüssel</orgName>,
                     über den ich Ihro Excellenz schon einmal zu schreiben die Ehre hatte und der vor
                     allen Gelehrten der Welt der Beachtung von Seiten Ihrer Excellenz würdig ist.
                     Ein so solider Gelehrter und so feiner Kopf möchte schwer wieder zu finden seyn.
-                        <rs type="person" ref="bock-cornelius-peter" key="bock-cornelius-peter">Bock</rs> sucht einen
+                        <rs type="person" ref="#bock-cornelius-peter">Bock</rs> sucht einen
                     Wirkungskreis und würde einen Glanz des Ruhmes auf jede Universität werfen, an
-                    die er als Professor der Philologie berufen würde. – <rs type="person" ref="bock-cornelius-peter" key="bock-cornelius-peter">Bock</rs> wäre sehr billig, für seinen
-                    Werth spottbillig zu haben.<lb/>Überall in <rs type="place" subtype="country" key="deutschland" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschland</rs> findet man im Augenblick die lebhaftesten Sympathien
-                    für <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs>. Die badischen Zustände
+                    die er als Professor der Philologie berufen würde. – <rs type="person" ref="#bock-cornelius-peter">Bock</rs> wäre sehr billig, für seinen
+                    Werth spottbillig zu haben.<lb/>Überall in <rs type="place" subtype="country" ref="#place_5869efb178cbefee33172ba03d331cb0">Deutschland</rs> findet man im Augenblick die lebhaftesten Sympathien
+                    für <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs>. Die badischen Zustände
                     sind im Momente schwer zu beschreiben, man weiß noch nichts Gewisses über das
                     Interim. <lb/>Indem ich schließe, zeichne ich in tiefster Verehrung Ihro
                     Excellenz</p>

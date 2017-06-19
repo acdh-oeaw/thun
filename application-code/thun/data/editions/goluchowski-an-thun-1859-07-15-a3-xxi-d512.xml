@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="goluchowski-agenor" key="goluchowski-agenor" role="sender:beamter">Agenor
-                        Goluchowski</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#goluchowski-agenor" role="sender:beamter">Agenor
+                        Goluchowski</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_73712d3d0428c81db13497b943ee8dc6">Lemberg</rs>,
                         <date when="1859-07-15">15. Juli 1859</date>
@@ -75,7 +75,7 @@
                     Ihnen die Befürchtung vor, daß ich mit unüberlegtem Eifer in die Frage wegen
                     Einführung einer neuen ruthenischen Ortographie einzugehen bemüht gewesen sey
                     und daß es demnach Ihrem Wunsche mehr zusagen würde, die ganze Sache fallen zu
-                    lassen und auf halben Wege umzukehren. Der von Ihnen entsendete <rs type="person" ref="jirecek-josef" key="jirecek-josef">Ministerialsekretär</rs> und sämmtliche jüngst
+                    lassen und auf halben Wege umzukehren. Der von Ihnen entsendete <rs type="person" ref="#jirecek-josef">Ministerialsekretär</rs> und sämmtliche jüngst
                     vorgelegten Aktenstücke dürften laut dafür sprechen, daß ich mich keiner
                     Übereilung schuldig gemacht habe, wohl aber habe ich an einer mit voller
                     Überlegung betretenen Bahn festgehalten, weil ich von der innigsten Überzeugung
@@ -100,15 +100,15 @@
                     Geistlichkeit ist den lateinischen Lettern abhold; theilweise, weil ihr die in
                     ihrem Kirchenleben alt gewordenen Zeichen lieb sind, den meisten griech.-kath.
                     Geistlichen aber deshalb, weil ihnen ein politischer und religiöser Anschluß an
-                        <rs type="place" subtype="country" key="russland" ref="#place_5c0704d47c0a58a0922e25b5b9b66b27">Rußland</rs> so ausnehmend zusagt – ob aber
-                        <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> Gutmüthigkeit so weit gehen
+                        <rs type="place" subtype="country" ref="#place_5c0704d47c0a58a0922e25b5b9b66b27">Rußland</rs> so ausnehmend zusagt – ob aber
+                        <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> Gutmüthigkeit so weit gehen
                     soll und darf, einem mit nichts begründeten Wunsche einer Fraktion der
                     ruthenischen Geistlichkeit mit Hintansetzung seiner staatlichen Interessen
-                    nachzugeben, ist gerade der Gegenstand, worüber die Staatsmänner <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> ein endgiltiges Urtheil zu fällen
+                    nachzugeben, ist gerade der Gegenstand, worüber die Staatsmänner <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> ein endgiltiges Urtheil zu fällen
                     haben.<lb/>Sollte wider mein Erwarten die von der Regierung ausgegangene
                     Proposition an dem Starrsinne der griech.-kath. ruthenischen geistlichen
                     Würdeträger scheitern, so bleibt jedenfalls die Thatsache bezeichnend, daß
-                    einerseits im Kaiserthume <rs type="place" subtype="country" key="russland" ref="#place_5c0704d47c0a58a0922e25b5b9b66b27">Rußland</rs> die
+                    einerseits im Kaiserthume <rs type="place" subtype="country" ref="#place_5c0704d47c0a58a0922e25b5b9b66b27">Rußland</rs> die
                     Bemühungen der kleinrussischen Literaten in <rs type="place" subtype="place" ref="#place_75b5054bbde3f5254dbd14d67c3f3d75">Kiew</rs>, wo die
                     Versuche einer selbstständigen ruthenischen Literatur in den letzten zwey
                     Dezennien aufzukeimen begannen, von der russischen Regierung den heftigsten
@@ -127,11 +127,11 @@
                     betreten würde; sollten meine Worte nicht beherzigt werden, so können Sie
                     versichert sein, daß ich der schädlichen Entwicklung der ruthenischen Literatur
                     ruhig zusehen werde, ohne Ihnen mit meiner Anschauungsweise lästig zu werden, so
-                    wie ich es bei so mancher Thätigkeit einzelner Mitglieder der <orgName key="universitaet-lemberg">hiesigen Universität</orgName> thue, wo ich bei
+                    wie ich es bei so mancher Thätigkeit einzelner Mitglieder der <orgName>hiesigen Universität</orgName> thue, wo ich bei
                     Ihnen mit meinen Ideen nicht durchgedrungen bin. Meines Amtes ist, Sie auf
                     Unzukömmlichkeiten wie ich selbe auffasse aufmerksam zu machen, die Entscheidung
                     darüber liegt dagegen in Ihren Händen, daher ich auch nicht umhin kann, auf das
-                    Treiben des Domherrn und Ministerialrathes <rs type="person" ref="szaszkewycz-gregor" key="szaszkewycz-gregor">Szaszkewicz</rs>, hinzudeuten, welcher wie ich es in
+                    Treiben des Domherrn und Ministerialrathes <rs type="person" ref="#szaszkewycz-gregor">Szaszkewicz</rs>, hinzudeuten, welcher wie ich es in
                     meinem Berichte bemerkte, unter seinen Stammgenossen durch schriftliche
                     Andeutungen gegen die beantragte Orthographie förmlich agitirte, sonstiger
                     Desideria glaube ich nicht mehr erwähnen zu dürfen, weil Sie mir im vorigen
@@ -179,7 +179,7 @@
                         Landvolkes, an welches wir mit den neuen Schriftzeichen herantreten wollen,
                         sondern auch so ziemlich der gesammte Clerus, auf dessen Thätigkeit wir in
                         den Schulen angewiesen sind. Ich war Zeuge des heftigen Widerstreites, der
-                        in <rs type="place" subtype="region" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> vor etwa 20 Jahren ganz
+                        in <rs type="place" subtype="region" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> vor etwa 20 Jahren ganz
                         unbedeutende Änderungen in der Orthographie veranlaßte, die nicht von der
                         Regierung, sondern von den anerkannten Führern der literarischen Bewegung
                         ausgingen. Es ist nun natürlich, daß diese Erscheinung sich unserem Projekte

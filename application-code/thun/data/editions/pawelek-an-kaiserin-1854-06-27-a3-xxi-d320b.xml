@@ -4,11 +4,11 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="pawelek-johann" key="pawelek-johann" role="sender:kleriker">Johann
-                        Pawelek</rs> an <rs type="person" ref="elisabeth" key="elisabeth" role="recipient">Kaiserin
+                    <rs type="person" ref="#pawelek-johann" role="sender:kleriker">Johann
+                        Pawelek</rs> an <rs type="person" ref="#elisabeth" role="recipient">Kaiserin
                         Elisabeth</rs>
                     <lb/>
-                    <rs type="place" subtype="place" key="koenigsberg" ref="#place_3dd7979c0440a3b55ff7b878051e9863">Königsberg</rs>
+                    <rs type="place" subtype="place" ref="#place_3dd7979c0440a3b55ff7b878051e9863">Königsberg</rs>
                     [Klimkovice], <date when="1854-06-27">27. Juni 1854</date>
                 </title>
             </titleStmt>
@@ -62,8 +62,8 @@
                     eine wohlthätige Anstalt, nämlich um eine durch eine Feuerbrunst ausgebrannte
                     Pfarrkirche, zu welcher 4.000 Seelen gehören, die da in den Wahrheiten des Heils
                     unterrichtet wurden und unterrichtet zu werden benöthigen.<lb/>Der Tag des
-                    glorreichen Einzuges in allerhöchst Ihre und unsere <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Kaiserhauptstadt</rs>, dem wir alle mit Freuden entgegensahen,
-                    wurde für uns, die Bewohner des Städtchens <rs type="place" subtype="place" key="koenigsberg" ref="#place_3dd7979c0440a3b55ff7b878051e9863">Königsberg</rs> [Klimkovice] in k.k. <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs> am
+                    glorreichen Einzuges in allerhöchst Ihre und unsere <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Kaiserhauptstadt</rs>, dem wir alle mit Freuden entgegensahen,
+                    wurde für uns, die Bewohner des Städtchens <rs type="place" subtype="place" ref="#place_3dd7979c0440a3b55ff7b878051e9863">Königsberg</rs> [Klimkovice] in k.k. <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs> am
                     Nachmittage ein Jammertag, indem bei einem heftigen Sturmwinde und Mangel an
                     Wasser ein Feuer herauskam, welches den Pfarrhof, das herrschaftliche Schloß, 31
                     Hausnrn. sammt Scheunen in Asche legte und was das betrübteste dabey war, daß

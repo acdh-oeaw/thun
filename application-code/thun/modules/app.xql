@@ -120,6 +120,43 @@ let $href := concat('show.html','?document=', app:getDocName($node))
     <div>Nothing to search for</div>
  };
 
+declare function app:dummyindexsearch_hits($node as node(), $model as map(*),  $searchkey as xs:string?, $path as xs:string?){
+let $searchkey:= '#'||$searchkey
+for $title in collection($app:editions)//tei:TEI[.//*[@ref=$searchkey] | .//tei:term[./text() eq $searchkey]] 
+let $hits := if (count(root($title)//*[@ref=$searchkey]) = 0) then 1 else count(root($title)//*[@ref=$searchkey])
+let $snippet := 
+    for $entity in root($title)//*[@ref=$searchkey]
+            let $before := $entity/preceding::text()[1]
+            let $after := $entity/following::text()[1]
+            return
+                <p>... {$before} <strong><a href="{app:hrefToDoc($title)}"> {$entity/text()}</a></strong> {$after}...<br/></p>
+let $sender := fn:normalize-space($title//tei:rs[@role=contains($title//tei:rs/@role,'sender') and 1]/text()[1])
+        let $sender_nn := if(fn:exists($title//tei:rs[@role=contains($title//tei:rs/@role,'sender') and 1]/text()))
+                            then concat(functx:substring-after-last($sender,' '), ", ")
+                            else "ohne Absender"
+        let $sender_vn := functx:substring-before-last($sender,' ')
+        let $empfänger := fn:normalize-space($title//tei:rs[@role=contains($title//tei:rs/@role,'recipient') and 1]/text()[1])
+        let $empfänger_nn := if(fn:exists($title//tei:rs[@role=contains($title//tei:rs/@role,'recipient') and 1]/text()))
+                                then concat(functx:substring-after-last($empfänger,' '), ", ")
+                                else "ohne Empfänger"
+        let $empfänger_vn := functx:substring-before-last($empfänger,' ')
+        let $wo := if(fn:exists($title//tei:title//tei:rs[@type='place']))
+                     then $title//tei:title//tei:rs[@type='place']//text()
+                     else 'no place'
+        let $wann := data($title//tei:date/@when)[1]
+        let $zitat := $title//tei:msIdentifier
+return 
+        <tr>
+           <td>{$sender_nn}{$sender_vn}</td>
+           <td>{$empfänger_nn}{$empfänger_vn}</td>
+           <td align="center">{$wo}</td>
+           <td align="center"><abbr title="{$zitat}">{$wann}</abbr></td>
+           <td>{$hits}</td>
+           <td>{$snippet}<p style="text-align:right">({<a href="{app:hrefToDoc($title)}">{app:getDocName($title)}</a>})</p></td>
+        </tr>   
+};
+
+
 (:~
  : fetches all documents which contain the searched person or place
  :)
@@ -136,20 +173,21 @@ declare function app:indexSearch_hits($node as node(), $model as map(*), $search
             <p>... {$before} <strong><a href="{app:hrefToDoc($title)}"> {$person/text()}</a></strong> {$after}...<br/></p>
     
     
-    let $sender := fn:normalize-space($title//tei:persName[@role=contains($title//tei:persName/@role,'sender') and 1]/text()[1])
-    let $sender_nn := if(fn:exists($title//tei:persName[@role=contains($title//tei:persName/@role,'sender') and 1]/text()))
+    let $sender := fn:normalize-space($title//tei:rs[@role=contains($title//tei:rs/@role,'sender') and 1]/text()[1])
+        let $sender_nn := if(fn:exists($title//tei:rs[@role=contains($title//tei:rs/@role,'sender') and 1]/text()))
                             then concat(functx:substring-after-last($sender,' '), ", ")
                             else "ohne Absender"
-    let $sender_vn := functx:substring-before-last($sender,' ')
-    let $empfänger := fn:normalize-space($title//tei:persName[@role=contains($title//tei:persName/@role,'recipient') and 1]/text()[1])
-    let $empfänger_nn := if(fn:exists($title//tei:persName[@role=contains($title//tei:persName/@role,'recipient') and 1]/text()))
+        let $sender_vn := functx:substring-before-last($sender,' ')
+        let $empfänger := fn:normalize-space($title//tei:rs[@role=contains($title//tei:rs/@role,'recipient') and 1]/text()[1])
+        let $empfänger_nn := if(fn:exists($title//tei:rs[@role=contains($title//tei:rs/@role,'recipient') and 1]/text()))
                                 then concat(functx:substring-after-last($empfänger,' '), ", ")
                                 else "ohne Empfänger"
-    let $empfänger_vn := functx:substring-before-last($empfänger,' ')
-    let $wo := if(fn:exists($title//tei:title/tei:placeName[2]/text()))
-                     then concat($title//tei:title/tei:placeName[1]/text()," und ", $title//tei:title/tei:placeName[2]/text())
-                     else $title//tei:title/tei:placeName[1]/text()
-    let $wann := data($title//tei:date/@when)[1]
+        let $empfänger_vn := functx:substring-before-last($empfänger,' ')
+        let $wo := if(fn:exists($title//tei:title//tei:rs[@type='place']))
+                     then $title//tei:title//tei:rs[@type='place']//text()
+                     else 'no place'
+        let $wann := data($title//tei:date/@when)[1]
+        let $zitat := $title//tei:msIdentifier
     let $zitat := $title//tei:msIdentifier
     order by -$hits
         return
@@ -198,7 +236,7 @@ declare function app:listPlace($node as node(), $model as map(*)) {
         return
         <tr>
             <td>
-                <a href="{concat($hitHtml,'#',data($place/@xml:id))}">{$place/tei:placeName[@type="pref"]}</a>
+                <a href="{concat($hitHtml, data($place/@xml:id))}">{$place/tei:placeName[@type="pref"]}</a>
             </td>
             <td>{for $altName in $place//tei:placeName[@type="alt"] return <li>{$altName}</li>}</td>
             <td>{$place//tei:idno}</td>

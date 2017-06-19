@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="radziwill-friedrich-wilhelm" key="radziwill-friedrich-wilhelm" role="sender:beamter">Friedrich
-                        Wilhelm Radziwiłł</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#radziwill-friedrich-wilhelm" role="sender:beamter">Friedrich
+                        Wilhelm Radziwiłł</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_ee1611b61f5688e70c12b40684dbb395">Berlin</rs>,
                         <date when="1850-01-21">21. Januar 1850</date>
@@ -50,7 +50,7 @@
                         </msContents>
                         <physDesc>
                             <p>
-                                <ref target="#D32_1">Beilage: <rs type="person" ref="cegielski-hipolit" key="cegielski-hipolit">Hipolit Cegielski</rs> an
+                                <ref target="#D32_1">Beilage: <rs type="person" ref="#cegielski-hipolit">Hipolit Cegielski</rs> an
                                     Unbekannt. <rs type="place" subtype="place" ref="#place_d1be5c800653e4addaca193b664e9c0f">Posen</rs>,
                                     5. Januar 1850
                                 </ref>.</p>
@@ -80,10 +80,10 @@
                     Jahres Schritte gethan, um die von Ihnen gewünschte Auskunft zu erhalten, bin
                     ich erst jetzt im Stande gesetzt worden, sie Ihnen zu ertheilen; kommt sie, wie
                     es mir wahrscheinlich, zu spät, so schreiben Sie es nicht Mangel an guten Willen
-                    meinerseits zu.<lb/>Einliegender Brief des Dr. <rs type="person" ref="cegielski-hipolit" key="cegielski-hipolit">Ciegielski [Cegielski]</rs> an meinen Gewährsmann wird Ihnen zeigen,
+                    meinerseits zu.<lb/>Einliegender Brief des Dr. <rs type="person" ref="#cegielski-hipolit">Ciegielski [Cegielski]</rs> an meinen Gewährsmann wird Ihnen zeigen,
                     daß er nur unter bestimmten Garantien, bei welchen er eine Initiative erwartet,
-                    in Dienste Ihres Kaiserhauses treten will. <rs type="person" ref="prabucki-jakub" key="prabucki-jakub">Prabudzki [Prabucki]</rs> ist fest entschlossen nicht mehr in das
-                    Gymnasialfach zurückzutreten: dagegen würde er einer Anstellung bei der <orgName key="universitaet-krakau">Krakauer Universität</orgName> anzunehmen geneigt
+                    in Dienste Ihres Kaiserhauses treten will. <rs type="person" ref="#prabucki-jakub">Prabudzki [Prabucki]</rs> ist fest entschlossen nicht mehr in das
+                    Gymnasialfach zurückzutreten: dagegen würde er einer Anstellung bei der <orgName>Krakauer Universität</orgName> anzunehmen geneigt
                     sein, ist ein sehr tüchtiger Philolog und würde sich für einen Lehrstuhl in
                     diesem Fache und in der katholischen Theologie durchaus eignen.<lb/>Die
                     Unterrichtsfrage ist jetzt Gegenstand interessanter Debatten in
@@ -94,20 +94,20 @@
                     Ich freue mich aus Ihrem Briefe zu sehen, daß auch Sie der Ansicht sind, und
                     habe ich auch ein anderes nicht von Ihrer Gesinnung erwartet. Daß auf den
                     Universitäten bei Ihnen auch Protestanten angestellt werden, ist gewiß im
-                    Prinzipe richtig, man hatte mir indes gesagt, Professor <rs type="person" ref="bonitz-hermann" key="bonitz-hermann">Bonitz</rs> sei an der Spitze des philologischen
+                    Prinzipe richtig, man hatte mir indes gesagt, Professor <rs type="person" ref="#bonitz-hermann">Bonitz</rs> sei an der Spitze des philologischen
                     Seminar’s gestellt, das zur Bildung der künftigen Gymnasiallehrer bestimmt ist,
                     und diese Anstellung war mir in Bezug auf das Prinzip einer vorherrschend
                     confessionellen Richtung dieser Lehranstalten bedenklich vorgekommen.<lb/>Ihre
-                    Anstellung <rs type="person" ref="pol-vincent" key="pol-vincent">Vincent Pol’s</rs> hat in der
-                    conservativen Parthei im <rs type="place" subtype="place" key="posen" ref="#place_d55199956d521bfae14b87d631fe8ae8">Posen’schen</rs> einen
+                    Anstellung <rs type="person" ref="#pol-vincent">Vincent Pol’s</rs> hat in der
+                    conservativen Parthei im <rs type="place" subtype="place" ref="#place_d55199956d521bfae14b87d631fe8ae8">Posen’schen</rs> einen
                     guten Eindruck gemacht, ich habe kein Urtheil über ihn.</p>
                 <p>In alter Freundschaft und Hochachtung Ihnen herzlich ergeben.</p>
                 <p>F. Radziwill</p>
                 <div type="enclosure" xml:id="D32_1">
                     <p>Hochwohlgeborner Herr Regierungs- und Schulrath! </p>
-                    <p>Auf Euer Hochwohlgeboren gefällige, vom Herrn Ministerialrath Dr. <rs type="person" ref="brueggemann-theodor" key="brueggemann-theodor">Brüggemann</rs> geneigtest veranlaßte
+                    <p>Auf Euer Hochwohlgeboren gefällige, vom Herrn Ministerialrath Dr. <rs type="person" ref="#brueggemann-theodor">Brüggemann</rs> geneigtest veranlaßte
                         Anfrage, ob ich gesonnen wäre meine Kräfte wiederum der Wissenschaft zu
-                        widmen, und eventuell eine Professur an der <orgName key="universitaet-krakau">Universität zu Krakau</orgName> oder eine
+                        widmen, und eventuell eine Professur an der <orgName>Universität zu Krakau</orgName> oder eine
                         Gymnasialdirektorstelle anzunehmen, beehre ich mich heute, nachdem ich mit
                         mir selbst zu Rathe gegangen, folgendes ergebenst zu antworten.<lb/>Was
                         zunächst die Wissenschaft überhaupt betrifft, so galt mir diese stets mehr,
@@ -127,7 +127,7 @@
                         Stellung nur dann aufzugeben im Stande wäre, wenn ich in einem anderen
                         Wirkungskreise auf wirklich ersprießliche Folgen und sichere materielle
                         Garantien rechnen könnte.<lb/>Diesen meinen Entschluß wollen Euer
-                        Hochwohlgeboren dem Herrn Ministerialrath Dr. <rs type="person" ref="brueggemann-theodor" key="brueggemann-theodor">Brüggemann</rs> gefälligst mittheilen,
+                        Hochwohlgeboren dem Herrn Ministerialrath Dr. <rs type="person" ref="#brueggemann-theodor">Brüggemann</rs> gefälligst mittheilen,
                         und demselben bei dieser Gelegenheit meinen herzlichen Dank für das große
                         persönliche Wohlwollen aussprechen.</p>
                     <p>Mit der größten Hochachtung<lb/>Euer Hochwohlgeboren ergebenster<lb/>Dr.

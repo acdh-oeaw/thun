@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="ficker-julius" key="ficker-julius" role="sender:gelehrter">Julius
-                        Ficker</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#ficker-julius" role="sender:gelehrter">Julius
+                        Ficker</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs>, <date when="1855-03-08">8. März 1855</date>
                 </title>
@@ -78,13 +78,13 @@
                     Kandidaten der Philologie finden würden, die befähigt und bereit seien, unter
                     angegebenen Bedingungen eine Stelle an einem österreichischen Gymnasium
                     anzunehmen.<lb/>Ich glaube diese Frage wohl bejahen zu dürfen. Allerdings finden
-                    in <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> die katholischen Kandidaten des
+                    in <rs type="place" subtype="country" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> die katholischen Kandidaten des
                     Lehramts für die Gymnasien nicht dieselben Schwierigkeiten, die sich der
                     Anstellung katholischer Dozenten an den Universitäten entgegenstellen; ihre Zahl
                     ist nicht gar zu groß und sie können im allgemeinen auf baldige Anstellung nach
                     bestandenem Examen rechnen. Da jedoch ein Gehalt von 800 Gulden denjenigen
-                    übersteigt, auf den sie für die erste Zeit in <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> zu hoffen haben, andererseits meine Landsleute den
-                    Aufenthalt an den Gymnasien der Provinzen <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> und <rs type="place" subtype="region" ref="#place_d1be5c800653e4addaca193b664e9c0f">Posen</rs>, wo insbesondere viele
+                    übersteigt, auf den sie für die erste Zeit in <rs type="place" subtype="country" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> zu hoffen haben, andererseits meine Landsleute den
+                    Aufenthalt an den Gymnasien der Provinzen <rs type="place" subtype="country" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> und <rs type="place" subtype="region" ref="#place_d1be5c800653e4addaca193b664e9c0f">Posen</rs>, wo insbesondere viele
                     Westfalen angestellt werden, kaum einer Anstellung an einem österreichischen
                     Landgymnasium oder in einer entlegenern Stadt der Monarchie vorziehen würden, so
                     bezweifle ich kaum, daß es gelingen würde, auch befähigtere Kandidaten für eine
@@ -103,33 +103,33 @@
                     beantworten werde, darf ich wohl kaum versichern, da eine Unaufrichtigkeit in
                     diesem Falle nicht blos eine Verletzung meiner Pflicht als Staatsbeamter,
                     sondern auch ein Mißbrauch des gnädigen Vertrauens Euer Excellenz sein würde.
-                    <lb/>Ob Professor <rs type="person" ref="schenach-georg" key="schenach-georg">Schenach</rs> oder irgend
-                    ein anderes Mitglied der Kommission persönlich gegen den Herrn <rs type="person" ref="raas-chrysostomos" key="raas-chrysostomos">Pater Raas</rs> eingenommen war, kann ich
+                    <lb/>Ob Professor <rs type="person" ref="#schenach-georg">Schenach</rs> oder irgend
+                    ein anderes Mitglied der Kommission persönlich gegen den Herrn <rs type="person" ref="#raas-chrysostomos">Pater Raas</rs> eingenommen war, kann ich
                     nicht beurtheilen, wohl aber versichern, daß weder in den Kommissionssitzungen
                     etwas vorgefallen ist, was darauf hätte schließen lassen, noch mir anderweitig
                     etwas darüber bekannt geworden ist, weßhalb mich die Anfrage Euer Excellenz
                     höchlich überraschte. Das Einzige, was etwa, abgesehen von anderen mir
                     unbekannten Gründen, zu einer solchen Annahme hätte Anlaß geben können, wäre
-                    meines Erachtens Folgendes:<lb/>Zugleich mit dem Herrn <rs type="person" ref="raas-chrysostomos" key="raas-chrysostomos">Pater Raas</rs> machte der <rs type="person" ref="orgler-flavian" key="orgler-flavian">Pater Orgler</rs> aus dem Orden des Heiligen
+                    meines Erachtens Folgendes:<lb/>Zugleich mit dem Herrn <rs type="person" ref="#raas-chrysostomos">Pater Raas</rs> machte der <rs type="person" ref="#orgler-flavian">Pater Orgler</rs> aus dem Orden des Heiligen
                     Franziskus die Prüfung für Geschichte und Geographie und bestand dieselbe zur
                     allgemeinsten Zufriedenheit. Bei dieser Gelegenheit wurden nun nebenbei vom
-                        <rs type="person" ref="schenach-georg" key="schenach-georg">Prof. Schenach</rs> und andern
+                        <rs type="person" ref="#schenach-georg">Prof. Schenach</rs> und andern
                     Mitgliedern in der Sitzung darüber gesprochen, daß abermals der Pater
                     Franziskaner eine sehr gute Prüfung bestanden habe, während Kandidaten von
-                        <orgName key="stift-marienberg">Marienberg</orgName> sich auch schon früher
+                        <orgName>Marienberg</orgName> sich auch schon früher
                     nicht ausgezeichnet hätten, und der Grund doch nicht lediglich darin gesucht
                     werden könne, daß dieselben nicht Gelegenheit zu Universitätsstudien gehabt
                     hätten, da die Franziskaner sich in derselben Lage befänden. Ich habe das für
                     eine durchaus gelegentliche Bemerkung gehalten; sollte man sie aber wirklich in
                     Folge anderer mir unbekannter Gründe als Ausfluß einer gehässigen Gesinnung
                     auffassen wollen, so glaube ich wenigstens versichern zu dürfen, daß die
-                    Reprobazion des Herrn <rs type="person" ref="raas-chrysostomos" key="raas-chrysostomos">Pater Raas</rs>
+                    Reprobazion des Herrn <rs type="person" ref="#raas-chrysostomos">Pater Raas</rs>
                     durch ein etwa vorhanden gewesenes Vorurtheil weder herbeigeführt wurde noch
                     herbeigeführt werden konnte, und erlaube mir zur Begründung einige Notizen über
                     die betreffenden Kommissionssitzungen hinzuzufügen.<lb/>Als es sich darum
-                    handelte, ob der Herr Pater <rs type="person" ref="raas-chrysostomos" key="raas-chrysostomos">Raas</rs>
+                    handelte, ob der Herr Pater <rs type="person" ref="#raas-chrysostomos">Raas</rs>
                     auf Grund der schriftlichen Arbeiten zur mündlichen Prüfung zuzulassen sei,
-                    erklärte der Fachexaminator <rs type="person" ref="kopetzky-karl" key="kopetzky-karl">Prof.
+                    erklärte der Fachexaminator <rs type="person" ref="#kopetzky-karl">Prof.
                         Kopetzky</rs>, daß der Inhalt der Antworten ihm allenfalls genüge, die
                     Zulassung zu beantragen, daß aber ein formeller Mangel vorliege, da die Fragen
                     angeblich aus Mangel an Zeit nicht vollständig beantwortet seien, und die
@@ -137,7 +137,7 @@
                     Meinungen getheilt waren, schlug der gehorsamst Gefertigte vor, die
                     Klausurarbeiten wegen des formellen Defektes für ungültig zu erklären, aber auf
                     Grund neuer Klausurarbeiten über die Zulassung zu entschieden. Da sich dieses
-                    nach dem Gesetze als unstatthaft erwies, trat er der auch von <rs type="person" ref="schenach-georg" key="schenach-georg">Prof. Schenach</rs> getheilten Meinung bei, daß
+                    nach dem Gesetze als unstatthaft erwies, trat er der auch von <rs type="person" ref="#schenach-georg">Prof. Schenach</rs> getheilten Meinung bei, daß
                     aus formellen Gründen die Zulassung nicht statthaft sei, weil Gefahr sei, daß,
                     wenn einmal angenommen werde, die vollständige Beantwortung der gestellten
                     Fragen in der festgesetzten Zeit sei nicht unumgänglich nöthig, künftig mit
@@ -149,7 +149,7 @@
                     Fachexaminator ab, da es wohl in der Natur der Sache liegt, daß andere
                     Mitglieder der Ansicht desselben, so weit diese die wissenschaftliche Befähigung
                     betrifft, wohl füglich nur ausnahmsweise entgegentreten können. Nach diesem
-                    Gutachten, und nachdem auch der Professor <rs type="person" ref="malecki-antoni" key="malecki-antoni">Malecky</rs> mit Rücksicht auf die Leistungen des Herrn <rs type="person" ref="raas-chrysostomos" key="raas-chrysostomos">Pater Raas</rs> bei der früher mit Erfolg
+                    Gutachten, und nachdem auch der Professor <rs type="person" ref="#malecki-antoni">Malecky</rs> mit Rücksicht auf die Leistungen des Herrn <rs type="person" ref="#raas-chrysostomos">Pater Raas</rs> bei der früher mit Erfolg
                     bestandenen Prüfung seine Meinung dahin ausgesprochen hatte, daß er ihn für das
                     Untergymnasium, nicht aber für das Obergymnasium auch im Lateinischen befähigt
                     halte, während sich Niemand für die Befähigung aussprach, – wurde, wenn ich mich
@@ -164,7 +164,7 @@
                     einwirken, als der Fachexaminator; daß dieser keinerlei Vorurtheil hatte, bin
                     ich überzeugt, da er sowohl in der Kommission wie in Privatunterredungen große
                     Theilnahme für den Kandidaten zeigte.<lb/>Was die Schlußfrage Euer Excellenz
-                    betrifft, ob ich es überhaupt für glaublich halte, daß <rs type="person" ref="schenach-georg" key="schenach-georg">Prof. Schenach</rs> sich bei Leitung der
+                    betrifft, ob ich es überhaupt für glaublich halte, daß <rs type="person" ref="#schenach-georg">Prof. Schenach</rs> sich bei Leitung der
                     Prüfungen durch Leidenschaftlichkeit bestimmen lasse, so glaube ich mit bestem
                     Gewissen darauf entschieden verneinend antworten zu dürfen; sein Vorgehen bei
                     den Prüfungen hat mir immer nur den Eindruck der strengsten Unparteilichkeit

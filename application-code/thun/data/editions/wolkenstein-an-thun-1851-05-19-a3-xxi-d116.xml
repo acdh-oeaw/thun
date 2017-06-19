@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="wolkenstein-karl" key="wolkenstein-karl" role="sender:beamter">Karl
-                        Wolkenstein</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                    <rs type="person" ref="#wolkenstein-karl" role="sender:beamter">Karl
+                        Wolkenstein</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                     Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_856c6e6d864e89a9e54edf46d1f5a8b2">Brunnersdorf</rs>, <date when="1851-05-19">19. Mai 1851</date>
@@ -52,11 +52,11 @@
                 </index>
                 <p>19.5.1851</p>
                 <p>Werthester Freund!</p>
-                <p>Erst gestern abends bin ich von <rs type="place" subtype="place" key="pressburg" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</rs>,
+                <p>Erst gestern abends bin ich von <rs type="place" subtype="place" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</rs>,
                     wohin mich Familiengeschäfte führten, zurückgekehrt, dies zur Entschuldigung,
                     wenn die Beantwortung deines während meiner Abwesenheit eingelangten Schreibens
                     so spät erfolgt. So viel Versuchendes für mich in dem Gedanken liegt wieder in
-                    das <rs type="place" subtype="region" key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Land</rs> zurückzukehren, welchem meine Familie
+                    das <rs type="place" subtype="region" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Land</rs> zurückzukehren, welchem meine Familie
                     angehört, an dem ich selbst noch nach 30jähriger Abwesenheit mit Vorliebe hänge,
                     so gestatten mir doch anderweitige Rücksichten nicht, jener Versuchung zu folgen
                     und den ehrenden Antrag anzunehmen. Nebst anderen Erwägungen tritt da ein, daß

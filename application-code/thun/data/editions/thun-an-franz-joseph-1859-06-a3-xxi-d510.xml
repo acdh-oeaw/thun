@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Konzept eines Schreibens von <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an <rs type="person" ref="franz-joseph" key="franz-joseph" role="recipient">Kaiser Franz
+                <title>Konzept eines Schreibens von <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an <rs type="person" ref="#franz-joseph" role="recipient">Kaiser Franz
                         Joseph</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_e3a1571b9091d6d78548ad3b4b159d11">Hetzendorf</rs>, <date when="1859-06">Juni 1859</date>
@@ -50,7 +50,7 @@
                     <term>Italien</term>
                     <term>Neoabsolutismus</term>
                 </index>
-                <p>Konzept meines an <rs type="person" ref="franz-joseph" key="franz-joseph">Seine Majestät</rs>
+                <p>Konzept meines an <rs type="person" ref="#franz-joseph">Seine Majestät</rs>
                     abgeschickten Schreibens<lb/>
                     <rs type="place" subtype="place" ref="#place_e3a1571b9091d6d78548ad3b4b159d11">Hetzendorf</rs>, gleich nach dem
                     Einzuge der Franzosen in <rs type="place" subtype="place" ref="#place_ab21db0a2aa2e84be73932be6063b033">Mailand</rs> 1859.<note xml:id="note_1">Eh. Notiz Leo Thuns mit Bleistift am oberen
@@ -60,29 +60,29 @@
                     widerstehen, Euer Majestät die Gedanken und Gefühle auszudrücken, die mich und
                     ich glaube viele der treuesten Unterthanen Euerer Majestät
                         bewegen.<lb/>
-                    <rs type="person" ref="napoleon-III" key="napoleon-III">Napoleon</rs> hat es gewagt,
-                    obgleich zwei österreichische Armeen im <rs type="place" subtype="country" key="lombardo-venetien" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venezianischen Königreiche</rs> stehen, seine
+                    <rs type="person" ref="#napoleon-III">Napoleon</rs> hat es gewagt,
+                    obgleich zwei österreichische Armeen im <rs type="place" subtype="country" ref="#place_f7197ed66a15667400bf934725fd7c3c">lombardisch-venezianischen Königreiche</rs> stehen, seine
                     Operationsbasis zu verlassen und nach <rs type="place" subtype="place" ref="#place_ab21db0a2aa2e84be73932be6063b033">Mailand</rs> zu
                     marschieren. Er ist, trotz der [?] und dem Löwenmuthe, mit dem die Truppen
                     fochten, die er begegnete, in <rs type="place" subtype="place" ref="#place_ab21db0a2aa2e84be73932be6063b033">Mailand</rs> eingezogen, weil er
                     nur einer verhältnismäßig kleinen Heldenschaar begegnete.<lb/>Wenn die Heere
                     Euerer Majestät sich jetzt zurückziehen sollten, was würden die Folgen dieser
-                    Ereignisse sein:<lb/>1. Für die <rs type="place" subtype="country" key="lombardei" ref="#place_5bde0d174594bcea5b83287afba0850a">Lombardie</rs>.
+                    Ereignisse sein:<lb/>1. Für die <rs type="place" subtype="country" ref="#place_5bde0d174594bcea5b83287afba0850a">Lombardie</rs>.
                     Ich zweifle nicht daran, daß Euere Majestät sie später wieder erobern werden,
-                    aber es wird doch ein neuer thatsächlicher Beweis geliefert sein, daß <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> sie bei jedem Kriege in
+                    aber es wird doch ein neuer thatsächlicher Beweis geliefert sein, daß <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> sie bei jedem Kriege in
                         <rs type="place" subtype="country" ref="#place_389962c9dec540ab28d04517e82c3996">Italien</rs>, auch bei einem vorhergesehenen, zeitweilig
                     seinen Feinden Preis geben muß. Wie ist es unter solcher Voraussetzung möglich,
                     sie erfolgreich zu regieren? Wem kann dann zugemuthet werden, für die Regierung
                     einzustehen und entschieden zu ihr zu halten, wenn es eine ausgemachte Sache
                     ist, daß sie ihn gegen ihre und seine Feinde nicht schützen kann?<lb/>2. Für die
-                    Stellung <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs>. Wenn <rs type="person" ref="napoleon-III" key="napoleon-III">Napoleon</rs> demnächst nach
+                    Stellung <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs>. Wenn <rs type="person" ref="#napoleon-III">Napoleon</rs> demnächst nach
                         <rs type="place" subtype="place" ref="#place_e20d37a5d7fcc4c35be6fc18a8e71bfa">Paris</rs> triumphirend heimkehren kann, während die
                     österreichischen Heere sich zurückziehen, so wird er befestigt in seiner
                     Stellung nach innen wie nach außen seine diplomatischen Intriguen wieder
-                    aufnehmen, <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</rs> wiederum[?] in einen
+                    aufnehmen, <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</rs> wiederum[?] in einen
                     Kongreß zitiren, vielleicht großmüthig später erklären, daß er sich damit
-                    begnügen wolle, wenn <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</rs> nur die
-                        <rs type="place" subtype="country" key="lombardei" ref="#place_5bde0d174594bcea5b83287afba0850a">Lombardie</rs> an <rs type="place" subtype="country" ref="#place_1469985450437a47ed4a7f33c0d1a621">Piemont</rs>
+                    begnügen wolle, wenn <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</rs> nur die
+                        <rs type="place" subtype="country" ref="#place_5bde0d174594bcea5b83287afba0850a">Lombardie</rs> an <rs type="place" subtype="country" ref="#place_1469985450437a47ed4a7f33c0d1a621">Piemont</rs>
                     abtrete und alle unsere Feinde und falschen Freunde werden auf seiner Seite
                     stehen.<lb/>Deshalb will es mir scheinen: Alles liegt daran, noch jetzt, wenn es
                     nur irgend möglich ist, ihm nicht zu gestatten, daß er triumphirend heimkehre,
@@ -92,13 +92,13 @@
                     Maaße geschwächt würden und unsere Stellung am Mincio wäre danach eben so gut
                     wie jetzt. Beweise unserer Zähigkeit im Kampfe, des Muthes nicht nur der
                     Truppen, sondern auch ihrer Führer würden uns die Sympathien wieder gewinnen,
-                    die wie ich fürchte, durch die eilige Räumung <rs type="place" subtype="place" key="mailand" ref="#place_e30630933146ed8683482de23229fd6a">Mailands</rs> angesichts eines Feindes, der selbst gestand ausruhen
+                    die wie ich fürchte, durch die eilige Räumung <rs type="place" subtype="place" ref="#place_e30630933146ed8683482de23229fd6a">Mailands</rs> angesichts eines Feindes, der selbst gestand ausruhen
                     und sich reorganisiren zu müssen, sehr gelitten haben. Gelänge es aber Euerer
-                    Majestät, ohne das Heer aus der <rs type="place" subtype="country" key="lombardei" ref="#place_5bde0d174594bcea5b83287afba0850a">Lombardie</rs>
+                    Majestät, ohne das Heer aus der <rs type="place" subtype="country" ref="#place_5bde0d174594bcea5b83287afba0850a">Lombardie</rs>
                     zurückzuziehen, <rs type="place" subtype="place" ref="#place_ab21db0a2aa2e84be73932be6063b033">Mailand</rs> wieder zu erobern und den Feind
                     zum Lande hinaus zu jagen, so wäre doch noch so ziemlich dasselbe erreicht, als
                     wenn er gehindert würde, die Gränze zu überschreiten. Gott gebe, daß Euere
-                    Majestät die <rs type="place" subtype="country" key="lombardei" ref="#place_5bde0d174594bcea5b83287afba0850a">Lombardie</rs> nicht räumen, ohne
+                    Majestät die <rs type="place" subtype="country" ref="#place_5bde0d174594bcea5b83287afba0850a">Lombardie</rs> nicht räumen, ohne
                     eine Hauptschlacht geliefert zu haben. Der Allmächtige wird die Waffen Euerer
                     Majestät segnen!<lb/>Willig, ja größtentheils freudig tragen die Völker Euerer
                     Majestät schwere Lasten, um ein mächtiges Heer in <rs type="place" subtype="country" ref="#place_389962c9dec540ab28d04517e82c3996">Italien</rs> zu

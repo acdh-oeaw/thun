@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="ficker-julius" key="ficker-julius" role="sender:gelehrter">Julius
-                        Ficker</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#ficker-julius" role="sender:gelehrter">Julius
+                        Ficker</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs>, <date when="1858-08-02">2. August 1858</date>
                 </title>
@@ -60,29 +60,29 @@
                     Auftrags vom 19. Juni laufenden Jahres<note xml:id="note_1">
                         <ref target="thun/thun-korrespondenz/tetschen/thun-an-ficker_1858-06-19_CA178.xml">Vgl. Leo Thun an Julius Ficker. Wien, 19. Juni 1858.</ref>
                     </note>,
-                    Erkundigungen über den Dr. <rs type="person" ref="muys-gottfried" key="muys-gottfried">Muys</rs>
+                    Erkundigungen über den Dr. <rs type="person" ref="#muys-gottfried">Muys</rs>
                     einzuziehen, früher zu berichten; ich hatte mich sogleich nach
                         <rs type="place" subtype="place" ref="#place_03b16e0a78b56bb5ada8e43123aaaa62">Bonn</rs> gewandt, auch bereits vor einiger Zeit eine
                     vorläufige Antwort von dort erhalten, aber mit der ausdrücklichen Bitte, mich
                     daraufhin noch nicht zu äußern, damit noch einige Erkundigungen zur Sicherung
                     des Urtheils eingezogen werden könnten. Jetzt erhalte ich vom Prof. Dr.
-                        <rs type="person" ref="floss-joseph" key="floss-joseph">Floss</rs>, welchem ich mit der Bitte um
-                    Verschwiegenheit die einzelnen dem Dr. <rs type="person" ref="muys-gottfried" key="muys-gottfried">Muys</rs> gemachten Vorwürfe namhaft machte, ein ausführliches
+                        <rs type="person" ref="#floss-joseph">Floss</rs>, welchem ich mit der Bitte um
+                    Verschwiegenheit die einzelnen dem Dr. <rs type="person" ref="#muys-gottfried">Muys</rs> gemachten Vorwürfe namhaft machte, ein ausführliches
                     Schreiben, aus welchem ich das Wichtigste glaube wörtlich anführen zu
                     sollen:<lb/>„Sofern die Klage auf atheistische und revolutionaire Grundsätze
                     lautet, dürfte sie unbegründet sein. Vor kaum sechs Wochen war ein strebsamer
-                    Geistlicher der Diözese <rs type="place" subtype="place" key="muenster" ref="#place_610dc3a15bda751de4d4c52373b2620f">Münster</rs>, der hier
-                    studirt, bei seinem <rs type="person" ref="mueller-johann-georg" key="mueller-johann-georg">Bischofe</rs>
-                    verklagt, weil er mit Dr. <rs type="person" ref="muys-gottfried" key="muys-gottfried">M[uys]</rs> viel
+                    Geistlicher der Diözese <rs type="place" subtype="place" ref="#place_610dc3a15bda751de4d4c52373b2620f">Münster</rs>, der hier
+                    studirt, bei seinem <rs type="person" ref="#mueller-johann-georg">Bischofe</rs>
+                    verklagt, weil er mit Dr. <rs type="person" ref="#muys-gottfried">M[uys]</rs> viel
                     umgehe, welcher revolutionairen und atheistischen Grundsätzen huldige. Der
-                        <rs type="person" ref="mueller-johann-georg" key="mueller-johann-georg">Bischof von Münster</rs> schickte
-                    die Klage an den hiesigen Dechanten und Prof. <rs type="person" ref="dieringer-franz-xaver" key="dieringer-franz-xaver">Dieringer</rs> sagte mir damals, das
-                    Ergebnis sei durchaus zu Gunsten des Dr. <rs type="person" ref="muys-gottfried" key="muys-gottfried">Muys</rs> ausgefallen. Dasselbe wiederholte mir vorgestern der
-                    Dechant unter Vorlage eines Briefes des <rs type="person" ref="mueller-johann-georg" key="mueller-johann-georg">Bischofs von Münster</rs>, worin dieser sich durch das Ergebnis der
-                    Untersuchung befriedigt erklärte. Dr. <rs type="person" ref="muys-gottfried" key="muys-gottfried">M[uys]</rs> hielt sich früher hier ausschließlich an die sogenannten
-                    spezifischen Ultramontanen, zumal <rs type="person" ref="clemens-franz-jacob" key="clemens-franz-jacob">Clemens</rs> und <rs type="person" ref="martin-konrad" key="martin-konrad">Martin</rs>“
+                        <rs type="person" ref="#mueller-johann-georg">Bischof von Münster</rs> schickte
+                    die Klage an den hiesigen Dechanten und Prof. <rs type="person" ref="#dieringer-franz-xaver">Dieringer</rs> sagte mir damals, das
+                    Ergebnis sei durchaus zu Gunsten des Dr. <rs type="person" ref="#muys-gottfried">Muys</rs> ausgefallen. Dasselbe wiederholte mir vorgestern der
+                    Dechant unter Vorlage eines Briefes des <rs type="person" ref="#mueller-johann-georg">Bischofs von Münster</rs>, worin dieser sich durch das Ergebnis der
+                    Untersuchung befriedigt erklärte. Dr. <rs type="person" ref="#muys-gottfried">M[uys]</rs> hielt sich früher hier ausschließlich an die sogenannten
+                    spezifischen Ultramontanen, zumal <rs type="person" ref="#clemens-franz-jacob">Clemens</rs> und <rs type="person" ref="#martin-konrad">Martin</rs>“
                     (den jetzigen Bischof von <rs type="place" subtype="place" ref="#place_a32fa8d7e685ef1206f5e1153a34698e">Paderborn</rs>) „und außerdem an
-                        <rs type="person" ref="aschbach-joseph" key="aschbach-joseph">Aschbach</rs>.“<lb/>„Daß Dr. <rs type="person" ref="muys-gottfried" key="muys-gottfried">M[uys]</rs> Schulden habe, ist wenigstens hier
+                        <rs type="person" ref="#aschbach-joseph">Aschbach</rs>.“<lb/>„Daß Dr. <rs type="person" ref="#muys-gottfried">M[uys]</rs> Schulden habe, ist wenigstens hier
                     nicht bekannt. Er lebt, wie man nicht anders weiß, äußerst nüchtern und
                     bescheiden. Daß die langjährigen Studien sein Vermögen ziemlich aufgezehrt
                     haben, möchte ich für wahrscheinlich halten.“<lb/>„Seine Lehrgabe kann ich nicht
@@ -91,7 +91,7 @@
                     Probevorlesung. Jemand, der ihn in verwichenem Winter, ich glaube in
                     griechischer Geschichte hospitirte, sagte mir, sein Vortrag verrathe großes
                     Wissen und Studium. Die Art und Weise seines Vortags fand dieser im Ganzen
-                    tadellos.“<lb/>„Alle, die <rs type="person" ref="muys-gottfried" key="muys-gottfried">M[uys]</rs> näher
+                    tadellos.“<lb/>„Alle, die <rs type="person" ref="#muys-gottfried">M[uys]</rs> näher
                     kennen, von seinen Gymnasialstudien an bis jetzt, halten ihn für einen begabten
                     Menschen. Sein Fleiß war in hohem Grade lobenswerth. Allein er warf sich auf ein
                     abstruses Gebiet, hinterasiatische Geschichte und Sprachvergleichung. Ich
@@ -100,19 +100,19 @@
                     Forschungen über solche Dinge den Zuhörern produziren, so dürfte man darin
                     Mangel an Lehrtakt finden. Allein ich habe keine positiven Anhaltspunkte, auf
                     die hin ihn ein solcher Vorwurf träfe; vielmehr loben mir Studenten seine alte
-                    Geschichte. Auch las <rs type="person" ref="muys-gottfried" key="muys-gottfried">M[uys]</rs> über
+                    Geschichte. Auch las <rs type="person" ref="#muys-gottfried">M[uys]</rs> über
                     mittlere und neuere Geschichte, welche jedoch weit weniger sein Fach sein
-                    soll.“<lb/>„Seine Schriften sind jüngst in den <rs type="place" subtype="place" key="goettingen" ref="#place_bb924613631a24955ccdde82d6af5cc2">Göttinger</rs> gelehrten Anzeigen von <rs type="person" ref="benfey-theodor" key="benfey-theodor">Benfey</rs>, wie man mir sagt, günstig besprochen worden; des Heftes
+                    soll.“<lb/>„Seine Schriften sind jüngst in den <rs type="place" subtype="place" ref="#place_bb924613631a24955ccdde82d6af5cc2">Göttinger</rs> gelehrten Anzeigen von <rs type="person" ref="#benfey-theodor">Benfey</rs>, wie man mir sagt, günstig besprochen worden; des Heftes
                     selbst konnte ich nicht habhaft werden. Ein hiesiger sachkundiger Privatdozent
                     sagte mir, sie seien höchst geistreich, allein stellenweise äußerst kühn. Da die
                     Schriften vorliegen, ließe sich wohl leicht ein sachkundiges Urtheil
-                    ermitteln.“<lb/>„Wenn man gesagt hat, <rs type="person" ref="muys-gottfried" key="muys-gottfried">M[uys]</rs> sei wenig geachtet, so ist das Richtigere, daß er, seit
-                        <rs type="person" ref="aschbach-joseph" key="aschbach-joseph">Aschbach</rs> und <rs type="person" ref="clemens-franz-jacob" key="clemens-franz-jacob">Clemens</rs> fort sind, die auf ihn wegen
+                    ermitteln.“<lb/>„Wenn man gesagt hat, <rs type="person" ref="#muys-gottfried">M[uys]</rs> sei wenig geachtet, so ist das Richtigere, daß er, seit
+                        <rs type="person" ref="#aschbach-joseph">Aschbach</rs> und <rs type="person" ref="#clemens-franz-jacob">Clemens</rs> fort sind, die auf ihn wegen
                     seines Talents zu halten schienen, fast mit keinem Kollegen mehr verkehrt und
                     daher den meisten kaum noch viel mehr, als dem Namen nach bekannt ist. Seit ihm
                     vor dritthalb Jahren mißlang, die Geschichtsprofessur in
                         <rs type="place" subtype="place" ref="#place_e71ad5efc58927b546fbdb1260deba3f">Braunsberg</rs> zu erhalten, scheint er, an einem
-                    Fortkommen in <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> verzweifelnd, sich
+                    Fortkommen in <rs type="place" subtype="country" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> verzweifelnd, sich
                     vollends auf sich zurückgezogen zu haben. Da er elternlos aufwuchs, mag er von
                     Haus aus Widerspruch ungern empfinden. Die Zurücksetzung und Aussichtslosigkeit
                     scheint ihn verbittert und dies ihn in den Ruf gebracht zu haben, daß er schwer
@@ -125,7 +125,7 @@
                     würde, vermag ich nicht abzusehen. Die hiesigen Protestanten ignoriren sie; die
                     Katholiken werden sich freuen, einem begabten offenbar entmuthigten und
                     aussichtslosen jungen Manne eine Zukunft geöffnet zu sehen.“<lb/>„Soll ich kurz
-                    resumiren, so ist <rs type="person" ref="muys-gottfried" key="muys-gottfried">M[uys]</rs>, was sein
+                    resumiren, so ist <rs type="person" ref="#muys-gottfried">M[uys]</rs>, was sein
                     Talent und seine Kenntnisse zumal für alte Geschichte betrifft, jedenfalls
                     empfehlenswerth. Wie weit sein Lehrtakt reicht, kann ich nicht beurtheilen, doch
                     scheint mir auch da kein wesentliches Bedenken obzuwalten. Bedenken erregt nur
@@ -135,20 +135,20 @@
                     wenn sein Leben sich freundlicher gestaltet, die Befürchtung nicht zutrifft und
                     er sich einem freundlichen geselligen Verkehr hingibt; jedenfalls wird da sehr
                     viel auf die Umgebung ankommen. Eine ernste Mahnung nach der Seite hin dürfte,
-                    wenn er berufen wird, etwa durch Prof. <rs type="person" ref="aschbach-joseph" key="aschbach-joseph">Aschbach</rs>, der ihm Autorität ist, ihm zugehen können und
-                    jedenfalls nicht überflüssig sein. Hier verkehrt <rs type="person" ref="muys-gottfried" key="muys-gottfried">M[uys]</rs> gegenwärtig nur mit dem oben erwähnten jungen Geistlichen
+                    wenn er berufen wird, etwa durch Prof. <rs type="person" ref="#aschbach-joseph">Aschbach</rs>, der ihm Autorität ist, ihm zugehen können und
+                    jedenfalls nicht überflüssig sein. Hier verkehrt <rs type="person" ref="#muys-gottfried">M[uys]</rs> gegenwärtig nur mit dem oben erwähnten jungen Geistlichen
                     und einem talentvollen, aber nicht ganz ohne seine Schuld hoffnungslosen
                     katholischen Privatdocenten.“<lb/>„Ich bin mir bewußt, bei diesem Urtheile, mich
-                    durch die Lage des Dr. <rs type="person" ref="muys-gottfried" key="muys-gottfried">M[uys]</rs> – die
-                    Lage des <hi rend="ul">katholischen</hi> Privatdocenten an der <orgName key="universitaet-bonn">Bonner Universität</orgName>, zumal wenn seine
+                    durch die Lage des Dr. <rs type="person" ref="#muys-gottfried">M[uys]</rs> – die
+                    Lage des <hi rend="ul">katholischen</hi> Privatdocenten an der <orgName>Bonner Universität</orgName>, zumal wenn seine
                     Finanzen auf die Neige gehen, ist bekanntermaßen mehr als trostlos und wahrhaft
                     bejammernswerth – nicht im Geringsten haben bestimmen zu lassen.“<lb/>Aus andern
                     Mittheilungen meines Freundes hebe ich noch hervor, daß derselbe früher einigen
-                    Umgang mit <rs type="person" ref="muys-gottfried" key="muys-gottfried">M[uys]</rs> hatte, seit
+                    Umgang mit <rs type="person" ref="#muys-gottfried">M[uys]</rs> hatte, seit
                     dritthalb Jahren aber in keiner nähern Verbindung mehr mit ihm steht. Dafür, daß
                     sein Urtheil nach bestem Gewissen abgefaßt ist, glaube ich einstehen zu
-                    können.<lb/>Ich hatte mich weiter an Herrn Prof. <rs type="person" ref="simrock-karl-joseph" key="simrock-karl-joseph">Simrock</rs> gewandt, welcher aber, kaum von
-                    einer schweren Krankheit genesen und den Dr. <rs type="person" ref="muys-gottfried" key="muys-gottfried">Muys</rs> nicht näher kennend, nicht in der Lage war, Erkundigungen
+                    können.<lb/>Ich hatte mich weiter an Herrn Prof. <rs type="person" ref="#simrock-karl-joseph">Simrock</rs> gewandt, welcher aber, kaum von
+                    einer schweren Krankheit genesen und den Dr. <rs type="person" ref="#muys-gottfried">Muys</rs> nicht näher kennend, nicht in der Lage war, Erkundigungen
                     einzuziehen. Unmaßgeblicher Weise scheint es mir auch fast, als dürften Eure
                     Excellenz in Vorstehendem vielleicht genügende Anhaltspunkte zur Entscheidung
                     über das Gewicht der vorgebrachten Beschuldigungen finden. Sollte es dagegen im

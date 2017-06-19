@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="stimpel-anton" key="stimpel-anton" role="sender:beamter">Anton Stimpel</rs>
-                    an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                    <rs type="person" ref="#stimpel-anton" role="sender:beamter">Anton Stimpel</rs>
+                    an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
                         Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_1ff97f22292e3d91119e867aadcf511b">Innsbruck</rs>, <date when="1860-10-25">25. Oktober 1860</date>
@@ -54,7 +54,7 @@
                 <p>Eure Excellenz!</p>
                 <p>Je mehr der Gefühle die Brust im innersten bewegen und je trüber dieselben sind,
                     desto schwerer findet sich das Wort und desto zögernder erweist es sich, das
-                    denselben Ausdruck geben soll. In diesem Falle sind mir gegenwärtig in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> alle, deren Brust sich bei der
+                    denselben Ausdruck geben soll. In diesem Falle sind mir gegenwärtig in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> alle, deren Brust sich bei der
                     endlichen Errichtung des so lang und heiß ersehnten Ministeriums für den
                     Unterricht mächtig gehoben hatte und die dann freier athmend und das Haupt
                     erhebend der Fahne folgten, die Euer Excellenz mit fester Hand und klaren Blicks
@@ -69,7 +69,7 @@
                     Gottes Thron zu erheben nicht ermüden, um demnächst (es ist unsre sichere
                     Hoffnung, unser Trost) sie wieder fester gewurzelt und stärker geworden in Ihre
                     väterliche Obhut zu nehmen und zu pflegen.<lb/>Gereichen diesen schwachen
-                    Ausdruck innigsten Gefühls, wozu uns in <rs type="place" subtype="region" key="tirol" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tirol</rs>
+                    Ausdruck innigsten Gefühls, wozu uns in <rs type="place" subtype="region" ref="#place_4ff7d8d5447104655856ac9e200ad7b0">Tirol</rs>
                     ewige, nie versiegende Dankbarkeit drängt, mit der unbegrenzten Hochachtung und
                     tiefster Verehrung huldvollst zu genehmigen, womit zu erstreben die Ehre hat</p>
                 <p>Eurer Excellenz<lb/>unterthänigster Diener<lb/>Anton Stimpel<lb/>Schulrath</p>

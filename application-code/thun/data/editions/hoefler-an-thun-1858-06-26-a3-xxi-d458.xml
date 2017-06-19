@@ -4,7 +4,7 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="hoefler-karl-adolf-constantin" key="hoefler-karl-adolf-constantin" role="sender:gelehrter">Constantin Höfler</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#hoefler-karl-adolf-constantin" role="sender:gelehrter">Constantin Höfler</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1858-06-26">26. Juni 1858</date>
                 </title>
@@ -60,13 +60,13 @@
                 </index>
                 <div>
                     <p>Euer Excellenz!</p>
-                    <p>Die <orgName key="boehmische-gesellschaft-der-wissenschaften">k. böhmische
+                    <p>Die <orgName>k. böhmische
                             gelehrte Gesellschaft</orgName> glaubt es wagen zu dürfen, Euer
                         Excellenz in der Anlage die Abschrift einer Eingabe an den ständischen
-                        Ausschuß <rs type="place" subtype="country" key="boehmen" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmens</rs> um Erlangung einer
+                        Ausschuß <rs type="place" subtype="country" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmens</rs> um Erlangung einer
                         jährlichen Dotation aus dem Domesticalfond ehrerbietigst vorzulegen. Bereits
                         hat der Ausschuß den darin enthaltenen Motiven Gehör schenkend den Antrag auf
-                        eine jährliche Unterstützung von 2000 fl CM gestellt, wie Graf <rs type="person" ref="nostitz-rieneck-albert" key="nostitz-rieneck-albert">Albert Nostiz</rs> mich zu versichern
+                        eine jährliche Unterstützung von 2000 fl CM gestellt, wie Graf <rs type="person" ref="#nostitz-rieneck-albert">Albert Nostiz</rs> mich zu versichern
                         die Freundlichkeit hatte. Da von der allerhöchsten Entscheidung Seyn oder
                         Nichtseyn der gelehrten Gesellschaft abhängt, wagt es dieselbe durch den
                         ehrfurchtvollst Unterzeichneten als ihrem gegenwärtigen Director Euer
@@ -78,7 +78,7 @@
                 </div>
                 <div type="enclosure" xml:id="D458_1">
                     <p>Hochlöblicher Königlich böhmischer Landesausschuß!</p>
-                    <p>Die <orgName key="boehmische-gesellschaft-der-wissenschaften">Königlich
+                    <p>Die <orgName>Königlich
                             Böhmische Gesellschaft der Wissenschaften</orgName> erfreut sich bereits
                         eines 74jährigen Bestandes. Gegründet in einer Zeit als Europa von einer
                         allgemeinen Erschöpfung rasch in den Paroxysmus des Revolutionsfiebers
@@ -158,7 +158,7 @@
                         gelehrten Gesellschaften, Akademien, beziehen die Gesellschaftsbeamten kein
                         Honorar, selbst die Verfasser der Denkschriften haben bis jetzt ohne Honorar
                         ihre zum größten Theile wissenschaftlich sehr bedeutenden Arbeiten
-                        geliefert. Soll die <orgName key="boehmische-gesellschaft-der-wissenschaften">Königlich Böhmische
+                        geliefert. Soll die <orgName>Königlich Böhmische
                             Gesellschaft</orgName> ihre gebührende Stelle einnehmen und nicht
                         unserer Zeit der Vorwurf erwachsen, daß sie in Verfall gerathen lasse, was
                         die Ahnen sorgsam gepflegt, so müßte denn auch, wie früher, mindestens ein
@@ -180,8 +180,8 @@
                         fr<lb/>Möge es einem hochlöblichen Ständischen Ausschuße gefallen zur
                         Förderung des geistigen Lebens sein Augenmerk auf diese Verhältnisse richten
                         und derselbe der Unterstützung, Pflege der Wissenschaft im Geiste eines
-                            <rs type="person" ref="lobkowicz-von-hassenstein-bohuslav" key="lobkowicz-von-hassenstein-bohuslav">Bohuslav
-                            Lobković</rs>, <rs type="person" ref="martinic-jaroslav-borsita" key="martinic-jaroslav-borsita">Martinić</rs>, <rs type="person" ref="slavata-wilhelm" key="slavata-wilhelm">Slavata</rs>, die Grafen von Sternberg und so vieler anderer
+                            <rs type="person" ref="#lobkowicz-von-hassenstein-bohuslav">Bohuslav
+                            Lobković</rs>, <rs type="person" ref="#martinic-jaroslav-borsita">Martinić</rs>, <rs type="person" ref="#slavata-wilhelm">Slavata</rs>, die Grafen von Sternberg und so vieler anderer
                         berühmten und herrlichen Namen sich gnädigst unterziehen wollen.</p>
                     <p>Von der Königlich Böhmischen Gesellschaft der Wissenschaften<lb/>Dr.
                         Höfler<lb/>dieses Jahr Director</p>

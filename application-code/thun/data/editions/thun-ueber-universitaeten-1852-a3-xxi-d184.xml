@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Eigenhändige Notizen <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo">Leo Thuns</rs>
+                <title>Eigenhändige Notizen <rs type="person" ref="#thun-hohenstein-leo">Leo Thuns</rs>
                     über einige Fragen der Universitätsreform<lb/>o. O., o. D. <date when="1852">[1852/53]<note xml:id="note_1">Die Notizen sind wohl im Zusammenhang
                             mit der Ausarbeitung der offiziellen Darstellung "Die Neugestaltung der
                             österreichischen Universitäten über den Allerhöchsten Befehl dargestellt
@@ -78,7 +78,7 @@
                     geistiger Fäulnis gefördert, der nach allen Seiten hin geradezu verderblich
                     wirkt.<lb/>Darum muß jede nicht mit aller Sachkenntnis und mit regen
                     wissenschaftlichem Interesse geübte Administration der Universitäten in Kurzem
-                    verderblich werden und deshalb darf diese allein dem <orgName key="ministerium-fuer-kultus-und-unterricht">Unterrichtsministerium</orgName> zustehen und andere administrative Organe
+                    verderblich werden und deshalb darf diese allein dem <orgName>Unterrichtsministerium</orgName> zustehen und andere administrative Organe
                     dürfen ihm zur gelegentlichen Hilfeleistung zu Gebothe stehen.<note xml:id="note_2">Randbemerkung Thuns mit Bleistift: [?] der
                         wissenschaftlichen Administration [?] auf 2/3<lb/>1. um bloße [?] <lb/>2.
                         für Juristen<lb/>zu Schluß jedes Semesters Prüfung vor ad hoc ernannten
@@ -90,10 +90,10 @@
                     <lb/>Daß die Direktoren keine Gewähr den Studenten gegenüber
                     leisten hat sich im Jahr 1848 unzweifelhaft erwiesen. An keiner Universität hat
                     in jener Zeit ein Direktor einen wirklichen Einfluß geübt. Wohl aber einzelne
-                    Professoren, theils zum Schlechten, theils zum Guten. So hielt in <orgName key="universitaet-prag">Prag</orgName>
-                    <rs type="person" ref="exner-franz" key="exner-franz">Prof. Exner</rs> die Philosophie in Ordnung,
+                    Professoren, theils zum Schlechten, theils zum Guten. So hielt in <orgName>Prag</orgName>
+                    <rs type="person" ref="#exner-franz">Prof. Exner</rs> die Philosophie in Ordnung,
                     bis zu dem Augenblick, wo er nach <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> abberufen wurde,
-                    ebenso der Jurist <rs type="person" ref="wessely-wolfgang" key="wessely-wolfgang">Prof. Wessely</rs>, bis
+                    ebenso der Jurist <rs type="person" ref="#wessely-wolfgang">Prof. Wessely</rs>, bis
                     seine Gesundheit der Anstrengung und übergroßen Aufregung unterlag. Der Grund
                     ist ein ganz natürlicher, weil nur der Prof. in unmittelbarer Berührung mit den
                     Studenten und dadurch in der Lage ist, sie zu kennen, auf ihre Überzeugung und

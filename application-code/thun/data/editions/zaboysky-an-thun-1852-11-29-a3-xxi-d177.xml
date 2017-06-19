@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="zaboysky-ladislaus" key="zaboysky-ladislaus" role="sender:kleriker">Ladislaus
-                        Zaboysky</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#zaboysky-ladislaus" role="sender:kleriker">Ladislaus
+                        Zaboysky</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_8e5d82db47efbbe74039b5757d268039">Zips</rs>, <date when="1852-11-29">29. November 1852</date>
                 </title>
@@ -166,7 +166,7 @@
                     etwas positiv gestatten könne, als was die Kirche selbst befiehlt oder gestatten
                     kann. Auf dieser religiösen Überzeugung beruht zugleich die entschiedene
                     herzliche gewissenhafte Anhänglichkeit des katholischen Landvolkes an das
-                    angestammte glorreiche Herrscherhaus <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs>, wie sich dies seit Jahrhunderten erwiesen hat.
+                    angestammte glorreiche Herrscherhaus <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs>, wie sich dies seit Jahrhunderten erwiesen hat.
                     Sollte nun diese edle Gesinnung nicht vielmehr zärtliche Schonung verdienen, als
                     daß man darin rüttele und durch unkirchliche Erlässe, was meines Wissens bis
                     jetzt noch nicht geschah, sie zu schwächen beginne.<lb/>Was der gute politische
@@ -273,12 +273,12 @@
                 <p>Ladislaus Zaboysky<lb/>Bischof von Zips</p>
                 <div type="enclosure" xml:id="D177_1">
                     <p>Abschrift</p>
-                    <p>Von <rs type="place" subtype="place" key="kirchdrauf" ref="#place_bdc6c1ff1eaf18e7dae9e2e3e37e0260">Kirchdraufer</rs> [Spišské Podhradie]
-                        Bezirksstuhlrichteramte an Seine des Herrn <rs type="person" ref="vitkovszky-joseph" key="vitkovszky-joseph">Joseph Vitkovszky</rs> Zsegraer [<rs type="place" subtype="place" ref="#place_62530da690f678833916ae0e5880bbaa">Zsigra</rs>]
+                    <p>Von <rs type="place" subtype="place" ref="#place_bdc6c1ff1eaf18e7dae9e2e3e37e0260">Kirchdraufer</rs> [Spišské Podhradie]
+                        Bezirksstuhlrichteramte an Seine des Herrn <rs type="person" ref="#vitkovszky-joseph">Joseph Vitkovszky</rs> Zsegraer [<rs type="place" subtype="place" ref="#place_62530da690f678833916ae0e5880bbaa">Zsigra</rs>]
                         Pfarrers Hochwürden.</p>
                     <p>Vallendorf, den 23. November 1852</p>
                     <p>Auf das ddo. 20. November letzten Jahres durch Euer Hochwürden diesem Amte
-                        zugesendete Schreiben in Betreff des durch <rs type="person" ref="korrach-wilhelm" key="korrach-wilhelm">Vilhelm Korrach</rs>, Pächter zu <rs type="place" subtype="place" ref="#place_67e5ba0f3e6fd58cc9fa5a1a8a6d9744">Petrócz</rs>,
+                        zugesendete Schreiben in Betreff des durch <rs type="person" ref="#korrach-wilhelm">Vilhelm Korrach</rs>, Pächter zu <rs type="place" subtype="place" ref="#place_67e5ba0f3e6fd58cc9fa5a1a8a6d9744">Petrócz</rs>,
                         auch an Sonn- und Feiertagen bewerkstelligten Branntweinbrennens finde ich
                         mich veranlaßt Euer Hochwürden dienstfreundlichst zu erwiedern, daß mittelst
                         einer hohen Statthaltereiverordnung, welche diesem Amte am Wege des Comitats

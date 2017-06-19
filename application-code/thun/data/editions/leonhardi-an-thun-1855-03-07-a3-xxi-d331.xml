@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="leonhardi-hermann" key="leonhardi-hermann" role="sender:gelehrter">Hermann
-                        Leonhardi</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#leonhardi-hermann" role="sender:gelehrter">Hermann
+                        Leonhardi</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1855-03-07">07. März 1855</date>
                 </title>
@@ -67,12 +67,12 @@
                 </index>
                 <p>Hochgeborner Graf!</p>
                 <p>Hochdieselben werden, darum bitte ich, es mir nicht verübeln, daß ich Herrn
-                        <rs type="person" ref="roeder-karl-david-august" key="roeder-karl-david-august">Professor Röder</rs> in
-                        <orgName key="universitaet-heidelberg">Heidelberg</orgName> in dem Gedanken
+                        <rs type="person" ref="#roeder-karl-david-august">Professor Röder</rs> in
+                        <orgName>Heidelberg</orgName> in dem Gedanken
                     bestärkt habe, eine kürzlich vollendete Druckschrift: Grundgedanken und
                     Bedeutung des römischen und germanischen Rechts, dem Manne vorzulegen, der durch
                     umsichtige Neugestaltung des Studiums, namentlich auch des Rechtsstudiums nicht
-                    nur für <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>, sondern mittelbar auch
+                    nur für <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>, sondern mittelbar auch
                     für <rs type="place" subtype="country" ref="#place_3c2f8b8c8c43538b25a0327ae84c3f65">Deutschland</rs> selbst eine bessere Zeit heraufzuführen
                     unermüdlich thätig ist. Diese Schrift, ein kritischer Bericht über den
                     gegenwärtigen Stand der civilistischen Tagesstreitfrage, zugleich ein nicht bloß
@@ -81,14 +81,14 @@
                     Behandlung ihres Gegenstandes die Geister für jene organisch-harmonische
                     Verbindung des historischen und philosophischen Rechtsstudiums zu gewinnen,
                     welche Euer Excellenz den österreichischen Universitäten zu einem, bisher auch
-                    außerhalb <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> noch nicht erreichten,
+                    außerhalb <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> noch nicht erreichten,
                     würdigen Ziele gesetzt haben; zugleich auch ganz besonders geeignet, einem
                     leidigen, zumal bei Studenten bemerklichen Mißverständnis eines neuerlichen
                     hohen Erlasses erfolgreich entgegenzuwirken.<lb/>Ich hoffe, daß diese Schrift,
                     wenn Euer Excellenz ihrer Lesung einige Mußestunden widmen können, Hochdenselben
                     eine wahre geistige Erquickung gewähren werde. Dann dürften Euer Hochgeboren es
                     auch begreiflich finden, daß eine Anzahl meiner bessern Schüler, die jetzt meist
-                    in historische Rechtsstudien vertieft sind, längst schon die <orgName key="universitaet-heidelberg">Heidelberger Universität</orgName> um einen
+                    in historische Rechtsstudien vertieft sind, längst schon die <orgName>Heidelberger Universität</orgName> um einen
                     solchen Rechtslehrer beneiden.<lb/>Es konnte nicht meine Absicht sein, auch die
                     Übergabe der Röder'schen Schrift zu vermitteln. Nachdem aber mein Freund mir das
                     für Euer Excellenz bestimmte Exemplar zugleich mit einem begleitenden Schreiben
@@ -110,10 +110,10 @@
                     Großes – weil der Ausgangspunkt einer ganzen Reihe wichtiger Leistungen – und
                     jetzt wohl noch, aber vielleicht schon bald nicht mehr mit verhältnismäßig
                     geringeren Mitteln zu bewerkstelligen wäre. Ich meine den genialen Naturforscher
-                        <rs type="person" ref="schimper-karl-friedrich" key="schimper-karl-friedrich">Karl Schimper</rs> von
+                        <rs type="person" ref="#schimper-karl-friedrich">Karl Schimper</rs> von
                         <rs type="place" subtype="place" ref="#place_bd2b145b873049a539012fea08bfa71a">Mannheim</rs>, über welchen ich hiemit so frei bin, Euer
                     Excellenz ein ganz kurzes Promemoria<note xml:id="note_1">Vgl. <ref target="thun/thun-korrespondenz/tetschen/leonhardi-an-thun_1855-03-08_A3-XXI-D333.xml">Hermann Leonhardi an Leo Thun. Prag, 8. März 1855</ref>.</note> zu
-                    unterbreiten, indem Hochdieselben von Professor <rs type="person" ref="unger-joseph" key="unger-joseph">Unger</rs>, der diesen seltnen Mann persönlich kennen gelernt hat,
+                    unterbreiten, indem Hochdieselben von Professor <rs type="person" ref="#unger-joseph">Unger</rs>, der diesen seltnen Mann persönlich kennen gelernt hat,
                     über seine Persönlichkeit und wissenschaftliche Bedeutung leicht Mehres erfahren
                     können.<lb/>Was endlich mich selbst betrifft, so hoffe ich, in den Osterferien
                     nicht wieder wie in den Herbstferien und wie zu Weihnachten durch Unwohlsein

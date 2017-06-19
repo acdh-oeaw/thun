@@ -4,7 +4,7 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="hoefler-karl-adolf-constantin" key="hoefler-karl-adolf-constantin" role="sender:gelehrter">Constantin Höfler</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <rs type="person" ref="#hoefler-karl-adolf-constantin" role="sender:gelehrter">Constantin Höfler</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_c12b8d9779a8ad2b240a57b31c979290">Prag</rs>, <date when="1860-07-17">17. Juli 1860</date>
                 </title>
@@ -58,8 +58,8 @@
                     nach <rs type="place" subtype="place" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> geht, sich um eine Supplentur in
                         <rs type="place" subtype="place" ref="#place_9046555c48e460168f489a62c649d10b">Gratz</rs> [Graz] zu bewerben, bedienen zu dürfen, um Euer
                     Excellenz von dem günstigen Ausfalle unserer Sommerprüfung Nachricht zu geben.
-                    Euer Excellenz wird der Candidat <rs type="person" ref="tille-anton" key="tille-anton">Tille</rs>,
-                    dermalen Supplent in <rs type="place" subtype="place" key="koeniggraetz" ref="#place_b19bff5a3b79c0971a99eefa36cc1670">Königingrätz</rs>
+                    Euer Excellenz wird der Candidat <rs type="person" ref="#tille-anton">Tille</rs>,
+                    dermalen Supplent in <rs type="place" subtype="place" ref="#place_b19bff5a3b79c0971a99eefa36cc1670">Königingrätz</rs>
                     [Königgrätz] merklich zu gnädigster Berücksichtigung, sowohl wegen seines
                     entschiedenen Talentes für historische Composition, als wegen gründlicher
                     Cenntnisse und einer ebenso großen Reife des Urtheiles als Besonnenheit und
@@ -72,9 +72,9 @@
                     strebsamen jungen Leute durch Überbürdung und unzweckmäßige Behandlung an den
                     Gymnasien, durch den drückenden Mangel von Bibliotheken und öffentlichen
                     unentbehrlichen Hilfsmitteln, statt in der Crisis ihres Lebens gefördert,
-                    vielmehr geknickt werden!<lb/>Prof. <rs type="person" ref="gindely-anton" key="gindely-anton">Gindely</rs> ist in <rs type="place" subtype="place" key="bruessel" ref="#place_7279949b987b1b373468947f87fe6753">Brüssel</rs>
+                    vielmehr geknickt werden!<lb/>Prof. <rs type="person" ref="#gindely-anton">Gindely</rs> ist in <rs type="place" subtype="place" ref="#place_7279949b987b1b373468947f87fe6753">Brüssel</rs>
                     angekommen und arbeitet daselbst seit Anfang dieses Monates unter Herrn
-                        <rs type="person" ref="gachard-louis-prosper" key="gachard-louis-prosper">Gachard</rs> in 2
+                        <rs type="person" ref="#gachard-louis-prosper">Gachard</rs> in 2
                     Archiven.<lb/>Herr Liebhäuser[?] ist ein älterer Candidat, welcher vielen Fleiß anwandte,
                     die Lücken seiner früheren mangelhaften Bildung auszufüllen, ein religiöser
                     Mensch, der auch von Seiten seines Charakters Empfehlung verdient.<lb/>Indem ich

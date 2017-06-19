@@ -57,11 +57,11 @@
                     <term>Neoabsolutismus</term>
                 </index>
                 <p>Entwurf des Kundmachungspatentes zum allgemeinen bürgerlichen Gesetzbuche für
-                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, <rs type="place" subtype="country" key="kroatien" ref="#place_46ef149805b1b370596a83886b1e010e">Croatien</rs>,
-                        <rs type="place" subtype="country" key="slawonien" ref="#place_15f10264a572e8ce0fe253bc889cdbf5">Slavonien</rs>, die <rs type="place" subtype="country" key="woiwodschaft-serbien-und-temeser-banat" ref="#place_35d1161cc45f7c1d2b14ff99f1d259a3">serbische Woywodschaft und das
+                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, <rs type="place" subtype="country" ref="#place_46ef149805b1b370596a83886b1e010e">Croatien</rs>,
+                        <rs type="place" subtype="country" ref="#place_15f10264a572e8ce0fe253bc889cdbf5">Slavonien</rs>, die <rs type="place" subtype="country" ref="#place_35d1161cc45f7c1d2b14ff99f1d259a3">serbische Woywodschaft und das
                         Temeser Banat</rs>
                 </p>
-                <p>Wir <rs type="person" ref="franz-joseph" key="franz-joseph">Franz Josef</rs> usw. haben bereits in den
+                <p>Wir <rs type="person" ref="#franz-joseph">Franz Josef</rs> usw. haben bereits in den
                     durch Unser Patent vom 31. December 1851 bekannt gemachten Grundsätzen über die
                     künftigen organischen Einrichtungen in den Kronländern Unseres Kaiserthums<note xml:id="note_2">Vgl. <ref target="http://alex.onb.ac.at/cgi-content/alex?apm=0&amp;aid=rgb&amp;datum=18520004&amp;seite=00000028&amp;size=45">RGBl 4/1852</ref> sowie A3 XXI D150.</note> die Absicht ausgesprochen,
                     das allgemeine bürgerliche Gesetzbuch als das gemeinsame Recht für alle
@@ -71,11 +71,11 @@
                     Weise zu Beförderung des allgemeinen Wohles auch in diesen Kronländern durch die
                     Erlassung bestimmter verständlicher und den Forderungen der Gerechtigkeit
                     entsprechender Vorschriften über das Privatrecht einen geordneten Rechtszustand
-                    zu begründen, haben Wir nach Anhörung Unsers <orgName key="ministerrat">Ministerrathes</orgName> und Vernehmung Unsers Reichsrathes beschlossen,
+                    zu begründen, haben Wir nach Anhörung Unsers <orgName>Ministerrathes</orgName> und Vernehmung Unsers Reichsrathes beschlossen,
                     wie folgt.</p>
                 <p>I.<lb/>Vom … 1852 angefangen hat in den Königreichen <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>,
-                        <rs type="place" subtype="country" key="kroatien-slawonien" ref="#place_6fe90dd680c4a571ed89e631ef2d48ed">Kroatien und Slavonien</rs>, in der
-                        <rs type="place" subtype="country" key="woiwodschaft-serbien-und-temeser-banat" ref="#place_35d1161cc45f7c1d2b14ff99f1d259a3">Woywodschaft Serbien
+                        <rs type="place" subtype="country" ref="#place_6fe90dd680c4a571ed89e631ef2d48ed">Kroatien und Slavonien</rs>, in der
+                        <rs type="place" subtype="country" ref="#place_35d1161cc45f7c1d2b14ff99f1d259a3">Woywodschaft Serbien
                         und in dem Temeser Banate</rs> das mit dem Patente vom 1. Junius 1811
                     in andern Theilen Unserer Monarchie kundgemachte allgemeine bürgerliche
                     Gesetzbuch sammt den darauf sich beziehenden in dem beigefügten Anhange
@@ -132,9 +132,9 @@
                 <p>V.<lb/>Da sich die persönliche Fähigkeit jedes Staatsbürgers zu Rechtsgeschäften
                     nach den Gesetzen des Landes richtet, welchem er angehört, so versteht es sich
                     von selbst, daß Angehörige von <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>,
-                        <rs type="place" subtype="country" ref="#place_ee09f953e2cce4a1e7a2f5b288fee2f4">Kroatien</rs>, <rs type="place" subtype="country" key="slawonien" ref="#place_15f10264a572e8ce0fe253bc889cdbf5">Slavonien</rs>,
-                    der <rs type="place" subtype="country" key="woiwodschaft-serbien" ref="#place_c1a76f350bcfa4d0b1f71fc95e9a882b">serbischen Woywodschaft</rs> oder
-                    des <rs type="place" subtype="country" key="temescher-banat" ref="#place_67c8655646f02446cc1e4ecffd769f79">Temeser Banates</rs>, auch wenn sie in
+                        <rs type="place" subtype="country" ref="#place_ee09f953e2cce4a1e7a2f5b288fee2f4">Kroatien</rs>, <rs type="place" subtype="country" ref="#place_15f10264a572e8ce0fe253bc889cdbf5">Slavonien</rs>,
+                    der <rs type="place" subtype="country" ref="#place_c1a76f350bcfa4d0b1f71fc95e9a882b">serbischen Woywodschaft</rs> oder
+                    des <rs type="place" subtype="country" ref="#place_67c8655646f02446cc1e4ecffd769f79">Temeser Banates</rs>, auch wenn sie in
                     andern Kronländern Ehen eingehen wollen, so weit es ihre persönliche Fähigkeit
                     hiezu betrifft,<note xml:id="note_6"> Anmerkung Thuns am Rand: Soll also darin
                         Verschiedenheit bleiben?</note> an die in dem Kronlande, welchem sie
@@ -142,8 +142,8 @@
                     die persönliche Fähigkeit zu Eingehung einer Ehe in Beziehung auf die
                     Angehörigen derjenigen Kronländer, in welchen die Vorschriften des allgemeinen
                     bürgerlichen Gesetzbuches über das Eherecht in voller Wirksamkeit stehen, auch
-                    wenn die Ehe in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, <rs type="place" subtype="country" ref="#place_ee09f953e2cce4a1e7a2f5b288fee2f4">Kroatien</rs>, <rs type="place" subtype="country" key="slawonien" ref="#place_15f10264a572e8ce0fe253bc889cdbf5">Slavonien</rs>, in der <rs type="place" subtype="country" key="woiwodschaft-serbien" ref="#place_c1a76f350bcfa4d0b1f71fc95e9a882b">serbischen Woywodschaft</rs> oder in dem
-                        <rs type="place" subtype="country" key="temescher-banat" ref="#place_67c8655646f02446cc1e4ecffd769f79">Temeser Banate</rs> eingegangen werden
+                    wenn die Ehe in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, <rs type="place" subtype="country" ref="#place_ee09f953e2cce4a1e7a2f5b288fee2f4">Kroatien</rs>, <rs type="place" subtype="country" ref="#place_15f10264a572e8ce0fe253bc889cdbf5">Slavonien</rs>, in der <rs type="place" subtype="country" ref="#place_c1a76f350bcfa4d0b1f71fc95e9a882b">serbischen Woywodschaft</rs> oder in dem
+                        <rs type="place" subtype="country" ref="#place_67c8655646f02446cc1e4ecffd769f79">Temeser Banate</rs> eingegangen werden
                     soll, nur nach den Bestimmungen dieses Gesetzbuches zu beurtheilen ist.</p>
                 <p>VI.<lb/>Die in den verschiedenen Kronländern bestehenden besondern Gesetze und
                     Verordnungen über Gegenstände, in Ansehung welcher an einzelnen Stellen des
@@ -176,7 +176,7 @@
                     und der damit verbundenen Leistungen ausdrücklich bestätiget haben.<lb/>
                     <note xml:id="note_8">Streichung: Es hat daher:<lb/>a. bei allen für diese
                         Kronländer hierüber ergangenen besonderen Gesetzen, insbesondere bei der in
-                        Unserem Patente vom 2. December 1848 ent[haltenen] Verfügung <rs type="person" ref="ferdinand-I-oesterreich" key="ferdinand-I-oesterreich">Unseres Erlauchten Vorgängers</rs>
+                        Unserem Patente vom 2. December 1848 ent[haltenen] Verfügung <rs type="person" ref="#ferdinand-I-oesterreich">Unseres Erlauchten Vorgängers</rs>
                         vom 7. November 1848<note xml:id="note_9">Vgl. <ref target="http://alex.onb.ac.at/cgi-content/alex?apm=0&amp;aid=rgb&amp;datum=18490005&amp;seite=00000003&amp;size=45">RGBl 2/1848</ref>.</note> über die Aufhebung der auf Grundlage des
                         Urbariums und der dasselbe ergänzende Verträge üblich gewesenen
                         Dienstleistungen (Robot), des Zehendes und der Geldabgaben und allen später
