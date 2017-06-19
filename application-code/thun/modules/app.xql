@@ -6,6 +6,10 @@ import module namespace templates="http://exist-db.org/xquery/templates" ;
 import module namespace config="http://www.digital-archiv.at/ns/thun/config" at "config.xqm";
 import module namespace kwic = "http://exist-db.org/xquery/kwic" at "resource:org/exist/xquery/lib/kwic.xql";
 
+declare variable  $app:editions := $config:app-root||'/data/editions';
+declare variable $app:placeIndex := $config:app-root||'/data/indices/listplace.xml';
+declare variable $app:personIndex := $config:app-root||'/data/indices/listperson.xml';
+
 declare function functx:contains-case-insensitive
   ( $arg as xs:string? ,
     $substring as xs:string )  as xs:boolean? {
@@ -37,6 +41,32 @@ declare function functx:substring-after-last
    else ''
  } ;
 
+declare function app:fetchEntity($ref as xs:string){
+    let $entity := collection($config:app-root||'/data/indices')//*[@xml:id=$ref]
+    let $type: = if (contains(node-name($entity), 'place')) then 'place'
+        else if  (contains(node-name($entity), 'person')) then 'person'
+        else 'unkown'
+    let $viewName := if($type eq 'place') then(string-join($entity/tei:placeName[1]//text(), ', '))
+        else if ($type eq 'person' and exists($entity/tei:persName/tei:forename)) then string-join(($entity/tei:persName/tei:surname/text(), $entity/tei:persName/tei:forename/text()), ', ')
+        else if ($type eq 'person') then $entity/tei:placeName/tei:surname/text()
+        else 'no name'
+    let $viewName := normalize-space($viewName)
+    
+    return 
+        ($viewName, $type, $entity)
+};
+
+declare function local:everything2string($entity as node()){
+    let $texts := normalize-space(string-join($entity//text(), ' '))
+    return 
+        $texts
+};
+
+declare function local:viewName($entity as node()){
+    let $name := node-name($entity)
+    return
+        $name
+};
 
 
 (:~
@@ -204,19 +234,19 @@ declare function app:toc($node as node(), $model as map(*)) {
         else 
             collection(concat($config:app-root, '/data/editions/'))[not(contains(.//tei:repository, 'Linie Tetschen, Nachlass Leo'))]
     for $title in $docs
-    let $sender := fn:normalize-space($title//tei:persName[@role=contains($title//tei:persName/@role,'sender') and 1]/text()[1])
-        let $sender_nn := if(fn:exists($title//tei:persName[@role=contains($title//tei:persName/@role,'sender') and 1]/text()))
+    let $sender := fn:normalize-space($title//tei:rs[@role=contains($title//tei:rs/@role,'sender') and 1]/text()[1])
+        let $sender_nn := if(fn:exists($title//tei:rs[@role=contains($title//tei:rs/@role,'sender') and 1]/text()))
                             then concat(functx:substring-after-last($sender,' '), ", ")
                             else "ohne Absender"
         let $sender_vn := functx:substring-before-last($sender,' ')
-        let $empfänger := fn:normalize-space($title//tei:persName[@role=contains($title//tei:persName/@role,'recipient') and 1]/text()[1])
-        let $empfänger_nn := if(fn:exists($title//tei:persName[@role=contains($title//tei:persName/@role,'recipient') and 1]/text()))
+        let $empfänger := fn:normalize-space($title//tei:rs[@role=contains($title//tei:rs/@role,'recipient') and 1]/text()[1])
+        let $empfänger_nn := if(fn:exists($title//tei:rs[@role=contains($title//tei:rs/@role,'recipient') and 1]/text()))
                                 then concat(functx:substring-after-last($empfänger,' '), ", ")
                                 else "ohne Empfänger"
         let $empfänger_vn := functx:substring-before-last($empfänger,' ')
-        let $wo := if(fn:exists($title//tei:title/tei:placeName[2]/text()))
-                     then concat($title//tei:title/tei:placeName[1]/text()," und ", $title//tei:title/tei:placeName[2]/text())
-                     else $title//tei:title/tei:placeName[1]/text()
+        let $wo := if(fn:exists($title//tei:title//tei:rs[@type='place']))
+                     then $title//tei:title//tei:rs[@type='place']//text()
+                     else 'no place'
         let $wann := data($title//tei:date/@when)[1]
         let $zitat := $title//tei:msIdentifier
         return

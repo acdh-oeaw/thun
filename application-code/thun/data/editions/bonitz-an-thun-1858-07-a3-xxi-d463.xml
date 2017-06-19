@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -69,7 +70,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -177,7 +182,7 @@
                                 <cell>32506 fl</cell>
                                 <cell>43366 fl</cell>
                             </row>
-                        </table>   </p>
+                        </table> &#160; </p>
                     <p>(Dabei sind die einem wesentlich verschiedenen Zwecke dienenden
                         Unterstützungen zum Besuche deutscher Universitäten nicht eingerechnet.)
                         Nicht die bedeutende Summe, die zur Verwendung kommt, ist es, was zu ernster
