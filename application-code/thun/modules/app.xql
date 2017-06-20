@@ -120,9 +120,10 @@ let $href := concat('show.html','?document=', app:getDocName($node))
     <div>Nothing to search for</div>
  };
 
-declare function app:dummyindexsearch_hits($node as node(), $model as map(*),  $searchkey as xs:string?, $path as xs:string?){
+declare function app:indexSearch_hits($node as node(), $model as map(*),  $searchkey as xs:string?, $path as xs:string?){
+let $indexSerachKey := $searchkey
 let $searchkey:= '#'||$searchkey
-for $title in collection($app:editions)//tei:TEI[.//*[@ref=$searchkey] | .//tei:term[./text() eq $searchkey]] 
+for $title in collection($app:editions)//tei:TEI[.//tei:term[contains(./text(), $indexSerachKey)]] 
 let $hits := if (count(root($title)//*[@ref=$searchkey]) = 0) then 1 else count(root($title)//*[@ref=$searchkey])
 let $snippet := 
     for $entity in root($title)//*[@ref=$searchkey]
@@ -160,7 +161,7 @@ return
 (:~
  : fetches all documents which contain the searched person or place
  :)
-declare function app:indexSearch_hits($node as node(), $model as map(*), $searchkey as xs:string?, $path as xs:string?)
+declare function app:dummyindexsearch_hits($node as node(), $model as map(*), $searchkey as xs:string?, $path as xs:string?)
 {
     for $title in collection(concat($config:app-root, '/data/editions/'))//tei:TEI[.//*[@ref=$searchkey] 
     | .//*[@key=$searchkey] | .//*[@key=$searchkey] | .//tei:term[text()=$searchkey]]

@@ -14,6 +14,7 @@ declare namespace tei = "http://www.tei-c.org/ns/1.0";
  : @param $model a map containing arbitrary data - used to pass information between template calls
  :)
 
-for $x in collection($app:editions)//tei:rs[@ref='#place_95b8315bd8f5c49ffd94d827cc5ece93']
+let $searchkey := 'Personalfragen'
+for $x in collection($app:editions)//tei:TEI[.//tei:term[contains(./text(), $searchkey)]] 
 return
     $x
