@@ -57,7 +57,7 @@
             </xsl:when>
         </xsl:choose>
         <xsl:choose>
-            <xsl:when test="exists(.//tei:rs[contains(./@role, 'sender')])">
+            <xsl:when test="exists(.//tei:rs[contains(./@role, 'sender')]) and not(exists(.//tei:rs[contains(./@role, 'recipient')])) and count(.//tei:titleStmt/tei:title//tei:rs[@type='person']) gt 1">
                 <persName>
                     <xsl:attribute name="ref">
                         <xsl:value-of select=".//tei:titleStmt/tei:title/tei:rs[@type='person'][last()]/@ref"/>
@@ -66,6 +66,7 @@
                 </persName>
             </xsl:when>
         </xsl:choose>
+        
         
         
     </xsl:variable>
@@ -79,7 +80,7 @@
     <xsl:template match="tei:fileDesc">
         <xsl:copy-of select="."/>
         <xsl:choose>
-            <xsl:when test="exists(.//tei:rs[contains(./@role, 'sender')]/@ref)">
+            <xsl:when test="exists(.//tei:rs[contains(./@role, 'sender')]/@ref) and count($receiver//*) gt 0">
                 <profileDesc>
                     <correspDesc>
                         <correspAction type="sent">
@@ -94,8 +95,8 @@
                 </profileDesc>
             </xsl:when>
         </xsl:choose>
-        <!--<xsl:choose>
-            <xsl:when test="exists(.//tei:rs[contains(./@role, 'sender')]/@ref) and not(exists(.//tei:rs[contains(./@role, 'recipient')]/@ref))">
+        <xsl:choose>
+            <xsl:when test="exists(.//tei:rs[contains(./@role, 'sender')]/@ref) and count($receiver//*) eq 0">
                 <profileDesc>
                     <correspDesc>
                         <correspAction type="sent">
@@ -106,11 +107,8 @@
                     </correspDesc>
                 </profileDesc>
             </xsl:when>
-        </xsl:choose>-->
-        
-        
+        </xsl:choose>    
     </xsl:template>
-    
     
    
 </xsl:stylesheet>

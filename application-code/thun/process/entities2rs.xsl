@@ -9,7 +9,9 @@
     <xsl:template match="tei:persName">
         <rs>
             <xsl:attribute name="type">person</xsl:attribute>
-            <xsl:attribute name="ref"><xsl:value-of select="data(./@key)"/></xsl:attribute>
+            <xsl:attribute name="ref">
+                <xsl:value-of select="data(./@key)"/>
+            </xsl:attribute>
             <xsl:apply-templates select="@*|node()"/>
         </rs>
     </xsl:template>

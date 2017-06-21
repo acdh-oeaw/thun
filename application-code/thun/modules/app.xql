@@ -123,7 +123,7 @@ let $href := concat('show.html','?document=', app:getDocName($node))
 declare function app:indexSearch_hits($node as node(), $model as map(*),  $searchkey as xs:string?, $path as xs:string?){
 let $indexSerachKey := $searchkey
 let $searchkey:= '#'||$searchkey
-for $title in collection($app:editions)//tei:TEI[.//tei:term[contains(./text(), $indexSerachKey)]] 
+for $title in collection($app:editions)//tei:TEI[.//*[@ref=$searchkey] | .//tei:term[./text() eq substring-after($searchkey, '#')]] 
 let $hits := if (count(root($title)//*[@ref=$searchkey]) = 0) then 1 else count(root($title)//*[@ref=$searchkey])
 let $snippet := 
     for $entity in root($title)//*[@ref=$searchkey]
