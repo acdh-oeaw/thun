@@ -13,31 +13,60 @@
     </xsl:variable>
     
     <xsl:variable name="sender-place">
-        <settlement>
-            <xsl:attribute name="ref">
-                <xsl:value-of select=".//tei:titleStmt/tei:title/tei:rs[@type='place'][last()]/@ref[1]"/>
-            </xsl:attribute>
-            <xsl:value-of select="normalize-space(.//tei:titleStmt/tei:title/tei:rs[@type='place'][last()]/text())"/>
-        </settlement>
+        <xsl:choose>
+            <xsl:when test="exists(.//tei:titleStmt/tei:title/tei:rs[@type='place'][last()]/@ref[1])">
+                <settlement>
+                    <xsl:attribute name="ref">
+                        <xsl:value-of select=".//tei:titleStmt/tei:title/tei:rs[@type='place'][last()]/@ref[1]"/>
+                    </xsl:attribute>
+                    <xsl:value-of select="normalize-space(.//tei:titleStmt/tei:title/tei:rs[@type='place'][last()]/text())"/>
+                </settlement>
+            </xsl:when>
+        </xsl:choose>
     </xsl:variable>
+    
     <xsl:variable name="sender-date">
-        <date>
-            <xsl:attribute name="when">
-                <xsl:value-of select=".//tei:titleStmt/tei:title/tei:date/@when"/>
-            </xsl:attribute>
-            <xsl:value-of select="string-join(.//tei:titleStmt/tei:title/tei:date//text(), ' ')"/>
-        </date>
+        <xsl:choose>
+            <xsl:when test=".//tei:titleStmt/tei:title/tei:date/@when castable as xs:date">
+                <date>
+                    <xsl:attribute name="when">
+                        <xsl:value-of select=".//tei:titleStmt/tei:title/tei:date/@when"/>
+                    </xsl:attribute>
+                    <xsl:value-of select="string-join(.//tei:titleStmt/tei:title/tei:date//text(), ' ')"/>
+                </date>
+            </xsl:when>
+            <xsl:otherwise>
+                <date>
+                    <xsl:value-of select="string-join(.//tei:titleStmt/tei:title/tei:date//text(), ' ')"/>
+                </date>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:variable>
     
     <xsl:variable name="receiver">
-        <xsl:for-each select=".//tei:rs[contains(./@role, 'recipient')]">
-            <persName>
-                <xsl:attribute name="ref">
-                    <xsl:value-of select="./@ref"/>
-                </xsl:attribute>
-                <xsl:value-of select="normalize-space(./text()[1])"/>
-            </persName>
-        </xsl:for-each>
+        <xsl:choose>
+            <xsl:when test="exists(.//tei:rs[contains(./@role, 'recipient')])">
+                <xsl:for-each select=".//tei:rs[contains(./@role, 'recipient')]">
+                    <persName>
+                        <xsl:attribute name="ref">
+                            <xsl:value-of select="./@ref"/>
+                        </xsl:attribute>
+                        <xsl:value-of select="normalize-space(./text()[1])"/>
+                    </persName>
+                </xsl:for-each>
+            </xsl:when>
+        </xsl:choose>
+        <xsl:choose>
+            <xsl:when test="exists(.//tei:rs[contains(./@role, 'sender')])">
+                <persName>
+                    <xsl:attribute name="ref">
+                        <xsl:value-of select=".//tei:titleStmt/tei:title/tei:rs[@type='person'][last()]/@ref"/>
+                    </xsl:attribute>
+                    <xsl:value-of select="normalize-space(.//tei:titleStmt/tei:title/tei:rs[@type='person'][last()]/text()[1])"/>
+                </persName>
+            </xsl:when>
+        </xsl:choose>
+        
         
     </xsl:variable>
     
@@ -50,7 +79,7 @@
     <xsl:template match="tei:fileDesc">
         <xsl:copy-of select="."/>
         <xsl:choose>
-            <xsl:when test="exists(.//tei:rs[contains(./@role, 'sender')]/@ref) and exists(.//tei:rs[contains(./@role, 'recipient')]/@ref)">
+            <xsl:when test="exists(.//tei:rs[contains(./@role, 'sender')]/@ref)">
                 <profileDesc>
                     <correspDesc>
                         <correspAction type="sent">
@@ -65,7 +94,7 @@
                 </profileDesc>
             </xsl:when>
         </xsl:choose>
-        <xsl:choose>
+        <!--<xsl:choose>
             <xsl:when test="exists(.//tei:rs[contains(./@role, 'sender')]/@ref) and not(exists(.//tei:rs[contains(./@role, 'recipient')]/@ref))">
                 <profileDesc>
                     <correspDesc>
@@ -77,7 +106,7 @@
                     </correspDesc>
                 </profileDesc>
             </xsl:when>
-        </xsl:choose>
+        </xsl:choose>-->
         
         
     </xsl:template>
