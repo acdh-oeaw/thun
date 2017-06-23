@@ -12,24 +12,28 @@ declare namespace http = "http://expath.org/ns/http-client";
 declare variable $api:JSON := 
 <rest:response>
     <http:response>
-      <http:header name="Content-Language" value="en"/>
-      <http:header name="Content-Type" value="application/json; charset=utf-8"/>
+        <http:header name="Access-Control-Allow-Origin" value="*"/>
+        <http:header name="X-Frame-Options" value="SAMEORIGIN"/>
+        <http:header name="Content-Language" value="en"/>
+        <http:header name="Content-Type" value="application/json; charset=utf-8"/>
     </http:response>
     <output:serialization-parameters>
-    <output:method value='json'/>
-      <output:media-type value='application/json'/>
+        <output:method value='json'/>
+        <output:media-type value='application/json'/>
     </output:serialization-parameters>
  </rest:response>;
 
 declare variable $api:XML := 
 <rest:response>
     <http:response>
-      <http:header name="Content-Language" value="en"/>
-      <http:header name="Content-Type" value="application/xml; charset=utf-8"/>
+        <http:header name="Access-Control-Allow-Origin" value="*"/>
+        <http:header name="X-Frame-Options" value="SAMEORIGIN"/>
+        <http:header name="Content-Language" value="en"/>
+        <http:header name="Content-Type" value="application/xml; charset=utf-8"/>
     </http:response>
     <output:serialization-parameters>
-    <output:method value='xml'/>
-      <output:media-type value='application/xml'/>
+        <output:method value='xml'/>
+        <output:media-type value='application/xml'/>
     </output:serialization-parameters>
  </rest:response>;
 

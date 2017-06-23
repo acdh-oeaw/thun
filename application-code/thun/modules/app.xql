@@ -5,6 +5,7 @@ declare namespace functx = 'http://www.functx.com';
 import module namespace templates="http://exist-db.org/xquery/templates" ;
 import module namespace config="http://www.digital-archiv.at/ns/thun/config" at "config.xqm";
 import module namespace kwic = "http://exist-db.org/xquery/kwic" at "resource:org/exist/xquery/lib/kwic.xql";
+declare variable $exist:root external;
 
 declare variable  $app:editions := $config:app-root||'/data/editions';
 declare variable $app:placeIndex := $config:app-root||'/data/indices/listplace.xml';

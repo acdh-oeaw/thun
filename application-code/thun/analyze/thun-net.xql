@@ -21,7 +21,7 @@ declare option exist:serialize "method=xml media-type=text/xml omit-xml-declarat
 (:            let $label := $person//tei:surname || " " || $person//tei:forename:)
 (:                return:)
 (:                <node id="{$key}" label="{$label}"/>:)
-            for $key in distinct-values(collection($config:app-root || "/data/editions/")//tei:TEI[.//tei:persName[@role="sender"]]//tei:persName/@key)
+            for $key in distinct-values(collection($config:app-root || "/data/editions/")//tei:TEI[.//tei:rs[@role="sender"]]//tei:rs[@type="person"]/@ref)
               return
                   <node id="{$key}" label="{$key}"/>
  
@@ -29,12 +29,12 @@ declare option exist:serialize "method=xml media-type=text/xml omit-xml-declarat
         </nodes>
         <edges>
         {
-            for $doc in collection($config:app-root || "/data/editions/")//tei:TEI[.//tei:persName[@role="sender"]]
-            let $sender := $doc//tei:persName[@role="sender"]
-            for $person in $doc//tei:persName[exists(@key)]
-            where $sender/@key != $person/@key
+            for $doc in collection($config:app-root || "/data/editions/")//tei:TEI[.//tei:rs[@role="sender"]]
+            let $sender := $doc//tei:rs[@role="sender"]
+            for $person in $doc//tei:rs[exists(@ref) and @type="person"]
+            where $sender/@ref != $person/@ref
                     return
-                        <edge id="{util:uuid()}" source="{data($sender/@key)}" target="{data($person/@key)}" />
+                        <edge id="{util:uuid()}" source="{data($sender/@ref)}" target="{data($person/@ref)}" />
         }
 
             
