@@ -39,6 +39,11 @@ declare variable $config:repo-descriptor := doc(concat($config:app-root, "/repo.
 
 declare variable $config:expath-descriptor := doc(concat($config:app-root, "/expath-pkg.xml"))/expath:package;
 
+declare variable $config:app-name := doc(concat($config:app-root, "/repo.xml"))//repo:target/text();
+
+declare variable $config:app-title := $config:expath-descriptor/expath:title/text();
+declare variable $config:app-authors := $config:repo-descriptor/repo:author;
+
 (:~
  : Resolve the given path using the current application context.
  : If the app resides in the file system,
