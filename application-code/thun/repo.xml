@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <meta xmlns="http://exist-db.org/xquery/repo">
     <description>This is a web application for publishing and analyzing the correspondence of Leo von Thun-Hohenstein</description>
-    <author>Peter Andorfer</author>
+    <author ref="http://d-nb.info/gnd/129199176">Peter Andorfer</author>
+    <author>Brigitte Mazohl</author>
     <website/>
     <status>alpha</status>
     <license>GNU-LGPL</license>
@@ -11,4 +12,5 @@
     <prepare>pre-install.xql</prepare>
     <finish/>
     <permissions xmlns:repo="http://exist-db.org/xquery/repo" password="" user="admin" group="dba" mode="rw-rw-r--"/>
+
 </meta>
