@@ -41,6 +41,13 @@ declare function functx:substring-after-last
             '$1')
    else ''
  } ;
+ 
+ declare function functx:capitalize-first
+  ( $arg as xs:string? )  as xs:string? {
+
+   concat(upper-case(substring($arg,1,1)),
+             substring($arg,2))
+ } ;
 
 declare function app:fetchEntity($ref as xs:string){
     let $entity := collection($config:app-root||'/data/indices')//*[@xml:id=$ref]
@@ -192,9 +199,9 @@ declare function app:listPlace($node as node(), $model as map(*)) {
         return
         <tr>
             <td>
-                <a href="{concat($hitHtml, data($place/@xml:id))}">{$place/tei:placeName[@type="pref"]}</a>
+                <a href="{concat($hitHtml, data($place/@xml:id))}">{functx:capitalize-first($place/tei:placeName[1])}</a>
             </td>
-            <td>{for $altName in $place//tei:placeName[@type="alt"] return <li>{$altName}</li>}</td>
+            <td>{for $altName in $place//tei:placeName return <li>{$altName}</li>}</td>
             <td>{$place//tei:idno}</td>
             <td>{$place//tei:geo}</td>
         </tr>

@@ -6,8 +6,8 @@ import module namespace app="http://www.digital-archiv.at/ns/thun/templates" at 
 import module namespace config="http://www.digital-archiv.at/ns/thun/config" at "../modules/config.xqm";
 
 
-let $main := doc('orig_listplace.xml')
-let $in := doc('listplace-teihencerexport.xml')
+let $in := doc('orig_listplace.xml')
+let $main := doc('listplace-teihencerexport.xml')
 let $out :=
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
@@ -46,11 +46,12 @@ let $out :=
             let $merge := $in/id($id)
             return
                 <place xml:id="{$id}">{
-                    ($item/*,
+                    ($item/tei:placeName,
                     for $name in $merge/tei:placeName
                         return if ($name != $myName)
                         then $name
-                        else ()
+                        else (),
+                    $item/tei:*[not(self::tei:placeName)]
                     )
                 }</place>,
         for $item in $in//tei:place

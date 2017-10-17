@@ -10,7 +10,7 @@
                             <span class="fa fa-times"/>
                         </button>
                         <h4 class="modal-title">
-                            <xsl:value-of select="//tei:place[@xml:id=$entiyID]/tei:placeName[@type='pref']"/>
+                            <xsl:value-of select="//tei:place[@xml:id=$entiyID]/tei:placeName[1]"/>
                         </h4>
                     </div>
                     <div class="modal-body">
@@ -18,7 +18,7 @@
                             <tr>
                                 <th>Alternative Schreibweisen</th>
                                 <td>
-                                    <xsl:for-each select="//tei:place[@xml:id=$entiyID]//tei:placeName[@type='alt']">
+                                    <xsl:for-each select="//tei:place[@xml:id=$entiyID]//tei:placeName">
                                         <li>
                                             <xsl:value-of select="."/>
                                         </li>
@@ -34,9 +34,27 @@
                                         </td>
                                     </tr>
                                     <tr>
-                                        <th>Getty-ID</th>
+                                        <th>Normdata ID</th>
                                         <td>
-                                            <xsl:value-of select=".//tei:place[@xml:id=$entiyID]//tei:idno"/>
+                                            <a>
+                                                <xsl:attribute name="href">
+                                                    <xsl:value-of select=".//tei:place[@xml:id=$entiyID]//tei:idno/text()"/>
+                                                </xsl:attribute>
+                                                <xsl:attribute name="target">_blank</xsl:attribute>
+                                                <xsl:value-of select=".//tei:place[@xml:id=$entiyID]//tei:idno"/>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Erwähnt in weiteren Dokument</th>
+                                        <td>
+                                            <a>
+                                                <xsl:attribute name="href">
+                                                    <xsl:value-of select="concat('hits.html?searchkey=', $entiyID)"/>
+                                                </xsl:attribute>
+                                                <xsl:attribute name="target">_blank</xsl:attribute>
+                                                klicke hier
+                                            </a>
                                         </td>
                                     </tr>
                                 </xsl:when>
