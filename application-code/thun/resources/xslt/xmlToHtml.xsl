@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns="http://www.w3.org/1999/xhtml" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="tei" version="2.0"><!-- <xsl:strip-space elements="*"/>-->
+    <xsl:param name="document"/>
+    <xsl:param name="app-name"/>
+    <xsl:param name="collection-name"/>
+    <xsl:param name="path2source"/>
     <xsl:param name="ref"/><!--
 ##################################
 ### Seitenlayout und -struktur ###
@@ -129,7 +133,12 @@
                     </table>
                     <div class="panel-footer">
                         <p style="text-align:center;">
-                            <a id="link_to_source"/>
+                            <a>
+                                <xsl:attribute name="href">
+                                    <xsl:value-of select="$path2source"/>
+                                </xsl:attribute>
+                                XML-TEI
+                            </a>
                         </p>
                     </div>
                 </div>

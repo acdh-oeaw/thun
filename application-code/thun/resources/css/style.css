@@ -15,6 +15,11 @@ header{
 .main-content{
     flex:1 0 auto;
 }
+
+span.data-hr {
+    background-color: #ffff00;
+}
+
 footer{
     flex:0 0 auto;
     background-color:#333; /*#F8F8F8*/
