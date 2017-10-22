@@ -6,6 +6,10 @@
     <xsl:param name="collection-name"/>
     <xsl:param name="path2source"/>
     <xsl:param name="ref"/>
+    <xsl:param name="searchkey"/>
+    <xsl:variable name="hashedSearchkey">
+        <xsl:value-of select="concat('#',$searchkey)"/>
+    </xsl:variable>
     <!--
 ##################################
 ### Seitenlayout und -struktur ###
@@ -319,19 +323,40 @@
     </xsl:template>
     <!-- reference strings   -->
     <xsl:template match="tei:rs[@ref or @key]">
-        <strong>
-            <xsl:element name="a">
-                <xsl:attribute name="class">reference</xsl:attribute>
-                <xsl:attribute name="data-type">
-                    <xsl:value-of select="concat('list', data(@type), '.xml')"/>
-                </xsl:attribute>
-                <xsl:attribute name="data-key">
-                    <xsl:value-of select="substring-after(data(@ref), '#')"/>
-                    <xsl:value-of select="@key"/>
-                </xsl:attribute>
-                <xsl:value-of select="."/>
-            </xsl:element>
-        </strong>
+        <xsl:choose>
+            <xsl:when test="@ref=$hashedSearchkey">
+                <span class="data-hr">
+                    <strong>
+                        <xsl:element name="a">
+                            <xsl:attribute name="class">reference</xsl:attribute>
+                            <xsl:attribute name="data-type">
+                                <xsl:value-of select="concat('list', data(@type), '.xml')"/>
+                            </xsl:attribute>
+                            <xsl:attribute name="data-key">
+                                <xsl:value-of select="substring-after(data(@ref), '#')"/>
+                                <xsl:value-of select="@key"/>
+                            </xsl:attribute>
+                            <xsl:value-of select="."/>
+                        </xsl:element>
+                    </strong>
+                </span>
+            </xsl:when>
+            <xsl:otherwise>
+                <strong>
+                    <xsl:element name="a">
+                        <xsl:attribute name="class">reference</xsl:attribute>
+                        <xsl:attribute name="data-type">
+                            <xsl:value-of select="concat('list', data(@type), '.xml')"/>
+                        </xsl:attribute>
+                        <xsl:attribute name="data-key">
+                            <xsl:value-of select="substring-after(data(@ref), '#')"/>
+                            <xsl:value-of select="@key"/>
+                        </xsl:attribute>
+                        <xsl:value-of select="."/>
+                    </xsl:element>
+                </strong>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
     <xsl:template match="tei:persName[@key]">
         <strong>
@@ -474,4 +499,6 @@
             <xsl:apply-templates/>
         </xsl:element>
     </xsl:template>
+    
+    
 </xsl:stylesheet>
