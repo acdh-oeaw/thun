@@ -5,6 +5,8 @@
         <create qname="tei:term" type="xs:string"/>
         <create qname="tei:persName" type="xs:string"/>
         <create qname="tei:placeName" type="xs:string"/>
+        <create qname="tei:rs" type="xs:string"/>
+        <create qname="@ref" type="xs:string"/>
         <lucene>
             <text qname="tei:p"/>
         </lucene>

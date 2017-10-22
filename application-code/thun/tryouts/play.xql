@@ -5,11 +5,6 @@ import module namespace config="http://www.digital-archiv.at/ns/thun/config" at 
 import module namespace app="http://www.digital-archiv.at/ns/thun/templates" at "../modules/app.xql";
 declare namespace tei = "http://www.tei-c.org/ns/1.0";
 
-let $letters := <letter>{
-    for $doc in collection($app:editions)//tei:TEI
-        where contains(base-uri($doc), '-an-')
-        return
-            $doc
-    
-    }</letter>
-return "hansi"
+
+for $x in collection($app:editions)//tei:TEI//*[@ref="#agassiz-louis"]
+return count($x)

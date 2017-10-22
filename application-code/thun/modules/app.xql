@@ -8,6 +8,7 @@ import module namespace kwic = "http://exist-db.org/xquery/kwic" at "resource:or
 declare variable $exist:root external;
 
 declare variable  $app:editions := $config:app-root||'/data/editions';
+declare variable  $app:indices := $config:app-root||'/data/indices';
 declare variable $app:placeIndex := $config:app-root||'/data/indices/listplace.xml';
 declare variable $app:personIndex := $config:app-root||'/data/indices/listperson.xml';
 
@@ -100,6 +101,36 @@ let $name := functx:substring-after-last(document-uri(root($node)), '/')
 };
 
 (:~
+: returns the concatenated child nodes of a fetched placeName or persName element.
+:)
+declare function app:nameOfIndexEntry($node as node(), $model as map (*)){
+
+    let $searchkey := xs:string(request:get-parameter("searchkey", "No search key provided"))
+    let $withHash:= '#'||$searchkey
+    let $entities := collection($app:editions)//tei:TEI//*[@ref=$withHash]
+    let $terms := (collection($app:editions)//tei:TEI[.//tei:term[./text() eq substring-after($withHash, '#')]])
+    let $noOfterms := count(($entities, $terms))
+    let $hit := collection($app:indices)//*[@xml:id=$searchkey]
+    let $name := if (contains(node-name($hit), 'person')) 
+        then 
+            <a class="reference" data-type="listperson.xml" data-key="{$searchkey}">{normalize-space(string-join($hit/tei:persName[1], ', '))}</a>
+        else if (contains(node-name($hit), 'place'))
+        then
+            <a class="reference" data-type="listplace.xml" data-key="{$searchkey}">{normalize-space(string-join($hit/tei:placeName[1], ', '))}</a>
+        else
+            functx:capitalize-first($searchkey)
+    return
+    <h1 style="text-align:center;">
+        <small>
+            <span id="hitcount"/>{$noOfterms} Treffer für</small>
+        <br/>
+        <strong>
+            {$name}
+        </strong>
+    </h1>
+};
+
+(:~
  : href to document.
  :)
 declare function app:hrefToDoc($node as node()){
@@ -131,7 +162,7 @@ let $href := concat('show.html','?document=', app:getDocName($node))
 declare function app:indexSearch_hits($node as node(), $model as map(*),  $searchkey as xs:string?, $path as xs:string?){
 let $indexSerachKey := $searchkey
 let $searchkey:= '#'||$searchkey
-let $entities := collection($app:editions)//tei:TEI//*[@ref=$searchkey]
+let $entities := collection($app:editions)//tei:TEI[.//*/@ref=$searchkey]
 let $terms := collection($app:editions)//tei:TEI[.//tei:term[./text() eq substring-after($searchkey, '#')]] 
 for $title in ($entities, $terms)
 let $hits := if (count(root($title)//*[@ref=$searchkey]) = 0) then 1 else count(root($title)//*[@ref=$searchkey])
