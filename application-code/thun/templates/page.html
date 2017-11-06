@@ -99,6 +99,9 @@
                             <li>
                                 <a href="personperson-net.html">Person-Person-Net</a>
                             </li>
+                            <li>
+                                <a href="timeline.html">Timeline</a>
+                            </li>
                         </ul>
                     </li>
                     <li class="dropdown">
@@ -115,6 +118,9 @@
                             </li>
                             <li>
                                 <a href="../analyze/beacon.xql">GND Beacon</a>
+                            </li>
+                            <li>
+                                <a href="../analyze/timeline.xql">Timeline</a>
                             </li>
                         </ul>
                     </li>
@@ -185,8 +191,7 @@
                 $('.socialShare').shareButtons(options);
               });
             </script>
-            <script>
-            $(document).ready(function(){
+            <script>$(document).ready(function(){
             var trigger = $('a[data-type]');
             $(trigger).click(function(){
                 var dataType = $( this ).attr('data-type');
@@ -200,8 +205,7 @@
             $('#myModal').modal('show');
             });
             });
-            });
-        </script>
+            });</script>
             <script type="text/javascript">
             $(window).load(function(){
             $('#myModal').modal('show');
