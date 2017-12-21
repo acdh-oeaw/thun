@@ -40,6 +40,16 @@
             };
             var network = new vis.Network(container, data, options);
             
+            network.on("selectNode", function (params) {
+                if (params.nodes[0].startsWith('htt')) {
+                    var seeMore = params.nodes[0];
+                }
+                else {
+                var seeMore = "hits.html?searchkey="+params.nodes[0].slice(1);
+                }
+                window.open(seeMore);
+            });
+            
         });
         
     </script>
