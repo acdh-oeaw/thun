@@ -17,6 +17,15 @@
                             <th>Lng</th>
                         </tr>
                     </thead>
+                    <tfoot style="display:none">
+                        <tr>
+                            <th class="header"> Ortsname (normalisiert) </th>
+                            <th>Alternative Schreibweisen</th>
+                            <th>Normdata</th>
+                            <th>Lat</th>
+                            <th>Lng</th>
+                        </tr>
+                    </tfoot>
                     <tbody id="myTableBody" style="display:none">
                         <tr data-template="app:listPlace"/>
                     </tbody>
@@ -62,8 +71,24 @@
         }
         
         $(document).ready(function() {
-        $("#myTableBody").show();
+        $("#myTableBody").show({});
+        $('#myTable tfoot th').each( function () {
+        var title = $(this).text();
+        $(this).html( '<input type="text"/>' );
+        });
+        $("#myTable tfoot").show();
+        table.columns().every( function () {
+        var that = this;
+        
+        $( 'input', this.footer() ).on( 'keyup change', function () {
+        if ( that.search() !== this.value ) {
+        that
+        .search( this.value )
+        .draw();
+        }
         } );
+        } );
+        });
         
         table.on( 'search.dt', function () {
         //markers.removeLayer(startLayer);
