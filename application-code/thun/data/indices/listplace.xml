@@ -33,7 +33,7 @@
                     <place xml:id="place_d9c760d2f9fb1d5170c2517c7be64c75">
                         <placeName>Risran</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_c50f4f1960426cf2b75774029040aef9">
@@ -139,7 +139,7 @@
                     <place xml:id="place_7b31b3d2749acea549b70e3c292a8d7c">
                         <placeName>Bukovakora</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_3ff694e5c82611cda53341a9bae21735">
@@ -253,7 +253,7 @@
                     <place xml:id="place_d87ecf2812221b35c14efd3de8dd844d">
                         <placeName>Steger</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_4ac23ef3c3fd921d68e5827e59995c19">
@@ -307,7 +307,8 @@
                         <idno>http://sws.geonames.org/3201047/</idno>
                     </place>
                     <place xml:id="place_dadee1a710a261e5c8c1e886fa3b87d9">
-                        <placeName>Lombardei</placeName>
+                        <placeName type="pref">Lombardei</placeName>
+                        <placeName type="alt">Lombardie</placeName>
                         <location>
                             <geo decls="#LatLng">45.66667 6.5</geo>
                         </location>
@@ -348,7 +349,7 @@
                     <place xml:id="place_6f4402d6ad62cafca8ecfaa58cc6a2a0">
                         <placeName>Labor</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_8f96082621edf8a333416cae9740e8fe">
@@ -476,7 +477,7 @@
                         <placeName>Bonghás</placeName>
                         <placeName type="alt">Bonyhád</placeName>
                         <location>
-                            <geo decls="#LatLng">46.32145, 18.55193</geo>
+                            <geo decls="#LatLng">46.32145 18.55193</geo>
                         </location>
                     </place>
                     <place xml:id="place_b0dfe294f5f1448875d017a903b777ae">
@@ -587,7 +588,7 @@
                     <place xml:id="place_5d05770a7f64a4a2a6bdd7972a09f343">
                         <placeName>Kaczony</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_1a75b35314be8c19f22c5c5334d78c8f">
@@ -713,7 +714,8 @@
                         <idno>http://sws.geonames.org/678499/</idno>
                     </place>
                     <place xml:id="place_601df943a89d2ac73e0e43a5d37fc228">
-                        <placeName>Ungarn</placeName>
+                        <placeName type="pref">Ungarn</placeName>
+                        <placeName type="alt">Ungarns</placeName>
                         <location>
                             <geo decls="#LatLng">47.0 20.0</geo>
                         </location>
@@ -771,7 +773,7 @@
                     <place xml:id="place_7d9832776dd78bc9e7f5eeb6c168c92b">
                         <placeName>Waizna</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_48e23d043764ef6b2d7d7acd9ac09860">
@@ -1269,7 +1271,7 @@
                     <place xml:id="place_dd2e77b38f042b1e93b1aae8c230209e">
                         <placeName>Vecse</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_0d02faf704bd0c9d27ef4e5dc7980b02">
@@ -1290,7 +1292,7 @@
                         <placeName>huens</placeName>
                         <placeName type="alt">Hüns</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_c2c2d1830244756d67cdaa1b1b84353b">
@@ -1303,7 +1305,7 @@
                         <placeName>asch</placeName>
                         <placeName type="alt">Ascher</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_9ae0133b9256a87352801c2a37fdd149">
@@ -1357,19 +1359,19 @@
                     <place xml:id="place_7dc16ef12d80c384504f4f185172adab">
                         <placeName>Kis-Almas</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_411da68f378eda6ae9e1d4d6a3e4ec87">
                         <placeName>Samson</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_1286d21b26bd017b6eee85bd6947bb1b">
                         <placeName>Smeczna</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_ac634c014ec212922c6d2e0df2f7833f">
@@ -1490,13 +1492,13 @@
                     <place xml:id="place_b140e3c7620d2b69957198cf19feac25">
                         <placeName>Chwalbogowo</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_20fd1ec63df813feb0d7095f9a884d6d">
                         <placeName>Pojnik</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_3cf7586c237d681e808f91a22597874a">
@@ -1699,7 +1701,7 @@
                         <placeName>semptau</placeName>
                         <placeName type="alt">Semptauer</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_69fd6a9101d2280687aea76a4d7d3189">
@@ -1852,14 +1854,14 @@
                     <place xml:id="place_91f7b0064800d29ad8cd02f64845679d">
                         <placeName>Peruc</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_0a703b7d65a1a57903599f90cb45d869">
                         <placeName>Riegel</placeName>
                         <placeName type="alt"/>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_c382bca7364f2cede24b32dd15a1c6bd">
@@ -1888,7 +1890,7 @@
                     <place xml:id="place_16f90d6b340b3a83ead652eadec3945f">
                         <placeName>Kosmark</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_7c623c08220222bd9f50583382924179">
@@ -1928,13 +1930,13 @@
                         <placeName type="pref">Csurgo</placeName>
                         <placeName type="alt">Csurgo</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_4744fc042844c987d0121739bb70fff7">
                         <placeName>Tabor</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_af35ec026fddf9c8c4ecda002507bd0e">
@@ -1982,7 +1984,7 @@
                     <place xml:id="place_36ad7c77f8390477ad63932edeee38d7">
                         <placeName>Sambor</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_2a4be755c8b67c0c6cfe1a447c30b96f">
@@ -2179,7 +2181,7 @@
                     <place xml:id="place_62530da690f678833916ae0e5880bbaa">
                         <placeName>Zsigra</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_bc75499a4c6e541cfb7f0506a5cd7823">
@@ -2204,7 +2206,7 @@
                         <placeName>ossnitz</placeName>
                         <placeName type="alt">Oßnitz</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_adda55565233fbaf78dd3de460e8a5f0">
@@ -2219,7 +2221,7 @@
                     <place xml:id="place_17873f60321986b78504c3e9bc5be2ba">
                         <placeName>Riegel</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_3759c8464ee4c9a3bc2a2833ecb4a535">
@@ -2233,7 +2235,7 @@
                         <placeName>falkenstein</placeName>
                         <placeName type="alt">Falkensteiner</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_0b2950da137a57c3c4e35298274ef639">
@@ -2290,7 +2292,7 @@
                     <place xml:id="place_c95cce995ec7158d0a34817229dcc590">
                         <placeName>Czecze</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_e610955f9b1286d934a0a5447e5e5192">
@@ -2461,7 +2463,7 @@
                     <place xml:id="place_0f16f2953a5b6db73a3221b09bb9a30c">
                         <placeName>Belligam</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_7d1865c03241bd7a6616fa5587af6f8b">
@@ -2501,7 +2503,7 @@
                     <place xml:id="place_d4dd361519676af4280e8accc235d3ba">
                         <placeName>Egyháza</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_272d83bc2bcd299616aa2d70845a7dd7">
@@ -2514,14 +2516,14 @@
                     <place xml:id="place_cac911dbd5121527b9b33b925a770ecc">
                         <placeName>Hodrics</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_d2e3b68c09bf9b8d968f82a071af664f">
                         <placeName>csank</placeName>
                         <placeName type="alt">Csanker</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_664837cae9a0918a874bea7ecaff2b9d">
@@ -2529,7 +2531,7 @@
                         <placeName type="pref">cserekoez</placeName>
                         <placeName type="alt">Csereköz</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_bb1ec51841f0efe46207c3c72c7399a6">
@@ -2574,7 +2576,7 @@
                     <place xml:id="place_2ce3aa8333eff3c8f37bbe5ae1bbae56">
                         <placeName>Lattugna</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_7e075e3a2f9d18e970715aa1851dc619">
@@ -2620,13 +2622,13 @@
                     <place xml:id="place_4510d4e4afdfe71771afea781bc55d46">
                         <placeName>o. O.</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_9a5837b80620c345ca2e92b82abd3756">
                         <placeName>Tchorda</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_a85f31baa24303a7fce0658c22ddca85">
@@ -2655,13 +2657,13 @@
                     <place xml:id="place_6b62d8e38eff45aa22468bb25b59347a">
                         <placeName>Bela</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_9ef8d8da6bd02fc57e90b6cb7908e006">
                         <placeName>Wartenstein</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_4b2c7a5609677d91853c5aea95266f42">
@@ -2674,13 +2676,13 @@
                     <place xml:id="place_1298c1018eaa420942d33c303446bac4">
                         <placeName>Szentes</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_14967be2c6f0b9ed1da33491472d1080">
                         <placeName>Sainte-Menehould</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_e33dd70f39b25f77dfbff9da757f7f91">
@@ -2693,19 +2695,19 @@
                     <place xml:id="place_9011379bdff19d09ae233b1ad0f9f0bf">
                         <placeName>Jaworzno</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_b96fb1213c6f288ceb0d58df21166f6c">
                         <placeName>Kis-Berezne</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_b3798be58d0947c0e4f64ac8c2e089d4">
                         <placeName>Friedeck</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_b44e37a4ee49dda3f42793b593508e1e">
@@ -2734,7 +2736,7 @@
                     <place xml:id="place_1f4618e511a0092e1476716e8a76a84c">
                         <placeName>Godowa</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_4866028918ba5927e585c8bfac2454b4">
@@ -2755,13 +2757,13 @@
                         <placeName>allhau</placeName>
                         <placeName type="alt">Alhau</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_76103710e212e02de0ac9e0524ab4fbb">
                         <placeName>Suczawa</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_9263526b6b07a4e038fef1dd4b691224">
@@ -2797,7 +2799,7 @@
                     <place xml:id="place_e79f778b81d26bce192c8787475b10a3">
                         <placeName>Ervatien</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_f1caba4d97489c0279c46ba7763cdf61">
@@ -2817,6 +2819,7 @@
                         <placeName>Venedig</placeName>
                         <placeName type="pref">venedig</placeName>
                         <placeName type="alt">Venedigs</placeName>
+                        <placeName type="alt">Vendig</placeName>
                         <location>
                             <geo decls="#LatLng">45.43713 12.33265</geo>
                         </location>
@@ -2858,7 +2861,7 @@
                         <placeName type="pref">Ladány</placeName>
                         <placeName type="alt">Ladány</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_34757f828b3f00c518507eb75bc8f67d">
@@ -2881,7 +2884,7 @@
                     <place xml:id="place_23872f4a2fc4d4d0711708a60b077e00">
                         <placeName>Tiba</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_44bc041e25bf07eda0af2bee7bc67665">
@@ -2889,7 +2892,7 @@
                         <placeName type="alt">Szeniczer</placeName>
                         <placeName type="alt">Szenicz</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_70bde987c42c09240ef3e840fc66a461">
@@ -2931,7 +2934,7 @@
                     <place xml:id="place_a86a6088f4f3738d2b406f89edb5f880">
                         <placeName>Schilbesch</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_3667cbbafb66c626f2c1d56c1bd96d69">
@@ -3022,7 +3025,7 @@
                     <place xml:id="place_7aa4b04a15847f513325aa0ed7b6096b">
                         <placeName>Karstadt</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_a68f28642d7df7ac14a487ed8df5e2d5">
@@ -3205,6 +3208,7 @@
                         <placeName type="pref">Mohacs</placeName>
                         <placeName type="alt">Mohacs</placeName>
                         <placeName type="alt">Mohac</placeName>
+                        <placeName type="alt">Mohaier</placeName>
                         <location>
                             <geo decls="#LatLng">45.99306 18.68306</geo>
                         </location>
@@ -3327,7 +3331,7 @@
                     <place xml:id="place_779f9e7ebda7335db3bd8c038e45c8f3">
                         <placeName>Kaza</placeName>
                         <location>
-                            <geo decls="#LatLng">None None</geo>
+                            <geo decls="#LatLng"/>
                         </location>
                     </place>
                     <place xml:id="place_ac50ce07a4cbc7f0535c99cbce72b336">
@@ -4024,6 +4028,7 @@
                     <place xml:id="place_162b390989a8678640067963acb65109">
                         <placeName>Deutschland</placeName>
                         <placeName type="alt">Deutschlands</placeName>
+                        <placeName type="alt">Germany</placeName>
                         <location>
                             <geo decls="#LatLng">51.5 10.5</geo>
                         </location>
@@ -5614,6 +5619,7 @@
                         <placeName>Galicia</placeName>
                         <placeName type="pref">Galizien</placeName>
                         <placeName type="alt">Galicien</placeName>
+                        <placeName type="alt">Galizien</placeName>
                         <location>
                             <geo decls="#LatLng">49.5 23.0</geo>
                         </location>
@@ -7425,6 +7431,570 @@
                         <placeName type="pref">oesterreich</placeName>
                         <placeName type="alt">Vaterlande</placeName>
                         <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+                    <place xml:id="place_64f607906be7598a02d75dbc1e979662" type="placeName">
+                        <placeName type="pref">England</placeName>
+                        <location>
+                            <geo decls="#LatLng">52.16045 -0.703126</geo>
+                        </location>
+                        <idno>http://www.geonames.org/6269131</idno>
+                    </place>
+                    <place xml:id="place_867b530d8072e0e4d907aa82937d3e01" type="placeName">
+                        <placeName type="pref">Böhmen</placeName>
+                        <location>
+                            <geo decls="#LatLng">50 14.5</geo>
+                        </location>
+                        <idno>http://www.geonames.org/3078198</idno>
+                    </place>
+                    <place xml:id="place_1550e04c70115aa1a8f29f8e033676c4" type="placeName">
+                        <placeName type="pref">Krain</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.08333 15</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4032741-3</idno>
+                    </place>
+                    <place xml:id="place_fc9c3a7e02f8a9d5ed9033b572285243" type="placeName">
+                        <placeName type="pref">Mähren</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.5 17</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/64402-X</idno>
+                    </place>
+                    <place xml:id="place_733ca454560e5910f6c51f13e2637d1b" type="placeName">
+                        <placeName type="pref">Prager Erzbisthum</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.09 14.3975</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/1215715-6</idno>
+                    </place>
+                    <place xml:id="place_033ae4ddfe8d381fa5ee82ab6aae2833" type="placeName">
+                        <placeName type="pref">Schlesien</placeName>
+                        <placeName type="alt">Schlesiens</placeName>
+                        <location>
+                            <geo decls="#LatLng">51 18</geo>
+                        </location>
+                        <idno>http://www.geonames.org/3066138</idno>
+                    </place>
+                    <place xml:id="place_600b5215fe55383381a2d9aca7dec16c" type="placeName">
+                        <placeName type="pref">Östreichisch
+                            Schlesien</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.275 17.715278</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/63720-8</idno>
+                    </place>
+                    <place xml:id="place_c5d7f540c8bc591b128caf6c923206f8" type="placeName">
+                        <placeName type="pref">Polen</placeName>
+                        <placeName type="alt">Polens</placeName>
+                        <location>
+                            <geo decls="#LatLng">52.146944 19.378056</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4046496-9</idno>
+                    </place>
+                    <place xml:id="place_5c0704d47c0a58a0922e25b5b9b66b27" type="placeName">
+                        <placeName type="pref">Rußlands</placeName>
+                        <location>
+                            <geo decls="#LatLng">58.65 70.116667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4076899-5</idno>
+                    </place>
+                    <place xml:id="place_d8e4c34bc0c1f6c408444a98830108e7" type="placeName">
+                        <placeName type="pref">Schwedens</placeName>
+                        <placeName type="pref">Schweden</placeName>
+                        <location>
+                            <geo decls="#LatLng">61.316667 14.833333</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4077258-5</idno>
+                    </place>
+                    <place xml:id="place_b5e9e75db151e1fff33838003e5fa591" type="placeName">
+                        <placeName type="pref">Steiermark</placeName>
+                        <placeName type="alt">Stiria</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.25 15.333333</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4057092-7</idno>
+                    </place>
+                    <place xml:id="place_ef894a0a9ab2e171eb147ffd9e56cd4b" type="placeName">
+                        <placeName type="pref">Kärnthen</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.761944 13.818889</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4029175-3</idno>
+                    </place>
+                    <place xml:id="place_2b599b5935723d14cbf88a2b4bd8f5db" type="placeName">
+                        <placeName type="pref">Sachsen</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.049333 13.738139</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4051176-5</idno>
+                    </place>
+                    <place xml:id="place_9be53a31fb326931f764c2e6022332fe" type="placeName">
+                        <placeName type="pref">Meklenburg</placeName>
+                        <location>
+                            <geo decls="#LatLng">53.5 12</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4281380-3</idno>
+                    </place>
+                    <place xml:id="place_4427d8d4fd794c37826d3259a6a9ff53" type="placeName">
+                        <placeName type="pref">Preußen</placeName>
+                        <placeName type="alt">Preussen</placeName>
+                        <location>
+                            <geo decls="#LatLng">52.52437 13.41053</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4047194-9</idno>
+                    </place>
+                    <place xml:id="place_45e0bb0b029ff4919974c4717bb7a4b4" type="placeName">
+                        <placeName type="pref">Siebenbürgen</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.5 25</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4054835-1</idno>
+                    </place>
+                    <place xml:id="place_ef6d1c7654009cfc1b61dfc613ce92bb" type="placeName">
+                        <placeName type="pref">Bacs</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.388611 19.235278</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4080288-7</idno>
+                    </place>
+                    <place xml:id="place_8c9d10360ee50c84a5561a7f26a90c9d" type="placeName">
+                        <placeName type="pref">Albanien</placeName>
+                        <location>
+                            <geo decls="#LatLng">41.35 19.983333</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4001028-4</idno>
+                    </place>
+                    <place xml:id="place_001331e8b2651f9f78991538c3a7e594" type="placeName">
+                        <placeName type="pref">Dalmazien</placeName>
+                        <placeName type="alt">Dalmatien</placeName>
+                        <location>
+                            <geo decls="#LatLng">43.812761 16.218756</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4070200-5</idno>
+                    </place>
+                    <place xml:id="place_fde20c283b228b19e2990cf5175fa31e" type="placeName">
+                        <placeName type="pref">Istrien</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.15 13.916667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4027824-4</idno>
+                    </place>
+                    <place xml:id="place_46ef149805b1b370596a83886b1e010e" type="placeName">
+                        <placeName type="pref">Croazien</placeName>
+                        <placeName type="alt">Kroatien</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.25 15.466667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4073841-3</idno>
+                    </place>
+                    <place xml:id="place_15f10264a572e8ce0fe253bc889cdbf5" type="placeName">
+                        <placeName type="pref">Slavonien</placeName>
+                        <placeName type="alt">Slawonien</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.45 17.916667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4055289-5</idno>
+                    </place>
+                    <place xml:id="place_35d1161cc45f7c1d2b14ff99f1d259a3" type="placeName">
+                        <placeName type="pref">Serbisch-Banater
+                            Wojwodschaft</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.756111 21.229444</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/400449-8</idno>
+                    </place>
+                    <place xml:id="place_1e3ed35591fca7321b21f50db5ab75be" type="placeName">
+                        <placeName type="pref">Bukovina</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.3 25.93</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4008861-3</idno>
+                    </place>
+                    <place xml:id="place_57441f5036e3278df0a7cf7f317c5805" type="placeName">
+                        <placeName type="pref">Serbien</placeName>
+                        <location>
+                            <geo decls="#LatLng">43.95 20.933333</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4054598-2</idno>
+                    </place>
+                    <place xml:id="place_d168c568e0fe6d782a145f736e5ae891" type="placeName">
+                        <placeName type="pref">Macedonien</placeName>
+                        <location>
+                            <geo decls="#LatLng">41.65 21.716667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4114937-3</idno>
+                    </place>
+                    <place xml:id="place_21ad7a4e44b188c0f320e1a57e3a31d8" type="placeName">
+                        <placeName type="pref">Tessalien</placeName>
+                        <location>
+                            <geo decls="#LatLng">39.6 22.2</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4059850-0</idno>
+                    </place>
+                    <place xml:id="place_3c6301c3588230a5dffff3cc69066a19" type="placeName">
+                        <placeName type="pref">Epyrus</placeName>
+                        <location>
+                            <geo decls="#LatLng">39.6 20.8</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4091841-5</idno>
+                    </place>
+                    <place xml:id="place_4e92f9d2cdf0b8eb493ae3a19709d121" type="placeName">
+                        <placeName type="pref">Montenegro</placeName>
+                        <location>
+                            <geo decls="#LatLng">42.766667 19.216667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4040163-7</idno>
+                    </place>
+                    <place xml:id="place_9d63a8134213aea9965ddd12f9ea4f85" type="placeName">
+                        <placeName type="pref">Hercegovina</placeName>
+                        <location>
+                            <geo decls="#LatLng">43.476944 17.815</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4024643-7</idno>
+                    </place>
+                    <place xml:id="place_12442841ac3e0c248bcd5772786ee5a6" type="placeName">
+                        <placeName type="pref">Bosnien</placeName>
+                        <location>
+                            <geo decls="#LatLng">43.866667 18.416667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4007826-7</idno>
+                    </place>
+                    <place xml:id="place_e815d61c14bcd850f1fff27be8b7b8b5" type="placeName">
+                        <placeName type="pref">Moldau</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.5 27</geo>
+                        </location>
+                        <idno>http://www.geonames.org/672915</idno>
+                    </place>
+                    <place xml:id="place_ad4eef1d669a3dca02ec11dcee49a2c2" type="placeName">
+                        <placeName type="pref">Walachei</placeName>
+                        <location>
+                            <geo decls="#LatLng">44 25</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4118956-5</idno>
+                    </place>
+                    <place xml:id="place_de1c9797ad2a9a947cf0dfed1352216c" type="placeName">
+                        <placeName type="pref">Besarabien</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.833333 29</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4006036-6</idno>
+                    </place>
+                    <place xml:id="place_c1387a58ffc3b51cc4c7c6dc7c7b268b" type="placeName">
+                        <placeName type="pref">Irlands</placeName>
+                        <location>
+                            <geo decls="#LatLng">53.133333 -8.116667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4027667-3</idno>
+                    </place>
+                    <place xml:id="place_72ac53f7b58ea996114e510e7d524fb9" type="placeName">
+                        <placeName type="pref">Frankreichs</placeName>
+                        <placeName type="alt">Frankreich</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.316667 2.533333</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4018145-5</idno>
+                    </place>
+                    <place xml:id="place_fe6f496ff822ebb804cdda05f226dd55" type="placeName">
+                        <placeName type="pref">Land ob der
+                            Enns</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.166667 14</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4075560-5</idno>
+                    </place>
+                    <place xml:id="place_d3d8d213fb1fbd178f1c9c4aea35cbc6" type="placeName">
+                        <placeName type="pref">Tirol</placeName>
+                        <placeName type="alt">Tyrol</placeName>
+                        <placeName type="alt">Tirols</placeName>
+                        <location>
+                            <geo decls="#LatLng">47 11</geo>
+                        </location>
+                        <idno>http://www.geonames.org/2763587</idno>
+                    </place>
+                    <place xml:id="place_6c26d83c5622aa697d39a9ca0aaff52b" type="placeName">
+                        <placeName type="pref">Vorarlberg</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.25 9.91667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4063944-7</idno>
+                    </place>
+                    <place xml:id="place_f7197ed66a15667400bf934725fd7c3c" type="placeName">
+                        <placeName type="pref">Lombardie und
+                            Venedig</placeName>
+                        <placeName type="alt">Lombardo-Venetien</placeName>
+                        <placeName type="alt">lombardisch-venezianischen
+                            Königreichs</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.4375 12.335833</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4215793-6</idno>
+                    </place>
+                    <place xml:id="place_6fe90dd680c4a571ed89e631ef2d48ed" type="placeName">
+                        <placeName type="pref">Kroatien und
+                            Slavonien</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.8 15.966667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4073841-3</idno>
+                    </place>
+                    <place xml:id="place_19cb29505c294db5ca9190ea93447e98" type="placeName">
+                        <placeName type="pref">Italy</placeName>
+                        <placeName type="pref">Italien</placeName>
+                        <location>
+                            <geo decls="#LatLng">43 12</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4027833-5</idno>
+                    </place>
+                    <place xml:id="place_591cce2c0b9ced801c5b5929c9a46a61" type="placeName">
+                        <placeName type="pref">Sardinia</placeName>
+                        <location>
+                            <geo decls="#LatLng">40.027778 9.069444</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4051687-8</idno>
+                    </place>
+                    <place xml:id="place_55899fef2f0b2eba13eb1316b34b3694" type="placeName">
+                        <placeName type="pref">Europe</placeName>
+                        <placeName type="alt">Europa</placeName>
+                        <location>
+                            <geo decls="#LatLng">54.9 25.316667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4015701-5</idno>
+                    </place>
+                    <place xml:id="place_842e26ab3b54376d93e22b403f3f9728" type="placeName">
+                        <placeName type="pref">Ägypten</placeName>
+                        <location>
+                            <geo decls="#LatLng">26.033333 29.216667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4000556-2</idno>
+                    </place>
+                    <place xml:id="place_685f853b2ad1158b32f42cac11ebdc5c" type="placeName">
+                        <placeName type="pref">Karthago</placeName>
+                        <location>
+                            <geo decls="#LatLng">36.852778 10.323333</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4029802-4</idno>
+                    </place>
+                    <place xml:id="place_ae54a5c026f31ada088992587d92cb3a" type="placeName">
+                        <placeName type="pref">China</placeName>
+                        <location>
+                            <geo decls="#LatLng">35 105</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4009937-4</idno>
+                    </place>
+                    <place xml:id="place_9bbe5cef5dacc0b4666c2a1d1a8b5615" type="placeName">
+                        <placeName type="pref">Griechenland</placeName>
+                        <placeName type="alt">Grecia</placeName>
+                        <location>
+                            <geo decls="#LatLng">38.301111 23.741111</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4022047-3</idno>
+                    </place>
+                    <place xml:id="place_361e734b7e9d674efb5e3ac441e2c149" type="placeName">
+                        <placeName type="pref">Belgien</placeName>
+                        <placeName type="alt">Belgique</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.533333 4.766667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4005406-8</idno>
+                    </place>
+                    <place xml:id="place_67eb2b8d0aab60ec69666532ff9527c9" type="placeName">
+                        <placeName type="pref">Holland</placeName>
+                        <location>
+                            <geo decls="#LatLng">52.25 4.667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4133959-9</idno>
+                    </place>
+                    <place xml:id="place_6bcb959e4b85b7d7069b08e74ef4c71c" type="placeName">
+                        <placeName type="pref">Vereinigten Staaten</placeName>
+                        <location>
+                            <geo decls="#LatLng">40 -100</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4078704-7</idno>
+                    </place>
+                    <place xml:id="place_5ea5f4002712b1a9a4e292d3c83736b9" type="placeName">
+                        <placeName type="pref">Spanien</placeName>
+                        <location>
+                            <geo decls="#LatLng">39.926667 -1.801667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4055964-6</idno>
+                    </place>
+                    <place xml:id="place_b3a3a0c6d2cb7b5adc8d3568f73ad8b2" type="placeName">
+                        <placeName type="pref">Nassau</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.316667 9.5</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4203270-2</idno>
+                    </place>
+                    <place xml:id="place_b1955bcdd57fab7b269abbb05a7abd51" type="placeName">
+                        <placeName type="pref">Hessen</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.599501 9.024946</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4024729-6</idno>
+                    </place>
+                    <place xml:id="place_779affa2f4ecbe56ac1a0e7dfb15466c" type="placeName">
+                        <placeName type="pref">Küstenland</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.6333 13.8</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4398117-3</idno>
+                    </place>
+                    <place xml:id="place_8fc75da30120ebe11827173d482e2cc5" type="placeName">
+                        <placeName type="pref">Schwaben</placeName>
+                        <location>
+                            <geo decls="#LatLng">48 9</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4053668-3</idno>
+                    </place>
+                    <place xml:id="place_5afc76bc69955ce317651a3dc1dbb0d6" type="placeName">
+                        <placeName type="pref">Baviera</placeName>
+                        <placeName type="alt">Bayern</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.949444 11.395</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4005044-0</idno>
+                    </place>
+                    <place xml:id="place_0269dae753688f767813897dbe8be9f4" type="placeName">
+                        <placeName type="pref">Trentino</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.069444 11.121667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4078397-2</idno>
+                    </place>
+                    <place xml:id="place_2652fd27a2fa326711df5192229fd847" type="placeName">
+                        <placeName type="pref">Westfalen</placeName>
+                        <placeName type="alt">Westphalen</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.4295 7.39388</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4065781-4</idno>
+                    </place>
+                    <place xml:id="place_1ce9287a63e38534efb11b85339cbe59" type="placeName">
+                        <placeName type="pref">Amerikas</placeName>
+                        <location>
+                            <geo decls="#LatLng">19 -96</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4001670-5</idno>
+                    </place>
+                    <place xml:id="place_1469985450437a47ed4a7f33c0d1a621" type="placeName">
+                        <placeName type="pref">Piemont</placeName>
+                        <placeName type="alt">Piemonts</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.25 7.916667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4046039-3</idno>
+                    </place>
+                    <place xml:id="place_9a76f8fdad1b1f2e03f3c65fc399ffcf" type="placeName">
+                        <placeName type="pref">Gradiska</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.941944 13.620556</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4452906-5</idno>
+                    </place>
+                    <place xml:id="place_c1a76f350bcfa4d0b1f71fc95e9a882b" type="placeName">
+                        <placeName type="pref">Wojwodschaft
+                            Serbien</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.395 20.034</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4066811-3</idno>
+                    </place>
+                    <place xml:id="place_f40f64e9f62ad587f6de7a4913473552" type="placeName">
+                        <placeName type="pref">Königreiche Sizilien</placeName>
+                        <location>
+                            <geo decls="#LatLng">37.566667 14.266667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4126642-0</idno>
+                    </place>
+                    <place xml:id="place_4160709db9e1cdde5a7947ce6d71bb0d" type="placeName">
+                        <placeName type="pref">Schweitz</placeName>
+                        <placeName type="alt">Schweiz</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.8 8.233333</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4053881-3</idno>
+                    </place>
+                    <place xml:id="place_0e0c04ad68e11b3fe684cd74597a50cc" type="placeName">
+                        <placeName type="pref">Rheinland</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.118346 7.308953</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4049788-4</idno>
+                    </place>
+                    <place xml:id="place_ac757cc12a76e89de00bc6b80a4ab99d" type="placeName">
+                        <placeName type="pref">Birkenfeld</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.648611 7.166389</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4225506-5</idno>
+                    </place>
+                    <place xml:id="place_78e1f3c10b182cd4dcc9cae1bcf1c92f" type="placeName">
+                        <placeName type="pref">Lippe</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.93609 8.877296</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4099697-9</idno>
+                    </place>
+                    <place xml:id="place_dade05c3eff728442570d04fa82752ba" type="placeName">
+                        <placeName type="pref">Niederlanden</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.916667 5.566667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4042203-3</idno>
+                    </place>
+                    <place xml:id="place_6b3d1e0157967d3de7e3374d34e7835c" type="placeName">
+                        <placeName type="pref">Pongau</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.3 13.3</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4046758-2</idno>
+                    </place>
+                    <place xml:id="place_67da62b6c19004082b6c987162d5c7d3" type="placeName">
+                        <placeName type="pref">Szeckler [Szekler]
+                            Land</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.533333 24.566667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4118933-4</idno>
+                    </place>
+                    <place xml:id="place_ff10485af1c4544631f9e96f764ab5e7" type="placeName">
+                        <placeName type="pref">Dänemark</placeName>
+                        <location>
+                            <geo decls="#LatLng">55.783333 9.783333</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4010877-6</idno>
+                    </place>
+                    <place xml:id="place_e312cb5d08c9607b247a2bdd67f3eb88" type="placeName">
+                        <placeName type="pref">Syrmien</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.169528 19.288389</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4055149-0</idno>
+                    </place>
+                    <place xml:id="place_f0254af497146c6f553a310dbc35e84e" type="placeName">
+                        <placeName type="pref">Batschka</placeName>
+                        <location>
+                            <geo decls="#LatLng">46 19.333333</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4004683-7</idno>
+                    </place>
+                    <place xml:id="place_245e5013ef9688ee0c661318f483cad0" type="placeName">
+                        <placeName type="pref">Baranyavarer</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.794 18.613</geo>
+                        </location>
+                        <idno>http://www.geonames.org/3203558</idno>
+                    </place>
+                    <place xml:id="place_ccf81a321c9e3993635bb9ab6bad5186" type="placeName">
+                        <placeName type="pref">Sikloser</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.85499 18.29752</geo>
+                        </location>
+                        <idno>http://www.geonames.org/3045364</idno>
                     </place>
                 </listPlace>
             </div>

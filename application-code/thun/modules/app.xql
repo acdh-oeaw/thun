@@ -228,15 +228,20 @@ declare function app:listPers($node as node(), $model as map(*)) {
  :)
 declare function app:listPlace($node as node(), $model as map(*)) {
     let $hitHtml := "hits.html?searchkey="
-    for $place in doc(concat($config:app-root, '/data/indices/listplace.xml'))//tei:listPlace/tei:place
+    for $place in doc($app:placeIndex)//tei:listPlace/tei:place
+    let $lat := tokenize($place//tei:geo/text(), ' ')[1]
+    let $lng := tokenize($place//tei:geo/text(), ' ')[2]
+    let $idno := $place//tei:idno[1]
+    let $normdata := if($idno) then <a href="{$idno}">{$idno}</a> else '-'
         return
         <tr>
             <td>
-                <a href="{concat($hitHtml, data($place/@xml:id))}">{functx:capitalize-first($place/tei:placeName[1])}</a>
+                <a href="{concat($hitHtml, data($place/@xml:id))}">{$place/tei:placeName[1]}</a>
             </td>
             <td>{for $altName in $place//tei:placeName return <li>{$altName}</li>}</td>
-            <td>{$place//tei:idno}</td>
-            <td>{$place//tei:geo}</td>
+            <td>{$normdata}</td>
+            <td>{$lat}</td>
+            <td>{$lng}</td>
         </tr>
 };
 (:~
