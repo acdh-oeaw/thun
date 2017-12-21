@@ -151,9 +151,8 @@ let $href := concat('show.html','?document=', app:getDocName($node))
     order by $score descending
     return
     <tr>
-        <td>{$score}</td>
         <td class="KWIC">{kwic:summarize($hit, <config width="40" link="{$href}" />)}</td>
-        <td>{app:getDocName($hit)}</td>
+        <td><a href="{$href}">{app:getDocName($hit)}</a></td>
     </tr>
  else
     <div>Nothing to search for</div>
