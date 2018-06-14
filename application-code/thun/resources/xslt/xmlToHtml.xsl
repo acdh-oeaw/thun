@@ -189,7 +189,7 @@
             </div>
             <div class="panel-footer">
                 <p style="text-align:center;">
-                    <xsl:for-each select="tei:TEI/tei:text/tei:body//tei:note">
+                    <xsl:for-each select=".//tei:note">
                         <div class="footnotes">
                             <xsl:element name="a">
                                 <xsl:attribute name="name">
@@ -296,7 +296,7 @@
         <xsl:choose>
             <xsl:when test="@target[ends-with(., '.xml')]">
                 <xsl:element name="a">
-                    <xsl:attribute name="href">show.html?document=<xsl:value-of select="tokenize(./@target, '/')[4]"/>
+                    <xsl:attribute name="href">show.html?document=<xsl:value-of select="tokenize(./@target, '/')[last()]"/>
                     </xsl:attribute>
                     <xsl:value-of select="."/>
                 </xsl:element>
