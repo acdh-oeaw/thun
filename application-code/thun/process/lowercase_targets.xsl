@@ -6,11 +6,20 @@
         </xsl:copy>
     </xsl:template>
     <xsl:template match="tei:ref[@target]">
-        <tei:ref>
-            <xsl:attribute name="target">
-                <xsl:value-of select="lower-case(data(./@target))"/>
-            </xsl:attribute>
-            <xsl:value-of select="./text()"/>
-        </tei:ref>
+        <xsl:choose>
+            <xsl:when test="starts-with(data(./@target), '#')">
+                <xsl:copy>
+                    <xsl:apply-templates select="@*|node()"/>
+                </xsl:copy>
+            </xsl:when>
+            <xsl:otherwise>
+                <ref>
+                    <xsl:attribute name="target">
+                        <xsl:value-of select="translate(lower-case(data(./@target)), '_', '-')"/>
+                    </xsl:attribute>
+                    <xsl:value-of select="./text()"/>
+                </ref>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
 </xsl:stylesheet>
