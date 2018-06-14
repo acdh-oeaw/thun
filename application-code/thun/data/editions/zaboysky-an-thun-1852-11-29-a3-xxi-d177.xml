@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -48,9 +47,9 @@
                             hat.</p>
                     </msContents>
                     <physDesc>
-                        <p>Beilage: <ref target="#D177_1">Abschrift eines Schreibens vom
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d177_1">Abschrift eines Schreibens vom
                                 Bezirksstuhlrichteramt in Kirchdrauf an den Pfarrer von Zsigra.
-                                Vallendorf, 23. November 1852</ref>.</p>
+                                Vallendorf, 23. November 1852</tei:ref>.</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
@@ -128,8 +127,8 @@
                     Ortsgemeinde nach der Äußerung des Pfarrers großes Ärgernis nimmt.<lb/>Der
                     Pfarrer trug anfänglich Bedenken, den Worten des Pächters Glauben beizumessen.
                     Nachdem er aber auf seine diesfällige Beschwerde vor dem politischen
-                    Bezirksstuhlrichter die in der Abschrift anliegende Antwort erhielt<note xml:id="note_1">Die Antwort liegt dem Brief bei. Vgl. <ref target="#D177_1">Abschrift des Briefes vom Bezirksstuhlrichteramt in Kirchdrauf an den
-                            Pfarrer von Zsigra, 23. November 1852.</ref>
+                    Bezirksstuhlrichter die in der Abschrift anliegende Antwort erhielt<note xml:id="note_1">Die Antwort liegt dem Brief bei. Vgl. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d177_1">Abschrift des Briefes vom Bezirksstuhlrichteramt in Kirchdrauf an den
+                            Pfarrer von Zsigra, 23. November 1852.</tei:ref>
                     </note>, so säumte er nicht,
                     den Vorgang mit der Bitte mir anzuzeigen, geeignete Verhaltungsregel, die auch
                     für andere in ähnlichen Umständen befindliche Seelsorger als maßgebende Norm

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -65,20 +64,20 @@
                     </msContents>
                     <physDesc>
                         <p>Beilagen:<lb/>
-                            <ref target="#D514_1">Auszug aus einem Brief eines nicht
-                                genannten Verfassers vom 25. Mai 1859</ref>.<lb/>
-                            <ref target="#D514_2">Handschriftliche Notizen Thuns zu den ruthenischen
-                                Gymnasien.</ref>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d514_1">Auszug aus einem Brief eines nicht
+                                genannten Verfassers vom 25. Mai 1859</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d514_2">Handschriftliche Notizen Thuns zu den ruthenischen
+                                Gymnasien.</tei:ref>
                             <lb/>
-                            <ref target="#D514_3">Auszüge aus den Akten des
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d514_3">Auszüge aus den Akten des
                                 Ministeriums für Kultus und Unterricht, die ruthenische Orthographie
-                                betreffend. Mit Anmerkungen Thuns.<lb/>
-                            </ref>
-                            <ref target="#D514_4">Auszug aus den Verhandlungen der Beratungskommission zur
-                                ruthenischen Sprachenfrage.</ref>
+                                betreffend. Mit Anmerkungen Thuns.
+                            </tei:ref>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d514_4">Auszug aus den Verhandlungen der Beratungskommission zur
+                                ruthenischen Sprachenfrage.</tei:ref>
                             <lb/>
-                            <ref target="#D514_5">Ausführungen zur ruthenischen Sprachfrage eines nicht genannten
-                                Autors.</ref>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d514_5">Ausführungen zur ruthenischen Sprachfrage eines nicht genannten
+                                Autors.</tei:ref>
                         </p>
                         <p>Verweis auf A3 XXI D512.</p>
                     </physDesc>

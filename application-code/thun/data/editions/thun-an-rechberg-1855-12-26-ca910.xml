@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -106,7 +105,7 @@
                     Ansicht über die berührte Angelegenheit eröffnen zu wollen, indem ich bis dahin
                     mit jeder anderweitigen Einleitung zurückhalte.<lb/>Gleichzeitig erlaube ich mir
                     Euer Exzellenz zu ersuchen, das beiliegende Schreiben<note xml:id="note_1">
-                        <ref target="thun/thun-korrespondenz/Bundesarchiv_Koblenz/thun-an-linde_1855-12-26_CA1130.xml">Leo Thun an Justin Linde. Wien, 26. Dezember 1855.</ref> Der Brief
+                        <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/bundesarchiv_koblenz/thun-an-linde_1855-12-26_ca1130.xml">Leo Thun an Justin Linde. Wien, 26. Dezember 1855.</tei:ref> Der Brief
                         findet sich im Nachlass von Justin Linde im Bundesarchiv in Koblenz, Sign. N
                         1759, 51.</note>, in welchem ich die Gefälligkeit des <rs type="person" ref="#linde-justin">Staatsrathes Linde</rs> noch in einer anderen
                     Angelegenheit in Anspruch nehme, demselben zukommen zu lassen zu

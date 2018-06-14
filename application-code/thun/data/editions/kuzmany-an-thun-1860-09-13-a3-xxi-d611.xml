@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -60,17 +59,17 @@
                     </msContents>
                     <physDesc>
                         <p>Drei Beilagen:<lb/>
-                            <ref target="#D611_1">Abschrift eines Briefs von
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d611_1">Abschrift eines Briefs von
                                 Ludwig Benedek an Karl Kuzmány. Ofen, 6. September
-                                1860.</ref>
+                                1860.</tei:ref>
                             <lb/>
-                            <ref target="#D611_2">Abschrift des
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d611_2">Abschrift des
                                 Antwortschreibens von Karl Kuzmány an Ludwig Benedek. Neusohl, 13.
-                                September 1860.</ref>
+                                September 1860.</tei:ref>
                             <lb/>
-                            <ref target="#D611_3">Abschrift des
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d611_3">Abschrift des
                                 übersetzten Ernennungsschreibens für den Senior von Hont, Karl
-                                Martinek, von Karl Kuzmány. Neusohl, 15. August 1860.</ref>
+                                Martinek, von Karl Kuzmány. Neusohl, 15. August 1860.</tei:ref>
                         </p>
                     </physDesc>
                 </msDesc>
@@ -125,20 +124,20 @@
                     Excellenz dem Herrn <rs type="person" ref="#benedek-ludwig">FZM Ritter von
                         Benedek</rs> in <rs type="place" subtype="place" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofen</rs> erhoben, worauf ich von
                     demselben die unter I. beiliegende Zuschrift erhielt. <note xml:id="note_1">Vgl.
-                        die Beilage: <ref target="#D611_1">Abschrift eines Briefs von Ludwig Benedek
-                            an Karl Kuzmány. Ofen, 6. September 1860.</ref>
+                        die Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d611_1">Abschrift eines Briefs von Ludwig Benedek
+                            an Karl Kuzmány. Ofen, 6. September 1860.</tei:ref>
                     </note>Ich konnte nicht
                     umhin, da mir der Gegenstand sehr dringend erscheint, augenblicklich die unter
                     II. beifolgende Vorstellung an <rs type="person" ref="#benedek-ludwig">Seine Excellenz
                         den Herrn FZM</rs> zu richten <note xml:id="note_2">Vgl. die Beilage:
-                            <ref target="#D611_2">Abschrift des Antwortschreibens von Karl Kuzmány
-                            an Ludwig Benedek. Neusohl, 13. September 1860.</ref>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d611_2">Abschrift des Antwortschreibens von Karl Kuzmány
+                            an Ludwig Benedek. Neusohl, 13. September 1860.</tei:ref>
                     </note>, welcher
                     ich zu meiner größeren Legitimation auch noch die hier unter III. beigebogene
                     Ernennung sammt der summarischen Instruction des Pfarrers <rs type="person" ref="#martinek-karl">Martinek</rs> zum surrogirten Senior in einer
-                    Übersetzung beilegte.<note xml:id="note_3">Vgl. die Beilage: <ref target="#D611_3">Abschrift des übersetzten Ernennungsschreibens für den
+                    Übersetzung beilegte.<note xml:id="note_3">Vgl. die Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d611_3">Abschrift des übersetzten Ernennungsschreibens für den
                             Senior von Hont, Karl Martinek, von Karl Kuzmány. Neusohl, 15. August
-                            1860.</ref>
+                            1860.</tei:ref>
                     </note>
                     <lb/>Ich halte es für meine Pflicht diese selben
                     Schriftstücke in einer Abschrift auch Euerer Excellenz mit der unterthänigsten

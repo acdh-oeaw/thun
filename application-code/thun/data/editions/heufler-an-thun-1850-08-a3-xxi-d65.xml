@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -38,9 +37,9 @@
                                 Bischofwahl vornehmen zu können.</p>
                         </msContents>
                         <physDesc>
-                            <p>Beilage:<lb/>Gedruckter <ref target="#D65_1">Hirtenbrief von dem
-                                    griechisch-katholischen Generalvikar <rs type="person" ref="#alutan-constantin">Constantin Alutan</rs>,
-                                        <rs type="place" subtype="place" ref="#place_105e6ec60e9b42d19341ec8bb02ad4a9">Blasendorf</rs> [Blaj], <date when="1850-07-10">10. Juli 1850</date>.</ref>
+                            <p>Beilage:<lb/>Gedruckter <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d65_1">Hirtenbrief von dem
+                                    griechisch-katholischen Generalvikar ,
+                                         [Blaj], .</tei:ref>
                                 <lb/>Abschrift
                                 dieses Hirtenbriefs in deutscher Übersetzung.<note xml:id="note_1"/>Hier ist nur diese Übersetzung transkribiert.</p>
                             <p>Verweis auf A3 XXI D61.</p>
@@ -112,8 +111,8 @@
                     Rückkunft <rs type="person" ref="#bach-eduard">Bach’s</rs> Herr Regierungsrath
                         <rs type="person" ref="#weiss-von-starkenfels-theodor">von Weiß</rs> führen.
                     Unter diesen Voraussetzungen verlasse ich <rs type="place" subtype="place" ref="#place_6244fbb7edb0da394fbfed3800b4c36d">Hermannstadt</rs>
-                    mit Beruhigung. Einen neuen <ref target="#D65_1">Hirtenbrief <rs type="person" ref="#alutan-constantin">Alutans</rs>
-                    </ref> bin ich so frei
+                    mit Beruhigung. Einen neuen <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d65_1">Hirtenbrief 
+                    </tei:ref> bin ich so frei
                     beizulegen und geharre mit dem Ausdrucke der größten Verehrung</p>
                 <p>Euerer Exzellenz </p>
                 <p>ergebenster Diener</p>

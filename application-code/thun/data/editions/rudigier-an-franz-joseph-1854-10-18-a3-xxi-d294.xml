@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,9 +42,9 @@
                             oder nach Mondsee versetzt werden möchte.</p>
                     </msContents>
                     <physDesc>
-                        <p>Beilage: <ref target="#D294_1">Abschrift eines Briefes von A. Eschborn an
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d294_1">Abschrift eines Briefes von A. Eschborn an
                                 den Gärtner des Stiftes Engelszell. Engelszell, 29. September
-                                1854</ref>.</p>
+                                1854</tei:ref>.</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
@@ -102,8 +101,8 @@
                     in Linz eröffnete, große Freude erweckt haben wird, nachdem dieselbe durch die
                     Kunde über das fragliche Projekt sehr konsternirt gewesen war.<lb/>Die Gründe
                     für das wirkliche Vorhandensein dieses – beim ersten Anblick unwahrscheinlichen
-                    – Projektes sind:<lb/>1. das Schreiben des General-Mandatars <rs type="person" ref="#wrede-karl-theodor">des Fürsten Wrede</rs>, <rs type="person" ref="#eschborn-a">Dr. Eschborn</rs>, an den <rs type="person" ref="#strobl">fürstlichen Hofgärtner Strobl</rs> in Engelszell <note xml:id="note_1">Vgl. die <ref target="#D294_1">Beilage zu diesem
-                        Brief</ref>.</note>, das mir bei Gelegenheit der kanonischen Visitation zu
+                    – Projektes sind:<lb/>1. das Schreiben des General-Mandatars <rs type="person" ref="#wrede-karl-theodor">des Fürsten Wrede</rs>, <rs type="person" ref="#eschborn-a">Dr. Eschborn</rs>, an den <rs type="person" ref="#strobl">fürstlichen Hofgärtner Strobl</rs> in Engelszell <note xml:id="note_1">Vgl. die <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d294_1">Beilage zu diesem
+                        Brief</tei:ref>.</note>, das mir bei Gelegenheit der kanonischen Visitation zu
                         <rs type="place" subtype="place" ref="#place_f89f5a18425bb95587ff97109a4b976e">Engelszell</rs> am 30. vorigen und 1. dieses Monates in
                     Originali gezeigt wurde, und auch in diesem Augenblicke in Originali vor mir
                     liegt.<lb/>Ich unterbreite gehorsamst davon eine Abschrift.<lb/>2. dem hiesigen

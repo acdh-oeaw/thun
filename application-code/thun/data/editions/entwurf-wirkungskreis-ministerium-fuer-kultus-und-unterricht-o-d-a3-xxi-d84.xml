@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -38,12 +37,12 @@
                             Transkription nach den entsprechenden Abschnitten kursiv
                             wiedergegeben.</p>
                         <p>Lithographie mit eigenhändigen Korrekturen und Anmerkungen von Thun.</p>
-                        <p>Beilagen: <ref target="#D84_1">Ein zweiter Entwurf zum besonderen
+                        <p>Beilagen: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d84_1">Ein zweiter Entwurf zum besonderen
                                 Wirkungskreis des Ministeriums für Kultus und Unterricht im Bezug
-                                auf Fragen des katholischen Kultus</ref>
+                                auf Fragen des katholischen Kultus</tei:ref>
                             <lb/>
-                            <ref target="#D84_2">Anmerkungen und Überlegungen von fremder Hand zum
-                            Entwurf.</ref>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d84_2">Anmerkungen und Überlegungen von fremder Hand zum
+                            Entwurf.</tei:ref>
                         </p>
                     </physDesc>
                 </msDesc>

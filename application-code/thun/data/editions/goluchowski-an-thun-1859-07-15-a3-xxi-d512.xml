@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,8 +42,8 @@
                             gewonnen.</p>
                     </msContents>
                     <physDesc>
-                        <p>Beilage: <ref target="#D512_1">Abschrift eines Briefes von Leo Thun an
-                                Agenor Goluchowski. Wien, 23. Mai 1859.</ref>
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d512_1">Abschrift eines Briefes von Leo Thun an
+                                Agenor Goluchowski. Wien, 23. Mai 1859.</tei:ref>
                         </p>
                     </physDesc>
                 </msDesc>
@@ -80,8 +79,8 @@
                 <p>Verehrtester Freund!</p>
                 <p>Ich muß aufrichtig gestehen, daß die in Ihrem Schreiben vom 23. vorigen May
                         1859<note xml:id="note_1">
-                        <ref target="#D512_1">Vgl. Abschrift eines Briefes
-                            von Leo Thun an Agenor Goluchowski. Wien, 23. Mai 1859.</ref>
+                        <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d512_1">Vgl. Abschrift eines Briefes
+                            von Leo Thun an Agenor Goluchowski. Wien, 23. Mai 1859.</tei:ref>
                     </note>
                     ausgesprochenen Besorgnisse in mir den Gedanken wach gerufen haben, es schwebe
                     Ihnen die Befürchtung vor, daß ich mit unüberlegtem Eifer in die Frage wegen

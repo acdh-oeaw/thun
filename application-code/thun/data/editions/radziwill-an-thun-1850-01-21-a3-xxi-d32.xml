@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -50,10 +49,10 @@
                         </msContents>
                         <physDesc>
                             <p>
-                                <ref target="#D32_1">Beilage: <rs type="person" ref="#cegielski-hipolit">Hipolit Cegielski</rs> an
-                                    Unbekannt. <rs type="place" subtype="place" ref="#place_d55199956d521bfae14b87d631fe8ae8">Posen</rs>,
+                                <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d32_1">Beilage:  an
+                                    Unbekannt. ,
                                     5. Januar 1850
-                                </ref>.</p>
+                                </tei:ref>.</p>
                         </physDesc>
                     </msDesc>
                 </p>

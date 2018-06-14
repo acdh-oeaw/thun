@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -38,9 +37,9 @@
                     </msContents>
                     <physDesc>
                         <p>Mit eigenhändigen Anmerkungen Thuns.</p>
-                        <p>Beilagen: <ref target="#D541_1">Eigenhändiger Entwurf Leo Thuns zu den
+                        <p>Beilagen: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d541_1">Eigenhändiger Entwurf Leo Thuns zu den
                                 Schul- und Unterrichtsangelegenheiten des
-                            Patents.</ref>
+                            Patents.</tei:ref>
                             <lb/>Eigenhändiges Verzeichnis Leo Thuns zu den einzelnen
                             Paragraphen des Entwurfs. Das Verzeichnis ist hier nicht
                             transkribiert.</p>

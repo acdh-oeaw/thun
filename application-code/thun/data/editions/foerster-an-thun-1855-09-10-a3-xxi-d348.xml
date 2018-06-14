@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -48,14 +47,14 @@
                     <physDesc>
                         <p>Der Brief ist gemeinsam mit weiteren Briefen, die dieselbe Thematik
                             betreffen, abgelegt:<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/foerster-an-thun_1855_09-15_A3-XXI-D348.xml">Heinrich Förster an Leo Thun. Schloss Johannesberg, 10. September
-                                1855</ref>.<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/wilhelm-an-thun_1855-09-15_A3-XXI-D348a.xml">Andreas Wilhelm an Leo Thun. Krakau, 15. September
-                                1855</ref>.<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/foerster-an-thun_1855-10-11_A3-XXI-D348c.xml">Heinrich Förster an Leo Thun. Schloss Johannesberg, 11. Oktober
-                                1855</ref>.<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/foerster-an-thun_1855-11-04_A3-XXI-D348d.xml">Heinrich Förster an Leo Thun. Breslau, 4. November 1855</ref>.</p>
-                        <p>Beilage: <ref target="#D348b_1">Anonymes Schreiben</ref> aus Teschen, in
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/foerster-an-thun_1855_09-15_a3-xxi-d348.xml">Heinrich Förster an Leo Thun. Schloss Johannesberg, 10. September
+                                1855</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/wilhelm-an-thun_1855-09-15_a3-xxi-d348a.xml">Andreas Wilhelm an Leo Thun. Krakau, 15. September
+                                1855</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/foerster-an-thun_1855-10-11_a3-xxi-d348c.xml">Heinrich Förster an Leo Thun. Schloss Johannesberg, 11. Oktober
+                                1855</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/foerster-an-thun_1855-11-04_a3-xxi-d348d.xml">Heinrich Förster an Leo Thun. Breslau, 4. November 1855</tei:ref>.</p>
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d348b_1">Anonymes Schreiben</tei:ref> aus Teschen, in
                             dem die Situation am dortigen Gymnasium geschildert wird.</p>
                     </physDesc>
                 </msDesc>
@@ -87,10 +86,10 @@
                     <term>Schulräte</term>
                 </index>
                 <p>Hochverehrter Herr und Freund!</p>
-                <p>Ich stelle das <ref target="#D348b_1">anonyme Schreiben</ref> über die
+                <p>Ich stelle das <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d348b_1">anonyme Schreiben</tei:ref> über die
                     Verhältnisse in <rs type="place" subtype="place" ref="#place_a711b0a299433d08b5b1118edfa2808a">Teschen</rs> zurück und muß leider den Inhalt
                     desselben bestätigen; wie ich dies auch <rs type="person" ref="#thun-hohenstein-leo">Seiner Excellenz</rs>
-                    <ref target="thun/thun-korrespondenz/tetschen/wilhelm-an-thun_1855-09-15_A3-XXI-D348a.xml">heute berichtet</ref>
+                    <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/wilhelm-an-thun_1855-09-15_a3-xxi-d348a.xml">heute berichtet</tei:ref>
                     <note xml:id="note_1">Vgl. Andreas Wilhelm an Leo
                         Thun, 15. September 1855.</note>habe. Was ich jedoch in dem Schreiben an
                         <rs type="person" ref="#thun-hohenstein-leo">Seine Excellenz</rs> zu sagen mich

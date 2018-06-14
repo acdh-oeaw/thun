@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -65,18 +64,18 @@
                             bereit.</p>
                     </msContents>
                     <physDesc>
-                        <p>Dem Brief sind beigelegt:<lb/>Abschrift eines Schreibens des <ref target="#D373_1">Direktors des k.k. allgemeinen Krankenhauses in
+                        <p>Dem Brief sind beigelegt:<lb/>Abschrift eines Schreibens des <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d373_1">Direktors des k.k. allgemeinen Krankenhauses in
                                 Prag, Christian Friedrich Biermann, und der Primarärzte an die k.k.
-                                Statthalterei. Prag, 20. Februar 1856</ref>.<lb/>Abschrift eines
-                            Schreibens des <ref target="#D373_2">k.k. Statthaltereipräsidiums an
-                                k.k. Krankenhausdirektion. Prag, 2. März 1856</ref>.</p>
+                                Statthalterei. Prag, 20. Februar 1856</tei:ref>.<lb/>Abschrift eines
+                            Schreibens des <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d373_2">k.k. Statthaltereipräsidiums an
+                                k.k. Krankenhausdirektion. Prag, 2. März 1856</tei:ref>.</p>
                         <p>Außerdem sind unter derselben Signatur drei weitere Briefe von Jaksch an
                             Thun abgelegt:<note xml:id="note_1">Diese Briefe wurden einzeln
                                 aufgenommen.</note>
                             <lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/jaksch-an-thun_1856-04-11_A3-XXI-D373a.xml">Anton Jaksch an Leo Thun. Prag, 11. April 1856</ref>.<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/jaksch-an-thun_1856-04-18_A3-XXI-D373b.xml">Anton Jaksch an Leo Thun. Prag, 18. April 1856</ref>.<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/jaksch-an-thun_1856-05-06_A3-XXI-D373c.xml">Anton Jaksch an Leo Thun. Prag, 6. Mai 1856</ref>.</p>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/jaksch-an-thun_1856-04-11_a3-xxi-d373a.xml">Anton Jaksch an Leo Thun. Prag, 11. April 1856</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/jaksch-an-thun_1856-04-18_a3-xxi-d373b.xml">Anton Jaksch an Leo Thun. Prag, 18. April 1856</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/jaksch-an-thun_1856-05-06_a3-xxi-d373c.xml">Anton Jaksch an Leo Thun. Prag, 6. Mai 1856</tei:ref>.</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
@@ -393,8 +392,8 @@
                 </div>
                 <div type="enclosure" xml:id="D373_2">
                     <p>K.k. Krankenhausdirektion!</p>
-                    <p>Ich muß bedauern, dem neuerlichen <ref target="#D373_1">Ansuchen vom 20.
-                            vorigen Monats</ref> wegen Modifizirung des bei der Übergabe der
+                    <p>Ich muß bedauern, dem neuerlichen <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d373_1">Ansuchen vom 20.
+                            vorigen Monats</tei:ref> wegen Modifizirung des bei der Übergabe der
                         Wartpflege und Bewirthschaftung des allgemeinen Krankenhauses an die
                         Kongregazion der barmherzigen Schwestern durchzuführenden Princips der
                         Trennung der Kranken nach dem Geschlechte, dann wegen Belassung der

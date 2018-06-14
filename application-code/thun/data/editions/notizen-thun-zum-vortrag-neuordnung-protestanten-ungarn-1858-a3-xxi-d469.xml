@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -29,7 +28,7 @@
                     <physDesc>
                         <p>Eigenhändige Notizen von Leo Thun.</p>
                         <p>Verweis auf A3 XXI D482.</p>
-                        <p>Beilage: <ref target="#D469_1">Entwurf des Protestantenpatents.</ref>
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d469_1">Entwurf des Protestantenpatents.</tei:ref>
                         </p>
                     </physDesc>
                 </msDesc>

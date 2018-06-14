@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -56,9 +55,9 @@
                                 bitte, diese Information an Leo Thun weiterzugeben.</p>
                         </msContents>
                         <physDesc>
-                            <p>Beilage: <ref target="#D7_1">Undatierte Notiz von Josefine Thun mit
+                            <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d7_1">Undatierte Notiz von Josefine Thun mit
                                     einer Abschrift aus einem Brief des Theologen Veith aus
-                                    Räckelwitz.</ref>
+                                    Räckelwitz.</tei:ref>
                             </p>
                         </physDesc>
                     </msDesc>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -52,12 +51,11 @@
                             der Versammlungs- und Religionsfreiheit.</p>
                     </msContents>
                     <physDesc>
-                        <p>Beilage: <ref target="#D57_1">Eine Abschrift der Wünsche und Bitten der
-                                Christen aus Bosnien und der Herzegowina an den Sultan <rs type="person" ref="#abuelmecid-I">Abdülmecid
-                                    I.</rs>
-                                <lb/>
-                                <rs type="place" subtype="region" ref="#place_12442841ac3e0c248bcd5772786ee5a6">Bosnien</rs>, <date when="1850-04-01">1. April 1850</date>
-                            </ref>
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d57_1">Eine Abschrift der Wünsche und Bitten der
+                                Christen aus Bosnien und der Herzegowina an den Sultan 
+                                
+                                , 
+                            </tei:ref>
                         </p>
                     </physDesc>
                 </msDesc>

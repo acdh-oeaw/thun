@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -44,23 +43,23 @@
                     <physDesc>
                         <p>Drei Stücke:</p>
                         <p>
-                            <ref target="#D107_1">Entwurf des Reichsratsstatuts nach der Auffassung
-                                der mehreren Stimmen der Kommission, 14. Januar 1851.</ref>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d107_1">Entwurf des Reichsratsstatuts nach der Auffassung
+                                der mehreren Stimmen der Kommission, 14. Januar 1851.</tei:ref>
                             <lb/>
-                            <ref target="#D107_2">Entwurf des Reichsratsstatuts nach den gefassten
-                                Beschlüssen des Ministerrats, 10. und 11. Februar 1851.</ref>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d107_2">Entwurf des Reichsratsstatuts nach den gefassten
+                                Beschlüssen des Ministerrats, 10. und 11. Februar 1851.</tei:ref>
                             <lb/>Der Entwurf ist halbbrüchig verfasst, wobei dem Entwurf des
                             Ministerrats obiger Entwurf des Reichsratsstatuts nach der Auffassung
                             der mehreren Stimmen der Kommission, 14. Januar 1851 gegenübergestellt
                             ist. Der Entwurf des Ministerrats ist im Dokument mit B (rechte Spalte),
                             der Entwurf der eingesetzten Kommission mit A (linke Spalte)
                             überschrieben. Die Transkription von letzterer wird hier kursiv wiedergegeben.<lb/>
-                            <ref target="#D107_3">Entwurf des Reichsratsstatutes nach der zwischen
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d107_3">Entwurf des Reichsratsstatutes nach der zwischen
                                 den Präsidenten des Ministerrats und des Reichsrats getroffenen
-                                Vereinbarung, 28. Februar 1851.</ref>
+                                Vereinbarung, 28. Februar 1851.</tei:ref>
                             <note xml:id="note_2">Mit geringfügigen Änderungen ist dies die Version,
                                 die schließlich durch das Kaiserliche Patent vom 13. April 1851 in
-                                Geltung getreten ist. Vgl. <ref target="http://alex.onb.ac.at/cgi-content/alex?aid=rgb&amp;datum=1851&amp;page=413&amp;size=45">RGBl 92/1851</ref>.</note>
+                                Geltung getreten ist. Vgl. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="http://alex.onb.ac.at/cgi-content/alex?aid=rgb&amp;datum=1851&amp;page=413&amp;size=45">RGBl 92/1851</tei:ref>.</note>
                         </p>
                         <p>Mit eigenhändigen Anmerkungen Thuns.</p>
                     </physDesc>
@@ -287,9 +286,9 @@
                         <hi rend="ul">A. nach dem Vorschlage der zu dessen Entwerfung eingesetzt
                             gewesenen Commission</hi>
                         <note xml:id="note_14">Dieser Abschnitt – die linke Spalte des Bogens –
-                            entspricht dem <ref target="#D107_1">Entwurf des Reichsratsstatuts nach
+                            entspricht dem <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d107_1">Entwurf des Reichsratsstatuts nach
                                 der Auffassung der mehreren Stimmen der Kommission, 14. Januar
-                                1851</ref> ohne die Korrekturen Thuns. Dabei werden jeweils die
+                                1851</tei:ref> ohne die Korrekturen Thuns. Dabei werden jeweils die
                             Paragraphen des einen Entwurfs denen des anderen gegenübergestellt. Der
                             Entwurf des Reichsratsstatuts nach der Auffassung der mehreren Stimmen
                             der Kommission, 14. Januar 1851 erfolgt hier in Kursiv.</note>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -100,7 +99,7 @@
                         Drucke.<note xml:id="note_1">Gemeint ist der Hirtenbrief von Rauscher vom 6.
                         Mai 1850, in dem er zu den Aprilverordnungen und der Neuregelung der Rechte
                         der Kirche in Österreich Stellung nimmt. Der Hirtenbrief ist abgedruckt in:
-                            <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18500514&amp;seite=3&amp;zoom=33">Wiener Zeitung, 14. Mai 1850, S. 1493–1495</ref>.</note> Da meine
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18500514&amp;seite=3&amp;zoom=33">Wiener Zeitung, 14. Mai 1850, S. 1493–1495</tei:ref>.</note> Da meine
                     Geistlichkeit mit den Anordnungen vollkommen zufrieden ist, so würde es auf sie
                     einen schlimmen Eindruck machen, wenn ich von der Voraussetzung ausginge, als
                     könnte es bei Geistlichen einer Rechtfertigung der Veränderungen bedürfen; doch

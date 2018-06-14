@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -10,8 +9,8 @@
                 </title>
             </titleStmt>
             <publicationStmt>
-                <p>Teilweise abgedruckt in: <ref target="http://alex.onb.ac.at/cgi-content/alex?aid=rgb&amp;datum=18540004&amp;seite=00000949">RGBl 237/1854</ref>.<lb/>Die Beilage ist, geringfügig verändert, unter
-                    anderem abgedruckt in: <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=dsb&amp;datum=18540930&amp;seite=2&amp;zoom=33">Siebenbürger Bote vom 30. September 1854, S. 778</ref>; oder in <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=dea&amp;datum=18540930&amp;seite=2&amp;zoom=33">Deutsche Allgemeine Zeitung vom 30. September 1854, S. 1928</ref>.</p>
+                <p>Teilweise abgedruckt in: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="http://alex.onb.ac.at/cgi-content/alex?aid=rgb&amp;datum=18540004&amp;seite=00000949">RGBl 237/1854</tei:ref>.<lb/>Die Beilage ist, geringfügig verändert, unter
+                    anderem abgedruckt in: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="http://anno.onb.ac.at/cgi-content/anno?aid=dsb&amp;datum=18540930&amp;seite=2&amp;zoom=33">Siebenbürger Bote vom 30. September 1854, S. 778</tei:ref>; oder in <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="http://anno.onb.ac.at/cgi-content/anno?aid=dea&amp;datum=18540930&amp;seite=2&amp;zoom=33">Deutsche Allgemeine Zeitung vom 30. September 1854, S. 1928</tei:ref>.</p>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -47,8 +46,8 @@
                             Ergänzung der bisherigen Reformschritte bezeichnet.</p>
                     </msContents>
                     <physDesc>
-                        <p>Beilage: <ref target="#D282_1">Eigenhändiges Konzept von Leo Thun für
-                                einen Zeitungskommentar</ref>.</p>
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d282_1">Eigenhändiges Konzept von Leo Thun für
+                                einen Zeitungskommentar</tei:ref>.</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>

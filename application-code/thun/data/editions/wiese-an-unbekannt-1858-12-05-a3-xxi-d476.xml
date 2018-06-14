@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -37,8 +36,8 @@
                     <physDesc>
                         <p>Bei dem Brief handelt es sich um einen Auszug aus einem Schreiben Ludwig
                             Wieses an einen unbekannten Adressaten.</p>
-                        <p>Beilage: <ref target="#D476_1">Auszug aus der Zeitschrift für
-                                Gymnasialwesen (1858), S. 790</ref>
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d476_1">Auszug aus der Zeitschrift für
+                                Gymnasialwesen (1858), S. 790</tei:ref>
                         </p>
                     </physDesc>
                 </msDesc>

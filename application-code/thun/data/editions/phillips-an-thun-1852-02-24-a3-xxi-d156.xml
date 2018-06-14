@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -36,9 +35,9 @@
                     </msContents>
                     <physDesc>
                         <p>Unter dieser Signatur finden sich noch zwei weitere Briefe:<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/hartmann-an-thun_1852-04-01_A3-XXI-D156a.xml">Franz Hartmann an Leo Thun. Linz, 1. April 1852.</ref>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/hartmann-an-thun_1852-04-01_a3-xxi-d156a.xml">Franz Hartmann an Leo Thun. Linz, 1. April 1852.</tei:ref>
                             <lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/hartmann-an-thun_1852-04-27_A3-XXI-D156b.xml">Franz Hartmann an Leo Thun. Linz, 27. April 1852.</ref>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/hartmann-an-thun_1852-04-27_a3-xxi-d156b.xml">Franz Hartmann an Leo Thun. Linz, 27. April 1852.</tei:ref>
                             <note xml:id="note_1">Die Briefe wurden hier eigens
                             aufgenommen.</note>
                         </p>
@@ -81,15 +80,15 @@
                     schriftstellerischen Leistungen (Urgeschichte, Lateinische Grammatik), und zwar
                     dahin: „<rs type="person" ref="#mutzl-sebastian">Mutzl</rs> halte ich für geeignet,
                     viel geeigneter als <rs type="person" ref="#fertig-michael">Fertig</rs>
-                    <note xml:id="note_2">Vgl. dazu den Brief <ref target="thun/thun-korrespondenz/tetschen/phillips-an-thun_1852-01-24_A3-XXI-D154.xml">A3 XXI D154</ref>.</note>; seine Gesinnung ist gut; wenn er einen Ruf
+                    <note xml:id="note_2">Vgl. dazu den Brief <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/phillips-an-thun_1852-01-24_a3-xxi-d154.xml">A3 XXI D154</tei:ref>.</note>; seine Gesinnung ist gut; wenn er einen Ruf
                     erhält und ihn annimmt, so wird er ihm Ehre machen.“<lb/>Ausführlichere
                     Mittheilungen macht mir ein Professor aus <rs type="place" subtype="place" ref="#place_5cf6a77064d5d368e7bd500399dacfd2">Eichstätt</rs>: „Über Herrn <rs type="person" ref="#mutzl-sebastian">Seb[astian] Mutzl</rs> bin ich im Stande Ihnen die gewünschte
                     Auskunft zu geben. Im Jahre 1845 kam er auf den Vorschlag des <rs type="person" ref="#reisach-karl-august">Erzbischofs von Reisach</rs> von
                         <rs type="place" subtype="place" ref="#place_9ae0133b9256a87352801c2a37fdd149">Landshut</rs> nach <rs type="place" subtype="place" ref="#place_5cf6a77064d5d368e7bd500399dacfd2">Eichstätt</rs> als Rector der hiesigen Studienanstalt. Weil ich
                     früher im Auftrage des Ordinariates <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs> sein Buch über die Urgeschichte<note xml:id="note_3">
-                        <ref target="http://books.google.at/books?id=H39AAAAAcAAJ&amp;printsec=frontcover&amp;hl=de#v=onepage&amp;q&amp;f=false">Sebastian Mutzl, Urgeschichte der Erde und des Menschengeschlechtes
+                        <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="http://books.google.at/books?id=h39aaaaacaaj&amp;printsec=frontcover&amp;hl=de#v=onepage&amp;q&amp;f=false">Sebastian Mutzl, Urgeschichte der Erde und des Menschengeschlechtes
                             nach der Mosaischen Urkunde und den Ergebnissen der Wissenschaften,
-                            Landshut 1843</ref>.</note> censirt[?] hatte, so wurde ich mit ihm
+                            Landshut 1843</tei:ref>.</note> censirt[?] hatte, so wurde ich mit ihm
                     dahier bald persönlich bekannt und pflege mit ihm seither häufigen Umgang. Seine
                     Gesinnung ist katholisch, nicht windwendig, mit ihm herangewachsen, beständig.
                     Er hat nicht nur ein ausgebreitetes Wissen, sondern er versteht es auch dasselbe

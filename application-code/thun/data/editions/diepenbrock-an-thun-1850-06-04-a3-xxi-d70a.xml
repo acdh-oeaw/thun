@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,10 +42,10 @@
                     <physDesc>
                         <p>Unter dieser Signatur sind noch zwei weitere Briefe Diepenbrocks an Thun
                                 abgelegt:<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/diepenbrock-an-thun_1850-05-28_A3-XXI-D70.xml">Melchior Diepenbrock an Leo Thun. Breslau, 28. Mai
-                                1850</ref>.<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/diepenbrock-an-thun_1850-08-27_A3-XXI-D70b.xml">Melchior Diepenbrock an Leo Thun. Johannesberg bei Jauernig, 27.
-                                August 1850</ref>.</p>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/diepenbrock-an-thun_1850-05-28_a3-xxi-d70.xml">Melchior Diepenbrock an Leo Thun. Breslau, 28. Mai
+                                1850</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/diepenbrock-an-thun_1850-08-27_a3-xxi-d70b.xml">Melchior Diepenbrock an Leo Thun. Johannesberg bei Jauernig, 27.
+                                August 1850</tei:ref>.</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>

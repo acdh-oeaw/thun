@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -11,7 +10,7 @@
                     <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1855-01-05">5.
                         Januar 1855</date>
                     <note xml:id="note_1">Das Datum auf dem Brief lautet auf
-                        5. Januar 1854, die <ref target="thun/thun-korrespondenz/tetschen/juelg-an-thun_1855-01-08_A3-XXI-D323.xml">Antwort Bernhard Jülgs von 8. Januar 1855</ref> legt aber nahe, dass
+                        5. Januar 1854, die <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/juelg-an-thun_1855-01-08_a3-xxi-d323.xml">Antwort Bernhard Jülgs von 8. Januar 1855</tei:ref> legt aber nahe, dass
                         Thun sich – kurz nach Jahreswechsel – in der Jahreszahl geirrt
                     hat.</note>
                 </title>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -40,10 +39,10 @@
                     <physDesc>
                         <p>Der Brief ist im Nachlass gemeinsam mit zwei weiteren Briefen
                                 abgelegt:<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/phillips-an-thun_1852-02-24_A3-XXI-D156.xml">George Phillips an Leo Thun. Wien, 24. Februar 1852</ref>.<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/hartmann-an-thun_1852-04-27_A3-XXI-D156b.xml">Franz Hartmann an Leo Thun. Linz, 27. April 1852</ref>.</p>
-                        <p>Beilage: <ref target="#D156a_1">Sebastian Mutzl an Franz Hartmann.
-                                Eichstätt, 28. März 1852</ref>, samt Mutzls <ref target="#D156a_2">Lebenslauf mit Werkverzeichnis</ref>.</p>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/phillips-an-thun_1852-02-24_a3-xxi-d156.xml">George Phillips an Leo Thun. Wien, 24. Februar 1852</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/hartmann-an-thun_1852-04-27_a3-xxi-d156b.xml">Franz Hartmann an Leo Thun. Linz, 27. April 1852</tei:ref>.</p>
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d156a_1">Sebastian Mutzl an Franz Hartmann.
+                                Eichstätt, 28. März 1852</tei:ref>, samt Mutzls <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d156a_2">Lebenslauf mit Werkverzeichnis</tei:ref>.</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
@@ -75,8 +74,8 @@
                     <term>Geschichtswissenschaften</term>
                 </index>
                 <p>Eure Excellenz!<lb/>Hochgeborner Herr Graf!</p>
-                <p>Ich erhielt heute abends, nach Abgang der Post, das <ref target="#D156a_1">anliegende Schreiben des Studiendirectors <rs type="person" ref="#mutzl-sebastian">Sebastian Mutzl</rs>
-                    </ref> nebst dessen <ref target="#D156a_2">Curriculum vitae und Verzeichnis seiner Werke</ref>; daher ich mich beeile,
+                <p>Ich erhielt heute abends, nach Abgang der Post, das <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d156a_1">anliegende Schreiben des Studiendirectors 
+                    </tei:ref> nebst dessen <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d156a_2">Curriculum vitae und Verzeichnis seiner Werke</tei:ref>; daher ich mich beeile,
                     diese Schriften Eurer Excellenz ehrfurchtsvoll zu übersenden.<lb/>Recht innig
                     bedaure ich, daß sich nach den in dem beiliegenden Briefe dargestellten
                     Umständen die Enthebung <rs type="person" ref="#mutzl-sebastian">Mutzls</rs> aus
@@ -146,8 +145,8 @@
                         übersteigen wird, und daher auch der ausgesprochene Jahresgehalt von 2.400
                         fl dadurch eine Verminderung erleidet; hier habe ich freie Wohnung und 6
                         Klafter Holz vom Staate aus. Ich bitte Dich, über diesen Punkt mir
-                        beruhigende Gewißheit zu erwirken.<lb/>Das <ref target="#D156a_2">curriculum
-                            vitae und das Verzeichnis meiner Druckschriften</ref> liegt bei. Gerne
+                        beruhigende Gewißheit zu erwirken.<lb/>Das <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d156a_2">curriculum
+                            vitae und das Verzeichnis meiner Druckschriften</tei:ref> liegt bei. Gerne
                         würde ich von jeder ein Exemplar einsenden, aber leider sind die auf
                         Velinpapier gedruckten alle längst vergriffen und die auf gewöhnlichem
                         Druckpapiere sind zu unschön, um zu einer solchen Vorlage sich zu
@@ -252,26 +251,26 @@
                     <p>1. <hi rend="ul">De nominum latinorum radicibus</hi>; commentatio grammatica.
                         (Monachii. 1828. 8.)<lb/>2. Table des<hi rend="ul"> verbes irréguliers</hi>.
                         (Landshut. 1828. fol.)<lb/>3. <hi rend="ul">
-                            <ref target="http://books.google.at/books?id=VjBEAAAAcAAJ&amp;printsec=frontcover&amp;hl=de#v=onepage&amp;q&amp;f=false">Blumenlese aus spanischen Dichtern</ref>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="http://books.google.at/books?id=vjbeaaaacaaj&amp;printsec=frontcover&amp;hl=de#v=onepage&amp;q&amp;f=false">Blumenlese aus spanischen Dichtern</tei:ref>
                         </hi>. (Landshut. 1830.
                         8.)<lb/>4. <hi rend="ul">
-                            <ref target="http://books.google.at/books?id=MalEAAAAcAAJ&amp;printsec=frontcover&amp;dq=sebastian+mutzl+schulgrammatik&amp;hl=de&amp;sa=X&amp;ei=l2_mUdvDOuaN7Qaw-IDADA&amp;ved=0CDEQ6AEwAA#v=onepage&amp;q&amp;f=false">Lateinische Schulgrammatik</ref>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="http://books.google.at/books?id=maleaaaacaaj&amp;printsec=frontcover&amp;dq=sebastian+mutzl+schulgrammatik&amp;hl=de&amp;sa=x&amp;ei=l2_mudvdouan7qaw-idada&amp;ved=0cdeq6aewaa#v=onepage&amp;q&amp;f=false">Lateinische Schulgrammatik</tei:ref>
                         </hi>. (Landshut. 1832. 8.);
                         derselben <hi rend="ul">2. Auflage</hi>: 1834; derselben<hi rend="ul"> 3.
                             Auflage</hi>: 1838.<lb/>5. Lateinisches <hi rend="ul">
-                            <ref target="http://books.google.at/books?id=w45EAAAAcAAJ&amp;printsec=frontcover&amp;hl=de#v=onepage&amp;q&amp;f=false">Elementarbuch</ref>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="http://books.google.at/books?id=w45eaaaacaaj&amp;printsec=frontcover&amp;hl=de#v=onepage&amp;q&amp;f=false">Elementarbuch</tei:ref>
                         </hi>. (Landshut. 1833.)<lb/>6. Über die <hi rend="ul">
-                            <ref target="http://books.google.at/books?id=BfJLAAAAcAAJ&amp;printsec=frontcover&amp;hl=de#v=onepage&amp;q&amp;f=false">accentuirende Rhythmik</ref>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="http://books.google.at/books?id=bfjlaaaacaaj&amp;printsec=frontcover&amp;hl=de#v=onepage&amp;q&amp;f=false">accentuirende Rhythmik</tei:ref>
                         </hi> der neuern Sprachen. (Landshut.
                         1835. 4.)<lb/>7. <hi rend="ul">
-                            <ref target="http://books.google.at/books?id=H39AAAAAcAAJ&amp;printsec=frontcover&amp;hl=de#v=onepage&amp;q&amp;f=false">Urgeschichte der Erde und des Menschengeschlechtes</ref>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="http://books.google.at/books?id=h39aaaaacaaj&amp;printsec=frontcover&amp;hl=de#v=onepage&amp;q&amp;f=false">Urgeschichte der Erde und des Menschengeschlechtes</tei:ref>
                         </hi> nach
                         der mosaischen Urkunde und den Ergebnissen der Wissenschaften. (Landshut.
                         1842. 8.)<lb/>8. Über die <hi rend="ul">
-                            <ref target="http://books.google.at/books?id=GWlAAAAAcAAJ&amp;printsec=frontcover&amp;hl=de#v=onepage&amp;q&amp;f=false">Verwandtschaft der germanisch-nordischen und hellenischen
-                                Götterwelt</ref>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="http://books.google.at/books?id=gwlaaaaacaaj&amp;printsec=frontcover&amp;hl=de#v=onepage&amp;q&amp;f=false">Verwandtschaft der germanisch-nordischen und hellenischen
+                                Götterwelt</tei:ref>
                         </hi>. (Ingolstadt. 1845. 4.)<lb/>9. Über die <hi rend="ul">römischen Wartthürme</hi>; akademische Abhandlung. (München.
-                        1851. 4.)<lb/>(10. Unter der Presse: <ref target="http://books.google.at/books?id=u45EAAAAcAAJ&amp;printsec=frontcover&amp;hl=de#v=onepage&amp;q&amp;f=false">Kleine lateinische Schulgrammatik</ref>)<lb/>Außer diesen verschiedene
+                        1851. 4.)<lb/>(10. Unter der Presse: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="http://books.google.at/books?id=u45eaaaacaaj&amp;printsec=frontcover&amp;hl=de#v=onepage&amp;q&amp;f=false">Kleine lateinische Schulgrammatik</tei:ref>)<lb/>Außer diesen verschiedene
                         Aufsätze <hi rend="ul">antiquarischen, pädagogischen,
                             literaturgeschichtlichen</hi> Inhaltes, Recensionen, Gedichte etc. in
                         Zeitschriften und in Abhandlungen gelehrter Gesellschaften.</p>

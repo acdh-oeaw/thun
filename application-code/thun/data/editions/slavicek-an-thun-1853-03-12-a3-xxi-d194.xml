@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -45,8 +44,8 @@
                             Verzeichnisse zu Inhalt und Quellen sowie Textauszüge des Buchs bei.</p>
                     </msContents>
                     <physDesc>
-                        <p>Beilagen: Schreiben von <ref target="#D194_1">Josef Slaviček an Erzherzog
-                                Ferdinand Maximilian. Königgrätz, 11. März 1853</ref> mit mehreren
+                        <p>Beilagen: Schreiben von <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d194_1">Josef Slaviček an Erzherzog
+                                Ferdinand Maximilian. Königgrätz, 11. März 1853</tei:ref> mit mehreren
                             Verzeichnissen und Textauszügen.</p>
                     </physDesc>
                 </msDesc>
@@ -87,8 +86,8 @@
                     anruhende unterthänigste Einschreiten an Seine kaiserliche Hoheit den
                     durchlauchtigsten Herrn <rs type="person" ref="#ferdinand-maximilian-erzherzog">Erzherzog
                         Ferdinand Maximilian</rs> als hohen Vorstand des genannten Comités
-                        darthut<note xml:id="note_2">Vgl. die Beilage <ref target="#D194_1">Josef
-                            Slaviček an Ferdinand Maxmilian vom 11. März 1853.</ref>
+                        darthut<note xml:id="note_2">Vgl. die Beilage <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d194_1">Josef
+                            Slaviček an Ferdinand Maxmilian vom 11. März 1853.</tei:ref>
                     </note>,
                     beabsichtigt der ehrfurchtsvolle Gesuchleger zu dem projectirten Baue auch
                     dadurch beizutragen, daß er den Ertrag eines litterärischen Werkes, welches er

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -42,20 +41,20 @@
                         <p>Das Schreiben ist im Nachlass gemeinsam mit sieben weiteren Dokumenten
                             unter der Rubrik "Zur Sprachenfrage 1859" unter der Signatur A3 XXI D525
                                 abgelegt:<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/note-nadasdy-an-goluchowski_1859-11-05_A3-XXI-D525.xml">Note von Franz Nádasdy an Agenor Goluchowski. o. O., 5. November
-                                1859</ref>.<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/note-nadasdy-an-goluchowski_1859-11-05_A3-XXI-D525a.xml">Note von Franz Nádasdy an Agenor Goluchowski. o. O., 5. November
-                                1859</ref>.<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/note-nadasdy-an-goluchowski_1859-11-05_A3-XXI-D525b.xml">Note von Franz Nádasdy an Agenor Goluchowski. Wien, 5. November
-                                1859</ref>.<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/note-goluchowski-an-nadasdy_1859-12-21_A3-XXI-D525c.xml">Note von Agenor Goluchowski an Franz Nádasdy. o. O., 21. Dezember
-                                1859</ref>.<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/note-nadasdy-an-goluchowski_1860-01-05_A3-XXI-D525d.xml">Note von Franz Nádasdy an Agenor Goluchowski. o. O., 5. Januar
-                                1860</ref>.<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/note-nadasdy-an-goluchowski_1860-01-05_A3-XXI-D525e.xml">Note von Franz Nádasdy an Agenor Goluchowski. o. O., 5. Januar
-                                1860</ref>.<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/notizen-thun-sprachenfrage-gerichte_1859_A3-XXI-D525g.xml">Notizen von Leo Thun zur Sprachenfrage bei den Gerichtsbehörden
-                                1589</ref>.</p>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/note-nadasdy-an-goluchowski_1859-11-05_a3-xxi-d525.xml">Note von Franz Nádasdy an Agenor Goluchowski. o. O., 5. November
+                                1859</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/note-nadasdy-an-goluchowski_1859-11-05_a3-xxi-d525a.xml">Note von Franz Nádasdy an Agenor Goluchowski. o. O., 5. November
+                                1859</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/note-nadasdy-an-goluchowski_1859-11-05_a3-xxi-d525b.xml">Note von Franz Nádasdy an Agenor Goluchowski. Wien, 5. November
+                                1859</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/note-goluchowski-an-nadasdy_1859-12-21_a3-xxi-d525c.xml">Note von Agenor Goluchowski an Franz Nádasdy. o. O., 21. Dezember
+                                1859</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/note-nadasdy-an-goluchowski_1860-01-05_a3-xxi-d525d.xml">Note von Franz Nádasdy an Agenor Goluchowski. o. O., 5. Januar
+                                1860</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/note-nadasdy-an-goluchowski_1860-01-05_a3-xxi-d525e.xml">Note von Franz Nádasdy an Agenor Goluchowski. o. O., 5. Januar
+                                1860</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/notizen-thun-sprachenfrage-gerichte_1859_a3-xxi-d525g.xml">Notizen von Leo Thun zur Sprachenfrage bei den Gerichtsbehörden
+                                1589</tei:ref>.</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
@@ -91,21 +90,21 @@
                 <p>Die mir mit der geehrten Note vom 19. Dezember vorigen Jahres Z. 12472/M.I.
                     gütigst mitgetheilten Ansichten Eurer Excellenz in Betreff der Regelung der
                     Geschäftssprache bei den Gerichtsbehörden, namentlich in den östlichen
-                    Kronländern der Monarchie, <note xml:id="note_1">Vgl. <ref target="thun/thun-korrespondenz/keine_Briefe/goluchowski-an-nadasdy_1859-12-21_A3-XXI-D525c.xml">Note von Agenor Goluchowski an Franz Nádasdy, 21. Dezember
-                        1859</ref>.</note>habe ich einer reiflichen Erwägung unterzogen und mich
+                    Kronländern der Monarchie, <note xml:id="note_1">Vgl. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/keine_briefe/goluchowski-an-nadasdy_1859-12-21_a3-xxi-d525c.xml">Note von Agenor Goluchowski an Franz Nádasdy, 21. Dezember
+                        1859</tei:ref>.</note>habe ich einer reiflichen Erwägung unterzogen und mich
                     auch bereits bestimmt gefunden in Betreff <rs type="place" subtype="region" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galiziens</rs> angemessene Modificationen der dort geltenden
                     Bestimmungen über die gerichtliche Geschäftssprache bei <rs type="person" ref="#franz-joseph">Seiner k.k. apostolischen Majestät</rs> zu
                     beantragen, wie ich Eurer Excellenz mit der Note zur Justizministeriumszahl
-                    20732/1859 <note xml:id="note_2">Vgl. <ref target="thun/thun-korrespondenz/keine_Briefe/nadasdy-an-goluchowski_1860-01-05_A3-XXI-D525e.xml">Note von Franz Nádasdy an Agenor Goluchowski, 5. Januar
-                        1860</ref>.</note>zu eröffnen die Ehre hatte. <lb/>In Betreff der Kronländer
+                    20732/1859 <note xml:id="note_2">Vgl. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/keine_briefe/nadasdy-an-goluchowski_1860-01-05_a3-xxi-d525e.xml">Note von Franz Nádasdy an Agenor Goluchowski, 5. Januar
+                        1860</tei:ref>.</note>zu eröffnen die Ehre hatte. <lb/>In Betreff der Kronländer
                         <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>, der <rs type="place" subtype="region" ref="#place_35d1161cc45f7c1d2b14ff99f1d259a3">serbischen Woiwodschaft und des Temescher Banates</rs> haben Euer
                     Excellenz vorläufig noch die Sammlung der nöthigen Daten anzuordnen befunden um
                     mir in Bezug auf die Feststellung der Landessprachen in diesen Kronländern die
                     erleuchteten Ansichten mit vollster Beruhigung und möglichster Bestimmtheit
                     mittheilen zu können. Indem ich mir erlaube, diese von Eurer Excellenz
                     getroffene Maßregel in Bezug auf <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> in einer
-                    abgesonderten Note zu besprechen <note xml:id="note_3">Vgl. <ref target="thun/thun-korrespondenz/keine_Briefe/nadasdy-an-goluchowski_1860-01-05_A3-XXI-D525d.xml">Note von Franz Nádasdy an Agenor Goluchowski, 5. Januar
-                        1860</ref>.</note>, daß sich Euer Excellenz in Bezug auf <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>, die <rs type="place" subtype="region" ref="#place_35d1161cc45f7c1d2b14ff99f1d259a3">serbische Woiwodschaft und das
+                    abgesonderten Note zu besprechen <note xml:id="note_3">Vgl. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/keine_briefe/nadasdy-an-goluchowski_1860-01-05_a3-xxi-d525d.xml">Note von Franz Nádasdy an Agenor Goluchowski, 5. Januar
+                        1860</tei:ref>.</note>, daß sich Euer Excellenz in Bezug auf <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>, die <rs type="place" subtype="region" ref="#place_35d1161cc45f7c1d2b14ff99f1d259a3">serbische Woiwodschaft und das
                         Temescher Banat</rs> zu einer gleichen Maßregel veranlaßt gefunden
                     haben. <lb/>In diesen beiden Kronländern wurde die Sprachfrage bereits in den
                     Jahren 1850 bis 1852 von den politischen und gerichtlichen über die Verhältnisse
@@ -135,8 +134,8 @@
                     nicht, als für diese zwei Kronländer die Sprachfrage auf eine Weise zu lösen,
                     die eines praktischen Erfolges gewiß ist. Ich glaube Euere Excellenz versichern
                     zu können, daß durch die unterm 5. November vorigen Jahres Z. 17678
-                    mitgetheilten, die gerichtliche Geschäftssprache regelnden Verordnungen <note xml:id="note_4">Vgl. <ref target="thun/thun-korrespondenz/keine_Briefe/nadasdy-an-goluchowski_1859-11-05_A3-XXI-D525.xml">Note von Franz Nádasdy an Agenor Goluchowski, 5. November
-                        1859</ref>.</note>diese Lösung nicht nur auf praktische Weise, sondern auch
+                    mitgetheilten, die gerichtliche Geschäftssprache regelnden Verordnungen <note xml:id="note_4">Vgl. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/keine_briefe/nadasdy-an-goluchowski_1859-11-05_a3-xxi-d525.xml">Note von Franz Nádasdy an Agenor Goluchowski, 5. November
+                        1859</tei:ref>.</note>diese Lösung nicht nur auf praktische Weise, sondern auch
                     zur Befriedigung des größten Theils der Bevölkerung dieser beiden Kronländer
                     erfolgt ist. <lb/>Ich bin selbst mit den Verhältnissen in diesen beiden
                     Kronländern sehr genau bekannt, habe insbesondere in <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> durch mehrere Jahre Ämter bekleidet und war in der

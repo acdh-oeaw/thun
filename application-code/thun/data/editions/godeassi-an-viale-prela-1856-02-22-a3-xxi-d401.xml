@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -76,26 +75,23 @@
                     <physDesc>
                         <p>Italienisch.</p>
                         <p>Insgesamt fünf Stücke:<lb/>
-                            <ref target="#D401_1a">Giuseppe Godeassi an
-                                Michele Viale-Prelà. Zara, 22. Februar 1856.</ref>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d401_1a">Giuseppe Godeassi an
+                                Michele Viale-Prelà. Zara, 22. Februar 1856.</tei:ref>
                             <lb/>
-                            <ref target="#D401_1">Unbekannt an Giuseppe Godeassi. Zara, 11. Februar
-                                1856.</ref>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d401_1">Unbekannt an Giuseppe Godeassi. Zara, 11. Februar
+                                1856.</tei:ref>
                             <lb/>
-                            <ref target="#D401_2">Stellungnahme zur Verhaftung
-                                von Antonio Borovich von Paolo Tripalo. Pag, 25. Januar 1855<note xml:id="note_1">Im Brief findet sich die Jahreszahl 1855. Zumal
-                                    alle anderen Briefe jedoch in den Januar/Februar 1856 datiert
-                                    sind, kann davon ausgegangen werden, dass hier ein Schreibfehler
-                                    vorliegt und 1856 gemeint ist.</note>.</ref>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d401_2">Stellungnahme zur Verhaftung
+                                von Antonio Borovich von Paolo Tripalo. Pag, 25. Januar 1855.</tei:ref>
                             <lb/>
-                            <ref target="#D401_3">Stellungnahme zur Verhaftung von Antonio Borovich
-                                von Giuseppe Descovic. Pag, 27. Januar 1856.</ref>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d401_3">Stellungnahme zur Verhaftung von Antonio Borovich
+                                von Giuseppe Descovic. Pag, 27. Januar 1856.</tei:ref>
                             <lb/>
-                            <ref target="#D401_4">Stellungnahme von Simeone Mestrovich zur Verhaftung
-                                von Antonio Borovich. Pag, 15. Februar 1856.</ref>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d401_4">Stellungnahme von Simeone Mestrovich zur Verhaftung
+                                von Antonio Borovich. Pag, 15. Februar 1856.</tei:ref>
                         </p>
-                        <p>Vgl. dazu auch den Brief: <ref target="thun/thun-korrespondenz/tetschen/borovich-an-viale-prela_1856-01-03_A3-XXI-D363.xml">Antonio Borovich an Michele Viale-Prelà. Pag, 3. Januar
-                            1856</ref>.</p>
+                        <p>Vgl. dazu auch den Brief: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/borovich-an-viale-prela_1856-01-03_a3-xxi-d363.xml">Antonio Borovich an Michele Viale-Prelà. Pag, 3. Januar
+                            1856</tei:ref>.</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
@@ -132,10 +128,10 @@
                             Borovich</rs> di <rs type="place" subtype="place" ref="#place_d2f72f55f1b50dc6ca298b5138833028">Novaglia</rs>, mi affretto di
                         rassegnarle al giudizio di Vostra Eminenza Reverendissima, in obbedienza
                         dell’ossequiato di Lei foglio 15. gennaio p.p.<lb/>Al rapporto sul fatto di
-                        cui si tratta <ref target="#D401_4">esposto dall’Arciprete Paroco di
-                            Pago</ref>, unisco <ref target="#D401_3">una uffiziosa communicazione
+                        cui si tratta <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d401_4">esposto dall’Arciprete Paroco di
+                            Pago</tei:ref>, unisco <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d401_3">una uffiziosa communicazione
                             che mi venne offerta dall’Imperial Regio Presidente di
-                        Appello.</ref>
+                        Appello.</tei:ref>
                         <lb/>Ho cercato così di corrispondere il meglio che si poteva
                         ai cenni di Vostra Eminenza, col ritrarre cioè le più sicure relazioni dalle
                         suddette due fonti, da cui ne risultasse il genuino stato della questione,
@@ -159,9 +155,9 @@
                         p.p. N. 2/p già preliminarmente corrisposta colla mia 24 detto, sotto pari
                         numero, non saprei come meglio incontrare i desideri dell’Eccellenza Vostra,
                         che comunicando, siccome rispettosamente mi onoro di comunicarLe le qui
-                        acchiuse copie del <ref target="#D401_3">Rapporto 27 Gennaio p.p. N. 112
-                            dell’Imperial Regia Pretura</ref> di <rs type="place" subtype="place" ref="#place_77c345c88d5abc96dff43b05f067805d">Pago</rs>, e <ref target="#D401_2">della Relazione 25 mese
-                            stesso di quell’Attuario</ref>
+                        acchiuse copie del <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d401_3">Rapporto 27 Gennaio p.p. N. 112
+                            dell’Imperial Regia Pretura</tei:ref> di <rs type="place" subtype="place" ref="#place_77c345c88d5abc96dff43b05f067805d">Pago</rs>, e <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d401_2">della Relazione 25 mese
+                            stesso di quell’Attuario</tei:ref>
                         <rs type="person" ref="#tripalo-paolo">Paolo Tripalo</rs>, riflettenti entrambi
                         il ricorso del Reverendo Sacerdote Don <rs type="person" ref="#borovich-antonio">Antonio Borovich</rs> di <rs type="place" subtype="place" ref="#place_d2f72f55f1b50dc6ca298b5138833028">Novaglia</rs> sul suo
                         arresto personale.<lb/>Nel tempo stesso mi pregio di far presente, che non

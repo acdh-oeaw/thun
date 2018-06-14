@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -65,7 +64,7 @@
                 </index>
                 <p>970/CUM</p>
                 <p>
-                    <ref target="thun/thun-korrespondenz/Konzepte_Briefe_an_Thun/bonitz-an-thun_1855-07-30_CA1012.xml">Ihre Mitteilung</ref>,<note xml:id="note_1">Vgl. Hermann Bonitz an Leo
+                    <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/konzepte_briefe_an_thun/bonitz-an-thun_1855-07-30_ca1012.xml">Ihre Mitteilung</tei:ref>,<note xml:id="note_1">Vgl. Hermann Bonitz an Leo
                         Thun, 30. Juli 1855.</note>daß Sie von der köngl. Preußischen Regierung die
                     ehrenvolle Aufforderung erhalten haben, die Leitung des <orgName>Gymnasiums in Schulpforta</orgName> unter
                     vortheilhaften Bedingungen zu übernehmen, daß Sie jedoch geneigt seien, in Ihrer

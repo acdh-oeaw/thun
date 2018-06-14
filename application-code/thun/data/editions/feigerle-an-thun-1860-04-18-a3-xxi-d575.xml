@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -39,7 +38,7 @@
                             wenig gläubig und als dem Wein zugeneigt geschildert.</p>
                     </msContents>
                     <physDesc>
-                        <p>Beilage: <ref target="#D575_1">Bericht über Wilhelm Gärtner.</ref>
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d575_1">Bericht über Wilhelm Gärtner.</tei:ref>
                         </p>
                     </physDesc>
                 </msDesc>
@@ -76,8 +75,8 @@
                     Excellenz so geschwind und sicher als nur möglich nachzukommen, so kann ich doch
                     erst heute das Resultat mehrseitiger geheimer Nachforschungen, die aber im
                     ämtlichen Wege sich leicht constatiren ließen, in der Beylage Euerer Excellenz
-                    ergebenst vorlegen.<note xml:id="note_1">Vgl. den <ref target="#D575_1">Bericht
-                            in der Beilage</ref>.</note>
+                    ergebenst vorlegen.<note xml:id="note_1">Vgl. den <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d575_1">Bericht
+                            in der Beilage</tei:ref>.</note>
                     <lb/>Die Meßlicenz und Beichtjurisdiction
                     für die Zeit seines Aufenthaltes in Kleinpochlarn [<rs type="place" subtype="place" ref="#place_c80382980ad6d369b760894e1669279e">Kleinpöchlarn</rs>] erhielt Prof. <rs type="person" ref="#gaertner-wilhelm">Gärtner</rs> auf sein eigenes Ansuchen und mit
                     Vorwissen seines Ordinarius, des hochverehrten Herrn <rs type="person" ref="#hille-augustin">Bischofes von Leitmeritz</rs>, unterm 19. Sept.

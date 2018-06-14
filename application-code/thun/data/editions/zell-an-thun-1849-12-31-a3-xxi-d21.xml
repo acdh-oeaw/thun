@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -33,9 +32,9 @@
                                 Daten von Karl Zell.</p>
                         </msContents>
                         <physDesc>
-                            <p>Beilage: <ref target="#D21_1">biografische Daten über Karl Zell aus
+                            <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d21_1">biografische Daten über Karl Zell aus
                                     dem Konversationslexikon Brockhaus, 15. Band, 9. Auflage, S.
-                                    526-527.</ref>
+                                    526-527.</tei:ref>
                             </p>
                         </physDesc>
                     </msDesc>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -9,7 +8,7 @@
                         Thun</rs>[?]<note xml:id="note_1">Im Nachlass ist Leo Thun als
                         Adressat verzeichnet. Allerdings lässt sich dies nicht zweifelsfrei
                         feststellen. Es besteht die Möglichkeit, dass der Brief Teil eines
-                        Schreibens von <ref target="thun/thun-korrespondenz/tetschen/weiss-an-thun_1854-09-04_A3-XXI-D279.xml">Johann Baptist Weiß an Leo Thun. Baden-Baden, 04. September 1854</ref>,
+                        Schreibens von <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/weiss-an-thun_1854-09-04_a3-xxi-d279.xml">Johann Baptist Weiß an Leo Thun. Baden-Baden, 04. September 1854</tei:ref>,
                         war und der ursprüngliche Adressat daher Johann Baptist Weiß gewesen
                         ist.</note>
                     <lb/>
@@ -43,8 +42,8 @@
                     </msContents>
                     <physDesc>
                         <p>Auszug aus einem Brief. Möglicherweise war das Schreiben ein Teil eines
-                            Briefs von <ref target="thun/thun-korrespondenz/tetschen/weiss-an-thun_1854-09-04_A3-XXI-D279.xml">Johann Baptist Weiß an Leo Thun. Baden-Baden, 04. September
-                                1854</ref>.</p>
+                            Briefs von <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/weiss-an-thun_1854-09-04_a3-xxi-d279.xml">Johann Baptist Weiß an Leo Thun. Baden-Baden, 04. September
+                                1854</tei:ref>.</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>

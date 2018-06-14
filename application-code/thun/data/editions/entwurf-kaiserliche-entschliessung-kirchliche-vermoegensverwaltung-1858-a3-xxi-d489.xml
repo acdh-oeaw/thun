@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -36,9 +35,9 @@
                     </msContents>
                     <physDesc>
                         <p>Mit eigenhändigen Anmerkungen Leo Thuns.</p>
-                        <p>Beilage: <ref target="#D489_1">Entwurf der mit dem Papst zu
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d489_1">Entwurf der mit dem Papst zu
                                 vereinbarenden Bestimmungen in Bezug auf die Verwaltung des
-                                Kirchenvermögens in Lombardo-Venetien.</ref>
+                                Kirchenvermögens in Lombardo-Venetien.</tei:ref>
                         </p>
                     </physDesc>
                 </msDesc>

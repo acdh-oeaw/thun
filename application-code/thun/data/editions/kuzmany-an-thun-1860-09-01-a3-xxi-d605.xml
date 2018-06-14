@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -39,8 +38,8 @@
                             an Kuzmány als den rechtmäßigen Superintendenten zu wenden haben.</p>
                     </msContents>
                     <physDesc>
-                        <p>Beilage: <ref target="#D605_1">Karl Kuzmány an Ludwig Benedek. Neusohl,
-                                17. August 1860.</ref>
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d605_1">Karl Kuzmány an Ludwig Benedek. Neusohl,
+                                17. August 1860.</tei:ref>
                         </p>
                     </physDesc>
                 </msDesc>
@@ -76,8 +75,8 @@
                 <p>Euer Excellenz!</p>
                 <p>In der Beilage nehme ich mir die Freiheit mitzutheilen, was ich Seiner Excellenz
                     dem Herrn <rs type="person" ref="#benedek-ludwig">FZM Ritter von Benedek</rs> unter
-                    17. Aug. Z. 715 vorgelegt habe; <note xml:id="note_1">Vgl. die Beilage <ref target="#D605_1">Karl Kuzmány an Ludwig Benedek. Neusohl, 17. August
-                            1860</ref>.</note> weil ich gestern von ihm die Antwort erhielt, es
+                    17. Aug. Z. 715 vorgelegt habe; <note xml:id="note_1">Vgl. die Beilage <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d605_1">Karl Kuzmány an Ludwig Benedek. Neusohl, 17. August
+                            1860</tei:ref>.</note> weil ich gestern von ihm die Antwort erhielt, es
                     würde meine Bitte in einer Berathung der dortigen Centralstelle erwogen und mir
                     das Resultat bekannt gegeben werden. Ich theile dies Eurer Excellenz in der
                     Absicht mit, Euer Excellenz unterthänigst zu bitten, Hochdieselben wollen

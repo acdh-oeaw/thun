@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -37,20 +36,20 @@
                         <p>Das Schreiben ist im Nachlass gemeinsam mit sieben weiteren Dokumenten
                             unter der Rubrik "Zur Sprachenfrage 1859" unter der Signatur A3 XXI D525
                                 abgelegt:<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/note-nadasdy-an-goluchowski_1859-11-05_A3-XXI-D525.xml">Note von Franz Nádasdy an Agenor Goluchowski. o. O., 5. November
-                                1859</ref>.<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/note-nadasdy-an-goluchowski_1859-11-05_A3-XXI-D525a.xml">Note von Franz Nádasdy an Agenor Goluchowski. o. O., 5. November
-                                1859</ref>.<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/note-nadasdy-an-goluchowski_1859-11-05_A3-XXI-D525b.xml">Note von Franz Nádasdy an Agenor Goluchowski. Wien, 5. November
-                                1859</ref>.<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/note-goluchowski-an-nadasdy_1859-12-21_A3-XXI-D525c.xml">Note von Agenor Goluchowski an Franz Nádasdy. o. O., 21. Dezember
-                                1859</ref>.<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/note-nadasdy-an-goluchowski_1860-01-05_A3-XXI-D525d.xml">Note von Franz Nádasdy an Agenor Goluchowski. o. O., 5. Januar
-                                1860</ref>.<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/note-nadasdy-an-goluchowski_1860-01-06_A3-XXI-D525f.xml">Note von Franz Nádasdy an Agenor Goluchowski. o. O., 6. Januar
-                                1860</ref>.<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/notizen-thun-sprachenfrage-gerichte_1859_A3-XXI-D525g.xml">Notizen von Leo Thun zur Sprachenfrage bei den Gerichtsbehörden
-                                1589</ref>.</p>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/note-nadasdy-an-goluchowski_1859-11-05_a3-xxi-d525.xml">Note von Franz Nádasdy an Agenor Goluchowski. o. O., 5. November
+                                1859</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/note-nadasdy-an-goluchowski_1859-11-05_a3-xxi-d525a.xml">Note von Franz Nádasdy an Agenor Goluchowski. o. O., 5. November
+                                1859</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/note-nadasdy-an-goluchowski_1859-11-05_a3-xxi-d525b.xml">Note von Franz Nádasdy an Agenor Goluchowski. Wien, 5. November
+                                1859</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/note-goluchowski-an-nadasdy_1859-12-21_a3-xxi-d525c.xml">Note von Agenor Goluchowski an Franz Nádasdy. o. O., 21. Dezember
+                                1859</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/note-nadasdy-an-goluchowski_1860-01-05_a3-xxi-d525d.xml">Note von Franz Nádasdy an Agenor Goluchowski. o. O., 5. Januar
+                                1860</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/note-nadasdy-an-goluchowski_1860-01-06_a3-xxi-d525f.xml">Note von Franz Nádasdy an Agenor Goluchowski. o. O., 6. Januar
+                                1860</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/notizen-thun-sprachenfrage-gerichte_1859_a3-xxi-d525g.xml">Notizen von Leo Thun zur Sprachenfrage bei den Gerichtsbehörden
+                                1589</tei:ref>.</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
@@ -85,8 +84,8 @@
                 <p>Es war Euerer Excellenz gefällig, mir mit der geehrten Note vom 20. Dezember
                     vorigen Jahres Z. 12466/M.I. Abschriften jener Weisungen mitzutheilen, welche in
                     Übereinstimmung mit den unterm 19. Dezember vorigen Jahres Z. 12472 in Betreff
-                    der allgemeinen Regelung der Sprachfrage ausgesprochenen Ansichten <note xml:id="note_1">Vgl. <ref target="thun/thun-korrespondenz/keine_Briefe/goluchowski-an-nadasdy_1859-12-21_A3-XXI-D525c.xml">Note von Agenor Goluchowski an Franz Nádasdy, 21. Dezember
-                        1859</ref>.</note> an die politischen Landesbehörden in
+                    der allgemeinen Regelung der Sprachfrage ausgesprochenen Ansichten <note xml:id="note_1">Vgl. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/keine_briefe/goluchowski-an-nadasdy_1859-12-21_a3-xxi-d525c.xml">Note von Agenor Goluchowski an Franz Nádasdy, 21. Dezember
+                        1859</tei:ref>.</note> an die politischen Landesbehörden in
                         <rs type="place" subtype="place" ref="#place_3ff694e5c82611cda53341a9bae21735">Lemberg</rs> und <rs type="place" subtype="place" ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Krakau</rs> in Bezug
                     der Geschäftssprache bei dienstlicher Berührung politischer Behörden mit
                     Partheien in Angelegenheiten der politischen Amtswirksamkeit erlassen wurden.
@@ -103,14 +102,14 @@
                     für die politischen Behörden <rs type="place" subtype="region" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galiziens</rs> zu
                     erlassen befunden haben, weil die Regelung der gerichtlichen Geschäftssprachen
                     für <rs type="place" subtype="region" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galizien</rs> bereits durch die Eurer Excellenz mit meiner Note
-                    vom 5. November vorigen Jahres Z. 17679 <note xml:id="note_2">Vgl. <ref target="thun/thun-korrespondenz/keine_Briefe/nadasdy-an-goluchowski_1859-11-05_A3-XXI-D525a.xml">Note von Franz Nádasdy an Agenor Goluchowski,  5. November
-                        1859</ref>.</note> mitgetheilten allerhöchsten Entschließungen vom 20.
+                    vom 5. November vorigen Jahres Z. 17679 <note xml:id="note_2">Vgl. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/keine_briefe/nadasdy-an-goluchowski_1859-11-05_a3-xxi-d525a.xml">Note von Franz Nádasdy an Agenor Goluchowski,  5. November
+                        1859</tei:ref>.</note> mitgetheilten allerhöchsten Entschließungen vom 20.
                     Oktober 1852 und 1. Dezember 1857 erfolgt ist, zudem aber die von Eurer
                     Excellenz für die politischen Behörden <rs type="place" subtype="region" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galiziens</rs>
                     erlassenen Weisungen mit diesen allerhöchsten Bestimmungen nicht durchgängig
                     übereinstimmen. <lb/>Indem aber Euer Excellenz zugleich so gütig waren, mir in
-                    der geehrten Note vom 19. Dezember vorigen Jahres Z. 12472 <note xml:id="note_3">Vgl. <ref target="thun/thun-korrespondenz/keine_Briefe/goluchowski-an-nadasdy_1859-12-21_A3-XXI-D525c.xml">Note von Agenor Goluchowski an Franz Nádasdy, 21. Dezember
-                        1859</ref>.</note>die während Ihrer Amtswirksamkeit in
+                    der geehrten Note vom 19. Dezember vorigen Jahres Z. 12472 <note xml:id="note_3">Vgl. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/keine_briefe/goluchowski-an-nadasdy_1859-12-21_a3-xxi-d525c.xml">Note von Agenor Goluchowski an Franz Nádasdy, 21. Dezember
+                        1859</tei:ref>.</note>die während Ihrer Amtswirksamkeit in
                         <rs type="place" subtype="region" ref="#place_4ec4d4015169a4209797da17b240c7c3">Galizien</rs> in Betreff des sprachlichen Vorganges der dortigen
                     Gerichte und des Eindrucks, den die obigen allerhöchsten Entschließungen bei der
                     dortigen Bevölkerung hervorbrachten, gemachten Wahrnehmungen mitzutheilen, halte

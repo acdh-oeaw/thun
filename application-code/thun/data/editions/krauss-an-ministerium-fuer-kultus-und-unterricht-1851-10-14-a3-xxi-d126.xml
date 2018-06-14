@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -49,7 +48,7 @@
                             an einer Universität wirken zu können.</p>
                     </msContents>
                     <physDesc>
-                        <p>Beilage: <ref target="#D126_1"/>Promemoria zum Gesuch.</p>
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d126_1"/>Promemoria zum Gesuch.</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
@@ -88,7 +87,7 @@
                     vorzüglich die Blüthe der Gymnasien abhängt, bis jetzt durch keine geeignete
                     Persönlichkeit vertreten ist, so bitte ich ganz unterthänigst um eine
                     außerordentliche Professur der klassischen Litteratur an derselben <orgName>Universität</orgName> unter Hinweisung auf die im
-                        <ref target="#D126_1">anliegenden Promemoria</ref> in den flüchtigsten
+                        <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d126_1">anliegenden Promemoria</tei:ref> in den flüchtigsten
                     Skizzen entworfenen Grundsätze.<lb/>Griechische und römische Dichter, antike
                     Metrik, griechische und lateinische Grammatik, Encyklopädie, Kritik und
                     Hermeneutik würden hauptsächlich den Kreis meiner Vorlesungen ausmachen.<lb/>Zum
@@ -232,8 +231,8 @@
                         in seine geistige Werkstätte schauen. Daher kam es auch, daß ich mich auf
                         dieselben Fächer warf, die er vertritt, und dasselbe Feld bebauen werde, auf
                         welchem er so glänzendes geleistet hat. Am Ende meiner akademischen Laufbahn
-                        schrieb ich als Doktordissertation: Quaestiones Terentianae criticae<note xml:id="note_3">Vgl. <ref target=" http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10242981-9">Josef Krauss, Quaestiones Terentianae criticae, phil. Diss., Bonn
-                                1850</ref>.</note>, welche im Druck erschienen und von der
+                        schrieb ich als Doktordissertation: Quaestiones Terentianae criticae<note xml:id="note_3">Vgl. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target=" http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10242981-9">Josef Krauss, Quaestiones Terentianae criticae, phil. Diss., Bonn
+                                1850</tei:ref>.</note>, welche im Druck erschienen und von der
                         philosophischen Fakultät recensirt wurden: docte, subtiliter atque
                         eleganter, und machte mein Doktorexamen magna cum laude.<lb/>Leider
                         gestatteten es aber meine häuslichen Verhältnisse nicht als Docent auf einer

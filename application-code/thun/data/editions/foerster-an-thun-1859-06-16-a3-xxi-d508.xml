@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -40,9 +39,9 @@
                             Fürstbischof Förster, seine Bedenken in Wien bekannt zu machen.</p>
                     </msContents>
                     <physDesc>
-                        <p>Beilage: <ref target="#D508_1">Abschrift eines Briefes eines nicht näher
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d508_1">Abschrift eines Briefes eines nicht näher
                                 genannten Beamten aus Berlin an Heinricht Förster. Berlin, 10. Juni
-                                1859</ref>.</p>
+                                1859</tei:ref>.</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
@@ -76,7 +75,7 @@
                 <p>Hochgebender Herr Minister,<lb/>Hochgeborener Herr Graf!</p>
                 <p>In Anlage beehre ich mich Euer Excellenz eine getreue Abschrift des Schreibens
                     eines wohlmeinenden höheren katholischen Staatsbeamten aus
-                        <rs type="place" subtype="place" ref="#place_d35a02eb49149450fb2fffc6e467eb37">Berlin</rs> ganz ergebenst zu übersenden.<note xml:id="note_1">Die <ref target="#D508_1">Abschrift</ref> liegt dem Brief
+                        <rs type="place" subtype="place" ref="#place_d35a02eb49149450fb2fffc6e467eb37">Berlin</rs> ganz ergebenst zu übersenden.<note xml:id="note_1">Die <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d508_1">Abschrift</tei:ref> liegt dem Brief
                         bei. Der Schreiber konnte nicht eruiert werden.</note>
                     <lb/>Da ich, fern von
                     konfessioneller Engherzigkeit, diesen Schritt nur aus reiner Liebe zur Sache

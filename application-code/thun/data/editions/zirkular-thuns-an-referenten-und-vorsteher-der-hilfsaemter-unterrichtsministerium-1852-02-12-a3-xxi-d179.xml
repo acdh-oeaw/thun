@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -30,15 +29,15 @@
                             Neuerungen besonders beachtet werden müssen.</p>
                     </msContents>
                     <physDesc>
-                        <p>Beilagen: <ref target="#D179_1">Allerhöchst erlassene Instruktion an
+                        <p>Beilagen: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d179_1">Allerhöchst erlassene Instruktion an
                                 Erzherzog Albrecht über seine Kompetenzen als Militär- und
                                 Zivilgouverneur von Ungarn vom 10. Oktober
-                            1851.</ref>
+                            1851.</tei:ref>
                             <lb/>Allerhöchste Bestimmungen über die Einrichtung und
                             Amtswirksamkeit der Statthalterei im Königreiche Ungarn, 10. Januar
                             1853, Druck.<lb/>
                             <note xml:id="note_1">Die Allerhöchste Entschließung
-                                wurde hier nicht transkribiert. Sie ist abgedruckt in <ref target="http://alex.onb.ac.at/cgi-content/alex?aid=rgb&amp;datum=1853&amp;size=45&amp;page=165">RGBl 10/1853</ref>.</note>
+                                wurde hier nicht transkribiert. Sie ist abgedruckt in <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="http://alex.onb.ac.at/cgi-content/alex?aid=rgb&amp;datum=1853&amp;size=45&amp;page=165">RGBl 10/1853</tei:ref>.</note>
                         </p>
                     </physDesc>
                 </msDesc>
@@ -68,9 +67,9 @@
                     Oktober 1851 Seiner k.k. Hoheit dem <rs type="person" ref="#albrecht-erzherzog">Herrn
                         Erzherzoge Albrecht</rs> als k.k. Militär- und Civilgouverneur von
                     Ungarn unmittelbar ertheilten Instruktion<note xml:id="note_2">Vgl. die Beilage
-                            <ref target="#D179_1">Allerhöchst erlassene Instruktion an Erzherzog
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d179_1">Allerhöchst erlassene Instruktion an Erzherzog
                             Albrecht über seinen Wirkungskreis als Militär- und Zivilgouverneur von
-                            Ungarn vom 10. Oktober 1851.</ref>
+                            Ungarn vom 10. Oktober 1851.</tei:ref>
                     </note>, welche ich den Herrn
                     Referenten und Vorstehern der Hilfsämter <orgName>dieses Ministeriums</orgName>
                     zur eigenen Kenntnis und Nachachtung wie auch zur Verständigung des zugetheilten

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -39,9 +38,8 @@
                             Vorgehen zu besprechen.</p>
                     </msContents>
                     <physDesc>
-                        <p>Beilage: <ref target="#D160_1">
-                                <rs type="person" ref="#arndts-carl-ludwig">Carl
-                                    Ludwig Arndts</rs> an <rs type="person" ref="#phillips-george">George Phillips</rs>. München, <date when="1852-03-30">30. März 1852</date>.</ref>
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d160_1">
+                                 an . München, .</tei:ref>
                         </p>
                     </physDesc>
                 </msDesc>
@@ -77,8 +75,8 @@
                 <p>Hochgeborner Herr Graf</p>
                 <p>Euer Excellenz gnädigem Auftrage gemäß habe ich mit <rs type="person" ref="#arndts-carl-ludwig">Professor Arndts</rs> dahier wegen Übernahme
                     einer Lehrkanzel an der juridischen Facultät zu <orgName>Wien</orgName> Rücksprache genommen. Derselbe erscheint geneigt einen
-                    solchen Ruf anzunehmen und hat mir in dem beifolgenden Schreiben<note xml:id="note_1">Vgl. den beigelegten Brief <ref target="#D160_1">Carl Ludwig
-                            Arndts an George Phillips. München, 30. März 1852</ref>.</note> die
+                    solchen Ruf anzunehmen und hat mir in dem beifolgenden Schreiben<note xml:id="note_1">Vgl. den beigelegten Brief <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d160_1">Carl Ludwig
+                            Arndts an George Phillips. München, 30. März 1852</tei:ref>.</note> die
                     Bedingungen näher bezeichnet, unter welchen er sein Domizil in <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs> mit dem in <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> vertauschen würde. Nach Durchlesung dieses Schreibens bin
                     ich nochmals zu ihm gegangen und habe ihm die Bemerkung gemacht, daß die k.k.
                     Regierung wohl nicht füglich auf den Wunsch, ihm ein Gehalt von 3.000 fl CM zu

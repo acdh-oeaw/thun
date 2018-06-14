@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -31,8 +30,8 @@
                             Walewski ist streng katholisch und ein Gegner Russlands.</p>
                     </msContents>
                     <physDesc>
-                        <p>Beilage: <ref target="#D104_1">Informationen zu Antoni Walewski vom
-                                selben Schreiber.</ref>
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d104_1">Informationen zu Antoni Walewski vom
+                                selben Schreiber.</tei:ref>
                         </p>
                     </physDesc>
                 </msDesc>
@@ -68,8 +67,8 @@
                             <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, wo er fruchtlos um Zulassung ins Archiv
                         ersuchte, dann nach <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs>; im Jahr 1834 arbeitete er
                         mit <rs type="person" ref="#mochnacki-maurycy">Moritz Mochnacki</rs> am 2.
-                        Bande von dessen Geschichte (der polnischen Revolution)<note xml:id="note_2">Vgl. <ref target="http://www.pbi.edu.pl/book_reader.php?p=41570&amp;s=1">Maurycy Mochnacki, Powstanie Narodu Polskiego W R. 1830 I 1831, Bd.
-                                1., Paris 1834</ref>.</note>, der nicht mehr im radicalen Sinne des
+                        Bande von dessen Geschichte (der polnischen Revolution)<note xml:id="note_2">Vgl. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="http://www.pbi.edu.pl/book_reader.php?p=41570&amp;s=1">Maurycy Mochnacki, Powstanie Narodu Polskiego W R. 1830 I 1831, Bd.
+                                1., Paris 1834</tei:ref>.</note>, der nicht mehr im radicalen Sinne des
                         1. abgefaßt ist.<lb/>Im Jahr 1835 wurde <rs type="person" ref="#waleswski-antoni">Walewski</rs> in das <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Pariser</rs>
                         Archiv zugelassen.<lb/>Von den Demokraten verfolgt ging er nach <rs type="place" subtype="place" ref="#place_7279949b987b1b373468947f87fe6753">Brüssel</rs>, <rs type="place" subtype="place" ref="#place_3eb8670d999ac077dd0e2c345cb7c905">Amsterdam</rs> und
                             <rs type="place" subtype="place" ref="#place_1d4660e0a445b02912a96b0ac4fe036a">Haag</rs>, wo er in Archiven arbeitete und Materialen
@@ -93,10 +92,10 @@
                         aus Anlaß derer erst damals revolutionär gewordenen Richtung und derer
                         Einmengung in die Aufstandsversuche gebrochen haben.<lb/>Er konnte erst 1848
                         nach <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs>, wo man ihn fälschlich für den Verfasser
-                        der „Lettres d’un gentilhomme polonais au prince de Metternich“<note xml:id="note_3">Vgl. <ref target="http://www.pbi.edu.pl/book_reader.php?p=51363">Aleksander
+                        der „Lettres d’un gentilhomme polonais au prince de Metternich“<note xml:id="note_3">Vgl. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="http://www.pbi.edu.pl/book_reader.php?p=51363">Aleksander
                                 Wielopolski, Lettre d'un gentilhomme Polonais sur les massacres de
                                 Gallicie adressee au prince de Metternich a l'occasion de sa depeche
-                                circulaire du 7 Mars 1846, Paris 1846</ref>.</note> hielt,
+                                circulaire du 7 Mars 1846, Paris 1846</tei:ref>.</note> hielt,
                         zurückkehren; nachdem er kurz früher einen Antrag erhalten hatte, in
                         französische Dienste zu treten, mit der Bestimmung, die deutschen
                         Verhältnisse nach dem alten öffentlichen Recht des heiligen römischen

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -7,7 +6,7 @@
                     allerhöchsten Patents vom 25. September 1850<lb/>o. D. [<date when="1851-03">März 1851</date>]<note xml:id="note_1">Vgl. die Verhandlungen zu dem
                         Gesetzesentwurf im März 1851, in: Die Protokolle des Österreichischen
                         Ministerrates 1848–1867. Das Ministerium Schwarzenberg, Bd. 4, S. 305–381.
-                        Das entsprechende Gesetz wurde am 11. April 1851 beschlossen. Vgl. <ref target="http://alex.onb.ac.at/cgi-content/alex?apm=0&amp;aid=rgb&amp;datum=18510004&amp;seite=00000281&amp;size=45">RGBl 11/1851</ref>.</note>
+                        Das entsprechende Gesetz wurde am 11. April 1851 beschlossen. Vgl. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="http://alex.onb.ac.at/cgi-content/alex?apm=0&amp;aid=rgb&amp;datum=18510004&amp;seite=00000281&amp;size=45">RGBl 11/1851</tei:ref>.</note>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -33,8 +32,8 @@
                     </msContents>
                     <physDesc>
                         <p>Mit eigenhändigen Anmerkungen und Korrekturen Thuns.<lb/>
-                            <ref target="#D110_1">Beilage: Eigenhändige Notizen Thuns zum
-                                Entwurf.</ref>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d110_1">Beilage: Eigenhändige Notizen Thuns zum
+                                Entwurf.</tei:ref>
                         </p>
                     </physDesc>
                 </msDesc>
@@ -67,7 +66,7 @@
                     etc.<lb/>haben über Antrag Unseres <orgName>Ministerrathes</orgName> nach Maßgabe des § 87 der Reichsverfassung die
                     nachfolgenden Bestimmungen über das Verfahren der Gerichtsbehörden zur
                     Durchführung Unseres Patentes vom 25. September 1850<note xml:id="note_2">Vgl.
-                            <ref target="http://alex.onb.ac.at/cgi-content/alex?apm=0&amp;aid=rgb&amp;datum=18500004&amp;seite=00001694&amp;size=45">RGBl 374/1850</ref>.</note> rücksichtlich der Zuweisung der
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="http://alex.onb.ac.at/cgi-content/alex?apm=0&amp;aid=rgb&amp;datum=18500004&amp;seite=00001694&amp;size=45">RGBl 374/1850</tei:ref>.</note> rücksichtlich der Zuweisung der
                     Kapitalsabfertigung für die in Folge der Grundentlastung aufgehobenen oder
                     abzulösenden Bezüge zu beschließen befunden und verordnen, daß dieselben in den
                     Kronländern <rs type="place" subtype="region" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich ob und unter

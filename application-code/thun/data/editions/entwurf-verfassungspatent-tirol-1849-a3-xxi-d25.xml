@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--  -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><!--  --><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -56,27 +54,26 @@
                         <p>Beilage 1: ein zweites Exemplar des Entwurfes, entspricht dem ersten
                             Entwurf inkl. der von Thun vorgenommenen Korrekturen, weshalb keine
                             Transkription erfolgt.<lb/>
-                            <ref target="#D25_1">Beilage 2: Entwurf der
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d25_1">Beilage 2: Entwurf der
                                 Wahlordnung für die Stände der gefürsteten Grafschaft Tirol mit
-                                handschriftlichen Korrekturen von Thun</ref>
+                                handschriftlichen Korrekturen von Thun</tei:ref>
                             <lb/>Beilage 3: ein
                             zweites Exemplar des Wahlordnungsentwurfes, entspricht dem ersten
                             Entwurf inkl. der von Thun vorgenommenen Korrekturen, weshalb keine
                             Transkription erfolgt.<lb/>
-                            <ref target="#D25_2">Beilage 4: Entwurf der
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d25_2">Beilage 4: Entwurf der
                                 Geschäftsordnung mit handschriftlichen Korrekturen von Thun
-                            </ref>
+                            </tei:ref>
                             <lb/>Beilage 5: Ein zweites Exemplar des
                             Geschäftsordnungsentwurfes, entspricht dem ersten Entwurf inkl. der von
                             Thun vorgenommenen Korrekturen, weshalb keine Transkription
                                 erfolgt.<lb/>
-                            <ref target="#D25_3">Beilage 6: Votum des
-                                Kultusministers</ref>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d25_3">Beilage 6: Votum des
+                                Kultusministers</tei:ref>
                             <lb/>
-                            <ref target="#D25_4">Beilage 7:
-                                Bemerkungen von <rs type="person" ref="#wolkenstein-leopold">Leopold
-                                    Wolkenstein</rs> zum Verfassungsentwurf Tirols, von Thun
-                                zusammengefasst</ref>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d25_4">Beilage 7:
+                                Bemerkungen von  zum Verfassungsentwurf Tirols, von Thun
+                                zusammengefasst</tei:ref>
                         </p>
                         <p>
                             <hi rend="italic">Die einzelnen Entwürfe sind mit handschriftlichen

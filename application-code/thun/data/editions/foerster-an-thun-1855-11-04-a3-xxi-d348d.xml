@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -42,16 +41,16 @@
                     <physDesc>
                         <p>Der Brief ist gemeinsam mit weiteren Briefen, die dieselbe Thematik
                             betreffen, abgelegt:<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/foerster-an-thun_1855_09-15_A3-XXI-D348.xml">Heinrich Förster an Leo Thun. Schloss Johannesberg, 10. September
-                                1855</ref>.<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/wilhelm-an-thun_1855-09-15_A3-XXI-D348a.xml">Andreas Wilhelm an Leo Thun. Krakau, 15. September
-                                1855</ref>.<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/wilhelm-an-kink_1855-09-15_A3-XXI-D348b.xml">Andreas Wilhelm an Rudolph Kink. Krakau, 15. September 1855
-                                </ref>.<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/foerster-an-thun_1855-10-11_A3-XXI-D348c.xml">Heinrich Förster an Leo Thun. Schloss Johannesberg, 11. Oktober
-                                1855</ref>.</p>
-                        <p>Beilage: <ref target="#D348d_1">Philipp Gabriel an Heinrich Förster.
-                                Teschen, 1. November 1855</ref>.</p>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/foerster-an-thun_1855_09-15_a3-xxi-d348.xml">Heinrich Förster an Leo Thun. Schloss Johannesberg, 10. September
+                                1855</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/wilhelm-an-thun_1855-09-15_a3-xxi-d348a.xml">Andreas Wilhelm an Leo Thun. Krakau, 15. September
+                                1855</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/wilhelm-an-kink_1855-09-15_a3-xxi-d348b.xml">Andreas Wilhelm an Rudolph Kink. Krakau, 15. September 1855
+                                </tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/foerster-an-thun_1855-10-11_a3-xxi-d348c.xml">Heinrich Förster an Leo Thun. Schloss Johannesberg, 11. Oktober
+                                1855</tei:ref>.</p>
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d348d_1">Philipp Gabriel an Heinrich Förster.
+                                Teschen, 1. November 1855</tei:ref>.</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
@@ -85,7 +84,7 @@
                 <p>Hochgebietender Herr Minister,<lb/>Hochgeborener Her Graf!</p>
                 <p>In der betrübenden Teschner Angelegenheit bin ich seither von dem Direktor
                         <rs type="person" ref="#gabriel-philipp">Gabriel</rs> in Wahrheit mit einer
-                    Fluth von Klagen, Hilferufen und Bitten überschwemmt worden. Die <ref target="#D348d_1">neueste gestern</ref> empfangene scheint mir der Art, daß
+                    Fluth von Klagen, Hilferufen und Bitten überschwemmt worden. Die <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d348d_1">neueste gestern</tei:ref> empfangene scheint mir der Art, daß
                     ich es Euer Excellenz nicht ersparen kann, Hochdieselben damit zu belästigen und
                     um Abhilfe dieser Übelstände, namentlich aber um Amotion jenes früher
                     bezeichneten <rs type="person" ref="#lukas-florian">Lehrers</rs> ganz gehorsamst zu

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -44,10 +43,10 @@
                     <physDesc>
                         <p>Der Brief ist im Nachlass gemeinsam mit zwei weiteren Briefen
                                 abgelegt:<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/phillips-an-thun_1852-02-24_A3-XXI-D156.xml">George Phillips an Leo Thun. Wien, 24. Februar 1852</ref>.<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/hartmann-an-thun_1852-04-01_A3-XXI-D156a.xml">Franz Hartmann an Leo Thun. Linz, 1. April 1852</ref>.</p>
-                        <p>Beilage: <ref target="#D156b_1">Sebastian Mutzl an Franz Hartmann.
-                                Eichstätt, 21. April 1852</ref>.</p>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/phillips-an-thun_1852-02-24_a3-xxi-d156.xml">George Phillips an Leo Thun. Wien, 24. Februar 1852</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/hartmann-an-thun_1852-04-01_a3-xxi-d156a.xml">Franz Hartmann an Leo Thun. Linz, 1. April 1852</tei:ref>.</p>
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d156b_1">Sebastian Mutzl an Franz Hartmann.
+                                Eichstätt, 21. April 1852</tei:ref>.</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
@@ -96,7 +95,7 @@
                     Bedauern, daß das Gerücht von seiner Berufung in den Zeitungen circulirt,
                     obschon ich mir die strengste Geheimhaltung so sehr zur Pflicht gemacht hatte,
                     daß ich durchaus niemandem von der Sache etwas mittheilte.<lb/>Alles dies
-                    schrieb ich gerade gestern in Beantwortung des <ref target="#D156b_1">beiliegenden Briefes</ref>, welchen ich Eurer Excellenz, vor Welcher ich
+                    schrieb ich gerade gestern in Beantwortung des <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d156b_1">beiliegenden Briefes</tei:ref>, welchen ich Eurer Excellenz, vor Welcher ich
                     nichts verborgen halten will, vorzulegen mir erlaube. <rs type="person" ref="#mutzl-sebastian">Mutzl</rs> war daher schon einigermaßen durch
                     mich vorbereitet, und ich bin überzeugt, daß die zarte Aufmerksamkeit Eurer
                     Excellenz, ihn jetzt durch mich verständigen gelassen zu haben, und seinerzeit

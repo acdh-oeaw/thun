@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -50,15 +49,15 @@
                     <physDesc>
                         <p>Der Brief ist gemeinsam mit weiteren Briefen, die dieselbe Thematik
                             betreffen, abgelegt:<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/foerster-an-thun_1855_09-15_A3-XXI-D348.xml">Heinrich Förster an Leo Thun. Schloss Johannesberg, 10. September
-                                1855</ref>.<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/wilhelm-an-thun_1855-09-15_A3-XXI-D348a.xml">Andreas Wilhelm an Leo Thun. Krakau, 15. September
-                                1855</ref>.<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/wilhelm-an-kink_1855-09-15_A3-XXI-D348b.xml">Andreas Wilhelm an Rudolph Kink. Krakau, 15. September 1855
-                                </ref>.<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/foerster-an-thun_1855-11-04_A3-XXI-D348d.xml">Heinrich Förster an Leo Thun. Breslau, 4. November 1855</ref>.</p>
-                        <p>Beilage: <ref target="#D348c_1">Philipp Gabriel an Heinrich Förster.
-                                Teschen, 4. Oktober 1855</ref>. Als Beilage zu diesem Brief von
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/foerster-an-thun_1855_09-15_a3-xxi-d348.xml">Heinrich Förster an Leo Thun. Schloss Johannesberg, 10. September
+                                1855</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/wilhelm-an-thun_1855-09-15_a3-xxi-d348a.xml">Andreas Wilhelm an Leo Thun. Krakau, 15. September
+                                1855</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/wilhelm-an-kink_1855-09-15_a3-xxi-d348b.xml">Andreas Wilhelm an Rudolph Kink. Krakau, 15. September 1855
+                                </tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/foerster-an-thun_1855-11-04_a3-xxi-d348d.xml">Heinrich Förster an Leo Thun. Breslau, 4. November 1855</tei:ref>.</p>
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d348c_1">Philipp Gabriel an Heinrich Förster.
+                                Teschen, 4. Oktober 1855</tei:ref>. Als Beilage zu diesem Brief von
                             Gabriel sind wiederum einige Schriftproben von Florian Lukas
                                 beigelegt.<note xml:id="note_1">Diese Schriftproben wurden hier
                                 nicht transkribiert.</note>
@@ -101,8 +100,8 @@
                     gewissenhaften Treue auch diesem Theile Euer Excellenz weiter Verwaltung Ihre
                     Aufmerksamkeit zugewendet ist.<lb/>Eine mit aller Genauigkeit geführte
                     Untersuchung in Anklagesachen des bewußten anonymen Schreibens,<note xml:id="note_2">Das anonyme Schreiben findet sich als Beilage zum Brief von
-                            <ref target="thun/thun-korrespondenz/tetschen/wilhelm-an-kink_1855-09-15_A3-XXI-D348b.xml">Andreas Wilhelm an Rudolph Kink. Krakau, 15. September 1855
-                        </ref>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/wilhelm-an-kink_1855-09-15_a3-xxi-d348b.xml">Andreas Wilhelm an Rudolph Kink. Krakau, 15. September 1855
+                        </tei:ref>
                     </note> welches zurückzusenden ich mir ergebenst gestatte, hat
                     unzweifelhaft dargethan, daß bis auf zwei Persönlichkeiten, die darin
                     beschimpften Männer, unter denen sich sehr würdige Priester befinden, in der
@@ -153,7 +152,7 @@
                 <div type="enclosure" xml:id="D348c_1">
                     <p>Hochwürdigster Fürstbischof!<lb/>Gnädigster Herr!</p>
                     <p>Gestern wurde mir von dem Hochwürdigen Fürstbischöflichen <rs type="person" ref="#helm-anton">Generalvicar</rs> im strengsten Vertrauen der
-                        unerhörte Innhalt eines <ref target="#D348b_1">anonymen Schreibens</ref> an
+                        unerhörte Innhalt eines <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d348b_1">anonymen Schreibens</tei:ref> an
                         Euere Fürstbischöfliche Gnaden bekannt gegeben. Dieses Schreiben hat
                             <rs type="person" ref="#lukas-florian">Lukas</rs> zum Verfasser, welches
                         aus dem Zusammentreffen aller Umstände hervorgeht. Um die Handschrift zu

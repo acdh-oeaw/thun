@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -61,16 +60,16 @@
                         <p>Unter der Signatur finden sich insgesamt fünf weitere Briefe:<note xml:id="note_1">Die Briefe wurden jeweils einzeln
                                 aufgenommen.</note>
                             <lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/weiss-an-thun_1855-08-06_A3-XXI-D347a.xml">Johann Baptist Weiß an Leo Thun. Graz, 6. August
-                                1855</ref>.<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/thun-an-weiss_1855-08-08_A3-XXI-D347b.xml">Leo Thun an Johann Baptist Weiß. Wien, 8. August
-                                1855</ref>.<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/weiss-an-thun_1855-08-08_A3-XXI-D347c.xml">Johann Baptist Weiß an Leo Thun. Graz, 8. August
-                                1855</ref>.<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/weiss-an-thun_1855-08-09_A3-XXI-D347d.xml">Johann Baptist Weiß an Leo Thun. Graz, 9. August
-                                1855</ref>.<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/attems-an-thun_1855-08-10_A3-XXI-D347e.xml">Ottokar Maria von Attems an Leo Thun. Graz, 10. August
-                            1855</ref>.</p>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/weiss-an-thun_1855-08-06_a3-xxi-d347a.xml">Johann Baptist Weiß an Leo Thun. Graz, 6. August
+                                1855</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/thun-an-weiss_1855-08-08_a3-xxi-d347b.xml">Leo Thun an Johann Baptist Weiß. Wien, 8. August
+                                1855</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/weiss-an-thun_1855-08-08_a3-xxi-d347c.xml">Johann Baptist Weiß an Leo Thun. Graz, 8. August
+                                1855</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/weiss-an-thun_1855-08-09_a3-xxi-d347d.xml">Johann Baptist Weiß an Leo Thun. Graz, 9. August
+                                1855</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/attems-an-thun_1855-08-10_a3-xxi-d347e.xml">Ottokar Maria von Attems an Leo Thun. Graz, 10. August
+                            1855</tei:ref>.</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>

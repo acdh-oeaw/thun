@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -68,8 +67,8 @@
                             5. Februar 1852 und 7. Februar 1852.<note xml:id="note_2">Der
                                 Zeitungsartikel wurde hier nicht transkribiert.</note>
                             <lb/>
-                            <ref target="#D163_1">Theodorich Hagn an Thomas Mitterndorfer.
-                                Kremsmünster, 15. April 1852</ref>.</p>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d163_1">Theodorich Hagn an Thomas Mitterndorfer.
+                                Kremsmünster, 15. April 1852</tei:ref>.</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
@@ -116,8 +115,8 @@
                     um dadurch meine Ordensbrüder zu bestimmen, die Schlafmütze abzunehmen und die
                     Anforderungen der Zeit zu beachten.<lb/>In Erfüllung des zweiten von Euer
                     Excellenz ausgesprochenen Wunsches bin ich so frei, das von <rs type="person" ref="#hagn-theoderich">Pater Theodorich</rs> an mich erlassene
-                    Schreiben zur geneigtesten Einsicht anzuschließen<note xml:id="note_4">Vgl. <ref target="#D163_1">Theodorich Hagn an Thomas Mitterndorfer. Kremsmünster,
-                            15. April 1852.</ref>
+                    Schreiben zur geneigtesten Einsicht anzuschließen<note xml:id="note_4">Vgl. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d163_1">Theodorich Hagn an Thomas Mitterndorfer. Kremsmünster,
+                            15. April 1852.</tei:ref>
                     </note>, in welchem er seine allerdings schroffe
                     Behauptung zu vertheidigen suchet. Da er sich darin auf eine in der
                     Kirchenzeitung erschienene Abhandlung „Die Regelung des Gymnasialwesens“<note xml:id="note_5">Der Aufsatz liegt dem Brief ebenfalls bei. Die Regelung des

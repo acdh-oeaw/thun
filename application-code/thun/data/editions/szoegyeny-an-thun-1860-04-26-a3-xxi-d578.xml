@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -39,9 +38,9 @@
                             die Verhaftung von Eduard Zsedényi werde negativ aufgenommen.</p>
                     </msContents>
                     <physDesc>
-                        <p>Beilage: <ref target="#D578_1">ein aus dem Ungarischen übersetzter Brief
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d578_1">ein aus dem Ungarischen übersetzter Brief
                                 von Nikolaus Vay an Ladislaus Szögyény vom 14. [24.?] April
-                                1860.</ref>
+                                1860.</tei:ref>
                         </p>
                     </physDesc>
                 </msDesc>
@@ -76,8 +75,8 @@
                 <p>Hochgeborner Graf!</p>
                 <p>In der Anlage habe ich die Ehre Ihnen die Übersetzung eines ungarischen
                     Schreibens, das ich soeben von <rs type="person" ref="#vay-nikolaus">Baron Vay</rs>
-                    erhielt, zu übersenden. <note xml:id="note_1">Vgl. die Beilage <ref target="#D578_1&gt;">Nikolaus Vay an Ladislaus Szögyény, 14. [24.?] April
-                            1860.</ref>
+                    erhielt, zu übersenden. <note xml:id="note_1">Vgl. die Beilage <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d578_1&gt;">Nikolaus Vay an Ladislaus Szögyény, 14. [24.?] April
+                            1860.</tei:ref>
                     </note> Da es wichtige Umstände enthält, erachtete ich es zu
                     Ihrer Kenntnis bringen zu sollen. Die guten Leute überschätzen den Einfluß, den
                     ich auf die Sache in den vergangenen Tagen mit Ihrer Zustimmung genommen. Ich

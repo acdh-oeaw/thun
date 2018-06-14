@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -47,18 +46,18 @@
                     <physDesc>
                         <p>Ingesamt drei Dokumente:</p>
                         <p>
-                            <ref target="#D143_1">Entwurf einer Vorschrift die theologischen Studien
-                                in Pest betreffend</ref> von <rs type="person" ref="#thun-hohenstein-leo">Leo
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d143_1">Entwurf einer Vorschrift die theologischen Studien
+                                in Pest betreffend</tei:ref> von <rs type="person" ref="#thun-hohenstein-leo">Leo
                                 Thun</rs>, o. O., o. D.<lb/>
-                            <ref target="#D143_2">Entwurf der
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d143_2">Entwurf der
                                 k.k. Verordnung hinsichtlich der theologischen Studien an der
-                                Universität Pest</ref> von <rs type="person" ref="#simor-johann">Johann
+                                Universität Pest</tei:ref> von <rs type="person" ref="#simor-johann">Johann
                                 Simor</rs>, 30. Oktober 1851 mit einer ausführlichen Anmerkung
                             zum § 9 dieses Entwurfs.<lb/>
-                            <ref target="#D143_3">Instruktion über die
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d143_3">Instruktion über die
                                 Wirkungssphäre des Direktors der theologischen Studien an der
                                 Universität zu Pest, und seine Stellung zu dem Dekan der
-                                theologischen Fakultät.</ref>
+                                theologischen Fakultät.</tei:ref>
                         </p>
                     </physDesc>
                 </msDesc>
@@ -131,7 +130,7 @@
                         seiner vormaligen Nebenländer hinsichtlich der Beziehung der kirchlichen
                         Gewalt zu der theologischen Fakultät und dem theologischen Studium an der
                             <orgName>Pesther Universität</orgName>
-                        gestellten Anträge genehmige ich folgende Bestimmungen.<note xml:id="note_2">Randbemerkung Thuns: k. <ref target="http://alex.onb.ac.at/cgi-content/alex?apm=0&amp;aid=rgb&amp;datum=18500004&amp;seite=00000827&amp;size=45">Verordnung vom 23.4.1850</ref> theologische
+                        gestellten Anträge genehmige ich folgende Bestimmungen.<note xml:id="note_2">Randbemerkung Thuns: k. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="http://alex.onb.ac.at/cgi-content/alex?apm=0&amp;aid=rgb&amp;datum=18500004&amp;seite=00000827&amp;size=45">Verordnung vom 23.4.1850</tei:ref> theologische
                         Studienordnung.</note>
                         <lb/>§ 1. Niemand kann an der <orgName>Pesther Universität</orgName> als katholischer
                         Professor, als Supplent oder als Docent der Theologie wirken, ohne die

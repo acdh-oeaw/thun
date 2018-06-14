@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -64,19 +63,19 @@
                     </msContents>
                     <physDesc>
                         <p>Beilagen:<lb/>
-                            <ref target="#D587_1">Abschrift eines Zeugnisses vom
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d587_1">Abschrift eines Zeugnisses vom
                                 Brünner Bürgermeister Johann Ritschl. Brünn, 20. Januar
-                                1850.</ref>
+                                1850.</tei:ref>
                             <lb/>
-                            <ref target="#D587_2">Abschrift eines Schreibens vom
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d587_2">Abschrift eines Schreibens vom
                                 mährisch-schlesischen Landeschef Leopold Lažanský. Brünn, 20.
-                                November 1849.</ref>
+                                November 1849.</tei:ref>
                             <lb/>
-                            <ref target="#D587_3">Abschrift eines
-                                Briefes von Karl Wojkowski. Brünn, 10. Dezember 1849.</ref>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d587_3">Abschrift eines
+                                Briefes von Karl Wojkowski. Brünn, 10. Dezember 1849.</tei:ref>
                             <lb/>
-                            <ref target="#D587_4">Abschrift eines Schreibens von Alexander Bach.
-                                Wien, 10. Juli 1849.</ref>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d587_4">Abschrift eines Schreibens von Alexander Bach.
+                                Wien, 10. Juli 1849.</tei:ref>
                         </p>
                     </physDesc>
                 </msDesc>

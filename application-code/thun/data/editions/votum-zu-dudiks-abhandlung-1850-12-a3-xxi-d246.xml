@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -639,8 +638,8 @@
                         Schrift ad acta<note xml:id="note_5">Die Arbeit Dudiks wurde überarbeitet im
                             Jahr 1857 veröffentlicht. Im Vorwort des Buchs geht Dudik kurz auf die
                             Hintergründe der Entstehung der Arbeit ein und erklärt die Verzögerung,
-                            mit der sie erschien. Vgl. <ref target="http://books.google.de/books?id=upMAAAAAcAAJ&amp;hl=de&amp;source=gbs_navlinks_s">Beda Dudik, Des Herzogtums Troppau ehemalige Stellung zur
-                                Markgrafschaft Mähren, Wien 1857.</ref>
+                            mit der sie erschien. Vgl. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="http://books.google.de/books?id=upmaaaaacaaj&amp;hl=de&amp;source=gbs_navlinks_s">Beda Dudik, Des Herzogtums Troppau ehemalige Stellung zur
+                                Markgrafschaft Mähren, Wien 1857.</tei:ref>
                         </note> zu legen und dem <rs type="person" ref="#dudik-beda">Dr. Dudik</rs> die
                             <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslauer</rs> Reise zu vergüten, weil
                         er sie im Auftrage des Landesausschußes unternahm.</hi>

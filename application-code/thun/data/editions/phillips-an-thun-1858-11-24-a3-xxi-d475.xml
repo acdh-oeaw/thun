@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -35,7 +34,7 @@
                     </msContents>
                     <physDesc>
                         <p>Das im Brief erwähnte Bittgesuch wurde im Nachlass von Thun unter einer
-                            eigenen Signatur (<ref target="thun/thun-korrespondenz/tetschen/phillips-an-thun_1858-11-24_A3-XXI-D474.xml">A3 XXI D474</ref>) abgelegt.</p>
+                            eigenen Signatur (<tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/phillips-an-thun_1858-11-24_a3-xxi-d474.xml">A3 XXI D474</tei:ref>) abgelegt.</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
@@ -68,8 +67,8 @@
                 <p>Hochgeborner Herr Graf<lb/>Euer Excellenz!</p>
                 <p>In der Anlage beehre ich mich Hochdemselben ein Bittgesuch zu überreichen, in
                     Betreff dessen ich mir die nachstehenden Bemerkungen vorzutragen erlaube.<note xml:id="note_1">
-                        <ref target="thun/thun-korrespondenz/tetschen/phillips-an-thun_1858-11-24_A3-XXI-D474.xml">Vgl. George Phillips an Leo Thun. 24. November
-                    1858.</ref>
+                        <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/phillips-an-thun_1858-11-24_a3-xxi-d474.xml">Vgl. George Phillips an Leo Thun. 24. November
+                    1858.</tei:ref>
                     </note>
                     <lb/>Die mannigfachen Erfahrungen, welche ich in den letzten
                     Jahren meiner akademischen Laufbahn gemacht habe, sind ganz dazu geeignet, mich

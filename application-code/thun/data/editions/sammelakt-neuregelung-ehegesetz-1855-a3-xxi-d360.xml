@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -53,11 +52,11 @@
                     <physDesc>
                         <p>Mit eigenhändigen Notizen und Anmerkungen von Leo Thun.</p>
                         <p>Hier wurden nur zwei Dokumente transkribiert:<lb/>
-                            <ref target="#D360_1">Georg Binder an das Ministerium für Kultus und Unterricht, o.
-                                D.</ref>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d360_1">Georg Binder an das Ministerium für Kultus und Unterricht, o.
+                                D.</tei:ref>
                             <lb/>
-                            <ref target="#D360_2">Anonymes Memorandum über den
-                                Einfluss des Staates auf die Ehegesetzgebung</ref>.</p>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d360_2">Anonymes Memorandum über den
+                                Einfluss des Staates auf die Ehegesetzgebung</tei:ref>.</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>

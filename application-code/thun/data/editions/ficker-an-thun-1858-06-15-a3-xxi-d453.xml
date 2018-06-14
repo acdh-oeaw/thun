@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -95,7 +94,7 @@
                 </index>
                 <p>Innsbruck 1858 Juni 15</p>
                 <p>Eure Excellenz!</p>
-                <p>Von Eurer Excellenz in Deren gnädigem <ref target="thun/thun-korrespondenz/IfOeG/thun-an-ficker_1858-06-09_CA186.xml">Schreiben vom 9. dieses Monats</ref>
+                <p>Von Eurer Excellenz in Deren gnädigem <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/ifoeg/thun-an-ficker_1858-06-09_ca186.xml">Schreiben vom 9. dieses Monats</tei:ref>
                     <note xml:id="note_1">Vgl. Leo Thun an Julius Ficker. Wien, 9. Juni 1858.</note>
                     zu einer Äußerung über den <rs type="person" ref="#muys-gottfried">Dr. Muys</rs>
                     aufgefordert, sehe ich mich leider nicht im Stande, genügende Auskunft geben zu

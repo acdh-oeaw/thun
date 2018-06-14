@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -42,20 +41,20 @@
                     </msContents>
                     <physDesc>
                         <p>Beilagen:<lb/>
-                            <ref target="#D70_1">Undatiertes Memorandum Bischof
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d70_1">Undatiertes Memorandum Bischof
                                 Diepenbrocks über mögliche Kandidaten für Direktorenstellen an
                                 österreichischen Gymnasien mit eigenhändigen Bemerkungen
-                                Thuns</ref>.<lb/>
-                            <ref target="#D70_2">Undatierter Lebenslauf von
-                                Professor Josef Kutzen</ref>.</p>
+                                Thuns</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d70_2">Undatierter Lebenslauf von
+                                Professor Josef Kutzen</tei:ref>.</p>
                         <p>Unter dieser Signatur sind außerdem zwei weitere Briefe von Diepenbrock
                                 abgelegt:<note xml:id="note_1">Diese Briefe wurden jeweils separat
                                 aufgenommen.</note>
                             <lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/diepenbrock-an-thun_1850-06-04_A3-XXI-D70a.xml">Melchior Diepenbrock an Leo Thun, Breslau, 4. Juni
-                                1850</ref>.<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/diepenbrock-an-thun_1850-08-27_A3-XXI-D70b.xml">Melchior Diepenbrock an Leo Thun, Johannesberg bei Jauernig, 27.
-                                August 1850</ref>.</p>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/diepenbrock-an-thun_1850-06-04_a3-xxi-d70a.xml">Melchior Diepenbrock an Leo Thun, Breslau, 4. Juni
+                                1850</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/diepenbrock-an-thun_1850-08-27_a3-xxi-d70b.xml">Melchior Diepenbrock an Leo Thun, Johannesberg bei Jauernig, 27.
+                                August 1850</tei:ref>.</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
@@ -90,7 +89,7 @@
                 </index>
                 <p>Eurer Excellenz</p>
                 <p>beehre ich mich, in ergebenster Erwiederung des werthen Schreibens vom 2. dieses
-                    Monats, <ref target="#D70_1">anliegend ein Verzeichnis</ref>
+                    Monats, <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d70_1">anliegend ein Verzeichnis</tei:ref>
                     <note xml:id="note_2">Siehe die Beilage.</note> einiger tüchtiger Männer für das
                     Lehrfach zu übersenden, welches ich nach möglichst sorgfältiger Erkundigung
                     zusammengestellt habe. Ich habe die Vorsicht gebraucht, auch noch das competente
@@ -174,7 +173,7 @@
                         ausgezeichnet; dabei ein treuer katholischer Christ; für das <orgName>Theresianum</orgName> vielleicht
                         noch etwas jung.<lb/>4) Professor <rs type="person" ref="#kutzen-joseph">Dr.
                             Kutzen</rs> dahier in <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs>, von dem ein
-                            <ref target="#D70_2">eigenhändiges Curriculum Vitae beiliegt</ref>; ein
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d70_2">eigenhändiges Curriculum Vitae beiliegt</tei:ref>; ein
                         auch als Charakter und Christ sehr achtbarer Mann, jedoch der Oberleitung
                         des <orgName>Theresianums</orgName>
                         vielleicht nicht völlig gewachsen; sonst in aller Weise sehr

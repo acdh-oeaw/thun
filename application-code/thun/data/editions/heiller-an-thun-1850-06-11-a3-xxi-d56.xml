@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -53,7 +52,7 @@
                             wird, bittet er zunächst um provisorische Bewilligung.</p>
                     </msContents>
                     <physDesc>
-                        <p>Beilage: <ref target="#D56_1"/>Entwurf für eine Kirchengemeindeordnung
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d56_1"/>Entwurf für eine Kirchengemeindeordnung
                             der katholischen Kirchengemeinde Pressburgs, 12. Juni 1850.</p>
                     </physDesc>
                 </msDesc>
@@ -87,7 +86,7 @@
                     <term>Pressburg</term>
                 </index>
                 <p>Euer Excellenz!</p>
-                <p>Indem sich der unterthänig gefertigte Ausschuß auf seine <ref target="#D56_1">(hier sub a anliegende) gehorsamste Eingabe</ref> an Seine Hochgeborn des
+                <p>Indem sich der unterthänig gefertigte Ausschuß auf seine <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d56_1">(hier sub a anliegende) gehorsamste Eingabe</tei:ref> an Seine Hochgeborn des
                     Herrn k.k. Ministerialcommißären <rs type="person" ref="#attems-heinrich">Grafen
                         Attems</rs> bezieht, haltet sich derselbe für verpflichtet, diese
                     seine Eingabe nicht nur allein auch dem <orgName>hohen Ministerium</orgName> zu

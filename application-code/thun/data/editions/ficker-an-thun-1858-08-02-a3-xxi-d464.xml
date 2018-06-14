@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -70,7 +69,7 @@
                 <p>Eure Excellenz!</p>
                 <p>Leider stand es nicht bei mir, Eurer Excellenz in Ausführung des gnädigen
                     Auftrags vom 19. Juni laufenden Jahres<note xml:id="note_1">
-                        <ref target="thun/thun-korrespondenz/tetschen/thun-an-ficker_1858-06-19_CA178.xml">Vgl. Leo Thun an Julius Ficker. Wien, 19. Juni 1858.</ref>
+                        <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/thun-an-ficker_1858-06-19_ca178.xml">Vgl. Leo Thun an Julius Ficker. Wien, 19. Juni 1858.</tei:ref>
                     </note>,
                     Erkundigungen über den Dr. <rs type="person" ref="#muys-gottfried">Muys</rs>
                     einzuziehen, früher zu berichten; ich hatte mich sogleich nach

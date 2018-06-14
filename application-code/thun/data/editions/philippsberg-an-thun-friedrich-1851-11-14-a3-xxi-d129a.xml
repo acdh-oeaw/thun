@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -35,11 +34,11 @@
                     </msContents>
                     <physDesc>
                         <p>Dem Brief sind drei Schreiben beigelegt:<lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/winkler-an-philippsberg_1851-11-14_A3-XXI-D129.xml">Anton Winkler an Eugen Philippsberg. Karlsruhe, 14. November
-                                1851.</ref>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/winkler-an-philippsberg_1851-11-14_a3-xxi-d129.xml">Anton Winkler an Eugen Philippsberg. Karlsruhe, 14. November
+                                1851.</tei:ref>
                             <lb/>
-                            <ref target="thun/thun-korrespondenz/tetschen/winkler-an-thun-friedrich_1851-11-11_A3-XXI-D129b.xml">Anton Winkler an Friedrich Thun. Karlsruhe, 11. November
-                                1851.</ref>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/winkler-an-thun-friedrich_1851-11-11_a3-xxi-d129b.xml">Anton Winkler an Friedrich Thun. Karlsruhe, 11. November
+                                1851.</tei:ref>
                             <lb/>Anton Winkler an das Ministerium für Kultus und
                             Unterricht. Karlsruhe, 11. November 1851.<note xml:id="note_1">Die
                                 Briefe wurden abgesehen vom letzten einzeln aufgenommen. Der
@@ -79,8 +78,8 @@
                 <p>Hochgeborner Graf!</p>
                 <p>Euer Excellenz habe ich die Ehre ein mir mit anliegenden Schreiben vom 14. dieses
                     [Monats] übergebenes Bittgesuch des <rs type="person" ref="#winkler-anton">Dr. A[nton]
-                        Winckler</rs> sammt Anlagen ergebenst zu übersenden.<note xml:id="note_2">Vgl. die Briefe Anton Winklers an <ref target="thun/thun-korrespondenz/tetschen/winkler-an-philippsberg_1851-11-14_A3-XXI-D129.xml">Eugen Philippsberg vom 14. November 1851</ref> und an <ref target="thun/thun-korrespondenz/tetschen/winkler-an-thun-friedrich_1851-11-11_A3-XXI-D129b.xml">Friedrich Thun vom 11. November 1851</ref> sowie dessen <ref target="thun/thun-korrespondenz/tetschen/winkler-an-ministerium-fuer-kultus-und-unterricht_1851-11-11_A3-XXI-D129c.xml">Eingabe an das Ministerium für Kultus und Unterricht mit demselben
-                            Datum</ref>
+                        Winckler</rs> sammt Anlagen ergebenst zu übersenden.<note xml:id="note_2">Vgl. die Briefe Anton Winklers an <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/winkler-an-philippsberg_1851-11-14_a3-xxi-d129.xml">Eugen Philippsberg vom 14. November 1851</tei:ref> und an <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/winkler-an-thun-friedrich_1851-11-11_a3-xxi-d129b.xml">Friedrich Thun vom 11. November 1851</tei:ref> sowie dessen <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/winkler-an-ministerium-fuer-kultus-und-unterricht_1851-11-11_a3-xxi-d129c.xml">Eingabe an das Ministerium für Kultus und Unterricht mit demselben
+                            Datum</tei:ref>
                     </note>Was der Supplikant in seinem Gesuche über seine
                     politische Haltung und über die hiesigen Localverhältnisse anführt, kann ich nur
                     bestätigen. Über seine scientifische Qualification erlaube ich mir kein Urtheil,

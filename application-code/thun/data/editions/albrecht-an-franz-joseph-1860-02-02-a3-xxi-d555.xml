@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -32,7 +31,7 @@
                             Stimmung gemacht werde.</p>
                     </msContents>
                     <physDesc>
-                        <p>Beilage: <ref target="#D555_1">Eigenhändige Notiz Leo Thuns.</ref>
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d555_1">Eigenhändige Notiz Leo Thuns.</tei:ref>
                         </p>
                     </physDesc>
                 </msDesc>

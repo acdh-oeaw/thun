@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -63,7 +62,7 @@
                     <term>Gymnasiallehrer</term>
                 </index>
                 <p>Hochwürdigster Herr Fürsterzbischof!</p>
-                <p>Ich danke Euerer fürstlichen Gnaden für das <ref target="thun/thun-korrespondenz/tetschen/tarnoczy-an-thun_1860-07-17_A3-XXI-D597.xml">freundliche Schreiben</ref>, welches Sie an mich aus Anlaß meiner Enthebung
+                <p>Ich danke Euerer fürstlichen Gnaden für das <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/tarnoczy-an-thun_1860-07-17_a3-xxi-d597.xml">freundliche Schreiben</tei:ref>, welches Sie an mich aus Anlaß meiner Enthebung
                     von meinem Amte, das ich – wenn auch mit unzureichenden Kräften, doch mit
                     aufrichtiger Liebe geführt habe, zu richten so gütig waren. Wenn es mir gelungen
                     ist, mir für meine fernere Laufbahn, – wie immer Sie in der bewegten Zeit in der
@@ -80,9 +79,9 @@
                     Die Muße die mir jetzt geworden, gestattet mir endlich eine längst begonnene
                     Lecture zu vollenden, die berühmten Conférences des <rs type="person" ref="#celestin-joseph-felix">P. Felix</rs> "Le Progrès par le
                         Christianisme"<note xml:id="note_1">
-                        <ref target="http://catalog.hathitrust.org/Record/011556843">Célestin-Joseph
+                        <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="http://catalog.hathitrust.org/record/011556843">Célestin-Joseph
                             Félix, Le Progrès par le christianisme. Conférences de Notre-Dame de
-                            Paris, Paris 1856–1860</ref>.</note>. Wäre es möglich alle Gymnasial-
+                            Paris, Paris 1856–1860</tei:ref>.</note>. Wäre es möglich alle Gymnasial-
                     und Realschullehrer, oder wenigstens alle Katecheten mit diesem Werke vertraut
                     zu machen, und durch sie den Ideengang desselben in die Jugend zu übertragen,
                     dann könnte man mit mehr Beruhigung in die Zukunft schauen! <lb/>Mit

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -46,11 +45,9 @@
                             Lehre ablehnen.</p>
                     </msContents>
                     <physDesc>
-                        <p>Beilage: <ref target="#D53_1">
-                                <rs type="person" ref="#gruener-joseph">Joseph
-                                    Grüner</rs> an <rs type="person" ref="#schwarzenberg-felix">Felix
-                                    Schwarzenberg</rs>. <rs type="place" subtype="place" ref="#place_4a887b8a68acf9b04d9d027bddedb06b">Leipzig</rs>, <date when="1850-05-30">30. Mai 1850</date>
-                            </ref>. Darin enthalten ist
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d53_1">
+                                 an . , 
+                            </tei:ref>. Darin enthalten ist
                             ein Bericht Grüners zum Deutschkatholizismus.</p>
                     </physDesc>
                 </msDesc>
@@ -83,7 +80,7 @@
                     <term>Deutschkatholiken</term>
                 </index>
                 <p>Der <rs type="person" ref="#gruener-joseph">kaiserliche Consul</rs> in
-                        <rs type="place" subtype="place" ref="#place_4a887b8a68acf9b04d9d027bddedb06b">Leipzig</rs> hat mit dem <ref target="#D53_1">angeschlossenen Bericht vom 30. vorigen Monats 57.B.</ref> aus Anlaß der in
+                        <rs type="place" subtype="place" ref="#place_4a887b8a68acf9b04d9d027bddedb06b">Leipzig</rs> hat mit dem <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d53_1">angeschlossenen Bericht vom 30. vorigen Monats 57.B.</tei:ref> aus Anlaß der in
                     den öffentlichen Blättern verbreiteten Nachricht über die von der sogenannten
                     „freichristlichen Gemeinde“ in <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> an das <orgName>kaiserliche Cultusministerium
                     </orgName>überreichte Eingabe, womit sie um sofortige Anerkennung als

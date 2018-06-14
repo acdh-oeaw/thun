@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -48,16 +47,16 @@
                     </msContents>
                     <physDesc>
                         <p>Beilage:<lb/>
-                            <ref target="#D129b_1">Gesuch von Anton Winkler an das
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d129b_1">Gesuch von Anton Winkler an das
                                 Ministerium für Kultus und Unterricht. Karlsruhe, 11. November
-                                1851</ref>.<lb/>Dem Gesuch sind zwei weitere Beilagen
+                                1851</tei:ref>.<lb/>Dem Gesuch sind zwei weitere Beilagen
                                 beigegeben:<lb/>
-                            <ref target="#D129c_1">Eine Abschrift des Diploms
-                                der Universität Berlin, 10. August 1847.</ref>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d129c_1">Eine Abschrift des Diploms
+                                der Universität Berlin, 10. August 1847.</tei:ref>
                             <lb/>
-                            <ref target="#D129c_2">Eine Abschrift der Bestätigung des Ministeriums
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d129c_2">Eine Abschrift der Bestätigung des Ministeriums
                                 des Innern über die Aufnahme Winklers als Ingenieurspraktikant, 1.
-                                April 1845.</ref>
+                                April 1845.</tei:ref>
                             <note xml:id="note_1">Im Nachlass sind der Brief und
                                 seine Beilagen gemeinsam mit zwei anderen Briefen unter der Signatur
                                 A3 XXI D129 abgelegt.</note>
@@ -220,8 +219,8 @@
                         </rs> in <orgName>Berlin</orgName>, berufen zu können.<lb/>Auch
                         habe ich aufgrund meiner mathematischen Dissertation von der <orgName>Kieler Hochschule</orgName> in sehr ehrender
                         Weise die Doctorwürde erlangt, und nehme ich mir die Freiheit einen Abdruck
-                        des Diploms gehorsamst beizuschließen.<note xml:id="note_2">Vgl. <ref target="#D129c_1">Abschrift des Diploms der Universität
-                            Berlin</ref>
+                        des Diploms gehorsamst beizuschließen.<note xml:id="note_2">Vgl. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d129c_1">Abschrift des Diploms der Universität
+                            Berlin</tei:ref>
                         </note> Von einer größern Abhandlung, welche demnächst im
                         Drucke erscheint, werde ich hohem Ministerium ein Exemplar zu übersenden mir
                         die Ehre nehmen.<lb/>Die einzelnen mathematischen Disciplinen, welche ich

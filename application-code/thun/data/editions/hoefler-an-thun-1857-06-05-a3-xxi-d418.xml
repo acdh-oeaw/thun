@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -47,8 +46,8 @@
                             Höfler hofft, dass Thun diesen Vorschlag unterstützen wird.</p>
                     </msContents>
                     <physDesc>
-                        <p>Beilage: <ref target="#D418_1">Zusammenfassung der Beratungen zur
-                                baulichen Umgestaltungen der Prager Universität.</ref>
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d418_1">Zusammenfassung der Beratungen zur
+                                baulichen Umgestaltungen der Prager Universität.</tei:ref>
                         </p>
                     </physDesc>
                 </msDesc>
@@ -84,11 +83,11 @@
                 <p>Euer Excellenz!</p>
                 <p>Ich hielt es für meine Pflicht, das erste Exemplar meiner am 28. vorigen Monats
                     in der akademischen Aula in Gegenwart Seiner Eminenz des <rs type="person" ref="#schwarzenberg-friedrich">Herrn Universitätskanzlers</rs>
-                    gehaltenen Rede<note xml:id="note_1">Vgl. <ref target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10447669-8">Constantin Höfler, Die philosophische Fakultät, ihre Stellung zur
+                    gehaltenen Rede<note xml:id="note_1">Vgl. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10447669-8">Constantin Höfler, Die philosophische Fakultät, ihre Stellung zur
                             Wissenschaft und zum Staate. Eine Rede, gehalten in der akademischen
                             Aula der Carolo-Ferdinanda bei Gelegenheit der ersten Verkündigung von
                             Preis-Aufgaben durch die philosophische Fakultät, Prag
-                        1857</ref>.</note> samt den Thematen der Preisaufgaben Eurer Excellenz
+                        1857</tei:ref>.</note> samt den Thematen der Preisaufgaben Eurer Excellenz
                     zuzusenden, so daß sie meiner Berechnung nach zur selben Stunde, in welcher sie
                     gehalten wurde, 12 Uhr, sich in den Händen Eurer Excellenz befinden sollte. Da
                     mir aber Herr Dr. <rs type="person" ref="#nowak-august">Nowak</rs> meldete, sie sei

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -83,10 +82,10 @@
                     Lehrkörpers vorkommen, ein Kollege konnte sich die betreffenden Nummern
                     benannter Zeitschrift (Nr. 28 und 29, des 11. und 28. Juli)<note xml:id="note_2">Der zweite Teil des Aufsatzes erschien nicht am 28. Juli, sondern am 18.
                         Juli 1860. Vgl. Božidar Raič, Slovenščina in srednje učilíšče v Mariboru,
-                        in: <ref target="http://www.dlib.si/?URN=URN:NBN:SI:DOC-7SQY09KE">Kmetijske
-                            in rokodelske novice (11.07.1860), Jahrgang 18, Nr. 28, S. 219–220</ref>
-                        und in: <ref target="http://www.dlib.si/?URN=URN:NBN:SI:DOC-ZR5TNGJ0">Kmetijske in rokodelske novice (18.07.1860), Jahrgang 18, Nr. 29, S.
-                            227–229</ref>.</note> nebst einer wörtlich genauen Übersetzung
+                        in: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="http://www.dlib.si/?urn=urn:nbn:si:doc-7sqy09ke">Kmetijske
+                            in rokodelske novice (11.07.1860), Jahrgang 18, Nr. 28, S. 219–220</tei:ref>
+                        und in: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="http://www.dlib.si/?urn=urn:nbn:si:doc-zr5tngj0">Kmetijske in rokodelske novice (18.07.1860), Jahrgang 18, Nr. 29, S.
+                            227–229</tei:ref>.</note> nebst einer wörtlich genauen Übersetzung
                     verschaffen. Der Aufsatz ist von einem <rs type="person" ref="#raic-bozidar">slovenischen
                         Mitgliede unseres Lehrkörpers, Weltpriester hiesiger Diözese</rs>,
                     unterzeichnet und enthält nebst allgemein gehaltenen Klagen gegen die Regierung

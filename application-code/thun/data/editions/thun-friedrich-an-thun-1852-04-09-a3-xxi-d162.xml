@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -37,8 +36,8 @@
                             selbst würde eine Berufung desselben durchaus empfehlen.</p>
                     </msContents>
                     <physDesc>
-                        <p>Beilage: <ref target="#D162_1">Justin an Friedrich Thun. Frankfurt, 8.
-                                April 1852.</ref>
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d162_1">Justin an Friedrich Thun. Frankfurt, 8.
+                                April 1852.</tei:ref>
                         </p>
                         <p/>
                         <p>Verweis auf A3 XXI D155.</p>
@@ -75,8 +74,8 @@
                 <p>Frankfurt, den 9. April 1852</p>
                 <p>Lieber Leo,</p>
                 <p>beiliegend einige Zeilen von Staatsrath <rs type="person" ref="#linde-justin">Linde</rs> bezüglich des <rs type="person" ref="#hennes-johann-heinrich">Professors Hennes</rs> in <rs type="place" subtype="place" ref="#place_3496da6c1db0a5223edb1fb4c415a154">Mainz</rs>
-                    <note xml:id="note_1">Vgl. den beigelegten Brief <ref target="#D162_1">Justin
-                            Linde an Friedrich Thun. Frankfurt, 8. April 1852</ref>.</note>, hast du
+                    <note xml:id="note_1">Vgl. den beigelegten Brief <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d162_1">Justin
+                            Linde an Friedrich Thun. Frankfurt, 8. April 1852</tei:ref>.</note>, hast du
                     etwas darauf zu erwiedern, so lasse es mich baldmöglichst wissen. Sage <rs type="person" ref="#thun-hohenstein-caroline">Caroline</rs> meinen ganz besonderen
                     Dank, daß sie uns gleich am Tag nach der Katastrophe Nachrichten gegeben hat,
                     ohne ihre freundliche Fürsorge für uns wären wir noch ohne ein Wort mehr als die

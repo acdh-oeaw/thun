@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -49,9 +48,9 @@
                             habe.</p>
                     </msContents>
                     <physDesc>
-                        <p>Beilage: <ref target="#D338_1">Abschrift in Auszügen eines
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d338_1">Abschrift in Auszügen eines
                                 Briefes von Alexander Braun an Hermann Leonhardi vom 30. März
-                                1855</ref>.</p>
+                                1855</tei:ref>.</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
@@ -85,7 +84,7 @@
                     <term>Naturgeschichte</term>
                 </index>
                 <p>Hochgeborner Graf!</p>
-                <p>Kurz nachdem ich die Ehre hatte, Euer Excellenz ein Promemoria <note xml:id="note_1">Vgl. <ref target="thun/thun-korrespondenz/tetschen/leonhardi-an-thun_1855-03-08_A3-XXI-D333.xml">Hermann Leonhardi an Leo Thun. Prag, 8. März 1855.</ref>
+                <p>Kurz nachdem ich die Ehre hatte, Euer Excellenz ein Promemoria <note xml:id="note_1">Vgl. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/tetschen/leonhardi-an-thun_1855-03-08_a3-xxi-d333.xml">Hermann Leonhardi an Leo Thun. Prag, 8. März 1855.</tei:ref>
                     </note>über die
                     dringend wünschenswerthe Berufung <rs type="person" ref="#schimper-karl-friedrich">Dr.
                         Karl Fr[iedrich] Schimpers</rs> an hiesige Universität zu übersenden,
@@ -107,8 +106,8 @@
                     es nur der größte Gewinn für <orgName>Prag</orgName> und
                     für den Kaiserstaat seyn könne, wenn <rs type="person" ref="#schimper-karl-friedrich">Dr.
                         Schimper</rs> hier einen Wirkungskreis bekäme. Von Allen wurde ich in
-                    gleicher Weise aufgefordert, die betreffenden <ref target="#D338_1">Stellen des
-                        Braunschen Briefes</ref>, sowohl die auf <rs type="person" ref="#schimper-karl-friedrich">Dr. Schimper</rs> sich beziehenden als
+                    gleicher Weise aufgefordert, die betreffenden <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d338_1">Stellen des
+                        Braunschen Briefes</tei:ref>, sowohl die auf <rs type="person" ref="#schimper-karl-friedrich">Dr. Schimper</rs> sich beziehenden als
                     die treffenden und schönen allgemeinen Äußerungen über den heutigen Stand der
                     Naturwissenschaft und das darauf gegründete Bedürfnis des
                     naturwissenschaftlichen Unterrichts zu Euer Hochgeboren Kenntnis zu bringen; was
@@ -116,7 +115,7 @@
                     nichts zu versäumen, will ich, in eine Ausarbeitung vertieft, es nicht anstehen
                     lassen, bis ich nach den Ostertagen mich Hochdenselben in
                         <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> vorstellen zu dürfen hoffen kann, sondern bin so
-                    frei, eine <ref target="#D338_1">Abschrift der betreffenden Stellen</ref> schon
+                    frei, eine <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d338_1">Abschrift der betreffenden Stellen</tei:ref> schon
                     heute hiebei zu übersenden. Was darin über die Aufgabe unsrer Zeit und über die
                     darauf bezügliche Leistungsfähigkeit <rs type="person" ref="#schimper-karl-friedrich">Karl Schimpers</rs> von so competenter Seite gesagt ist, dürfte
                     allein hinreichen, daß Euer Excellenz, von Hochdero Entschließung es ja allein

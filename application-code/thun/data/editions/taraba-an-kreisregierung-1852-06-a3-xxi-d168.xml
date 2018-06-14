@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -37,11 +36,11 @@
                     </msContents>
                     <physDesc>
                         <p>Beilagen:<lb/>
-                            <ref target="#D168_1">Abschlägiger Bescheid der
-                                Bezirkshauptmannschaft von Nymburk, 25. Mai 1852</ref>.<lb/>
-                            <ref target="#D168_2">Gesuch Josef Tarabas an die Bezirkshauptmannschaft
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d168_1">Abschlägiger Bescheid der
+                                Bezirkshauptmannschaft von Nymburk, 25. Mai 1852</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d168_2">Gesuch Josef Tarabas an die Bezirkshauptmannschaft
                                 von Nymburk mit einem Empfehlungsschreiben des
-                                medizinisch-chirurgischen Studiendirektorates</ref>.</p>
+                                medizinisch-chirurgischen Studiendirektorates</tei:ref>.</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
@@ -73,8 +72,8 @@
                         [<rs type="place" subtype="place" ref="#place_059cbe1849eb175fb5cf7b7bf78516f7">Nymburk</rs>] um Erwirkung eines k.k.
                     Kreisregierungspasses, welchen ich zum Behufe einer Reise zur wissenschaftlichen
                     Ausbildung angesucht habe, wurde ich laut Bescheides vom 25. Mai dieses Jahres
-                    Z. 6445<note xml:id="note_1">Vgl. <ref target="#D168_1">Abschlägiger Bescheid
-                            der Bezirkshauptmannschaft vom 25. Mai 1852</ref>.</note> aus dem Grunde
+                    Z. 6445<note xml:id="note_1">Vgl. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d168_1">Abschlägiger Bescheid
+                            der Bezirkshauptmannschaft vom 25. Mai 1852</tei:ref>.</note> aus dem Grunde
                     abgewiesen, weil ich angeblich an <orgName>unserer
                         vaterländischen Hochschule</orgName> genug Gelegenheit finde mein
                     vorgesetztes Ziel zu erreichen und weil meine nach der Ansicht des <rs type="person" ref="#komers-karl">Herrn Bezirkshauptmanns</rs> materiellen
@@ -136,8 +135,8 @@
                         geboten seyn, um Ihr vorgesetztes Ziel zu erreichen, und es geht mir bei dem
                         Umstande, wo Ihre materiellen Verhältnisse keine beruhigende Aussicht
                         darbiethen, daß Sie die vorhabenden Reisen mit Erfolg benützen könnten,
-                        jeder grundhältige Anhaltspunkt ab, Ihr rückfolgendes Gesuch<note xml:id="note_2">Vgl. <ref target="#D168_2">Gesuch von Josef Taraba an
-                                die Bezirkshauptmannschaft</ref>
+                        jeder grundhältige Anhaltspunkt ab, Ihr rückfolgendes Gesuch<note xml:id="note_2">Vgl. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d168_2">Gesuch von Josef Taraba an
+                                die Bezirkshauptmannschaft</tei:ref>
                         </note> zu unterstützen.<lb/>Der
                         Heimathschein und der Betrag von 30 fr CM liegt allerhöchst bei.</p>
                     <p>k.k. Bezirkshauptmannschaft</p>

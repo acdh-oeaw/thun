@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -46,10 +45,10 @@
                             durch einen anderen Professor überprüfen habe lassen.</p>
                     </msContents>
                     <physDesc>
-                        <p>Beilage: Abschrift eines Schreibens von <ref target="#D349_1">
-                                <rs type="person" ref="#pierre-viktor">Victor Pierre</rs> an die
+                        <p>Beilage: Abschrift eines Schreibens von <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d349_1">
+                                 an die
                                 Gymnasialprüfungskommission in Lemberg. Lemberg, 6. Oktober
-                                1855</ref>.</p>
+                                1855</tei:ref>.</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>

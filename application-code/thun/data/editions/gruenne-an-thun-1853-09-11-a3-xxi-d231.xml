@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -29,8 +28,8 @@
                             Kaisers.</p>
                     </msContents>
                     <physDesc>
-                        <p>Beilage: <ref target="#D231_1">Kuvert mit handschriftlichem
-                                Vermerk.</ref>
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d231_1">Kuvert mit handschriftlichem
+                                Vermerk.</tei:ref>
                         </p>
                     </physDesc>
                 </msDesc>

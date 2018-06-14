@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -35,8 +34,8 @@
                             Erzieher bei der Familie von Karl Mertens in Mainz.</p>
                     </msContents>
                     <physDesc>
-                        <p>Beilage: <ref target="#D190_1">Schreiben von Karl Ahn. Mainz, 11. Februar
-                                1853</ref>.</p>
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d190_1">Schreiben von Karl Ahn. Mainz, 11. Februar
+                                1853</tei:ref>.</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
@@ -79,8 +78,8 @@
                         Schwagers</rs> übergebe, damit er sieht, was er zu leisten fähig, und
                     ob es wohl möglich ihn mit der Zeit in österreichische Dienste zu bringen, was
                     sein sehnlichster Wunsch.<note xml:id="note_2">
-                        <ref target="#D190_1">Vgl. das
-                            Schreiben von Karl Ahn vom 11. Februar 1853.</ref>
+                        <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d190_1">Vgl. das
+                            Schreiben von Karl Ahn vom 11. Februar 1853.</tei:ref>
                     </note> Für seine
                     guten Gesinnungen und Moralität bürgt <rs type="person" ref="#mertens-karl">mein
                         Schwager</rs>, der sehr mit ihm und seinen Leistungen zufrieden.

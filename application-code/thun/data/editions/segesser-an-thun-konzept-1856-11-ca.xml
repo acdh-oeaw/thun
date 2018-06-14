@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -8,8 +7,8 @@
                         Segesser</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
                     <lb/>o. O., o. D. <date when="1856-11">[November
                         1856]</date>
-                    <note xml:id="note_1">Die Datierung ergibt sich aus dem <ref target="thun/thun-korrespondenz/Staatsarchiv_Luzern/thun-an-segesser_1856-10-27_CA567.xml">vorangegangen Schreiben Leo Thuns an Philipp Anton Segesser vom 27.
-                            Oktober 1856</ref>.</note>
+                    <note xml:id="note_1">Die Datierung ergibt sich aus dem <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/staatsarchiv_luzern/thun-an-segesser_1856-10-27_ca567.xml">vorangegangen Schreiben Leo Thuns an Philipp Anton Segesser vom 27.
+                            Oktober 1856</tei:ref>.</note>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -66,7 +65,7 @@
                     <term>Rechtswissenschaften</term>
                     <term>Rechtsgeschichte</term>
                 </index>
-                <p>Euer Hochwohlgeboren sehr verehrte Zuschrift vom <ref target="thun/thun-korrespondenz/Staatsarchiv_Luzern/thun-an-segesser_1856-10-27_CA567.xml">27. vorigen Monats</ref> sezt mich in Kenntniß, daß die Lehrkanzel, welche
+                <p>Euer Hochwohlgeboren sehr verehrte Zuschrift vom <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="thun/thun-korrespondenz/staatsarchiv_luzern/thun-an-segesser_1856-10-27_ca567.xml">27. vorigen Monats</tei:ref> sezt mich in Kenntniß, daß die Lehrkanzel, welche
                         <rs type="person" ref="#franz-joseph">Seine Majestät</rs> mir zu übertragen
                     willens ist, (an der <orgName>Universität
                     Graz</orgName>), speciell für deutsche Reichs und Rechtsgeschichte und deutsches

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -42,7 +41,7 @@
                             richtet.</p>
                     </msContents>
                     <physDesc>
-                        <p>Auf der Rückseite findet sich in Abschrift ein <ref target="#CA77_1">Auszug aus einem Brief von Gregor Zeithammer</ref>.</p>
+                        <p>Auf der Rückseite findet sich in Abschrift ein <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#ca77_1">Auszug aus einem Brief von Gregor Zeithammer</tei:ref>.</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
@@ -78,7 +77,7 @@
                 <p>Wien, den 10. August</p>
                 <p>Lieber Herr Ministerialrath!</p>
                 <p>Ein Brief von <rs type="person" ref="#zeithammer-gregor">Zeithammer</rs> – aus
-                    welchem ich einen <ref target="#CA77_1">Auszug</ref> am Ende folgen lasse
+                    welchem ich einen <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#ca77_1">Auszug</tei:ref> am Ende folgen lasse
                     bestärkt mich wieder in meiner früheren Ansicht, daß es sehr gut wäre die
                     Gymnasial-Inspektoren – wenigstens diejenigen, die schon in der Lage waren
                     Bereisungen vorzunehmen und die eine große Anzahl von Gymnasien unter ihrer

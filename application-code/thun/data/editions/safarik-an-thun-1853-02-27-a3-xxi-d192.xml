@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -48,14 +47,14 @@
                     </msContents>
                     <physDesc>
                         <p>Beilagen:<lb/>
-                            <ref target="#D192_1">Abschrift der schriftlichen Äußerung
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d192_1">Abschrift der schriftlichen Äußerung
                                 Pavel Joseph Šafařik wegen der beabsichtigten Auflösung seiner
-                                Amtswohnung. Prag, 18. Februar 1853</ref>.<lb/>
-                            <ref target="#D192_2">Promemoria Pavel Joseph Šafařiks. Prag, 27. Februar
-                                1853</ref>.<lb/>
-                            <ref target="#D192_3">Liste mit Verordnungen, die
+                                Amtswohnung. Prag, 18. Februar 1853</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d192_2">Promemoria Pavel Joseph Šafařiks. Prag, 27. Februar
+                                1853</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d192_3">Liste mit Verordnungen, die
                                 das Anrecht des Bibliothars auf eine Amtswohnung im Klementinum
-                                belegen</ref>.<lb/>Plan der Bibliothek und der Amtswohnungen im
+                                belegen</tei:ref>.<lb/>Plan der Bibliothek und der Amtswohnungen im
                                 Klementinum.<note xml:id="note_1">Der Plan wird hier nicht
                                 wiedergegeben.</note>
                         </p>
@@ -107,9 +106,9 @@
                     Einsicht gehorsamst vorzulegen, nämlich meine schriftliche Äußerung auf den
                     commissionellen Antrag vom 18. Februar letzten Jahres und ein ehrfurchtsvolles
                     Promemoria über die ganze Frage.<note xml:id="note_2">Beides liegt dem Brief
-                        bei. Vgl. <ref target="#D192_1">schriftliche Äußerung Šafařiks, Prag, 18.
-                            Februar 1853</ref> sowie <ref target="#D192_2">das Promemoria vom 27.
-                            Februar 1853.</ref>
+                        bei. Vgl. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d192_1">schriftliche Äußerung Šafařiks, Prag, 18.
+                            Februar 1853</tei:ref> sowie <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d192_2">das Promemoria vom 27.
+                            Februar 1853.</tei:ref>
                     </note>
                     <lb/>Nachdem nämlich bereits im November 1852
                     von Seiten der <orgName>Universität</orgName> durch den
@@ -244,13 +243,13 @@
                         dienen und für Letzern eine andere Unterkunft wird ermittelt werden
                         müssen.<lb/>Rathen doch selbst theoretische Werke, – unter ihnen z. B.
                         Joh[ann] A[ugust] F[riedrich] Schmidts Handbuch der Bibliothekwissenschaft
-                        (Weimar 1840. 8. § 286)<note xml:id="note_4">Vgl. <ref target="http://books.google.at/books?id=URAPAAAAQAAJ&amp;dq=Schmidt,+Handbuch+der+Bibliothekswissenschaft&amp;hl=de&amp;source=gbs_navlinks_s">Johann August Friedrich Schmidt, Handbuch der
+                        (Weimar 1840. 8. § 286)<note xml:id="note_4">Vgl. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="http://books.google.at/books?id=urapaaaaqaaj&amp;dq=schmidt,+handbuch+der+bibliothekswissenschaft&amp;hl=de&amp;source=gbs_navlinks_s">Johann August Friedrich Schmidt, Handbuch der
                                 Bibliothekswissenschaft, der Literatur- und Bücherkunde. Eine
                                 gedrängte Übersicht der Handschriftenkunde, der Geschichte der
                                 Buchdruckerkunst und des Buchhandels, der Bücherkenntnis
                                 (Bibliographie) im engern Sinne, der Bibliothekenkunde und
                                 Bibliothekonomie und der literärhistorischen und bibliographischen
-                                Schriften, Weimar 1840</ref>.</note> – „darauf zu sehen, daß das
+                                Schriften, Weimar 1840</tei:ref>.</note> – „darauf zu sehen, daß das
                         Lokal in der Folge, wenn die Bibliothek starken Zuwachs erfährt, leicht
                         vergrößert werden kann.“<lb/>Auch das Beispiel der meisten öffentlichen
                         Landesbibliotheken des Aus- und Inlandes, zumal solcher, in deren Bestandort

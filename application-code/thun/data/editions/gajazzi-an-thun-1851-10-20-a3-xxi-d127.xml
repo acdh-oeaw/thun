@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,8 +42,8 @@
                         <p>Beilage: Gedrucktes Circular des Generalvikars in Brescia, 13. Juli
                                 1848.<note xml:id="note_1">Hier nicht transkribiert.</note>
                             <lb/>
-                            <ref target="#D127_1">Außerdem findet sich eine kurze Zusammenfassung des
-                                Briefes in deutscher Sprache.</ref>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d127_1">Außerdem findet sich eine kurze Zusammenfassung des
+                                Briefes in deutscher Sprache.</tei:ref>
                         </p>
                     </physDesc>
                 </msDesc>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -61,8 +60,8 @@
                             werde.</p>
                     </msContents>
                     <physDesc>
-                        <p>Beilage: <ref target="#D171_1">Denkschrift von Karl Ernst Jarcke "Die
-                                österreichischen Universitäten".</ref>
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d171_1">Denkschrift von Karl Ernst Jarcke "Die
+                                österreichischen Universitäten".</tei:ref>
                         </p>
                     </physDesc>
                 </msDesc>
@@ -97,8 +96,8 @@
                     <term>Studenten</term>
                 </index>
                 <p>Euer Excellenz,</p>
-                <p>habe ich die Ehre hierbei das gewünschte Memoire zu überreichen<note xml:id="note_1"> Vgl. <ref target="#D171_1">Denkschrift Jarckes "Die
-                            österreichischen Universitäten".</ref>
+                <p>habe ich die Ehre hierbei das gewünschte Memoire zu überreichen<note xml:id="note_1"> Vgl. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d171_1">Denkschrift Jarckes "Die
+                            österreichischen Universitäten".</tei:ref>
                     </note>, muß jedoch dasselbe mit
                     folgenden nothwendigen Bemerkungen begleiten.<lb/>Der Zweck dieser Denkschrift
                     ist ein doppelter. Sie enthält eine energische Protestation gegen das
