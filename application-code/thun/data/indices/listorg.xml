@@ -1,0 +1,1424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Institutionsverzeichnis</title>
+            <respStmt>
+               <resp>providing the content</resp>
+               <name>Christof Aichner</name>
+               <name>Tanja Kraler</name>
+            </respStmt>
+            <respStmt>
+               <resp>converted to XML encoding</resp>
+               <name>Peter Andorfer</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Institutionsverzeichnis der Thun-Korrespondenz</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="index_orgs">
+            <listOrg>
+               <org xml:id="org_f0d0511c2e7a4ca055d0991b939cff3f">
+                  <orgName type="pref">Münchens</orgName>
+               </org>
+               <org xml:id="org_b47256c97cc88833dae1b908360dd410">
+                  <orgName type="pref">unserer Universität</orgName>
+               </org>
+               <org xml:id="org_d272d32910ca4db2c8f5441b809184ba">
+                  <orgName type="pref">Finanzministeriums</orgName>
+               </org>
+               <org xml:id="org_61b3b1d280ae079ce38900bcb4ac2955">
+                  <orgName type="pref">Universität Gießen</orgName>
+               </org>
+               <org xml:id="org_5e680da43719110d10ce9985af5389c0">
+                  <orgName type="pref">unsere vaterländische Hochschule</orgName>
+               </org>
+               <org xml:id="org_a87c18c322f6b2feece9018bcd4027e5">
+                  <orgName type="pref">Olmütz</orgName>
+               </org>
+               <org xml:id="org_6bad5cc169c2e89a7857574c8fc7ad98">
+                  <orgName type="pref">Jesuitenordens</orgName>
+               </org>
+               <org xml:id="org_6e8452929d4004cfd758dd8a1ec6c57f">
+                  <orgName type="pref">k.k. Ministeriums für Cultus und Unterricht</orgName>
+               </org>
+               <org xml:id="org_8feb166f819ba7efdfc43e3cc08940c2">
+                  <orgName type="pref">dell’Anima</orgName>
+               </org>
+               <org xml:id="org_ee1611b61f5688e70c12b40684dbb395">
+                  <orgName type="pref">Berlin</orgName>
+               </org>
+               <org xml:id="org_37087ca3535d4bd5aade36e1c46e0fc6">
+                  <orgName type="pref">Verein</orgName>
+               </org>
+               <org xml:id="org_8412a703d338fc92663508306aaec9d0">
+                  <orgName type="pref">Universität Tübingen</orgName>
+               </org>
+               <org xml:id="org_ea1e1df04688e605ae7bb351c2aa9ed4">
+                  <orgName type="pref">Hohen k.k. Ministerium</orgName>
+               </org>
+               <org xml:id="org_43da8b719b5201aa18c2c99c86d8b90a">
+                  <orgName type="pref">Universität Lemberg</orgName>
+               </org>
+               <org xml:id="org_10f13e62451c595e334b05ef40cbf72d">
+                  <orgName type="pref">Unterrichts- und Cultusministeriums</orgName>
+               </org>
+               <org xml:id="org_cab1ceb75188c3f1cce5aadba9c0e171">
+                  <orgName type="pref">unsere Universität</orgName>
+               </org>
+               <org xml:id="org_45ccb4c7518093b2e40c9138f42d084d">
+                  <orgName type="pref">Kultus- und Unterrichtsministeriums</orgName>
+               </org>
+               <org xml:id="org_2b86802f176616d7af0b7397b081e2ad">
+                  <orgName type="pref">Krakauer Universität</orgName>
+               </org>
+               <org xml:id="org_41ea45c76525337f5f22e4436e8d75e5">
+                  <orgName type="pref">hohen Cultusministeriums</orgName>
+               </org>
+               <org xml:id="org_0c4722e0787b8558a2bd20cfe06b2ccf">
+                  <orgName type="pref">Akademie der Wissenschaften</orgName>
+               </org>
+               <org xml:id="org_7896268cfdb1b2753fd8e8c2d0c100b0">
+                  <orgName type="pref">Eines hohen Finanzministeriums</orgName>
+               </org>
+               <org xml:id="org_e61b5918007e004ad926fb7c4bed4724">
+                  <orgName type="pref">Königlich Böhmische Gesellschaft der Wissenschaften</orgName>
+               </org>
+               <org xml:id="org_f672a0e9dc1e9724a7fbbf1f9f8520c3">
+                  <orgName type="pref">Königsberg</orgName>
+               </org>
+               <org xml:id="org_4b1a1499f30df6ed00e0eb179c149781">
+                  <orgName type="pref">k.k. polytechnischen Institute</orgName>
+               </org>
+               <org xml:id="org_42dc29389d6318f0fe5b21396ce73b22">
+                  <orgName type="pref">Turin</orgName>
+               </org>
+               <org xml:id="org_2bdf20baed37a52f49952737914d9f00">
+                  <orgName type="pref">Bonner Fakultät</orgName>
+               </org>
+               <org xml:id="org_6b383aa13a5d4cf632536c5ab3ba798e">
+                  <orgName type="pref">k.k. Ministerium</orgName>
+               </org>
+               <org xml:id="org_8a65c3db52accd4348929c8369154177">
+                  <orgName type="pref">Finanzministerium</orgName>
+               </org>
+               <org xml:id="org_ef783f484f403373464b8b9727913dca">
+                  <orgName type="pref">Bonner</orgName>
+               </org>
+               <org xml:id="org_6bb3b9e162268940e26993d4214b5ab5">
+                  <orgName type="pref">hohe Ministerium</orgName>
+               </org>
+               <org xml:id="org_77ffb2b7c1eb319317c4400327535d44">
+                  <orgName type="pref">hohen Ministerium</orgName>
+               </org>
+               <org xml:id="org_02905ec3067f265eee721382a2bf017d">
+                  <orgName type="pref">all’Anima</orgName>
+               </org>
+               <org xml:id="org_99da2fc22152c763755d7a15386a8d34">
+                  <orgName type="pref">k.k. hohe Ministerium</orgName>
+               </org>
+               <org xml:id="org_9f095dfca6124beb2e668a978d00fcd0">
+                  <orgName type="pref">k. böhmischen Gesellschaft der Wissenschaften</orgName>
+               </org>
+               <org xml:id="org_a21133399afb1e1598560eda057a2ab5">
+                  <orgName type="pref">Universität in Lemberg</orgName>
+               </org>
+               <org xml:id="org_9f3a82c31e79ec99a17c4c47e7c5a54f">
+                  <orgName type="pref">Universität in Lemberg</orgName>
+               </org>
+               <org xml:id="org_8962b70a2d4f02fb7499fa21a4008c59">
+                  <orgName type="pref">Insbrucker Universität</orgName>
+               </org>
+               <org xml:id="org_81d415c51699975708d23449d20288e8">
+                  <orgName type="pref">obersten Unterrichtsbehörde des Reiches</orgName>
+               </org>
+               <org xml:id="org_b5e2c8ff31d1ae5458ff3f9a04603b0a">
+                  <orgName type="pref">k. Akademie der bildenden Künste</orgName>
+               </org>
+               <org xml:id="org_2325c79fbba5d34c5b128dd5f8c1a1e9">
+                  <orgName type="pref">Cultusministerium</orgName>
+               </org>
+               <org xml:id="org_2b8e6169788dc1ba29143e7252be8a8f">
+                  <orgName type="pref">Lizeum zu Rastadt</orgName>
+               </org>
+               <org xml:id="org_3c47fa9b6b6e7e7924fc392a9ff8ab08">
+                  <orgName type="pref">Universität Bonn</orgName>
+               </org>
+               <org xml:id="org_78ef03cadacca5a14eeb3022e2e376f8">
+                  <orgName type="pref">Dep.</orgName>
+               </org>
+               <org xml:id="org_799308c246aa55f468eb536f528d1cbb">
+                  <orgName type="pref">Prager</orgName>
+               </org>
+               <org xml:id="org_2c5c0aa8ffb41cadeb228d3ddda58332">
+                  <orgName type="pref">Ministerium für Kultus und Unterricht</orgName>
+               </org>
+               <org xml:id="org_8636178815736ea63e8a4cfa245b8135">
+                  <orgName type="pref">kaiserliches Ministerium</orgName>
+               </org>
+               <org xml:id="org_d233e8779c8bab9fdb82354a64ba6282">
+                  <orgName type="pref">geachtetsten Gymnasium</orgName>
+               </org>
+               <org xml:id="org_dcac8e018d9f10ead8d299b55e9bd3a2">
+                  <orgName type="pref">Insprucker Universität</orgName>
+               </org>
+               <org xml:id="org_01068ae76c52830e553169446839371d">
+                  <orgName type="pref">Pazmanische Kollegium</orgName>
+               </org>
+               <org xml:id="org_4d269242bf8f10bdffc056170790707b">
+                  <orgName type="pref">k.k. Akademie</orgName>
+               </org>
+               <org xml:id="org_7dac90d1cee17c67dc04b55631592745">
+                  <orgName type="pref">Prager Hochschule</orgName>
+               </org>
+               <org xml:id="org_63f4906f841c4f5e6b30113515ccc5dd">
+                  <orgName type="pref">Hermannstädter Rechtsakademie</orgName>
+               </org>
+               <org xml:id="org_8f31ff971b8f10932e41378394609d55">
+                  <orgName type="pref">Universität Padua</orgName>
+               </org>
+               <org xml:id="org_82294db686876d0ff4b41711d9899153">
+                  <orgName type="pref">Warschauer Realgymnasium</orgName>
+               </org>
+               <org xml:id="org_cef510a72be1f998e098b16e07fa51fd">
+                  <orgName type="pref">Justizministerium</orgName>
+               </org>
+               <org xml:id="org_eee3d74e9b22f34846a2e2d29d3b943b">
+                  <orgName type="pref">Kirche dell’anima</orgName>
+               </org>
+               <org xml:id="org_92bb874cb9df7d1524dc191fc42a8092">
+                  <orgName type="pref">Celakovsky</orgName>
+               </org>
+               <org xml:id="org_1f57d5ff60896ceb85396506427b680e">
+                  <orgName type="pref">k.k. Ministerium für Gottesdienst und öffentlichen
+                     Unterricht</orgName>
+               </org>
+               <org xml:id="org_d5496b564a2958c4fb95d18f7120340e">
+                  <orgName type="pref">Wiener Universität</orgName>
+               </org>
+               <org xml:id="org_ea087110e34fe9f6422c320b2645638a">
+                  <orgName type="pref">Universität Heidelberg</orgName>
+               </org>
+               <org xml:id="org_890ada44ef432756696fa981a4add904">
+                  <orgName type="pref">Krakauer Hochschule,</orgName>
+               </org>
+               <org xml:id="org_17e202dd3365e5163f1672a466817594">
+                  <orgName type="pref">Prager Universität</orgName>
+               </org>
+               <org xml:id="org_3883fbd2cee0ff6d323d2492482e7b79">
+                  <orgName type="pref">Oesterreich</orgName>
+               </org>
+               <org xml:id="org_2625fe9e9d587a0023b307e309103034">
+                  <orgName type="pref">Universität in Klausenburg</orgName>
+               </org>
+               <org xml:id="org_7a2ab4868d0f7cf5ef095816c8c215b3">
+                  <orgName type="pref">Universität Marburg</orgName>
+               </org>
+               <org xml:id="org_86310a34bee3c6f56297ba13da79d728">
+                  <orgName type="pref">Ministeriums für Kultus und Unterricht</orgName>
+               </org>
+               <org xml:id="org_67d524eedc07f660db7109d4359627fa">
+                  <orgName type="pref">Stifte Heiligenkreuz</orgName>
+               </org>
+               <org xml:id="org_99c8de4ca1a2e2795f3451a689ac09e0">
+                  <orgName type="pref">Inspruck</orgName>
+               </org>
+               <org xml:id="org_f272089b4146c1bbffb620a5ee11e948">
+                  <orgName type="pref">kleinen Lehranstalt</orgName>
+               </org>
+               <org xml:id="org_46aebc2652064f5dd0842fb661ccff71">
+                  <orgName type="pref">k.k. Universität in Wien</orgName>
+               </org>
+               <org xml:id="org_938bc184762defa4d77da256d9b9a290">
+                  <orgName type="pref">Pražské</orgName>
+               </org>
+               <org xml:id="org_67c3a88522836a25201ec04eb70aecfc">
+                  <orgName type="pref">dieses Ministeriums</orgName>
+               </org>
+               <org xml:id="org_4bd662ecdbc9ad25b3bceb756b9fb459">
+                  <orgName type="pref">Josephinums</orgName>
+               </org>
+               <org xml:id="org_bc984d4523ce0a98bfc6cb09e2bc3111">
+                  <orgName type="pref">k.k. Ministerium</orgName>
+               </org>
+               <org xml:id="org_40018694f49f4732ed1fdb35fff4494a">
+                  <orgName type="pref">Cisterzienserstift Engelszell</orgName>
+               </org>
+               <org xml:id="org_7add7b48c7c79929d842113fb5452139">
+                  <orgName type="pref">Universität in Krakau</orgName>
+               </org>
+               <org xml:id="org_b54a5629a127a683f477c9aa00b3eac0">
+                  <orgName type="pref">Universität zu Dorpat</orgName>
+               </org>
+               <org xml:id="org_dba85d652ccde8fd369c8c7823c0d51b">
+                  <orgName type="pref">l'académie de sciences</orgName>
+               </org>
+               <org xml:id="org_c7d8b43013c23ec6ca11d4786d20ee61">
+                  <orgName type="pref">Hohe Unterrichtsministerium</orgName>
+               </org>
+               <org xml:id="org_00579538007cc3168b2bad894756bb01">
+                  <orgName type="pref">Kultusministerium</orgName>
+               </org>
+               <org xml:id="org_1bb8a5dc4f3e70131dc515f7e39ec87c">
+                  <orgName type="pref">kk. Unterrichts-Ministerium</orgName>
+               </org>
+               <org xml:id="org_323abc7c52567289c0601454ffe29f72">
+                  <orgName type="pref">k.k. Ministerium des Innern</orgName>
+               </org>
+               <org xml:id="org_cd3cf47b3ba107b8708613401190fdac">
+                  <orgName type="pref">Universität Göttingen</orgName>
+               </org>
+               <org xml:id="org_c3a45ebc2d95fd41bc2e47fd5dcb4124">
+                  <orgName type="pref">Ministeriums für Cultus und Unterricht</orgName>
+               </org>
+               <org xml:id="org_b3a5c840cba985b8a9bed74deeaa75dc">
+                  <orgName type="pref">Unterrichts-Ministerium</orgName>
+               </org>
+               <org xml:id="org_e6cdb2191e2aee7629e31f021038cccd">
+                  <orgName type="pref">Jagiellonischen Universität</orgName>
+               </org>
+               <org xml:id="org_9dd0b920abf980a696bf78098e410650">
+                  <orgName type="pref">Ministeriums des Innern</orgName>
+               </org>
+               <org xml:id="org_8c9cca17eb8cf1220d3dfc1eee05f44f">
+                  <orgName type="pref">Eccelso Ministero</orgName>
+               </org>
+               <org xml:id="org_fd3ebb9f41f9f036dba5791051bc5749">
+                  <orgName type="pref">Marburg</orgName>
+               </org>
+               <org xml:id="org_d060583f4a80342335b65e6aad86b556">
+                  <orgName type="pref">kaiserliche Cultusministerium</orgName>
+               </org>
+               <org xml:id="org_88ff7c9efbb232e50ae0b154beef2f71">
+                  <orgName type="pref">Innsbrucker Universität</orgName>
+               </org>
+               <org xml:id="org_7b3e3d3fb727f1abc60e3e7a02cbbd95">
+                  <orgName type="pref">Vereine</orgName>
+               </org>
+               <org xml:id="org_c523e7ef1d36d037f07935378752e916">
+                  <orgName type="pref">hiesigen Hochschule</orgName>
+               </org>
+               <org xml:id="org_fafa41f7e32d84b3a419ca848a2b0880">
+                  <orgName type="pref">Krakau</orgName>
+               </org>
+               <org xml:id="org_ae04b135a8b83c16df39cda4827c2c7e">
+                  <orgName type="pref">unsere Hochschule</orgName>
+               </org>
+               <org xml:id="org_340c268070be7220c6a209c3d775bb5e">
+                  <orgName type="pref">Prager Universität</orgName>
+               </org>
+               <org xml:id="org_92795d8078dc6fe0b423d62e3f8cf462">
+                  <orgName type="pref">ersten Universität</orgName>
+               </org>
+               <org xml:id="org_5f2845c8e8ca052070696e1b6f732f8f">
+                  <orgName type="pref">Obergymnasium in Meran</orgName>
+               </org>
+               <org xml:id="org_ab7d8b546c17a061e03acbfd77f1e39c">
+                  <orgName type="pref">k.k. geologische Reichsanstalt</orgName>
+               </org>
+               <org xml:id="org_93a2c8ba0317e2d2141e6adebb585f6d">
+                  <orgName type="pref">Justizministeriums</orgName>
+               </org>
+               <org xml:id="org_9e629da45ad6ae42a6ce5446d3f0f1b8">
+                  <orgName type="pref">Friedrich-Wilhelms-Universität zu Berlin</orgName>
+               </org>
+               <org xml:id="org_c31c5f8214ed36398855288304fd42bd">
+                  <orgName type="pref">Pesther Universität</orgName>
+               </org>
+               <org xml:id="org_d2e27b4bf99ce5d3b79310413385b8f2">
+                  <orgName type="pref">Universität Gratz</orgName>
+               </org>
+               <org xml:id="org_3d7344df7a3ed5ab75320620760b8acc">
+                  <orgName type="pref">k.k. Finanzministerium</orgName>
+               </org>
+               <org xml:id="org_91e544a23b5ec0d53dacca7ebd52d1b0">
+                  <orgName type="pref">università di Padova</orgName>
+               </org>
+               <org xml:id="org_50076b95b473f478f7a1474fc981696e">
+                  <orgName type="pref">hohe Finanzministerium</orgName>
+               </org>
+               <org xml:id="org_25d736a1a73daba7061118847d0637fa">
+                  <orgName type="pref">Hochschule in Prag</orgName>
+               </org>
+               <org xml:id="org_925da87290c60a1b2eb59a6ace2ec678">
+                  <orgName type="pref">Stift Wilten</orgName>
+               </org>
+               <org xml:id="org_fbbba47c4cfc006f66540ce658172411">
+                  <orgName type="pref">Universität Jena</orgName>
+               </org>
+               <org xml:id="org_02215bb9f1a21fad197917522d6d3406">
+                  <orgName type="pref">hohen Ministerium</orgName>
+               </org>
+               <org xml:id="org_16669d312ea71c0a18abe3f7154ede08">
+                  <orgName type="pref">Universität von Pest</orgName>
+               </org>
+               <org xml:id="org_8aaaee182f6b576da289b984da8340b9">
+                  <orgName type="pref">hiesiger Universität</orgName>
+               </org>
+               <org xml:id="org_9d9b9f2a7ea07e997574a856291b95e3">
+                  <orgName type="pref">k.k. Ministeriums des Innern</orgName>
+               </org>
+               <org xml:id="org_5c9850240bc5d7d170fdee97317d7385">
+                  <orgName type="pref">Mailänder Academie</orgName>
+               </org>
+               <org xml:id="org_fda98b317e1c127dd16ce60d830ea0ff">
+                  <orgName type="pref">l'Imperial Regia Università di Padova</orgName>
+               </org>
+               <org xml:id="org_c18e92a09c341626fdc65e111355082c">
+                  <orgName type="pref">Brüßel</orgName>
+               </org>
+               <org xml:id="org_5bd1011bf224d1397c6ffdabcc776597">
+                  <orgName type="pref">Universität zu Pesth</orgName>
+               </org>
+               <org xml:id="org_72de47ea3285fb64929ec6c7a61c0371">
+                  <orgName type="pref">Abazia di S. Barbara in Mantova</orgName>
+               </org>
+               <org xml:id="org_13ec40f317f2fd77cf764f850560f512">
+                  <orgName type="pref">k. böhmische gelehrte Gesellschaft</orgName>
+               </org>
+               <org xml:id="org_c61788edd4ac3b9c67bf954f6e312fbc">
+                  <orgName type="pref">Wiener Universität</orgName>
+               </org>
+               <org xml:id="org_39cdf946f335d9bae928da2e9efd7c26">
+                  <orgName type="pref">dieser Lehranstalt</orgName>
+               </org>
+               <org xml:id="org_961698fa64951bd6d3437ebc7931a899">
+                  <orgName type="pref">Bern</orgName>
+               </org>
+               <org xml:id="org_4ec8ca0d13ecf2702649c7f0e5be0a43">
+                  <orgName type="pref">Ministerium für Cultus und Unterricht</orgName>
+               </org>
+               <org xml:id="org_fd34ea3d3137aac58cd3e072762d8e6e">
+                  <orgName type="pref">Universität Wien</orgName>
+               </org>
+               <org xml:id="org_b3258a4f54e0c057f322e426696d8ed2">
+                  <orgName type="pref">Altstädter</orgName>
+               </org>
+               <org xml:id="org_127a56aea29c32fdb10db5806d1c907c">
+                  <orgName type="pref">Anstalt</orgName>
+               </org>
+               <org xml:id="org_3a9475b566063a52a39b0aafcad2925f">
+                  <orgName type="pref">hohe k.k. Cultus- und Unterrichtsministerium</orgName>
+               </org>
+               <org xml:id="org_3ba8b967bc1fc68031a877f67156848a">
+                  <orgName type="pref">l'université de Leopol</orgName>
+               </org>
+               <org xml:id="org_a7d5e3188cbc528642df7a98d7d99d7a">
+                  <orgName type="pref">protestantischen Universität</orgName>
+               </org>
+               <org xml:id="org_b677d411a89f30ea97a0c5c08fd36dc2">
+                  <orgName type="pref">Ministerrathes</orgName>
+               </org>
+               <org xml:id="org_e0966e38fbdaa48a582912fc09a91d81">
+                  <orgName type="pref">k. Akademie der Wissenschaften</orgName>
+               </org>
+               <org xml:id="org_1f03ad6ded990b663d935ea073e44b18">
+                  <orgName type="pref">hohen k.k. Ministerium für Cultus und Unterricht</orgName>
+               </org>
+               <org xml:id="org_df514dd6e4a8c1c6cbde05e8045b6638">
+                  <orgName type="pref">Breslauer Universität</orgName>
+               </org>
+               <org xml:id="org_eee37333b12009dea6687d08e4fb6954">
+                  <orgName type="pref">k.k. hohe Ministerium</orgName>
+               </org>
+               <org xml:id="org_60bd10b499da1100a891dd9e493f64c1">
+                  <orgName type="pref">Theresianum</orgName>
+               </org>
+               <org xml:id="org_d612e41ef5796a7ae96e3270d01962ab">
+                  <orgName type="pref">Ministerium des Cultus</orgName>
+               </org>
+               <org xml:id="org_cc7e882240076588a8521c965db49d9a">
+                  <orgName type="pref">Unsere Universität</orgName>
+               </org>
+               <org xml:id="org_94c36aac7b9ba1206fe5c8580f7b4206">
+                  <orgName type="pref">kaiserlichen protestantisch-theologischen
+                     Lehranstalt</orgName>
+               </org>
+               <org xml:id="org_7690982c6e3d74d285ebf0797ac6d73b">
+                  <orgName type="pref">Ministerrathe</orgName>
+               </org>
+               <org xml:id="org_c5493f2714352ce30deab7fc25133a5b">
+                  <orgName type="pref">k.k. Ministerium für Kultus und Unterricht</orgName>
+               </org>
+               <org xml:id="org_76882069a4d80f76ea3dbbf026c36b94">
+                  <orgName type="pref">Universität Pavia</orgName>
+               </org>
+               <org xml:id="org_d45bff985df78d44cd92228a61dba2de">
+                  <orgName type="pref">Hochschule in Lemberg</orgName>
+               </org>
+               <org xml:id="org_ee3dff99b00af7d56a8c685a09946105">
+                  <orgName type="pref">seminario Principesco Vescovile</orgName>
+               </org>
+               <org xml:id="org_de3b92ad4dc33ebccabe2a85a6f5214a">
+                  <orgName type="pref">historischen Vereins für Steyermark</orgName>
+               </org>
+               <org xml:id="org_e4c9e51646c4175d260ea08f03e74166">
+                  <orgName type="pref">Ministeriums für Cultus</orgName>
+               </org>
+               <org xml:id="org_7f16abea903ed0d447081128d0de86b6">
+                  <orgName type="pref">akademische</orgName>
+               </org>
+               <org xml:id="org_f89f5a18425bb95587ff97109a4b976e">
+                  <orgName type="pref">Engelszell</orgName>
+               </org>
+               <org xml:id="org_4f1e6a68eb22362846910f351caa0fb1">
+                  <orgName type="pref">Innsbrucker Universität</orgName>
+               </org>
+               <org xml:id="org_bc7860602e2dea5204458f25f3b0f7f8">
+                  <orgName type="pref">Missionsgesellschaft</orgName>
+               </org>
+               <org xml:id="org_3d5f67b68d68414720d5b27745839756">
+                  <orgName type="pref">Acadmie</orgName>
+               </org>
+               <org xml:id="org_a6179b8cf2c3b8da6afeb47554288b4c">
+                  <orgName type="pref">hohen Ministeriums</orgName>
+               </org>
+               <org xml:id="org_ee02598fec9fb2026c74eaaa95c19b40">
+                  <orgName type="pref">Unterrichtsministerium</orgName>
+               </org>
+               <org xml:id="org_d54f6cc2237a0ee51accd7a92bf76db1">
+                  <orgName type="pref">Gießen</orgName>
+               </org>
+               <org xml:id="org_47c5dea4a2c7dce035114403f90c6e94">
+                  <orgName type="pref">Pester Universität</orgName>
+               </org>
+               <org xml:id="org_cff7129f027903bd2a951032508f028c">
+                  <orgName type="pref">Universität Leipzig</orgName>
+               </org>
+               <org xml:id="org_88ffc2ea13e8fa6bb474b05c60a900d3">
+                  <orgName type="pref">k.k. geologischen Reichsanstalt</orgName>
+               </org>
+               <org xml:id="org_6d3bf5534668b4d847ea64d80188de39">
+                  <orgName type="pref">Berlins</orgName>
+               </org>
+               <org xml:id="org_2f698530a28d671d20278c8518c804c9">
+                  <orgName type="pref">Anima</orgName>
+               </org>
+               <org xml:id="org_39b352550a9c21127b4b54943db4165c">
+                  <orgName type="pref">Gymnasium in Meran</orgName>
+               </org>
+               <org xml:id="org_98f503b3970181dbb05cf2b08257f618">
+                  <orgName type="pref">Großwardeiner Diözese</orgName>
+               </org>
+               <org xml:id="org_4954c53c759af8001d314f00bf3577f3">
+                  <orgName type="pref">Freiburg</orgName>
+               </org>
+               <org xml:id="org_ba7095305cd9df03357e17a0991dc562">
+                  <orgName type="pref">besagten Universität</orgName>
+               </org>
+               <org xml:id="org_1a75b35314be8c19f22c5c5334d78c8f">
+                  <orgName type="pref">Kiel</orgName>
+               </org>
+               <org xml:id="org_773942c68b44deba9442310cc9cc8513">
+                  <orgName type="pref">hohen Cultusministerium</orgName>
+               </org>
+               <org xml:id="org_0217125c8f4318731ba7ac447c9458df">
+                  <orgName type="pref">Göttinger</orgName>
+               </org>
+               <org xml:id="org_71a3baf8a3fd265863c76c7babee0c3e">
+                  <orgName type="pref">hohes k.k. Ministerium</orgName>
+               </org>
+               <org xml:id="org_5e8c32f4a72774386977f30dd300fc0f">
+                  <orgName type="pref">Pesth</orgName>
+               </org>
+               <org xml:id="org_61e4faac8be2f172cc29a0da057248aa">
+                  <orgName type="pref">Prag‘s</orgName>
+               </org>
+               <org xml:id="org_24557ccb292f080d77219b016dffd027">
+                  <orgName type="pref">Insbruck</orgName>
+               </org>
+               <org xml:id="org_ed8994898c6c16c7c2dd703317314fb8">
+                  <orgName type="pref">hiesigen technischen Lehranstalt</orgName>
+               </org>
+               <org xml:id="org_2f99a32b421b9c62991b28706273db2a">
+                  <orgName type="pref">hohe Unterrichtsministerium</orgName>
+               </org>
+               <org xml:id="org_f4d9dc6e88b36aa1b12709b49120de40">
+                  <orgName type="pref">Unterrichts-Ministeriums</orgName>
+               </org>
+               <org xml:id="org_65eb356129cbaeee18e31ca1d6ce715a">
+                  <orgName type="pref">unserer vaterländischen Hochschule</orgName>
+               </org>
+               <org xml:id="org_783dc21de862e3aef9e903bfcbfb0fde">
+                  <orgName type="pref">Pisaner Universität</orgName>
+               </org>
+               <org xml:id="org_44c3d829c2f569f34d60aa498071af34">
+                  <orgName type="pref">Ministerium des Äußeren</orgName>
+               </org>
+               <org xml:id="org_81b99b9040b92b2e67e664a52cb4af2c">
+                  <orgName type="pref">Prags</orgName>
+               </org>
+               <org xml:id="org_024bf2da77be9517bf88a721fcc0da7c">
+                  <orgName type="pref">Pforta</orgName>
+               </org>
+               <org xml:id="org_0223e340ce8e48ac436bc9f255dafb13">
+                  <orgName type="pref">Altstädter Gymnasiums</orgName>
+               </org>
+               <org xml:id="org_86fdcb8dc8a81cf3deefd1fa9345e7e2">
+                  <orgName type="pref">Académie</orgName>
+               </org>
+               <org xml:id="org_cb94a2b2365120fba8cd4bf65db6c83d">
+                  <orgName type="pref">k.k. geologischen Reichsanstalt</orgName>
+               </org>
+               <org xml:id="org_8f5c973236b3f7b5af4355261b4014df">
+                  <orgName type="pref">Schulpforta</orgName>
+               </org>
+               <org xml:id="org_d44c0fbb333c7e3265ea27125886321b">
+                  <orgName type="pref">k. böhmischen Gesellschaft der Wissenschaften</orgName>
+               </org>
+               <org xml:id="org_aeb2e3073c0e6888498860b5e5d9425e">
+                  <orgName type="pref">Akademie der Wissenschaften</orgName>
+               </org>
+               <org xml:id="org_f789772fb91c7a9cdd710da316f2e0d9">
+                  <orgName type="pref">Grätz</orgName>
+               </org>
+               <org xml:id="org_d41a54a797f2d8bd8bb2be4a4b011fac">
+                  <orgName type="pref">Vereins</orgName>
+               </org>
+               <org xml:id="org_52bb2e076768d45fbd2c6970a1ef8d96">
+                  <orgName type="pref">k.k. Unterrichtsministerium</orgName>
+               </org>
+               <org xml:id="org_05e5624e0b5ffc65469797285adf3e29">
+                  <orgName type="pref">unserer Hochschule</orgName>
+               </org>
+               <org xml:id="org_9bb43a4ce6b060e4766588c1d88fcb1b">
+                  <orgName type="pref">Münster</orgName>
+               </org>
+               <org xml:id="org_d16f56a1adfcab7a253364f06426cab2">
+                  <orgName type="pref">Meraner Gymnasium</orgName>
+               </org>
+               <org xml:id="org_5f81f45a2c6533e0e466e36eb7efd181">
+                  <orgName type="pref">Redakzion der Gymnasial Zeitschrift</orgName>
+               </org>
+               <org xml:id="org_03b16e0a78b56bb5ada8e43123aaaa62">
+                  <orgName type="pref">Bonn</orgName>
+               </org>
+               <org xml:id="org_a3748bcf2de2b14c270719fb50e0a9ab">
+                  <orgName type="pref">Schlägel</orgName>
+               </org>
+               <org xml:id="org_9136e9e0b650d81ef7665554a97ba4ee">
+                  <orgName type="pref">siebenbürgischen Rechtsakademie</orgName>
+               </org>
+               <org xml:id="org_5ce7ce757e2d8de694f608b12ce7d373">
+                  <orgName type="pref">Pester Universität</orgName>
+               </org>
+               <org xml:id="org_35ec7062379a5b1e1743de648e2f3809">
+                  <orgName type="pref">Heidelberg</orgName>
+               </org>
+               <org xml:id="org_4dfd5db7b57bf43744a2f66b0067cb62">
+                  <orgName type="pref">Hohe Ministerium</orgName>
+               </org>
+               <org xml:id="org_bf2f26dbdb926d011424933939722203">
+                  <orgName type="pref">Bildungsinstitute zu St. Augustin</orgName>
+               </org>
+               <org xml:id="org_bd1ed8dce41572564575fc8864848b8a">
+                  <orgName type="pref">Stift Marienberg</orgName>
+               </org>
+               <org xml:id="org_1b388e3352c32b76b8d975c4d3625070">
+                  <orgName type="pref">Wien</orgName>
+               </org>
+               <org xml:id="org_8f47c5d0975cddc77749227c2e0b55ae">
+                  <orgName type="pref">Universität zu München</orgName>
+               </org>
+               <org xml:id="org_0c21b3303eb99c824c6a2f0b07369347">
+                  <orgName type="pref">Universität zu Klauenburg</orgName>
+               </org>
+               <org xml:id="org_39154d4cdcc515a82cec7fbd28753eae">
+                  <orgName type="pref">Priesterbildungs-Institute zum hl. Augustin</orgName>
+               </org>
+               <org xml:id="org_12f9a4f053a2c56043c6dd9967a16db2">
+                  <orgName type="pref">Altstädter Gymnasium</orgName>
+               </org>
+               <org xml:id="org_af4b6c21e83f4657b37574a328761252">
+                  <orgName type="pref">Universität zu Landshut</orgName>
+               </org>
+               <org xml:id="org_1b88075d122a65961d79c5c4cdab4485">
+                  <orgName type="pref">Kirche dell’Anima</orgName>
+               </org>
+               <org xml:id="org_2b8c92ecafdd91a2a4c1fd80ef82ee12">
+                  <orgName type="pref">Academie der Wissenschaften</orgName>
+               </org>
+               <org xml:id="org_8126c3f362e19eed8227c3bfc89f420f">
+                  <orgName type="pref">hohen Ministerium des Cultus und Unterrichts</orgName>
+               </org>
+               <org xml:id="org_0c97e19aa7b71bffffdf0e3521ac0e93">
+                  <orgName type="pref">Kirche dell‘Anima</orgName>
+               </org>
+               <org xml:id="org_e3e2af8341472358202972fcbbd39812">
+                  <orgName type="pref">k.k. polytechnischen Institute</orgName>
+               </org>
+               <org xml:id="org_9e3b05fb826a30cc478e3a16c72e108b">
+                  <orgName type="pref">Neusatzer [Novi Sad] Gymnasium</orgName>
+               </org>
+               <org xml:id="org_16974063f18804c5e755695a5d248eb9">
+                  <orgName type="pref">Ministerrathe</orgName>
+               </org>
+               <org xml:id="org_473dce3c3546376de31fe1eaa8f6a82b">
+                  <orgName type="pref">Kieler Hochschule</orgName>
+               </org>
+               <org xml:id="org_612e77b202ba89c468be28a9084779ee">
+                  <orgName type="pref">geologische Reichsanstalt</orgName>
+               </org>
+               <org xml:id="org_926733a190270dff861e179ba31c84d5">
+                  <orgName type="pref">„Sapienza“</orgName>
+               </org>
+               <org xml:id="org_a797dfe89d0a448fe98bcd031d21db0d">
+                  <orgName type="pref">università di Bonna</orgName>
+               </org>
+               <org xml:id="org_96adbec7acf572b2c3879a9efc904db0">
+                  <orgName type="pref">Ministeriums</orgName>
+               </org>
+               <org xml:id="org_207f64f02f574074e575939256527703">
+                  <orgName type="pref">Confederazione Germanica</orgName>
+               </org>
+               <org xml:id="org_895406f3a27dc4f067877a11750423dd">
+                  <orgName type="pref">Altstadt</orgName>
+               </org>
+               <org xml:id="org_94b09ab87622c0246ba0c0b4bdeb61d8">
+                  <orgName type="pref">Ministeriums des Cultus und Unterrichts</orgName>
+               </org>
+               <org xml:id="org_cac5a115090e60525e60d001395fe74f">
+                  <orgName type="pref">Ministerium des öffentlichen Unterrichts</orgName>
+               </org>
+               <org xml:id="org_a318cebc6dc4f09b40956e5ae1525d3b">
+                  <orgName type="pref">Universität zu Klausenburg</orgName>
+               </org>
+               <org xml:id="org_3433a19893e0d1ef6693362f8d229f57">
+                  <orgName type="pref">Ministerium des Cultus und Unterrichtes</orgName>
+               </org>
+               <org xml:id="org_1ff97f22292e3d91119e867aadcf511b">
+                  <orgName type="pref">Innsbruck</orgName>
+               </org>
+               <org xml:id="org_39e6f1bd8f06ab2d17ca2edb50089dff">
+                  <orgName type="pref">obersten Erziehungsbehörde</orgName>
+               </org>
+               <org xml:id="org_e5c957b6046ce35c2226cea6345fd17f">
+                  <orgName type="pref">hohen k.k. Ministerium für Cultus und Unterricht</orgName>
+               </org>
+               <org xml:id="org_62818926d5f69c2d825c9274bf349680">
+                  <orgName type="pref">Wiener Universität</orgName>
+               </org>
+               <org xml:id="org_365576ac0b54d506fea77d98771ff719">
+                  <orgName type="pref">l’Eccelso Ministero</orgName>
+               </org>
+               <org xml:id="org_51b20b0061af31c933909268e480828b">
+                  <orgName type="pref">Pesther Universität</orgName>
+               </org>
+               <org xml:id="org_9616df690f702a9b39f2733f7154ec6c">
+                  <orgName type="pref">Akademie der bildenden Künste</orgName>
+               </org>
+               <org xml:id="org_c0c3d331bfa8ee8e87d2c65132ce86c6">
+                  <orgName type="pref">Mailänder Academie</orgName>
+               </org>
+               <org xml:id="org_0fd003eea98fe09ed835b468dc72d336">
+                  <orgName type="pref">Pester Universität</orgName>
+               </org>
+               <org xml:id="org_ce3d7bfcd6bc98c1fe54bfce21564910">
+                  <orgName type="pref">hiesigen Universität</orgName>
+               </org>
+               <org xml:id="org_d59bc895a6bb86d78a2abe724eb18c15">
+                  <orgName type="pref">Ministerium des Innern</orgName>
+               </org>
+               <org xml:id="org_ff7b7f67453e92fb0c1b0cecc70c32cd">
+                  <orgName type="pref">Hohen k.k. Ministerium des Cultus und des
+                     Unterrichtes</orgName>
+               </org>
+               <org xml:id="org_934634023c7f7a663fdc994504f14b4a">
+                  <orgName type="pref">Siena</orgName>
+               </org>
+               <org xml:id="org_2b0f5e8359e8b39a87bf577435e2b0f8">
+                  <orgName type="pref">hohen Ministerium des Innern</orgName>
+               </org>
+               <org xml:id="org_46072c25a575d806fe5ede97b242eed1">
+                  <orgName type="pref">Reichsanstalt</orgName>
+               </org>
+               <org xml:id="org_7490fe0f29d31a8d9e5a998700aae558">
+                  <orgName type="pref">Tübingen</orgName>
+               </org>
+               <org xml:id="org_d96fc043fd13c3ddb18b5ef0ff4673ae">
+                  <orgName type="pref">Redaction</orgName>
+               </org>
+               <org xml:id="org_06daca7ed8e42f22892772b20b09609c">
+                  <orgName type="pref">Universität Pavia</orgName>
+               </org>
+               <org xml:id="org_b22e3c365649ee23c14d0767a306394e">
+                  <orgName type="pref">hohe k.k. Ministerium</orgName>
+               </org>
+               <org xml:id="org_72a22bf12aff8f3930ca5d40cc8e0e02">
+                  <orgName type="pref">hohes Cultusministerium</orgName>
+               </org>
+               <org xml:id="org_8d0a1da8d214759f3e7a6c49f5856453">
+                  <orgName type="pref">k.k. Academie der bildenden Künste</orgName>
+               </org>
+               <org xml:id="org_38d2161390830665f6f8e250d4e5cc08">
+                  <orgName type="pref">technische Anstalt</orgName>
+               </org>
+               <org xml:id="org_414643851a1218bc7a8975fb01c399cf">
+                  <orgName type="pref">Akademie Münster</orgName>
+               </org>
+               <org xml:id="org_73a60ce7ff7f2241b3952c9da4c459f4">
+                  <orgName type="pref">hiesige Universität</orgName>
+               </org>
+               <org xml:id="org_a022a2558c9bb9e1d17659eca7db1fc4">
+                  <orgName type="pref">hohen k.k. Cultusministerium</orgName>
+               </org>
+               <org xml:id="org_51f7b5a9274515095c996a471520aad2">
+                  <orgName type="pref">Université de Naples</orgName>
+               </org>
+               <org xml:id="org_d72261a58f8777c2da6598d43adbbf2b">
+                  <orgName type="pref">Halle</orgName>
+               </org>
+               <org xml:id="org_feeb5b14dcd9f1997f80dffa4494a2d4">
+                  <orgName type="pref">Gesellschaft Jesu</orgName>
+               </org>
+               <org xml:id="org_3e7828da555ba29e138ee8c580ae67c5">
+                  <orgName type="pref">Dominikaner Lycäum</orgName>
+               </org>
+               <org xml:id="org_ddf722f5a95607b5a85d421179e6a6dd">
+                  <orgName type="pref">Unterrichtsministeriums</orgName>
+               </org>
+               <org xml:id="org_321ed335c7d0a5052c96721f320acbf8">
+                  <orgName type="pref">k.k. Ministeriums für Cultus und Unterricht</orgName>
+               </org>
+               <org xml:id="org_3e789a74aa3e4cd0df56f4f8a09ac73d">
+                  <orgName type="pref">hohe Cultusministerium</orgName>
+               </org>
+               <org xml:id="org_408c1c131b9634df24cfcbc725a8dc1a">
+                  <orgName type="pref">Bonner Universität</orgName>
+               </org>
+               <org xml:id="org_3edab0323584d6db5d6b65466488db67">
+                  <orgName type="pref">Gymnasiums in Schulpforta</orgName>
+               </org>
+               <org xml:id="org_808965f98045366f9547704f3f26ee91">
+                  <orgName type="pref">k.k. Akademie der Wissenschaften</orgName>
+               </org>
+               <org xml:id="org_40a9c9bc281ff3d00ccbe73bf472bf86">
+                  <orgName type="pref">hiesiger Universität</orgName>
+               </org>
+               <org xml:id="org_4f1ae8f96e5081c19d69f6f6c1950bab">
+                  <orgName type="pref">Bonner Universität</orgName>
+               </org>
+               <org xml:id="org_8a1192e3afaf5d2e4e3cc9eed7d5c212">
+                  <orgName type="pref">Ministerium des Innern</orgName>
+               </org>
+               <org xml:id="org_ddf07804c4b748e06ad33fc374138da6">
+                  <orgName type="pref">Innspruker Universität</orgName>
+               </org>
+               <org xml:id="org_eccb6d6ba2a45441db84db4caa42a538">
+                  <orgName type="pref">kaiserlichen Akademie der Wissenschaften</orgName>
+               </org>
+               <org xml:id="org_3ddfadf3fb1d17c88ca76071e051bd0a">
+                  <orgName type="pref">Altstädter akademischen Gymnasium</orgName>
+               </org>
+               <org xml:id="org_1538d5cede624e047e2c11fab5c7ea7a">
+                  <orgName type="pref">Università di Padova</orgName>
+               </org>
+               <org xml:id="org_4ca0d9ce4d7f1f4c943f29573bc33e87">
+                  <orgName type="pref">Imperial Regia Commissione Aulica per gli</orgName>
+               </org>
+               <org xml:id="org_cad9e9728db54b3f67088b8aa4530bc6">
+                  <orgName type="pref">geologischen Reichsanstalt</orgName>
+               </org>
+               <org xml:id="org_5006c351a7c68cff2921dac8c9fbd446">
+                  <orgName type="pref">Ministerium des Unterrichtes</orgName>
+               </org>
+               <org xml:id="org_a509cd2529ebc2a99c462111ebedc39a">
+                  <orgName type="pref">Universitäten zu Pisa</orgName>
+               </org>
+               <org xml:id="org_ea6515eca27ae68c06c82e8cc2a6d318">
+                  <orgName type="pref">Salzburg</orgName>
+               </org>
+               <org xml:id="org_44bb64c16e6edeaf6dab201cbb948be5">
+                  <orgName type="pref">evangelischen Lehranstalt</orgName>
+               </org>
+               <org xml:id="org_a5deef4e480d893c24ced9c6fc1a645b">
+                  <orgName type="pref">Universität zu Klausenburg</orgName>
+               </org>
+               <org xml:id="org_80220727b723708ebd7bf1c79f0d1217">
+                  <orgName type="pref">hohen Cultusministerium</orgName>
+               </org>
+               <org xml:id="org_4a887b8a68acf9b04d9d027bddedb06b">
+                  <orgName type="pref">Leipzig</orgName>
+               </org>
+               <org xml:id="org_c921bd1df4c536613c0043676dbcb7ad">
+                  <orgName type="pref">Redaction</orgName>
+               </org>
+               <org xml:id="org_5e21016cc00d2142d0ab5c88827d3fdc">
+                  <orgName type="pref">hohe k.k. Cultusministerium</orgName>
+               </org>
+               <org xml:id="org_b75325e3f642e4feb0d9daf48a6ff25f">
+                  <orgName type="pref">Olmüz</orgName>
+               </org>
+               <org xml:id="org_9046555c48e460168f489a62c649d10b">
+                  <orgName type="pref">Gratz</orgName>
+               </org>
+               <org xml:id="org_c59de5eb9a2b9d441ebf2843da8a6655">
+                  <orgName type="pref">historischen Vereins</orgName>
+               </org>
+               <org xml:id="org_fbacee20081a937b047c1dd2c6e60f6b">
+                  <orgName type="pref">unserer Rechtsakademie</orgName>
+               </org>
+               <org xml:id="org_e29847aa70e17d5019b25c3e745fba76">
+                  <orgName type="pref">Insprucker [Innsbrucker] Universität</orgName>
+               </org>
+               <org xml:id="org_7c6d986016f9ecf8778e8d2154110293">
+                  <orgName type="pref">Radakzion</orgName>
+               </org>
+               <org xml:id="org_53cade5c86572cf3b9bb842e638e9f1e">
+                  <orgName type="pref">Ministerium für Cultus und Unterricht</orgName>
+               </org>
+               <org xml:id="org_36de19bf174407c4ce554cd7609edbe2">
+                  <orgName type="pref">Universität zu Wien</orgName>
+               </org>
+               <org xml:id="org_73712d3d0428c81db13497b943ee8dc6">
+                  <orgName type="pref">Lemberg</orgName>
+               </org>
+               <org xml:id="org_514327892f5b43e4d9760241ba7957ab">
+                  <orgName type="pref">militärische Anstalt</orgName>
+               </org>
+               <org xml:id="org_51b3b18c425e418b83f255a3e96da316">
+                  <orgName type="pref">Wiener Hochschule</orgName>
+               </org>
+               <org xml:id="org_04cca912f881c15f6d3e5c8632451380">
+                  <orgName type="pref">Breslauer Universität</orgName>
+               </org>
+               <org xml:id="org_6897665c85662b04cafb21577a42260c">
+                  <orgName type="pref">Ministerium</orgName>
+               </org>
+               <org xml:id="org_028f0fa1ebebe7c89af4127ef834ffcf">
+                  <orgName type="pref">Berliner Universität</orgName>
+               </org>
+               <org xml:id="org_a53fd296bbd2c34613ff166119bbaa29">
+                  <orgName type="pref">Hohen k.k. Ministeriums</orgName>
+               </org>
+               <org xml:id="org_bb2155fd1cf1ab7c001e2c884c391c68">
+                  <orgName type="pref">Gratzer Universität</orgName>
+               </org>
+               <org xml:id="org_761c4c4c387ee7eabc8b6dfca7bc7807">
+                  <orgName type="pref">Göttinger Universität</orgName>
+               </org>
+               <org xml:id="org_bb1dd36afcd31b389da54e21e9fe41f3">
+                  <orgName type="pref">Prag</orgName>
+               </org>
+               <org xml:id="org_cec7d3a1415124747daccfc83eea6843">
+                  <orgName type="pref">Ministerium des Cultus und Unterrichtes</orgName>
+               </org>
+               <org xml:id="org_04be178bcdcb87b921a910292e6f2439">
+                  <orgName type="pref">Akademie</orgName>
+               </org>
+               <org xml:id="org_6bdd8f7652dcd797980990c3ceebef6c">
+                  <orgName type="pref">Theresianums</orgName>
+               </org>
+               <org xml:id="org_a4398493e78004b3ae0d1d1cae37d03b">
+                  <orgName type="pref">Università di Padova</orgName>
+               </org>
+               <org xml:id="org_12684086eed4ea801c7640e637a3486b">
+                  <orgName type="pref">Insprucker Universität</orgName>
+               </org>
+               <org xml:id="org_b2fd87556ba186da9b01fbf2ce3be432">
+                  <orgName type="pref">Allgemeine Zeitung</orgName>
+               </org>
+               <org xml:id="org_9598473e99f62b55f812447d4fc6c824">
+                  <orgName type="pref">Gymnasium</orgName>
+               </org>
+               <org xml:id="org_00f89b6c29e9826e300e1dbe4a452d07">
+                  <orgName type="pref">Universität Bern</orgName>
+               </org>
+               <org xml:id="org_2fc5985181608ec7922e75e99f8eb4b1">
+                  <orgName type="pref">jesuitische Hochschule</orgName>
+               </org>
+               <org xml:id="org_1ea43dc3878634a2e6e85991bfc48309">
+                  <orgName type="pref">Turiner Universität</orgName>
+               </org>
+               <org xml:id="org_d1da575ca3803a86759ed97f2b908818">
+                  <orgName type="pref">Stifte Schlägel</orgName>
+               </org>
+               <org xml:id="org_c6e5be183d875851c4d758d5f57fca35">
+                  <orgName type="pref">Göttingen</orgName>
+               </org>
+               <org xml:id="org_423ae4eb2d5c3dfe3a6c933219e6a6ce">
+                  <orgName type="pref">Universität Innsbruck</orgName>
+               </org>
+               <org xml:id="org_9e09ca5ced3898db08089c66ed354fed">
+                  <orgName type="pref">ganze Universität</orgName>
+               </org>
+               <org xml:id="org_e03d5d33f20e5693f4e265e79607aa99">
+                  <orgName type="pref">Prag’s</orgName>
+               </org>
+               <org xml:id="org_31f4e6d56b113e0464383adaff2cd477">
+                  <orgName type="pref">Bernardiner Lycäum</orgName>
+               </org>
+               <org xml:id="org_8f0699c0674272ed0fe6c3e0f1edae0f">
+                  <orgName type="pref">Lemberger Universität</orgName>
+               </org>
+               <org xml:id="org_b439cce67af73127c15801eb56054fdd">
+                  <orgName type="pref">Verein zur Beförderung der Tonkunst</orgName>
+               </org>
+               <org xml:id="org_030fe021b5c2c5350f01307ac88b3ea2">
+                  <orgName type="pref">Ministerium des Kultus und Unterrichtes</orgName>
+               </org>
+               <org xml:id="org_82c3e33c156f5185e13937d13ee91841">
+                  <orgName type="pref">Josephsakademie</orgName>
+               </org>
+               <org xml:id="org_b91ba2096838b63fb9171c849961c3d0">
+                  <orgName type="pref">Ministerium für Kultus und Unterricht</orgName>
+               </org>
+               <org xml:id="org_f688df0608d4faa78b0399a673511bae">
+                  <orgName type="pref">Confederazione Germanica</orgName>
+               </org>
+               <org xml:id="org_b0e6787dd80dfbe4b8c4c7fbb66b88da">
+                  <orgName type="pref">Akademie in Münster</orgName>
+               </org>
+               <org xml:id="org_da35fae06535ae346c0fa599cc14db19">
+                  <orgName type="pref">h. Ministerium für Cultus</orgName>
+               </org>
+               <org xml:id="org_4d88945d117318de8f263262b25f34ad">
+                  <orgName type="pref">Redakzion der Zeitschrift</orgName>
+               </org>
+               <org xml:id="org_d2262fe7ee958913b43c34336fa95381">
+                  <orgName type="pref">Ministerrath</orgName>
+               </org>
+               <org xml:id="org_29ed69f1bd2ee38a5a500f5cc5608551">
+                  <orgName type="pref">dieser altehrwürdigen Hochschule</orgName>
+               </org>
+               <org xml:id="org_fd55b8208a2a03cdd8896493069be9f0">
+                  <orgName type="pref">hohen Unterrichtsministerium</orgName>
+               </org>
+               <org xml:id="org_304c224a6f2eace4b32f0d4e7f69cbe4">
+                  <orgName type="pref">hiesiger (Berlin) Universität</orgName>
+               </org>
+               <org xml:id="org_94422510acf0ec40573db6dc0a163204">
+                  <orgName type="pref">Würzburger Universität</orgName>
+               </org>
+               <org xml:id="org_50e2a161249dc32d50eb934e642ee5de">
+                  <orgName type="pref">Innsbrucker Hochschule</orgName>
+               </org>
+               <org xml:id="org_b175ca37905a3996f643eaa7a83ee8c7">
+                  <orgName type="pref">Universität zu Bonn</orgName>
+               </org>
+               <org xml:id="org_6f18a8a292b3b8fc7cbc6a091f6b15a7">
+                  <orgName type="pref">Löwen</orgName>
+               </org>
+               <org xml:id="org_ace85bffb0602b8fe60784f863251211">
+                  <orgName type="pref">Cultus- und Unterrichtsministerium</orgName>
+               </org>
+               <org xml:id="org_341dee60b6a7e21bca34eca257e3bfea">
+                  <orgName type="pref">Ministerium für Kultus und Unterricht</orgName>
+               </org>
+               <org xml:id="org_7a7b4bf82a8c2c90469bd29de3349bfe">
+                  <orgName type="pref">Heidelberger Universität</orgName>
+               </org>
+               <org xml:id="org_b8914faf4ce8a101c8f1c3768e1bbc37">
+                  <orgName type="pref">Académiciens</orgName>
+               </org>
+               <org xml:id="org_0331731763240180e9a78bed5484f895">
+                  <orgName type="pref">vatikanischen Archivs</orgName>
+               </org>
+               <org xml:id="org_8f01c0a45b1794f3d849de7a217edede">
+                  <orgName type="pref">seines Gymnasiums</orgName>
+               </org>
+               <org xml:id="org_cdfd66ed35d31fa2fe9976ccb9dbd2e0">
+                  <orgName type="pref">Ministerio</orgName>
+               </org>
+               <org xml:id="org_258784be33d7e1e5b00a5d5dd197b27c">
+                  <orgName type="pref">Ministeriums für Kultus und Unterricht</orgName>
+               </org>
+               <org xml:id="org_14904ed35f7fd63f0a8a75bd1f63eb30">
+                  <orgName type="pref">Universität in Innsbruck</orgName>
+               </org>
+               <org xml:id="org_8f2aee794286772a06ad3133d0a64c72">
+                  <orgName type="pref">Pest</orgName>
+               </org>
+               <org xml:id="org_103a821a3a6a0b923c9f74a39662bb51">
+                  <orgName type="pref">Zürich</orgName>
+               </org>
+               <org xml:id="org_b4864c51c6572556964b630ebec63d4a">
+                  <orgName type="pref">Ministeriums des Innern</orgName>
+               </org>
+               <org xml:id="org_ba306148be443d05c591f6fce90d4748">
+                  <orgName type="pref">hiesige Universität</orgName>
+               </org>
+               <org xml:id="org_09daa72b73e4cd44602f42b15236c31f">
+                  <orgName type="pref">Paduaner Universität</orgName>
+               </org>
+               <org xml:id="org_01a8f908c4d644a8f0275eabcefe3f11">
+                  <orgName type="pref">Universität</orgName>
+               </org>
+               <org xml:id="org_b27706200ea6cfcc010bef4cd55ebbed">
+                  <orgName type="pref">Ministeriums</orgName>
+               </org>
+               <org xml:id="org_2218e76a7d8f4f541c2f9ae22c8a22a1">
+                  <orgName type="pref">unserer uralten Hochschule</orgName>
+               </org>
+               <org xml:id="org_df1c1808911558d1ff353e165212a756">
+                  <orgName type="pref">Confederazione Germanica</orgName>
+               </org>
+               <org xml:id="org_25a234fc972cd129b3415f9f903f622e">
+                  <orgName type="pref">Landesuniversität zu Giessen</orgName>
+               </org>
+               <org xml:id="org_10989a8e7ee8194caedb80e31321923d">
+                  <orgName type="pref">Academie zu Münster</orgName>
+               </org>
+               <org xml:id="org_c172d69703654adc960e3c405367f2c7">
+                  <orgName type="pref">Ministerium für Cultus und Unterricht</orgName>
+               </org>
+               <org xml:id="org_37e1fa7cf15d7cb4f5bfa59d208f35b9">
+                  <orgName type="pref">Universität Pest</orgName>
+               </org>
+               <org xml:id="org_16434abf0951a1f8bfedae0b37bbd354">
+                  <orgName type="pref">k.k. Theresianum</orgName>
+               </org>
+               <org xml:id="org_a7f40a8c0beed01b93568312b7a8300f">
+                  <orgName type="pref">Göttinger Universität</orgName>
+               </org>
+               <org xml:id="org_aca14b80b2e925ceb03055b44c30ee6f">
+                  <orgName type="pref">k.k. Ministeriums für Cultus und Unterricht</orgName>
+               </org>
+               <org xml:id="org_965cbffdb1d3546785bc89f278b41bce">
+                  <orgName type="pref">degli Agiati</orgName>
+               </org>
+               <org xml:id="org_ce573fb3b837e6d0517b8fa5011ed041">
+                  <orgName type="pref">Brüssel</orgName>
+               </org>
+               <org xml:id="org_a7b692de86ddbf81d646aa23d50f90de">
+                  <orgName type="pref">kais. Akademie der Wissenschaften in Wien</orgName>
+               </org>
+               <org xml:id="org_80358b83c3a87483cf21e4e725e07515">
+                  <orgName type="pref">Josef-Polytechnikum</orgName>
+               </org>
+               <org xml:id="org_eacef1f08239585f30f825446c981f19">
+                  <orgName type="pref">Hohe k.k. Ministerium</orgName>
+               </org>
+               <org xml:id="org_685173b298a115c7ca74700a33246687">
+                  <orgName type="pref">hohe Unterrichtsministerium</orgName>
+               </org>
+               <org xml:id="org_6ecff76ce6f7ea81b20c54fe05036ac1">
+                  <orgName type="pref">Ministerium des Cultus</orgName>
+               </org>
+               <org xml:id="org_b47531d64f7ba15036822ad89ec85390">
+                  <orgName type="pref">polytechnischen Schule</orgName>
+               </org>
+               <org xml:id="org_e2e39469503a6b2fcb60777184e79fca">
+                  <orgName type="pref">Universität Marburg</orgName>
+               </org>
+               <org xml:id="org_e5ecd9f27813e2f04e5c1de98702da36">
+                  <orgName type="pref">Confederazione germanica</orgName>
+               </org>
+               <org xml:id="org_56600aaa7f6368035d35240f81953fa9">
+                  <orgName type="pref">Pesther Universität</orgName>
+               </org>
+               <org xml:id="org_f54d5d400eeb3c7c7389cf0f9c863035">
+                  <orgName type="pref">Lemberg an die Hochschule</orgName>
+               </org>
+               <org xml:id="org_cef0511ffd035915f4a680f3cfd19869">
+                  <orgName type="pref">meinem Bureau</orgName>
+               </org>
+               <org xml:id="org_88c141af896f8f63933d93b50c44a1d9">
+                  <orgName type="pref">k.k. Prager Universität</orgName>
+               </org>
+               <org xml:id="org_89e37663d45608642ef843e8a894e1c2">
+                  <orgName type="pref">Jesuiten</orgName>
+               </org>
+               <org xml:id="org_a973615e016ab51caf9410094ea9bd8c">
+                  <orgName type="pref">Kaiserlichen Akademie der Wissenschaften</orgName>
+               </org>
+               <org xml:id="org_cd97c370ee88d16315950eb196599ff0">
+                  <orgName type="pref">Pesther Universität</orgName>
+               </org>
+               <org xml:id="org_06c086271aa388fb0bdbe424c7570423">
+                  <orgName type="pref">hohen k.k. Cultusministeriums</orgName>
+               </org>
+               <org xml:id="org_bea708a2848d4dda724068f659705768">
+                  <orgName type="pref">hohe Ministerium</orgName>
+               </org>
+               <org xml:id="org_aab4dfc2b6f52a52e0057e7b34386fcc">
+                  <orgName type="pref">St. Augustin</orgName>
+               </org>
+               <org xml:id="org_5cd186737fc9dd3cd1af4f342514007f">
+                  <orgName type="pref">Lehranstalt</orgName>
+               </org>
+               <org xml:id="org_eb2d8b0b0abe02cc8f78d7a2abecdc41">
+                  <orgName type="pref">k.k. Ministerium des Innern</orgName>
+               </org>
+               <org xml:id="org_c211d30dc1bfa15a613565169fb26498">
+                  <orgName type="pref">Gießener</orgName>
+               </org>
+               <org xml:id="org_180ab0761158b959facf0feae6115c4e">
+                  <orgName type="pref">Pavia</orgName>
+               </org>
+               <org xml:id="org_a5a2db6bf820661fb333fc175c67e69b">
+                  <orgName type="pref">hohen k.k. Ministerium</orgName>
+               </org>
+               <org xml:id="org_776af3d8966c4f90cc4f1437604e5d80">
+                  <orgName type="pref">Marienberg</orgName>
+               </org>
+               <org xml:id="org_3e9bdad118efbab5f64f5d6b373400ba">
+                  <orgName type="pref">Bonn</orgName>
+               </org>
+               <org xml:id="org_c8caa321a4cb4314e5b55751f2f85abc">
+                  <orgName type="pref">Kultus- und Unterrichtsministeriums</orgName>
+               </org>
+               <org xml:id="org_4097044a082756024b8bc9f83ea207db">
+                  <orgName type="pref">Redaction der Gymnasialzeitschrift</orgName>
+               </org>
+               <org xml:id="org_84f00142723b70bd8c4f6d3876fea45e">
+                  <orgName type="pref">Ministerium für Kultus und Unterricht</orgName>
+               </org>
+               <org xml:id="org_91ae4036a623e439fb2d8781ea056854">
+                  <orgName type="pref">Kultus- und Unterrichtsministerium</orgName>
+               </org>
+               <org xml:id="org_e0029899746089eadefab2a8fed37236">
+                  <orgName type="pref">k.k. Akademie der bildenden Künste</orgName>
+               </org>
+               <org xml:id="org_a58887c9273532fef2deec8e30b69abe">
+                  <orgName type="pref">hiesigen k.k. Universität</orgName>
+               </org>
+               <org xml:id="org_a206e60dede733455c181db7926df80a">
+                  <orgName type="pref">Königlich Böhmische Gesellschaft</orgName>
+               </org>
+               <org xml:id="org_ffa30fc8b68da442fb33f1d78ccb1ff0">
+                  <orgName type="pref">Innsbrucks</orgName>
+               </org>
+               <org xml:id="org_6b702777971f602f65440191fc7b38b2">
+                  <orgName type="pref">Cultusministeriums</orgName>
+               </org>
+               <org xml:id="org_09b775cf07bb806f02b893707d2ec08c">
+                  <orgName type="pref">Universität Wien</orgName>
+               </org>
+               <org xml:id="org_c6a75428e2944958191e84b3622d3a66">
+                  <orgName type="pref">polytechnischen Schule</orgName>
+               </org>
+               <org xml:id="org_6432b9660fba5c1f08f9667e51fe46a4">
+                  <orgName type="pref">hiesige Hochschule</orgName>
+               </org>
+               <org xml:id="org_59408ee92ac051200889a4c0bb28f504">
+                  <orgName type="pref">Ministerium des Cultus</orgName>
+               </org>
+               <org xml:id="org_d6dcfb001135c97ecfba987b6d516be4">
+                  <orgName type="pref">hohe Cultusministerium</orgName>
+               </org>
+               <org xml:id="org_d170e50b25cb2055f4c413a8b60f5afc">
+                  <orgName type="pref">unsere vaterländische Hochschule</orgName>
+               </org>
+               <org xml:id="org_bc1f8a8dc753022dcebc810482590fdd">
+                  <orgName type="pref">Gent</orgName>
+               </org>
+               <org xml:id="org_24480d77b7339c493731c68b79287500">
+                  <orgName type="pref">Krakauer Universität</orgName>
+               </org>
+               <org xml:id="org_513428459d910fc6a95edaf4f688bb27">
+                  <orgName type="pref">Universität zu Siena</orgName>
+               </org>
+               <org xml:id="org_a228446426fb6a6c62601a921604da80">
+                  <orgName type="pref">Gerold</orgName>
+               </org>
+               <org xml:id="org_c12b8d9779a8ad2b240a57b31c979290">
+                  <orgName type="pref">Prag</orgName>
+               </org>
+               <org xml:id="org_5b5366cbf3c4bebe87422ce862f730e8">
+                  <orgName type="pref">Ministerium für Kultus und Unterricht</orgName>
+               </org>
+               <org xml:id="org_a54c0cc336ca41b87ec7f929228fb87f">
+                  <orgName type="pref">Academie</orgName>
+               </org>
+               <org xml:id="org_429eaa723171b8df95cb73d33885556f">
+                  <orgName type="pref">Redaction der Zeitschrift</orgName>
+               </org>
+               <org xml:id="org_56f0061342828258b1cdc6eeea67509f">
+                  <orgName type="pref">hiesigen Universität</orgName>
+               </org>
+               <org xml:id="org_c3da1e1b25de6b4ebb2e1adb25c116d9">
+                  <orgName type="pref">Würzburg</orgName>
+               </org>
+               <org xml:id="org_2d1ebf36997e538b7607c82a88d8280c">
+                  <orgName type="pref">k.k. geologische Reichsanstalt</orgName>
+               </org>
+               <org xml:id="org_00e2891e695e5252a23624ec274fb010">
+                  <orgName type="pref">hohen Ministeriums</orgName>
+               </org>
+               <org xml:id="org_2ddedc44589a248b5e5eea709109ea09">
+                  <orgName type="pref">des Ministeriums für Cultus und Unterricht</orgName>
+               </org>
+               <org xml:id="org_79b216db2dc1254a299ced74e6897e7a">
+                  <orgName type="pref">Ministeriums des Innern</orgName>
+               </org>
+               <org xml:id="org_e20d37a5d7fcc4c35be6fc18a8e71bfa">
+                  <orgName type="pref">Paris</orgName>
+               </org>
+               <org xml:id="org_f4d993a2c9ee2396ec1fca6318e0721f">
+                  <orgName type="pref">hohen Ministerium</orgName>
+               </org>
+               <org xml:id="org_c5bf2c934e3e553f809b424e7b2a23a2">
+                  <orgName type="pref">historischen Vereine</orgName>
+               </org>
+               <org xml:id="org_fd72b18e9785eec4701d4706c1a88458">
+                  <orgName type="pref">jener Hochschule</orgName>
+               </org>
+               <org xml:id="org_72eedf0df0b921b94b2cf0be39e2c2fc">
+                  <orgName type="pref">unsere Universität</orgName>
+               </org>
+               <org xml:id="org_91466b6b405a2568cba045effde98586">
+                  <orgName type="pref">Kirche dell'anima</orgName>
+               </org>
+               <org xml:id="org_276844f3bb61189cdba7ee5bc78a1837">
+                  <orgName type="pref">Lemberger Universität</orgName>
+               </org>
+               <org xml:id="org_1915266eb5e8c4335222ed809c97a496">
+                  <orgName type="pref">Universität zu Heidelberg</orgName>
+               </org>
+               <org xml:id="org_4ad2db597570abf7f7cf49485a536529">
+                  <orgName type="pref">Ministeriums des Cultus</orgName>
+               </org>
+               <org xml:id="org_ba8aa1ebcd08281c422880162688f669">
+                  <orgName type="pref">Ministeriums für Cultus und Unterricht</orgName>
+               </org>
+               <org xml:id="org_2f68a2f681d7361ecfa2bbb931f26143">
+                  <orgName type="pref">Ministerium des Kultus und Unterrichtes</orgName>
+               </org>
+               <org xml:id="org_ebbfa618466a719754734a8eb2673d47">
+                  <orgName type="pref">Greifswald</orgName>
+               </org>
+               <org xml:id="org_ad8e37dff4826a2f4b6092f1c3e1eddc">
+                  <orgName type="pref">Universität Graz</orgName>
+               </org>
+               <org xml:id="org_39b87d28ffb05caeef5219065f0292b3">
+                  <orgName type="pref">Universität zu Pesth</orgName>
+               </org>
+               <org xml:id="org_1316397e7b8750f81f08c6340df1b946">
+                  <orgName type="pref">dell’Anima</orgName>
+               </org>
+               <org xml:id="org_6ff6fd60a7429c9a72c530fabbdab1af">
+                  <orgName type="pref">k.k. Ministerium des Innern</orgName>
+               </org>
+               <org xml:id="org_c02e70ede4cf16d43ac4c3d9703f55e6">
+                  <orgName type="pref">k.k. Theresianischen Ritterakademie</orgName>
+               </org>
+               <org xml:id="org_859a9abe9c358ca3f4cd1a6a8f965338">
+                  <orgName type="pref">Redakzion</orgName>
+               </org>
+               <org xml:id="org_6e9500da5950e264084549b378632693">
+                  <orgName type="pref">k.k. Ministerium des Unterrichts</orgName>
+               </org>
+               <org xml:id="org_ca7668a05b2a3dbf29ca3d768c0febe8">
+                  <orgName type="pref">Graz</orgName>
+               </org>
+               <org xml:id="org_073f757e14475d7e4fa07ee7d9b611e5">
+                  <orgName type="pref">unserer Universität</orgName>
+               </org>
+               <org xml:id="org_410389d66cc1b65b53e86f5dce6fb99b">
+                  <orgName type="pref">S. Maria dell’Anima</orgName>
+               </org>
+               <org xml:id="org_26d655e245f4ffab46775ab687418c86">
+                  <orgName type="pref">Universität Prag</orgName>
+               </org>
+               <org xml:id="org_1c4afe2bf60b85b6acb741de123b2802">
+                  <orgName type="pref">k.k. akademischen Gymnasium</orgName>
+               </org>
+               <org xml:id="org_da6b657a24903980d81fc0a5f859b755">
+                  <orgName type="pref">k.k. Theresianischen Academie</orgName>
+               </org>
+               <org xml:id="org_24e2c0860ba6e142245903acc94e4e1f">
+                  <orgName type="pref">unserer Hochschule</orgName>
+               </org>
+               <org xml:id="org_b86afe11557304117f93fc28b0d6dd67">
+                  <orgName type="pref">Universität Innsbruck</orgName>
+               </org>
+               <org xml:id="org_48a09f4956b196a2489d69e3c117000d">
+                  <orgName type="pref">Padua</orgName>
+               </org>
+               <org xml:id="org_cbdc2e5f88ad79723d478169a37dec08">
+                  <orgName type="pref">Universität zu Gratz</orgName>
+               </org>
+               <org xml:id="org_ca0393adc3e10e92436589385376d8ab">
+                  <orgName type="pref">Universität zu Wien</orgName>
+               </org>
+               <org xml:id="org_a72b23f2d602638fc59682b91425f660">
+                  <orgName type="pref">Rechtsakademie</orgName>
+               </org>
+               <org xml:id="org_36c29bdbbb65cefdcb41ca79344086d8">
+                  <orgName type="pref">Lyzeum zu Salzburg</orgName>
+               </org>
+               <org xml:id="org_eb81d0fa61b9e71071e722c1ca3cacc6">
+                  <orgName type="pref">Universität zu Krakau</orgName>
+               </org>
+               <org xml:id="org_ba6661b0dc644d8fc10a0ca9a1aaff05">
+                  <orgName type="pref">Theresianischen Akademiegebäudes</orgName>
+               </org>
+               <org xml:id="org_082d1da3715d0c4d075e6c0316f2dfb6">
+                  <orgName type="pref">kaiserlichen Akademie</orgName>
+               </org>
+               <org xml:id="org_9a79a45db36095906d0428f54df64e90">
+                  <orgName type="pref">Padova</orgName>
+               </org>
+               <org xml:id="org_95fad097eeec1b5df14a83aa0dc6500a">
+                  <orgName type="pref">hohen Unterrichtsministerium</orgName>
+               </org>
+               <org xml:id="org_bbaad88bd130e5dfe6c3cf185ce5b0be">
+                  <orgName type="pref">Erlangen</orgName>
+               </org>
+               <org xml:id="org_4dfdbf66af3f0ded949021653117969f">
+                  <orgName type="pref">polytechnischen Institute</orgName>
+               </org>
+               <org xml:id="org_3f85d32851c48cdf5cbb8bfa2ae3c13d">
+                  <orgName type="pref">Dorpat</orgName>
+               </org>
+               <org xml:id="org_3667cbbafb66c626f2c1d56c1bd96d69">
+                  <orgName type="pref">Jena</orgName>
+               </org>
+               <org xml:id="org_fb469f2392868bce2eda9e5bd2b8497d">
+                  <orgName type="pref">k.k. geologischen Reichsanstalt</orgName>
+               </org>
+               <org xml:id="org_8b51716f7774806ed6fa7d497ac4433f">
+                  <orgName type="pref">Gustav-Adolph-Verein</orgName>
+               </org>
+               <org xml:id="org_d0a6343a081a7335baa965ce4fd0845c">
+                  <orgName type="pref">München</orgName>
+               </org>
+               <org xml:id="org_5596985b525797817127e4b9a44b6b47">
+                  <orgName type="pref">k.k. Ministeriums des Innern</orgName>
+               </org>
+               <org xml:id="org_60960432acfa4972c8f13dd89a872920">
+                  <orgName type="pref">Breslau</orgName>
+               </org>
+               <org xml:id="org_9d7bfc7cfc8c423af1565c556cda2e45">
+                  <orgName type="pref">Universität Giessen</orgName>
+               </org>
+               <org xml:id="org_6b9a5362500b33b718af58adbb7b4d1a">
+                  <orgName type="pref">k.k. Ministerium des Cultus und Unterrichtes</orgName>
+               </org>
+               <org xml:id="org_95d66ebaf6e85e1d4f07a2807b54af4a">
+                  <orgName type="pref">Università di Pavia</orgName>
+               </org>
+               <org xml:id="org_98b779cc8e159887bf234aeb0283f4b3">
+                  <orgName type="pref">Giessen</orgName>
+               </org>
+               <org xml:id="org_8b35e629476cc78e2c9b1b322f17c786">
+                  <orgName type="pref">k.k. Universität</orgName>
+               </org>
+               <org xml:id="org_c8925d037ea55d45da7386cb9056b956">
+                  <orgName type="pref">Krakauer</orgName>
+               </org>
+               <org xml:id="org_7bdcbbef05bbd7a4572d71b09158cd4d">
+                  <orgName type="pref">k.k. hohe Ministerium des öffentlichen Unterrichts</orgName>
+               </org>
+               <org xml:id="org_20c5ffbdbeaa55e87dc24887041dc191">
+                  <orgName type="pref">hiesiger Universität</orgName>
+               </org>
+               <org xml:id="org_4adb3c85d9d167d9c6364598241e4c98">
+                  <orgName type="pref">kön. baierischen Akademie in München</orgName>
+               </org>
+            </listOrg>
+         </div>
+      </body>
+   </text>
+</TEI>

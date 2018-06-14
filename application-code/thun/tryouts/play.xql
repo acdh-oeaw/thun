@@ -6,5 +6,5 @@ import module namespace app="http://www.digital-archiv.at/ns/thun/templates" at 
 declare namespace tei = "http://www.tei-c.org/ns/1.0";
 
 
-for $x in collection($app:editions)//tei:TEI//*[@ref="#agassiz-louis"]
-return count($x)
+for $x in collection($app:editions)//tei:TEI//tei:orgName
+return $x
