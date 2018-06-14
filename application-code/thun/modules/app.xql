@@ -10,6 +10,8 @@ declare variable  $app:editions := $config:app-root||'/data/editions';
 declare variable  $app:indices := $config:app-root||'/data/indices';
 declare variable $app:placeIndex := $config:app-root||'/data/indices/listplace.xml';
 declare variable $app:personIndex := $config:app-root||'/data/indices/listperson.xml';
+declare variable $app:orgIndex := $config:app-root||'/data/indices/listorg.xml';
+
 
 declare function functx:contains-case-insensitive
   ( $arg as xs:string? ,
@@ -194,6 +196,20 @@ return
            <td>{$hits}</td>
            <td>{$snippet}<p style="text-align:right">({<a href="{concat(app:hrefToDoc($title), "&amp;searchkey=", $indexSerachKey)}">{app:getDocName($title)}</a>})</p></td>
         </tr>   
+};
+
+(:~
+ : creates a basic org-index
+ :)
+declare function app:listOrg($node as node(), $model as map(*)) {
+    let $hitHtml := "hits.html?searchkey="
+    for $org in doc($app:orgIndex)//tei:org
+        return
+        <tr>
+            <td>
+                {$org/tei:orgName}
+            </td>
+        </tr>
 };
  
 (:~
