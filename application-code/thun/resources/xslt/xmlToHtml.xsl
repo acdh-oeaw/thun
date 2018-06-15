@@ -77,7 +77,7 @@
                             <xsl:if test="//tei:physDesc/text()">
                                 <tr>
                                     <th>
-                                        <abbr title="//tei:physDesc">Phys-Desc (NAME NEEDS TO BE CHANGED)</abbr>
+                                        <abbr title="//tei:physDesc">Beilagen, Anmerkungen</abbr>
                                     </th>
                                     <td>
                                         <xsl:apply-templates select="//tei:physDesc"/>
