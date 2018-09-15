@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -35,20 +34,16 @@
         <profileDesc>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="#albrecht-erzherzog">Erzherzog Albrecht</persName>
+                    <rs type="person" ref="#albrecht-erzherzog">Erzherzog Albrecht</rs>
                     <settlement ref="#place_ae8effcf53078ebe204e349a55546ca8">Debrezin</settlement>
                     <date when="1858-05-05">5. Mai 1858</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#thun-hohenstein-leo">Leo Thun</persName>
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc>
-            <list>
-                <item>approved by Mazohl</item>
-            </list>
-        </revisionDesc>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

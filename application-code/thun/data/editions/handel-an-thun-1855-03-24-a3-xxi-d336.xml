@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -52,20 +51,16 @@
         <profileDesc>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="#handel-maximilian">Maximilian Handel</persName>
+                    <rs type="person" ref="#handel-maximilian">Maximilian Handel</rs>
                     <settlement ref="#place_a330ac6c48198545d4d2f9ff2cb0fc05">Stuttgart</settlement>
                     <date when="1855-03-24">24. März 1855</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#thun-hohenstein-leo">Leo Thun</persName>
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc>
-            <list>
-                <item>approved by Mazohl</item>
-            </list>
-        </revisionDesc>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

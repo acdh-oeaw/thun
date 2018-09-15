@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title><persName key="hahn-friedrich" role="sender:gelehrter">Friedrich
-                        Hahn</persName> an <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName><lb/><placeName>Wien</placeName>, <date when="1854-10-01">1.
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title><rs type="person" ref="hahn-friedrich" key="hahn-friedrich" role="sender:gelehrter">Friedrich
+                        Hahn</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs><lb/><rs type="place" subtype="place">Wien</rs>, <date when="1854-10-01">1.
                         Oktober 1854</date></title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
                             Tetschen-Bodenbach</institution><repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
                             Thun</repository><idno>A3 XXI D288</idno></msIdentifier><msContents><p>Der Jurist Friedrich Hahn bewirbt sich um einen Lehrstuhl an einer
@@ -24,14 +23,14 @@
                             sich die Erlaubnis, das Buch Thun beizeiten vorlegen zu dürfen. Zuletzt
                             fügt er dem Ansuchen die Bitte an, dass er vorzugsweise nach Prag
                             berufen werden möchte, da dort eine gute Bibliothek und ausreichend
-                            intellektuelle Anregungen vorhanden seien.</p></msContents></msDesc></sourceDesc></fileDesc><revisionDesc docStatus="approved"/></teiHeader><text><body><div type="transcript"><index><term>Personalfragen</term><term>Universität Prag</term><term>Rechtswissenschaften</term><term>Deutsche Reichs- und Rechtsgeschichte</term></index><p>Excellenz!</p><p>Als bei der neuen Organisirung des Studienwesens Euer Excellenz auch dem
+                            intellektuelle Anregungen vorhanden seien.</p></msContents></msDesc></sourceDesc></fileDesc><revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc></teiHeader><text><body><div type="transcript"><index><term>Personalfragen</term><term>Universität Prag</term><term>Rechtswissenschaften</term><term>Deutsche Reichs- und Rechtsgeschichte</term></index><p>Excellenz!</p><p>Als bei der neuen Organisirung des Studienwesens Euer Excellenz auch dem
                     Kaiserstaat nicht angehörende deutsche akademische Lehrer an österreichische
                     Universitäten beriefen, regte sich in mir der Wunsch, der Zahl dieser Lehrer
-                    beigestellt zu werden. Familientraditionen hatten mich schon früh auf <country key="oesterreich">Österreich</country> hingewiesen: mein <persName key="hahn-phillip-franz">Vater</persName>, der seine Laufbahn als k.
+                    beigestellt zu werden. Familientraditionen hatten mich schon früh auf <rs type="place" subtype="country" key="oesterreich">Österreich</rs> hingewiesen: mein <rs type="person" ref="hahn-phillip-franz" key="hahn-phillip-franz">Vater</rs>, der seine Laufbahn als k.
                     Militairarzt begonnen hatte, stellte mir oft den österreichischen Staatsdienst
                     als zu erstrebendes Ziel vor Augen. Die Verleihung eines kaiserlichen Konsulats
-                    an meinen <persName key="hahn-johann-georg">Bruder</persName>, den jetzigen
-                    kaiserlichen Konsul in <placeName>Syra</placeName> frischten diese
+                    an meinen <rs type="person" ref="hahn-johann-georg" key="hahn-johann-georg">Bruder</rs>, den jetzigen
+                    kaiserlichen Konsul in <rs type="place" subtype="place">Syra</rs> frischten diese
                     Jugendeindrücke wieder auf. Feste Gestalt nahmen meine Wünsche aber erst an, als
                     ich von der Absicht Euerer Excellenz vernahm, die germanistischen Studien an den
                     österreichischen Universitäten einzubürgern, und es mir dadurch möglich gemacht

@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title><persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="rechberg-bernhard" role="recipient">Bernhard
-                        Rechberg</persName><lb/><placeName>Wien</placeName>, <date when="1857-07-21">21. Juli 1857</date></title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>Österreichisches Staatsarchiv</institution><repository>Haus-, Hof- und Staatsarchiv</repository><idno>Sonderbestände Nl Braun 13-6-11-34</idno></msIdentifier><msContents><p>Leo Thun informiert den Chef der Zivilabteilung des
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title><rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="rechberg-bernhard" key="rechberg-bernhard" role="recipient">Bernhard
+                        Rechberg</rs><lb/><rs type="place" subtype="place">Wien</rs>, <date when="1857-07-21">21. Juli 1857</date></title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>Österreichisches Staatsarchiv</institution><repository>Haus-, Hof- und Staatsarchiv</repository><idno>Sonderbestände Nl Braun 13-6-11-34</idno></msIdentifier><msContents><p>Leo Thun informiert den Chef der Zivilabteilung des
                             lombardo-venetianischen Generalgouvernements Bernhard Rechberg über
                             Gesundheitszustand von dessen Sohn, Alois Rechberg, und dessen
                             schwieriger Lebenslage. Thun hatte sich in einem ausführlichen Gespräch
@@ -14,10 +13,10 @@
                             er sich aber bald erholt haben wird. Anschließend will Alois Rechberg zu
                             seinem Vater reisen und ihn persönlich über seine Situation informieren.
                             Thun versichert Bernhard Rechberg, dass er sich weiter um seinen Sohn
-                            kümmern werde.</p></msContents></msDesc></sourceDesc></fileDesc><revisionDesc docStatus="approved"/></teiHeader><text><body><div type="transcript"><index><term>Privates</term></index><p>Wien, den 21. Juli 857</p><p>Lieber Freund!</p><p>Nach Empfang Ihres ersten Briefes schrieb ich <persName key="rechberg-alois">Ihrem Sohne</persName>, wenn er aus gehen dürfe, so wolle er zu mir kommen,
+                            kümmern werde.</p></msContents></msDesc></sourceDesc></fileDesc><revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc></teiHeader><text><body><div type="transcript"><index><term>Privates</term></index><p>Wien, den 21. Juli 857</p><p>Lieber Freund!</p><p>Nach Empfang Ihres ersten Briefes schrieb ich <rs type="person" ref="rechberg-alois" key="rechberg-alois">Ihrem Sohne</rs>, wenn er aus gehen dürfe, so wolle er zu mir kommen,
                     widrigenfalls würde ich zu ihm kommen. Ich erhielt die Antwort, er sei nicht zu
                     Hause, und werde erst Abend erwartet. Ich schrieb ihm also einen zweiten Zettel,
-                    er wolle den andern Tag zu mir nach <placeName>Hetzendorf</placeName>
+                    er wolle den andern Tag zu mir nach <rs type="place" subtype="place">Hetzendorf</rs>
                     kommen.<lb/>Wir hatten eine lange Unterredung. Ich both meine schwache
                     Beredsamkeit auf, um ihn zu bewegen, daß er sofort seine Wohnung verlaße, es in
                     einem Hause in der Nähe der Stadt in Gesellschaft eines Korepetitors, den ich
@@ -39,7 +38,7 @@
                     erhoben. Er werde mir demnächst vorlegen, wie es mit dem Geld stehe. Tags darauf
                     bekam ich einen Brief, der Arzt habe ihm verordnet einige Zeit nicht auszugehen.
                     In 14 Tagen hätte er mit seiner Kur fertig zu sein, und bitte um Erlaubnis dann
-                    zu Ihnen zu reisen. Ich habe inzwischen mit seinem Arzt <persName key="sigmund-karl-ludwig">Dr. Sigmund</persName> gesprochen. Er sagt mir
+                    zu Ihnen zu reisen. Ich habe inzwischen mit seinem Arzt <rs type="person" ref="sigmund-karl-ludwig" key="sigmund-karl-ludwig">Dr. Sigmund</rs> gesprochen. Er sagt mir
                     sein Übel sei noch nicht von Bedeutung. Doch habe sich ein Geschwürchen
                     gebildet, das eine kleine Operazion bedürfe und deswegen müsse er einige Tage zu
                     Hause bleiben.<lb/>Sehr beschäftigt, weil mein Unterstaatssekretär verreist ist,

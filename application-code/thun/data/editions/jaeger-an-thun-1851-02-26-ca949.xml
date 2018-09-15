@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -41,20 +40,16 @@
         <profileDesc>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="#jaeger-albert">Albert Jäger</persName>
+                    <rs type="person" ref="#jaeger-albert">Albert Jäger</rs>
                     <settlement ref="#place_834e1bca2cb7d2238249e70860ed8ae8">Meran</settlement>
                     <date when="1851-02-26">26. Februar 1851</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#thun-hohenstein-leo">Leo Thun</persName>
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc>
-            <list>
-                <item>approved by Mazohl</item>
-            </list>
-        </revisionDesc>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -67,21 +66,17 @@
         <profileDesc>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="#roczek-mathias">Mathias Roczek</persName>
+                    <rs type="person" ref="#roczek-mathias">Mathias Roczek</rs>
                     <settlement ref="#place_0e840a3cd526846dda20cf2ada7bfb4d">Drožditz</settlement>
                     <date when="1850-01-02">02. Januar
                     1850</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#thun-hohenstein-leo">Leo Thun</persName>
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc>
-            <list>
-                <item>approved by Mazohl</item>
-            </list>
-        </revisionDesc>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

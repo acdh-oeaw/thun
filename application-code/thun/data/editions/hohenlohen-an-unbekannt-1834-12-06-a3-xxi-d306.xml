@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -45,18 +44,14 @@
         <profileDesc>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="#hohenlohe-waldenburg-schillingfuerst-alexander">Alexander Hohenlohe</persName>
+                    <rs type="person" ref="#hohenlohe-waldenburg-schillingfuerst-alexander">Alexander Hohenlohe</rs>
                     <settlement ref="#place_11040f2c1312651fcf9e8c9ca1af8cd7">Großwardein</settlement>
                     <date when="1834-12-06">6. Dezember
                         1834</date>
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc>
-            <list>
-                <item>approved by Mazohl</item>
-            </list>
-        </revisionDesc>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

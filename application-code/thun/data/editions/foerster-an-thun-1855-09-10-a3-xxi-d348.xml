@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -64,20 +63,16 @@
         <profileDesc>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="#wilhelm-andreas">Andreas Wilhelm</persName>
+                    <rs type="person" ref="#wilhelm-andreas">Andreas Wilhelm</rs>
                     <settlement ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Krakau</settlement>
                     <date when="1855-09-15">15. September 1855</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#kink-rudolph">Rudolph Kink</persName>
+                    <rs type="person" ref="#kink-rudolph">Rudolph Kink</rs>
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc>
-            <list>
-                <item>approved by Mazohl</item>
-            </list>
-        </revisionDesc>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

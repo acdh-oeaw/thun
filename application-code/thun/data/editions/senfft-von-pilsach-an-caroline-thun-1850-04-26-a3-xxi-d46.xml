@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,20 +42,16 @@
         <profileDesc>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="#senfft-von-pilsach-friedrich">Friedrich Christian Ludwig Senfft von Pilsach</persName>
+                    <rs type="person" ref="#senfft-von-pilsach-friedrich">Friedrich Christian Ludwig Senfft von Pilsach</rs>
                     <settlement ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</settlement>
                     <date when="1850-04-26">26. April 1850</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#thun-hohenstein-caroline">Caroline Thun</persName>
+                    <rs type="person" ref="#thun-hohenstein-caroline">Caroline Thun</rs>
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc>
-            <list>
-                <item>approved by Mazohl</item>
-            </list>
-        </revisionDesc>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

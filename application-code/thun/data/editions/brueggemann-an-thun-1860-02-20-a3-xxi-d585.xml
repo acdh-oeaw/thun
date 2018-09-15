@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,20 +42,16 @@
         <profileDesc>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="#brueggemann-theodor">Theodor Brüggemann</persName>
+                    <rs type="person" ref="#brueggemann-theodor">Theodor Brüggemann</rs>
                     <settlement ref="#place_d35a02eb49149450fb2fffc6e467eb37">Berlin</settlement>
                     <date when="1860-02-20">20. Februar 1860</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#thun-hohenstein-leo">Leo Thun</persName>
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc>
-            <list>
-                <item>approved by Mazohl</item>
-            </list>
-        </revisionDesc>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

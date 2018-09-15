@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -48,17 +47,13 @@
         <profileDesc>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="#pauli-friedrich-wilhelm">Friedrich Wilhelm Pauli</persName>
+                    <rs type="person" ref="#pauli-friedrich-wilhelm">Friedrich Wilhelm Pauli</rs>
                     <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
                     <date when="1851-04-05">5. April 1851</date>
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc>
-            <list>
-                <item>approved by Mazohl</item>
-            </list>
-        </revisionDesc>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

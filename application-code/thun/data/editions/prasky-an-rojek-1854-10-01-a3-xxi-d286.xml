@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -47,21 +46,17 @@
         <profileDesc>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="#prasky-vinzenz">Vinzenz Prasky</persName>
-                    <persName ref="#hais-josef">Josef Hais</persName>
+                    <rs type="person" ref="#prasky-vinzenz">Vinzenz Prasky</rs>
+                    <rs type="person" ref="#hais-josef">Josef Hais</rs>
                     <settlement ref="#place_b19bff5a3b79c0971a99eefa36cc1670">Königgrätz</settlement>
                     <date when="1854-10-01">1. Oktober 1854</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#rojek-johann">Johann Rojek</persName>
+                    <rs type="person" ref="#rojek-johann">Johann Rojek</rs>
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc>
-            <list>
-                <item>approved by Mazohl</item>
-            </list>
-        </revisionDesc>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

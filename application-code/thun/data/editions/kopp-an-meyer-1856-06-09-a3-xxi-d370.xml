@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -47,20 +46,16 @@
         <profileDesc>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="#kopp-josef">Josef Eutych Kopp</persName>
+                    <rs type="person" ref="#kopp-josef">Josef Eutych Kopp</rs>
                     <settlement ref="#place_11b61665a73f0026ee1a5c5d4db4d40c">Luzern</settlement>
                     <date when="1856-06-09">9. Juni 1856</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#meyer-bernhard">Bernhard Meyer</persName>
+                    <rs type="person" ref="#meyer-bernhard">Bernhard Meyer</rs>
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc>
-            <list>
-                <item>approved by Mazohl</item>
-            </list>
-        </revisionDesc>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

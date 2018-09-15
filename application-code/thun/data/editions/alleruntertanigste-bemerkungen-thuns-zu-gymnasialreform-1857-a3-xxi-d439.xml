@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Stellungnahme Leo Thuns zum Resolutionsentwurf des Reichsratspräsidenten
-                        <persName key="rainer-ferdinand-erzherzog">Erzherzog Rainer</persName>[?]
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Stellungnahme Leo Thuns zum Resolutionsentwurf des Reichsratspräsidenten
+                        <rs type="person" ref="rainer-ferdinand-erzherzog" key="rainer-ferdinand-erzherzog">Erzherzog Rainer</rs>[?]
                     zur Reform der Gymnasien<lb/> o. O., <date when="1857">o. D. [1857]</date><note xml:id="note_1">Die Stellungnahme ist im Nachlass auf das Jahr 1857 datiert.
                         Dies erscheint plausibel, zumal in den Jahren 1857/58 die Reform der
                         Gymnasien intensiv diskutiert wurde. Vgl. dazu etwa auch die Briefe von
@@ -22,7 +21,7 @@
                             Staatsgymnasien. Als letzten Punkt spricht Thun die Reform in
                             Siebenbürgen und Lombardo-Venetien an: Er möchte nicht, dass man die
                             Reformen dort auch nur in Ansätzen in Frage stellt, weil sonst die
-                            Grundsatzdiskussionen wieder von vorn beginnen würden.</p></msContents><physDesc><p>Eigenhändiges Konzept von Leo Thun.</p></physDesc></msDesc></sourceDesc></fileDesc><revisionDesc docStatus="approved"/></teiHeader><text><body><div type="transcript"><index><term>Gymnasien</term><term>Reform</term><term>Sprachenfrage</term></index><p>Allerunterthänigste Bemerkungen zu dem Resoluzionsentwurf des <persName key="rainer-ferdinand-erzherzog">Reichsrathspräsidenten</persName> über die
+                            Grundsatzdiskussionen wieder von vorn beginnen würden.</p></msContents><physDesc><p>Eigenhändiges Konzept von Leo Thun.</p></physDesc></msDesc></sourceDesc></fileDesc><revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc></teiHeader><text><body><div type="transcript"><index><term>Gymnasien</term><term>Reform</term><term>Sprachenfrage</term></index><p>Allerunterthänigste Bemerkungen zu dem Resoluzionsentwurf des <rs type="person" ref="rainer-ferdinand-erzherzog" key="rainer-ferdinand-erzherzog">Reichsrathspräsidenten</rs> über die
                     Gymnasialangelegenheit</p><p>Dieser Entwurf ist in der Voraussetzung verfasst, daß es sich lediglich darum
                     handle, Weisungen an mich zu ertheilen. Ich halte es aber für sehr
                     wünschenswerth, daß der Theil der allerhöchsten Entschließungen, welcher schon
@@ -59,7 +58,7 @@
                     widerstreitet. Im Reichsrathe ist sie nur von einer Stimme vertreten worden;
                     alle anderen haben ebenso wie die <orgName key="ministerrat">Ministerconferenz</orgName> das Gewicht der Gründe anerkannt, welche für
                     die erste Alternative sprachen, und im Protokolle umständlicher entwickelt sind.
-                    Der Resoluzionsentwurf des <persName key="rainer-ferdinand-erzherzog">Reichsrathspräsidenten</persName> enthält gleichwohl diese zweite
+                    Der Resoluzionsentwurf des <rs type="person" ref="rainer-ferdinand-erzherzog" key="rainer-ferdinand-erzherzog">Reichsrathspräsidenten</rs> enthält gleichwohl diese zweite
                     Alternative, ohne daß in dem Vortrage darüber eine Sylbe erwähnt ist.<lb/>Ich
                     muß inständigst um die allerhöchste Genehmigung der ersten Alternative bitten,
                     die ich in meinem Entwurfe zu formulieren bemüht war. Könnte das nicht gewährt
@@ -80,13 +79,13 @@
                     Studienfondsgymnasien Staatsgymnasien seien.</p><p>ad 7<lb/>ist die erste Frage so unzweifelhaft, daß eine umständliche Verhandlung
                     und Berichterstattung darüber eigentlich eine ganz müßige Geschäftsvermehrung
                     verursachen wird, sonst habe ich aber nichts dagegen einzuwenden.</p><p>ad 8<lb/>scheint auf einem Mißverständniße einer Stelle des gedruckten Operates
-                    zu beruhen; es sind über diese Punkte (hinsichtlich <country key="ungarn">Ungarns</country>) keine besonderen Verhandlungen im Zuge.<lb/>Was aber
-                        <region key="siebenbuergen">Siebenbürgen</region> und das <country key="lombardo-venetien">lombardo-venezianische Königreich</country>
+                    zu beruhen; es sind über diese Punkte (hinsichtlich <rs type="place" subtype="country" key="ungarn">Ungarns</rs>) keine besonderen Verhandlungen im Zuge.<lb/>Was aber
+                        <rs type="place" subtype="region" key="siebenbuergen">Siebenbürgen</rs> und das <rs type="place" subtype="country" key="lombardo-venetien">lombardo-venezianische Königreich</rs>
                     anbelangt, so muß ich dringend bitten, sie nicht erst zum Gegenstand neuer
                     Systemalvorträge zu machen, in welchen hinsichtlich des allgemeinen
                     Gymnasial-Systems – und darum handelt es sich ja eben – doch nichts Neues
                     gesagt werden kann. Die in meinem Entwurfe sub a gemachte Hindeutung auf die
-                    besonderen Landesverhältnisse dürfte genügen. Gerade was das <country key="lombardo-venetien">lombardo-venezianische Königreich</country>
+                    besonderen Landesverhältnisse dürfte genügen. Gerade was das <rs type="place" subtype="country" key="lombardo-venetien">lombardo-venezianische Königreich</rs>
                     anbelangt ist ein allerhöchster Ausspruch, daß es im Wesentlichen bei den neuen
                     Einrichtungen sein Verbleiben hat, dringendes Bedürfnis; denn wird hierzulande
                     gegen diese Einrichtungen agitiert, so artet diese Agitation dort wie jede

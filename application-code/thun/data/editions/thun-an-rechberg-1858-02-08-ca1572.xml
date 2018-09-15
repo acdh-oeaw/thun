@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title><persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="rechberg-rothenloewen-bernhard" role="recipient">Bernhard
-                        Rechberg</persName><lb/><placeName>Wien</placeName>, <date when="1858-02-08">8. Februar 1858</date></title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>Österreichisches Staatsarchiv</institution><repository>Haus-, Hof- und Staatsarchiv</repository><idno>Sonderbestände Nl Braun 13-6-11-34</idno></msIdentifier><msContents><p>Leo Thun informiert den Chef der Zivilabteilung des
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title><rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="rechberg-rothenloewen-bernhard" key="rechberg-rothenloewen-bernhard" role="recipient">Bernhard
+                        Rechberg</rs><lb/><rs type="place" subtype="place">Wien</rs>, <date when="1858-02-08">8. Februar 1858</date></title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>Österreichisches Staatsarchiv</institution><repository>Haus-, Hof- und Staatsarchiv</repository><idno>Sonderbestände Nl Braun 13-6-11-34</idno></msIdentifier><msContents><p>Leo Thun informiert den Chef der Zivilabteilung des
                             lombardo-venetianischen Generalgouvernements Bernhard Rechberg über die
                             Rechtslage für die Zulassung zu den juridischen Staatsprüfungen von
                             dessen Sohn Alois. Zunächst gratuliert er jedoch, dass sich Alois doch
@@ -15,17 +14,17 @@
                             studieren haben muss. Da Alois nur zwei Semenster vorweisen könne, müsse
                             er noch ein Semester an einer inländischen Universität inskribieren.
                             Thun bedauert, dass er von dieser Regelung keine Ausnahme zulassen
-                            dürfe.</p></msContents></msDesc></sourceDesc></fileDesc><revisionDesc docStatus="approved"/></teiHeader><text><body><div type="transcript"><index><term>Rechtswissenschaften</term><term>Staatsprüfungen</term></index><p>Wien den 8. Februar 858</p><p>Verehrtester Freund!</p><p>Ich hatte schon am Tage vor dem Empfang Ihres Briefes über die Angelegenheit
+                            dürfe.</p></msContents></msDesc></sourceDesc></fileDesc><revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc></teiHeader><text><body><div type="transcript"><index><term>Rechtswissenschaften</term><term>Staatsprüfungen</term></index><p>Wien den 8. Februar 858</p><p>Verehrtester Freund!</p><p>Ich hatte schon am Tage vor dem Empfang Ihres Briefes über die Angelegenheit
                     Ihres Sohnes mit dem Referenten gesprochen. Die Zulassung zur Prüfung in
                         <orgName key="universitaet-prag">Prag</orgName> unterliegt keinem Bedenken,
                     und Sie werden die Erledigung in den nächsten Tagen erhalten. Ich freue mich
-                    herzlich, daß Ihr <persName key="rechberg-alois">Sohn</persName> den nicht
+                    herzlich, daß Ihr <rs type="person" ref="rechberg-alois" key="rechberg-alois">Sohn</rs> den nicht
                     geringen Grad moralischer Kraft entwickelt hat, um dieser Aufgabe noch Herr zu
                     werden und seine Studien vollenden zu wollen. Seien Sie überzeugt, daß ich es
                     mir immer zur Freunde[sic!] anrechnen werde, ihn darin so viel es mir noch
                     möglich ist zu unterstützen.<lb/>Auf zwei Umstände muß ich Sie dabei aufmerksam
                     machen, die vielleicht unerwartete Schwierigkeiten biethen könnten.<lb/>1) Ihr
-                        <persName key="rechberg-alois">Sohn</persName> hatte v. J. noch die Hoffnung
+                        <rs type="person" ref="rechberg-alois" key="rechberg-alois">Sohn</rs> hatte v. J. noch die Hoffnung
                     die nächst bevorstehende Prüfung wenn er sie in <orgName key="universitaet-wien">Wien</orgName> abgelegt hätte, auf römisches Recht und kanonisches Recht
                     beschränkt zu sehen, weil v. J. hier aus allerhand Gründen aus der deutschen
                     Reichs- und Rechtsgeschichte noch nicht geprüft wurde. In <orgName key="universitaet-prag">Prag</orgName> war schon v. J. dieser Gegenstand der
@@ -38,7 +37,7 @@
                     bestehenden a.h. Anordnungen zweierlei Modalitäten, es wird nämlich der Ausweis
                     gefordert entweder daß sie mindestens 3 Semester frequentiert haben oder daß sie
                     über gewisse Hauptfächer Privatissima bei ordentlichen Professoren besucht
-                    haben. Ihr <persName key="rechberg-alois">Sohn</persName> kann nur zwei
+                    haben. Ihr <rs type="person" ref="rechberg-alois" key="rechberg-alois">Sohn</rs> kann nur zwei
                     anrechnungsfähige Semester (nämlich die an der <orgName key="universitaet-innsbruck">Insprucker Universität</orgName> zugebrachten)
                     ausweisen. Während des 3. (nämlich des hier zugebrachten) trat die Unterbrechung
                     durch Erkrankung am Typhus ein; es konnte ihm deshalb nicht testiert werden und

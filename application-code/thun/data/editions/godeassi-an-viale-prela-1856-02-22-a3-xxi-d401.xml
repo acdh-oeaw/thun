@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -100,20 +99,16 @@
         <profileDesc>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="#godeassi-giuseppe">Giuseppe Godeassi</persName>
+                    <rs type="person" ref="#godeassi-giuseppe">Giuseppe Godeassi</rs>
                     <settlement ref="#place_271d9608b4f6e55e8f4ec78b040ead1a">Zara</settlement>
                     <date when="1856-02-22">22. Februar 1856</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#viale-prela-michele">Michele Viale-Prelà</persName>
+                    <rs type="person" ref="#viale-prela-michele">Michele Viale-Prelà</rs>
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc>
-            <list>
-                <item>approved by Mazohl</item>
-            </list>
-        </revisionDesc>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

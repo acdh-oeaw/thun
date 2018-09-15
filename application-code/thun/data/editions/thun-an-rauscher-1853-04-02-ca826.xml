@@ -1,23 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" ><teiHeader><fileDesc><titleStmt><title><persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="rauscher-joseph" role="recipient:kleriker">Joseph Othmar
-                        Rauscher</persName><lb/><placeName>Wien</placeName>, <date when="1853-04-02">2. April 1853</date></title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p><msDesc><msIdentifier><institution>Diözesanarchiv Wien</institution><idno>BA Rauscher, Seckauer Zeit</idno></msIdentifier><msContents><p>Leo Thun bedankt sich bei Bischof Joseph Othmar Rauscher für die
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title><rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="rauscher-joseph" key="rauscher-joseph" role="recipient:kleriker">Joseph Othmar
+                        Rauscher</rs><lb/><rs type="place" subtype="place">Wien</rs>, <date when="1853-04-02">2. April 1853</date></title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p><msDesc><msIdentifier><institution>Diözesanarchiv Wien</institution><idno>BA Rauscher, Seckauer Zeit</idno></msIdentifier><msContents><p>Leo Thun bedankt sich bei Bischof Joseph Othmar Rauscher für die
                                 Auskunft über den Direktor des Marburger Gymnasiums, Johann Kurz.
                                 Der Minister teilt außerdem mit, dass die Berufung von Johann
                                 Baptist Weiß an die Universität Graz bereits erfolgt sei und Weiß
                                 durch Joseph Fessler von seiner Ernennung verständigt wurde. Zuletzt
                                 gratuliert der Minister Rauscher zu seiner Ernennung zum Erzbischof
                                 von Wien und wünscht ihm Kraft und Ausdauer für die bevorstehenden
-                                schwierigen Aufgaben.</p></msContents></msDesc></p></sourceDesc></fileDesc><revisionDesc docStatus="approved"/></teiHeader><text><body><div type="transcript"><index><term>Personalfragen</term><term>Personalvermittlung</term><term>Universität Graz</term><term>Geschichtswissenschaften</term><term>Kultus</term></index><p>Wien den 2. April 1853</p><p>Hochwürdigster Herr Fürstbischof!</p><p>Für die mir über Direktor <persName key="kurz-johann">Kurz</persName>
+                                schwierigen Aufgaben.</p></msContents></msDesc></p></sourceDesc></fileDesc><revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc></teiHeader><text><body><div type="transcript"><index><term>Personalfragen</term><term>Personalvermittlung</term><term>Universität Graz</term><term>Geschichtswissenschaften</term><term>Kultus</term></index><p>Wien den 2. April 1853</p><p>Hochwürdigster Herr Fürstbischof!</p><p>Für die mir über Direktor <rs type="person" ref="kurz-johann" key="kurz-johann">Kurz</rs>
                     mitgetheilten Nachrichten, welche mir zu großer Befriedigung dienen, sage ich
-                    Euerer fürstlichen Gnaden meinen herzlichen Dank. <persName key="weiss-johann-baptist">Dr. Weiß</persName> ist bereits zum Professor der
+                    Euerer fürstlichen Gnaden meinen herzlichen Dank. <rs type="person" ref="weiss-johann-baptist" key="weiss-johann-baptist">Dr. Weiß</rs> ist bereits zum Professor der
                     Geschichte ernannt; die offizielle Verständigung ist auch bereits auf
                     diplomatischem Wege eingeleitet und ich habe ihm überdieß – da auf jenem Wege
-                    nicht sehr schnell gefahren werden kann – auch durch Vermittelung <persName key="fessler-joseph">Prof. Fesslers</persName> die Nachricht brieflich
+                    nicht sehr schnell gefahren werden kann – auch durch Vermittelung <rs type="person" ref="fessler-joseph" key="fessler-joseph">Prof. Fesslers</rs> die Nachricht brieflich
                     zukommen lassen. Nur die Kundmachung durch die Zeitung ist noch nicht geschehen,
                     weil ich durch einige unangenehme Erfahrungen gewitzigt die Ernennung von
                     Ausländern nie mehr veröffentlichen lasse, bevor sie auf ihrem Posten eingelangt
-                    sind. Nach allem was ich höre, hoffe ich, daß <persName key="weiss-johann-baptist">Dr. Weiß</persName> eine sehr gute Acquisizion
+                    sind. Nach allem was ich höre, hoffe ich, daß <rs type="person" ref="weiss-johann-baptist" key="weiss-johann-baptist">Dr. Weiß</rs> eine sehr gute Acquisizion
                     sein wird.<lb/>Über die Veränderung, die sich in der Stellung Euerer fürstlichen
                     Gnaden zugetragen hat, habe [ich] pflichtschuldig geschwiegen, bis ich in der
                     Lage war, Euere fürstliche Gnaden hiervon offiziell zu benachrichtigen. Daß es

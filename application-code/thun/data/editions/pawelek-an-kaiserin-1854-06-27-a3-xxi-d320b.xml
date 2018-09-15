@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -42,20 +41,16 @@
         <profileDesc>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="#pawelek-johann">Johann Pawelek</persName>
+                    <rs type="person" ref="#pawelek-johann">Johann Pawelek</rs>
                     <settlement ref="#place_3dd7979c0440a3b55ff7b878051e9863">Königsberg</settlement>
                     <date when="1854-06-27">27. Juni 1854</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#elisabeth">Kaiserin Elisabeth</persName>
+                    <rs type="person" ref="#elisabeth">Kaiserin Elisabeth</rs>
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc>
-            <list>
-                <item>approved by Mazohl</item>
-            </list>
-        </revisionDesc>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

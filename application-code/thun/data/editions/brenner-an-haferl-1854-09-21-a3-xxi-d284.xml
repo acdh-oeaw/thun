@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -54,20 +53,16 @@
         <profileDesc>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="#brenner-felsach-adolph">Adolph Brenner-Felsach</persName>
+                    <rs type="person" ref="#brenner-felsach-adolph">Adolph Brenner-Felsach</rs>
                     <settlement ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt a. M.</settlement>
                     <date when="1854-09-21">21. September 1854</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#haferl-josef">Josef Haferl</persName>
+                    <rs type="person" ref="#haferl-josef">Josef Haferl</rs>
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc>
-            <list>
-                <item>approved by Mazohl</item>
-            </list>
-        </revisionDesc>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

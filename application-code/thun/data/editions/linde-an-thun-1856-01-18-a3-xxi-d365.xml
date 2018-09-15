@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title><persName key="linde-justin" role="sender:beamter">Justin Linde</persName> an
-                        <persName key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</persName><lb/><placeName>Frankfurt</placeName>, <date when="1856-01-18">18. Januar 1856</date></title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title><rs type="person" ref="linde-justin" key="linde-justin" role="sender:beamter">Justin Linde</rs> an
+                        <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs><lb/><rs type="place" subtype="place">Frankfurt</rs>, <date when="1856-01-18">18. Januar 1856</date></title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
                             Tetschen-Bodenbach</institution><repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
                             Thun</repository><idno>A3 XXI D365</idno></msIdentifier><msContents><p>Der hessische Staatsrat Justin Linde übermittelt Leo Thun einige Hinweise
                             zu Kandidaten, die für eine Stelle als Gymnasiallehrer in Österreich in
@@ -13,44 +12,44 @@
                             Rössler kann er nicht befürworten, diejenige des Hilfslehrers Niklas
                             Schell hingegen schon. Außerdem empfiehlt er einen tüchtigen jungen
                             Hilfslehrer aus dem Großherzogtum Hessen, der dort keine Chance auf eine
-                            Anstellung hat.</p></msContents></msDesc></sourceDesc></fileDesc><revisionDesc docStatus="approved"/></teiHeader><text><body><div type="transcript"><index><term>Personalfragen</term><term>Gymnasien</term><term>Universität</term><term>Rechtswissenschaften</term></index><p>Frankfurt 18. Januar 1856</p><p>Hochgeborner Herr Graf!</p><p/><p>Mit Bezug auf mein ergebenstes Schreiben vom 4. des Monats <note xml:id="note_1">Vgl. <ref target="thun/thun-korrespondenz/tetschen/linde-an-thun_1855-11-04_A3-XXI-D353.xml">Justin Linde an Leo Thun. Frankfurt, 4. November 1855</ref>.</note>
+                            Anstellung hat.</p></msContents></msDesc></sourceDesc></fileDesc><revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc></teiHeader><text><body><div type="transcript"><index><term>Personalfragen</term><term>Gymnasien</term><term>Universität</term><term>Rechtswissenschaften</term></index><p>Frankfurt 18. Januar 1856</p><p>Hochgeborner Herr Graf!</p><p/><p>Mit Bezug auf mein ergebenstes Schreiben vom 4. des Monats <note xml:id="note_1">Vgl. <ref target="thun/thun-korrespondenz/tetschen/linde-an-thun_1855-11-04_A3-XXI-D353.xml">Justin Linde an Leo Thun. Frankfurt, 4. November 1855</ref>.</note>
                     beeile ich mich, Euer Exzellenz vor Allem meine innigsten Theilnahme an dem
                     neuen Unfalle, der nach öffentlichen Blättern, durch einen Fall, Hochdenselben
                     betroffen, auszudrücken und werde mich freuen, wenn ich recht bald erfahre, daß
                     die Folgen gehoben sind.<lb/>Sodann erlaube ich mir<lb/>1. nähere Notizen über
-                        <persName key="blakert-georg">Dr. Blakert</persName> zu überreichen. Sie
+                        <rs type="person" ref="blakert-georg" key="blakert-georg">Dr. Blakert</rs> zu überreichen. Sie
                     sind, da ich den Herrn persönlich nicht kenne, sämmtlich aus ganz zuverlässigen
-                    Quellen geschöpft, nämlich eingezogen unmittelbar vom Hochwürden Herrn <persName key="koett-christoph-florentinus">Bischof von Fulda</persName> und andern
+                    Quellen geschöpft, nämlich eingezogen unmittelbar vom Hochwürden Herrn <rs type="person" ref="koett-christoph-florentinus" key="koett-christoph-florentinus">Bischof von Fulda</rs> und andern
                     distinguierten, sehr ehrenhaften Personen. Nach den finanziellen Verhältnissen
-                    des <persName key="blakert-georg">Dr. Blakert</persName> würde ihm schwerlich
+                    des <rs type="person" ref="blakert-georg" key="blakert-georg">Dr. Blakert</rs> würde ihm schwerlich
                     mit einer Stelle, deren Einnahmen sich nur auf 800 oder 1000 Gulden belaufen
                     könnten gedient seyn. Er hat Familie und nach dem Inhalte der eingezogenen
                     Erkundigungen, sicher kein Vermögen zuzusetzen. Sollte Euer Exzellenz auf ihn
                     ferner reflectieren, so bitte ich mir nähere Andeutungen zukommen zu lassen. Am
-                    sichersten wäre es dann doch immerhin, wenn ich <persName key="blakert-georg">Dr. Blakert</persName> zuerst zu einer Besprechung zu mir einladen könnte,
+                    sichersten wäre es dann doch immerhin, wenn ich <rs type="person" ref="blakert-georg" key="blakert-georg">Dr. Blakert</rs> zuerst zu einer Besprechung zu mir einladen könnte,
                     wodurch ich ein bestimmtes selbstständiges und sicheres Urtheil gewinnen würde.
                     Dieser Versuch, setzt aber, meines unmaasgeblichen Erachtens voraus, daß ihm
                     Aussichten, die im Stande wären ihn zu befriedigen, eröffnet werden könnten, für
                     den Fall, daß man sich überzeugte, daß er in jeder Beziehung auch wirklich eine
                     Acquisition für den k.k. Dienst sei, und zu erwarten stehe, daß er im Geiste des
                     Systems Eurer Exzellenz zu wirken im Stande sei, und den ernsten Willen
-                    habe.<lb/>2. Bezüglich <persName key="roessler-emil">Dr. Rößler</persName> haben
+                    habe.<lb/>2. Bezüglich <rs type="person" ref="roessler-emil" key="roessler-emil">Dr. Rößler</rs> haben
                     nähere Nachforschungen bis jetzt keine günstigen Resultate geliefert, wenn man
                     sich aus der einen Nachricht: "daß er fleißig und solide sei", allein nicht
                     zufrieden stellen will. Der katholische Geistliche in Göttingen, und ein mir als
                     sehr treuer und entschiedener Katholik bekannter Professor in
-                        <placeName>Göttingen</placeName> halten ihn nicht für katholisch. In
-                        <placeName>Göttingen</placeName> wird er, so schreibt man mir, nicht
+                        <rs type="place" subtype="place">Göttingen</rs> halten ihn nicht für katholisch. In
+                        <rs type="place" subtype="place">Göttingen</rs> wird er, so schreibt man mir, nicht
                     fortkommen, weil er sich durch das frühere politische Benehmen geschadet habe.
                     Man ist der Meinung, daß er überall sich nach seiner Umgebung, die Einfluß auf
                     ihn nehme, richten werde. Aber solcher Mangel an Entschiedenheit und
                     Selbstständigkeit bietet ja in keiner Hinsicht Garantien, wie sie bei
-                    academischen Docenten nothwendig sind.<lb/>3. Über <persName key="schell-nikolaus">Niklas Schell</persName>, Hülfslehrer im Gymnasium in
-                        <placeName>Hanau</placeName>, habe ich nunmehr ebenfalls zuverlässige,
+                    academischen Docenten nothwendig sind.<lb/>3. Über <rs type="person" ref="schell-nikolaus" key="schell-nikolaus">Niklas Schell</rs>, Hülfslehrer im Gymnasium in
+                        <rs type="place" subtype="place">Hanau</rs>, habe ich nunmehr ebenfalls zuverlässige,
                     verbürgte Nachrichten. Er stammt aus einer guten katholischen Familie in
-                        <placeName>Fulda</placeName>, ist ein treuer Sohn der Kirche, sein Character
+                        <rs type="place" subtype="place">Fulda</rs>, ist ein treuer Sohn der Kirche, sein Character
                     flößt Vertrauen ein, sein Wandel ist tadellos, und kirchliche Haltung und
-                    Gesinnung ganz tadellos. Der katholische Pastor in <placeName>Hanau</placeName>
+                    Gesinnung ganz tadellos. Der katholische Pastor in <rs type="place" subtype="place">Hanau</rs>
                     gibt ihm das beste Zeugnis. Er wohnt jedem Sonn- und Feyertagsgottesdienst, Vor-
                     und Nachmittags bei, geht gehörig zum heiligen Abendmahle, und zwar in recht
                     erbaulicher Weise. Über seine Lehrthätigkeit und Fähigkeit dazu, lauten die
@@ -60,16 +59,16 @@
                     geben. Ich werde dann den Herrn doch erst persönlich zu sprechen, und über Alles
                     mir die vollständigste Gewissheit durch eigenes Urtheil zu verschaffen
                     suchen.<lb/>4. Endlich lege ich ganz ergebenst das Gesuch eines ganz tüchtigen
-                    jungen Philologen aus dem Großherzogthum <region>Hessen</region> bei, für dessen
+                    jungen Philologen aus dem Großherzogthum <rs type="place" subtype="region">Hessen</rs> bei, für dessen
                     Kenntnisse, Katholizität, Ehrenhaftigkeit des Characters und Lehrfähigkeit ich
                     einstehen kann. Er ist Candidat des Gymnasiallehramtes, d. h. hat die
                     vorschriftsmäßigen Examina bestanden, und kann nun in allen Classen des
                     Gymnasiums als Hülfslehrer und Stellvertreter functionieren, bis er eine
-                    definitive Anstellung bekommt, wozu in <region>Hessen</region> gegenwärtig,
+                    definitive Anstellung bekommt, wozu in <rs type="place" subtype="region">Hessen</rs> gegenwärtig,
                     wegen Mangels vacanter Stellen wenig Aussicht ist. Sowohl dem Vater des jungen
                     Mannes, einem braven Gymnasiallehrer, als dem jungen Mann selbst wünsche ich
                     sehr, daß Euer Exzellenz ihn recht bald berücksichtigen könnten.<lb/>Bezüglich
-                    des <persName key="schell-nikolaus">Nikolaus Schell</persName> bitte ich, diesen
+                    des <rs type="person" ref="schell-nikolaus" key="schell-nikolaus">Nikolaus Schell</rs> bitte ich, diesen
                     nicht mit einem Apostaten gleichen Namens zu verwechseln, ein Fehler, in den ich
                     selbst verfallen wäre, wenn ich nicht so genaue Erkundigungen eingezogen,
                     wodurch die Angelegenheit leider ohne meine Schuld sich so sehr verzögert

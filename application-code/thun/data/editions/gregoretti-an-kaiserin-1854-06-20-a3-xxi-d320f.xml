@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -42,20 +41,16 @@
         <profileDesc>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="#gregoretti-giovanni-maria">Giovanni Maria Gregoretti</persName>
+                    <rs type="person" ref="#gregoretti-giovanni-maria">Giovanni Maria Gregoretti</rs>
                     <settlement ref="#place_80c239e539544aa459dc13996638cb2f">Vendig</settlement>
                     <date when="1854-06-20">20. Juni 1854</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#elisabeth">Kaiserin Elisabeth</persName>
+                    <rs type="person" ref="#elisabeth">Kaiserin Elisabeth</rs>
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc>
-            <list>
-                <item>approved by Mazohl</item>
-            </list>
-        </revisionDesc>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -78,20 +77,16 @@
         <profileDesc>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="#schreiner-gustav-franz">Gustav Franz Schreiner</persName>
+                    <rs type="person" ref="#schreiner-gustav-franz">Gustav Franz Schreiner</rs>
                     <settlement ref="#place_6e00929feb7fb02acaa548f47f67c61c">Graz</settlement>
                     <date when="1855-07-29">29./30. Juli 1855</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#helfert-joseph-alexander">Joseph Alexander Helfert</persName>
+                    <rs type="person" ref="#helfert-joseph-alexander">Joseph Alexander Helfert</rs>
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc>
-            <list>
-                <item>approved by Mazohl</item>
-            </list>
-        </revisionDesc>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

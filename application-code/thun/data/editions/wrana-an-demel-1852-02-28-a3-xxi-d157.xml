@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -42,20 +41,16 @@
         <profileDesc>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="#wrana-cajetan">Cajetan Wrana</persName>
+                    <rs type="person" ref="#wrana-cajetan">Cajetan Wrana</rs>
                     <settlement ref="#place_5b95fe248458e8e40898129bb087ae5a">Nikolsburg</settlement>
                     <date when="1852-02-28">28. Februar 1852</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#demel-heinrich-johann">Heinrich Johann Demel</persName>
+                    <rs type="person" ref="#demel-heinrich-johann">Heinrich Johann Demel</rs>
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc>
-            <list>
-                <item>approved by Mazohl</item>
-            </list>
-        </revisionDesc>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

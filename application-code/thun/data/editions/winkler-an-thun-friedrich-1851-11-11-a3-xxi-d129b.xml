@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -69,20 +68,16 @@
         <profileDesc>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="#winkler-anton">Anton Winkler</persName>
+                    <rs type="person" ref="#winkler-anton">Anton Winkler</rs>
                     <settlement ref="#place_2126faa64bfa66d02e06345d06e61a25">Karlsruhe</settlement>
                     <date when="1851-11-11">11. November 1851</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#thun-hohenstein-friedrich">Friedrich Thun</persName>
+                    <rs type="person" ref="#thun-hohenstein-friedrich">Friedrich Thun</rs>
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc>
-            <list>
-                <item>approved by Mazohl</item>
-            </list>
-        </revisionDesc>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

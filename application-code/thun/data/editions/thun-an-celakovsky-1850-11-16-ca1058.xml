@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title><persName key="thun-hohenstein-leo" role="sender">Leo Thun</persName> an
-                        <persName key="celakovsky-frantisek-ladislav" role="recipient">Frantisek
-                        Ladislaus Čelakovšký</persName><lb/><placeName>Wien</placeName>, <date when="1850-07-05">5. Juli 1850</date></title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>Tschechisches Literaturarchiv [Literární archiv Památníku
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title><rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="celakovsky-frantisek-ladislav" key="celakovsky-frantisek-ladislav" role="recipient">Frantisek
+                        Ladislaus Čelakovšký</rs><lb/><rs type="place" subtype="place">Wien</rs>, <date when="1850-07-05">5. Juli 1850</date></title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>Tschechisches Literaturarchiv [Literární archiv Památníku
                             národního písemnictví]</institution><repository>Nachlass Čelakovšký</repository><idno>250/42</idno></msIdentifier><msContents><p>Leo Thun äußert sich zum Manuskript eines Lesebuchs für die
                             Gymnasien von Frantisek Čelakovšký. Thun ist mit dem Ergebnis
                             grundsätzlich zufrieden. Allerdings möchte er, dass Čelakovšký einige
@@ -12,7 +11,7 @@
                             die Knaben zum Wohl des ganzen Staates zur sittlichen Vollkommenheit
                             erziehen. Die weitere Auslieferung des Buches wird daher vorerst
                             gestoppt. In anderen Angelegenheiten konnte Thun noch keine Entscheidung
-                            herbeiführen.</p></msContents><physDesc><p>Verweis auf A3 XXI D75.</p><p>Verweis auf A3 XXI D82.</p></physDesc></msDesc></sourceDesc></fileDesc><revisionDesc docStatus="approved"/></teiHeader><text><body><div type="transcript"><index><term>Gymnasien</term><term>Schulbücher</term><term>Nationalismus</term></index><p>Wien, den 16. November 1850</p><p>Verehrter Herr Professor!</p><p>Der Drang der Geschäfte, der mich schwer für Privatbriefe Zeit finden läßt, trägt
+                            herbeiführen.</p></msContents><physDesc><p>Verweis auf A3 XXI D75.</p><p>Verweis auf A3 XXI D82.</p></physDesc></msDesc></sourceDesc></fileDesc><revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc></teiHeader><text><body><div type="transcript"><index><term>Gymnasien</term><term>Schulbücher</term><term>Nationalismus</term></index><p>Wien, den 16. November 1850</p><p>Verehrter Herr Professor!</p><p>Der Drang der Geschäfte, der mich schwer für Privatbriefe Zeit finden läßt, trägt
                     die Schuld, daß ich Ihnen erst heute für die Übersendung des 1. und 3. Bandes
                     Ihres Lehrbuches <note xml:id="note_1">Vgl. František Čelakovšký, Česká čítací
                         kniha pro česká gymnasia, 3 Bde., 1850–1851.</note> meinen Dank abstatte.
@@ -29,7 +28,7 @@
                     Aufschwung vergiftet und es meines Erachtens die heiligste Pflicht der
                     Volkserzieher ist, christliche Liebe und friedlichen Wetteifer in die
                     jugendlichen Gemüther zu pflanzen. Eben so wenig paßt meines Erachtens 175 für
-                    Kinder, welchen Zank muß dieses eine Lehrstück in einem Gymnasium in <country key="ungarn">Ungarn</country> erzeugen! Auf der anderen Seite das
+                    Kinder, welchen Zank muß dieses eine Lehrstück in einem Gymnasium in <rs type="place" subtype="country" key="ungarn">Ungarn</rs> erzeugen! Auf der anderen Seite das
                     Liebesgedicht 173 – für 12–14jährige Knaben!<lb/>Ich muß annehmen, daß im Drange
                     der Arbeit, diese Dinge Ihrer Aufmerksamkeit entgangen sind oder sich durch
                     einen Irrthum eingeschlichen haben – mache mir aber ernstliche Vorwürfe darüber
@@ -38,8 +37,8 @@
                     auszusetzen, ist eine sehr ernste Sache. Überdieß werden die Feinde des
                     böhmischen Unterrichtes nicht ermangeln, diese Verstöße auszubeuten, gegen Sie
                     wie gegen das Ministerium.<lb/>Ich lasse nun das Buch einer neuerlichen Prüfung
-                    unterziehen, habe es für <country key="ungarn">Ungarn</country> sogleich für
-                    unzulässig erklärt und lasse <persName key="tempsky-friedrich">Tempsky</persName> auffordern mit dem Verkaufe einzuhalten, in der
+                    unterziehen, habe es für <rs type="place" subtype="country" key="ungarn">Ungarn</rs> sogleich für
+                    unzulässig erklärt und lasse <rs type="person" ref="tempsky-friedrich" key="tempsky-friedrich">Tempsky</rs> auffordern mit dem Verkaufe einzuhalten, in der
                     Hoffnung, daß sich mit dem Umdrucke einiger Bogen helfen lassen werde.<lb/>Ich
                     ersuche Sie angelegentlichst um größere Vorsicht bei der Bearbeitung der
                     weiteren Bände, und muß mir jedenfalls deren Revision vor der Herausgabe

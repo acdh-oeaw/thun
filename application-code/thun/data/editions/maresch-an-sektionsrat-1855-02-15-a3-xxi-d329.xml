@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -51,20 +50,16 @@
         <profileDesc>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="#maresch-johann">Johann Maresch</persName>
+                    <rs type="person" ref="#maresch-johann">Johann Maresch</rs>
                     <settlement ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</settlement>
                     <date when="1855-02-15">15. Februar 1855</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#">Unbekannt</persName>
+                    <rs type="person" ref="#">Unbekannt</rs>
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc>
-            <list>
-                <item>approved by Mazohl</item>
-            </list>
-        </revisionDesc>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>

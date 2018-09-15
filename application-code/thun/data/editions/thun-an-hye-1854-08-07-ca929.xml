@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -32,20 +31,16 @@
         <profileDesc>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="#thun-hohenstein-leo">Leo Thun</persName>
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
                     <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
                     <date when="1854-08-07">7. August 1854</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#hye-von-gluneck-anton">Anton Hye von Gluneck</persName>
+                    <rs type="person" ref="#hye-von-gluneck-anton">Anton Hye von Gluneck</rs>
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc>
-            <list>
-                <item>approved by Mazohl</item>
-            </list>
-        </revisionDesc>
+        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
     </teiHeader>
     <text>
         <body>
