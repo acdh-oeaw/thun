@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -73,7 +74,11 @@
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -167,7 +172,7 @@
                     fehlt, stimmte natürlich kein Mitglied bei; zwei, <rs type="person" ref="#waltenhofen-adalbert">von Waltenhofen</rs> und <rs type="person" ref="#wildauer-tobias">Wildauer</rs>, gaben ausführliche Gutachten
                     dagegen; alle waren für Zulassung zum Kolloquium. Darauf verweigerte Prof.
                         <rs type="person" ref="#glax-heinrich">Glax</rs>, daran theilzunehmen und gab
-                    im Eifer eine an das <rs type='org' ref='#org_0005'>Ministerium</rs> zu richtende Beschwerdeschrift ein, welche
+                    im Eifer eine an das <rs type="org" ref="#org_0005">Ministerium</rs> zu richtende Beschwerdeschrift ein, welche
                     beleidigend für die Fakultät wie für mich insbesondere war. Ich erbat mir von
                     der Fakultät die Erlaubnis, den Akten zu meiner und des Kandidaten Vertheidigung
                     eine kritische Beleuchtung des Gutachtens des Prof. <rs type="person" ref="#glax-heinrich">Glax</rs> beifügen zu dürfen; um aber keinen
@@ -269,7 +274,7 @@
                     gegenüber jeder Versuch, sie zu vermitteln, scheitern muß. Ist das unerfreulich,
                     so ist es doch ohne Gewicht, insofern solche Ansichten Majoritätsbeschlüsse
                     nicht hindern. Es kommt aber ein anderes hinzu. Prof. <rs type="person" ref="#glax-heinrich">Glax</rs> liebt es, sich als den besondern
-                    Vertrauensmann des <rs type='org' ref='#org_0005'>Ministeriums</rs> hinzustellen, seine besondere Kenntnis der hohen
+                    Vertrauensmann des <rs type="org" ref="#org_0005">Ministeriums</rs> hinzustellen, seine besondere Kenntnis der hohen
                     Intentionen hervorzuheben, von ihm gewordenen ministeriellen Andeutungen zu
                     sprechen und insbesondere, wenn er überstimmt wird, Separatvoten und
                     Spezialberichte an das <orgName>hohe Ministerium</orgName> in Aussicht zu stellen. Wir sind das schon

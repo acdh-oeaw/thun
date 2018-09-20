@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -62,7 +63,11 @@
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -143,7 +148,7 @@
                         strebt.<lb/>Ich bitte Euer Exzellenz, diese Betrachtungen nicht als Ausdruck
                         von Deutschthümelei anzusehen, ich habe durch mein Benehmen in
                             <rs type="place" subtype="region" ref="#place_fde20c283b228b19e2990cf5175fa31e">Istrien</rs> und ich glaube auch durch meine Arbeiten im
-                            <rs type='org' ref='#org_0005'>Ministerium</rs> gezeigt, daß eine solche beschränkte Liebe
+                            <rs type="org" ref="#org_0005">Ministerium</rs> gezeigt, daß eine solche beschränkte Liebe
                         eigener Stammgenossen mir ferne liege.<lb/>Aber die Romanen träumen von der
                         Wiederherstellung des alten Daciens, die Ungarn von einem magyarischen
                         Donaureiche, beide sind geschworene Feinde der Habsburger und der großen
@@ -169,7 +174,7 @@
                         und hier ist sie nun, wie sie mir ward, in Worten abgespiegelt.<lb/>Ich habe
                         angefangen, Besuche zu machen und zu empfangen; ich finde überall den
                         Ausdruck des größten Vertrauens in die Persönlichkeit und die besten
-                        Absichten Euerer Exzellenz und in die des <rs type='org' ref='#org_0005'>Ministeriums</rs>
+                        Absichten Euerer Exzellenz und in die des <rs type="org" ref="#org_0005">Ministeriums</rs>
                         überhaupt; meine Aufgabe fängt im lebendigen Verkehre mit den Menschen an
                         feste Gestalt zu gewinnen, und da ich einmal im Wasser bin, kommt mir auch
                         der Muth zum Schwimmen. Für die Adjungirung des <rs type="person" ref="#schuller-johann-karl">Prof. Schuller</rs> danke ich auf das

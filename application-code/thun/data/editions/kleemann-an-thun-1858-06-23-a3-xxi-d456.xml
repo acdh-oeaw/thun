@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -81,7 +82,11 @@
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -502,7 +507,7 @@
                     sich ferner in den Provinzen die Ansicht, daß Ton und Inhalt jener Artikel im
                     Sinne und nach Wunsch des Ministeriums abgefaßt wurden; erhielt doch die
                     Invektive gegen das lateinische Tyrnauer Programm die Deutung, daß jene
-                    Invektive eine versteckte Antwort des <rs type='org' ref='#org_0005'>Ministeriums</rs> gegen
+                    Invektive eine versteckte Antwort des <rs type="org" ref="#org_0005">Ministeriums</rs> gegen
                     den Fürstprimas sei: die ganze öffentliche Diskussion charakterisierte sich
                     nicht nur durch diejenigen, welche geschrieben, von denen ein paar ihren eigenen
                     verächtlichen Charakter bloß stellten, sondern noch mehr durch das Schweigen

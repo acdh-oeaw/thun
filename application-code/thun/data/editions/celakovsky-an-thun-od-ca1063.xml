@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -59,7 +60,11 @@
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -112,7 +117,7 @@
                     berechnet. Aus dem oben angeführten Grunde konnte ich für eine so starke Auflage
                     mich keineswegs entscheiden und lege meinen Vorschlag, auf den auch Herr
                         <rs type="person" ref="#tempsky-friedrich">Tempsky</rs> einzugehen Willens ist,
-                    einem hohen <rs type='org' ref='#org_0005'>Ministerium</rs> mit der ergebensten Bitte vor, denselben in Erwägung
+                    einem hohen <rs type="org" ref="#org_0005">Ministerium</rs> mit der ergebensten Bitte vor, denselben in Erwägung
                     zu ziehen und der gnädigsten Beistimmung würdigen zu wollen. Hiernach würde bei
                     einer, den deutschen in <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> erschienenen
                     Lesebüchern adäquaten Ausstattung der erste und zweite Band als für das

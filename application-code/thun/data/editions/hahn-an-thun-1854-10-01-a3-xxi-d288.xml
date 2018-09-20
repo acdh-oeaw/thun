@@ -1,9 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title><rs type="person" ref="hahn-friedrich" key="hahn-friedrich" role="sender:gelehrter">Friedrich
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="hahn-friedrich" key="hahn-friedrich" role="sender:gelehrter">Friedrich
                         Hahn</rs> an <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</rs><lb/><rs type="place" subtype="place">Wien</rs>, <date when="1854-10-01">1.
-                        Oktober 1854</date></title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
-                            Tetschen-Bodenbach</institution><repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
-                            Thun</repository><idno>A3 XXI D288</idno></msIdentifier><msContents><p>Der Jurist Friedrich Hahn bewirbt sich um einen Lehrstuhl an einer
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place">Wien</rs>, <date when="1854-10-01">1.
+                        Oktober 1854</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D288</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Jurist Friedrich Hahn bewirbt sich um einen Lehrstuhl an einer
                             österreichischen Universität. Sein Vater war Militärarzt in der
                             österreichischen Armee und sein Bruder ist derzeit kaiserlicher Konsul
                             in Syra. Hahn möchte nun der Tradition seiner Familie folgen und in den
@@ -23,7 +45,28 @@
                             sich die Erlaubnis, das Buch Thun beizeiten vorlegen zu dürfen. Zuletzt
                             fügt er dem Ansuchen die Bitte an, dass er vorzugsweise nach Prag
                             berufen werden möchte, da dort eine gute Bibliothek und ausreichend
-                            intellektuelle Anregungen vorhanden seien.</p></msContents></msDesc></sourceDesc></fileDesc><revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc></teiHeader><text><body><div type="transcript"><index><term>Personalfragen</term><term>Universität Prag</term><term>Rechtswissenschaften</term><term>Deutsche Reichs- und Rechtsgeschichte</term></index><p>Excellenz!</p><p>Als bei der neuen Organisirung des Studienwesens Euer Excellenz auch dem
+                            intellektuelle Anregungen vorhanden seien.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Universität Prag</term>
+                    <term>Rechtswissenschaften</term>
+                    <term>Deutsche Reichs- und Rechtsgeschichte</term>
+                </index>
+                <p>Excellenz!</p>
+                <p>Als bei der neuen Organisirung des Studienwesens Euer Excellenz auch dem
                     Kaiserstaat nicht angehörende deutsche akademische Lehrer an österreichische
                     Universitäten beriefen, regte sich in mir der Wunsch, der Zahl dieser Lehrer
                     beigestellt zu werden. Familientraditionen hatten mich schon früh auf <rs type="place" subtype="country" key="oesterreich">Österreich</rs> hingewiesen: mein <rs type="person" ref="hahn-phillip-franz" key="hahn-phillip-franz">Vater</rs>, der seine Laufbahn als k.
@@ -90,4 +133,11 @@
                     persönlichen Rücksichten, welche mir die Stellung an dieser Universität
                     besonders wünschenswerth machen, mein gehorsamstes Gesuch sich vorzüglich auf
                     diese Universität beziehen.<lb/>Genehmigen Euer Excellenz die Versicherung der
-                    hohen Verehrung, mit welcher ich verharre</p><p>Euer Excellenz</p><p>gehorsamster Diener<lb/>Dr. Friedrich von Hahn</p><p>Wien, 1.10.1854</p></div></body></text></TEI>
+                    hohen Verehrung, mit welcher ich verharre</p>
+                <p>Euer Excellenz</p>
+                <p>gehorsamster Diener<lb/>Dr. Friedrich von Hahn</p>
+                <p>Wien, 1.10.1854</p>
+            </div>
+        </body>
+    </text>
+</TEI>

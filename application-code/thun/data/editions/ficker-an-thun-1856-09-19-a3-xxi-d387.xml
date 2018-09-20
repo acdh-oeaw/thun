@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -68,7 +69,11 @@
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -201,9 +206,9 @@
                     Zukunft so stark berührt, mir den möglichsten Grad von Gewißheit zu verschaffen
                     suche, und es würde mir sehr leid sein, sollten Hochdieselbe in meiner
                     unterthänigen Anfrage einen indiscreten Versuch eines Eindringens in die
-                    Intentionen des hohen <rs type='org' ref='#org_0005'>Ministerium</rs> sehen. Diese meine unterthänigste Anfrage denke ich
+                    Intentionen des hohen <rs type="org" ref="#org_0005">Ministerium</rs> sehen. Diese meine unterthänigste Anfrage denke ich
                     mit Rücksicht auf den nächsten Zweck etwa dahin richten zu dürfen: – „ob etwa
-                    schon jetzt von Seiten des hohen <rs type='org' ref='#org_0005'>Ministerium</rs>
+                    schon jetzt von Seiten des hohen <rs type="org" ref="#org_0005">Ministerium</rs>
                     Veränderungen an der <orgName>Universität
                         Innsbruck</orgName> in Aussicht genommen seien, die für die Zukunft ein
                     Verbleiben in meiner bisherigen Stellung als unstatthaft erscheinen lassen

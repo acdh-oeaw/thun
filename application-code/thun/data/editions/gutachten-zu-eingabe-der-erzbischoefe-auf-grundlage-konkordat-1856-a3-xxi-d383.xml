@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -97,7 +98,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -120,7 +125,7 @@
                     gepflogen haben, ist mir eine umfangreiche Eingabe überreicht worden, welche
                     Beschlüsse, Betrachtungen, Wünsche und Anträge über eine Reihe
                     verschiedenartiger Gegenstände enthält.<lb/>Manche derselben bedürfen gar
-                    keiner eigentlichen Erledigung; andere werden unmittelbar vom <rs type='org' ref='#org_0005'>Ministerium</rs> erlediget
+                    keiner eigentlichen Erledigung; andere werden unmittelbar vom <rs type="org" ref="#org_0005">Ministerium</rs> erlediget
                     werden können; noch andere nur auf Grundlage allerhöchster
                     Entschließungen.<lb/>In dem alleruntertänigsten Vortrage, durch welchen diese zu
                     erwirken sind, wird aber doch der gesammte Inhalt der Eingabe besprochen und

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -70,7 +71,11 @@
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -114,7 +119,7 @@
                     die Frage aufgeworfen, was denn in einem solchen Ausnahmsfalle zu geschehen
                     habe. <rs type="person" ref="#bach-eduard">Bach</rs> und <rs type="person" ref="#schaguna-andreas">Schaguna</rs> waren der Ansicht, daß dann die
                     Mehrheit entscheide und daß dieser Grundsatz dem Paragraphe bei der Publikation
-                    eingeschoben werden soll.<lb/>Ich vertheidigte die Ansicht, daß das <rs type='org' ref='#org_0005'>Ministerium</rs> gewiß
+                    eingeschoben werden soll.<lb/>Ich vertheidigte die Ansicht, daß das <rs type="org" ref="#org_0005">Ministerium</rs> gewiß
                     nicht zufällig hier eine Lücke gelassen, sondern sicher mit Grund diese Frage
                     unbeantwortet gelassen habe. Der Ausdruck die Mehrheit sei unbestimmt, es frage
                     sich dann, ob die Mehrheit der Einwohner oder die Mehrheit der Schulkinder, im

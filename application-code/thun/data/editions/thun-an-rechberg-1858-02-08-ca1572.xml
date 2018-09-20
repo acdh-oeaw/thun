@@ -1,6 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title><rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
                         <rs type="person" ref="rechberg-rothenloewen-bernhard" key="rechberg-rothenloewen-bernhard" role="recipient">Bernhard
-                        Rechberg</rs><lb/><rs type="place" subtype="place">Wien</rs>, <date when="1858-02-08">8. Februar 1858</date></title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>Österreichisches Staatsarchiv</institution><repository>Haus-, Hof- und Staatsarchiv</repository><idno>Sonderbestände Nl Braun 13-6-11-34</idno></msIdentifier><msContents><p>Leo Thun informiert den Chef der Zivilabteilung des
+                        Rechberg</rs>
+                    <lb/>
+                    <rs type="place" subtype="place">Wien</rs>, <date when="1858-02-08">8. Februar 1858</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichisches Staatsarchiv</institution>
+                        <repository>Haus-, Hof- und Staatsarchiv</repository>
+                        <idno>Sonderbestände Nl Braun 13-6-11-34</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun informiert den Chef der Zivilabteilung des
                             lombardo-venetianischen Generalgouvernements Bernhard Rechberg über die
                             Rechtslage für die Zulassung zu den juridischen Staatsprüfungen von
                             dessen Sohn Alois. Zunächst gratuliert er jedoch, dass sich Alois doch
@@ -14,7 +36,27 @@
                             studieren haben muss. Da Alois nur zwei Semenster vorweisen könne, müsse
                             er noch ein Semester an einer inländischen Universität inskribieren.
                             Thun bedauert, dass er von dieser Regelung keine Ausnahme zulassen
-                            dürfe.</p></msContents></msDesc></sourceDesc></fileDesc><revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc></teiHeader><text><body><div type="transcript"><index><term>Rechtswissenschaften</term><term>Staatsprüfungen</term></index><p>Wien den 8. Februar 858</p><p>Verehrtester Freund!</p><p>Ich hatte schon am Tage vor dem Empfang Ihres Briefes über die Angelegenheit
+                            dürfe.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Rechtswissenschaften</term>
+                    <term>Staatsprüfungen</term>
+                </index>
+                <p>Wien den 8. Februar 858</p>
+                <p>Verehrtester Freund!</p>
+                <p>Ich hatte schon am Tage vor dem Empfang Ihres Briefes über die Angelegenheit
                     Ihres Sohnes mit dem Referenten gesprochen. Die Zulassung zur Prüfung in
                         <orgName key="universitaet-prag">Prag</orgName> unterliegt keinem Bedenken,
                     und Sie werden die Erledigung in den nächsten Tagen erhalten. Ich freue mich
@@ -54,4 +96,9 @@
                     würde sich für die Gegenstände der späteren Prüfungen auch in <orgName key="universitaet-prag">Prag</orgName> oder <orgName key="universitaet-graz">Gratz</orgName> Gelegenheit biethen. Nur könnte damit nicht der formellen
                     Anforderung des Gesetzes genüge geleistet werden, wenn einmal die Zulassung zu
                     der 1. Prüfung ohne nachgewiesene privatissima nach der anderen Modalität der
-                    Frequentazion durch mindestens 3 Semester geschieht.</p><p>Herzlich der Ihrige<lb/>Leo Thun</p></div></body></text></TEI>
+                    Frequentazion durch mindestens 3 Semester geschieht.</p>
+                <p>Herzlich der Ihrige<lb/>Leo Thun</p>
+            </div>
+        </body>
+    </text>
+</TEI>

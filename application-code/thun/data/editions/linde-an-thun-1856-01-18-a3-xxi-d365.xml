@@ -1,8 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title><rs type="person" ref="linde-justin" key="linde-justin" role="sender:beamter">Justin Linde</rs> an
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="linde-justin" key="linde-justin" role="sender:beamter">Justin Linde</rs> an
                         <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
-                        Thun</rs><lb/><rs type="place" subtype="place">Frankfurt</rs>, <date when="1856-01-18">18. Januar 1856</date></title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
-                            Tetschen-Bodenbach</institution><repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
-                            Thun</repository><idno>A3 XXI D365</idno></msIdentifier><msContents><p>Der hessische Staatsrat Justin Linde übermittelt Leo Thun einige Hinweise
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place">Frankfurt</rs>, <date when="1856-01-18">18. Januar 1856</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D365</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der hessische Staatsrat Justin Linde übermittelt Leo Thun einige Hinweise
                             zu Kandidaten, die für eine Stelle als Gymnasiallehrer in Österreich in
                             Fragen kämen, und um die Thun ihn gebeten hatte. Linde hat die
                             Informationen von verschiedenen Personen eingeholt, unter anderem vom
@@ -12,7 +34,30 @@
                             Rössler kann er nicht befürworten, diejenige des Hilfslehrers Niklas
                             Schell hingegen schon. Außerdem empfiehlt er einen tüchtigen jungen
                             Hilfslehrer aus dem Großherzogtum Hessen, der dort keine Chance auf eine
-                            Anstellung hat.</p></msContents></msDesc></sourceDesc></fileDesc><revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc></teiHeader><text><body><div type="transcript"><index><term>Personalfragen</term><term>Gymnasien</term><term>Universität</term><term>Rechtswissenschaften</term></index><p>Frankfurt 18. Januar 1856</p><p>Hochgeborner Herr Graf!</p><p/><p>Mit Bezug auf mein ergebenstes Schreiben vom 4. des Monats <note xml:id="note_1">Vgl. <ref target="thun/thun-korrespondenz/tetschen/linde-an-thun_1855-11-04_A3-XXI-D353.xml">Justin Linde an Leo Thun. Frankfurt, 4. November 1855</ref>.</note>
+                            Anstellung hat.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Gymnasien</term>
+                    <term>Universität</term>
+                    <term>Rechtswissenschaften</term>
+                </index>
+                <p>Frankfurt 18. Januar 1856</p>
+                <p>Hochgeborner Herr Graf!</p>
+                <p/>
+                <p>Mit Bezug auf mein ergebenstes Schreiben vom 4. des Monats <note xml:id="note_1">Vgl. <ref target="thun/thun-korrespondenz/tetschen/linde-an-thun_1855-11-04_A3-XXI-D353.xml">Justin Linde an Leo Thun. Frankfurt, 4. November 1855</ref>.</note>
                     beeile ich mich, Euer Exzellenz vor Allem meine innigsten Theilnahme an dem
                     neuen Unfalle, der nach öffentlichen Blättern, durch einen Fall, Hochdenselben
                     betroffen, auszudrücken und werde mich freuen, wenn ich recht bald erfahre, daß
@@ -73,4 +118,11 @@
                     selbst verfallen wäre, wenn ich nicht so genaue Erkundigungen eingezogen,
                     wodurch die Angelegenheit leider ohne meine Schuld sich so sehr verzögert
                     hat.<lb/>Genehmigen Hochdieselben den Ausdruck der innigsten Verehrung, womit
-                    ich die Ehre habe zu seyn.</p><p>Euer Exzellenz</p><p>gehorsamster Diener</p><p>Dr. Linde</p></div></body></text></TEI>
+                    ich die Ehre habe zu seyn.</p>
+                <p>Euer Exzellenz</p>
+                <p>gehorsamster Diener</p>
+                <p>Dr. Linde</p>
+            </div>
+        </body>
+    </text>
+</TEI>

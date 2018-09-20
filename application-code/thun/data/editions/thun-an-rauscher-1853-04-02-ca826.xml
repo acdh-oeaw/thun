@@ -1,13 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title><rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
                         <rs type="person" ref="rauscher-joseph" key="rauscher-joseph" role="recipient:kleriker">Joseph Othmar
-                        Rauscher</rs><lb/><rs type="place" subtype="place">Wien</rs>, <date when="1853-04-02">2. April 1853</date></title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p><msDesc><msIdentifier><institution>Diözesanarchiv Wien</institution><idno>BA Rauscher, Seckauer Zeit</idno></msIdentifier><msContents><p>Leo Thun bedankt sich bei Bischof Joseph Othmar Rauscher für die
+                        Rauscher</rs>
+                    <lb/>
+                    <rs type="place" subtype="place">Wien</rs>, <date when="1853-04-02">2. April 1853</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <msDesc>
+                        <msIdentifier>
+                            <institution>Diözesanarchiv Wien</institution>
+                            <idno>BA Rauscher, Seckauer Zeit</idno>
+                        </msIdentifier>
+                        <msContents>
+                            <p>Leo Thun bedankt sich bei Bischof Joseph Othmar Rauscher für die
                                 Auskunft über den Direktor des Marburger Gymnasiums, Johann Kurz.
                                 Der Minister teilt außerdem mit, dass die Berufung von Johann
                                 Baptist Weiß an die Universität Graz bereits erfolgt sei und Weiß
                                 durch Joseph Fessler von seiner Ernennung verständigt wurde. Zuletzt
                                 gratuliert der Minister Rauscher zu seiner Ernennung zum Erzbischof
                                 von Wien und wünscht ihm Kraft und Ausdauer für die bevorstehenden
-                                schwierigen Aufgaben.</p></msContents></msDesc></p></sourceDesc></fileDesc><revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc></teiHeader><text><body><div type="transcript"><index><term>Personalfragen</term><term>Personalvermittlung</term><term>Universität Graz</term><term>Geschichtswissenschaften</term><term>Kultus</term></index><p>Wien den 2. April 1853</p><p>Hochwürdigster Herr Fürstbischof!</p><p>Für die mir über Direktor <rs type="person" ref="kurz-johann" key="kurz-johann">Kurz</rs>
+                                schwierigen Aufgaben.</p>
+                        </msContents>
+                    </msDesc>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Personalvermittlung</term>
+                    <term>Universität Graz</term>
+                    <term>Geschichtswissenschaften</term>
+                    <term>Kultus</term>
+                </index>
+                <p>Wien den 2. April 1853</p>
+                <p>Hochwürdigster Herr Fürstbischof!</p>
+                <p>Für die mir über Direktor <rs type="person" ref="kurz-johann" key="kurz-johann">Kurz</rs>
                     mitgetheilten Nachrichten, welche mir zu großer Befriedigung dienen, sage ich
                     Euerer fürstlichen Gnaden meinen herzlichen Dank. <rs type="person" ref="weiss-johann-baptist" key="weiss-johann-baptist">Dr. Weiß</rs> ist bereits zum Professor der
                     Geschichte ernannt; die offizielle Verständigung ist auch bereits auf
@@ -29,4 +75,9 @@
                     fehlte es allerdings nicht; indessen – es sind schon schwierigere vorgelegen –
                     und Gott sei Dank! einer glücklichen Lösung entgegengeführt worden.<lb/>Mit dem
                     wiederholten Ausdruck meiner aufrichtigen Hochachtung habe ich die Ehre zu
-                    verharren</p><p>Euerer fürstlichen Gnaden<lb/>ergebener Diener<lb/>Thun</p></div></body></text></TEI>
+                    verharren</p>
+                <p>Euerer fürstlichen Gnaden<lb/>ergebener Diener<lb/>Thun</p>
+            </div>
+        </body>
+    </text>
+</TEI>

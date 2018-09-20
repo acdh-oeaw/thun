@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -78,7 +79,11 @@
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -93,7 +98,7 @@
                 <p>Die Wiedereinführung der 2. medicinischen Klinik in <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>
                     und die Art und Weise, wie der dießfällige hohe Auftrag ertheilt wurde, müssen
                     grade bei denen, welche die Verhältnisse kennen, die Überzeugung rege machen,
-                    daß im hohen <rs type='org' ref='#org_0005'>Ministerium</rs> entweder gegen mein Wissen und mein Lehrtalent und
+                    daß im hohen <rs type="org" ref="#org_0005">Ministerium</rs> entweder gegen mein Wissen und mein Lehrtalent und
                     meinen Lehreifer Zweifel obwalten. Obgleich ich selbst dies kaum glauben kann,
                     so fühle ich mich dennoch aufgefordert, zu meiner Rechtfertigung diese Zeilen
                     Euerer Excellenz zu unterbreiten.<lb/>Die Zuhörerzahl kann es nicht seyn, die
@@ -175,7 +180,7 @@
                     Artikel im „Gränzboten“ überzeugen, in dem meine ehrliche Pflichterfüllung als
                     Quälerei der Studenten geschildert ist. Es ist wohl das erste Mal in meinem
                     Leben, daß ich meiner höchsten Instanz gegenüber mein Wirken hervorhebe, doch
-                    ich war durch das Mißtrauensvotum, das in der Maßnahme eines hohen <rs type='org' ref='#org_0005'>Ministeriums</rs> liegt,
+                    ich war durch das Mißtrauensvotum, das in der Maßnahme eines hohen <rs type="org" ref="#org_0005">Ministeriums</rs> liegt,
                     dazu gezwungen. Ich habe Grund zu glauben, daß Euer Excellenz bei der seltenen
                     Gewissenhaftigkeit, die ich übrigens nur bewundern kann, auch in dieser Sache
                     das Urtheil unpartheiischer Männer eingeholt haben und entweder auf Unkenntniß

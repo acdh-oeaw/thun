@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -55,7 +56,11 @@
             </correspDesc>
         </profileDesc>
 
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -103,7 +108,7 @@
                     guiderdone d’ogni mio studio e fatica, saluterei con altissimo giubilo la
                     fortuna, che mi levasse ad uno o ad altro dei due Posti Cattedratici, ai quali ò
                     ultimamente aspirato, la cattedra cioè di <hi rend="ul">Terapia Speciale e
-                        Clinica Medica nell’ <rs type='org' ref='#org_0002'>Università di
+                        Clinica Medica nell’ <rs type="org" ref="#org_0002">Università di
                             Pavia</rs>
                     </hi>, e quella di <hi rend="ul">Patologia generale e
                         farmacologia nell’ <rs type="org" ref="#org_0003">Università di

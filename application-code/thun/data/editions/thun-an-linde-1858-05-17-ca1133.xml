@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -47,7 +48,11 @@
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -63,7 +68,7 @@
                     Ich kann Sie nur vollkommen in der Uiberzeugung bestärken, daß die
                     Zeitungskorrespondenzen, derer Sie erwähnen in direktem Widerspruch mit meinen
                     Intenzionen stehen, und daß ich Ihnen sehr dankbar dafür bin, Sie zu verhindern.
-                    Ich kann nicht dafür bürgen, daß nicht auch unter den Beamten des <rs type='org' ref='#org_0005'>Ministeriums</rs>, dem ich
+                    Ich kann nicht dafür bürgen, daß nicht auch unter den Beamten des <rs type="org" ref="#org_0005">Ministeriums</rs>, dem ich
                     vorstehe welche seien, denen es erwünscht ist, wenn in Beziehung auf kirchliche
                     Tendenzen gegen das, was mir am Herzen liegt, agitirt wird. Wenn aber behauptet
                     wird, ich sei zu manchen Bestimmungen des Konkordates wider meine Uiberzeugung

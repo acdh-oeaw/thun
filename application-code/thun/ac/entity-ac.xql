@@ -1,10 +1,11 @@
 xquery version "3.1";
 import module namespace app="http://www.digital-archiv.at/ns/thun/templates" at "../modules/app.xql";
+import module namespace util="http://exist-db.org/xquery/util";
 declare namespace tei = "http://www.tei-c.org/ns/1.0";
 declare option exist:serialize "method=json media-type=text/javascript";
 
 let $type := request:get-parameter('entity', 'person')
-let $query := request:get-parameter('query', '')
+let $query := util:unescape-uri(request:get-parameter('query', ''), 'UTF-8')
 
 let $return :=
     if($type eq 'person') then

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -51,7 +52,11 @@
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -88,7 +93,7 @@
                     verbreiten, die Regierung wolle es selbst, dass die Gemeinden je eher
                     desorganisirt werden. Wie gegenüber solchen Kundgebungen die aufmunternden Worte
                     Seiner Majestät, welche allerhöchst dieselben an die Deputation des Brieser
-                    Conventes gesprochen haben, wie die Betheuerungen des hohen <rs type='org' ref='#org_0005'>Ministeriums</rs> des den
+                    Conventes gesprochen haben, wie die Betheuerungen des hohen <rs type="org" ref="#org_0005">Ministeriums</rs> des den
                     coordinirten Gemeinden versprochenen Schutzes, Glauben, Vertrauen und Achtung
                     behalten sollen, ist schlechterdings nicht abzusehen. Irgendwie muß denselben
                     daher entgegen getreten werden. Da aber der Angriff nur perfider Weise auf mich

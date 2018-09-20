@@ -1,9 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Aufsatz von <rs type="person" ref="langenau-ferdinand" key="langenau-ferdinand">Ferdinand Langenau</rs>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Aufsatz von <rs type="person" ref="langenau-ferdinand" key="langenau-ferdinand">Ferdinand Langenau</rs>
                     über den Einfluss von Windisch-Graetz am Kaiserhof während der Revolution
-                        1848<lb/><rs type="place" subtype="place">Wien</rs>, <date when="1849-12">Dezember
-                        1849</date></title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
-                            Tetschen-Bodenbach</institution><repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
-                            Thun</repository><idno>A3 XXI D23</idno></msIdentifier><msContents><p>Ferdinand Langenau schildert in diesem Aufsatz die Taten des Grafen
+                        1848<lb/>
+                    <rs type="place" subtype="place">Wien</rs>, <date when="1849-12">Dezember
+                        1849</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D23</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Ferdinand Langenau schildert in diesem Aufsatz die Taten des Grafen
                             Alfred Windisch-Graetz während der Ereignisse des Jahres 1848. Er geht
                             besonders auf den Einfluss des Feldmarschalls bei der Bekanntgabe der
                             Abdankung von Kaiser Ferdinand und die Thronbesteigung von Kaiser Franz
@@ -17,7 +37,25 @@
                             versuchten ihn zu kompromittieren. Schließlich hebt Langenau jedoch
                             hervor, dass Windisch-Graetz als Retter der Monarchie anzusehen sei und
                             sein Wirken und seine Leistungen für Österreich, ja für Europa zu wenig
-                            Anerkennung fänden.</p></msContents><physDesc/></msDesc></sourceDesc></fileDesc><revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc></teiHeader><text><body><div type="transcript"><index><term>Revolution</term></index><p>Es ist die Aufgabe der folgenden Zeilen einige Momente der neuesten
+                            Anerkennung fänden.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Revolution</term>
+                </index>
+                <p>Es ist die Aufgabe der folgenden Zeilen einige Momente der neuesten
                     Revolutionsgeschichte <rs type="place" subtype="country" key="oesterreich">Oesterreichs</rs> näher zu
                     beleuchten, deren einzelne Thatsachen wohl hinlänglich bekannt sind, während die
                     Beweggründe und die Art und Weise, wie manches wichtige Ereignis ins Leben trat,
@@ -154,7 +192,8 @@
                     für den <rs type="person" ref="windisch-graetz-alfred" key="windisch-graetz-alfred">Fürsten
                         W[indisch-Graetz]</rs>, in den sie ein unumschränktes Vertrauen
                     hatten, wurde von beiden Damen mit Freude ergriffen und an der Erfüllung dieses
-                    Wunsches des Fürsten mit vielem Eifer gearbeitet.<lb/><rs type="person" ref="franz-karl-erzherzog" key="franz-karl-erzherzog">Erzherzog Franz Carl</rs>, den dieser
+                    Wunsches des Fürsten mit vielem Eifer gearbeitet.<lb/>
+                    <rs type="person" ref="franz-karl-erzherzog" key="franz-karl-erzherzog">Erzherzog Franz Carl</rs>, den dieser
                     Gedanke anfänglich erschreckte und der darüber beim Onkl <rs type="person" ref="johann-erzherzog" key="johann-erzherzog">Johann</rs> anfragen wollte (!!!), der damals
                     in <rs type="place" subtype="place">Wien</rs> an des <rs type="person" ref="ferdinand-I" key="ferdinand-I">Kaisers</rs> statt fungirte, bekümmerte sich später nicht mehr viel
                     darum und wurde endlich bei dieser Gelegenheit so wie bei vielen andern ganz aus
@@ -167,7 +206,8 @@
                     sich aber nun um den Aufsatz der Vollmacht selbst. Nicht ein Mensch befand sich
                     damals in der Umgebung des Hofes, dem man hiezu das Vertrauen geschenkt hätte;
                     die Wenigsten waren dem Hofe gefolgt, ein großer Theil unbegreiflicher Weise, in
-                    einem solchen Momente auf Urlaub, dem Hofrathe <rs type="person" ref="czillich-karl" key="czillich-karl">Zcillich</rs><note xml:id="note_1">Anmerkung am Rand von fremder
+                    einem solchen Momente auf Urlaub, dem Hofrathe <rs type="person" ref="czillich-karl" key="czillich-karl">Zcillich</rs>
+                    <note xml:id="note_1">Anmerkung am Rand von fremder
                         Hand: <rs type="person" ref="czillich-karl" key="czillich-karl">Karl von Czillich</rs>, ein [?]
                         ergebener Mann </note>, dem gewöhnlichen Verfertiger der Handbillets, wagte
                     man als Ungar nicht zu trauen, kurz die Leute, die den Hof umgaben, waren
@@ -196,7 +236,9 @@
                     anweise. Ich vertraue übrigens vollkommen Ihrer vielbewährten Einsicht und
                     Erfahrung, daß Sie von diesem meinen Handschreiben nur im äußersten Nothfalle
                     Gebrauch machen und ihm nur dann eine Folge geben werden, wenn jede Aussicht auf
-                    eine friedliche Lösung der Dinge gänzlich geschwunden ist.<lb/><rs type="place" subtype="place" key="innsbruck">Insbruck</rs> am 22. Mai 1848<lb/><rs type="person" ref="ferdinand-I" key="ferdinand-I">Ferdinand</rs> m.p.<lb/>Dieses Handschreiben war
+                    eine friedliche Lösung der Dinge gänzlich geschwunden ist.<lb/>
+                    <rs type="place" subtype="place" key="innsbruck">Insbruck</rs> am 22. Mai 1848<lb/>
+                    <rs type="person" ref="ferdinand-I" key="ferdinand-I">Ferdinand</rs> m.p.<lb/>Dieses Handschreiben war
                     absichtlich zurückdatirt worden, weil es wahrscheinlich war, daß der Hof gleich
                     nach seiner Ankunft in <rs type="place" subtype="place" key="innsbruck">Insbruck</rs> und in
                     der Verzweiflung über die jüngst verflossenen Ereignisse dem <rs type="person" ref="windisch-graetz-alfred" key="windisch-graetz-alfred">Fürsten</rs> eine solche Vollmacht
@@ -302,7 +344,8 @@
                     zurückzuweisen.<lb/>In diesem Sinne wurden zwei Manifeste vom <rs type="person" ref="windisch-graetz-alfred" key="windisch-graetz-alfred">Fürsten</rs> verfaßt mit der Absicht
                     dieselben der <rs type="person" ref="maria-anna" key="maria-anna">Kaiserin</rs> zu übersenden. Der
                     Zeitpunkt, wenn dieses wichtige Ereignis eintreten sollte, wurde einer späteren
-                    Bestimmung überlassen.<lb/><rs type="person" ref="windisch-graetz-alfred" key="windisch-graetz-alfred">Fürst
+                    Bestimmung überlassen.<lb/>
+                    <rs type="person" ref="windisch-graetz-alfred" key="windisch-graetz-alfred">Fürst
                         W[indisch-Graetz]</rs> beschäftigte sich nur damit, die commandirenden
                     Generäle von <rs type="place" subtype="region" key="galizien">Gallizien</rs> und <rs type="place" subtype="region" key="maehren">Mähren</rs> im strengsten Vertrauen von den allerhöchsten Vollmachten
                     in Kenntnis zu setzen, die ihm ertheilt worden und die Anzahl der Truppen zu
@@ -339,7 +382,8 @@
                     geleistete Unterstützung hatte sie die Gewährung einer Petition verlangt, die
                     gegen den <rs type="person" ref="windisch-graetz-alfred" key="windisch-graetz-alfred">Fürsten
                         W[indisch-Graetz]</rs> gerichtet war und die dem <rs type="person" ref="latour-theodor" key="latour-theodor">Kriegsminister</rs> eingereicht
-                        wurde.<lb/><rs type="person" ref="latour-theodor" key="latour-theodor">Graf Latour</rs>,
+                        wurde.<lb/>
+                    <rs type="person" ref="latour-theodor" key="latour-theodor">Graf Latour</rs>,
                     durchdrungen von der guten Gesinnung dieser Parthei, worüber er dem <rs type="person" ref="windisch-graetz-alfred" key="windisch-graetz-alfred">Fürsten</rs> mehrmals schrieb, glaubte
                     die Petition nicht ganz abweisen zu dürfen, um die Regierung nicht der
                     Unterstützung der Czechen zu berauben, handelte jedoch einige Punkte herunter
@@ -367,7 +411,8 @@
                     bei Gelegenheit der Ermordung des <rs type="person" ref="lamberg-franz-phillip" key="lamberg-franz-phillip">Grafen
                         Lamberg</rs> schrieb: „Die Mörder <rs type="person" ref="lamberg-franz-phillip" key="lamberg-franz-phillip">Lamberg’s</rs> sind im Solde der Parthei
                     und hätten gewiß auch Sie und mich schon umgebracht, wenn wir nicht die
-                    gehörigen Vorsichtsmaßregeln dagegen getroffen hätten.“<lb/><rs type="person" ref="latour-theodor" key="latour-theodor">Graf Latour</rs> hatte die Eitelkeit Minister zu
+                    gehörigen Vorsichtsmaßregeln dagegen getroffen hätten.“<lb/>
+                    <rs type="person" ref="latour-theodor" key="latour-theodor">Graf Latour</rs> hatte die Eitelkeit Minister zu
                     sein und es bleiben zu wollen. Dem Minister brachte er gewaltige Opfer. Sein
                     Unglück war die große, constitutionelle Ehrlichkeit und die Überzeugung er müsse
                     mit diesem Reichstag gehen, er könne nicht abtreten, weil sonst irgend ein
@@ -575,7 +620,8 @@
                         <rs type="place" subtype="place">Wien</rs> ab, um die Bahn zu besetzen.<lb/>Von allen
                     Seiten gingen die dringendsten Aufforderungen an den <rs type="person" ref="windisch-graetz-alfred" key="windisch-graetz-alfred">Fürsten</rs> ein, sobald als möglich
                     selbst vor <rs type="place" subtype="place">Wien</rs> zu erscheinen und das Kommando zu
-                    übernehmen, seine Gegenwart wäre vor Allem nothwendig.<lb/><rs type="person" ref="schwarzenberg-felix" key="schwarzenberg-felix">Fürst Felix Schwarzenberg</rs>, damals in
+                    übernehmen, seine Gegenwart wäre vor Allem nothwendig.<lb/>
+                    <rs type="person" ref="schwarzenberg-felix" key="schwarzenberg-felix">Fürst Felix Schwarzenberg</rs>, damals in
                         <rs type="place" subtype="place">Wien</rs> in betreff der italienischen Angelegenheiten
                     anwesend, hatte sich mit den Truppen ins Belvedere begeben. Er schrieb von dort
                     einen ziemlich niederschlagenden Brief mit der Schilderung der dortigen Zustände
@@ -599,7 +645,8 @@
                     ob es nicht viel besser gewesen wäre, seinen Rath zu befolgen und das
                     Revolutionstribunal, Reichstag genannt, gleich aufzulösen, anstatt demselben
                     auch seinen Verhandlungen in <rs type="place" subtype="place">Wien</rs> durch eine spätere
-                    Wiederzusammenberufung den Stempel der Legalität aufzudrücken.<lb/><rs type="person" ref="wessenberg-johann-philipp" key="wessenberg-johann-philipp">Weßenberg</rs> war noch Minister, man
+                    Wiederzusammenberufung den Stempel der Legalität aufzudrücken.<lb/>
+                    <rs type="person" ref="wessenberg-johann-philipp" key="wessenberg-johann-philipp">Weßenberg</rs> war noch Minister, man
                     arbeitete damals an dem Ministerium <rs type="person" ref="stadion-franz" key="stadion-franz">Stadion</rs>-<rs type="person" ref="wessenberg-johann-philipp" key="wessenberg-johann-philipp">Weßenberg</rs>, was aber erst später ins Leben trat. Wie schwach, wie
                     unfähig <rs type="person" ref="wessenberg-johann-philipp" key="wessenberg-johann-philipp">Weßenberg</rs> war,
                     zeigt sein Manifest vom 19. nach dem vom 16., welches erstere vom schlechten
@@ -625,4 +672,8 @@
                     wichtigen Epoche das Vertrauen des <rs type="person" ref="windisch-graetz-alfred" key="windisch-graetz-alfred">Fürsten</rs> besessen zu haben, eines Mannes, dessen ganz besondere
                     und gerade in dieser Zeit so äußerst seltene Eigenschaften, er die die höchste
                     Verehrung zollt.<lb/>Wien im Dezember (November – Im Windischgrätz’schen
-                    Exemplar) 1849</p></div></body></text></TEI>
+                    Exemplar) 1849</p>
+            </div>
+        </body>
+    </text>
+</TEI>

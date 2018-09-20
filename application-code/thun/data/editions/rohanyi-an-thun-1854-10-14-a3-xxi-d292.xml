@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -61,7 +62,11 @@
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -121,7 +126,7 @@
                     Jahres, laut dessen die beiden evangelischen Confessionen über die Coordination
                     ihrer Kirche „noch im laufenden Jahre gehört werden sollen“ als eine Bürgschaft
                     für die besten Erwartungen. Es ist sonach an der Zeit, die Meinungen in der
-                    schwebenden Aufgabe Eurem hohen <rs type='org' ref='#org_0005'>Ministerium</rs> zu
+                    schwebenden Aufgabe Eurem hohen <rs type="org" ref="#org_0005">Ministerium</rs> zu
                     unterbreiten.<lb/>Wir sind indessen nicht geneigt zu glauben, daß die zum selben
                     Zweck an denselben hohen Ort abgegebenen Meinungen und Wünsche sich identisch
                     gestalten, und zu einem und demselben Wunsch verschmelzen werden.<lb/>Wer<note xml:id="note_1">An dieser Stelle fehlt ein Blatt.</note>

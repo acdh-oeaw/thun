@@ -1,6 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title><rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
                         <rs type="person" ref="rechberg-bernhard" key="rechberg-bernhard" role="recipient">Bernhard
-                        Rechberg</rs><lb/><rs type="place" subtype="place">Wien</rs>, <date when="1857-07-21">21. Juli 1857</date></title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>Österreichisches Staatsarchiv</institution><repository>Haus-, Hof- und Staatsarchiv</repository><idno>Sonderbestände Nl Braun 13-6-11-34</idno></msIdentifier><msContents><p>Leo Thun informiert den Chef der Zivilabteilung des
+                        Rechberg</rs>
+                    <lb/>
+                    <rs type="place" subtype="place">Wien</rs>, <date when="1857-07-21">21. Juli 1857</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichisches Staatsarchiv</institution>
+                        <repository>Haus-, Hof- und Staatsarchiv</repository>
+                        <idno>Sonderbestände Nl Braun 13-6-11-34</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun informiert den Chef der Zivilabteilung des
                             lombardo-venetianischen Generalgouvernements Bernhard Rechberg über
                             Gesundheitszustand von dessen Sohn, Alois Rechberg, und dessen
                             schwieriger Lebenslage. Thun hatte sich in einem ausführlichen Gespräch
@@ -13,7 +35,26 @@
                             er sich aber bald erholt haben wird. Anschließend will Alois Rechberg zu
                             seinem Vater reisen und ihn persönlich über seine Situation informieren.
                             Thun versichert Bernhard Rechberg, dass er sich weiter um seinen Sohn
-                            kümmern werde.</p></msContents></msDesc></sourceDesc></fileDesc><revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc></teiHeader><text><body><div type="transcript"><index><term>Privates</term></index><p>Wien, den 21. Juli 857</p><p>Lieber Freund!</p><p>Nach Empfang Ihres ersten Briefes schrieb ich <rs type="person" ref="rechberg-alois" key="rechberg-alois">Ihrem Sohne</rs>, wenn er aus gehen dürfe, so wolle er zu mir kommen,
+                            kümmern werde.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Privates</term>
+                </index>
+                <p>Wien, den 21. Juli 857</p>
+                <p>Lieber Freund!</p>
+                <p>Nach Empfang Ihres ersten Briefes schrieb ich <rs type="person" ref="rechberg-alois" key="rechberg-alois">Ihrem Sohne</rs>, wenn er aus gehen dürfe, so wolle er zu mir kommen,
                     widrigenfalls würde ich zu ihm kommen. Ich erhielt die Antwort, er sei nicht zu
                     Hause, und werde erst Abend erwartet. Ich schrieb ihm also einen zweiten Zettel,
                     er wolle den andern Tag zu mir nach <rs type="place" subtype="place">Hetzendorf</rs>
@@ -67,4 +108,9 @@
                     als Sie das erste Mal Schulden zahlen mussten! Vielleicht hätte ich dann noch
                     helfen können und wie gern hätte ich es gethan!<lb/>Er hat mir heute gesagt, er
                     wolle Ihnen schreiben, er habe nur warten wollen, bis er würde schreiben können,
-                    daß er wieder hergestellt sei.</p><p>Aufrichtig der Ihrige<lb/>Leo Thun</p></div></body></text></TEI>
+                    daß er wieder hergestellt sei.</p>
+                <p>Aufrichtig der Ihrige<lb/>Leo Thun</p>
+            </div>
+        </body>
+    </text>
+</TEI>

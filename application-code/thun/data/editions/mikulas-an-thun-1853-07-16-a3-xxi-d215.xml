@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -66,7 +67,11 @@
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -87,7 +92,7 @@
                     Verleihung des Öffentlichkeitsrechtes für das <rs type="place" subtype="place" ref="#place_99c830657e6832ddfe8ea32dfa875ae1">Köröser</rs> Gymnasium liegt mir, der ich die Umstände jetzt schon
                     genau zu kennen meine, sehr am Herzen. Die braven Köröser haben von vielen
                     Seiten verleumdet, angefeindet und durch falsche Gerüchte – z. B. durch das
-                    weitverbreitete Gerücht, das <rs type='org' ref='#org_0005'>k.k. Unterrichtsministerium</rs> werde einem evangelischen Obergymnasium das
+                    weitverbreitete Gerücht, das <rs type="org" ref="#org_0005">k.k. Unterrichtsministerium</rs> werde einem evangelischen Obergymnasium das
                     Recht der Öffentlichkeit nie zuerkennen, – geängstigt, dennoch keinen Augenblick
                     gezweifelt, den Wünschen der Regirung nachzukommen. Nun bietet sich Euerer
                     Excellenz eine erwünschte Gelegenheit dar, diejenigen Lügen zu strafen, welche

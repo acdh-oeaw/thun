@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -64,7 +65,11 @@
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -125,7 +130,7 @@
                     guten Gründen, die Übernahme dieser Function (bis zum definitiven Eintritte
                         <rs type="person" ref="#aschbach-joseph">Aschbachs</rs>) abgelehnt hat. Ich
                     kann hier nur wiederholt erklären, daß ich außerstande bin, dem ehrenvollen
-                    Vertrauen des <rs type='org' ref='#org_0005'>Ministeriums</rs> in diesem Puncte zu entsprechen, weil mir in der
+                    Vertrauen des <rs type="org" ref="#org_0005">Ministeriums</rs> in diesem Puncte zu entsprechen, weil mir in der
                     That die nöthigen Kenntnisse hiefür abgehen. Ich weiß mir daher nicht anders zu
                     helfen, als daß ich den Herrn Director <rs type="person" ref="#zippe-franz">Zippe</rs> bitte, <hi rend="ul">
                         <hi rend="ul">geschichtliche</hi>

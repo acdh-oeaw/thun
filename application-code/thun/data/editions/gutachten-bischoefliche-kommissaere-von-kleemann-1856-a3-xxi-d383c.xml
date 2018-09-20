@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -48,7 +49,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -97,7 +102,7 @@
                     verhandelt werden soll, theil zu nehmen, folgendes bemerken:<lb/>Der Antrag
                     scheint auf der Voraussetzung zu beruhen, als käme es den Lehrkörpern zu, neue
                     Lehrbücher einzuführen. Diese Voraussetzung bedarf folgende Berichtigung:
-                    <lb/>1. Die Lehrkörper haben zunächst nur über die Wahl der vom <rs type='org' ref='#org_0005'>Ministerium</rs>
+                    <lb/>1. Die Lehrkörper haben zunächst nur über die Wahl der vom <rs type="org" ref="#org_0005">Ministerium</rs>
                     <hi rend="ul">approbierten</hi> Schulbücher sich zu entscheiden. Diese
                     Approbation beruht auf der zweifachen Anerkennung der wissenschaftlichen
                     Richtigkeit und der pädagogischen Zweckmäßigkeit des Buches, welch' letztere
@@ -127,7 +132,7 @@
                     Beziehung sie selbst so wie das Ministerium volle Beruhigung über die absolute
                     Correktheit der Bücher gewinnen.<lb/>4. Die Lehrerkonferenzen haben endlich das
                     Recht, auch nicht approbierte Schulbücher zu dem Ende einer Besprechung zu
-                    unterziehen, um die Prüfung eines solchen Buches von Seite des <rs type='org' ref='#org_0005'>Ministeriums</rs> zu
+                    unterziehen, um die Prüfung eines solchen Buches von Seite des <rs type="org" ref="#org_0005">Ministeriums</rs> zu
                     veranlassen und allenfalls die Approbation desselben zu erwirken. Auch in diesem
                     Falle kann kein Anstand obwalten, den bischöflichen Commissär der Besprechung
                     beizuziehen.<lb/>5. Die gutächtliche Mitwirkung des Commissärs bei Conferenzen

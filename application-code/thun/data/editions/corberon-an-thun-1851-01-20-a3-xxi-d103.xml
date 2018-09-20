@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -66,7 +67,11 @@
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -149,7 +154,7 @@
                     ich ergriff die Gelegenheit, um ihnen derbe Wahrheiten zu sagen, und nachdem ich
                     ihnen auseinandergesetzt hatte, daß mit ihren Ansichten und Begriffen das Land
                     niemals emporkommen würde, sagte ich: „Dieses Programm sende ich nach
-                        <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>. Ob das <rs type='org' ref='#org_0005'>Ministerium</rs> es
+                        <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>. Ob das <rs type="org" ref="#org_0005">Ministerium</rs> es
                     annehmen wird, ob Ihr es verschmähen werdet, das weiß ich nicht, und es kümmert
                     mich auch wenig. Ihr habt es gehört: Alles Theologische soll <hi rend="ul">lateinisch</hi>, Naturwissenschaften und Medicin <hi rend="ul">deutsch</hi>, alles Übrige, also Alles, wo keine eiserne Nothwendigkeit das
                     Gegentheil gebietet, <hi rend="ul">croatisch</hi> vorgetragen werden. Geht mein
@@ -170,7 +175,7 @@
                     fest der ausgesprochenen Bitte, mein Programm in der Agramer oder der
                     Südslavischen Zeitung zu veröffentlichen, weil dies nie meine Absicht war. Ich
                     überzeugte mich, daß die Leute mehr gegen das, hier von jeher befürchtete,
-                    Germanisiren von Seiten des <rs type='org' ref='#org_0005'>Ministeriums</rs> waren
+                    Germanisiren von Seiten des <rs type="org" ref="#org_0005">Ministeriums</rs> waren
                     als gegen meine Ansicht, wie der akademische Unterricht einzurichten sey. Ich
                     zähle hier einige Anhänger; die Jugend, die immer so leicht aus dem Geleise der
                     Wahrheit kommt, überschätzt meine Kenntnisse und meinen Werth, und viele baten
@@ -253,7 +258,7 @@
                     naturwissenschaftlichen Professuren in <rs type="place" subtype="place" ref="#place_104b5ac4af06263707f5418d171ffe3d">Agram</rs> beinahe
                     unmöglich seyn; und wollte man <hi rend="ul">nur</hi> in
                         <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> recrutiren, so würde es hier alsbald heißen, daß
-                    das <rs type='org' ref='#org_0005'>Ministerium</rs>
+                    das <rs type="org" ref="#org_0005">Ministerium</rs>
                     seine österreichischen Germanisirungspläne bei uns, wie in
                         <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>, zu verfolgen entschlossen sey. Nimmt man hingegen
                     ausgezeichnete Lehrer aus dem <hi rend="ul">nicht</hi> „österreichischen“

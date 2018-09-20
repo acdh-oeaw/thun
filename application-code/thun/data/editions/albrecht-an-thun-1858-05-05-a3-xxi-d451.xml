@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,7 +44,11 @@
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -59,7 +64,7 @@
                     dürfte. Der stets unruhige <rs type="person" ref="#szantofy-anton">Szántoffy</rs>
                     kam neulich von <rs type="place" subtype="place" ref="#place_cde856980f41b5362c96273d9c84431d">Gran</rs> zurück und erzählte
                     dem Propst <rs type="person" ref="#haas-michael">Haas</rs>, daß man dort wisse, daß
-                    in Ihrem <rs type='org' ref='#org_0005'>Ministerium</rs> ein nicht unterschriebener (was wahr ist) Antrag von
+                    in Ihrem <rs type="org" ref="#org_0005">Ministerium</rs> ein nicht unterschriebener (was wahr ist) Antrag von
                     mir eingelangt ist, um nach dem Tode des jetzigen <rs type="person" ref="#scitovsky-jan">Primas</rs> das Tyrnauer Generalvikariat als selbstständiges Bisthum
                     mit dem Sitze in <rs type="place" subtype="place" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</rs> abzutrennen und
                     als Dotation die Einkünfte des Großpropstes von Preßburg zu bestimmen und

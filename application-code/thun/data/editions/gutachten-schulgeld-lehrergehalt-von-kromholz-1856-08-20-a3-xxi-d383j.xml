@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -44,7 +45,11 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -82,13 +87,13 @@
                     Bischöfe bezüglich der Einbringung des Schulgeldes und der Verbesserung der
                     ökonomischen Lage einzelner Lehrer und Gehilfen in Antrag bringen; es kann daher
                     auch nur als eine auffallende Erscheinung bezeichnet werden, daß die
-                    hochwürdigsten Herren Bischöfe von den Maßregeln, die das <rs type='org' ref='#org_0005'>Ministerium</rs> in
+                    hochwürdigsten Herren Bischöfe von den Maßregeln, die das <rs type="org" ref="#org_0005">Ministerium</rs> in
                     ununterbrochener Sorgfalt für die bessere Einrichtung des Volksschulwesens zur
                     Aufbesserung der Lehrerdotationen getroffen hat und zu treffen fortfährt, so
                     wenig Kenntnis nehmen und sonach die Wirksamkeit des <orgName>Ministeriums </orgName> so wie
                     die erfolgreichen Bemühungen der politischen Landesbehörden durch derartige
                     Anträge offenbar in ein ungünstiges Licht stellen.<lb/>Durch die seit Jahren
-                    ununterbrochen fortgesetzten Bestrebungen des <rs type='org' ref='#org_0005'>Ministeriums</rs> wurden:
+                    ununterbrochen fortgesetzten Bestrebungen des <rs type="org" ref="#org_0005">Ministeriums</rs> wurden:
                     <lb/>a. allenthalben die unzulänglich gewordenen Lehrerdotationen namhaft
                     aufgebessert;<lb/>b. wurde nicht nur allenthalben das Schulgeld, wo nicht andere
                     Gemeindemittel aufgefunden werden konnten, erhöht, sondern auch die Einbringung

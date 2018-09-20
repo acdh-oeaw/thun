@@ -1,7 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title><rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
                         <rs type="person" ref="celakovsky-frantisek-ladislav" key="celakovsky-frantisek-ladislav" role="recipient">Frantisek
-                        Ladislaus Čelakovšký</rs><lb/><rs type="place" subtype="place">Wien</rs>, <date when="1850-07-05">5. Juli 1850</date></title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>Tschechisches Literaturarchiv [Literární archiv Památníku
-                            národního písemnictví]</institution><repository>Nachlass Čelakovšký</repository><idno>250/42</idno></msIdentifier><msContents><p>Leo Thun äußert sich zum Manuskript eines Lesebuchs für die
+                        Ladislaus Čelakovšký</rs>
+                    <lb/>
+                    <rs type="place" subtype="place">Wien</rs>, <date when="1850-07-05">5. Juli 1850</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Tschechisches Literaturarchiv [Literární archiv Památníku
+                            národního písemnictví]</institution>
+                        <repository>Nachlass Čelakovšký</repository>
+                        <idno>250/42</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun äußert sich zum Manuskript eines Lesebuchs für die
                             Gymnasien von Frantisek Čelakovšký. Thun ist mit dem Ergebnis
                             grundsätzlich zufrieden. Allerdings möchte er, dass Čelakovšký einige
                             Änderungen vornimmt. Aus der Sicht von Thun sind einige der ausgewählten
@@ -11,7 +33,32 @@
                             die Knaben zum Wohl des ganzen Staates zur sittlichen Vollkommenheit
                             erziehen. Die weitere Auslieferung des Buches wird daher vorerst
                             gestoppt. In anderen Angelegenheiten konnte Thun noch keine Entscheidung
-                            herbeiführen.</p></msContents><physDesc><p>Verweis auf A3 XXI D75.</p><p>Verweis auf A3 XXI D82.</p></physDesc></msDesc></sourceDesc></fileDesc><revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc></teiHeader><text><body><div type="transcript"><index><term>Gymnasien</term><term>Schulbücher</term><term>Nationalismus</term></index><p>Wien, den 16. November 1850</p><p>Verehrter Herr Professor!</p><p>Der Drang der Geschäfte, der mich schwer für Privatbriefe Zeit finden läßt, trägt
+                            herbeiführen.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Verweis auf A3 XXI D75.</p>
+                        <p>Verweis auf A3 XXI D82.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Gymnasien</term>
+                    <term>Schulbücher</term>
+                    <term>Nationalismus</term>
+                </index>
+                <p>Wien, den 16. November 1850</p>
+                <p>Verehrter Herr Professor!</p>
+                <p>Der Drang der Geschäfte, der mich schwer für Privatbriefe Zeit finden läßt, trägt
                     die Schuld, daß ich Ihnen erst heute für die Übersendung des 1. und 3. Bandes
                     Ihres Lehrbuches <note xml:id="note_1">Vgl. František Čelakovšký, Česká čítací
                         kniha pro česká gymnasia, 3 Bde., 1850–1851.</note> meinen Dank abstatte.
@@ -49,4 +96,10 @@
                     später darauf bedacht zu sein nicht unterlassen, sobald ich eines Erfolges
                     sicher sein kann. Wie wünschenswerth philologische Übungen für die Kandidaten
                     des Lehramtes der Muttersprache wären, erkenne ich vollkommen; die Vorlage eines
-                    bestimmten Projektes in amtlichen Wege wird mir sehr erwünscht sein.</p><p>Mit besonderer Hochachtung verbleibe ich</p><p>Euer Wohlgeboren<lb/>ergebener<lb/>Thun</p></div></body></text></TEI>
+                    bestimmten Projektes in amtlichen Wege wird mir sehr erwünscht sein.</p>
+                <p>Mit besonderer Hochachtung verbleibe ich</p>
+                <p>Euer Wohlgeboren<lb/>ergebener<lb/>Thun</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -57,7 +58,11 @@
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -109,7 +114,7 @@
                         Kultus und Unterricht</orgName> gestellt haben, haben theils gar keine,
                     theils sehr spät eine meist ungünstige Erledigung gefunden und während andere
                     Glaubensgenossen Beweise von Wohlwollen erhielten, sind wir allein nicht in der
-                    glücklichen Lage auch nur ein, aus dem Wirkungskreise des hohen <rs type='org' ref='#org_0005'>Ministeriums</rs>
+                    glücklichen Lage auch nur ein, aus dem Wirkungskreise des hohen <rs type="org" ref="#org_0005">Ministeriums</rs>
                     erflossenes Dekret aufweisen zu können, an dessen Inhalt unsere Kirche sich zu
                     erfreuen hätte.<lb/>Was unsere Kirche Gutes empfangen hat, hatte sie meist nur
                     der eigensten Gnadenfülle der erlauchten Monarchen und in letzter Zeit Euer

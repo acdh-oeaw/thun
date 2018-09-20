@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -58,7 +59,11 @@
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -125,7 +130,7 @@
                     bemerkte einer, daß der einzige Fall ihm bekannt sei, daß heuer in einer Klasse
                     der Lehrer (Prof.) für das Deutsche einem Schüler es verwiesen habe, seinen
                     Namen auf das <hi rend="ul">deutsche</hi> Aufgabenheft nach slovenischer
-                    Orthographie zu schreiben. Der Direktor hat nun beim <rs type='org' ref='#org_0005'>Ministerium</rs> die ganze
+                    Orthographie zu schreiben. Der Direktor hat nun beim <rs type="org" ref="#org_0005">Ministerium</rs> die ganze
                     Sache anhängig gemacht. So weit die Thatsache; Reflexionen daran zu knüpfen ist
                     unnöthig und zu peinlich; unser Glück ist es, daß wir am Ende des Schuljahrs
                     sind, denn bereits ist es in einer Klasse aus Anlaß dieses Artikels zu

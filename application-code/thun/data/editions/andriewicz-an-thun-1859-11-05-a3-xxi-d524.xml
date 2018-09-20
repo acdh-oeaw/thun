@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -52,7 +53,11 @@
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -116,7 +121,7 @@
                     Kompetenz, kehrte zurück in die Heimath, heirathete, erhielt die Priesterweihe
                     und wurde von der hochwürdigen Diözesanleitung als provisorischer Professor der
                     Pastoraltheologie ernannt und eingeführt, ein Akt, der von dem hohen
-                    Landespräsidium und über die ergriffene Vorstellung auch von dem <rs type='org' ref='#org_0005'>hohen Ministerium</rs>
+                    Landespräsidium und über die ergriffene Vorstellung auch von dem <rs type="org" ref="#org_0005">hohen Ministerium</rs>
                     reprobirt und demnach die Bewilligung des angesprochenen ganzen Gehaltes versagt
                     wurde.<lb/>Um den <rs type="person" ref="#mitrofanowicz-basil">Mitrofanowicz</rs>
                     für den Bezug des verwilligten ganzen Gehaltes zu entschädigen und seine

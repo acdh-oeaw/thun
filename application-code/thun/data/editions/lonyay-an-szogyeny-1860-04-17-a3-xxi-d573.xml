@@ -1,8 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title><rs type="person" ref="lonyay-meinhardt" key="lonyay-meinhardt" role="sender:beamter">Meinhardt
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="lonyay-meinhardt" key="lonyay-meinhardt" role="sender:beamter">Meinhardt
                         Lónyay</rs> an <rs type="person" ref="szoegyeny-marich-ladislaus" key="szoegyeny-marich-ladislaus" role="recipient:beamter">Ladislaus
-                        Szögyeny</rs><lb/><rs type="place" subtype="place">Pest</rs>, <date when="1860-04-17">17. April 1860</date></title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
-                            Tetschen-Bodenbach</institution><repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
-                            Thun</repository><idno>A3 XXI D573</idno></msIdentifier><msContents><p>Meinhardt Lónyay, Unterstaatssekretär im Finanzministerium, setzt sich
+                        Szögyeny</rs>
+                    <lb/>
+                    <rs type="place" subtype="place">Pest</rs>, <date when="1860-04-17">17. April 1860</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D573</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Meinhardt Lónyay, Unterstaatssekretär im Finanzministerium, setzt sich
                             für eine Verständigung zwischen der Regierung und den Protestanten in
                             Ungarn ein. Er, Kolomon Tisza, Nikolaus Vay und andere sind überzeugt,
                             dass ein Ausgleich nur zustande kommen könne, wenn eine
@@ -11,11 +33,36 @@
                             zusammentreten könnten. Dies sei der einzige Weg, um die bestehenden
                             Differenzen zu lösen, so Lónyay.<lb/>In den Depeschen wird über die
                             mögliche Abhaltung der Superintendentialversammlungen und einzuholende
-                            Bewilligung durch den Ministerpräsidenten korrespondiert.</p></msContents><physDesc><p>Eigenhändige Abschrift von Leo Thun.<lb/>Beilagen:<lb/><ref target="#D573_1">Depeschenwechsel zwischen Meinhardt Lónyay und
+                            Bewilligung durch den Ministerpräsidenten korrespondiert.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Eigenhändige Abschrift von Leo Thun.<lb/>Beilagen:<lb/>
+                            <ref target="#D573_1">Depeschenwechsel zwischen Meinhardt Lónyay und
                                 Ladislaus Szögyeny-Marich, 18. April 1860. Abschrift durch Leo
-                                Thun</ref>.<lb/><ref target="#D573_2">Depesche von Meinhardt Lónyay
-                                an Ladislaus Szögeny-Marich, 19. April 1860</ref>.</p></physDesc></msDesc></sourceDesc></fileDesc><revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc></teiHeader><text><body><div type="transcript"><index><term>Kultus</term><term>Protestanten</term></index><p><rs type="person" ref="lonyay-meinhardt" key="lonyay-meinhardt">M[einhardt] v. Lónyay</rs> an <rs type="person" ref="szoegyeny-marich-ladislaus" key="szoegyeny-marich-ladislaus">Szögyinyi</rs>. ohne Datum
-                        (<rs type="place" subtype="place">Pesth</rs> 17. (?) April 1860)</p><p>Heute kam hier <rs type="person" ref="tisza-kolomon" key="tisza-kolomon">Tisza</rs> an. Ich habe mich
+                                Thun</ref>.<lb/>
+                            <ref target="#D573_2">Depesche von Meinhardt Lónyay
+                                an Ladislaus Szögeny-Marich, 19. April 1860</ref>.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Protestanten</term>
+                </index>
+                <p>
+                    <rs type="person" ref="lonyay-meinhardt" key="lonyay-meinhardt">M[einhardt] v. Lónyay</rs> an <rs type="person" ref="szoegyeny-marich-ladislaus" key="szoegyeny-marich-ladislaus">Szögyinyi</rs>. ohne Datum
+                        (<rs type="place" subtype="place">Pesth</rs> 17. (?) April 1860)</p>
+                <p>Heute kam hier <rs type="person" ref="tisza-kolomon" key="tisza-kolomon">Tisza</rs> an. Ich habe mich
                     mit ihm berathen. Wir sind zur Überzeugung gelangt, daß der einzig mögliche Weg
                     zur Schlichtung der bestehenden Differenzen dadurch angebahnt werden könnte,
                     wenn wir in der am 20. dieses Monats in <rs type="place" subtype="place" key="debrezin">Debreczin</rs> abzuhaltenden Superintendentialversammlung die
@@ -36,19 +83,37 @@
                     Superintendentialversammlung die Ernennung der Bevollmächtigten durchführen
                     wollen, würde ich's sehr bedauern, wenn die Versammlung abzuhalten, mit Gewalt
                     verhindert würde, da dadurch der einzige mögliche Weg des Ausgleichs
-                    abgeschnitten wäre. etc.</p><div type="enclosure" xml:id="D573_1"><p><hi rend="ul">telegraphische Depesche von Szögyenyi an Lónyay, 18.
-                        April</hi></p><p>Ich bin ermächtigt zu erklären, daß wenn um die Erlaubnis zur Abhaltung des
+                    abgeschnitten wäre. etc.</p>
+                <div type="enclosure" xml:id="D573_1">
+                    <p>
+                        <hi rend="ul">telegraphische Depesche von Szögyenyi an Lónyay, 18.
+                        April</hi>
+                    </p>
+                    <p>Ich bin ermächtigt zu erklären, daß wenn um die Erlaubnis zur Abhaltung des
                         Superintendentialkonvents in <rs type="place" subtype="place" key="debrezin">Debreczin</rs>
                         zu dem in deinem Briefe von gestern angedeuteten Zwecke in telegraphischem
                         Weg beim <rs type="person" ref="rechberg-rothenloewen-bernhard" key="rechberg-rothenloewen-bernhard">Herrn
                             Ministerpräsidenten</rs> angehalten würde, die Gestattung hiezu
                         keinem Anstande unterliegen werde. Darin[?] von wem diese Bitten ausgingen
-                        und dürften keine Schwierigkeiten gefunden werden.</p><p><hi rend="ul">Antwort am selben Abend</hi><lb/>Depesche erhalten. Morgen
+                        und dürften keine Schwierigkeiten gefunden werden.</p>
+                    <p>
+                        <hi rend="ul">Antwort am selben Abend</hi>
+                        <lb/>Depesche erhalten. Morgen
                         nachmittags um 6 Uhr werde jedenfalls telegraphieren. Ob um die Abhaltung
                         angesucht wird, weiß ich nicht. Dafür aber stehe ich, daß die im Briefe
                         geschriebene Motion gemacht wird. Morgen hoffe ich den günstigen Beschluß
-                        der Vorberathung telegraphisch mitzutheilen.</p></div><div xml:id="D573_2" type="enclosure"><p>Reichsrath Szögyeny Wien, Wollzeile, Federlhof.<lb/>Einzelne fühlen sich
+                        der Vorberathung telegraphisch mitzutheilen.</p>
+                </div>
+                <div xml:id="D573_2" type="enclosure">
+                    <p>Reichsrath Szögyeny Wien, Wollzeile, Federlhof.<lb/>Einzelne fühlen sich
                         nicht berechtigt das Gesuch stellen. Morgen 3 weltliche und drei geistliche
-                        gewählt. <hi rend="ul">Motion</hi><note xml:id="note_1">Anmerkung von fremder Hand: Ich hoffe, die Motion wird
+                        gewählt. <hi rend="ul">Motion</hi>
+                        <note xml:id="note_1">Anmerkung von fremder Hand: Ich hoffe, die Motion wird
                             sich auf Stellung des Ansuchens beziehen.</note> macht <rs type="person" ref="balogh-peter" key="balogh-peter">Balogh</rs>. Ruhe und Ordnung gesicherte[sic!]
-                        brieflich Näheres</p><p>Lonyay</p></div></div></body></text></TEI>
+                        brieflich Näheres</p>
+                    <p>Lonyay</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

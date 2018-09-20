@@ -204,11 +204,13 @@ return
 declare function app:listOrg($node as node(), $model as map(*)) {
     let $hitHtml := "hits.html?searchkey="
     for $org in doc($app:orgIndex)//tei:org
+        let $idno := $org/tei:idno
         return
         <tr>
             <td>
-                {$org/tei:orgName}
+                <a href="{concat($hitHtml,data($org/@xml:id))}">{$org/tei:orgName}</a>
             </td>
+            <td><a href="{$idno}">{$idno}</a></td>
         </tr>
 };
  

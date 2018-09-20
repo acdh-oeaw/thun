@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -66,7 +67,11 @@
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -125,11 +130,11 @@
                     begangene Indiskrezion verzeihen will. Ihr <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#thun/thun-korrespondenz/tetschen/helfert-an-thun_1853-09-29_a3-xxi-d237.xml">gestern erhaltenes Schreiben</tei:ref> besagt aber, daß das nicht mehr
                     geschehen könne etc.; ich kann also allerdings es nur Ihrem Ermessen auf
                     Erwägung vorstehender Bemerkungen zu handeln, wie Sie es für gut und nöthig
-                    erachten. Das <rs type='org' ref='#org_0005'>Ministerium</rs> und die Gymnasialzeitschrift müssen Bundesgenossen
+                    erachten. Das <rs type="org" ref="#org_0005">Ministerium</rs> und die Gymnasialzeitschrift müssen Bundesgenossen
                     sein; dieses Verhältnis allein kann beide trennen, wird es von einer Seite
                     gestört, so muß gleichwohl von beiden Seiten möglichst dahin gestrebt werden es
                     wiederherzustellen, denn gelingt es nicht, so ist es ein großer Schaden für
-                    beide, möglicherweise selbst eine Quelle von Verlegenheiten für das <rs type='org' ref='#org_0005'>Ministerium</rs>, zumal
+                    beide, möglicherweise selbst eine Quelle von Verlegenheiten für das <rs type="org" ref="#org_0005">Ministerium</rs>, zumal
                     wenn der Bruch früher eintritt, als es möglich ist eine Redakzion von der
                     Gesinnung und Gewandheit <rs type="person" ref="#hoefler-karl-adolf-constantin">Höflers</rs>, <rs type="person" ref="#weiss-johann-baptist">Weiß's</rs>,
                     – kurz der historisch-politischen Blätter zusammenzubringen.<lb/>Ich freue mich
@@ -153,7 +158,7 @@
                     die Statthalterei um Bericht anzugehen sein.<lb/>Beiligend nebst einigen
                     Aktenstücken noch eine Eingabe von <rs type="person" ref="#jaksch-anton">Jaksch</rs> gegen Wiederbesetzung der 2. klinischen Professur. Sie
                     enthält viel beachtenswerthes und ich behalte mir auch vor, nach meiner Rückkehr
-                    in das <rs type='org' ref='#org_0005'>Ministerium</rs> einzugehen, vorläufig bitte ich Sie nur an <rs type="person" ref="#mecsery-von-tsoor-karl">Meczery</rs> Weisung geben zu lassen, daß
+                    in das <rs type="org" ref="#org_0005">Ministerium</rs> einzugehen, vorläufig bitte ich Sie nur an <rs type="person" ref="#mecsery-von-tsoor-karl">Meczery</rs> Weisung geben zu lassen, daß
                     wenn der Konkurs nicht schon ausgeschrieben ist, damit einzuhalten sei.</p>
             </div>
         </body>

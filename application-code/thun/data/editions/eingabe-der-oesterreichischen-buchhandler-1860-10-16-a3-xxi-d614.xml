@@ -1,10 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title><rs type="person" ref="lechner-rudolf" key="lechner-rudolf" role="sender">Rudolf Lechner</rs> und
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="lechner-rudolf" key="lechner-rudolf" role="sender">Rudolf Lechner</rs> und
                         <rs type="person" ref="gerold-moritz" key="gerold-moritz" role="sender">Moritz Gerold</rs> an
                         <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun
-                        </rs><lb/><rs type="place" subtype="place">Wien</rs>, <date when="1860-10-16">16.
-                        Oktober 1860</date></title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
-                            Tetschen-Bodenbach</institution><repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
-                            Thun</repository><idno>A3 XXI D614</idno></msIdentifier><msContents><p>Der Verein österreichischer Buchhändler bittet Leo Thun, ein Gesuch an
+                        </rs>
+                    <lb/>
+                    <rs type="place" subtype="place">Wien</rs>, <date when="1860-10-16">16.
+                        Oktober 1860</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D614</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Verein österreichischer Buchhändler bittet Leo Thun, ein Gesuch an
                             Polizeiminister Adolph Thierry zu unterstützen. In diesem fordert der
                             Verein die Aufhebung der Revisionsämter sowie eine Neufassung der
                             Presseordnung mit einer Reform des Zensurwesens und eine Überarbeitung
@@ -16,11 +38,40 @@
                             des Deutschen Bundes nicht vereinbar sei. Die Vertreter des Vereins
                             betonen, dass der österreichische Buchhandel durch das jetzige Gesetz
                             daran gehindert werde, erfolgreich zu arbeiten und damit auch dem Staat
-                            zu dienen.</p></msContents><physDesc><p>Beilage: Gedruckte Petition des Vereins der österreichischen Buchhändler
+                            zu dienen.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Beilage: Gedruckte Petition des Vereins der österreichischen Buchhändler
                             an Polizeiminister Adolph Thierry. Wien, 24. September 1860.<note xml:id="note_1">Die Petition wurde hier nicht
-                            transkribiert.</note></p></physDesc></msDesc></sourceDesc></fileDesc><revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc></teiHeader><text><body><div type="transcript"><index><term>Buchhandel</term><term>Zensur</term></index><p>Euer Excellenz</p><p>Die hohe Wichtigkeit, welche die Auflösung der Revisionsämter für den gesammten
+                            transkribiert.</note>
+                        </p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Buchhandel</term>
+                    <term>Zensur</term>
+                </index>
+                <p>Euer Excellenz</p>
+                <p>Die hohe Wichtigkeit, welche die Auflösung der Revisionsämter für den gesammten
                     Oesterreichischen Buchhandel hat, veranlasst uns Euer Excellenz die Eingabe
                     welche der Verein der oesterreichischen Buchhändler am 13. des Septembers
                     Excellenz dem Herrn <rs type="person" ref="thierry-adolph" key="thierry-adolph">Polizei-Minister</rs>
                     über diese Angelegenheit überreichten zur hohen Kenntnißname mit der Bitte um
-                    gnädige Unterstützung ganz ergebenst vorzulegen.</p><p>Wien, am 16. Oktober 1860</p><p>Rudolf Lechner<lb/>Moritz Gerold</p></div></body></text></TEI>
+                    gnädige Unterstützung ganz ergebenst vorzulegen.</p>
+                <p>Wien, am 16. Oktober 1860</p>
+                <p>Rudolf Lechner<lb/>Moritz Gerold</p>
+            </div>
+        </body>
+    </text>
+</TEI>

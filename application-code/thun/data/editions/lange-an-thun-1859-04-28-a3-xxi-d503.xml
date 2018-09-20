@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -62,7 +63,11 @@
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -203,7 +208,7 @@
                     handelte sich um Interpretation eines ganz deutlichen Ministerialrescripts
                     rücksichtlich der Frage, ob Schleicher oder Höfler alle Candidaten in deutscher
                     Literatur zu examinieren habe. Ich unterstützte Schleicher, der unzweifelhaft
-                    Recht hatte. Dennoch wurde das <rs type='org' ref='#org_0005'>Ministerium</rs> um eine
+                    Recht hatte. Dennoch wurde das <rs type="org" ref="#org_0005">Ministerium</rs> um eine
                     Aufklärung des angeblich dunkeln Passus ersucht, das darauf erfolgende wiederum
                     unzweideutige Ministerialrescript wurde wiederum im Interesse <rs type="person" ref="#hoefler-karl-adolf-constantin">Höflers</rs> mißverstanden; das
                     Protokoll aber der Sitzung vom Juni 1855, welches erst am 21. Nov. [18]55 zur

@@ -1,8 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title><rs type="person" ref="borovich-antonio" key="borovich-antonio" role="sender:kleriker">Antonio
-                        Borovich</rs> an <rs type="person" ref="viale-prela-michele" key="viale-prela-michele" role="recipient">Michele Viale-Prelà</rs><lb/><rs type="place" subtype="place" key="pag">Pag</rs>,
-                        <date when="1856-01-03">3. Januar 1856</date></title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
-                            Tetschen-Bodenbach</institution><repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
-                            Thun</repository><idno>A3 XXI D363</idno></msIdentifier><msContents><p>Der Priester Antonio Borovich beschwert sich beim Erzbischof von Bologna
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="borovich-antonio" key="borovich-antonio" role="sender:kleriker">Antonio
+                        Borovich</rs> an <rs type="person" ref="viale-prela-michele" key="viale-prela-michele" role="recipient">Michele Viale-Prelà</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" key="pag">Pag</rs>,
+                        <date when="1856-01-03">3. Januar 1856</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D363</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Priester Antonio Borovich beschwert sich beim Erzbischof von Bologna
                             und ehemaligen Nuntius in Wien, Michele Viale-Prelà, über die schlechte
                             und würdelose Behandlung seiner Person und bittet um den Beistand des
                             Nuntius. Er wurde von seinem Kooperator Giorgio Zubranich aus
@@ -12,9 +34,32 @@
                             dass er verhaftet worden ist, sondern besonders darüber, wie diese
                             erfolgt ist und dass er – in Ketten gelegt – dem Spott der Bevölkerung
                             ausgesetzt worden war. In dieser Behandlung sieht er eine klare
-                            Verletzung des Konkordats von 1855.</p></msContents><physDesc><p>Italienisch.</p><p>Vgl. dazu auch den Brief: <ref target="thun/thun-korrespondenz/tetschen/godeassi-an-viale-prela_1856-02-22_A3-XXI-D401.xml">Giuseppe Godeassi an Michele Viale-Prelà. Zara, 22. Februar
+                            Verletzung des Konkordats von 1855.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Italienisch.</p>
+                        <p>Vgl. dazu auch den Brief: <ref target="thun/thun-korrespondenz/tetschen/godeassi-an-viale-prela_1856-02-22_A3-XXI-D401.xml">Giuseppe Godeassi an Michele Viale-Prelà. Zara, 22. Februar
                                 1856</ref> und die Beilagen zu diesem Brief. Unter Umständen gehörte
-                            der vorliegende Brief ursprünglich zu diesem Konvolut.</p></physDesc></msDesc></sourceDesc></fileDesc><revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc></teiHeader><text><body><div type="transcript"><index><term>Kultus</term><term>Konkordat</term></index><p>Eminenza Reverendissima!</p><p>Per quanto oppresso da disavventure io divotissimo sottofirmato, tuttavia, pieno
+                            der vorliegende Brief ursprünglich zu diesem Konvolut.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Konkordat</term>
+                </index>
+                <p>Eminenza Reverendissima!</p>
+                <p>Per quanto oppresso da disavventure io divotissimo sottofirmato, tuttavia, pieno
                     di fiducia nelle Benignità e Giustizia di Vostra Eminenza, azzardo ad Essa
                     presentarmi a mezzo di questo umilissimo scritto, e reclamare contro l’ignominia
                     e obbrobrio con cui, nel prossimo passato Decembre, fu esposto alla pubblica
@@ -88,4 +133,10 @@
                     Santa Sede, presso cotesta Imperial Regia Corte, della espressa Contravvenzione
                     alla sempre veneratissima Convenzione sopraccitata fra le due Adorate Supreme
                     Autorità, commessa dal personale dell’imperial regia Pretora di Pago, reclamo
-                    sommessamente Giustizia per l’oltraggiato carattere di cui sono rinvestito.</p><p>Don Antonio Borovich</p><p>Pago li 3. Gennaio 1856</p></div></body></text></TEI>
+                    sommessamente Giustizia per l’oltraggiato carattere di cui sono rinvestito.</p>
+                <p>Don Antonio Borovich</p>
+                <p>Pago li 3. Gennaio 1856</p>
+            </div>
+        </body>
+    </text>
+</TEI>

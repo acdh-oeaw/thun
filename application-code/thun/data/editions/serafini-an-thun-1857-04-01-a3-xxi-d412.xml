@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -68,7 +69,11 @@
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -317,7 +322,7 @@
                     zu viel sind, so wäre es andererseits sehr wünschenswerth, daß man in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> das Ganze nicht mit <hi rend="ul">einem</hi> Jahre abfertige. Da ich über diesen Punkt sehr ausführlich dem
                     Herrn Ministerialrathe von <rs type="person" ref="#tomaschek-eduard">Tomaschek</rs>
                     geschrieben, so halte ich es für überflüßig, noch ein Mal die Geduld des hohen
-                        <rs type='org' ref='#org_0005'>Ministeriums</rs>
+                        <rs type="org" ref="#org_0005">Ministeriums</rs>
                     in Anspruch zu nehmen. Nur wiederhohle ich den schon ausgesprochenen Gedanken,
                     daß es gewiß nützlich wäre, wenn man im ersten Jahre Institutionen und
                     Geschichte und im zweiten Jahre Pandekten vortragen würde. Gott gebe es, daß

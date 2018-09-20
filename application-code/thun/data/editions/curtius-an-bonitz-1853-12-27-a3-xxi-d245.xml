@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -55,7 +56,11 @@
                 </correspAction>
             </correspDesc>
         </profileDesc>
-        <revisionDesc><list><item>approved by Mazohl</item></list></revisionDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
@@ -109,7 +114,7 @@
                     bemerkbar machen wird, die keine Schuld daran haben! Ich stehe mit dieser
                     Auffassung nicht allein da, <rs type="person" ref="#hoefler-karl-adolf-constantin">Höfler</rs> z. B. theilt sie ganz, und <rs type="person" ref="#chambon-eduard">Chambon</rs>, der mit den besten Hoffnungen herkam, ist schon völlig
                     umgestimmt. Er wird gewiß, wie <rs type="person" ref="#schwanert-hermann">Schwanert</rs>, die erste Gelegenheit benützen fortzukommen. Helfen
-                    könnte allein ein entschiedenes und kräftiges Wort von Seiten des <rs type='org' ref='#org_0005'>Ministeriums</rs>.</p>
+                    könnte allein ein entschiedenes und kräftiges Wort von Seiten des <rs type="org" ref="#org_0005">Ministeriums</rs>.</p>
                 <p>Prag, 27. Dezember 1853</p>
             </div>
         </body>
