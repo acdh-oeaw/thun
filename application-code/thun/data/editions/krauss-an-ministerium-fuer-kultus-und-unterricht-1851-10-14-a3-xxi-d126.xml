@@ -5,7 +5,7 @@
             <titleStmt>
                 <title>
                     <rs type="person" ref="#krauss-josef" role="sender:gelehrter">Josef Krauss</rs>
-                    an das <orgName role="recipient">Ministerium für Kultus und Unterricht</orgName>
+                    an das <rs type="org" ref="#org_0005" role="recipient">Ministerium für Kultus und Unterricht</rs>
                     <lb/>
                     <rs type="place" subtype="place" ref="#place_c7653461ad2c9c2939e47b428b1cb1b2">Hünfeld</rs>, <date when="1851-10-14">14. Oktober
                         1851</date>
@@ -82,12 +82,12 @@
                 <p>Kaiserliches Königliches Hohes Ministerium des Cultus!</p>
                 <p>Der unterzeichnete <rs type="person" ref="#krauss-josef">Dr. Joseph Krauss</rs> in
                         <rs type="place" subtype="place" ref="#place_6c1def5820cdde63de0c38dd673de4d6">Bonn</rs> bittet unterthänigst um eine außerordentliche
-                    Professur der klassischen Litteratur an der <orgName>Universität Wien</orgName>.</p>
-                <p>Da bei der Reorganisation der <orgName>Universität
-                        Wien</orgName> die kritisch-grammatische Seite der Philologie, von der ganz
+                    Professur der klassischen Litteratur an der <rs type="org" ref="#org_0018">Universität Wien</rs>.</p>
+                <p>Da bei der Reorganisation der <rs type="org" ref="#org_0018">Universität
+                        Wien</rs> die kritisch-grammatische Seite der Philologie, von der ganz
                     vorzüglich die Blüthe der Gymnasien abhängt, bis jetzt durch keine geeignete
                     Persönlichkeit vertreten ist, so bitte ich ganz unterthänigst um eine
-                    außerordentliche Professur der klassischen Litteratur an derselben <orgName>Universität</orgName> unter Hinweisung auf die im
+                    außerordentliche Professur der klassischen Litteratur an derselben <rs type="org" ref="#org_0018">Universität</rs> unter Hinweisung auf die im
                         <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d126_1">anliegenden Promemoria</tei:ref> in den flüchtigsten
                     Skizzen entworfenen Grundsätze.<lb/>Griechische und römische Dichter, antike
                     Metrik, griechische und lateinische Grammatik, Encyklopädie, Kritik und
@@ -103,7 +103,7 @@
                 <div type="enclosure" xml:id="D126_1">
                     <p>Unterthänigstes Promemoria zum Gesuche des <rs type="person" ref="#krauss-josef">Dr.
                             phil. Joseph Krauss</rs> in <rs type="place" subtype="place" ref="#place_6c1def5820cdde63de0c38dd673de4d6">Bonn</rs> um eine
-                        außerordentliche Professur der klassischen Litteratur an der <orgName>Universität Wien</orgName>
+                        außerordentliche Professur der klassischen Litteratur an der <rs type="org" ref="#org_0018">Universität Wien</rs>
                     </p>
                     <p>Wenn ich, ein Unbekannter, es wage, Euer Excellenz mein Anliegen vorzutragen,
                         so bewegt mich dazu einerseits der Wunsch, mir selbst eine passende Laufbahn
@@ -135,7 +135,7 @@
                         gibt.<lb/>Als am Ende des vorigen Jahrhunderts die Seichtigkeit und
                         Plattheit französischer Philosophen alle Zweige der historischen
                         Wissenschaft dergestalt unterwühlt hatte, daß an einer Heilung gradezu
-                        verzweifelte, war es der große Philolog <rs type="person" ref="#hermann-gottfried">Gottfried Hermann</rs> in <orgName>Leipzig</orgName>, der zuerst und vor allem auf die Quellen der
+                        verzweifelte, war es der große Philolog <rs type="person" ref="#hermann-gottfried">Gottfried Hermann</rs> in <rs type="org" ref="#org_0037">Leipzig</rs>, der zuerst und vor allem auf die Quellen der
                         Überlieferung hinwies, die Wahrheit vom Truge wieder unterscheiden lehrte
                         und beim Mangel unbedingter Evidenz auf die Grade der Probabilität
                         aufmerksam machte, der an grammatisch-kritischen Stoffen die Denkkraft
@@ -159,8 +159,8 @@
                         nach ihrer Richtung eine kritisch-grammatische zu nennen pflegt. Nicht
                         scharf genug kann ich diese Wahrheit hervorheben. Schon zu <rs type="person" ref="#hermann-gottfried">Hermanns</rs> Zeiten und noch heute sitzen
                         auf den Lehrstühlen der deutschen Universitäten ausgezeichnete Philologen:
-                            <rs type="person" ref="#boeckh-august">Böckh</rs> in <orgName>Berlin</orgName>, <rs type="person" ref="#lobeck-christian">Lobeck</rs> in <orgName>Königsberg</orgName>, <rs type="person" ref="#bernhardy-gottfried">Bernhardy</rs> in <orgName>Halle</orgName>, <rs type="person" ref="#hermann-karl-friedrich">K[arl] Friedr[ich] Hermann</rs> in
-                            <orgName>Göttingen</orgName>, aber die
+                        <rs type="person" ref="#boeckh-august">Böckh</rs> in <rs type="org" ref="#org_0027">Berlin</rs>, <rs type="person" ref="#lobeck-christian">Lobeck</rs> in <rs type="org" ref="#org_0038">Königsberg</rs>, <rs type="person" ref="#bernhardy-gottfried">Bernhardy</rs> in <rs type="org" ref="#org_0042">Halle</rs>, <rs type="person" ref="#hermann-karl-friedrich">K[arl] Friedr[ich] Hermann</rs> in
+                        <rs type="org" ref="#org_0039">Göttingen</rs>, aber die
                         Schüler, die sie bilden, ohne ihnen im Entferntesten die Tüchtigkeit
                         absprechen zu wollen, sind doch keineswegs diejenigen, welche die Blüthe der
                         Gymnasien begründen, die Masse der Einzelheiten, die Fülle der Erudition
@@ -184,9 +184,9 @@
                         zur Heranbildung methodisch tüchtiger Lehrer muß eine Universität zum
                         wenigsten <hi rend="ul">einen</hi> Professor aufweisen können, der seine
                         Richtung mit Gründlichkeit und Schärfe vertritt, der im vollen Besitze der
-                        Methode ist, die man sich heutzutage einzig und allein in <orgName>
+                        Methode ist, die man sich heutzutage einzig und allein in <rs type="org" ref="#org_0040">
                             <hi rend="ul">Bonn</hi>
-                        </orgName> erwerben
+                        </rs> erwerben
                             kann.<note xml:id="note_1">Am Rand von anderer Hand ein Fragezeichen
                             vermerkt.</note>
                         <lb/>Erfüllt er dann auch den zweiten Punkt, bildet er
@@ -212,7 +212,7 @@
                         beiliegenden Zeugnisse seines unvergeßlichen Lehrers.<note xml:id="note_2">Die Zeugnisse liegen nicht bei.</note> Über den bisherigen Gang seiner
                         Studien erlaubt er sich nachfolgende Notizzen anzuführen.<lb/>Kurz nach
                         Ostern des Jahres 1847 begab ich mich mit dem Zeugnisse der Reife auf die
-                            <orgName>Universität Marburg</orgName>, wo
+                        <rs type="org" ref="#org_0041">Universität Marburg</rs>, wo
                         namentlich <rs type="person" ref="#bergk-wilhelm">Prof. Bergk</rs>, ein
                         tüchtiger Schüler <rs type="person" ref="#hermann-gottfried">Gottfried
                             Hermanns</rs> die Hauptseiten der Philologie vertritt. Aber
@@ -220,7 +220,7 @@
                         einer tüchtigen Methode ist, so vermag er doch keineswegs seine Schüler
                         ebenfalls methodisch heranzubilden, statt selbstständiger Forschung herrscht
                         daselbst eine geistlose Compilation weitschüssiger Commentare. Auf <rs type="person" ref="#bergk-wilhelm">Bergks</rs> eigenen Rath wanderte ich daher zu
-                        dem ersten Philologen unserer Zeit, zu <rs type="person" ref="#ritschl-friedrich-wilhelm">Friedrich Ritschl</rs> in <orgName>Bonn</orgName>. Hier wurde mir der ungeheure
+                        dem ersten Philologen unserer Zeit, zu <rs type="person" ref="#ritschl-friedrich-wilhelm">Friedrich Ritschl</rs> in <rs type="org" ref="#org_0040">Bonn</rs>. Hier wurde mir der ungeheure
                         Unterschied klar zwischen den früheren Collegien und denen, wo man das Beste
                         gibt, was die Wissenschaft bisher zu leisten im Stande war; hier erst lernte
                         ich den Weg der Forschung, den Weg, wie ich selber dahin gelangen konnte, wo
