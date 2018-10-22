@@ -119,7 +119,11 @@
                         <orgName>Wiener Universität</orgName>
                         <idno type="URL" subtype="GND">http://d-nb.info/gnd/2024703-5</idno>
                     </org>
-                    <!-- <org xml:id="org_0019"> </org>-->
+                    <org xml:id="org_0019">
+                        <orgName>Akademie der bildenden Künste Mailand</orgName>
+                        <orgName type="alt">Mailänder Academie</orgName>
+                        <idno type="URL" subtype="GND"></idno>
+                    </org>
                     <org xml:id="org_0020">
                         <orgName>Innspruker Universität</orgName>
                         <orgName type="alt">Innsbrucker Universität</orgName>
@@ -413,6 +417,14 @@
                     <org xml:id="org_0088">
                         <orgName>chirurgische Lehranstalt Insbruck</orgName>
                         <idno type="URL" subtype="GND"></idno>
+                    </org>
+                    <org xml:id="org_0089">
+                        <orgName>Akademie der bildenden Künste Venedig</orgName>
+                        <idno type="URL" subtype="GND"></idno>
+                    </org>
+                    <org xml:id="org_0090">
+                        <orgName>Priesterbildungs-Institut zum hl. Augustin</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/400016-X</idno>
                     </org>
                 </listOrg>
             </div>
