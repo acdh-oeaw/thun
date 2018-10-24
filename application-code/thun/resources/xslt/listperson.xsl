@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns="http://www.w3.org/1999/xhtml" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="tei" version="2.0">
     <xsl:param name="entiyID"/>
+    <xsl:variable name="selflink">
+        <xsl:value-of select="string-join(('../../../../exist/restxq/thun-korrespondenz/api/entities', $entiyID), '/')"/>
+    </xsl:variable>
+    <xsl:variable name="mentions">
+        <xsl:value-of select="string-join(('hits.html?searchkey', $entiyID), '=')"/>
+    </xsl:variable>
     <xsl:template match="/"><!--        http://digital-archiv.at:8081/exist/apps/aratea-online/pages/show.html?document=listWork.xml&directory=indices&stylesheet=listWork.xsl&work=hansi--><!-- Modal -->
         <div class="modal" id="myModal" role="dialog">
             <div class="modal-dialog"><!-- Modal content-->
@@ -54,6 +60,8 @@
                                 </td>
                             </tr>
                         </table>
+                        <a href="{$selflink}" class="btn btn-info" role="button">TEI</a>
+                        <a href="{$mentions}" class="btn btn-info" role="button">weitere Erwähnungen</a>
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
