@@ -21,7 +21,7 @@
     <text>
         <body>
             <div type="index_orgs">
-                <listOrg>
+                <listOrg xml:id="listorg">
                     <org xml:id="org_0001">
                         <orgName>Rechtsakademie Hermannstadt</orgName>
                         <idno type="URL" subtype="GND">http://d-nb.info/gnd/5029374-6</idno>
@@ -95,7 +95,7 @@
                     </org>
                     <org xml:id="org_0019">
                         <orgName>Akademie der bildenden Künste Mailand</orgName>
-                        <idno type="URL" subtype="GND"></idno>
+                        <idno type="URL" subtype="GND"/>
                     </org>
                     <org xml:id="org_0020">
                         <orgName>Universität Innsbruck</orgName>
@@ -115,7 +115,7 @@
                     </org>
                     <org xml:id="org_0024">
                         <orgName>Warschauer Realgymnasium</orgName>
-                        <idno type="URL" subtype="GND"></idno>
+                        <idno type="URL" subtype="GND"/>
                     </org>
                     <org xml:id="org_0025">
                         <orgName>Universität Heidelberg</orgName>
@@ -158,7 +158,8 @@
                         <idno type="URL" subtype="GND">http://d-nb.info/gnd/36154-9</idno>
                     </org>
                     <org xml:id="org_0035">
-                        <orgName>k.k. protestantisch-theologische Lehranstalt der <rs type="org" ref="#org_0018">Universität Wien</rs></orgName>
+                        <orgName>k.k. protestantisch-theologische Lehranstalt der <rs type="org" ref="#org_0018">Universität Wien</rs>
+                        </orgName>
                         <idno type="URL" subtype="GND">http://d-nb.info/gnd/1700272-2</idno>
                     </org>
                     <org xml:id="org_0036">
@@ -259,7 +260,7 @@
                     </org>
                     <org xml:id="org_0060">
                         <orgName>Abazia di S. Barbara in Mantova</orgName>
-                        <idno type="URL" subtype="GND"></idno>
+                        <idno type="URL" subtype="GND"/>
                     </org>
                     <org xml:id="org_0061">
                         <orgName>Polytechnikum Wien</orgName>
@@ -299,11 +300,11 @@
                     </org>
                     <org xml:id="org_0070">
                         <orgName>Verein zur Beförderung der Tonkunst (in Böhmen)</orgName>
-                        <idno type="URL" subtype="GND"></idno>
+                        <idno type="URL" subtype="GND"/>
                     </org>
                     <org xml:id="org_0071">
                         <orgName>Seminario Principesco Vescovile</orgName>
-                        <idno type="URL" subtype="GND"></idno>
+                        <idno type="URL" subtype="GND"/>
                     </org>
                     <org xml:id="org_0072">
                         <orgName>Deutscher Bund</orgName>
@@ -327,7 +328,7 @@
                     </org>
                     <org xml:id="org_0077">
                         <orgName>Medizinisch-chirurgische Lehranstalt Salzburg</orgName>
-                        <idno type="URL" subtype="GND"></idno>
+                        <idno type="URL" subtype="GND"/>
                     </org>
                     <org xml:id="org_0078">
                         <orgName>Akademisches Gymnasium Wien</orgName>
@@ -335,7 +336,7 @@
                     </org>
                     <org xml:id="org_0079">
                         <orgName>Kaisertum Österreich</orgName>
-                        <idno type="URL" subtype="GND"></idno>
+                        <idno type="URL" subtype="GND"/>
                     </org>
                     <org xml:id="org_0080">
                         <orgName>Lyzeum Rastatt</orgName>
@@ -355,27 +356,27 @@
                     </org>
                     <org xml:id="org_0084">
                         <orgName>Universität Löwen</orgName>
-                        <idno type="URL" subtype="GND"></idno>
+                        <idno type="URL" subtype="GND"/>
                     </org>
                     <org xml:id="org_0085">
                         <orgName>chirurgische Lehranstalt Lemberg</orgName>
-                        <idno type="URL" subtype="GND"></idno>
+                        <idno type="URL" subtype="GND"/>
                     </org>
                     <org xml:id="org_0086">
                         <orgName>chirurgische Lehranstalt Olmütz</orgName>
-                        <idno type="URL" subtype="GND"></idno>
+                        <idno type="URL" subtype="GND"/>
                     </org>
                     <org xml:id="org_0087">
                         <orgName>chirurgische Lehranstalt Gratz</orgName>
-                        <idno type="URL" subtype="GND"></idno>
+                        <idno type="URL" subtype="GND"/>
                     </org>
                     <org xml:id="org_0088">
                         <orgName>chirurgische Lehranstalt Innsbruck</orgName>
-                        <idno type="URL" subtype="GND"></idno>
+                        <idno type="URL" subtype="GND"/>
                     </org>
                     <org xml:id="org_0089">
                         <orgName>Akademie der bildenden Künste Venedig</orgName>
-                        <idno type="URL" subtype="GND"></idno>
+                        <idno type="URL" subtype="GND"/>
                     </org>
                     <org xml:id="org_0090">
                         <orgName>k.k. Priesterbildungs-Institut zum hl. Augustin</orgName>
@@ -391,11 +392,11 @@
                     </org>
                     <org xml:id="org_0094">
                         <orgName>Dominikaner Lyzeum Lemberg</orgName>
-                        <idno type="URL" subtype="GND"></idno>
+                        <idno type="URL" subtype="GND"/>
                     </org>
                     <org xml:id="org_0095">
                         <orgName>Bernardiner Lycäum Lemberg</orgName>
-                        <idno type="URL" subtype="GND"></idno>
+                        <idno type="URL" subtype="GND"/>
                     </org>
                     <org xml:id="org_0096">
                         <orgName>Technische Akademie Lemberg</orgName>
@@ -415,11 +416,11 @@
                     </org>
                     <org xml:id="org_0100">
                         <orgName>Lyzeum Salzburg</orgName>
-                        <idno type="URL" subtype="GND"></idno>
+                        <idno type="URL" subtype="GND"/>
                     </org>
                     <org xml:id="org_0101">
                         <orgName>Gymnasium Neusatz</orgName>
-                        <idno type="URL" subtype="GND"></idno>
+                        <idno type="URL" subtype="GND"/>
                     </org>
                     <org xml:id="org_0102">
                         <orgName>Cisterzienserstift Engelszell</orgName>
@@ -427,7 +428,7 @@
                     </org>
                     <org xml:id="org_0103">
                         <orgName>Gustav-Adolph-Verein</orgName>
-                        <idno type="URL" subtype="GND"></idno>
+                        <idno type="URL" subtype="GND"/>
                     </org>
                     <org xml:id="org_0104">
                         <orgName>Stift Schlägl</orgName>
@@ -435,7 +436,7 @@
                     </org>
                     <org xml:id="org_0105">
                         <orgName>katholisch-theologische Akademie in Münster</orgName>
-                         <idno type="URL" subtype="GND"></idno>
+                         <idno type="URL" subtype="GND"/>
                     </org>
                     <org xml:id="org_0106">
                         <orgName>Stift Wilten</orgName>

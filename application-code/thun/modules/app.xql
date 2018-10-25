@@ -1,4 +1,4 @@
-xquery version "3.0";
+xquery version "3.1";
 module namespace app="http://www.digital-archiv.at/ns/thun/templates";
 declare namespace tei="http://www.tei-c.org/ns/1.0";
 declare namespace functx = 'http://www.functx.com';
@@ -6,6 +6,7 @@ import module namespace templates="http://exist-db.org/xquery/templates" ;
 import module namespace config="http://www.digital-archiv.at/ns/thun/config" at "config.xqm";
 import module namespace kwic = "http://exist-db.org/xquery/kwic" at "resource:org/exist/xquery/lib/kwic.xql";
 
+declare variable $app:data := $config:app-root||'/data';
 declare variable  $app:editions := $config:app-root||'/data/editions';
 declare variable  $app:indices := $config:app-root||'/data/indices';
 declare variable $app:placeIndex := $config:app-root||'/data/indices/listplace.xml';
@@ -326,7 +327,7 @@ let $xml := doc(replace(concat($config:app-root,'/data/', $xmlPath, $ref), '/exi
 let $xslPath := concat(xs:string(request:get-parameter("stylesheet", "xmlToHtml")), '.xsl')
 let $xsl := doc(replace(concat($config:app-root,'/resources/xslt/', $xslPath), '/exist/', '/db/'))
 let $collection := functx:substring-after-last(util:collection-name($xml), '/')
-let $path2source := string-join(('../../../../exist/restxq', $config:app-name, $collection, $ref, 'xml'), '/')
+let $path2source := string-join(('../../../../exist/restxq', 'thun-korrespondenz/api/collections', $collection, $ref), '/')
 let $params := 
 <parameters>
     <param name="app-name" value="{$config:app-name}"/>
