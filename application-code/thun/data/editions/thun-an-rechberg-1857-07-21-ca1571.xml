@@ -4,11 +4,11 @@
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="thun-hohenstein-leo" key="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
-                        <rs type="person" ref="rechberg-bernhard" key="rechberg-bernhard" role="recipient">Bernhard
+                    <rs type="person" ref="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="rechberg-bernhard" role="recipient">Bernhard
                         Rechberg</rs>
                     <lb/>
-                    <rs type="place" subtype="place">Wien</rs>, <date when="1857-07-21">21. Juli 1857</date>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1857-07-21">21. Juli 1857</date>
                 </title>
             </titleStmt>
             <publicationStmt>
@@ -54,10 +54,10 @@
                 </index>
                 <p>Wien, den 21. Juli 857</p>
                 <p>Lieber Freund!</p>
-                <p>Nach Empfang Ihres ersten Briefes schrieb ich <rs type="person" ref="rechberg-alois" key="rechberg-alois">Ihrem Sohne</rs>, wenn er aus gehen dürfe, so wolle er zu mir kommen,
+                <p>Nach Empfang Ihres ersten Briefes schrieb ich <rs type="person" ref="rechberg-alois">Ihrem Sohne</rs>, wenn er aus gehen dürfe, so wolle er zu mir kommen,
                     widrigenfalls würde ich zu ihm kommen. Ich erhielt die Antwort, er sei nicht zu
                     Hause, und werde erst Abend erwartet. Ich schrieb ihm also einen zweiten Zettel,
-                    er wolle den andern Tag zu mir nach <rs type="place" subtype="place">Hetzendorf</rs>
+                    er wolle den andern Tag zu mir nach <rs type="place" subtype="place" ref="#place_e3a1571b9091d6d78548ad3b4b159d11">Hetzendorf</rs>
                     kommen.<lb/>Wir hatten eine lange Unterredung. Ich both meine schwache
                     Beredsamkeit auf, um ihn zu bewegen, daß er sofort seine Wohnung verlaße, es in
                     einem Hause in der Nähe der Stadt in Gesellschaft eines Korepetitors, den ich
@@ -79,7 +79,7 @@
                     erhoben. Er werde mir demnächst vorlegen, wie es mit dem Geld stehe. Tags darauf
                     bekam ich einen Brief, der Arzt habe ihm verordnet einige Zeit nicht auszugehen.
                     In 14 Tagen hätte er mit seiner Kur fertig zu sein, und bitte um Erlaubnis dann
-                    zu Ihnen zu reisen. Ich habe inzwischen mit seinem Arzt <rs type="person" ref="sigmund-karl-ludwig" key="sigmund-karl-ludwig">Dr. Sigmund</rs> gesprochen. Er sagt mir
+                    zu Ihnen zu reisen. Ich habe inzwischen mit seinem Arzt <rs type="person" ref="sigmund-karl-ludwig">Dr. Sigmund</rs> gesprochen. Er sagt mir
                     sein Übel sei noch nicht von Bedeutung. Doch habe sich ein Geschwürchen
                     gebildet, das eine kleine Operazion bedürfe und deswegen müsse er einige Tage zu
                     Hause bleiben.<lb/>Sehr beschäftigt, weil mein Unterstaatssekretär verreist ist,
