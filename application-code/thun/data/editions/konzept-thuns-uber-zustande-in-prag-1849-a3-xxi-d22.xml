@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>diktiertes Konzept von Leo Thun<lb/> o. O., o. D. <date when="1849">[1849]</date>
                 </title>
-                <author key="thun-hohenstein-leo">Leo Thun</author>
+                <author>Leo Thun</author>
             </titleStmt>
             <publicationStmt>
                 <p/>
@@ -58,7 +57,7 @@
                     <term>Revolution</term>
                     <term>Prag</term>
                 </index>
-                <p>&lt;Handschrift des Gubernialconcipisten <rs type="person" ref="altmann-adolf">
+                <p>&lt;Handschrift des Gubernialconcipisten <rs type="person" ref="#altmann-adolf">
                         <hi rend="ul">Altmann</hi>
                     </rs> (nachher im Ministerium für Cultus und
                     Unterricht) ohne Zweifel von Thun ihm in die Feder diktirt.&gt;<note xml:id="note_1">Hinzufügung durch fremde Hand</note>
@@ -66,7 +65,7 @@
                 <p>In der Darstellung ist die Periode von der Petizionserledigung, 8.<note xml:id="note_2">korrigiert aus 11.</note>Aprill<note xml:id="note_3">Anmerkung Thuns: Merz?</note>bis zu meinem Antritte des Gubernialpräsidiums
                         (<date when="1848-05-01">1. May</date>) übersprungen. Und doch war sie die
                         entscheidende.<lb/>
-                    <rs type="person" ref="stadion-franz">Graf Stadion</rs>,
+                    <rs type="person" ref="#stadion-franz">Graf Stadion</rs>,
                     der von einer bewaffneten Rotte, die das Gubernialgebäude besetzt hatte,
                     gezwungen worden war zu unterschreiben, jene Petizion enthalte die Wünsche des
                     Landes, gab von dem Augenblicke an alles preis. Mit eilfertiger Überstürzung
@@ -75,10 +74,10 @@
                     Bestrebungen wurden. In der Nazionalgarde, die sich ohne allen Einfluß der
                     Behörden bildete, entstanden abgesonderte Corps, darunter die Swornost.<lb/> Zur
                     Berathung von Vorlagen für den Landtag waren anfangs zweckmäßig zusammengesetzte
-                    Comité‘s gebildet worden; <rs type="person" ref="stadion-franz">Graf Stadion</rs>
+                    Comité‘s gebildet worden; <rs type="person" ref="#stadion-franz">Graf Stadion</rs>
                     ließ sich herbei sie mit dem Wenzlscomité zu dem „Nazionalausschuße“ zu
                     verschmelzen, einer sich durch eigene Wahl vermehrenden, öffentlich
-                    verhandelnden, durch gar keine Bestimmung geregelten Versammlung, der <rs type="person" ref="stadion-franz">Graf Stadion</rs> vorsaß, ohne irgend einen
+                    verhandelnden, durch gar keine Bestimmung geregelten Versammlung, der <rs type="person" ref="#stadion-franz">Graf Stadion</rs> vorsaß, ohne irgend einen
                     Einfluß auf ihren Gang zu nehmen.<lb/>Durch ihn hatte die Parthei des
                     Wenzlscomité der Regierung auch die Initiative in der Landesgesetzgebung
                     entzogen, während sie weit davon entfernt die Vorbereitung gründlicher Vorlagen
@@ -118,16 +117,16 @@
                     vorläufigen a. h. Genehmigung seiner Einsetzung abhängig machte, daß er mich in
                     meinem Wirkungskreise nicht beirren konnte, und auch wirklich ganz thatenlos
                     geblieben ist.<lb/>Ich hatte damit über die Partheiführer, deren einer sich an
-                    den <rs type="person" ref="ferdinand-I-oesterreich">Kaiser</rs> nach <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Inspruk</rs> absenden ließ, um die a. h. Genehmigung
+                    den <rs type="person" ref="#ferdinand-I-oesterreich">Kaiser</rs> nach <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Inspruk</rs> absenden ließ, um die a. h. Genehmigung
                     zu erbitten, gesiegt. Allmählich gelangten sie zu der Einsicht, darum war es
                     beim Ausbruche der Empörung auf meine Gefangennehmung abgesehen. Über den
-                    Verlauf der Junyereignisse geben meine Beweise an Herrn <rs type="person" ref="slawik-johann">Slawik</rs> vollen Aufschluß.<lb/>
+                    Verlauf der Junyereignisse geben meine Beweise an Herrn <rs type="person" ref="#slawik-johann">Slawik</rs> vollen Aufschluß.<lb/>
                     <note xml:id="note_4">Vgl. Leo Thun, Offenes Schreiben des Grafen Leo Thun an den
                         Prager Bürger Johann Slawik in Betreff der Ereignisse in der Pfingstwoche
                         1848 zu Prag, Prag 1849.</note>
-                    <rs type="person" ref="windisch-graetz-alfred">Windischgrätz</rs> bezwang die Stadt trotz der von der Hofkommission
+                    <rs type="person" ref="#windisch-graetz-alfred">Windischgrätz</rs> bezwang die Stadt trotz der von der Hofkommission
                     verkündigten Konzessionen, weil sie nur verkündigt, aber nicht gemacht waren,
-                        <rs type="person" ref="mensdorff-pouilly-emmanuel">Mensdorff</rs> einsah, daß
+                        <rs type="person" ref="#mensdorff-pouilly-emmanuel">Mensdorff</rs> einsah, daß
                     er das Commando der Truppen nicht übernehmen könne, – und als sofort zum
                     Bombardement geschritten wurde, die Empörer erkannten, daß jetzt keine
                     Nachgiebigkeit mehr zu hoffen sei.</p>

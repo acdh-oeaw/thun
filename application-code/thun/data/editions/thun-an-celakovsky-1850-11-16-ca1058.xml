@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>
-                    <rs type="person" ref="thun-hohenstein-leo" role="sender">Leo Thun</rs> an
-                        <rs type="person" ref="celakovsky-frantisek-ladislav" role="recipient">Frantisek
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#celakovsky-frantisek-ladislav" role="recipient">Frantisek
                         Ladislaus Čelakovšký</rs>
                     <lb/>
                     <rs type="place" subtype="place">Wien</rs>, <date when="1850-07-05">5. Juli 1850</date>
@@ -85,7 +84,7 @@
                     böhmischen Unterrichtes nicht ermangeln, diese Verstöße auszubeuten, gegen Sie
                     wie gegen das Ministerium.<lb/>Ich lasse nun das Buch einer neuerlichen Prüfung
                     unterziehen, habe es für <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> sogleich für
-                    unzulässig erklärt und lasse <rs type="person" ref="tempsky-friedrich">Tempsky</rs> auffordern mit dem Verkaufe einzuhalten, in der
+                    unzulässig erklärt und lasse <rs type="person" ref="#tempsky-friedrich">Tempsky</rs> auffordern mit dem Verkaufe einzuhalten, in der
                     Hoffnung, daß sich mit dem Umdrucke einiger Bogen helfen lassen werde.<lb/>Ich
                     ersuche Sie angelegentlichst um größere Vorsicht bei der Bearbeitung der
                     weiteren Bände, und muß mir jedenfalls deren Revision vor der Herausgabe
