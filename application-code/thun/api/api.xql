@@ -199,7 +199,9 @@ function api:api-about($format as xs:string*, $pageNumber as xs:integer*, $pageS
                     <type>{name($x)}</type>
                     <id>{$id}</id>
                     <attributes>
-                        <title>{$title}</title>
+                        <title>{$title/text()}</title>
+                        <description>{$x/description/text()}</description>
+                        <group>{$x/group/text()}</group>
                     </attributes>
                     <links>
                         <self>
