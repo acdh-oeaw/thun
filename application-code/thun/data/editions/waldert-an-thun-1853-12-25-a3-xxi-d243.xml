@@ -135,5 +135,125 @@
                 <p>Görkau, am Heiligen Weihnachtsfeste 1853</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="waldert-anton">
+                        <persName>
+                            <surname>Waldert</surname>
+                            <forename>Anton</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Pater und Kaplan in Görkau</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="weber">
+                        <persName>
+                            <surname>Weber</surname>
+                            <forename>Wenzel</forename>
+                        </persName>
+                        <note>
+                            <p>Dreihacken 1825–1888 Hohenelbe</p>
+                            <p>Priester und Gymnasiallehrer, zunächst Supplent am Gymnasium in Kaschau und Exhortator an der Rechtsakademie ebendort, 1858–1865 Direktor, ab 1865 Stadtdechant von Hohenelbe</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="michl">
+                        <persName>
+                            <surname>Michl</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Pater</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="maresch-johann">
+                        <persName>
+                            <surname>Maresch</surname>
+                            <forename>Johann</forename>
+                        </persName>
+                        <note>
+                            <p>Leitmeritz 1806–1879 Prag</p>
+                            <p>Priester, 1850–1875 Schulrat für Böhmen</p>
+                            <p>http://d-nb.info/gnd/116769041</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116769041</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_6f7cc055d11cf2cbbaa605d5449eb44c">
+                        <placeName>Jirkov</placeName>
+                        <placeName type="pref">goerkau</placeName>
+                        <placeName type="alt">Görkau</placeName>
+                        <placeName type="alt">Görgau</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.49979 13.44769</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3074110/</idno>
+                    </place>
+                <place xml:id="place_867b530d8072e0e4d907aa82937d3e01" type="placeName">
+                        <placeName type="pref">Böhmen</placeName>
+                        <location>
+                            <geo decls="#LatLng">50 14.5</geo>
+                        </location>
+                        <idno>http://www.geonames.org/3078198</idno>
+                    </place>
+                <place xml:id="place_c0c864044f97c6e7d7af03ea5a182d70">
+                        <placeName>Eger</placeName>
+                        <placeName type="alt">Erlauer</placeName>
+                        <placeName type="alt">Erlau</placeName>
+                        <placeName type="alt">Egener</placeName>
+                        <placeName type="alt">Egerer</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.90265 20.37329</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/721239/</idno>
+                    </place>
+                <place xml:id="place_da90eb3328276934d8dbcbbff3aba4ee">
+                        <placeName>Tetschen [Děčín]</placeName>
+                        <placeName type="alt">Tetschen</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.78215 14.21478</geo>
+                        </location>
+                    </place>
+                <place xml:id="place_a808e5c57f7af6870dafa78db5ce4321">
+                        <placeName>Leitmeritz</placeName>
+                        <placeName type="pref">Leitmeritz [Litoměřice]</placeName>
+                        <placeName type="alt">Leitmeritzer</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.53348 14.1318</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3071677/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

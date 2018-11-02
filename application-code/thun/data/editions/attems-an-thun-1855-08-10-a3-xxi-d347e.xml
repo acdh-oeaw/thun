@@ -89,5 +89,89 @@
                 <p>Gratz, 10. August 1855</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="attems-ottokar-maria">
+                        <persName>
+                            <surname>Attems</surname>
+                            <forename>Ottokar Maria</forename>
+                        </persName>
+                        <note>
+                            <p>Graz 1815–1867 Graz</p>
+                            <p>1837–1853 Priester in Seckau, 1853–1867 Bischof von Seckau</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="bock-cornelius-peter">
+                        <persName>
+                            <surname>Bock</surname>
+                            <forename>Cornelius Peter</forename>
+                        </persName>
+                        <note>
+                            <p>Aachen 1804–1870 Freiburg i. Breisgau</p>
+                            <p>ab 1833 Prof. für Altertumskunde an der Universität Marburg und Brüssel, ab 1858 Ehrenprof. der Universität Freiburg</p>
+                            <p>http://d-nb.info/gnd/116214023</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116214023</tei:idno>
+                    </person>
+                <person xml:id="weiss-johann-baptist">
+                        <persName>
+                            <surname>Weiß</surname>
+                            <forename>Johann Baptist</forename>
+                        </persName>
+                        <note>
+                            <p>Ettenheim 1820–1899 Graz</p>
+                            <p>ab 1844 Lehrer für französische und englische Sprache an der Höheren Bürgerschule in Freiburg, ab 1850 Redakteur der "Freiburger Zeitung", 1853–1891 Prof. für Geschichte an der Universität Graz</p>
+                            <p>http://d-nb.info/gnd/117290629</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117290629</tei:idno>
+                    </person>
+                <person xml:id="sacher-masoch-leopold-johann">
+                        <persName>
+                            <surname>Sacher-Masoch</surname>
+                            <forename>Leopold Johann</forename>
+                        </persName>
+                        <note>
+                            <p>Lemberg 1797–1874 Bruck a. d. Mur</p>
+                            <p>1826–1828 Kreiskommissar in Tarnopol, 1829–1830 in dieser Funktion in Bochnia, 1831–1847 Polizeidirektor von Lemberg, ab 1848 Stadthauptmann in Prag</p>
+                            <p>http://d-nb.info/gnd/139581308</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/139581308</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_6e00929feb7fb02acaa548f47f67c61c">
+                        <placeName>Graz</placeName>
+                        <placeName type="pref">graz</placeName>
+                        <placeName type="alt">Gratz</placeName>
+                        <placeName type="alt">Grätz</placeName>
+                        <placeName type="alt">Graez</placeName>
+                        <placeName type="alt">o. O. [Graz]</placeName>
+                        <placeName type="alt">Grätzer</placeName>
+                        <placeName type="alt">Graz-Sekau</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.06667 15.45</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2778067/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

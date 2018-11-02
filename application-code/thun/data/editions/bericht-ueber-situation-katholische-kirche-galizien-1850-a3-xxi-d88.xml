@@ -294,5 +294,161 @@
                 <p>Szazskiewicz</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="szaszkewycz-gregor">
+                        <persName>
+                            <surname>Szaszkewycz</surname>
+                            <forename>Gregor</forename>
+                        </persName>
+                        <note>
+                            <p>1809–1888 Przemyśl</p>
+                            <p>Ministerialrat im Unterrichtsministerium (Referent für die galizischen Volks- und Mittelschulen), später griech.-kath. Domherr in Przemyśl</p>
+                            <p>http://d-nb.info/gnd/119230232</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119230232</tei:idno>
+                    </person>
+                <person xml:id="snigurski-jan">
+                        <persName>
+                            <surname>Snigurski</surname>
+                            <forename>Jan</forename>
+                        </persName>
+                        <note>
+                            <p>Brzesciany 1784–1847 Przemyśl</p>
+                            <p>1818–1847 Bischof von Przemyśl</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_4ec4d4015169a4209797da17b240c7c3">
+                        <placeName>Galicia</placeName>
+                        <placeName type="pref">Galizien</placeName>
+                        <placeName type="alt">Galicien</placeName>
+                        <placeName type="alt">Galizien</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.5 23.0</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/562153/</idno>
+                    </place>
+                <place xml:id="place_3ff694e5c82611cda53341a9bae21735">
+                        <placeName>lemberg</placeName>
+                        <placeName type="alt">Lemberger</placeName>
+                        <placeName type="alt">Lemberg</placeName>
+                        <placeName type="alt">Leopol</placeName>
+                        <placeName type="alt">Lembergs</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.839444 24.032778</geo>
+                        </location>
+                    </place>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_06929365a95f6fe8db033da195ee7498">
+                        <placeName>Przemyśl</placeName>
+                        <placeName type="alt">Przemysler</placeName>
+                        <placeName type="alt">Przemyśler</placeName>
+                        <placeName type="alt">Peremyschl</placeName>
+                        <placeName type="alt">Peremyszler</placeName>
+                        <placeName type="alt">Przemysl</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.78345 22.78424</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/7530748/</idno>
+                    </place>
+                <place xml:id="place_601df943a89d2ac73e0e43a5d37fc228">
+                        <placeName type="pref">Ungarn</placeName>
+                        <placeName type="alt">Ungarns</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.0 20.0</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/719819/</idno>
+                    </place>
+                <place xml:id="place_cde856980f41b5362c96273d9c84431d">
+                        <placeName>Esztergom</placeName>
+                        <placeName type="alt">Graner</placeName>
+                        <placeName type="alt">Gran</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.7928 18.74148</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3053163/</idno>
+                    </place>
+                <place xml:id="place_717976f66a4b7e6e24e6d182fbf0a00a">
+                        <placeName>Fünfkirchen</placeName>
+                        <placeName type="pref">fuenfkirchen</placeName>
+                        <placeName type="alt">Fünfkirchner</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.08333 18.23333</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3046526/</idno>
+                    </place>
+                <place xml:id="place_c0c864044f97c6e7d7af03ea5a182d70">
+                        <placeName>Eger</placeName>
+                        <placeName type="alt">Erlauer</placeName>
+                        <placeName type="alt">Erlau</placeName>
+                        <placeName type="alt">Egener</placeName>
+                        <placeName type="alt">Egerer</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.90265 20.37329</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/721239/</idno>
+                    </place>
+                <place xml:id="place_5ea5f4002712b1a9a4e292d3c83736b9" type="placeName">
+                        <placeName type="pref">Spanien</placeName>
+                        <location>
+                            <geo decls="#LatLng">39.926667 -1.801667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4055964-6</idno>
+                    </place>
+                <place xml:id="place_72ac53f7b58ea996114e510e7d524fb9" type="placeName">
+                        <placeName type="pref">Frankreichs</placeName>
+                        <placeName type="alt">Frankreich</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.316667 2.533333</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4018145-5</idno>
+                    </place>
+                <place xml:id="place_64f607906be7598a02d75dbc1e979662" type="placeName">
+                        <placeName type="pref">England</placeName>
+                        <location>
+                            <geo decls="#LatLng">52.16045 -0.703126</geo>
+                        </location>
+                        <idno>http://www.geonames.org/6269131</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

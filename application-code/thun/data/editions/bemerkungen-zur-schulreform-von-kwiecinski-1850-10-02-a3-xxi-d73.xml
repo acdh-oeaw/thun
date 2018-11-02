@@ -485,5 +485,82 @@
                 <p>Biala 2. October 1850</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="kwiecinski-josef">
+                        <persName>
+                            <surname>Kwieciński</surname>
+                            <forename>Józef</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>k_A</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_92a76d6721fea9af930410297cd7b5f5">
+                        <placeName>Bielsko-Biała</placeName>
+                        <placeName type="pref">Biala</placeName>
+                        <placeName type="alt">Biala</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.82245 19.04686</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3103402/</idno>
+                    </place>
+                <place xml:id="place_162b390989a8678640067963acb65109">
+                        <placeName>Deutschland</placeName>
+                        <placeName type="alt">Deutschlands</placeName>
+                        <placeName type="alt">Germany</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.5 10.5</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2921044/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+                <place xml:id="place_4ec4d4015169a4209797da17b240c7c3">
+                        <placeName>Galicia</placeName>
+                        <placeName type="pref">Galizien</placeName>
+                        <placeName type="alt">Galicien</placeName>
+                        <placeName type="alt">Galizien</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.5 23.0</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/562153/</idno>
+                    </place>
+                <place xml:id="place_ac9a7e0c352dbdc2acb6df43ed879b68">
+                        <placeName>Kremsier</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.29785 17.39312</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3072649/</idno>
+                    </place>
+                <place xml:id="place_4427d8d4fd794c37826d3259a6a9ff53" type="placeName">
+                        <placeName type="pref">Preußen</placeName>
+                        <placeName type="alt">Preussen</placeName>
+                        <location>
+                            <geo decls="#LatLng">52.52437 13.41053</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4047194-9</idno>
+                    </place>
+                <place xml:id="place_19cb29505c294db5ca9190ea93447e98" type="placeName">
+                        <placeName type="pref">Italy</placeName>
+                        <placeName type="pref">Italien</placeName>
+                        <location>
+                            <geo decls="#LatLng">43 12</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4027833-5</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

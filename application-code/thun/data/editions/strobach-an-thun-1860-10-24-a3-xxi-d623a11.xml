@@ -95,5 +95,78 @@
                 </p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="strobach-friedrich">
+                        <persName>
+                            <surname>Strobach</surname>
+                            <forename>Friedrich</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Ministerialkonzipist im Ministerium für Kultus und Unterricht, Statthaltereirat und Studienreferent in Linz</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="stifter-adalbert">
+                        <persName>
+                            <surname>Stifter</surname>
+                            <forename>Adalbert</forename>
+                        </persName>
+                        <note>
+                            <p>Oberplan/Böhmen 1805–1868 Linz</p>
+                            <p>Schriftsteller, Pädagoge, 1848 Übersiedlung nach Linz, 1850 Schulrat und Inspektor der Volksschulen Oberösterreichs, 1853 Konservator für Oberösterreich</p>
+                            <p>http://d-nb.info/gnd/118618156</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118618156</tei:idno>
+                    </person>
+                <person xml:id="kurz-johann">
+                        <persName>
+                            <surname>Kurz</surname>
+                            <forename>Johann</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>prov. Direktor des Gymnasiums in Marburg, ab 1853 Schulrat in Salzburg und Oberösterreich</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_907e6aad95b11593946e28f6e29860aa">
+                        <placeName>Linz</placeName>
+                        <placeName type="pref">linz</placeName>
+                        <placeName type="alt">Linzer</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.30639 14.28611</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2772400/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

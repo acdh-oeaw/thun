@@ -112,5 +112,98 @@
                     gegen ihn in die Hand geben könnten.</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="schwarzenberg-felix">
+                        <persName>
+                            <surname>Schwarzenberg</surname>
+                            <forename>Felix</forename>
+                        </persName>
+                        <note>
+                            <p>Böhmisch-Krumau 1800–1852 Wien</p>
+                            <p>Diplomat und Politiker, November 1848–1852 Ministerpräsident</p>
+                            <p>http://d-nb.info/gnd/118612050</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118612050</tei:idno>
+                    </person>
+                <person xml:id="hirscher-johann-baptist">
+                        <persName>
+                            <surname>Hirscher</surname>
+                            <forename>Johann Baptist</forename>
+                        </persName>
+                        <note>
+                            <p>Alt-Ergarten 1788–1865 Freiburg i. Breisgau</p>
+                            <p>1817–1837 Prof. für Moral- und Pastoraltheologie an der Universität Tübingen, 1837–1863 Prof. für Moraltheologie und Katechese an der Universität Freiburg, ab 1839 Domkapitular, ab 1850 Dekan des Domkapitels, ab 1845 Abgeordneter in der Ersten Kammer des Großherzogtums Baden</p>
+                            <p>http://d-nb.info/gnd/118551531</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118551531</tei:idno>
+                    </person>
+                <person xml:id="ronge-johannes">
+                        <persName>
+                            <surname>Ronge</surname>
+                            <forename>Johannes</forename>
+                        </persName>
+                        <note>
+                            <p>Bischofswalde 1813–1887 Wien</p>
+                            <p>kath. Priester, Begründer des Deutschkatholizismus, 1845 exkommuniziert, daraufhin Gründung einer freireligiösen Gemeinde, 1848 Mitglied der Frankfurter Nationalversammlung</p>
+                            <p>http://d-nb.info/gnd/119106868</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119106868</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_84741e39bd2250054745bd841d851b05">
+                        <placeName>Freiburg im Breisgau</placeName>
+                        <placeName type="pref">Freiburg i. B.</placeName>
+                        <placeName type="alt">Freiburg i. B.</placeName>
+                        <placeName type="alt">Freiburg</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.9959 7.85222</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2925177/</idno>
+                    </place>
+                <place xml:id="place_162b390989a8678640067963acb65109">
+                        <placeName>Deutschland</placeName>
+                        <placeName type="alt">Deutschlands</placeName>
+                        <placeName type="alt">Germany</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.5 10.5</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2921044/</idno>
+                    </place>
+                <place xml:id="place_df9bd17ff7bdda0e80aa6e2f18bfeaf2">
+                        <placeName>Trier</placeName>
+                        <placeName type="pref">trier</placeName>
+                        <placeName type="alt">Trierer</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.75565 6.63935</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2821164/</idno>
+                    </place>
+                <place xml:id="place_867b530d8072e0e4d907aa82937d3e01" type="placeName">
+                        <placeName type="pref">Böhmen</placeName>
+                        <location>
+                            <geo decls="#LatLng">50 14.5</geo>
+                        </location>
+                        <idno>http://www.geonames.org/3078198</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

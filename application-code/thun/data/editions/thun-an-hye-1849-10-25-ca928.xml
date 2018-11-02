@@ -82,5 +82,77 @@
                 <p>Ihr<lb/>Ergebener<lb/>L. Thun</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="hye-von-gluneck-anton">
+                        <persName>
+                            <surname>Hye von Glunek</surname>
+                            <forename>Anton</forename>
+                        </persName>
+                        <note>
+                            <p>Gleink 1807–1894 Wien</p>
+                            <p>1835–1854 Prof. am Theresianum in Wien, ab 1842 Prof. an der Universität Wien, 1848–1849 Generalsekretär, 1849–1857 Ministerialrat, 1857–1867 Sektionsleiter im Justizministerium, Juni–Dez. 1867 Justizminister</p>
+                            <p>http://d-nb.info/gnd/117546941</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117546941</tei:idno>
+                    </person>
+                <person xml:id="vangerow-karl-adolph">
+                        <persName>
+                            <surname>Vangerow</surname>
+                            <forename>Karl Adolph</forename>
+                        </persName>
+                        <note>
+                            <p>Schiffelbach bei Marburg 1808–1870 Heidelberg</p>
+                            <p>1840–1870 Prof. für Römisches Recht an der Universität Heidelberg</p>
+                            <p>http://d-nb.info/gnd/117346039</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117346039</tei:idno>
+                    </person>
+                <person xml:id="warnkoenig-leopold-august">
+                        <persName>
+                            <surname>Warnkönig</surname>
+                            <forename>Leopold August</forename>
+                        </persName>
+                        <note>
+                            <p>Bruchsal 1794–1866 Stuttgart</p>
+                            <p>ab 1817 Prof. für römisches Recht und Naturrecht an der Universität Lüttich, 1827–1830 Prof. an der Universität Löwen, 1830–1836 Prof. an der Universität Gent, 1836–1844 Prof. für Natur-, Staats- und Völkerrecht an der Universität Freiburg, 1844–1856 Prof. des Kirchenrechts an der Universität Tübingen</p>
+                            <p>http://d-nb.info/gnd/117142379</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117142379</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_4510d4e4afdfe71771afea781bc55d46">
+                        <placeName>o. O.</placeName>
+                        <location>
+                            <geo decls="#LatLng"/>
+                        </location>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

@@ -197,5 +197,96 @@
                 <p>Lemberg am 3. November 1855</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="bielowski-august">
+                        <persName>
+                            <surname>Bielowski</surname>
+                            <forename>August</forename>
+                        </persName>
+                        <note>
+                            <p>Krechnowiec 1806–1876 Lemberg</p>
+                            <p>bis 1876 Direktor der Ossolinskischen Bibliothek in Lemberg</p>
+                            <p>http://d-nb.info/gnd/116165383</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116165383</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="kergel-wilhelm">
+                        <persName>
+                            <surname>Kergel</surname>
+                            <forename>Wilhelm</forename>
+                        </persName>
+                        <note>
+                            <p>Crochwitz 1822–1891 Graz</p>
+                            <p>1847–1849 Hilfslehrer am St. Maria-Magdalena-Gymnasium in Breslau, ab 1849 Prof. der klass. Philologie an der Universität Olmütz, 1851–1871 Prof. der klass. Philologie an der Universität Lemberg, 1871–1891 Prof. der klass. Philologie an der Universität Graz</p>
+                            <p>http://d-nb.info/gnd/120647427</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/120647427</tei:idno>
+                    </person>
+                <person xml:id="sobieski">
+                        <persName>
+                            <surname>Sobieski</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Lehramtskandidat an der Universität Lemberg</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="pilat-stanislaus">
+                        <persName>
+                            <surname>Pilat</surname>
+                            <forename>Stanislaus</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Lehramtskandidat an der Universität Lemberg</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="cicero">
+                        <persName>
+                            <surname>Marcus Tullius Cicero</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Arpinum 106–43 v. Chr. bei Formiae</p>
+                            <p>Philosoph und Politiker</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_3ff694e5c82611cda53341a9bae21735">
+                        <placeName>lemberg</placeName>
+                        <placeName type="alt">Lemberger</placeName>
+                        <placeName type="alt">Lemberg</placeName>
+                        <placeName type="alt">Leopol</placeName>
+                        <placeName type="alt">Lembergs</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.839444 24.032778</geo>
+                        </location>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

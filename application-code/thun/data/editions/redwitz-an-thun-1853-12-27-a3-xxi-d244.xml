@@ -151,5 +151,104 @@
                 <p>Schellenberg bei Kaiserslautern, 27. Dez. 1853</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="redwitz-oskar">
+                        <persName>
+                            <surname>Redwitz</surname>
+                            <forename>Oskar</forename>
+                        </persName>
+                        <note>
+                            <p>Lichtenau 1823–1891 Gilgenberg (Bayreuth)</p>
+                            <p>Dichter und Schriftsteller, ab 1846 Verwaltungsjurist, 1851–1852 Prof. für Literaturgeschichte und Ästhetik an der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/116392983</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116392983</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-caroline">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Caroline</forename>
+                        </persName>
+                        <note>
+                            <p>1822–1898 Bad Ischl</p>
+                            <p>geb. Clam-Martinic, ab 1847 Gattin von Leo Thun</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="geibel-emanuel">
+                        <persName>
+                            <surname>Geibel</surname>
+                            <forename>Emanuel</forename>
+                        </persName>
+                        <note>
+                            <p>Lübeck 1815–1884 Lübeck</p>
+                            <p>Lyriker, 1852–1868 Prof. für deutsche Literatur und Poetik an der Universität München</p>
+                            <p>http://d-nb.info/gnd/11853811X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11853811X</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_7662c07d69c12560e2c9652b796714f0">
+                        <placeName>Schellenberg</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.23123 9.54678</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3042037/</idno>
+                    </place>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

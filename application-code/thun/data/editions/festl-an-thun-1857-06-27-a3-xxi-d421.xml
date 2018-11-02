@@ -136,5 +136,93 @@
                 <p>Maros-Vásárhely, auf meiner Inspekzionsreise, am 27. Juni 1857</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="festl-karl">
+                        <persName>
+                            <surname>Festl</surname>
+                            <forename>Karl</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>röm.-kath. Schulrat für Siebenbürgen, Propst, Lehrer und Pfarrer in Fünfkirchen</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="haynald-lajos">
+                        <persName>
+                            <surname>Haynald</surname>
+                            <forename>Lajos</forename>
+                        </persName>
+                        <note>
+                            <p>Szécsény 1816–1891 Kalosca</p>
+                            <p>1842–1846 Prof. der Theologie am Priesterseminar in Gran, ab 1852 Bischof von Karlsburg, 1861 Resignation von seinem Bistum und Umzug nach Rom, ab 1867 Erzbischof von Kalocsa, 1879 Erhebung zum Kardinal</p>
+                            <p>http://d-nb.info/gnd/116553677</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116553677</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_b54709ec140e6c62b1ba4c9ccd9be219">
+                        <placeName>Neumarkt am Mieresch</placeName>
+                        <placeName type="pref">Marosvásárhely [Târgu Mureș]</placeName>
+                        <placeName type="alt">Marosvásárhely</placeName>
+                        <placeName type="alt">Marosvaserhely</placeName>
+                        <placeName type="alt">Maros-Vásárhely</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.54245 24.55747</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/665004/</idno>
+                    </place>
+                <place xml:id="place_45e0bb0b029ff4919974c4717bb7a4b4" type="placeName">
+                        <placeName type="pref">Siebenbürgen</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.5 25</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4054835-1</idno>
+                    </place>
+                <place xml:id="place_11040f2c1312651fcf9e8c9ca1af8cd7">
+                        <placeName>Oradea</placeName>
+                        <placeName type="pref">Großwardein [Oradea]</placeName>
+                        <placeName type="alt">Großwardeiner</placeName>
+                        <placeName type="alt">Groß-Wardein</placeName>
+                        <placeName type="alt">Groß-Wardeiner</placeName>
+                        <placeName type="alt">Großwardein</placeName>
+                        <placeName type="alt">Gr[oß] Wardein</placeName>
+                        <placeName type="alt">G[roßwardein]</placeName>
+                        <placeName type="alt">Gr[oß]Wardein</placeName>
+                        <placeName type="alt">Gr[oß]wardeiner</placeName>
+                        <placeName type="alt">Großwardein</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.06667 21.93333</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/2001707-8</idno>
+                    </place>
+                <place xml:id="place_717976f66a4b7e6e24e6d182fbf0a00a">
+                        <placeName>Fünfkirchen</placeName>
+                        <placeName type="pref">fuenfkirchen</placeName>
+                        <placeName type="alt">Fünfkirchner</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.08333 18.23333</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3046526/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

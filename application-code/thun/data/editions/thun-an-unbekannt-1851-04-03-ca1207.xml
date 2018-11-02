@@ -80,5 +80,43 @@
                 <p>Den 3. April</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="pohl-josef">
+                        <persName>
+                            <surname>Pohl</surname>
+                            <forename>Josef</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1825–1900 Wien</p>
+                            <p>ab 1846 Assistent für Chemie am Polytechnikum Wien, ab 1856 Professor der militäradministrativen Lehranstalt, ab 1866 Professor am Polytechnikum Wien</p>
+                            <p>http://d-nb.info/gnd/116260297</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116260297</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_4510d4e4afdfe71771afea781bc55d46">
+                        <placeName>o. O.</placeName>
+                        <location>
+                            <geo decls="#LatLng"/>
+                        </location>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

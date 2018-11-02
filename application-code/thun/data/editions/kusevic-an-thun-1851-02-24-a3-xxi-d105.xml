@@ -120,5 +120,137 @@
                 <p>Agram, den 24. Februar 1851</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="kusevic-svetozar">
+                        <persName>
+                            <surname>Kušević</surname>
+                            <forename>Svetozar</forename>
+                        </persName>
+                        <note>
+                            <p>Požega 1823–1911</p>
+                            <p>Jurist, Komitatsbeamter, ab 1858 Bürgermeister von Zagreb, Mitglied des kroatischen Landtags</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="zlatarovic-josef">
+                        <persName>
+                            <surname>Zlatarović</surname>
+                            <forename>Josef</forename>
+                        </persName>
+                        <note>
+                            <p>Zagreb 1807–1874 Graz</p>
+                            <p>Arzt</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="pavic-anton">
+                        <persName>
+                            <surname>Pavić</surname>
+                            <forename>Anton</forename>
+                        </persName>
+                        <note>
+                            <p>Požega 1802–1853 Požega</p>
+                            <p>Arzt</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_104b5ac4af06263707f5418d171ffe3d">
+                        <placeName>Zagreb</placeName>
+                        <placeName type="pref">Agram [Zagreb]</placeName>
+                        <placeName type="alt">Agramer</placeName>
+                        <placeName type="alt">Agrams</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.81444 15.97798</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3186886/</idno>
+                        <idno>http://d-nb.info/gnd/4108914-5</idno>
+                    </place>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_46ef149805b1b370596a83886b1e010e" type="placeName">
+                        <placeName type="pref">Croazien</placeName>
+                        <placeName type="alt">Kroatien</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.25 15.466667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4073841-3</idno>
+                    </place>
+                <place xml:id="place_ae18acc55f5052b97377f2d082652be0">
+                        <placeName>Possegg</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.43333 15.56667</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2768490/</idno>
+                    </place>
+                <place xml:id="place_f2646aa02d03ac5a141ef404d919cd11">
+                        <placeName>Salzburg</placeName>
+                        <placeName type="pref">salzburg</placeName>
+                        <placeName type="alt">Salzburger</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.79941 13.04399</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2766824/</idno>
+                    </place>
+                <place xml:id="place_6561a308188c907f6540ecec5fea9c3a">
+                        <placeName>Völkermarkt</placeName>
+                        <placeName type="pref">voelkermarkt</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.66222 14.63444</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2762315/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

@@ -64,5 +64,69 @@
                 </p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="metternich-klemens-wenzel-lothar">
+                        <persName>
+                            <surname>Metternich</surname>
+                            <forename>Clemens Wenzel</forename>
+                        </persName>
+                        <note>
+                            <p>Koblenz 1773–1859 Wien</p>
+                            <p>Politiker</p>
+                            <p>http://d-nb.info/gnd/118581465</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118581465</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="ruben-christian">
+                        <persName>
+                            <surname>Ruben</surname>
+                            <forename>Christian</forename>
+                        </persName>
+                        <note>
+                            <p>Trier 1805–1875 Wien</p>
+                            <p>Maler, ab 1841 Direktor der Kunstakademie in Prag, 1852–1872 Direktor der Akademie der bildenden Künste in Wien</p>
+                            <p>http://d-nb.info/gnd/116669071</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116669071</tei:idno>
+                    </person>
+                <person xml:id="elisabeth">
+                        <persName>
+                            <surname>Elisabeth Amalie Eugenie</surname>
+                            <forename>Herzogin in Bayern</forename>
+                        </persName>
+                        <note>
+                            <p>München 1837–1898 Genf</p>
+                            <p>ab 1854 Gattin von Franz Joseph I. und damit Kaiserin von Österreich</p>
+                            <p>http://d-nb.info/gnd/1044019484</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1044019484</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_4510d4e4afdfe71771afea781bc55d46">
+                        <placeName>o. O.</placeName>
+                        <location>
+                            <geo decls="#LatLng"/>
+                        </location>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

@@ -212,5 +212,188 @@
                 <p>Sydney in Neu-Süd-Wales, den 15. Dezember 1854</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="schmarda-ludwig">
+                        <persName>
+                            <surname>Schmarda</surname>
+                            <forename>Ludwig Karl</forename>
+                        </persName>
+                        <note>
+                            <p>Olmütz 1819–1908 Wien</p>
+                            <p>1848–1849 Lehrer am Joanneum in Graz, 1850 Prof. für Naturgeschichte an der Universität Graz, 1852–1853 Prof. an der Universität Prag, 1853–1857 Forschungsreise nach Indien und Australien, 1862–1883 Prof. für Zoologie an der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/117455563</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117455563</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="strassoldo-graffemberg-michael">
+                        <persName>
+                            <surname>Strasoldo-Graffemberg</surname>
+                            <forename>Michael</forename>
+                        </persName>
+                        <note>
+                            <p>1798–1873 Schloss Strasoldo bei Görz</p>
+                            <p>Gouverneur der Lombardei und Statthalter der Steiermark</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="friedau-franz">
+                        <persName>
+                            <surname>Friedau</surname>
+                            <forename>Franz</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Industrieller, Finanzier der Forschungsreise von Ludwig Schmarda</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="unger-franz">
+                        <persName>
+                            <surname>Unger</surname>
+                            <forename>Franz Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>Leutschach 1800–1870 Graz</p>
+                            <p>ab 1830 Landesgerichtsarzt in Kitzbühel, 1836–1850 Prof. der Botanik an der Universität Graz, ab 1850 Prof. der Pflanzenphysiologie an der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/11729277X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11729277X</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_1fc91e86962825bb745de53d1657b3e4">
+                        <placeName>Sydney</placeName>
+                        <location>
+                            <geo decls="#LatLng">-33.86785 151.20732</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2147714/</idno>
+                    </place>
+                <place xml:id="place_842e26ab3b54376d93e22b403f3f9728" type="placeName">
+                        <placeName type="pref">Ägypten</placeName>
+                        <location>
+                            <geo decls="#LatLng">26.033333 29.216667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4000556-2</idno>
+                    </place>
+                <place xml:id="place_555a786a710503513a1e7d431cf7ec35">
+                        <placeName>Trincomalee</placeName>
+                        <placeName type="pref">trincomalee</placeName>
+                        <placeName type="alt">Trincomalli</placeName>
+                        <location>
+                            <geo decls="#LatLng">8.5711 81.2335</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/1226260/</idno>
+                    </place>
+                <place xml:id="place_4866028918ba5927e585c8bfac2454b4">
+                        <placeName>Batticaloa</placeName>
+                        <location>
+                            <geo decls="#LatLng">7.7102 81.6924</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/1250161/</idno>
+                    </place>
+                <place xml:id="place_df4640f7c18b5b6fe34711842800f87e">
+                        <placeName>Nuwara Eliya</placeName>
+                        <placeName type="pref">Newera Ellia</placeName>
+                        <placeName type="alt">Newera Ellia</placeName>
+                        <location>
+                            <geo decls="#LatLng">6.97078 80.78286</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/1232783/</idno>
+                    </place>
+                <place xml:id="place_036d94d07016ace6460bf0e413d3e6b4">
+                        <placeName>Galle</placeName>
+                        <placeName type="pref">Point Galle</placeName>
+                        <placeName type="alt">Point Galle</placeName>
+                        <location>
+                            <geo decls="#LatLng">6.0367 80.217</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/1246294/</idno>
+                    </place>
+                <place xml:id="place_43ab54bf23819a92270f3465532279b5">
+                        <placeName>Adams Peak</placeName>
+                        <placeName type="alt">Adamspick</placeName>
+                        <location>
+                            <geo decls="#LatLng">6.8083 80.5</geo>
+                        </location>
+                    </place>
+                <place xml:id="place_0f16f2953a5b6db73a3221b09bb9a30c">
+                        <placeName>Belligam</placeName>
+                        <location>
+                            <geo decls="#LatLng"/>
+                        </location>
+                    </place>
+                <place xml:id="place_7c885b9c7c703a77befcabeea54944d5">
+                        <placeName>Melbourne</placeName>
+                        <location>
+                            <geo decls="#LatLng">-37.814 144.96332</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2158177/</idno>
+                    </place>
+                <place xml:id="place_c3caeb1ae2bd5c41a3b515f90ba23b62">
+                        <placeName>Port Jackson</placeName>
+                        <location>
+                            <geo decls="#LatLng">-36.48521 175.33957</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/9612230/</idno>
+                    </place>
+                <place xml:id="place_1ce9287a63e38534efb11b85339cbe59" type="placeName">
+                        <placeName type="pref">Amerikas</placeName>
+                        <location>
+                            <geo decls="#LatLng">19 -96</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4001670-5</idno>
+                    </place>
+                <place xml:id="place_357d72df76e9b99e198d9a95a062b0a4">
+                        <placeName>Valparaíso</placeName>
+                        <placeName type="pref">Valparaiso</placeName>
+                        <placeName type="alt">Valparaiso</placeName>
+                        <location>
+                            <geo decls="#LatLng">-33.03932 -71.62725</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3868626/</idno>
+                    </place>
+                <place xml:id="place_c50f4f1960426cf2b75774029040aef9">
+                        <placeName>Callao</placeName>
+                        <location>
+                            <geo decls="#LatLng">-12.05659 -77.11814</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3946083/</idno>
+                    </place>
+                <place xml:id="place_118630edc7d5d47c165078109681a203">
+                        <placeName>Guayaquil</placeName>
+                        <placeName type="pref">guayaquil</placeName>
+                        <placeName type="alt">Guajaquil</placeName>
+                        <location>
+                            <geo decls="#LatLng">-2.20584 -79.90795</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3657509/</idno>
+                    </place>
+                <place xml:id="place_aadcd2017119cf69f6e31dcb24e52a02">
+                        <placeName>Quito</placeName>
+                        <location>
+                            <geo decls="#LatLng">-0.22985 -78.52495</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3652462/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

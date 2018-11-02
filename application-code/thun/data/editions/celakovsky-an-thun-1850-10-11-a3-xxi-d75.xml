@@ -113,5 +113,92 @@
                 <p>Prag, 11. Oktober 1850</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="celakovsky-frantisek-ladislav">
+                        <persName>
+                            <surname>Čelakovský</surname>
+                            <forename>František Ladislav</forename>
+                        </persName>
+                        <note>
+                            <p>Strakonice 1799–1852 Prag</p>
+                            <p>1841–1849 Prof. für slawische Sprachen an der Universität Breslau, ab 1849 Prof. an der Universität Prag</p>
+                            <p>http://d-nb.info/gnd/119409275</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119409275</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="holowacky-jakob">
+                        <persName>
+                            <surname>Holowacky</surname>
+                            <forename>Jakob</forename>
+                        </persName>
+                        <note>
+                            <p>1814–1888</p>
+                            <p>griech.-kath. Priester, 1848–1867 Prof. für ukrainische Philologie an der Universität Lemberg</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="safarik-pavel-josef">
+                        <persName>
+                            <surname>Šafařik</surname>
+                            <forename>Pavel Josef</forename>
+                        </persName>
+                        <note>
+                            <p>Kobeliarovo 1795–1861 Prag</p>
+                            <p>1819–1825 Lehrer am serb.-orthodoxen Gymnasium in Novi Sad ab 1833 Übersetzer beim Prager Magistrat, 1837–1847 Zensor, ab 1841 zunächst Kustos ab 1848 Universitätsbibliothekar in Prag, Gründungsmitglied der Akademie der Wissenschaften in Wien</p>
+                            <p>http://d-nb.info/gnd/118794027</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118794027</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_e575530bd7a9cc03829dde0b8657f108">
+                        <placeName>Prag</placeName>
+                        <placeName type="alt">Prager</placeName>
+                        <placeName type="alt">Prahy</placeName>
+                        <placeName type="alt">Prags</placeName>
+                        <placeName type="alt">o. O. [Prag]</placeName>
+                        <placeName type="alt">hier</placeName>
+                        <placeName type="alt">Praze</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.08804 14.42076</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3067696/</idno>
+                    </place>
+                <place xml:id="place_4ec4d4015169a4209797da17b240c7c3">
+                        <placeName>Galicia</placeName>
+                        <placeName type="pref">Galizien</placeName>
+                        <placeName type="alt">Galicien</placeName>
+                        <placeName type="alt">Galizien</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.5 23.0</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/562153/</idno>
+                    </place>
+                <place xml:id="place_8fc75da30120ebe11827173d482e2cc5" type="placeName">
+                        <placeName type="pref">Schwaben</placeName>
+                        <location>
+                            <geo decls="#LatLng">48 9</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4053668-3</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

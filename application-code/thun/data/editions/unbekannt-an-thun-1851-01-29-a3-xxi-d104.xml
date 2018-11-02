@@ -122,5 +122,234 @@
                 </div>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="waleswski-antoni">
+                        <persName>
+                            <surname>Walewski</surname>
+                            <forename>Antoni</forename>
+                        </persName>
+                        <note>
+                            <p>1805–1876</p>
+                            <p>Prof. in Krakau, Halbbruder von Alexandre Colonna-Walewski</p>
+                            <p>http://d-nb.info/gnd/11877106X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11877106X</tei:idno>
+                    </person>
+                <person xml:id="mochnacki-maurycy">
+                        <persName>
+                            <surname>Mochnacki</surname>
+                            <forename>Maurycy</forename>
+                        </persName>
+                        <note>
+                            <p>Bojaniec 1804–1834 Auxerre</p>
+                            <p>Historiker, Literaturkritiker und poln. Revolutionär</p>
+                            <p>http://d-nb.info/gnd/118784358</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118784358</tei:idno>
+                    </person>
+                <person xml:id="czartoryski-adam-jerzy">
+                        <persName>
+                            <surname>Czartoryski</surname>
+                            <forename>Adam Jerzy</forename>
+                        </persName>
+                        <note>
+                            <p>Warschau 1770–1861 Montfermeil, Frankreich</p>
+                            <p>1804–1806 russ. Außenminister, Regierungschef der polnischen Revolutionsregierung von 1830, 1830 Flucht aus Polen nach Paris</p>
+                            <p>http://d-nb.info/gnd/118523171</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118523171</tei:idno>
+                    </person>
+                <person xml:id="saint-aulaire-louis">
+                        <persName>
+                            <surname>Saint-Aulaire</surname>
+                            <forename>Louis</forename>
+                        </persName>
+                        <note>
+                            <p>Baguer-Pican 1778–1854 Paris</p>
+                            <p>Diplomat, 1832–1841 franz. Gesandter in Wien, 1841 Gesandter in London</p>
+                            <p>http://d-nb.info/gnd/116125349</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116125349</tei:idno>
+                    </person>
+                <person xml:id="guizot-francois">
+                        <persName>
+                            <surname>Guizot</surname>
+                            <forename>François</forename>
+                        </persName>
+                        <note>
+                            <p>Nimes 1787–1874 Saint-Quen-le-Pin</p>
+                            <p>Politiker, 1832–1837 Unterrichtsminister, 1840–1847 Außenminister</p>
+                            <p>http://d-nb.info/gnd/118543520</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118543520</tei:idno>
+                    </person>
+                <person xml:id="colonna-walewski-alexandre">
+                        <persName>
+                            <surname>Colonna-Walewski</surname>
+                            <forename>Alexandre Florian Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>Walewice 1810–1868 Straßburg</p>
+                            <p>Sohn Napoleons, 1833–1837 Dienst in der franz. Armee, ab 1837 Schriftsteller und Journalist, ab 1840 franz. Diplomat, 1855–1863 Außenminister</p>
+                            <p>http://d-nb.info/gnd/11877106X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11877106X</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_4ec4d4015169a4209797da17b240c7c3">
+                        <placeName>Galicia</placeName>
+                        <placeName type="pref">Galizien</placeName>
+                        <placeName type="alt">Galicien</placeName>
+                        <placeName type="alt">Galizien</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.5 23.0</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/562153/</idno>
+                    </place>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_ccbee73cd81c7f42405e1920409247ec">
+                        <placeName>Paris</placeName>
+                        <placeName type="pref">paris</placeName>
+                        <placeName type="alt">Pariser</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.85341 2.3488</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2988507/</idno>
+                    </place>
+                <place xml:id="place_7279949b987b1b373468947f87fe6753">
+                        <placeName>Brüssel</placeName>
+                        <placeName type="alt">Bruxelles</placeName>
+                        <placeName type="alt">Brüsseler</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.85045 4.34878</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2800866/</idno>
+                    </place>
+                <place xml:id="place_3eb8670d999ac077dd0e2c345cb7c905">
+                        <placeName>Amsterdam</placeName>
+                        <location>
+                            <geo decls="#LatLng">52.37403 4.88969</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2759794/</idno>
+                    </place>
+                <place xml:id="place_1d4660e0a445b02912a96b0ac4fe036a">
+                        <placeName>Gemeente Den Haag</placeName>
+                        <placeName type="pref">Haag</placeName>
+                        <placeName type="alt">Haag</placeName>
+                        <location>
+                            <geo decls="#LatLng">52.06866 4.28635</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2747372/</idno>
+                    </place>
+                <place xml:id="place_d35a02eb49149450fb2fffc6e467eb37">
+                        <placeName>Berlin</placeName>
+                        <placeName type="pref">berlin</placeName>
+                        <placeName type="alt">Berlino</placeName>
+                        <location>
+                            <geo decls="#LatLng">52.52437 13.41053</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2950159/</idno>
+                    </place>
+                <place xml:id="place_35d7df6ed3d93be2927d14acc5f1fc9a">
+                        <placeName>Hamburg</placeName>
+                        <location>
+                            <geo decls="#LatLng">53.57532 10.01534</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2911298/</idno>
+                    </place>
+                <place xml:id="place_fac3e8ffdba1df35c7ce679d9bf4cb30">
+                        <placeName>Kopenhagen</placeName>
+                        <placeName type="alt">Copenhagen</placeName>
+                        <location>
+                            <geo decls="#LatLng">55.67594 12.56553</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2618425/</idno>
+                    </place>
+                <place xml:id="place_72ac53f7b58ea996114e510e7d524fb9" type="placeName">
+                        <placeName type="pref">Frankreichs</placeName>
+                        <placeName type="alt">Frankreich</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.316667 2.533333</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4018145-5</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+                <place xml:id="place_64f607906be7598a02d75dbc1e979662" type="placeName">
+                        <placeName type="pref">England</placeName>
+                        <location>
+                            <geo decls="#LatLng">52.16045 -0.703126</geo>
+                        </location>
+                        <idno>http://www.geonames.org/6269131</idno>
+                    </place>
+                <place xml:id="place_5c0704d47c0a58a0922e25b5b9b66b27" type="placeName">
+                        <placeName type="pref">Rußlands</placeName>
+                        <location>
+                            <geo decls="#LatLng">58.65 70.116667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4076899-5</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

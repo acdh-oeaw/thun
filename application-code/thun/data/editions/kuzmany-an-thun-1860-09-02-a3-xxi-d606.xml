@@ -99,5 +99,171 @@
                 <p>Neusohl, den 2. Sept. 1860</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="kuzmany-karl">
+                        <persName>
+                            <surname>Kuzmány</surname>
+                            <forename>Karl</forename>
+                        </persName>
+                        <note>
+                            <p>Brezno 1806–1866 Turčianske Teplice</p>
+                            <p>ab 1829 Lehrer am evang. Gymnasium in Kežmarok, 1830–1832 Pfarrer in Zvolen, 1832–1849 Pfarrer in Banská Bystrica, 1849–1863 Prof. für Praktische Theologie und Kirchenrecht an der evang.-theol. Lehranstalt in Wien, ab 1860 Superintendent in Preßburg</p>
+                            <p>http://d-nb.info/gnd/121675211</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/121675211</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="landerer-ferdinand">
+                        <persName>
+                            <surname>Landerer</surname>
+                            <forename>Ferdinand</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Bergrat in Schemnitz, 1860 zum Inspektor der Pressburger Superintendenz ernannt</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_0546943cdb764ce66d21e8910937b72a">
+                        <placeName>Banská Bystrica</placeName>
+                        <placeName type="pref">Neusohl</placeName>
+                        <placeName type="alt">Neusohl</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.73946 19.15349</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3061186/</idno>
+                    </place>
+                <place xml:id="place_0dca79844e1f4b9e8bbffd397ed5f4aa">
+                        <placeName>Martin District</placeName>
+                        <placeName type="pref">St. Martin</placeName>
+                        <placeName type="alt">St. Martin</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.06667 18.93333</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3058779/</idno>
+                    </place>
+                <place xml:id="place_ab803a453592b4aea05cb2449245ff34">
+                        <placeName>Komitat Martin (Slowakei)</placeName>
+                        <placeName type="pref">komitat-turz</placeName>
+                        <placeName type="alt">Turotz</placeName>
+                        <placeName type="alt">Turocz</placeName>
+                        <placeName type="alt">Thuroczer</placeName>
+                        <placeName type="alt">Thuroczer Comitate</placeName>
+                        <placeName type="alt">Thuróczer Comitate</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.063611 18.921389</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/7596733-9</idno>
+                    </place>
+                <place xml:id="place_20fd1ec63df813feb0d7095f9a884d6d">
+                        <placeName>Pojnik</placeName>
+                        <location>
+                            <geo decls="#LatLng"/>
+                        </location>
+                    </place>
+                <place xml:id="place_1b1d72c9ad79d868d9320c98325eb52e">
+                        <placeName>Brieštie</placeName>
+                        <placeName type="pref">Bries [Brieštie]</placeName>
+                        <placeName type="alt">Brieser</placeName>
+                        <placeName type="alt">Bries</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.92094 18.73607</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3060933/</idno>
+                    </place>
+                <place xml:id="place_f1612033f4dd549e82a5e483d1f8922b">
+                        <placeName>Háj</placeName>
+                        <placeName type="pref">Haj</placeName>
+                        <placeName type="alt">Haj</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.86379 18.8843</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3060169/</idno>
+                    </place>
+                <place xml:id="place_a010dc49a464008a7edacd515047e433">
+                        <placeName>Babiná</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.4352 19.09106</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3061233/</idno>
+                    </place>
+                <place xml:id="place_a681872bfbdadaef13c53190c81ff490">
+                        <placeName>Martin</placeName>
+                        <placeName type="pref">St. Martin</placeName>
+                        <placeName type="alt">St. Martin</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.06651 18.92399</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3058780/</idno>
+                    </place>
+                <place xml:id="place_d856324689e6964c27e3903e6f63a34e">
+                        <placeName>Komitat Neutra</placeName>
+                        <placeName type="alt">Neutra</placeName>
+                        <placeName type="alt">Neutraer Seniorate</placeName>
+                        <placeName type="alt">Neutraer</placeName>
+                        <placeName type="alt">Ober- und Unter-Neutra</placeName>
+                        <placeName type="alt">Neutraer Comitate</placeName>
+                        <placeName type="alt">Comitat de Neutra</placeName>
+                        <placeName type="alt">Comitate de Neutra</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.314722 18.0875</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4843030-4</idno>
+                    </place>
+                <place xml:id="place_8d3cabcc7c52722a2f5924dcd90b01c6">
+                        <placeName>Trenčín District</placeName>
+                        <placeName type="pref">Trentschin [Trenčín]</placeName>
+                        <placeName type="alt">Trentschiner</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.8952 18.04264</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3057139/</idno>
+                    </place>
+                <place xml:id="place_2ba80697c410b3115b7ce01183106b48">
+                        <placeName>Komitat Arva</placeName>
+                        <placeName type="pref">Komitat Arwa</placeName>
+                        <placeName type="alt">Arva</placeName>
+                        <placeName type="alt">Arva-Thurocz</placeName>
+                        <placeName type="alt">Arva-Thúrócz</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.211667 19.299167</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/1062529340</idno>
+                    </place>
+                <place xml:id="place_494eccfffbfff4c93f6e601ab346a3cf">
+                        <placeName>Okres Bratislava I</placeName>
+                        <placeName type="pref">Preßburg [Bratislava]</placeName>
+                        <placeName type="alt">Preßburg</placeName>
+                        <placeName type="alt">Presburg</placeName>
+                        <placeName type="alt">Preßburger</placeName>
+                        <placeName type="alt">Presburger</placeName>
+                        <placeName type="alt">Pressburger</placeName>
+                        <placeName type="alt">Pressburg</placeName>
+                        <placeName type="alt">hiesigen</placeName>
+                        <placeName type="alt">Preßburgs</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.14653 17.10584</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/8986283/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

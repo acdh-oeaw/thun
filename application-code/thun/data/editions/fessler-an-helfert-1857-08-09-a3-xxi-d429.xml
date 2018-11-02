@@ -98,5 +98,93 @@
                 <p>Brixen 9. August 1857</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="fessler-joseph">
+                        <persName>
+                            <surname>Fessler</surname>
+                            <forename>Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>Lochau 1813–1872 St. Pölten</p>
+                            <p>ab 1841 Dozent des Kirchenrechts und der Kirchengeschichte am Priesterseminar in Brixen, ab 1852 Prof. der Kirchengeschichte an der Universität Wien, ab 1856 Prof. des Kirchenrechts an der Universität Wien, ab 1862 Generalvikar und Weihbischof von Vorarlberg, ab 1864 Bischof von St. Pölten</p>
+                            <p>http://d-nb.info/gnd/187122733</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/187122733</tei:idno>
+                    </person>
+                <person xml:id="helfert-joseph-alexander">
+                        <persName>
+                            <surname>Helfert</surname>
+                            <forename>Josef Alexander</forename>
+                        </persName>
+                        <note>
+                            <p>Prag 1820–1910 Wien</p>
+                            <p>Historiker und Politiker, ab Okt. 1847 Supplent für römisches und kanonisches Recht an der Universität Krakau, 1848–1860 Unterstaatssekretär im Ministerium für Kultus und Unterricht, ab 1860 leitender Beamter der Sektion Unterricht im Staatsministerium</p>
+                            <p>http://d-nb.info/gnd/11877381X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11877381X</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="klun-vinzenz-ferrer">
+                        <persName>
+                            <surname>Klun</surname>
+                            <forename>Vinzenz Ferrer</forename>
+                        </persName>
+                        <note>
+                            <p>Laibach 1823–1875 Karlsbad</p>
+                            <p>1849–1856 Redakteur der "Laibacher Zeitung", ab 1852 Lehrtätigkeit an verschiedenen Schulen im Fach Geschichte, ab 1858 Lehrer für Geographie und Statistik an der Handelsakademie Wien, ab 1862 Privatdozent für Geographie an der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/101815166</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/101815166</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_478686b5e2ebec6de738cf25710e7108">
+                        <placeName>Brixen</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.71503 11.65598</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3181550/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+                <place xml:id="place_4160709db9e1cdde5a7947ce6d71bb0d" type="placeName">
+                        <placeName type="pref">Schweitz</placeName>
+                        <placeName type="alt">Schweiz</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.8 8.233333</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4053881-3</idno>
+                    </place>
+                <place xml:id="place_9ecc5f8579a8681df839c217e5bfdf5c">
+                        <placeName>Lichtensteig</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.32381 9.08758</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2659898/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

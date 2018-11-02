@@ -112,5 +112,139 @@
                 <p>ergebenster<lb/>Dr. Weiß</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="weiss-johann-baptist">
+                        <persName>
+                            <surname>Weiß</surname>
+                            <forename>Johann Baptist</forename>
+                        </persName>
+                        <note>
+                            <p>Ettenheim 1820–1899 Graz</p>
+                            <p>ab 1844 Lehrer für französische und englische Sprache an der Höheren Bürgerschule in Freiburg, ab 1850 Redakteur der "Freiburger Zeitung", 1853–1891 Prof. für Geschichte an der Universität Graz</p>
+                            <p>http://d-nb.info/gnd/117290629</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117290629</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="stintzing-roderich">
+                        <persName>
+                            <surname>Stintzing</surname>
+                            <forename>Roderich</forename>
+                        </persName>
+                        <note>
+                            <p>Altona 1825–1883 Oberstdorf</p>
+                            <p>Jurist, ab 1852 Privatdozent an der Universität Heidelberg, ab 1854 Prof. an der Universität Basel, ab 1857 Prof. an der Universität Erlangen</p>
+                            <p>http://d-nb.info/gnd/101275056</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/101275056</tei:idno>
+                    </person>
+                <person xml:id="vangerow-karl-adolph">
+                        <persName>
+                            <surname>Vangerow</surname>
+                            <forename>Karl Adolph</forename>
+                        </persName>
+                        <note>
+                            <p>Schiffelbach bei Marburg 1808–1870 Heidelberg</p>
+                            <p>1840–1870 Prof. für Römisches Recht an der Universität Heidelberg</p>
+                            <p>http://d-nb.info/gnd/117346039</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117346039</tei:idno>
+                    </person>
+                <person xml:id="dernburg-heinrich">
+                        <persName>
+                            <surname>Dernburg</surname>
+                            <forename>Heinrich</forename>
+                        </persName>
+                        <note>
+                            <p>Mainz 1829–1907 Charlottenburg</p>
+                            <p>Jurist und Politiker, ab 1854 Prof. der Rechtswissenschaften an der Universität Zürich, ab 1862 Prof. an der Universität Halle-Wittenberg, ab 1873 Prof. an der Universität Berlin</p>
+                            <p>http://d-nb.info/gnd/11867787X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11867787X</tei:idno>
+                    </person>
+                <person xml:id="schmidt-adolf">
+                        <persName>
+                            <surname>Schmidt</surname>
+                            <forename>Adolf</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Lehrer am Lyzeum in Heidelberg</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="bock-cornelius-peter">
+                        <persName>
+                            <surname>Bock</surname>
+                            <forename>Cornelius Peter</forename>
+                        </persName>
+                        <note>
+                            <p>Aachen 1804–1870 Freiburg i. Breisgau</p>
+                            <p>ab 1833 Prof. für Altertumskunde an der Universität Marburg und Brüssel, ab 1858 Ehrenprof. der Universität Freiburg</p>
+                            <p>http://d-nb.info/gnd/116214023</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116214023</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_63714a562352ef3ae472da20ed0384c0" type="placeName">
+                        <placeName type="pref">Baden-Baden</placeName>
+                        <placeName type="alt">Baden-Baden</placeName>
+                    </place>
+                <place xml:id="place_35ec7062379a5b1e1743de648e2f3809">
+                        <placeName>Heidelberg</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.40768 8.69079</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2907911/</idno>
+                    </place>
+                <place xml:id="place_84741e39bd2250054745bd841d851b05">
+                        <placeName>Freiburg im Breisgau</placeName>
+                        <placeName type="pref">Freiburg i. B.</placeName>
+                        <placeName type="alt">Freiburg i. B.</placeName>
+                        <placeName type="alt">Freiburg</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.9959 7.85222</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2925177/</idno>
+                    </place>
+                <place xml:id="place_162b390989a8678640067963acb65109">
+                        <placeName>Deutschland</placeName>
+                        <placeName type="alt">Deutschlands</placeName>
+                        <placeName type="alt">Germany</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.5 10.5</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2921044/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

@@ -99,5 +99,33 @@
                 </p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="contriner-leonhard">
+                        <persName>
+                            <surname>Contriner</surname>
+                            <forename>Leonhard</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Lehrer der Religionslehre am Schottengymnasium in Wien, Pfarrer in Gumpendorf</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_9bb9483758fe5780cf4244971ccd4578">
+                        <placeName>Wien-Gumpendorf</placeName>
+                        <placeName type="pref">gumpendorf</placeName>
+                        <placeName type="alt">Gumpendf.</placeName>
+                        <placeName type="alt">Gumpendorf</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.191389 16.347778</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4136052-7</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

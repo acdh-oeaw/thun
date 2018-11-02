@@ -176,5 +176,37 @@
                     welche dem praktischen Zwecke, um den es sich handelt, am besten entspricht.</p>
             </div>
         </body>
+    <back>
+            <listPlace>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+                <place xml:id="place_d3d8d213fb1fbd178f1c9c4aea35cbc6" type="placeName">
+                        <placeName type="pref">Tirol</placeName>
+                        <placeName type="alt">Tyrol</placeName>
+                        <placeName type="alt">Tirols</placeName>
+                        <location>
+                            <geo decls="#LatLng">47 11</geo>
+                        </location>
+                        <idno>http://www.geonames.org/2763587</idno>
+                    </place>
+                <place xml:id="place_f7197ed66a15667400bf934725fd7c3c" type="placeName">
+                        <placeName type="pref">Lombardie und
+                            Venedig</placeName>
+                        <placeName type="alt">Lombardo-Venetien</placeName>
+                        <placeName type="alt">lombardisch-venezianischen
+                            Königreichs</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.4375 12.335833</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4215793-6</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

@@ -114,5 +114,157 @@
                 <p>Leipzig, den 17. Juli 1850</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="tischendorf-constantin">
+                        <persName>
+                            <surname>Tischendorf</surname>
+                            <forename>Konstantin</forename>
+                        </persName>
+                        <note>
+                            <p>Lengenfeld 1815–1874 Leipzig</p>
+                            <p>evang. Theologe, ab 1851 Honorarprof. an der Universität Leipzig, 1859 Prof. für Theologie und biblische Paläographie</p>
+                            <p>http://d-nb.info/gnd/118622900</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118622900</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="kuefstein-franz-seraph">
+                        <persName>
+                            <surname>Kuefstein</surname>
+                            <forename>Franz Seraph</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1794 –1871 Wien</p>
+                            <p>ab 1843 Gesandter in Dresden, 1856–1871 Obersthofmarschall</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="schwarzenberg-felix">
+                        <persName>
+                            <surname>Schwarzenberg</surname>
+                            <forename>Felix</forename>
+                        </persName>
+                        <note>
+                            <p>Böhmisch-Krumau 1800–1852 Wien</p>
+                            <p>Diplomat und Politiker, November 1848–1852 Ministerpräsident</p>
+                            <p>http://d-nb.info/gnd/118612050</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118612050</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_4a887b8a68acf9b04d9d027bddedb06b">
+                        <placeName>Leipzig</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.33962 12.37129</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2879139/</idno>
+                    </place>
+                <place xml:id="place_ccbee73cd81c7f42405e1920409247ec">
+                        <placeName>Paris</placeName>
+                        <placeName type="pref">paris</placeName>
+                        <placeName type="alt">Pariser</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.85341 2.3488</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2988507/</idno>
+                    </place>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_55899fef2f0b2eba13eb1316b34b3694" type="placeName">
+                        <placeName type="pref">Europe</placeName>
+                        <placeName type="alt">Europa</placeName>
+                        <location>
+                            <geo decls="#LatLng">54.9 25.316667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4015701-5</idno>
+                    </place>
+                <place xml:id="place_80c239e539544aa459dc13996638cb2f">
+                        <placeName>Venedig</placeName>
+                        <placeName type="pref">venedig</placeName>
+                        <placeName type="alt">Venedigs</placeName>
+                        <placeName type="alt">Vendig</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.43713 12.33265</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3164603/</idno>
+                    </place>
+                <place xml:id="place_e30630933146ed8683482de23229fd6a">
+                        <placeName>Milan</placeName>
+                        <placeName type="pref">mailand</placeName>
+                        <placeName type="alt">Mailand</placeName>
+                        <placeName type="alt">Mailands</placeName>
+                        <placeName type="alt">Milano</placeName>
+                        <placeName type="alt">Mailand’s</placeName>
+                        <placeName type="alt">questa Città</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.46416 9.19199</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/6542283/</idno>
+                    </place>
+                <place xml:id="place_d32a635cff5dcc73a609d313801541d4">
+                        <placeName>Verona</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.4299 10.98444</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3164527/</idno>
+                    </place>
+                <place xml:id="place_867b530d8072e0e4d907aa82937d3e01" type="placeName">
+                        <placeName type="pref">Böhmen</placeName>
+                        <location>
+                            <geo decls="#LatLng">50 14.5</geo>
+                        </location>
+                        <idno>http://www.geonames.org/3078198</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

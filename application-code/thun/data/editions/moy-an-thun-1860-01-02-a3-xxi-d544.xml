@@ -108,5 +108,118 @@
                 <p>Innsbruck, den 2. Jänner 1860</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="moy-de-sons-ernst">
+                        <persName>
+                            <surname>Moy de Sons</surname>
+                            <forename>Ernst</forename>
+                        </persName>
+                        <note>
+                            <p>München 1799–1867 Innsbruck</p>
+                            <p>ab 1832 Prof. für Natur- und Staatsrecht an der Universität Würzburg, 1837–1847 Prof. für Staatsrecht an der Universität München, ab 1851 Prof. für Kirchenrecht und Deutsche Reichs- und Rechtsgeschichte an der Universität Innsbruck</p>
+                            <p>http://d-nb.info/gnd/174390033</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/174390033</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="schuler-johannes">
+                        <persName>
+                            <surname>Schuler</surname>
+                            <forename>Johannes</forename>
+                        </persName>
+                        <note>
+                            <p>Matrei in Tirol 1800–1859 Innsbruck</p>
+                            <p>1828–1848 Redakteur des „Bothen für Tirol und Vorarlberg“, 1831–1852 ständ. Archivar in Innsbruck, ab 1849 Prof. für Rechtsphilosophie an der Universität Innsbruck</p>
+                            <p>http://d-nb.info/gnd/117130842</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117130842</tei:idno>
+                    </person>
+                <person xml:id="indermauer-karl">
+                        <persName>
+                            <surname>Indermauer</surname>
+                            <forename>Karl</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Ministerialkonzipist</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="wildauer-tobias">
+                        <persName>
+                            <surname>Wildauer</surname>
+                            <forename>Tobias</forename>
+                        </persName>
+                        <note>
+                            <p>Fügen 1825–1898 Innsbruck</p>
+                            <p>ab 1850 Lehrer für Latein und Griechisch am akademischen Gymnasium Innsbruck, ab 1857 Supplent der philosophischen Lehrkanzel an der Universität Innsbruck, 1858–1896 Prof. der Philosophie und Ästhetik an der Univ. Innsbruck, 1873–1897 Mitglied im Reichsrat</p>
+                            <p>http://d-nb.info/gnd/117379735</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117379735</tei:idno>
+                    </person>
+                <person xml:id="rossbach-johann">
+                        <persName>
+                            <surname>Roßbach</surname>
+                            <forename>Johann Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>Würzburg 1813–1869</p>
+                            <p>1848 rechtskundiger Rat in Würzburg, 1849 Landtagsabg. in München</p>
+                            <p>http://d-nb.info/gnd/116630280</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116630280</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_aaf49a1292fa1004fcffc4eebe9bdaa0">
+                        <placeName>Innsbruck</placeName>
+                        <placeName type="alt">Insbruck</placeName>
+                        <placeName type="alt">Insprucker</placeName>
+                        <placeName type="alt">Inspruck</placeName>
+                        <placeName type="alt">Innsbrucker</placeName>
+                        <placeName type="alt">hier</placeName>
+                        <placeName type="alt">o. O. [Innsbruck]</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.26266 11.39454</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2775220/</idno>
+                    </place>
+                <place xml:id="place_4a09693dd4922847cb8cece9a260c1da">
+                        <placeName>Gent</placeName>
+                        <placeName type="pref">gent</placeName>
+                        <placeName type="alt">Genter</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.05 3.71667</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2797656/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

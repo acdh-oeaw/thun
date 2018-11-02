@@ -725,5 +725,361 @@
                 </div>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+                <person xml:id="bach-alexander">
+                        <persName>
+                            <surname>Bach</surname>
+                            <forename>Alexander</forename>
+                        </persName>
+                        <note>
+                            <p>Loosdorf 1813–1893 Unterwaltersdorf</p>
+                            <p>Juli und Okt. 1848 Justizminister, ab Juli 1849 Minister des Innern, 1859–1867 österr. Botschafter im Vatikan</p>
+                            <p>http://d-nb.info/gnd/118651455</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118651455</tei:idno>
+                    </person>
+                <person xml:id="wolkenstein-leopold">
+                        <persName>
+                            <surname>Wolkenstein-Trostburg</surname>
+                            <forename>Leopold</forename>
+                        </persName>
+                        <note>
+                            <p>Passau 1800–1862 Trient</p>
+                            <p>1848 Präsident des konstituierenden Tiroler Landtages, 1860–1861 Tiroler Landeshauptmann</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+                <place xml:id="place_d3d8d213fb1fbd178f1c9c4aea35cbc6" type="placeName">
+                        <placeName type="pref">Tirol</placeName>
+                        <placeName type="alt">Tyrol</placeName>
+                        <placeName type="alt">Tirols</placeName>
+                        <location>
+                            <geo decls="#LatLng">47 11</geo>
+                        </location>
+                        <idno>http://www.geonames.org/2763587</idno>
+                    </place>
+                <place xml:id="place_6c26d83c5622aa697d39a9ca0aaff52b" type="placeName">
+                        <placeName type="pref">Vorarlberg</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.25 9.91667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4063944-7</idno>
+                    </place>
+                <place xml:id="place_8f37567814d3a88b7c487c48699476fa">
+                        <placeName>Trento</placeName>
+                        <placeName type="pref">Trient</placeName>
+                        <placeName type="alt">Trient.</placeName>
+                        <placeName type="alt">Trientiner</placeName>
+                        <placeName type="alt">Trienter</placeName>
+                        <placeName type="alt">Trient</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.06787 11.12108</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3165243/</idno>
+                    </place>
+                <place xml:id="place_478686b5e2ebec6de738cf25710e7108">
+                        <placeName>Brixen</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.71503 11.65598</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3181550/</idno>
+                    </place>
+                <place xml:id="place_f2646aa02d03ac5a141ef404d919cd11">
+                        <placeName>Salzburg</placeName>
+                        <placeName type="pref">salzburg</placeName>
+                        <placeName type="alt">Salzburger</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.79941 13.04399</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2766824/</idno>
+                    </place>
+                <place xml:id="place_a9e7d20b2da57e43fd68b658f5ea477d" type="placeName">
+                        <placeName type="pref">Wilten</placeName>
+                        <placeName type="alt">Wilten</placeName>
+                    </place>
+                <place xml:id="place_ad1fcb632002560ec75f19327065e467">
+                        <placeName>Stams</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.27603 10.98315</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2764669/</idno>
+                    </place>
+                <place xml:id="place_3cd12a15f599840b0400eb546f5793f2">
+                        <placeName>Novacella</placeName>
+                        <placeName type="pref">Neustift</placeName>
+                        <placeName type="alt">Neustift</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.74313 11.64801</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3172196/</idno>
+                    </place>
+                <place xml:id="place_0f28f87ed21cbe638982f7a2c303ad46">
+                        <placeName>Fiecht</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.35 11.7</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2779594/</idno>
+                    </place>
+                <place xml:id="place_776af3d8966c4f90cc4f1437604e5d80">
+                        <placeName>Marienberg</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.7061609 10.516848</geo>
+                        </location>
+                    </place>
+                <place xml:id="place_2781d78cf5bdbb757c7c275e91694387">
+                        <placeName>Innichen</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.7324 12.27855</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3168508/</idno>
+                    </place>
+                <place xml:id="place_3759c8464ee4c9a3bc2a2833ecb4a535">
+                        <placeName>Arco</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.91772 10.88672</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3182910/</idno>
+                    </place>
+                <place xml:id="place_e610955f9b1286d934a0a5447e5e5192">
+                        <placeName>Rovereto</placeName>
+                        <placeName type="pref">rovereto</placeName>
+                        <placeName type="alt">Roveredo</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.8904 11.04053</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3168854/</idno>
+                    </place>
+                <place xml:id="place_3859ff9074d497ed0cb3c08be85996ad">
+                        <placeName>Bolzano</placeName>
+                        <placeName type="pref">Bozen</placeName>
+                        <placeName type="alt">Bozen</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.49067 11.33982</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3181913/</idno>
+                    </place>
+                <place xml:id="place_7580f5f486c19fc6b5b0dec742ca1949">
+                        <placeName>Gries</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.51667 11.33333</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3175824/</idno>
+                    </place>
+                <place xml:id="place_aaf49a1292fa1004fcffc4eebe9bdaa0">
+                        <placeName>Innsbruck</placeName>
+                        <placeName type="alt">Insbruck</placeName>
+                        <placeName type="alt">Insprucker</placeName>
+                        <placeName type="alt">Inspruck</placeName>
+                        <placeName type="alt">Innsbrucker</placeName>
+                        <placeName type="alt">hier</placeName>
+                        <placeName type="alt">o. O. [Innsbruck]</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.26266 11.39454</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2775220/</idno>
+                    </place>
+                <place xml:id="place_834e1bca2cb7d2238249e70860ed8ae8">
+                        <placeName>Meran</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.66817 11.15953</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3173577/</idno>
+                    </place>
+                <place xml:id="place_75002fe48442a02a55971f48cebbe3e4">
+                        <placeName>Hall in Tirol</placeName>
+                        <placeName type="pref">Hall</placeName>
+                        <placeName type="alt">Hall</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.28333 11.51667</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2764958/</idno>
+                    </place>
+                <place xml:id="place_315d421b9b58cdf1a1fa4cf25e9e80d1">
+                        <placeName>Rattenberg</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.43861 11.89374</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/7873655/</idno>
+                    </place>
+                <place xml:id="place_1f677c99e6107ea20540f650293adf9b">
+                        <placeName>Kitzbühel</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.44637 12.39215</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2774347/</idno>
+                    </place>
+                <place xml:id="place_7c7a6bca9c2979ea2bd6510f15ee2cc7">
+                        <placeName>Kufstein</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.58333 12.16667</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2773300/</idno>
+                    </place>
+                <place xml:id="place_88efeb2b7acfb455f327a86818da75f6">
+                        <placeName>Sterzing</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.89313 11.42961</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3164065/</idno>
+                    </place>
+                <place xml:id="place_a828b1d5b90cb042fa9b608a374f8fb1">
+                        <placeName>Klausen</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.64001 11.56573</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3178764/</idno>
+                    </place>
+                <place xml:id="place_d638cd7d14166fe5189912d158fd557b">
+                        <placeName>Bruneck</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.79942 11.93429</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3181480/</idno>
+                    </place>
+                <place xml:id="place_4d20f079bfe1a95d5595e8064393ab40">
+                        <placeName>Lienz</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.8289 12.76903</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2772505/</idno>
+                    </place>
+                <place xml:id="place_321c94cd31f1ea1c03d5abf68bed32be">
+                        <placeName>Glorenza</placeName>
+                        <placeName type="pref">Glurns</placeName>
+                        <placeName type="alt">Glurns</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.67021 10.55485</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/6535900/</idno>
+                    </place>
+                <place xml:id="place_c795b6d7a8a0ed049dc33bf44272ab39">
+                        <placeName>Vils</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.55 10.63333</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2762358/</idno>
+                    </place>
+                <place xml:id="place_fb304904e47de2eca0f44779a05fab4e">
+                        <placeName>Schwaz</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.33906 11.73357</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/7872634/</idno>
+                    </place>
+                <place xml:id="place_63153a873b287afcf4a6418d812be951">
+                        <placeName>Imst</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.24504 10.73974</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2775307/</idno>
+                    </place>
+                <place xml:id="place_86fb371c3226628c38a00c85b3560d7e">
+                        <placeName>Reutte</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.48333 10.71667</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2767511/</idno>
+                    </place>
+                <place xml:id="place_84465f5d4faee0a7e284c0f3878b528a">
+                        <placeName>Riva del Garda</placeName>
+                        <placeName type="pref">Riva</placeName>
+                        <placeName type="alt">Riva</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.88577 10.84117</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3169272/</idno>
+                    </place>
+                <place xml:id="place_99b3a2abb4050d5bef6da28efdc9552f" type="placeName">
+                        <placeName type="pref">Arco</placeName>
+                        <placeName type="alt">Arko</placeName>
+                    </place>
+                <place xml:id="place_5c3bb83961c60315165392ebd7410e6f">
+                        <placeName>Ala</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.76072 11.00458</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3183374/</idno>
+                    </place>
+                <place xml:id="place_6b2c5c4a1960cb332c9be9ee3abf450c">
+                        <placeName>Pergine Valsugana</placeName>
+                        <placeName type="pref">Pergine</placeName>
+                        <placeName type="alt">Pergine</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.065 11.23798</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/6536242/</idno>
+                    </place>
+                <place xml:id="place_ae89004a5cb8e07a9a099b1fcf87b6aa">
+                        <placeName>Levico Terme</placeName>
+                        <placeName type="pref">levico</placeName>
+                        <placeName type="alt">Leviko</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.01217 11.30427</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3174784/</idno>
+                    </place>
+                <place xml:id="place_a736a3ca909e94df53de0d2bf7fec40c">
+                        <placeName>Borgo</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.05141 11.45439</geo>
+                        </location>
+                    </place>
+                <place xml:id="place_c14c843590b723310e024a354c5a5929">
+                        <placeName>Lavis</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.14131 11.10931</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3174984/</idno>
+                    </place>
+                <place xml:id="place_53eda3d01e8560c49da346baa2680892">
+                        <placeName>Cles</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.36294 11.03276</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3178548/</idno>
+                    </place>
+                <place xml:id="place_8fff1c32b468ddb7ab0c8a88fc824124">
+                        <placeName>Fondo</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.4388 11.13723</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3176836/</idno>
+                    </place>
+                <place xml:id="place_601df943a89d2ac73e0e43a5d37fc228">
+                        <placeName type="pref">Ungarn</placeName>
+                        <placeName type="alt">Ungarns</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.0 20.0</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/719819/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

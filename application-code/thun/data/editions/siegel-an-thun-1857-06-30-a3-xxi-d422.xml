@@ -83,5 +83,59 @@
                 <p>Gießen, 30. Juni 1857</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="siegel-heinrich">
+                        <persName>
+                            <surname>Siegel</surname>
+                            <forename>Heinrich</forename>
+                        </persName>
+                        <note>
+                            <p>Ladenburg in Baden 1830–1899 Wien</p>
+                            <p>ab 1853 Privatdozent für deutsches Recht an der Universität Gießen, 1857–1897 Prof. für deutsche Reichs- und Rechtsgeschichte und deutsches Privatrecht an der Universität Wien, ab 1863 Mitglied der Akademie der Wissenschaften</p>
+                            <p>http://d-nb.info/gnd/117360384</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117360384</tei:idno>
+                    </person>
+                <person xml:id="schulte-friedrich">
+                        <persName>
+                            <surname>Schulte</surname>
+                            <forename>Johann Friedrich</forename>
+                        </persName>
+                        <note>
+                            <p>Winterberg 1827–1914 Meran</p>
+                            <p>ab 1854 Privatdozent an der Universität Bonn, 1855 Prof. für Kirchenrecht und deutsche Reichs- und Rechtsgeschichte an der Universität Prag, 1873–1906 Prof. für Kirchengeschichte an der Universität Bonn</p>
+                            <p>http://d-nb.info/gnd/11861133X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11861133X</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_d54f6cc2237a0ee51accd7a92bf76db1">
+                        <placeName>Giessen</placeName>
+                        <placeName type="pref">Gießen</placeName>
+                        <placeName type="alt">Gießen</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.58727 8.67554</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2920512/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

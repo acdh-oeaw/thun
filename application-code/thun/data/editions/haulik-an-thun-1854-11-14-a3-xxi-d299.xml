@@ -166,5 +166,93 @@
                 <p>Agram den 14. November 1854</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="haulik-georg">
+                        <persName>
+                            <surname>Haulik von Várallya</surname>
+                            <forename>Georg</forename>
+                        </persName>
+                        <note>
+                            <p>Tyrnau 1788–1869 Agram</p>
+                            <p>ab 1825 Domherr in Gran, ab 1830 Statthaltereirat und tit. Bischof von Priština, ab 1831 Rat der ungar. Hofkanzlei, ab 1832 Großpropst in Agram, ab 1837 Bischof von Agram, ab 1853 Erzbischof, ab 1857 Kardinal</p>
+                            <p>http://d-nb.info/gnd/117504246</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117504246</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="iliasevic-stephan">
+                        <persName>
+                            <surname>Iliašević</surname>
+                            <forename>Stephan</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Schulrat in Agram</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="premru-joseph">
+                        <persName>
+                            <surname>Premru</surname>
+                            <forename>Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>bis 1852 Lehrer am Gymnasium in Görz, ab 1852 Direktor am Gymnasium in Agram, 1860 Direktor am Gymnasium in Cilli</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="verbanic">
+                        <persName>
+                            <surname>Verbanić</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Katechet</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_104b5ac4af06263707f5418d171ffe3d">
+                        <placeName>Zagreb</placeName>
+                        <placeName type="pref">Agram [Zagreb]</placeName>
+                        <placeName type="alt">Agramer</placeName>
+                        <placeName type="alt">Agrams</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.81444 15.97798</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3186886/</idno>
+                        <idno>http://d-nb.info/gnd/4108914-5</idno>
+                    </place>
+                <place xml:id="place_4edebf53d35796825850af5173be1198">
+                        <placeName>Varaždin</placeName>
+                        <placeName type="pref">varazdin</placeName>
+                        <placeName type="alt">Warasdin</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.30444 16.33778</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3188383/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

@@ -92,5 +92,69 @@
                 <p>Agram, den 13. November 1860</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="haulik-georg">
+                        <persName>
+                            <surname>Haulik von Várallya</surname>
+                            <forename>Georg</forename>
+                        </persName>
+                        <note>
+                            <p>Tyrnau 1788–1869 Agram</p>
+                            <p>ab 1825 Domherr in Gran, ab 1830 Statthaltereirat und tit. Bischof von Priština, ab 1831 Rat der ungar. Hofkanzlei, ab 1832 Großpropst in Agram, ab 1837 Bischof von Agram, ab 1853 Erzbischof, ab 1857 Kardinal</p>
+                            <p>http://d-nb.info/gnd/117504246</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117504246</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_104b5ac4af06263707f5418d171ffe3d">
+                        <placeName>Zagreb</placeName>
+                        <placeName type="pref">Agram [Zagreb]</placeName>
+                        <placeName type="alt">Agramer</placeName>
+                        <placeName type="alt">Agrams</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.81444 15.97798</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3186886/</idno>
+                        <idno>http://d-nb.info/gnd/4108914-5</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

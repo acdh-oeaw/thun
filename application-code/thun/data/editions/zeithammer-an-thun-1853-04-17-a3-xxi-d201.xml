@@ -100,5 +100,80 @@
                 <p>Königgrätz, 17. April 1853</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="zeithammer-gregor">
+                        <persName>
+                            <surname>Zeithammer</surname>
+                            <forename>Gregor</forename>
+                        </persName>
+                        <note>
+                            <p>Stekná 1800–1881</p>
+                            <p>Prof. am Gymnasium in Pisek, Prof. am Kleinseitner Gymnasium in Prag, 1850 Gymnasialinspektor für Böhmen</p>
+                            <p>http://d-nb.info/gnd/103366622X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/103366622X</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="kleemann-johann">
+                        <persName>
+                            <surname>Kleemann</surname>
+                            <forename>Johann</forename>
+                        </persName>
+                        <note>
+                            <p>Czernowitz 1808–1885 Wien</p>
+                            <p>ab 1840 Professor für Weltgeschichte und Philologie an der phil. Lehranstalt in Görz, später in Laibach, ab 1850 Schulrat und Gymnasialinspektor für Steiermark, Kärnten und Krain, ab 1851 Sektionsrat im Ministerium für Kultus und Unterricht,  ab 1854 Ministerialrat</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="klumpar-johann">
+                        <persName>
+                            <surname>Klumpar</surname>
+                            <forename>Johann</forename>
+                        </persName>
+                        <note>
+                            <p>Chrast 1826–1909 Königgrätz</p>
+                            <p>Gymnasiallehrer, ab 1853 Lehrer für klass. Philologie am Gymnasium in Iglau, ab 1856 Direktor des Gymnasiums in Lugosch, 1858–1861 Prof. in Neuhaus</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_b19bff5a3b79c0971a99eefa36cc1670">
+                        <placeName>Hradec Králové</placeName>
+                        <placeName type="pref">koeniggraetz</placeName>
+                        <placeName type="alt">Königgrätz</placeName>
+                        <placeName type="alt">Königgraz</placeName>
+                        <placeName type="alt">Königingrätz</placeName>
+                        <placeName type="alt">Königgrätz</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.20923 15.83277</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3074967/</idno>
+                    </place>
+                <place xml:id="place_867b530d8072e0e4d907aa82937d3e01" type="placeName">
+                        <placeName type="pref">Böhmen</placeName>
+                        <location>
+                            <geo decls="#LatLng">50 14.5</geo>
+                        </location>
+                        <idno>http://www.geonames.org/3078198</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

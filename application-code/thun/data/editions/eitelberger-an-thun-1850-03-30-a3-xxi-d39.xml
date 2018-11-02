@@ -101,5 +101,125 @@
                 <p>Wien, den 30. März [1]850</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="eitelberger-rudolf">
+                        <persName>
+                            <surname>Eitelberger-Edelberg</surname>
+                            <forename>Rudolf</forename>
+                        </persName>
+                        <note>
+                            <p>Olmütz 1817–1885 Wien</p>
+                            <p>ab 1847 Privatdozent für Theorie und Geschichte der bildenden Künste an der Universität Wien, ab 1852 Prof. für Kunstgeschichte an der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/116437456</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116437456</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="filippi-gian-giuseppe">
+                        <persName>
+                            <surname>Filippi</surname>
+                            <forename>Gian-Giuseppe</forename>
+                        </persName>
+                        <note>
+                            <p>Zara 1787–1851 Zara</p>
+                            <p>Advokat, 1848–1849 Reichstagsabgeordneter für Zara</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="godeassi-giuseppe">
+                        <persName>
+                            <surname>Godeassi</surname>
+                            <forename>Giuseppe</forename>
+                        </persName>
+                        <note>
+                            <p>1788–1861</p>
+                            <p>ab 1843 Erzbischof von Zara</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="heider-gustav">
+                        <persName>
+                            <surname>Heider</surname>
+                            <forename>Gustav</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1819–1897 Wien</p>
+                            <p>ab 1842 Assistent in der Bibliothek der Akademie der bildenden Künste in Wien, 1850–1880 Kunstreferent im Ministerium für Kultus und Unterricht</p>
+                            <p>http://d-nb.info/gnd/10737742X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/10737742X</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_271d9608b4f6e55e8f4ec78b040ead1a">
+                        <placeName>Zadar</placeName>
+                        <placeName type="pref">Zadar [Zara]</placeName>
+                        <placeName type="alt">Zara</placeName>
+                        <location>
+                            <geo decls="#LatLng">44.11972 15.24222</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3186952/</idno>
+                    </place>
+                <place xml:id="place_001331e8b2651f9f78991538c3a7e594" type="placeName">
+                        <placeName type="pref">Dalmazien</placeName>
+                        <placeName type="alt">Dalmatien</placeName>
+                        <location>
+                            <geo decls="#LatLng">43.812761 16.218756</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4070200-5</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

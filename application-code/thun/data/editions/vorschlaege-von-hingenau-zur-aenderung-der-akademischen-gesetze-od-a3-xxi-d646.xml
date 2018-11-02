@@ -154,5 +154,35 @@
                 <p>Otto Freiherr von Hingenau</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="hingenau-otto">
+                        <persName>
+                            <surname>Hingenau</surname>
+                            <forename>Otto Bernhard</forename>
+                        </persName>
+                        <note>
+                            <p>Triest 1818–1872 Wien</p>
+                            <p>Jurist, 1840–1843 an der Bergakademie in Schemnitz, ab 1843 am Berggericht in Kuttenberg, 1845 am Oberbergamt in Leoben, ab 1846 bei der Hofkammer in Münz- und Bergwesen in Wien, ab 1848 als Bergsubstitut in Brünn, ab 1850 prov. Berghauptmann in Brünn, 1850–1865 Prof. des Bergrechts und der Nationalökonomie an der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/116896736</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116896736</tei:idno>
+                    </person>
+                <person xml:id="haimerl-franz-xaver">
+                        <persName>
+                            <surname>Haimerl</surname>
+                            <forename>Franz Xaver</forename>
+                        </persName>
+                        <note>
+                            <p>Mariánské Lázně 1806–1867 Wien</p>
+                            <p>Jurist, ab 1836 Prof. des Lehen-, Handels- und Wechselrechts, des gerichtlichen Verfahrens und des Geschäftsstils an der Universität Prag, ab 1852 Prof. des zivilgerichtlichen Verfahrens und des Lehenrechtes an der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/116392584</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116392584</tei:idno>
+                    </person>
+            </listPerson>
+        </back>
     </text>
 </TEI>

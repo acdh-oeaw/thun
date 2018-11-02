@@ -65,5 +65,47 @@
                 <p>30.3.[18]50</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="jelacic-joseph">
+                        <persName>
+                            <surname>Jelačič</surname>
+                            <forename>Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>Peterwardein 1801–1859 Agram</p>
+                            <p>ab 1848 Banus von Kroatien</p>
+                            <p>http://d-nb.info/gnd/118776088</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118776088</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-caroline">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Caroline</forename>
+                        </persName>
+                        <note>
+                            <p>1822–1898 Bad Ischl</p>
+                            <p>geb. Clam-Martinic, ab 1847 Gattin von Leo Thun</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="clam-martinic-selina">
+                        <persName>
+                            <surname>Clam-Martinic</surname>
+                            <forename>Selina</forename>
+                        </persName>
+                        <note>
+                            <p>1792–1872</p>
+                            <p>geb. Lady Meade, Mutter von Caroline Thun</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+        </back>
     </text>
 </TEI>

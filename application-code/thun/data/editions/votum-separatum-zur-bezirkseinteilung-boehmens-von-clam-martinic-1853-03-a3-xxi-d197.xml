@@ -197,5 +197,44 @@
                 <p>Graf Clam-Martinitz mp</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="clam-martinic-heinrich-jaroslav">
+                        <persName>
+                            <surname>Clam-Martinic</surname>
+                            <forename>Heinrich Jaroslav</forename>
+                        </persName>
+                        <note>
+                            <p>St. Georgen, Ungarn 1826–1887 Prag</p>
+                            <p>1853–1859 Landespräsident von Westgalizien, 1860 Mitglied des Reichsrates, Ehrenmitglied der Kgl.-Böhm. Gesellschaft der Wissenschaften, Schwager von Leo Thun</p>
+                            <p>http://d-nb.info/gnd/136186343</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/136186343</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_e575530bd7a9cc03829dde0b8657f108">
+                        <placeName>Prag</placeName>
+                        <placeName type="alt">Prager</placeName>
+                        <placeName type="alt">Prahy</placeName>
+                        <placeName type="alt">Prags</placeName>
+                        <placeName type="alt">o. O. [Prag]</placeName>
+                        <placeName type="alt">hier</placeName>
+                        <placeName type="alt">Praze</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.08804 14.42076</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3067696/</idno>
+                    </place>
+                <place xml:id="place_867b530d8072e0e4d907aa82937d3e01" type="placeName">
+                        <placeName type="pref">Böhmen</placeName>
+                        <location>
+                            <geo decls="#LatLng">50 14.5</geo>
+                        </location>
+                        <idno>http://www.geonames.org/3078198</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

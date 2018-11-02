@@ -111,5 +111,162 @@
                 <p>Venedig 28. Juli 1857</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="eitelberger-rudolf">
+                        <persName>
+                            <surname>Eitelberger-Edelberg</surname>
+                            <forename>Rudolf</forename>
+                        </persName>
+                        <note>
+                            <p>Olmütz 1817–1885 Wien</p>
+                            <p>ab 1847 Privatdozent für Theorie und Geschichte der bildenden Künste an der Universität Wien, ab 1852 Prof. für Kunstgeschichte an der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/116437456</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116437456</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="bonghi-ruggiero">
+                        <persName>
+                            <surname>Bonghi</surname>
+                            <forename>Ruggiero</forename>
+                        </persName>
+                        <note>
+                            <p>Neapel 1826–1895 Torre del Creco</p>
+                            <p>Altphilologe, Schriftsteller, Politiker und Journalist, ab 1859 Prof. für altgriechische Sprache an der Universität Pavia, ab 1865 Prof. für Lateinische Literatur an der Universität Florenz, ab 1867 Prof. für Alte Geschichte an der Universität Mailand, 1873–1876 Bildungsminister</p>
+                            <p>http://d-nb.info/gnd/119427060</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119427060</tei:idno>
+                    </person>
+                <person xml:id="mozart-joseph">
+                        <persName>
+                            <surname>Mozart</surname>
+                            <forename>Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1805–1892 Wien</p>
+                            <p>ab 1849 Sektionsrat im Ministerium für Kultus und Unterricht, 1857 Ministerialrat, zunächst Referent für Gymnasialangelegenheiten, dann für die italienischen Mittelschulen und Universitäten, 1849–1863 Mitglied der Redaktion der Zeitschrift für die Österreichischen Gymnasien</p>
+                            <p>http://d-nb.info/gnd/1023724472</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1023724472</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_80c239e539544aa459dc13996638cb2f">
+                        <placeName>Venedig</placeName>
+                        <placeName type="pref">venedig</placeName>
+                        <placeName type="alt">Venedigs</placeName>
+                        <placeName type="alt">Vendig</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.43713 12.33265</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3164603/</idno>
+                    </place>
+                <place xml:id="place_d32a635cff5dcc73a609d313801541d4">
+                        <placeName>Verona</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.4299 10.98444</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3164527/</idno>
+                    </place>
+                <place xml:id="place_5c84ba9da04ce27ecc429452d1d8e467">
+                        <placeName>Ravenna</placeName>
+                        <location>
+                            <geo decls="#LatLng">44.41344 12.20121</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3169561/</idno>
+                    </place>
+                <place xml:id="place_0c3c889cb60322b10d890d76a05f816e">
+                        <placeName>Brescia</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.53558 10.21472</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3181554/</idno>
+                    </place>
+                <place xml:id="place_0baa6458315a6490f3838a891c41ba27">
+                        <placeName>Modena</placeName>
+                        <location>
+                            <geo decls="#LatLng">44.64783 10.92539</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3173331/</idno>
+                    </place>
+                <place xml:id="place_7014d0181914fb4722b90a49d53f5471">
+                        <placeName>Bologna</placeName>
+                        <location>
+                            <geo decls="#LatLng">44.49381 11.33875</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3181928/</idno>
+                    </place>
+                <place xml:id="place_5f397a1e588cfe96b4aa4bab7a5b1d44">
+                        <placeName>Rom</placeName>
+                        <placeName type="alt">Rome</placeName>
+                        <placeName type="alt">Roms</placeName>
+                        <location>
+                            <geo decls="#LatLng">41.89193 12.51133</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3169070/</idno>
+                    </place>
+                <place xml:id="place_f7197ed66a15667400bf934725fd7c3c" type="placeName">
+                        <placeName type="pref">Lombardie und
+                            Venedig</placeName>
+                        <placeName type="alt">Lombardo-Venetien</placeName>
+                        <placeName type="alt">lombardisch-venezianischen
+                            Königreichs</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.4375 12.335833</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4215793-6</idno>
+                    </place>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

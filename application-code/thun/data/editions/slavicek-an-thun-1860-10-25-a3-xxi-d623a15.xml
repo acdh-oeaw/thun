@@ -110,5 +110,76 @@
                     Rechte</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="slavicek-josef">
+                        <persName>
+                            <surname>Slavíček</surname>
+                            <forename>Josef</forename>
+                        </persName>
+                        <note>
+                            <p>Tischitz 1818–1867 Prag</p>
+                            <p>ab 1846 Gerichtsdienst in Prag, Königgrätz und Neuhaus, ab 1858 Prof. für Zivil- und Strafrecht in Pressburg, 1861 Prof. für Strafrecht an der Universität Prag</p>
+                            <p>http://d-nb.info/gnd/1034799150</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1034799150</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_494eccfffbfff4c93f6e601ab346a3cf">
+                        <placeName>Okres Bratislava I</placeName>
+                        <placeName type="pref">Preßburg [Bratislava]</placeName>
+                        <placeName type="alt">Preßburg</placeName>
+                        <placeName type="alt">Presburg</placeName>
+                        <placeName type="alt">Preßburger</placeName>
+                        <placeName type="alt">Presburger</placeName>
+                        <placeName type="alt">Pressburger</placeName>
+                        <placeName type="alt">Pressburg</placeName>
+                        <placeName type="alt">hiesigen</placeName>
+                        <placeName type="alt">Preßburgs</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.14653 17.10584</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/8986283/</idno>
+                    </place>
+                <place xml:id="place_601df943a89d2ac73e0e43a5d37fc228">
+                        <placeName type="pref">Ungarn</placeName>
+                        <placeName type="alt">Ungarns</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.0 20.0</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/719819/</idno>
+                    </place>
+                <place xml:id="place_46ef149805b1b370596a83886b1e010e" type="placeName">
+                        <placeName type="pref">Croazien</placeName>
+                        <placeName type="alt">Kroatien</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.25 15.466667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4073841-3</idno>
+                    </place>
+                <place xml:id="place_45e0bb0b029ff4919974c4717bb7a4b4" type="placeName">
+                        <placeName type="pref">Siebenbürgen</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.5 25</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4054835-1</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

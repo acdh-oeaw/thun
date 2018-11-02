@@ -83,5 +83,44 @@
                 <p>Mainz, 17.1.1860</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="ketteler-wilhelm-emanuel">
+                        <persName>
+                            <surname>Ketteler</surname>
+                            <forename>Wilhelm Emmanuel</forename>
+                        </persName>
+                        <note>
+                            <p>Münster 1811–1877 Burghausen</p>
+                            <p>1850–1877 Bischof von Mainz</p>
+                            <p>http://d-nb.info/gnd/118561723</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118561723</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_3496da6c1db0a5223edb1fb4c415a154">
+                        <placeName>Mainz</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.98419 8.2791</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2874225/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

@@ -84,5 +84,74 @@
                 <p>Bad Gastein, 30. July 1855</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="handel-maximilian">
+                        <persName>
+                            <surname>Handel</surname>
+                            <forename>Maximilian Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>1809–1885 Meran</p>
+                            <p>österr. Gesandter in Stuttgart, Besitzer der Güter Pogenhofen und Hagenau in Oberösterreich</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="pfeiffer-franz">
+                        <persName>
+                            <surname>Pfeiffer</surname>
+                            <forename>Franz</forename>
+                        </persName>
+                        <note>
+                            <p>Solothurn 1815–1868 Wien</p>
+                            <p>1842–1846 Privatgelehrter in Stuttgart, ab 1846 Prof. und Bibliothekar der königl. Bibliothek in Stuttgart, ab 1857 Prof. der deutschen Sprache und Literatur an der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/118740776</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118740776</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_210f0edfbb6ec32a5e855e232eda91b4">
+                        <placeName>Bad Gastein</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.11547 13.13467</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2782058/</idno>
+                    </place>
+                <place xml:id="place_5dac03f57d7cb8586d6e7ee5f9a81bc2" type="placeName">
+                        <placeName type="pref">Ba Gastein</placeName>
+                        <placeName type="alt">Gastein</placeName>
+                    </place>
+                <place xml:id="place_a330ac6c48198545d4d2f9ff2cb0fc05">
+                        <placeName>Stuttgart</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.78232 9.17702</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2825297/</idno>
+                    </place>
+                <place xml:id="place_078e08e659f177dfe034c9d462e508ea">
+                        <placeName>Hagenau</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.27251 13.10145</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2777070/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

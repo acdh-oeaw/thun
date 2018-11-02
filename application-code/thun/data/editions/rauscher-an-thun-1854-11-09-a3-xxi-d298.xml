@@ -91,5 +91,100 @@
                     innigsten Wünsche zum Feste des St. Leopoldtages zu empfangen.</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="rauscher-joseph">
+                        <persName>
+                            <surname>Rauscher</surname>
+                            <forename>Josef Othmar</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1797–1875 Wien</p>
+                            <p>ab 1825 Prof. für Kirchengeschichte und Kirchenrecht am Lyzeum Salzburg, ab 1832 Direktor der orientalischen Akademie in Wien, ab 1849 Fürstbischof von Seckau, ab März 1853 Erzbischof von Wien, ab 1855 Kardinal</p>
+                            <p>http://d-nb.info/gnd/118787977</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118787977</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="scitovsky-jan">
+                        <persName>
+                            <surname>Scitovský</surname>
+                            <forename>Ján</forename>
+                        </persName>
+                        <note>
+                            <p>Košická Belá 1785–1866 Esztergom</p>
+                            <p>ab 1838 Bischof von Pécs, ab 1849 Erzbischof von Esztergom und Primas von Ungarn, seit 1853 Kardinal</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="pius-IX">
+                        <persName>
+                            <surname>Pius IX.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Senigallia 1792–1878 Rom</p>
+                            <p>Papst von 1846–1878</p>
+                            <p>http://d-nb.info/gnd/118594729</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118594729</tei:idno>
+                    </person>
+                <person xml:id="esterhazy-von-galantha-moritz">
+                        <persName>
+                            <surname>Esterházy von Galantha</surname>
+                            <forename>Moritz</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1807–1890 Pirna b. Dresden</p>
+                            <p>Diplomat, Attaché in Paris, Gesandter in Den Haag, 1848–1856 Gesandter in Rom, bis 1866 außenpolitischer Berater von Kaiser Franz Joseph</p>
+                            <p>http://d-nb.info/gnd/135934516</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/135934516</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_5f397a1e588cfe96b4aa4bab7a5b1d44">
+                        <placeName>Rom</placeName>
+                        <placeName type="alt">Rome</placeName>
+                        <placeName type="alt">Roms</placeName>
+                        <location>
+                            <geo decls="#LatLng">41.89193 12.51133</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3169070/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+                <place xml:id="place_4427d8d4fd794c37826d3259a6a9ff53" type="placeName">
+                        <placeName type="pref">Preußen</placeName>
+                        <placeName type="alt">Preussen</placeName>
+                        <location>
+                            <geo decls="#LatLng">52.52437 13.41053</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4047194-9</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

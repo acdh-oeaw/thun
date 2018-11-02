@@ -139,5 +139,50 @@
                     andere zur Wühlerei aus.</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="rainer-ferdinand-erzherzog">
+                        <persName>
+                            <surname>Rainer Ferdinand, Erzherzog</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Mailand 1827–1913 Wien</p>
+                            <p>ab 1857 Reichsratspräsident, 1861–1865 Ministerpräsident, Förderer von Kunst und Wissenschaft</p>
+                            <p>http://d-nb.info/gnd/117700886</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117700886</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_601df943a89d2ac73e0e43a5d37fc228">
+                        <placeName type="pref">Ungarn</placeName>
+                        <placeName type="alt">Ungarns</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.0 20.0</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/719819/</idno>
+                    </place>
+                <place xml:id="place_45e0bb0b029ff4919974c4717bb7a4b4" type="placeName">
+                        <placeName type="pref">Siebenbürgen</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.5 25</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4054835-1</idno>
+                    </place>
+                <place xml:id="place_f7197ed66a15667400bf934725fd7c3c" type="placeName">
+                        <placeName type="pref">Lombardie und
+                            Venedig</placeName>
+                        <placeName type="alt">Lombardo-Venetien</placeName>
+                        <placeName type="alt">lombardisch-venezianischen
+                            Königreichs</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.4375 12.335833</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4215793-6</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

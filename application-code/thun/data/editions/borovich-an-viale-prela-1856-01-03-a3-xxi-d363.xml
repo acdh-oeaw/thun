@@ -138,5 +138,140 @@
                 <p>Pago li 3. Gennaio 1856</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="borovich-antonio">
+                        <persName>
+                            <surname>Borovich</surname>
+                            <forename>Antonio</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Pfarrer in Novaglia</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="viale-prela-michele">
+                        <persName>
+                            <surname>Viale-Prelà</surname>
+                            <forename>Michele</forename>
+                        </persName>
+                        <note>
+                            <p>Bastia 1798–1860 Bologna</p>
+                            <p>ab 1838 Nuntius in München, ab 1845 Nuntius in Wien, ab 1855 Erzbischof von Bologna</p>
+                            <p>http://d-nb.info/gnd/117396869</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117396869</tei:idno>
+                    </person>
+                <person xml:id="zubranich-giorgio">
+                        <persName>
+                            <surname>Zubranich</surname>
+                            <forename>Giorgio</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Kooperator in Novaglia</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="tripalo-paolo">
+                        <persName>
+                            <surname>Tripalo</surname>
+                            <forename>Paolo</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Aktuar bei der Prätur in Pag</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="treu-bartolomeo">
+                        <persName>
+                            <surname>Treu</surname>
+                            <forename>Bartolomeo</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Kanzlist bei der Prätur in Pag</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="pius-IX">
+                        <persName>
+                            <surname>Pius IX.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Senigallia 1792–1878 Rom</p>
+                            <p>Papst von 1846–1878</p>
+                            <p>http://d-nb.info/gnd/118594729</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118594729</tei:idno>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+                <person xml:id="volarich-matteo">
+                        <persName>
+                            <surname>Volarich</surname>
+                            <forename>Matteo</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Pfarrer in Krk</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_77c345c88d5abc96dff43b05f067805d">
+                        <placeName>Pag</placeName>
+                        <placeName type="pref">pag</placeName>
+                        <placeName type="alt">Pago</placeName>
+                        <location>
+                            <geo decls="#LatLng">44.445 15.0575</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3193726/</idno>
+                    </place>
+                <place xml:id="place_d2f72f55f1b50dc6ca298b5138833028">
+                        <placeName>Novaglia</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.69744 9.35058</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/8969423/</idno>
+                    </place>
+                <place xml:id="place_ae0b014d6049a9f5f9d1979e7e279462">
+                        <placeName>Bad Ischl</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.71109 13.61893</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2782052/</idno>
+                    </place>
+                <place xml:id="place_6ad2824a3267780d84c01aeb6f4f1ccb">
+                        <placeName>Krk</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.02744 14.57542</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3197208/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

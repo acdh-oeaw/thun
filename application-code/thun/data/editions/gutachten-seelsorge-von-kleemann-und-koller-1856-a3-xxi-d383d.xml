@@ -173,5 +173,77 @@
                 <p>M[arian] Koller</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="kleemann-johann">
+                        <persName>
+                            <surname>Kleemann</surname>
+                            <forename>Johann</forename>
+                        </persName>
+                        <note>
+                            <p>Czernowitz 1808–1885 Wien</p>
+                            <p>ab 1840 Professor für Weltgeschichte und Philologie an der phil. Lehranstalt in Görz, später in Laibach, ab 1850 Schulrat und Gymnasialinspektor für Steiermark, Kärnten und Krain, ab 1851 Sektionsrat im Ministerium für Kultus und Unterricht,  ab 1854 Ministerialrat</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="koller-marian">
+                        <persName>
+                            <surname>Koller</surname>
+                            <forename>Marian</forename>
+                        </persName>
+                        <note>
+                            <p>Feistritz 1792–1866 Wien</p>
+                            <p>1824–1830 Prof. der Naturgeschichte, 1825–1839 Prof. der Physik am Lyzeum in Kremsmünster, 1830–1847 Direktor der Sternwarte in Kremsmünster, 1843–1847 Direktor des Gymnasiums, 1847–1849 Präses der phil. Fakultät der Universität Wien, 1849–1851 Sektionsrat im Ministerium für Kultus und Unterricht (Referat Realschulen, polytechnische, nautische und astronomische Institute), 1851–1866 Ministerialrat</p>
+                            <p>http://d-nb.info/gnd/120902370</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/120902370</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_45e0bb0b029ff4919974c4717bb7a4b4" type="placeName">
+                        <placeName type="pref">Siebenbürgen</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.5 25</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4054835-1</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

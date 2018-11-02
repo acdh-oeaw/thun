@@ -196,5 +196,151 @@
                 </div>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="foerster-heinrich">
+                        <persName>
+                            <surname>Förster</surname>
+                            <forename>Heinrich</forename>
+                        </persName>
+                        <note>
+                            <p>Glogau 1799–1881 Johannesberg</p>
+                            <p>1853–1881 Fürstbischof von Breslau</p>
+                            <p>http://d-nb.info/gnd/11879826X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11879826X</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="gabriel-philipp">
+                        <persName>
+                            <surname>Gabriel</surname>
+                            <forename>Philipp</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>bis 1851/52 Lehrer am Gymnasium in Brünn, dann Direktor des katholischen Obergymnasiums in Teschen</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="lukas-florian">
+                        <persName>
+                            <surname>Lukas</surname>
+                            <forename>Florian</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Lehrer am katholischen Gymnasium in Teschen</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="sobetzky-leopold">
+                        <persName>
+                            <surname>Sobetzky</surname>
+                            <forename>Leopold</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Priester, Lehrer am katholischen Gymnasium in Teschen</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="danel-franz">
+                        <persName>
+                            <surname>Danel</surname>
+                            <forename>Franz</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Weltpriester der Diözese Breslau, Lehrer am Gymnasium in Teschen</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="bitta-josef">
+                        <persName>
+                            <surname>Bitta</surname>
+                            <forename>Josef</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Weltpriester der Diözese Breslau, Katechet am katholischen Obergymnasium in Teschen, Stiftspriester im Elisabethiner-Konvikt, fürstbischöflicher Generalvikariats- und Ehegerichtsrat in Teschen</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_60960432acfa4972c8f13dd89a872920">
+                        <placeName>Breslau</placeName>
+                        <placeName type="alt">Breslauer</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.10773 17.03533</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/7531292/</idno>
+                    </place>
+                <place xml:id="place_a711b0a299433d08b5b1118edfa2808a">
+                        <placeName>Cieszyn</placeName>
+                        <placeName type="pref">Teschen [Cieszyn]</placeName>
+                        <placeName type="alt">Teschens</placeName>
+                        <placeName type="alt">Teschner</placeName>
+                        <placeName type="alt">Teschen</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.74922 18.63178</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/5311974-5</idno>
+                        <idno>http://sws.geonames.org/7532301/</idno>
+                    </place>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

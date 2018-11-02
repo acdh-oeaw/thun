@@ -1105,5 +1105,115 @@
                 </div>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="bonitz-hermann">
+                        <persName>
+                            <surname>Bonitz</surname>
+                            <forename>Hermann</forename>
+                        </persName>
+                        <note>
+                            <p>Langensalza 1814–1888 Berlin</p>
+                            <p>1842–1849 Lehrer am Gymnasium in Stettin, 1849–1867 Prof. für klass. Philologie an der Universität Wien, ab 1867 Direktor des Gymnasiums zum Grauen Kloster und Direktor des Königlichen pädagogischen Seminars für gelehrte Schulen in Berlin</p>
+                            <p>http://d-nb.info/gnd/11905938X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11905938X</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+                <place xml:id="place_001331e8b2651f9f78991538c3a7e594" type="placeName">
+                        <placeName type="pref">Dalmazien</placeName>
+                        <placeName type="alt">Dalmatien</placeName>
+                        <location>
+                            <geo decls="#LatLng">43.812761 16.218756</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4070200-5</idno>
+                    </place>
+                <place xml:id="place_779affa2f4ecbe56ac1a0e7dfb15466c" type="placeName">
+                        <placeName type="pref">Küstenland</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.6333 13.8</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4398117-3</idno>
+                    </place>
+                <place xml:id="place_f7197ed66a15667400bf934725fd7c3c" type="placeName">
+                        <placeName type="pref">Lombardie und
+                            Venedig</placeName>
+                        <placeName type="alt">Lombardo-Venetien</placeName>
+                        <placeName type="alt">lombardisch-venezianischen
+                            Königreichs</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.4375 12.335833</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4215793-6</idno>
+                    </place>
+                <place xml:id="place_162b390989a8678640067963acb65109">
+                        <placeName>Deutschland</placeName>
+                        <placeName type="alt">Deutschlands</placeName>
+                        <placeName type="alt">Germany</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.5 10.5</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2921044/</idno>
+                    </place>
+                <place xml:id="place_bbb44643ffd49c1557bdc7a677272b1b">
+                        <placeName>Bochnia</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.96905 20.43028</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/775758/</idno>
+                    </place>
+                <place xml:id="place_271d9608b4f6e55e8f4ec78b040ead1a">
+                        <placeName>Zadar</placeName>
+                        <placeName type="pref">Zadar [Zara]</placeName>
+                        <placeName type="alt">Zara</placeName>
+                        <location>
+                            <geo decls="#LatLng">44.11972 15.24222</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3186952/</idno>
+                    </place>
+                <place xml:id="place_4de166ce82fade94306232184d2c4387">
+                        <placeName>Province of Gorizia</placeName>
+                        <placeName type="pref">goerz</placeName>
+                        <placeName type="alt">Görz</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.93432 13.61834</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/6541866/</idno>
+                    </place>
+                <place xml:id="place_4ec4d4015169a4209797da17b240c7c3">
+                        <placeName>Galicia</placeName>
+                        <placeName type="pref">Galizien</placeName>
+                        <placeName type="alt">Galicien</placeName>
+                        <placeName type="alt">Galizien</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.5 23.0</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/562153/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

@@ -80,5 +80,44 @@
                 </p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="farina-giovanni-antonio">
+                        <persName>
+                            <surname>Farina</surname>
+                            <forename>Giovanni Antonio</forename>
+                        </persName>
+                        <note>
+                            <p>Gambellara 1803–1888 Vicenza</p>
+                            <p>1850–1860 Bischof von Treviso, ab 1860 Bischof von Vicenza, 2001 seliggesprochen</p>
+                            <p>http://d-nb.info/gnd/11885402X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11885402X</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_9fa41ec12d99720833b10d3a9ab6a5cb">
+                        <placeName>Treviso</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.66673 12.2416</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3165201/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

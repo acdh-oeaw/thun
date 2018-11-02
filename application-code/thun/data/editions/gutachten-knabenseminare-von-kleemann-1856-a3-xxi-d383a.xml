@@ -219,5 +219,279 @@
                 <p>Kleemann</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="kleemann-johann">
+                        <persName>
+                            <surname>Kleemann</surname>
+                            <forename>Johann</forename>
+                        </persName>
+                        <note>
+                            <p>Czernowitz 1808–1885 Wien</p>
+                            <p>ab 1840 Professor für Weltgeschichte und Philologie an der phil. Lehranstalt in Görz, später in Laibach, ab 1850 Schulrat und Gymnasialinspektor für Steiermark, Kärnten und Krain, ab 1851 Sektionsrat im Ministerium für Kultus und Unterricht,  ab 1854 Ministerialrat</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_8f37567814d3a88b7c487c48699476fa">
+                        <placeName>Trento</placeName>
+                        <placeName type="pref">Trient</placeName>
+                        <placeName type="alt">Trient.</placeName>
+                        <placeName type="alt">Trientiner</placeName>
+                        <placeName type="alt">Trienter</placeName>
+                        <placeName type="alt">Trient</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.06787 11.12108</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3165243/</idno>
+                    </place>
+                <place xml:id="place_e30630933146ed8683482de23229fd6a">
+                        <placeName>Milan</placeName>
+                        <placeName type="pref">mailand</placeName>
+                        <placeName type="alt">Mailand</placeName>
+                        <placeName type="alt">Mailands</placeName>
+                        <placeName type="alt">Milano</placeName>
+                        <placeName type="alt">Mailand’s</placeName>
+                        <placeName type="alt">questa Città</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.46416 9.19199</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/6542283/</idno>
+                    </place>
+                <place xml:id="place_80c239e539544aa459dc13996638cb2f">
+                        <placeName>Venedig</placeName>
+                        <placeName type="pref">venedig</placeName>
+                        <placeName type="alt">Venedigs</placeName>
+                        <placeName type="alt">Vendig</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.43713 12.33265</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3164603/</idno>
+                    </place>
+                <place xml:id="place_f7197ed66a15667400bf934725fd7c3c" type="placeName">
+                        <placeName type="pref">Lombardie und
+                            Venedig</placeName>
+                        <placeName type="alt">Lombardo-Venetien</placeName>
+                        <placeName type="alt">lombardisch-venezianischen
+                            Königreichs</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.4375 12.335833</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4215793-6</idno>
+                    </place>
+                <place xml:id="place_d638cd7d14166fe5189912d158fd557b">
+                        <placeName>Bruneck</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.79942 11.93429</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3181480/</idno>
+                    </place>
+                <place xml:id="place_4de166ce82fade94306232184d2c4387">
+                        <placeName>Province of Gorizia</placeName>
+                        <placeName type="pref">goerz</placeName>
+                        <placeName type="alt">Görz</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.93432 13.61834</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/6541866/</idno>
+                    </place>
+                <place xml:id="place_60fad583fdba7cff3143633335dc08ae">
+                        <placeName>Sankt Martinsberg</placeName>
+                        <placeName type="pref">Martinsberg</placeName>
+                        <placeName type="alt">Martinsberg</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.54946 17.75535</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3046693/</idno>
+                    </place>
+                <place xml:id="place_104b5ac4af06263707f5418d171ffe3d">
+                        <placeName>Zagreb</placeName>
+                        <placeName type="pref">Agram [Zagreb]</placeName>
+                        <placeName type="alt">Agramer</placeName>
+                        <placeName type="alt">Agrams</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.81444 15.97798</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3186886/</idno>
+                        <idno>http://d-nb.info/gnd/4108914-5</idno>
+                    </place>
+                <place xml:id="place_2cfe62b9921fa114fb63229c0241dafc">
+                        <placeName>Nitra</placeName>
+                        <placeName type="pref">Neutra</placeName>
+                        <placeName type="alt">Neutra</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.30763 18.08453</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3058531/</idno>
+                    </place>
+                <place xml:id="place_709f3a6e556e54e97c8bcc39dade6c1d">
+                        <placeName>Split</placeName>
+                        <placeName type="pref">Spalato [Split]</placeName>
+                        <placeName type="alt">Spalatro</placeName>
+                        <placeName type="alt">Spalato</placeName>
+                        <location>
+                            <geo decls="#LatLng">43.50891 16.43915</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3190261/</idno>
+                    </place>
+                <place xml:id="place_746ae590bad280c5f1dc6fedb53108af">
+                        <placeName>Bohosudov</placeName>
+                        <placeName type="pref">Marienschein</placeName>
+                        <placeName type="alt">Marienschein</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.68418 13.87669</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3079143/</idno>
+                    </place>
+                <place xml:id="place_6ab691ad8305e406fccdbd6fa01daf78">
+                        <placeName>Freinberg</placeName>
+                        <placeName type="pref">Freienberg bei Linz</placeName>
+                        <placeName type="alt">Freienberg bei Linz</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.56638 13.51284</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/7872127/</idno>
+                    </place>
+                <place xml:id="place_6a5dd4fc6115fb96bafe11170353e53d">
+                        <placeName>Landstraß</placeName>
+                        <placeName type="pref">Castagnevizza</placeName>
+                        <placeName type="alt">Castagnavizza</placeName>
+                        <placeName type="alt">Castagnavizza bei Görz</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.845 13.64167</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3197582/</idno>
+                    </place>
+                <place xml:id="place_1dcf667c86986e2bbadf65ed2de41e47">
+                        <placeName>Ljubljana</placeName>
+                        <placeName type="pref">laibach</placeName>
+                        <placeName type="alt">Laibach</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.05108 14.50513</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3196359/</idno>
+                    </place>
+                <place xml:id="place_73a427f5d9b418ded933f495406c46a0">
+                        <placeName>Budweis</placeName>
+                        <placeName type="alt">Budweiser</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.97447 14.47434</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3077916/</idno>
+                    </place>
+                <place xml:id="place_e575530bd7a9cc03829dde0b8657f108">
+                        <placeName>Prag</placeName>
+                        <placeName type="alt">Prager</placeName>
+                        <placeName type="alt">Prahy</placeName>
+                        <placeName type="alt">Prags</placeName>
+                        <placeName type="alt">o. O. [Prag]</placeName>
+                        <placeName type="alt">hier</placeName>
+                        <placeName type="alt">Praze</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.08804 14.42076</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3067696/</idno>
+                    </place>
+                <place xml:id="place_6e00929feb7fb02acaa548f47f67c61c">
+                        <placeName>Graz</placeName>
+                        <placeName type="pref">graz</placeName>
+                        <placeName type="alt">Gratz</placeName>
+                        <placeName type="alt">Grätz</placeName>
+                        <placeName type="alt">Graez</placeName>
+                        <placeName type="alt">o. O. [Graz]</placeName>
+                        <placeName type="alt">Grätzer</placeName>
+                        <placeName type="alt">Graz-Sekau</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.06667 15.45</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2778067/</idno>
+                    </place>
+                <place xml:id="place_1cb537e833afd985097ccfaddffb2ef3">
+                        <placeName>Raab</placeName>
+                        <placeName type="pref">Raab [Győr]</placeName>
+                        <placeName type="alt">Raaber</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.68333 17.63512</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3052009/</idno>
+                    </place>
+                <place xml:id="place_907e6aad95b11593946e28f6e29860aa">
+                        <placeName>Linz</placeName>
+                        <placeName type="pref">linz</placeName>
+                        <placeName type="alt">Linzer</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.30639 14.28611</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2772400/</idno>
+                    </place>
+                <place xml:id="place_a808e5c57f7af6870dafa78db5ce4321">
+                        <placeName>Leitmeritz</placeName>
+                        <placeName type="pref">Leitmeritz [Litoměřice]</placeName>
+                        <placeName type="alt">Leitmeritzer</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.53348 14.1318</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3071677/</idno>
+                    </place>
+                <place xml:id="place_6c5974dc4512c3b5c3952a1fe3162fba">
+                        <placeName>Koper</placeName>
+                        <placeName type="pref">Koper [Capodistria]</placeName>
+                        <placeName type="alt">Capodistria</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.51833 13.82667</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3197752/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

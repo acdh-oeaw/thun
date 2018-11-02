@@ -210,5 +210,115 @@
                 </div>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="goluchowski-agenor">
+                        <persName>
+                            <surname>Goluchowski</surname>
+                            <forename>Agenor</forename>
+                        </persName>
+                        <note>
+                            <p>Skala Podolska 1812–1875 Lemberg</p>
+                            <p>1849–1859 Statthalter von Galizien, 1859–1860 Minister des Innern</p>
+                            <p>http://d-nb.info/gnd/11676516X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11676516X</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="jirecek-josef">
+                        <persName>
+                            <surname>Jireček</surname>
+                            <forename>Josef</forename>
+                        </persName>
+                        <note>
+                            <p>Hohenmauth 1825–1888 Prag</p>
+                            <p>1850 Berufung ins Ministerium für Kultus und Unterricht, 1850–1852 Herausgeber der „Vídenský denník“ (Wiener Tagblatt), ab 1859 Ministerialsekretär für die Mittelschulen in Böhmen und anderen slawischen Ländern der Monarchie, ab 1867 Sektionsrat, ab 1869/70 Ministerialrat, Feb.–Ende Okt. 1871 Minister für Kultus und Unterricht</p>
+                            <p>http://d-nb.info/gnd/119224178</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119224178</tei:idno>
+                    </person>
+                <person xml:id="szaszkewycz-gregor">
+                        <persName>
+                            <surname>Szaszkewycz</surname>
+                            <forename>Gregor</forename>
+                        </persName>
+                        <note>
+                            <p>1809–1888 Przemyśl</p>
+                            <p>Ministerialrat im Unterrichtsministerium (Referent für die galizischen Volks- und Mittelschulen), später griech.-kath. Domherr in Przemyśl</p>
+                            <p>http://d-nb.info/gnd/119230232</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119230232</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_3ff694e5c82611cda53341a9bae21735">
+                        <placeName>lemberg</placeName>
+                        <placeName type="alt">Lemberger</placeName>
+                        <placeName type="alt">Lemberg</placeName>
+                        <placeName type="alt">Leopol</placeName>
+                        <placeName type="alt">Lembergs</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.839444 24.032778</geo>
+                        </location>
+                    </place>
+                <place xml:id="place_5c0704d47c0a58a0922e25b5b9b66b27" type="placeName">
+                        <placeName type="pref">Rußlands</placeName>
+                        <location>
+                            <geo decls="#LatLng">58.65 70.116667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4076899-5</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+                <place xml:id="place_72275e48a342fa4737ee27db139e835d">
+                        <placeName>Kyiw</placeName>
+                        <placeName type="pref">kiew</placeName>
+                        <placeName type="alt">Kieff</placeName>
+                        <placeName type="alt">Kiew</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.45466 30.5238</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/703448/</idno>
+                    </place>
+                <place xml:id="place_4ec4d4015169a4209797da17b240c7c3">
+                        <placeName>Galicia</placeName>
+                        <placeName type="pref">Galizien</placeName>
+                        <placeName type="alt">Galicien</placeName>
+                        <placeName type="alt">Galizien</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.5 23.0</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/562153/</idno>
+                    </place>
+                <place xml:id="place_867b530d8072e0e4d907aa82937d3e01" type="placeName">
+                        <placeName type="pref">Böhmen</placeName>
+                        <location>
+                            <geo decls="#LatLng">50 14.5</geo>
+                        </location>
+                        <idno>http://www.geonames.org/3078198</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

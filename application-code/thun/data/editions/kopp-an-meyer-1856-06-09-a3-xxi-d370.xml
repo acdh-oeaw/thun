@@ -172,5 +172,113 @@
                 <p>J. E. Kopp, Professor</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="kopp-josef">
+                        <persName>
+                            <surname>Kopp</surname>
+                            <forename>Josef Eutych</forename>
+                        </persName>
+                        <note>
+                            <p>Beromünster 1793–1866 Luzern</p>
+                            <p>1819–1866 Prof. für alte Sprachen am Lyzeum in Luzern</p>
+                            <p>http://d-nb.info/gnd/11871404X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11871404X</tei:idno>
+                    </person>
+                <person xml:id="meyer-bernhard">
+                        <persName>
+                            <surname>Meyer</surname>
+                            <forename>Bernhard</forename>
+                        </persName>
+                        <note>
+                            <p>Sursee 1810–1874 Piesting</p>
+                            <p>Staatsschreiber in Luzern, Gesandter des Sonderbundes, ab 1851 im österr. Staatsdienst</p>
+                            <p>http://d-nb.info/gnd/103948430</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/103948430</tei:idno>
+                    </person>
+                <person xml:id="wurstemberger-ludwig">
+                        <persName>
+                            <surname>Wurstemberger</surname>
+                            <forename>Ludwig</forename>
+                        </persName>
+                        <note>
+                            <p>Bern 1783–1862 Bern</p>
+                            <p>Militär und Politiker, 1809–1831 Berner Grossrat, historische Studien</p>
+                            <p>http://d-nb.info/gnd/101519990</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/101519990</tei:idno>
+                    </person>
+                <person xml:id="boehmer-johann-friedrich">
+                        <persName>
+                            <surname>Böhmer</surname>
+                            <forename>Johann Friedrich</forename>
+                        </persName>
+                        <note>
+                            <p>Frankfurt a. Main 1795–1863 Frankfurt a. Main</p>
+                            <p>Historiker, 1830–1862 Bibliothekar in Frankfurt</p>
+                            <p>http://d-nb.info/gnd/118660748</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118660748</tei:idno>
+                    </person>
+                <person xml:id="rudolph-I">
+                        <persName>
+                            <surname>Rudolph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Sasbach 1218–1291 Speyer</p>
+                            <p>ab 1273 röm.-dt. König, 1276–1286 Herzog von Kärnten und Krain, 1278–1282 Herzog von Österreich und der Steiermark</p>
+                            <p>http://d-nb.info/gnd/11860371X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11860371X</tei:idno>
+                    </person>
+                <person xml:id="albrecht-I">
+                        <persName>
+                            <surname>Albrecht I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Rheinfelden 1255–1308 Königsfelden</p>
+                            <p>ab 1282 Herzog von Österreich, ab 1298 röm.-deutscher König</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_11b61665a73f0026ee1a5c5d4db4d40c">
+                        <placeName>Luzern</placeName>
+                        <placeName type="pref">luzern</placeName>
+                        <placeName type="alt">Lucern</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.05048 8.30635</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2659811/</idno>
+                    </place>
+                <place xml:id="place_591cce2c0b9ced801c5b5929c9a46a61" type="placeName">
+                        <placeName type="pref">Sardinia</placeName>
+                        <location>
+                            <geo decls="#LatLng">40.027778 9.069444</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4051687-8</idno>
+                    </place>
+                <place xml:id="place_bb924613631a24955ccdde82d6af5cc2">
+                        <placeName>Göttingen</placeName>
+                        <placeName type="pref">goettingen</placeName>
+                        <placeName type="alt">Göttinger</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.53443 9.93228</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2918632/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

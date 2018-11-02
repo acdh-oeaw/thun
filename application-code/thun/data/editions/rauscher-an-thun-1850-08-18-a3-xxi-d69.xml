@@ -198,5 +198,201 @@
                     erscheinen.</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="rauscher-joseph">
+                        <persName>
+                            <surname>Rauscher</surname>
+                            <forename>Josef Othmar</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1797–1875 Wien</p>
+                            <p>ab 1825 Prof. für Kirchengeschichte und Kirchenrecht am Lyzeum Salzburg, ab 1832 Direktor der orientalischen Akademie in Wien, ab 1849 Fürstbischof von Seckau, ab März 1853 Erzbischof von Wien, ab 1855 Kardinal</p>
+                            <p>http://d-nb.info/gnd/118787977</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118787977</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+                <person xml:id="burger-friedrich">
+                        <persName>
+                            <surname>Burger</surname>
+                            <forename>Friedrich Moritz</forename>
+                        </persName>
+                        <note>
+                            <p>Wolfsberg 1804–1873 Wien</p>
+                            <p>Rechtsanwalt in Triest, 1849–1853 Statthalter der Steiermark, 1853–1859 Statthalter der Lombardei, ab 1859 Statthalter von Triest und des Küstenlandes, 1862–1865 Marineminister</p>
+                            <p>http://d-nb.info/gnd/135705770</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/135705770</tei:idno>
+                    </person>
+                <person xml:id="horstig-moriz-franz">
+                        <persName>
+                            <surname>Horstig</surname>
+                            <forename>Moriz Franz</forename>
+                        </persName>
+                        <note>
+                            <p>Bückeburg 1799–1874 Graz</p>
+                            <p>ab 1826 Besitzer des Guts Plankenwarth</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_6e00929feb7fb02acaa548f47f67c61c">
+                        <placeName>Graz</placeName>
+                        <placeName type="pref">graz</placeName>
+                        <placeName type="alt">Gratz</placeName>
+                        <placeName type="alt">Grätz</placeName>
+                        <placeName type="alt">Graez</placeName>
+                        <placeName type="alt">o. O. [Graz]</placeName>
+                        <placeName type="alt">Grätzer</placeName>
+                        <placeName type="alt">Graz-Sekau</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.06667 15.45</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2778067/</idno>
+                    </place>
+                <place xml:id="place_b5e9e75db151e1fff33838003e5fa591" type="placeName">
+                        <placeName type="pref">Steiermark</placeName>
+                        <placeName type="alt">Stiria</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.25 15.333333</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4057092-7</idno>
+                    </place>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_fd3ebb9f41f9f036dba5791051bc5749" type="placeName">
+                        <placeName type="pref">Marburg (Lahn)</placeName>
+                        <placeName type="alt">Marburg</placeName>
+                    </place>
+                <place xml:id="place_6247022a2050c0da56a01dbaab1400f9">
+                        <placeName>Ptuj</placeName>
+                        <placeName type="pref">Pettau [Ptuj]</placeName>
+                        <placeName type="alt">Pettau</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.42005 15.87018</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3192241/</idno>
+                    </place>
+                <place xml:id="place_d3d383878385b4352a47d900c1281b2c">
+                        <placeName>Ormož</placeName>
+                        <placeName type="pref">Friedau</placeName>
+                        <placeName type="alt">Friedau</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.41139 16.15444</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3193965/</idno>
+                    </place>
+                <place xml:id="place_49362f6a839b8e98e709268b1cb2de5e">
+                        <placeName>Ljutomer</placeName>
+                        <placeName type="pref">Luttenberg</placeName>
+                        <placeName type="alt">Luttenberg</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.52083 16.1975</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3196307/</idno>
+                    </place>
+                <place xml:id="place_31b52551447a8bcbf3e6f5aceba8a7cd">
+                        <placeName>Politischer Bezirk Radkersburg</placeName>
+                        <placeName type="pref">Radkersburg</placeName>
+                        <placeName type="alt">Radkersburg</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.76471 15.83731</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2768118/</idno>
+                    </place>
+                <place xml:id="place_31f6df29d0aed17e65f5badf000e44b6">
+                        <placeName>Straden</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.80917 15.86806</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2764222/</idno>
+                    </place>
+                <place xml:id="place_72e29c8017c0cd07fab34a2a3d7c7349">
+                        <placeName>Riegersburg</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.0139 15.92231</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/7872309/</idno>
+                    </place>
+                <place xml:id="place_31670c790c5c69e762e2c3c765112845">
+                        <placeName>Eisbach</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.13377 15.27246</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/7873397/</idno>
+                    </place>
+                <place xml:id="place_5f397a1e588cfe96b4aa4bab7a5b1d44">
+                        <placeName>Rom</placeName>
+                        <placeName type="alt">Rome</placeName>
+                        <placeName type="alt">Roms</placeName>
+                        <location>
+                            <geo decls="#LatLng">41.89193 12.51133</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3169070/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

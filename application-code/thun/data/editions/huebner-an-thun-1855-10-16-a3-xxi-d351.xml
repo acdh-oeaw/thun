@@ -104,5 +104,113 @@
                 <p>Euer Excellenz gehorsamer Diener<lb/>Hübner</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="huebner-alexander">
+                        <persName>
+                            <surname>Hübner</surname>
+                            <forename>Alexander</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1811–1892 Eirn</p>
+                            <p>Diplomat, ab 1841 erster Gesandtschaftssekretär in Lissabon, 1844 Übernahme des Generalkonsulats für Sachsen in Leipzig, 1849–1858 österr. Gesandter und bev. Minister in Paris, ab 1857 Botschafter, ab 1859 österr. Gesandter im Vatikan, Aug.–Okt. 1859 Polizeiminister, 1865–1867 Botschafter in Rom</p>
+                            <p>http://d-nb.info/gnd/117045225</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117045225</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="jarcke-karl-ernst">
+                        <persName>
+                            <surname>Jarcke</surname>
+                            <forename>Karl Ernst</forename>
+                        </persName>
+                        <note>
+                            <p>Danzig 1801–1852 Wien</p>
+                            <p>Jurist und politischer Publizist, ab 1825 Prof. für Strafrecht an der Universität Berlin, ab 1832 Rat und Publizist der Staatskanzlei in Wien, enger Berater von Leo Thun</p>
+                            <p>http://d-nb.info/gnd/118775995</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118775995</tei:idno>
+                    </person>
+                <person xml:id="nuell-van-der-eduard">
+                        <persName>
+                            <surname>Nüll</surname>
+                            <forename>Eduard van der</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1812–1868 Wien</p>
+                            <p>Architekt zahlreicher Bauten an der Wiener Ringstraße</p>
+                            <p>http://d-nb.info/gnd/118735691</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118735691</tei:idno>
+                    </person>
+                <person xml:id="morny-charles">
+                        <persName>
+                            <surname>Morny</surname>
+                            <forename>Charles</forename>
+                        </persName>
+                        <note>
+                            <p>Saint Maurice 1811–1865 Paris</p>
+                            <p>Halbbruder von Kaiser Napoleon III., Unternehmer und Kunstsammler, 1851/52 franz. Innenminister, 1854 Präsident des Corps législatif</p>
+                            <p>http://d-nb.info/gnd/170672336</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/170672336</tei:idno>
+                    </person>
+                <person xml:id="nieuwerkerke-alfred-emilien">
+                        <persName>
+                            <surname>Nieuwerkerke</surname>
+                            <forename>Aflred Èmilien</forename>
+                        </persName>
+                        <note>
+                            <p>Paris 1811–1892 Gattaiola bei Lucca</p>
+                            <p>Bildhauer und Kunstsammler, ab 1848 Direktor der staatlichen Museen Frankreichs, ab 1852 Leiter des Pariser Salons, Präsident der Jury der Sektion der Schönen Künste</p>
+                            <p>http://d-nb.info/gnd/117018406</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117018406</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_ccbee73cd81c7f42405e1920409247ec">
+                        <placeName>Paris</placeName>
+                        <placeName type="pref">paris</placeName>
+                        <placeName type="alt">Pariser</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.85341 2.3488</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2988507/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+                <place xml:id="place_d32a635cff5dcc73a609d313801541d4">
+                        <placeName>Verona</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.4299 10.98444</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3164527/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

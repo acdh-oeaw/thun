@@ -108,5 +108,137 @@
                 <p>Wien, 24. Febr. 1852</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="phillips-george">
+                        <persName>
+                            <surname>Phillips</surname>
+                            <forename>George</forename>
+                        </persName>
+                        <note>
+                            <p>Königsberg 1804–1872 Aigen bei Salzburg</p>
+                            <p>1827 Prof. an der Universität Berlin, 1834 Prof. für Kirchen- und Privatrecht an der Universität München, 1850 Prof. an der Universität Innsbruck, 1851–1860 Prof. für deutsche Reichs- und Rechtsgeschichte an der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/100233791</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/100233791</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="mutzl-sebastian">
+                        <persName>
+                            <surname>Mutzl</surname>
+                            <forename>Sebastian</forename>
+                        </persName>
+                        <note>
+                            <p>1797–1863 Eichstätt</p>
+                            <p>Gymnasiallehrer und Künstler</p>
+                            <p>http://d-nb.info/gnd/10022508X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/10022508X</tei:idno>
+                    </person>
+                <person xml:id="fertig-michael">
+                        <persName>
+                            <surname>Fertig</surname>
+                            <forename>Michael</forename>
+                        </persName>
+                        <note>
+                            <p>1801–1873 Landshut</p>
+                            <p>ab 1846 Lehrer am Gymnasium in Passau, ab 1855 Studienrektor und Direktor des Erziehungs-Institutes in Landshut, ab 1856 Kreisscholarch für Niederbaiern</p>
+                            <p>http://d-nb.info/gnd/102606870</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/102606870</tei:idno>
+                    </person>
+                <person xml:id="reisach-karl-august">
+                        <persName>
+                            <surname>Reisach</surname>
+                            <forename>Karl August</forename>
+                        </persName>
+                        <note>
+                            <p>Roth bei Nürnberg 1800–1869 Contamine-sur-Arve</p>
+                            <p>1836–1846 Bischof von Eichstätt, 1846–1856 Erzbischof von München und Freising, 1855–1869 Kurienkardinal, 1856 Generalvisitator der Anima</p>
+                            <p>http://d-nb.info/gnd/118955403</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118955403</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_5cf6a77064d5d368e7bd500399dacfd2">
+                        <placeName>Eichstätt</placeName>
+                        <placeName type="pref">eichstaett</placeName>
+                        <placeName type="alt"/>
+                        <location>
+                            <geo decls="#LatLng">48.88854 11.19675</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2932069/</idno>
+                    </place>
+                <place xml:id="place_9ae0133b9256a87352801c2a37fdd149">
+                        <placeName>Landshut</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.52961 12.16179</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2881485/</idno>
+                    </place>
+                <place xml:id="place_f1ead991a0ca32b465653b3071c5ea3e">
+                        <placeName>Munich</placeName>
+                        <placeName type="pref">muenchen</placeName>
+                        <placeName type="alt">München</placeName>
+                        <placeName type="alt">Münchner</placeName>
+                        <placeName type="alt">München</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.13743 11.57549</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2867714/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

@@ -109,5 +109,90 @@
                 </div>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="rechberg-rothenloewen-bernhard">
+                        <persName>
+                            <surname>Rechberg</surname>
+                            <forename>Johann Bernhard</forename>
+                        </persName>
+                        <note>
+                            <p>Regensburg 1806–1899 Schwechat bei Wien</p>
+                            <p>Diplomat, 1843–1847 Gesandter in Rio de Janeiro, 1849 österr. Bevollmächtigter bei der Nationalversammlung in Frankfurt, 1853 Ziviladlatus des Generalgouverneurs in Lombardo-Venetien, seit 1855 Bundespräsidialgesandter in Frankfurt, 1859–1864 österr. Außenminister, 1859–1861 auch Ministerpräsident</p>
+                            <p>http://d-nb.info/gnd/116391154</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116391154</tei:idno>
+                    </person>
+                <person xml:id="rauscher-joseph">
+                        <persName>
+                            <surname>Rauscher</surname>
+                            <forename>Josef Othmar</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1797–1875 Wien</p>
+                            <p>ab 1825 Prof. für Kirchengeschichte und Kirchenrecht am Lyzeum Salzburg, ab 1832 Direktor der orientalischen Akademie in Wien, ab 1849 Fürstbischof von Seckau, ab März 1853 Erzbischof von Wien, ab 1855 Kardinal</p>
+                            <p>http://d-nb.info/gnd/118787977</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118787977</tei:idno>
+                    </person>
+                <person xml:id="pius-IX">
+                        <persName>
+                            <surname>Pius IX.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Senigallia 1792–1878 Rom</p>
+                            <p>Papst von 1846–1878</p>
+                            <p>http://d-nb.info/gnd/118594729</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118594729</tei:idno>
+                    </person>
+                <person xml:id="moustier-desle-de">
+                        <persName>
+                            <surname>Moustier</surname>
+                            <forename>Lionel Desle Marie</forename>
+                        </persName>
+                        <note>
+                            <p>Paris 1817–1869 Paris</p>
+                            <p>1848 erster franz. Gesandter in Berlin, 1859–1861 franz. Botschafter in Wien, ab 1861 Botschafter in Konstantinopel</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_591cce2c0b9ced801c5b5929c9a46a61" type="placeName">
+                        <placeName type="pref">Sardinia</placeName>
+                        <location>
+                            <geo decls="#LatLng">40.027778 9.069444</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4051687-8</idno>
+                    </place>
+                <place xml:id="place_72ac53f7b58ea996114e510e7d524fb9" type="placeName">
+                        <placeName type="pref">Frankreichs</placeName>
+                        <placeName type="alt">Frankreich</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.316667 2.533333</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4018145-5</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

@@ -81,5 +81,46 @@
                 <p>Berlin, 15. October 1854</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="keller-friedrich-ludwig">
+                        <persName>
+                            <surname>Keller</surname>
+                            <forename>Friedrich Ludwig</forename>
+                        </persName>
+                        <note>
+                            <p>Zürich 1799–1860 Berlin</p>
+                            <p>ab 1826 Prof. für Zivilrecht am politischen Institut in Zürich, ab 1833 Prof. für zürcherisches Partikularrecht und römisches Recht an der Universität Zürich, ab 1844 Prof. für römisches Recht an der Universität Halle, ab 1846 Prof. an der Universität Berlin</p>
+                            <p>http://d-nb.info/gnd/100177085</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/100177085</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_d35a02eb49149450fb2fffc6e467eb37">
+                        <placeName>Berlin</placeName>
+                        <placeName type="pref">berlin</placeName>
+                        <placeName type="alt">Berlino</placeName>
+                        <location>
+                            <geo decls="#LatLng">52.52437 13.41053</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2950159/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

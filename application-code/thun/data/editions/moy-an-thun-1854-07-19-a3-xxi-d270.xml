@@ -166,5 +166,119 @@
                 <p>Innsbruck, den 19. Juli 1854</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="moy-de-sons-ernst">
+                        <persName>
+                            <surname>Moy de Sons</surname>
+                            <forename>Ernst</forename>
+                        </persName>
+                        <note>
+                            <p>München 1799–1867 Innsbruck</p>
+                            <p>ab 1832 Prof. für Natur- und Staatsrecht an der Universität Würzburg, 1837–1847 Prof. für Staatsrecht an der Universität München, ab 1851 Prof. für Kirchenrecht und Deutsche Reichs- und Rechtsgeschichte an der Universität Innsbruck</p>
+                            <p>http://d-nb.info/gnd/174390033</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/174390033</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="arndts-carl-ludwig">
+                        <persName>
+                            <surname>Arndts</surname>
+                            <forename>Carl Ludwig</forename>
+                        </persName>
+                        <note>
+                            <p>Arnsberg 1803–1878 Wien</p>
+                            <p>1836 Prof. für Römisches Recht an der Universität Bonn, ab 1838 Prof. für Zivilrecht an der Universität München, 1855–1873 Prof. an der Universität Wien, 1848/49 Mitglied der Frankfurter Nationalversammlung</p>
+                            <p>http://d-nb.info/gnd/100416993</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/100416993</tei:idno>
+                    </person>
+                <person xml:id="jarcke-karl-ernst">
+                        <persName>
+                            <surname>Jarcke</surname>
+                            <forename>Karl Ernst</forename>
+                        </persName>
+                        <note>
+                            <p>Danzig 1801–1852 Wien</p>
+                            <p>Jurist und politischer Publizist, ab 1825 Prof. für Strafrecht an der Universität Berlin, ab 1832 Rat und Publizist der Staatskanzlei in Wien, enger Berater von Leo Thun</p>
+                            <p>http://d-nb.info/gnd/118775995</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118775995</tei:idno>
+                    </person>
+                <person xml:id="bissingen-cajetan">
+                        <persName>
+                            <surname>Bissingen-Nippenburg</surname>
+                            <forename>Cajetan Alexander</forename>
+                        </persName>
+                        <note>
+                            <p>Venedig 1806–1890 Schramberg</p>
+                            <p>ab 1848 Statthalter für Tirol und Vorarlberg, ab 1852 gleichzeitig Landeshauptmann, 1855–1860 Statthalter von Venedig</p>
+                            <p>http://d-nb.info/gnd/116195843</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116195843</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_aaf49a1292fa1004fcffc4eebe9bdaa0">
+                        <placeName>Innsbruck</placeName>
+                        <placeName type="alt">Insbruck</placeName>
+                        <placeName type="alt">Insprucker</placeName>
+                        <placeName type="alt">Inspruck</placeName>
+                        <placeName type="alt">Innsbrucker</placeName>
+                        <placeName type="alt">hier</placeName>
+                        <placeName type="alt">o. O. [Innsbruck]</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.26266 11.39454</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2775220/</idno>
+                    </place>
+                <place xml:id="place_162b390989a8678640067963acb65109">
+                        <placeName>Deutschland</placeName>
+                        <placeName type="alt">Deutschlands</placeName>
+                        <placeName type="alt">Germany</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.5 10.5</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2921044/</idno>
+                    </place>
+                <place xml:id="place_e9cd6cbbbc3248f7a69252439ba3d6e6">
+                        <placeName>Frankfurt-Eckenheim</placeName>
+                        <placeName type="pref">Frankfurt a. M.</placeName>
+                        <placeName type="alt">Frankfurt a. M.</placeName>
+                        <placeName type="alt">Frankfurt am Main</placeName>
+                        <placeName type="alt">Francfurt a. M.</placeName>
+                        <placeName type="alt">Francfurt</placeName>
+                        <placeName type="alt">Francoforte</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.1497921 8.6662762</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4093156-0</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

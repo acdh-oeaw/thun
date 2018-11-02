@@ -109,5 +109,151 @@
                 </div>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="sommaruga-franz-seraph">
+                        <persName>
+                            <surname>Sommaruga</surname>
+                            <forename>Franz Seraph</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1780–1860 Wien</p>
+                            <p>von März 1848–Mai 1848 erster Unterrichtsminister Österreichs, April 1848–Mai 1848 Justizminister</p>
+                            <p>http://d-nb.info/gnd/117509213</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117509213</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="haen-peter">
+                        <persName>
+                            <surname>Haen</surname>
+                            <forename>Peter</forename>
+                        </persName>
+                        <note>
+                            <p>1785–1874</p>
+                            <p>1853 GM, 1860 pensioniert</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+                <person xml:id="novasconi-antonio">
+                        <persName>
+                            <surname>Novasconi</surname>
+                            <forename>Antionio</forename>
+                        </persName>
+                        <note>
+                            <p>["Castiglione d'Adda 179 –1867 Cremona"]</p>
+                            <p>ab 1850 Bischof von Cremona</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_986f51a7ad3bed298456ad48d484ebc2">
+                        <placeName>Provinz Mantua</placeName>
+                        <placeName type="pref">Mantua</placeName>
+                        <placeName type="alt">Mantua</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.16031 10.79784</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3174051/</idno>
+                    </place>
+                <place xml:id="place_9a677a8fef077d847cc1d6d558b8630f">
+                        <placeName>Cremona</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.13325 10.02129</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3177838/</idno>
+                    </place>
+                <place xml:id="place_e30630933146ed8683482de23229fd6a">
+                        <placeName>Milan</placeName>
+                        <placeName type="pref">mailand</placeName>
+                        <placeName type="alt">Mailand</placeName>
+                        <placeName type="alt">Mailands</placeName>
+                        <placeName type="alt">Milano</placeName>
+                        <placeName type="alt">Mailand’s</placeName>
+                        <placeName type="alt">questa Città</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.46416 9.19199</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/6542283/</idno>
+                    </place>
+                <place xml:id="place_a98f4d301d53fc29ec5a138bf9ed2243">
+                        <placeName>Pugnolo</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.08332 10.20308</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/8952467/</idno>
+                    </place>
+                <place xml:id="place_5c79a5022666cf8c33b9b187547344bf">
+                        <placeName>Sospiro</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.10762 10.15853</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3166343/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

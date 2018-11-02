@@ -107,5 +107,82 @@
                 <p>Verona, li 13. Giugno 1854</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="pino-francesco">
+                        <persName>
+                            <surname>Pino</surname>
+                            <forename>Francesco</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Offizier in Verona</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="elisabeth">
+                        <persName>
+                            <surname>Elisabeth Amalie Eugenie</surname>
+                            <forename>Herzogin in Bayern</forename>
+                        </persName>
+                        <note>
+                            <p>München 1837–1898 Genf</p>
+                            <p>ab 1854 Gattin von Franz Joseph I. und damit Kaiserin von Österreich</p>
+                            <p>http://d-nb.info/gnd/1044019484</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1044019484</tei:idno>
+                    </person>
+                <person xml:id="franz-I-II">
+                        <persName>
+                            <surname>Franz I./II.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Florenz 1768–1835 Wien</p>
+                            <p>1792–1806 letzter Kaiser des HRR, 1804–1835 als Franz I. Kaiser von Österreich</p>
+                            <p>http://d-nb.info/gnd/118534955</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118534955</tei:idno>
+                    </person>
+                <person xml:id="ferdinand-I-oesterreich">
+                        <persName>
+                            <surname>Ferdinand I. (Österreich)</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1793–1875 Prag</p>
+                            <p>1835–1848 Kaiser von Österreich, König von Böhmen, als Ferdinand V. König von Ungarn und Kroatien</p>
+                            <p>http://d-nb.info/gnd/118686747</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118686747</tei:idno>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_d32a635cff5dcc73a609d313801541d4">
+                        <placeName>Verona</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.4299 10.98444</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3164527/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

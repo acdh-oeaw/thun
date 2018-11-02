@@ -57,5 +57,35 @@
                 </p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="haynald-lajos">
+                        <persName>
+                            <surname>Haynald</surname>
+                            <forename>Lajos</forename>
+                        </persName>
+                        <note>
+                            <p>Szécsény 1816–1891 Kalosca</p>
+                            <p>1842–1846 Prof. der Theologie am Priesterseminar in Gran, ab 1852 Bischof von Karlsburg, 1861 Resignation von seinem Bistum und Umzug nach Rom, ab 1867 Erzbischof von Kalocsa, 1879 Erhebung zum Kardinal</p>
+                            <p>http://d-nb.info/gnd/116553677</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116553677</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_14fde9ff1bc88b6a4b3884b69424d59f">
+                        <placeName>Municipiul Alba Iulia</placeName>
+                        <placeName type="pref">Karlsburg [Alba Iulia]</placeName>
+                        <placeName type="alt">Karlsburg [Alba Iulia]</placeName>
+                        <placeName type="alt">Karlsburg</placeName>
+                        <placeName type="alt">Alba Iulia</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.06346 23.57494</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/8299636/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

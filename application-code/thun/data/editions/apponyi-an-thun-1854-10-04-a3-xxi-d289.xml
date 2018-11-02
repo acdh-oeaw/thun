@@ -89,5 +89,90 @@
                 <p>Rudolf Appony</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="apponyi-rudolf">
+                        <persName>
+                            <surname>Apponyi</surname>
+                            <forename>Rudolf</forename>
+                        </persName>
+                        <note>
+                            <p>Karlsruhe 1812–1876 Venedig</p>
+                            <p>ab 1849 österr. Gesandter und bevollmächtigter Minister in Turin, 1854–1856 österr. Gesandter in München, ab 1856 österr. Gesandter in London, ab 1860 Botschafter</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="halm-karl-felix">
+                        <persName>
+                            <surname>Halm</surname>
+                            <forename>Karl Felix</forename>
+                        </persName>
+                        <note>
+                            <p>München 1809–1882 München</p>
+                            <p>1839–1846 Lehrer am Gymnasium und Prof. am Lyzeum in Speyer, 1846–1849 Lehrer am Gymnasium in Hadamar (Nassau), 1849–1856 Rektor des Maximiliangymnasium in München, ab 1856 Prof. für klass. Philologie an der Universität München, gleichzeitig Direktor der königl. Hof- und Staatsbibliothek</p>
+                            <p>http://d-nb.info/gnd/100158463</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/100158463</tei:idno>
+                    </person>
+                <person xml:id="thiersch-friedrich-wilhelm">
+                        <persName>
+                            <surname>Thiersch</surname>
+                            <forename>Friedrich Wilhelm</forename>
+                        </persName>
+                        <note>
+                            <p>Kirchscheidungen 1784–1860 München</p>
+                            <p>ab 1809 Prof. am Wilhelmsgymnasium München, 1812 Gründung des Philologischen Instituts der Bayerischen Akademie der Wissenschaften, ab 1826 Prof. an der Universität München</p>
+                            <p>http://d-nb.info/gnd/118837877</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118837877</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_f1ead991a0ca32b465653b3071c5ea3e">
+                        <placeName>Munich</placeName>
+                        <placeName type="pref">muenchen</placeName>
+                        <placeName type="alt">München</placeName>
+                        <placeName type="alt">Münchner</placeName>
+                        <placeName type="alt">München</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.13743 11.57549</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2867714/</idno>
+                    </place>
+                <place xml:id="place_162b390989a8678640067963acb65109">
+                        <placeName>Deutschland</placeName>
+                        <placeName type="alt">Deutschlands</placeName>
+                        <placeName type="alt">Germany</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.5 10.5</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2921044/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

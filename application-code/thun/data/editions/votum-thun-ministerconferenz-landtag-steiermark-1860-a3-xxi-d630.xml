@@ -114,5 +114,53 @@
                 </div>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="goluchowski-agenor">
+                        <persName>
+                            <surname>Goluchowski</surname>
+                            <forename>Agenor</forename>
+                        </persName>
+                        <note>
+                            <p>Skala Podolska 1812–1875 Lemberg</p>
+                            <p>1849–1859 Statthalter von Galizien, 1859–1860 Minister des Innern</p>
+                            <p>http://d-nb.info/gnd/11676516X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11676516X</tei:idno>
+                    </person>
+                <person xml:id="hofer-andreas">
+                        <persName>
+                            <surname>Hofer</surname>
+                            <forename>Andreas</forename>
+                        </persName>
+                        <note>
+                            <p>St. Leonhard 1767–1810 Mantua</p>
+                            <p>Anführer des Tiroler Aufstandes 1809</p>
+                            <p>http://d-nb.info/gnd/120951436</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/120951436</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_d3d8d213fb1fbd178f1c9c4aea35cbc6" type="placeName">
+                        <placeName type="pref">Tirol</placeName>
+                        <placeName type="alt">Tyrol</placeName>
+                        <placeName type="alt">Tirols</placeName>
+                        <location>
+                            <geo decls="#LatLng">47 11</geo>
+                        </location>
+                        <idno>http://www.geonames.org/2763587</idno>
+                    </place>
+                <place xml:id="place_64f607906be7598a02d75dbc1e979662" type="placeName">
+                        <placeName type="pref">England</placeName>
+                        <location>
+                            <geo decls="#LatLng">52.16045 -0.703126</geo>
+                        </location>
+                        <idno>http://www.geonames.org/6269131</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

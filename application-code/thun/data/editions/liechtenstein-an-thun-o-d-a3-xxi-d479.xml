@@ -121,5 +121,96 @@
                 <p>Liechtenstein</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="liechtenstein-friedrich">
+                        <persName>
+                            <surname>Liechtenstein</surname>
+                            <forename>Friedrich</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1807–1885 Wien</p>
+                            <p>General, 1858–1861 Gouverneur von Siebenbürgen</p>
+                            <p>http://d-nb.info/gnd/123614686</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/123614686</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="bach-alexander">
+                        <persName>
+                            <surname>Bach</surname>
+                            <forename>Alexander</forename>
+                        </persName>
+                        <note>
+                            <p>Loosdorf 1813–1893 Unterwaltersdorf</p>
+                            <p>Juli und Okt. 1848 Justizminister, ab Juli 1849 Minister des Innern, 1859–1867 österr. Botschafter im Vatikan</p>
+                            <p>http://d-nb.info/gnd/118651455</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118651455</tei:idno>
+                    </person>
+                <person xml:id="szabo">
+                        <persName>
+                            <surname>Szabo</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Statthaltereirat und Kultusreferent für Siebenbürgen</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="groisz-gustav">
+                        <persName>
+                            <surname>Groisz</surname>
+                            <forename>Gustav</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Statthaltereirat und Kultusreferent für Siebenbürgen, Reichsratsmitglied</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_2a19ada135b2f9f63afab2e1ccd81274">
+                        <placeName>Şimleu Silvaniei</placeName>
+                        <placeName type="pref">Szilágysomlyó</placeName>
+                        <placeName type="alt">Szilágysomlyó</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.23333 22.8</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/667101/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

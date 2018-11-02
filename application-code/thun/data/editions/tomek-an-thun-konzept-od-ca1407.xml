@@ -83,5 +83,35 @@
                 <p>Vaší Excellencí<lb/>s povinnou poslušností<lb/>oddaný<lb/>Tomek</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="tomek-vaclav-vladivoi">
+                        <persName>
+                            <surname>Tomek</surname>
+                            <forename>Václav Vladivoi</forename>
+                        </persName>
+                        <note>
+                            <p>Königgrätz 1818–1905 Prag</p>
+                            <p>Lehrer bei der Familie Šafařik, ab 1839 bei der Familie Palácký, ab 1850 Prof. für österreichische Geschichte an der Universität Prag</p>
+                            <p>http://d-nb.info/gnd/117404845</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117404845</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+        </back>
     </text>
 </TEI>

@@ -94,5 +94,117 @@
                 <p>Thérèse Apponyi<lb/>née Nogarola</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="apponyi-therese">
+                        <persName>
+                            <surname>Apponyi</surname>
+                            <forename>Therese</forename>
+                        </persName>
+                        <note>
+                            <p>1790–1874 Preßburg</p>
+                            <p>geb. Nogarola, ab 1808 vermählt mit Anton Apponyi, Mutter von Rudolf und Julius Apponyi</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="apponyi-rudolf">
+                        <persName>
+                            <surname>Apponyi</surname>
+                            <forename>Rudolf</forename>
+                        </persName>
+                        <note>
+                            <p>Karlsruhe 1812–1876 Venedig</p>
+                            <p>ab 1849 österr. Gesandter und bevollmächtigter Minister in Turin, 1854–1856 österr. Gesandter in München, ab 1856 österr. Gesandter in London, ab 1860 Botschafter</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="apponyi-julius">
+                        <persName>
+                            <surname>Apponyi</surname>
+                            <forename>Julius</forename>
+                        </persName>
+                        <note>
+                            <p>Florenz 1816–1857 Wien</p>
+                            <p>Kämmerer</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="apponyi-sophie">
+                        <persName>
+                            <surname>Apponyi</surname>
+                            <forename>Sophie</forename>
+                        </persName>
+                        <note>
+                            <p>1822–1897 Nagy Appony</p>
+                            <p>geb. Sztáray, ab 1844 Gattin von Julius Apponyi, Palastdame, Sternkreuz-Dame und Ehrendame des Souveränen Malteserordens</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="krajcik-johann">
+                        <persName>
+                            <surname>Krajcik</surname>
+                            <forename>Johann</forename>
+                        </persName>
+                        <note>
+                            <p>Báon 1804–1890</p>
+                            <p>ab 1841 Domherr in Neutra, ab 1859 Synodal-Examinator</p>
+                            <p>http://d-nb.info/gnd/1017305595</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1017305595</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_c02c72b51669c91cfda3c0599a674b45">
+                        <placeName>Bad Ems</placeName>
+                        <placeName type="pref">bad-ems</placeName>
+                        <placeName type="alt">[Bad] Ems</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.33544 7.71369</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2953507/</idno>
+                    </place>
+                <place xml:id="place_ccbee73cd81c7f42405e1920409247ec">
+                        <placeName>Paris</placeName>
+                        <placeName type="pref">paris</placeName>
+                        <placeName type="alt">Pariser</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.85341 2.3488</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2988507/</idno>
+                    </place>
+                <place xml:id="place_d856324689e6964c27e3903e6f63a34e">
+                        <placeName>Komitat Neutra</placeName>
+                        <placeName type="alt">Neutra</placeName>
+                        <placeName type="alt">Neutraer Seniorate</placeName>
+                        <placeName type="alt">Neutraer</placeName>
+                        <placeName type="alt">Ober- und Unter-Neutra</placeName>
+                        <placeName type="alt">Neutraer Comitate</placeName>
+                        <placeName type="alt">Comitat de Neutra</placeName>
+                        <placeName type="alt">Comitate de Neutra</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.314722 18.0875</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4843030-4</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

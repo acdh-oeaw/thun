@@ -91,5 +91,87 @@
                 <p>ergebenster Diener<lb/>Simor </p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="simor-johann">
+                        <persName>
+                            <surname>Simor</surname>
+                            <forename>János</forename>
+                        </persName>
+                        <note>
+                            <p>Székesfehérvár 1813–1891 Balatonfüred</p>
+                            <p>Priester, ab 1846 Prof. für Dogmatik im Priesterseminar Esztergom, ab 1850 Prof. für Kirchenrecht an der Universität Wien, ab 1857 Bischof von Györ, ab 1867 Erzbischof von Esztergom und Primas von Ungarn, 1873 Kardinal</p>
+                            <p>http://d-nb.info/gnd/123271606</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/123271606</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="mayer-joseph">
+                        <persName>
+                            <surname>Mayer</surname>
+                            <forename>Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>k_A</p>
+                            <p>http://d-nb.info/gnd/118529129</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118529129</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_aac36cfc2853efb1e6932ef241d56c8b">
+                        <placeName>Fertőrákos</placeName>
+                        <placeName type="pref">Kroisbach</placeName>
+                        <placeName type="alt">Kroisbach</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.72017 16.6504</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3052640/</idno>
+                    </place>
+                <place xml:id="place_94d458421577f333e584bb7fb0f47e91">
+                        <placeName>Rosenau</placeName>
+                        <placeName type="pref">rosenau [Rožňava]</placeName>
+                        <placeName type="alt">Rosenauer</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.66009 20.53758</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4304792-0</idno>
+                        <idno>http://sws.geonames.org/723713/</idno>
+                    </place>
+                <place xml:id="place_1cb537e833afd985097ccfaddffb2ef3">
+                        <placeName>Raab</placeName>
+                        <placeName type="pref">Raab [Győr]</placeName>
+                        <placeName type="alt">Raaber</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.68333 17.63512</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3052009/</idno>
+                    </place>
+                <place xml:id="place_cde856980f41b5362c96273d9c84431d">
+                        <placeName>Esztergom</placeName>
+                        <placeName type="alt">Graner</placeName>
+                        <placeName type="alt">Gran</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.7928 18.74148</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3053163/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

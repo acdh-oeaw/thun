@@ -90,5 +90,101 @@
                 </p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="helfert-joseph-alexander">
+                        <persName>
+                            <surname>Helfert</surname>
+                            <forename>Josef Alexander</forename>
+                        </persName>
+                        <note>
+                            <p>Prag 1820–1910 Wien</p>
+                            <p>Historiker und Politiker, ab Okt. 1847 Supplent für römisches und kanonisches Recht an der Universität Krakau, 1848–1860 Unterstaatssekretär im Ministerium für Kultus und Unterricht, ab 1860 leitender Beamter der Sektion Unterricht im Staatsministerium</p>
+                            <p>http://d-nb.info/gnd/11877381X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11877381X</tei:idno>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+                <person xml:id="buol-schauenstein-karl-ferdinand">
+                        <persName>
+                            <surname>Buol-Schauenstein</surname>
+                            <forename>Karl Ferdinand</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1797–1865 Wien</p>
+                            <p>Politiker, 1852–1859 österr. Außenminister</p>
+                            <p>http://d-nb.info/gnd/118665022</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118665022</tei:idno>
+                    </person>
+                <person xml:id="bach-alexander">
+                        <persName>
+                            <surname>Bach</surname>
+                            <forename>Alexander</forename>
+                        </persName>
+                        <note>
+                            <p>Loosdorf 1813–1893 Unterwaltersdorf</p>
+                            <p>Juli und Okt. 1848 Justizminister, ab Juli 1849 Minister des Innern, 1859–1867 österr. Botschafter im Vatikan</p>
+                            <p>http://d-nb.info/gnd/118651455</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118651455</tei:idno>
+                    </person>
+                <person xml:id="kempen-johann-franz">
+                        <persName>
+                            <surname>Kempen von Fichtenstamm</surname>
+                            <forename>Johann Franz</forename>
+                        </persName>
+                        <note>
+                            <p>Pardubitz 1793–1863 Schwarzau a. Steinfeld</p>
+                            <p>ab 1849 Generalinspektor der Gendarmerie, ab 1851 Militärgouverneur von Wien, 1852–1859 Chef der obersten Polizeibehörde</p>
+                            <p>http://d-nb.info/gnd/126717397</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/126717397</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_c0ce3216e3cb050a80363757086a42f0">
+                        <placeName>Olomouc</placeName>
+                        <placeName type="pref">Olmütz [Olomouc]</placeName>
+                        <placeName type="alt">Ollmütz</placeName>
+                        <placeName type="alt">Olmützer</placeName>
+                        <placeName type="alt">Olmütz</placeName>
+                        <placeName type="alt">Olmüz</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.59552 17.25175</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3069011/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

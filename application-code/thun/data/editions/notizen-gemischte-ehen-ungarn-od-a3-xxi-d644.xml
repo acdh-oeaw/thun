@@ -98,5 +98,128 @@
                 </div>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="benedikt-XIV">
+                        <persName>
+                            <surname>Benedikt XIV.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Bologna 1675–1758 Rom</p>
+                            <p>1740–1758 Papst</p>
+                            <p>http://d-nb.info/gnd/118655434</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118655434</tei:idno>
+                    </person>
+                <person xml:id="clemens-XIII">
+                        <persName>
+                            <surname>Clemens XIII.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Venedig 1693–1769 Rom</p>
+                            <p>1758–1769 Papst</p>
+                            <p>http://d-nb.info/gnd/123610311</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/123610311</tei:idno>
+                    </person>
+                <person xml:id="frankenberg-johann-heinrich">
+                        <persName>
+                            <surname>Frankenberg</surname>
+                            <forename>Johann Heinrich</forename>
+                        </persName>
+                        <note>
+                            <p>Groß-Glogau 1726–1804 Breda</p>
+                            <p>Kardinal und Erzbischof von Mechelen</p>
+                            <p>http://d-nb.info/gnd/119353504</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119353504</tei:idno>
+                    </person>
+                <person xml:id="gregor-XVI">
+                        <persName>
+                            <surname>Gregor XVI.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Belluno 1765–1846 Rom</p>
+                            <p>1831–1846 Papst</p>
+                            <p>http://d-nb.info/gnd/118541897</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118541897</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_cde856980f41b5362c96273d9c84431d">
+                        <placeName>Esztergom</placeName>
+                        <placeName type="alt">Graner</placeName>
+                        <placeName type="alt">Gran</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.7928 18.74148</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3053163/</idno>
+                    </place>
+                <place xml:id="place_dc99ae826de653f8eda03c7b3d728ed1">
+                        <placeName>Kalocsa</placeName>
+                        <placeName type="pref">Colocza</placeName>
+                        <placeName type="alt">Colocza</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.52639 18.98583</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3050719/</idno>
+                    </place>
+                <place xml:id="place_c0c864044f97c6e7d7af03ea5a182d70">
+                        <placeName>Eger</placeName>
+                        <placeName type="alt">Erlauer</placeName>
+                        <placeName type="alt">Erlau</placeName>
+                        <placeName type="alt">Egener</placeName>
+                        <placeName type="alt">Egerer</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.90265 20.37329</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/721239/</idno>
+                    </place>
+                <place xml:id="place_7279949b987b1b373468947f87fe6753">
+                        <placeName>Brüssel</placeName>
+                        <placeName type="alt">Bruxelles</placeName>
+                        <placeName type="alt">Brüsseler</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.85045 4.34878</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2800866/</idno>
+                    </place>
+                <place xml:id="place_67eb2b8d0aab60ec69666532ff9527c9" type="placeName">
+                        <placeName type="pref">Holland</placeName>
+                        <location>
+                            <geo decls="#LatLng">52.25 4.667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4133959-9</idno>
+                    </place>
+                <place xml:id="place_8f37567814d3a88b7c487c48699476fa">
+                        <placeName>Trento</placeName>
+                        <placeName type="pref">Trient</placeName>
+                        <placeName type="alt">Trient.</placeName>
+                        <placeName type="alt">Trientiner</placeName>
+                        <placeName type="alt">Trienter</placeName>
+                        <placeName type="alt">Trient</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.06787 11.12108</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3165243/</idno>
+                    </place>
+                <place xml:id="place_601df943a89d2ac73e0e43a5d37fc228">
+                        <placeName type="pref">Ungarn</placeName>
+                        <placeName type="alt">Ungarns</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.0 20.0</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/719819/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

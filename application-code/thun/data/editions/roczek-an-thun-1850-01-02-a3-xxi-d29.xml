@@ -350,5 +350,133 @@
                 <p>Drožditz, Post Pardubitz, den 2. Jänner 1850</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="roczek-mathias">
+                        <persName>
+                            <surname>Roczek</surname>
+                            <forename>Matthias</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Grundbesitzer</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="pulpan-wenzel">
+                        <persName>
+                            <surname>Půlpán</surname>
+                            <forename>Václav</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Landwirt in Chotsch/Choteč (Bezirk Pardubitz), Reichstagsabgeordneter für Pardubitz</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="placek-franz">
+                        <persName>
+                            <surname>Plaček</surname>
+                            <forename>František</forename>
+                        </persName>
+                        <note>
+                            <p>Běleč 1809–1888 Lázně Sedmihorky</p>
+                            <p>1844 Kreissekretär in Chrudim, 1849 Sekretär der Grundentlastungs-Landeskommission für Böhmen, nach deren Auflösung bei der Statthalterei in Prag, ab 1857 Statthaltereirat</p>
+                            <p>http://d-nb.info/gnd/1026197392</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1026197392</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_0e840a3cd526846dda20cf2ada7bfb4d">
+                        <placeName>Drozdice</placeName>
+                        <placeName type="pref">Drožditz</placeName>
+                        <placeName type="alt">Drožditz</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.01582 15.81789</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3076395/</idno>
+                    </place>
+                <place xml:id="place_f80fe87079d6832a0e9432d233507bbc">
+                        <placeName>Pardubice</placeName>
+                        <placeName type="pref">Pardubitz [Pardubice]</placeName>
+                        <placeName type="alt">Pardubitzer Bezirks</placeName>
+                        <placeName type="alt">Pardubitzer</placeName>
+                        <placeName type="alt">Pardubitz</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.04075 15.77659</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/504754-7</idno>
+                        <idno>http://sws.geonames.org/3068582/</idno>
+                    </place>
+                <place xml:id="place_867b530d8072e0e4d907aa82937d3e01" type="placeName">
+                        <placeName type="pref">Böhmen</placeName>
+                        <location>
+                            <geo decls="#LatLng">50 14.5</geo>
+                        </location>
+                        <idno>http://www.geonames.org/3078198</idno>
+                    </place>
+                <place xml:id="place_02e2c82ee07834e9be02931c376449e2">
+                        <placeName>Lázně Bohdaneč</placeName>
+                        <placeName type="pref">Bohdanetsch</placeName>
+                        <placeName type="alt">Bohdanetsch</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.0756 15.67978</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4559820-4</idno>
+                        <idno>http://sws.geonames.org/3337421/</idno>
+                    </place>
+                <place xml:id="place_adb91b5f3644d5e771a385792c67a406">
+                        <placeName>Hrochowteinitz</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.95946 15.91054</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3074808/</idno>
+                    </place>
+                <place xml:id="place_9eda962b2592047fdcd2f1c489f4f739">
+                        <placeName>Horní Jelení</placeName>
+                        <placeName type="pref">oberjeleni</placeName>
+                        <placeName type="alt">Oberjelleni</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.04901 16.08396</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3075361/</idno>
+                    </place>
+                <place xml:id="place_6164b15b5cd3c72807dbc32d6c6c01a3">
+                        <placeName>Chroustovice</placeName>
+                        <placeName type="pref">Hostowitz</placeName>
+                        <placeName type="alt">Hostowitz</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.95553 15.99143</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3077543/</idno>
+                    </place>
+                <place xml:id="place_12e7fcfb354d84c2c3072313fda21716">
+                        <placeName>Budětsko</placeName>
+                        <placeName type="pref">Budetz</placeName>
+                        <placeName type="alt">Budetz</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.58703 16.92687</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3078486/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

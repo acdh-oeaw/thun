@@ -90,5 +90,84 @@
                 <p>Szathmár, am 26. Oktober 1860</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="haas-michael">
+                        <persName>
+                            <surname>Haas</surname>
+                            <forename>Michael</forename>
+                        </persName>
+                        <note>
+                            <p>Pinkafeld 1810–1868</p>
+                            <p>ab 1837 Prof. der Geschichte am Lyzeum zu Fünfkirchen, ab 1846 Stadtpfarrer in Fünfkirchen, ab 1853 Schulrat bei der Ofner Statthaltereiabteilung, Konsistorialrat der Fünfkirchner Diözese, Konservator für das Ofner Verwaltungsgebiet, ab 1860 Bischof von Sathmar</p>
+                            <p>http://d-nb.info/gnd/170757587</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/170757587</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-franz-anton-vater">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Franz Anton</forename>
+                        </persName>
+                        <note>
+                            <p>Prag 1786–1873 Tetschen</p>
+                            <p>Vater von Leo Thun</p>
+                            <p>http://d-nb.info/gnd/116968087</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116968087</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_865c32411d95538282c17a6573b3e5b6" type="placeName">
+                        <placeName type="pref">Sathmar [Satu Mare]</placeName>
+                        <placeName type="alt">Sathmar [Satu Mare]</placeName>
+                        <placeName type="alt">Satu Mare</placeName>
+                    </place>
+                <place xml:id="place_601df943a89d2ac73e0e43a5d37fc228">
+                        <placeName type="pref">Ungarn</placeName>
+                        <placeName type="alt">Ungarns</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.0 20.0</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/719819/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

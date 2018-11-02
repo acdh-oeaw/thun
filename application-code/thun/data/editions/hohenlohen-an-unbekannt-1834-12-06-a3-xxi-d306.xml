@@ -152,5 +152,114 @@
                 <p>[?] Hohenlohe.</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="hohenlohe-waldenburg-schillingfuerst-alexander">
+                        <persName>
+                            <surname>Hohenlohe-Waldenburg-Schillingsfürst</surname>
+                            <forename>Alexander</forename>
+                        </persName>
+                        <note>
+                            <p>Kupferzell 1794–1849 Vöslau</p>
+                            <p>kath. Geistlicher und Wunderheiler, ab 1844 Titularbischof von Sardika, Domherr von Großwardein</p>
+                            <p>http://d-nb.info/gnd/118861484</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118861484</tei:idno>
+                    </person>
+                <person xml:id="job">
+                        <persName>
+                            <surname>Job</surname>
+                            <forename>Franz Sebastian</forename>
+                        </persName>
+                        <note>
+                            <p>Neuenburg vor dem Walde 1767–1834 Wien</p>
+                            <p>1791 Priesterweihe, ab 1797 Lehrer am Lyzeum in Regensburg, Beichtvater von Karolina Augusta von Bayern, ab 1816 nach deren Verheiratung mit Franz II./I. Hofkaplan</p>
+                            <p>http://d-nb.info/gnd/172039401</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/172039401</tei:idno>
+                    </person>
+                <person xml:id="sailer-johann">
+                        <persName>
+                            <surname>Sailer</surname>
+                            <forename>Johann Michael</forename>
+                        </persName>
+                        <note>
+                            <p>Aresing 1751–1832 Regensburg</p>
+                            <p>ab 1829 Bischof von Regensburg</p>
+                            <p>http://d-nb.info/gnd/118604872</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118604872</tei:idno>
+                    </person>
+                <person xml:id="wittmann-georg">
+                        <persName>
+                            <surname>Wittmann</surname>
+                            <forename>Georg Michael</forename>
+                        </persName>
+                        <note>
+                            <p>Pleystein 1760–1833 Regensburg</p>
+                            <p>1829–1833 Bischof von Regensburg</p>
+                            <p>http://d-nb.info/gnd/134085388</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/134085388</tei:idno>
+                    </person>
+                <person xml:id="berghold">
+                        <persName>
+                            <surname>Berghold</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>k_A</p>
+                            <p>http://d-nb.info/gnd/122959302</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/122959302</tei:idno>
+                    </person>
+                <person xml:id="schlund-karl">
+                        <persName>
+                            <surname>Schlund</surname>
+                            <forename>Karl</forename>
+                        </persName>
+                        <note>
+                            <p>Wallerstein 1773–1817</p>
+                            <p>katholischer Pfarrer</p>
+                            <p>http://d-nb.info/gnd/135872685</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/135872685</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_11040f2c1312651fcf9e8c9ca1af8cd7">
+                        <placeName>Oradea</placeName>
+                        <placeName type="pref">Großwardein [Oradea]</placeName>
+                        <placeName type="alt">Großwardeiner</placeName>
+                        <placeName type="alt">Groß-Wardein</placeName>
+                        <placeName type="alt">Groß-Wardeiner</placeName>
+                        <placeName type="alt">Großwardein</placeName>
+                        <placeName type="alt">Gr[oß] Wardein</placeName>
+                        <placeName type="alt">G[roßwardein]</placeName>
+                        <placeName type="alt">Gr[oß]Wardein</placeName>
+                        <placeName type="alt">Gr[oß]wardeiner</placeName>
+                        <placeName type="alt">Großwardein</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.06667 21.93333</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/2001707-8</idno>
+                    </place>
+                <place xml:id="place_55899fef2f0b2eba13eb1316b34b3694" type="placeName">
+                        <placeName type="pref">Europe</placeName>
+                        <placeName type="alt">Europa</placeName>
+                        <location>
+                            <geo decls="#LatLng">54.9 25.316667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4015701-5</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

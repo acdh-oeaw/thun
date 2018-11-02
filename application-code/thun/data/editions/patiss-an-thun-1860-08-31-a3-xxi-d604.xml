@@ -81,5 +81,43 @@
                 <p>Kalksburg, 31. Aug. 1860</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="patiss-georg">
+                        <persName>
+                            <surname>Patiß</surname>
+                            <forename>Georg SJ</forename>
+                        </persName>
+                        <note>
+                            <p>Tiers 1814–1902 St. Andrä im Lavantthal</p>
+                            <p>Lehrer und Prediger in Innsbruck, 1860–1866 Provinzial der österr. Ordensprovinz der Gesellschaft Jesu</p>
+                            <p>http://d-nb.info/gnd/128063300</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/128063300</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_8d28dba374ae2ec899b64efb21f18dfa">
+                        <placeName>Kalksburg</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.14 16.246667</geo>
+                        </location>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

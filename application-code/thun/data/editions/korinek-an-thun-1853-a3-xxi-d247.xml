@@ -118,5 +118,60 @@
                 <p>ponížený ctitel<lb/>František B. Kořínek<lb/>spolupracovník Novin Pražských</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="korinek-frantisek">
+                        <persName>
+                            <surname>Kořinek</surname>
+                            <forename>Frantisek</forename>
+                        </persName>
+                        <note>
+                            <p>Oleschna 1831–1874 Prag</p>
+                            <p>ab 1855 Lehrer am Gymnasium in Warasdin, Graz und Agram</p>
+                            <p>http://d-nb.info/gnd/101732011X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/101732011X</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_2ca895858343263e25404d692d4fb0c2">
+                        <placeName>Uhřínov</placeName>
+                        <placeName type="pref">Uhřínově</placeName>
+                        <placeName type="alt">Uhřínově</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.34983 15.93795</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3063707/</idno>
+                    </place>
+                <place xml:id="place_4a2a2f91708481e47751d2ba84934f32">
+                        <placeName>Velké Meziříčí</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.35522 16.01224</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3063196/</idno>
+                    </place>
+                <place xml:id="place_fc9c3a7e02f8a9d5ed9033b572285243" type="placeName">
+                        <placeName type="pref">Mähren</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.5 17</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/64402-X</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

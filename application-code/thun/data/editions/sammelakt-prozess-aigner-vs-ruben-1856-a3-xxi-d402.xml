@@ -94,5 +94,29 @@
                 </div>
             </div>
         </body>
+    <back>
+            <listPlace>
+                <place xml:id="place_fc3a4fb327706ca2220500871d60b94b">
+                        <placeName>Pest megye</placeName>
+                        <placeName type="pref">Pest</placeName>
+                        <placeName type="alt">Pesth</placeName>
+                        <placeName type="alt">Pesther</placeName>
+                        <placeName type="alt">Pester</placeName>
+                        <placeName type="alt">Pest</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.41667 19.33333</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3046431/</idno>
+                    </place>
+                <place xml:id="place_601df943a89d2ac73e0e43a5d37fc228">
+                        <placeName type="pref">Ungarn</placeName>
+                        <placeName type="alt">Ungarns</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.0 20.0</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/719819/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

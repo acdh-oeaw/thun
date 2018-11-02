@@ -131,5 +131,81 @@
                     seinerzeit zur Kenntnis Eurer Excellenz zu bringen.</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="nadasdy-franz">
+                        <persName>
+                            <surname>Nádasdy</surname>
+                            <forename>Franz Seraphin</forename>
+                        </persName>
+                        <note>
+                            <p>1801–1883 Wien</p>
+                            <p>1857–1860 Justizminister, dann Präsident des Reichsrats, 1861–1865 Hofkanzler für Siebenbürgen</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="goluchowski-agenor">
+                        <persName>
+                            <surname>Goluchowski</surname>
+                            <forename>Agenor</forename>
+                        </persName>
+                        <note>
+                            <p>Skala Podolska 1812–1875 Lemberg</p>
+                            <p>1849–1859 Statthalter von Galizien, 1859–1860 Minister des Innern</p>
+                            <p>http://d-nb.info/gnd/11676516X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11676516X</tei:idno>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_3ff694e5c82611cda53341a9bae21735">
+                        <placeName>lemberg</placeName>
+                        <placeName type="alt">Lemberger</placeName>
+                        <placeName type="alt">Lemberg</placeName>
+                        <placeName type="alt">Leopol</placeName>
+                        <placeName type="alt">Lembergs</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.839444 24.032778</geo>
+                        </location>
+                    </place>
+                <place xml:id="place_4ff55ec41ee84a7b7a80b0b7734e5a6b">
+                        <placeName>Krakau</placeName>
+                        <placeName type="pref">krakau</placeName>
+                        <placeName type="alt">Krakauer</placeName>
+                        <placeName type="alt">Krakau’s</placeName>
+                        <placeName type="alt">hiesigen</placeName>
+                        <placeName type="alt">jener Stadt</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.06143 19.93658</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3094802/</idno>
+                    </place>
+                <place xml:id="place_4ec4d4015169a4209797da17b240c7c3">
+                        <placeName>Galicia</placeName>
+                        <placeName type="pref">Galizien</placeName>
+                        <placeName type="alt">Galicien</placeName>
+                        <placeName type="alt">Galizien</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.5 23.0</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/562153/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

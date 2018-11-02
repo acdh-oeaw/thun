@@ -132,5 +132,105 @@
                 <p>Schramberg in Würtemberg, 22. September 1854</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="bissingen-cajetan">
+                        <persName>
+                            <surname>Bissingen-Nippenburg</surname>
+                            <forename>Cajetan Alexander</forename>
+                        </persName>
+                        <note>
+                            <p>Venedig 1806–1890 Schramberg</p>
+                            <p>ab 1848 Statthalter für Tirol und Vorarlberg, ab 1852 gleichzeitig Landeshauptmann, 1855–1860 Statthalter von Venedig</p>
+                            <p>http://d-nb.info/gnd/116195843</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116195843</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="waechter-karl-georg">
+                        <persName>
+                            <surname>Wächter</surname>
+                            <forename>Carl Georg</forename>
+                        </persName>
+                        <note>
+                            <p>Marbach am Neckar 1797–1880 Leipzig</p>
+                            <p>1836–1851 Prof. für Rechtswissenschaft an der Universität Tübingen, 1852–1880 Prof. für Straf- und Pandektenrecht an der Universität Leipzig</p>
+                            <p>http://d-nb.info/gnd/172455790</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/172455790</tei:idno>
+                    </person>
+                <person xml:id="wuerttemberg-friedrich">
+                        <persName>
+                            <surname>Württemberg</surname>
+                            <forename>Friedrich von</forename>
+                        </persName>
+                        <note>
+                            <p>Comburg 1808–1870 Stuttgart</p>
+                            <p>württembergischer Prinz und General, Vater von Wilhelm II. von Württemberg</p>
+                            <p>http://d-nb.info/gnd/118703218</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118703218</tei:idno>
+                    </person>
+                <person xml:id="dantscher-karl">
+                        <persName>
+                            <surname>Dantscher</surname>
+                            <forename>Karl</forename>
+                        </persName>
+                        <note>
+                            <p>Graz 1813–1887 Innsbruck</p>
+                            <p>ab 1846 Prof. der Anatomie an der Universität Innsbruck</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_5891474b8c1bc6f744b99e2b10c4a3db">
+                        <placeName>Schramberg</placeName>
+                        <placeName type="pref">Schramberg in Württemberg</placeName>
+                        <placeName type="alt">Schramberg in Württemberg</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.22399 8.38583</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2836203/</idno>
+                    </place>
+                <place xml:id="place_e9cd6cbbbc3248f7a69252439ba3d6e6">
+                        <placeName>Frankfurt-Eckenheim</placeName>
+                        <placeName type="pref">Frankfurt a. M.</placeName>
+                        <placeName type="alt">Frankfurt a. M.</placeName>
+                        <placeName type="alt">Frankfurt am Main</placeName>
+                        <placeName type="alt">Francfurt a. M.</placeName>
+                        <placeName type="alt">Francfurt</placeName>
+                        <placeName type="alt">Francoforte</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.1497921 8.6662762</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4093156-0</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

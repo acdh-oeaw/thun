@@ -538,5 +538,95 @@
                 </p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+                <person xml:id="ferdinand-I-oesterreich">
+                        <persName>
+                            <surname>Ferdinand I. (Österreich)</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1793–1875 Prag</p>
+                            <p>1835–1848 Kaiser von Österreich, König von Böhmen, als Ferdinand V. König von Ungarn und Kroatien</p>
+                            <p>http://d-nb.info/gnd/118686747</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118686747</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_601df943a89d2ac73e0e43a5d37fc228">
+                        <placeName type="pref">Ungarn</placeName>
+                        <placeName type="alt">Ungarns</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.0 20.0</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/719819/</idno>
+                    </place>
+                <place xml:id="place_46ef149805b1b370596a83886b1e010e" type="placeName">
+                        <placeName type="pref">Croazien</placeName>
+                        <placeName type="alt">Kroatien</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.25 15.466667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4073841-3</idno>
+                    </place>
+                <place xml:id="place_15f10264a572e8ce0fe253bc889cdbf5" type="placeName">
+                        <placeName type="pref">Slavonien</placeName>
+                        <placeName type="alt">Slawonien</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.45 17.916667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4055289-5</idno>
+                    </place>
+                <place xml:id="place_35d1161cc45f7c1d2b14ff99f1d259a3" type="placeName">
+                        <placeName type="pref">Serbisch-Banater
+                            Wojwodschaft</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.756111 21.229444</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/400449-8</idno>
+                    </place>
+                <place xml:id="place_6fe90dd680c4a571ed89e631ef2d48ed" type="placeName">
+                        <placeName type="pref">Kroatien und
+                            Slavonien</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.8 15.966667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4073841-3</idno>
+                    </place>
+                <place xml:id="place_c1a76f350bcfa4d0b1f71fc95e9a882b" type="placeName">
+                        <placeName type="pref">Wojwodschaft
+                            Serbien</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.395 20.034</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4066811-3</idno>
+                    </place>
+                <place xml:id="place_67c8655646f02446cc1e4ecffd769f79">
+                        <placeName>Municipiul Timişoara</placeName>
+                        <placeName type="pref">temescher-banat</placeName>
+                        <placeName type="alt">Banater</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.75641 21.22974</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/400449-8</idno>
+                        <idno>http://sws.geonames.org/8334795/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

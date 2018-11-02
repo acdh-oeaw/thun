@@ -167,5 +167,106 @@
                 </div>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="hille-augustin">
+                        <persName>
+                            <surname>Hille</surname>
+                            <forename>Augustin Bartholomäus</forename>
+                        </persName>
+                        <note>
+                            <p>Großschänau 1786–1865 Leitmeritz</p>
+                            <p>ab 1820 Lehrer für Praktische Theologie an der Diözesanlehranstalt in Leitmeritz, ab 1824 Konsistorialrat und Rektor des Prietserseminars, 1831 Domherr, ab 1832 Bischof von Leitmeritz</p>
+                            <p>http://d-nb.info/gnd/123886716</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/123886716</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="baumgartner-andreas">
+                        <persName>
+                            <surname>Baumgartner</surname>
+                            <forename>Andreas</forename>
+                        </persName>
+                        <note>
+                            <p>Friedberg 1793–1865 Hietzing</p>
+                            <p>1823–1833 Prof. für Physik und Angewandte Mathematik an der Universität Wien, ab 1833 Direktor der k. k. Porzellanfabriken, 1842–1848 Direktor der k. k. Tabakregie, 1848 Minister für öffentliche Arbeiten und das Bergwesen, 1851–1855 Minister für Handel, Gewerbe und öffentliche Bauten und Finanzminister, 1851–1865 Präsident der Akademie der Wissenschaften in Wien</p>
+                            <p>http://d-nb.info/gnd/118653946</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118653946</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-caroline">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Caroline</forename>
+                        </persName>
+                        <note>
+                            <p>1822–1898 Bad Ischl</p>
+                            <p>geb. Clam-Martinic, ab 1847 Gattin von Leo Thun</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_a808e5c57f7af6870dafa78db5ce4321">
+                        <placeName>Leitmeritz</placeName>
+                        <placeName type="pref">Leitmeritz [Litoměřice]</placeName>
+                        <placeName type="alt">Leitmeritzer</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.53348 14.1318</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3071677/</idno>
+                    </place>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

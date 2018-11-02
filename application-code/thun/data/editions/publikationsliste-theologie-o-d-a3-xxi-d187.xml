@@ -76,5 +76,51 @@
                     eine kurze Abhandlung über die Echtheit der Evangelien. Breslau 1850.</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="riffel-caspar">
+                        <persName>
+                            <surname>Riffel</surname>
+                            <forename>Caspar</forename>
+                        </persName>
+                        <note>
+                            <p>Büdesheim 1807–1856 Mainz</p>
+                            <p>kath. Theologe, ab 1830 Prof. für Kirchengeschichte am Seminar in Mainz, ab 1835 Prof. für Moraltheologie, ab 1837 Prof. für Kirchengeschichte an der Universität Gießen</p>
+                            <p>http://d-nb.info/gnd/116546824</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116546824</tei:idno>
+                    </person>
+                <person xml:id="wick-joseph">
+                        <persName>
+                            <surname>Wick</surname>
+                            <forename>Joseph Lorenz</forename>
+                        </persName>
+                        <note>
+                            <p>Mellenthin 1820–1903 Breslau</p>
+                            <p>kath. Priester, 1847–1851 Privatdozent für Apologetik, Symbolik, Kirchengeschichte an der Universität Breslau, Kurat bei St. Adalbert in Breslau, Gründer zahlreicher katholischer Vereine</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_3496da6c1db0a5223edb1fb4c415a154">
+                        <placeName>Mainz</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.98419 8.2791</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2874225/</idno>
+                    </place>
+                <place xml:id="place_60960432acfa4972c8f13dd89a872920">
+                        <placeName>Breslau</placeName>
+                        <placeName type="alt">Breslauer</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.10773 17.03533</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/7531292/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

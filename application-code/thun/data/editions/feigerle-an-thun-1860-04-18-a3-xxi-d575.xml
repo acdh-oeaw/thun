@@ -165,5 +165,180 @@
                 </div>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="feigerle-ignaz">
+                        <persName>
+                            <surname>Feigerle</surname>
+                            <forename>Ignaz</forename>
+                        </persName>
+                        <note>
+                            <p>Biskupstwo b. Olmütz 1795–1863 Ochsenburg</p>
+                            <p>1828 erster Rektor der neuerrichteten Universität Olmütz, ab 1829 Prof. an der Universität Wien, 1847 Rektor der Universität Wien, ab 1840 Hof- und Burgpfarrer, Vorsteher des Augustineums, Beichtvater des Kaisers, 1851–1863 Bischof von St. Pölten</p>
+                            <p>http://d-nb.info/gnd/116436433</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116436433</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="gaertner-wilhelm">
+                        <persName>
+                            <surname>Gärtner</surname>
+                            <forename>Wilhelm</forename>
+                        </persName>
+                        <note>
+                            <p>Reichenberg 1811–1875 Engerau b. Pressburg</p>
+                            <p>Schriftsteller und Theologe, Kaplan in verschiedenen Orten in Böhmen, ab 1844 freier Schriftsteller in Wien, 1852–1861 Prof. für deutsche Sprache und Literatur an der Universität Pest</p>
+                            <p>http://d-nb.info/gnd/172481945</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/172481945</tei:idno>
+                    </person>
+                <person xml:id="hille-augustin">
+                        <persName>
+                            <surname>Hille</surname>
+                            <forename>Augustin Bartholomäus</forename>
+                        </persName>
+                        <note>
+                            <p>Großschänau 1786–1865 Leitmeritz</p>
+                            <p>ab 1820 Lehrer für Praktische Theologie an der Diözesanlehranstalt in Leitmeritz, ab 1824 Konsistorialrat und Rektor des Prietserseminars, 1831 Domherr, ab 1832 Bischof von Leitmeritz</p>
+                            <p>http://d-nb.info/gnd/123886716</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/123886716</tei:idno>
+                    </person>
+                <person xml:id="stelzer-anna">
+                        <persName>
+                            <surname>Stelzer</surname>
+                            <forename>Anna</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>k_A</p>
+                            <p>http://d-nb.info/gnd/129236284</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/129236284</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_d61ca6f44ac954c2c4ecc43d0db38ce5">
+                        <placeName>St. Pölten</placeName>
+                        <placeName type="pref">st-poelten</placeName>
+                        <placeName type="alt">St. Pöltner</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2 15.63333</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2766429/</idno>
+                    </place>
+                <place xml:id="place_c80382980ad6d369b760894e1669279e">
+                        <placeName>Klein-Pöchlarn</placeName>
+                        <placeName type="pref">kleinpoechlarn</placeName>
+                        <placeName type="alt">Kleinpöchlarn</placeName>
+                        <placeName type="alt">Kleinpochlarn</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.21667 15.21667</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2774062/</idno>
+                    </place>
+                <place xml:id="place_307fd9c6aa5bb1f1723bf6710c6f7ecf">
+                        <placeName>Pöchlarn</placeName>
+                        <placeName type="pref">grosspoechlarn</placeName>
+                        <placeName type="alt">Großpöchlarn</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2 15.2</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2768627/</idno>
+                    </place>
+                <place xml:id="place_07e2e84e3cfd8e6d8476b1f331b0dd20">
+                        <placeName>Hollabrunn</placeName>
+                        <placeName type="pref">Oberhollabrunn</placeName>
+                        <placeName type="alt">Oberhollabrunn</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.55 16.08333</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2775636/</idno>
+                    </place>
+                <place xml:id="place_fc3a4fb327706ca2220500871d60b94b">
+                        <placeName>Pest megye</placeName>
+                        <placeName type="pref">Pest</placeName>
+                        <placeName type="alt">Pesth</placeName>
+                        <placeName type="alt">Pesther</placeName>
+                        <placeName type="alt">Pester</placeName>
+                        <placeName type="alt">Pest</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.41667 19.33333</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3046431/</idno>
+                    </place>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_1ad9b40d02555252bd601a9200565976">
+                        <placeName>Pielach</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.22722 15.3718</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2768844/</idno>
+                    </place>
+                <place xml:id="place_70bde987c42c09240ef3e840fc66a461">
+                        <placeName>Melk</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.22737 15.33186</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2771682/</idno>
+                    </place>
+                <place xml:id="place_22c1334b53dfa475b12a296e9d2ae838">
+                        <placeName>Mariazell</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.77306 15.31639</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2771893/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

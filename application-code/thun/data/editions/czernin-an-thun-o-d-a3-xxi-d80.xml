@@ -104,5 +104,66 @@
                 <p>ergebenster Diener<lb/>E. G. Czernin</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="czernin-von-und-zu-chudenitz-eugen">
+                        <persName>
+                            <surname>Czernin von und zu Chudenitz</surname>
+                            <forename>Eugen</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1796–1868 Schloss Petersburg, Böhmen</p>
+                            <p>Großgrundbesitzer, Industrieller, Intendant des Wiener Hoftheaters</p>
+                            <p>http://d-nb.info/gnd/102085779X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/102085779X</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="rochleder-victor">
+                        <persName>
+                            <surname>Rochleder</surname>
+                            <forename>Victor</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Bewerber für ein Amt im Ministerium für Kultus und Unterricht</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_4aee0ba8deb6ed0f68f1345844d493fb">
+                        <placeName>Jindřichův Hradec</placeName>
+                        <placeName type="pref">Neuhaus</placeName>
+                        <placeName type="alt">Neuhaus</placeName>
+                        <placeName type="alt">o. O. [Neuhaus]</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.14404 15.00301</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3074149/</idno>
+                    </place>
+                <place xml:id="place_867b530d8072e0e4d907aa82937d3e01" type="placeName">
+                        <placeName type="pref">Böhmen</placeName>
+                        <location>
+                            <geo decls="#LatLng">50 14.5</geo>
+                        </location>
+                        <idno>http://www.geonames.org/3078198</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

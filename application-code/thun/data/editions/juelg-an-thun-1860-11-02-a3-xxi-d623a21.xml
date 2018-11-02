@@ -138,5 +138,61 @@
                 <p>Krakau, am 2. Nov. 1860</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="juelg-bernhard">
+                        <persName>
+                            <surname>Jülg</surname>
+                            <forename>Bernhard</forename>
+                        </persName>
+                        <note>
+                            <p>Ringelbach 1825–1886 Innsbruck</p>
+                            <p>1848–1850 Prof. an Lyzeen in Heidelberg, Freiburg und Rastatt, ab 1851 Prof. der klass. Philologie an der Universität Lemberg, ab 1853 Prof. an der Universität Krakau, ab 1863 Prof. an der Universität Innsbruck</p>
+                            <p>http://d-nb.info/gnd/117220973</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117220973</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_4ff55ec41ee84a7b7a80b0b7734e5a6b">
+                        <placeName>Krakau</placeName>
+                        <placeName type="pref">krakau</placeName>
+                        <placeName type="alt">Krakauer</placeName>
+                        <placeName type="alt">Krakau’s</placeName>
+                        <placeName type="alt">hiesigen</placeName>
+                        <placeName type="alt">jener Stadt</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.06143 19.93658</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3094802/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+                <place xml:id="place_4bafeb20cbf9d5c7c934c564ec1365ad" type="placeName">
+                        <placeName type="pref">baden</placeName>
+                        <placeName type="alt">Baden</placeName>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

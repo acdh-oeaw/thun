@@ -101,5 +101,61 @@
                     Vereine, etc.</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="manussi-ferdinand">
+                        <persName>
+                            <surname>Manussi</surname>
+                            <forename>Ferdinand Karl</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1809–1887 Wien</p>
+                            <p>Beamter und Philanthrop</p>
+                            <p>http://d-nb.info/gnd/1019375159</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1019375159</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="windisch-graetz-alfred">
+                        <persName>
+                            <surname>Windisch-Graetz</surname>
+                            <forename>Alfred</forename>
+                        </persName>
+                        <note>
+                            <p>Brüssel 1787–1862 Wien</p>
+                            <p>Feldmarschall, führende Rolle bei der Niederschlagung der Aufstände 1848/49 in Wien und Ungarn</p>
+                            <p>http://d-nb.info/gnd/118769251</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118769251</tei:idno>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+            </listPerson>
+        </back>
     </text>
 </TEI>

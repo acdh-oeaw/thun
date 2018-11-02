@@ -144,5 +144,87 @@
                 <p>Göttingen, am 20. Juni 1857</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="roessler-emil">
+                        <persName>
+                            <surname>Rössler</surname>
+                            <forename>Emil Franz</forename>
+                        </persName>
+                        <note>
+                            <p>Brüx 1815–1863 Sigmaringen</p>
+                            <p>1846–1848 Dozent für Geschichte des Rechts in Österreich an der Universität Wien, 1848/49 Mitglied der Frankfurter Nationalversammlung, ab 1849 Privatdozent für deutsche Rechtsgeschichte an der Univ. Göttingen, ab 1858 Bibliothekar in Erlangen, ab 1863 Bibliothekar in Sigmaringen</p>
+                            <p>http://d-nb.info/gnd/118790927</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118790927</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="ingelheim-friedrich-hugo">
+                        <persName>
+                            <surname>Ingelheim</surname>
+                            <forename>Friedrich Hugo</forename>
+                        </persName>
+                        <note>
+                            <p>1807–1888</p>
+                            <p>Diplomat, 1855–1866 Gesandter in Hannover, Oldenburg und Braunschweig</p>
+                            <p>http://d-nb.info/gnd/117138959</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117138959</tei:idno>
+                    </person>
+                <person xml:id="bothmer-carl-franz-august">
+                        <persName>
+                            <surname>Bothmer</surname>
+                            <forename>Carl Franz Ernst Augus</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Minister des Kultus im Königreich Hannover</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_bb924613631a24955ccdde82d6af5cc2">
+                        <placeName>Göttingen</placeName>
+                        <placeName type="pref">goettingen</placeName>
+                        <placeName type="alt">Göttinger</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.53443 9.93228</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2918632/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+                <place xml:id="place_c27539167ff9723b32673ddab9dcbe09">
+                        <placeName>Hannover</placeName>
+                        <placeName type="alt">Hanoversche</placeName>
+                        <location>
+                            <geo decls="#LatLng">52.37052 9.73322</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2910831/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

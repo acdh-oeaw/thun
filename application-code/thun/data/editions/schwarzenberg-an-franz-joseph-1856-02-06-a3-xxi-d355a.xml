@@ -75,5 +75,47 @@
                 </index>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="schwarzenberg-karl">
+                        <persName>
+                            <surname>Schwarzenberg</surname>
+                            <forename>Karl</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1802–1858 Wien</p>
+                            <p>1851–1858 Militär- und Zivilgouverneur von Siebenbürgen</p>
+                            <p>http://d-nb.info/gnd/104245352</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/104245352</tei:idno>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_6244fbb7edb0da394fbfed3800b4c36d">
+                        <placeName>Hermannstadt</placeName>
+                        <placeName type="pref">hermannstadt [Sibiu]</placeName>
+                        <placeName type="alt">Hermannstädter</placeName>
+                        <placeName type="alt">Hermanstadt</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.8 24.15</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/667268/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

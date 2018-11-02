@@ -187,5 +187,135 @@
                 </div>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="heufler-von-hohenbuehel-ludwig">
+                        <persName>
+                            <surname>Heufler von Hohenbühel</surname>
+                            <forename>Ludwig</forename>
+                        </persName>
+                        <note>
+                            <p>Innsbruck 1817–1885 Hall i. Tirol</p>
+                            <p>1846–1849 Kreiskommissär in Istrien, ab 1849 Sekretär im Ministerium für Kultus und Unterricht (zuständig für die Reorganisation des Schulwesens in Siebenbürgen),ab 1853 Sektionsrat, ab 1857 Kämmerer</p>
+                            <p>http://d-nb.info/gnd/116953462</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116953462</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="haeufler-josef-vinzenz">
+                        <persName>
+                            <surname>Häufler</surname>
+                            <forename>Josef Vinzenz</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1810–1852 Wien</p>
+                            <p>1840–1847 Erzieher von Erzherzog Joseph, ab 1847 Offizial im Haus-, Hof- und Staatsarchiv, ab 1849 Ministerialsekretär in der statistischen Sektion des Handelsministeriums</p>
+                            <p>http://d-nb.info/gnd/100493580</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/100493580</tei:idno>
+                    </person>
+                <person xml:id="schuller-johann-karl">
+                        <persName>
+                            <surname>Schuller</surname>
+                            <forename>Johann Karl</forename>
+                        </persName>
+                        <note>
+                            <p>Hermannstadt 1794–1865 Hermannstadt</p>
+                            <p>1814 Lehrer am Gymnasium in Hermannstadt, ab 1831 Rektor, 1850 Referent in Schulangelegenheiten für Siebenbürgen, ab 1855 Schulrat für die Schulen der evang. Kirche A. B. in Siebenbürgen</p>
+                            <p>http://d-nb.info/gnd/124369820</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/124369820</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_6244fbb7edb0da394fbfed3800b4c36d">
+                        <placeName>Hermannstadt</placeName>
+                        <placeName type="pref">hermannstadt [Sibiu]</placeName>
+                        <placeName type="alt">Hermannstädter</placeName>
+                        <placeName type="alt">Hermanstadt</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.8 24.15</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/667268/</idno>
+                    </place>
+                <place xml:id="place_45e0bb0b029ff4919974c4717bb7a4b4" type="placeName">
+                        <placeName type="pref">Siebenbürgen</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.5 25</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4054835-1</idno>
+                    </place>
+                <place xml:id="place_f7197ed66a15667400bf934725fd7c3c" type="placeName">
+                        <placeName type="pref">Lombardie und
+                            Venedig</placeName>
+                        <placeName type="alt">Lombardo-Venetien</placeName>
+                        <placeName type="alt">lombardisch-venezianischen
+                            Königreichs</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.4375 12.335833</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4215793-6</idno>
+                    </place>
+                <place xml:id="place_67da62b6c19004082b6c987162d5c7d3" type="placeName">
+                        <placeName type="pref">Szeckler [Szekler]
+                            Land</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.533333 24.566667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4118933-4</idno>
+                    </place>
+                <place xml:id="place_4fd4ef3f46418624bcfdb765d2881356">
+                        <placeName>Trieste</placeName>
+                        <placeName type="pref">Triest</placeName>
+                        <placeName type="alt">Triest</placeName>
+                        <placeName type="alt">Triests</placeName>
+                        <placeName type="alt">o. O. [Triest]</placeName>
+                        <placeName type="alt">Triest</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.64953 13.77678</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3165185/</idno>
+                    </place>
+                <place xml:id="place_fde20c283b228b19e2990cf5175fa31e" type="placeName">
+                        <placeName type="pref">Istrien</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.15 13.916667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4027824-4</idno>
+                    </place>
+                <place xml:id="place_4de166ce82fade94306232184d2c4387">
+                        <placeName>Province of Gorizia</placeName>
+                        <placeName type="pref">goerz</placeName>
+                        <placeName type="alt">Görz</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.93432 13.61834</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/6541866/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

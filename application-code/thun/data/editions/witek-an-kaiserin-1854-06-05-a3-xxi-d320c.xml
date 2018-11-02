@@ -123,5 +123,66 @@
                 </div>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="witek-johann">
+                        <persName>
+                            <surname>Witek</surname>
+                            <forename>Johann</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Unterlehrer</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="elisabeth">
+                        <persName>
+                            <surname>Elisabeth Amalie Eugenie</surname>
+                            <forename>Herzogin in Bayern</forename>
+                        </persName>
+                        <note>
+                            <p>München 1837–1898 Genf</p>
+                            <p>ab 1854 Gattin von Franz Joseph I. und damit Kaiserin von Österreich</p>
+                            <p>http://d-nb.info/gnd/1044019484</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1044019484</tei:idno>
+                    </person>
+                <person xml:id="burwal-johann">
+                        <persName>
+                            <surname>Burwal</surname>
+                            <forename>Johann</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Pfarrer in Slaupnitz</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_d9a764720128c76e6f6a030d14453db5">
+                        <placeName>Telezi</placeName>
+                        <placeName type="pref">Telezí</placeName>
+                        <placeName type="alt">Telezí</placeName>
+                        <location>
+                            <geo decls="#LatLng">59.70036 29.97922</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/483761/</idno>
+                    </place>
+                <place xml:id="place_a3599f1e5e377a1960035ae4e055a97a">
+                        <placeName>Horní Sloupnice</placeName>
+                        <placeName type="pref">Slaupnitz</placeName>
+                        <placeName type="alt">Slaupnitz</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.92138 16.33948</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3075206/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

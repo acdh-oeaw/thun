@@ -77,5 +77,72 @@
                 <p>ehrerbietigst<lb/>J. Mozart</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="mozart-joseph">
+                        <persName>
+                            <surname>Mozart</surname>
+                            <forename>Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1805–1892 Wien</p>
+                            <p>ab 1849 Sektionsrat im Ministerium für Kultus und Unterricht, 1857 Ministerialrat, zunächst Referent für Gymnasialangelegenheiten, dann für die italienischen Mittelschulen und Universitäten, 1849–1863 Mitglied der Redaktion der Zeitschrift für die Österreichischen Gymnasien</p>
+                            <p>http://d-nb.info/gnd/1023724472</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1023724472</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="kopp-josef">
+                        <persName>
+                            <surname>Kopp</surname>
+                            <forename>Josef Eutych</forename>
+                        </persName>
+                        <note>
+                            <p>Beromünster 1793–1866 Luzern</p>
+                            <p>1819–1866 Prof. für alte Sprachen am Lyzeum in Luzern</p>
+                            <p>http://d-nb.info/gnd/11871404X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11871404X</tei:idno>
+                    </person>
+                <person xml:id="grauert-heinrich">
+                        <persName>
+                            <surname>Grauert</surname>
+                            <forename>Heinrich Wilhelm</forename>
+                        </persName>
+                        <note>
+                            <p>Amsterdam 1804–1852 Wien</p>
+                            <p>Historiker und klass. Philologe, ab 1827 Prof. für Geschichte und Altertumswissenschaft an der Akademie zu Münster, 1850–1852 Prof. für Geschichte an der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/116824441</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116824441</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_11b61665a73f0026ee1a5c5d4db4d40c">
+                        <placeName>Luzern</placeName>
+                        <placeName type="pref">luzern</placeName>
+                        <placeName type="alt">Lucern</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.05048 8.30635</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2659811/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

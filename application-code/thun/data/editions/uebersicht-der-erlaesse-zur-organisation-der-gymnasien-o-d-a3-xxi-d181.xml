@@ -261,5 +261,174 @@
                 <p>J. Mozart</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="mozart-joseph">
+                        <persName>
+                            <surname>Mozart</surname>
+                            <forename>Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1805–1892 Wien</p>
+                            <p>ab 1849 Sektionsrat im Ministerium für Kultus und Unterricht, 1857 Ministerialrat, zunächst Referent für Gymnasialangelegenheiten, dann für die italienischen Mittelschulen und Universitäten, 1849–1863 Mitglied der Redaktion der Zeitschrift für die Österreichischen Gymnasien</p>
+                            <p>http://d-nb.info/gnd/1023724472</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1023724472</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_19cb29505c294db5ca9190ea93447e98" type="placeName">
+                        <placeName type="pref">Italy</placeName>
+                        <placeName type="pref">Italien</placeName>
+                        <location>
+                            <geo decls="#LatLng">43 12</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4027833-5</idno>
+                    </place>
+                <place xml:id="place_d32a635cff5dcc73a609d313801541d4">
+                        <placeName>Verona</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.4299 10.98444</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3164527/</idno>
+                    </place>
+                <place xml:id="place_e30630933146ed8683482de23229fd6a">
+                        <placeName>Milan</placeName>
+                        <placeName type="pref">mailand</placeName>
+                        <placeName type="alt">Mailand</placeName>
+                        <placeName type="alt">Mailands</placeName>
+                        <placeName type="alt">Milano</placeName>
+                        <placeName type="alt">Mailand’s</placeName>
+                        <placeName type="alt">questa Città</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.46416 9.19199</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/6542283/</idno>
+                    </place>
+                <place xml:id="place_80c239e539544aa459dc13996638cb2f">
+                        <placeName>Venedig</placeName>
+                        <placeName type="pref">venedig</placeName>
+                        <placeName type="alt">Venedigs</placeName>
+                        <placeName type="alt">Vendig</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.43713 12.33265</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3164603/</idno>
+                    </place>
+                <place xml:id="place_dadee1a710a261e5c8c1e886fa3b87d9">
+                        <placeName type="pref">Lombardei</placeName>
+                        <placeName type="alt">Lombardie</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.66667 6.5</geo>
+                        </location>
+                    </place>
+                <place xml:id="place_3a8f916e8f8560773ac9b8eb6349b1c4">
+                        <placeName>Bergamo</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.69601 9.66721</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3182164/</idno>
+                    </place>
+                <place xml:id="place_0c3c889cb60322b10d890d76a05f816e">
+                        <placeName>Brescia</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.53558 10.21472</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3181554/</idno>
+                    </place>
+                <place xml:id="place_b2114cc02aeee3cd3f80a773ca6597de">
+                        <placeName>Como</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.80819 9.0832</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3178229/</idno>
+                    </place>
+                <place xml:id="place_9a677a8fef077d847cc1d6d558b8630f">
+                        <placeName>Cremona</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.13325 10.02129</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3177838/</idno>
+                    </place>
+                <place xml:id="place_47329edbd3ec4019aa3974397d4623ba">
+                        <placeName>Lodi</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.30989 9.50085</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3174638/</idno>
+                    </place>
+                <place xml:id="place_986f51a7ad3bed298456ad48d484ebc2">
+                        <placeName>Provinz Mantua</placeName>
+                        <placeName type="pref">Mantua</placeName>
+                        <placeName type="alt">Mantua</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.16031 10.79784</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3174051/</idno>
+                    </place>
+                <place xml:id="place_180ab0761158b959facf0feae6115c4e">
+                        <placeName>Pavia</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.19205 9.15917</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3171366/</idno>
+                    </place>
+                <place xml:id="place_48a09f4956b196a2489d69e3c117000d">
+                        <placeName>Padua</placeName>
+                        <placeName type="alt">Città</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.40797 11.88586</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3171728/</idno>
+                    </place>
+                <place xml:id="place_dac186e2dba9b984d81d8a5748d29288">
+                        <placeName>Vicenza</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.54672 11.5475</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3164419/</idno>
+                    </place>
+                <place xml:id="place_eb87d3206befc77a1c742bcbae44ef0a">
+                        <placeName>Udine</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.06102 13.23683</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/6540119/</idno>
+                    </place>
+                <place xml:id="place_0d358dde73109d9ac1393f0c5ebce864">
+                        <placeName>Belluno</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.14262 12.2156</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3182210/</idno>
+                    </place>
+                <place xml:id="place_9fa41ec12d99720833b10d3a9ab6a5cb">
+                        <placeName>Treviso</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.66673 12.2416</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3165201/</idno>
+                    </place>
+                <place xml:id="place_7d1865c03241bd7a6616fa5587af6f8b">
+                        <placeName>Rovigo</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.06982 11.79022</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3168843/</idno>
+                    </place>
+                <place xml:id="place_f7197ed66a15667400bf934725fd7c3c" type="placeName">
+                        <placeName type="pref">Lombardie und
+                            Venedig</placeName>
+                        <placeName type="alt">Lombardo-Venetien</placeName>
+                        <placeName type="alt">lombardisch-venezianischen
+                            Königreichs</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.4375 12.335833</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4215793-6</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

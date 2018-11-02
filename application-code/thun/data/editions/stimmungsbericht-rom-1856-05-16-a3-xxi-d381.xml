@@ -79,5 +79,159 @@
                     bleibender.</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="napoleon-III">
+                        <persName>
+                            <surname>Napoleon III.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Paris 1808–1873 Chislehurst b. London</p>
+                            <p>1848–1852 franz. Staatspräsident, 1852–1870 Kaiser der Franzosen</p>
+                            <p>http://d-nb.info/gnd/118586416</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118586416</tei:idno>
+                    </person>
+                <person xml:id="cavour-camillo-benso">
+                        <persName>
+                            <surname>Cavour</surname>
+                            <forename>Camillo Benso</forename>
+                        </persName>
+                        <note>
+                            <p>Turin 1810–1861 Turin</p>
+                            <p>Politiker, ab 1852 Premierminiser von Sardinien, erster Ministerpräsident des Königreiches Italien</p>
+                            <p>http://d-nb.info/gnd/118668900</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118668900</tei:idno>
+                    </person>
+                <person xml:id="colonna-walewski-alexandre">
+                        <persName>
+                            <surname>Colonna-Walewski</surname>
+                            <forename>Alexandre Florian Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>Walewice 1810–1868 Straßburg</p>
+                            <p>Sohn Napoleons, 1833–1837 Dienst in der franz. Armee, ab 1837 Schriftsteller und Journalist, ab 1840 franz. Diplomat, 1855–1863 Außenminister</p>
+                            <p>http://d-nb.info/gnd/11877106X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11877106X</tei:idno>
+                    </person>
+                <person xml:id="pius-IX">
+                        <persName>
+                            <surname>Pius IX.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Senigallia 1792–1878 Rom</p>
+                            <p>Papst von 1846–1878</p>
+                            <p>http://d-nb.info/gnd/118594729</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118594729</tei:idno>
+                    </person>
+                <person xml:id="hohenlohe-schillingfuerst-gustav">
+                        <persName>
+                            <surname>Hohenlohe-Schillingsfürst</surname>
+                            <forename>Gustav</forename>
+                        </persName>
+                        <note>
+                            <p>Rothenburg an der Fulda 1823–1896 Rom</p>
+                            <p>ab 1850 päpstlicher Geheimkämmerer, ab 1857 Titularerzbischof von Edessa, ab 1866 Kardinal</p>
+                            <p>http://d-nb.info/gnd/116955422</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116955422</tei:idno>
+                    </person>
+                <person xml:id="doellinger-ignaz">
+                        <persName>
+                            <surname>Döllinger</surname>
+                            <forename>Ignaz</forename>
+                        </persName>
+                        <note>
+                            <p>Bamberg 1799–1890 München</p>
+                            <p>ab 1823 Prof. für Kirchengeschichte und Kirchenrecht am Lyzeum in Aschaffenburg, ab 1826 Prof. für Kirchengeschichte und Kirchenrecht an der Universität München</p>
+                            <p>http://d-nb.info/gnd/118526243</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118526243</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_5f397a1e588cfe96b4aa4bab7a5b1d44">
+                        <placeName>Rom</placeName>
+                        <placeName type="alt">Rome</placeName>
+                        <placeName type="alt">Roms</placeName>
+                        <location>
+                            <geo decls="#LatLng">41.89193 12.51133</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3169070/</idno>
+                    </place>
+                <place xml:id="place_24722a1d2a82015c05b6e296a88203bb">
+                        <placeName>Staat der Vatikanstadt</placeName>
+                        <placeName type="pref">vatikan</placeName>
+                        <placeName type="alt">Vatican</placeName>
+                        <placeName type="alt">Vatikan</placeName>
+                        <location>
+                            <geo decls="#LatLng">41.90225 12.4533</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3164670/</idno>
+                    </place>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_ccbee73cd81c7f42405e1920409247ec">
+                        <placeName>Paris</placeName>
+                        <placeName type="pref">paris</placeName>
+                        <placeName type="alt">Pariser</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.85341 2.3488</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2988507/</idno>
+                    </place>
+                <place xml:id="place_19cb29505c294db5ca9190ea93447e98" type="placeName">
+                        <placeName type="pref">Italy</placeName>
+                        <placeName type="pref">Italien</placeName>
+                        <location>
+                            <geo decls="#LatLng">43 12</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4027833-5</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

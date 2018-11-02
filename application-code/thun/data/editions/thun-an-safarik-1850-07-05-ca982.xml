@@ -74,5 +74,136 @@
                 <p>Wien, am 5. Juli 1850</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="safarik-pavel-josef">
+                        <persName>
+                            <surname>Šafařik</surname>
+                            <forename>Pavel Josef</forename>
+                        </persName>
+                        <note>
+                            <p>Kobeliarovo 1795–1861 Prag</p>
+                            <p>1819–1825 Lehrer am serb.-orthodoxen Gymnasium in Novi Sad ab 1833 Übersetzer beim Prager Magistrat, 1837–1847 Zensor, ab 1841 zunächst Kustos ab 1848 Universitätsbibliothekar in Prag, Gründungsmitglied der Akademie der Wissenschaften in Wien</p>
+                            <p>http://d-nb.info/gnd/118794027</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118794027</tei:idno>
+                    </person>
+                <person xml:id="pavlovic-theodor">
+                        <persName>
+                            <surname>Pavlović</surname>
+                            <forename>Theodor</forename>
+                        </persName>
+                        <note>
+                            <p>Karlovo 1804–1854 Karlovo</p>
+                            <p>Rechtsanwalt und Journalist</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="joannovic-peter">
+                        <persName>
+                            <surname>Joannović</surname>
+                            <forename>Peter</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Lehrer am Gymnasium in Novi Sad</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="georgievic-moses">
+                        <persName>
+                            <surname>Georgiević</surname>
+                            <forename>Moses</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Kandidat für den Posten des Schulinspektors in Böhmen</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_35d1161cc45f7c1d2b14ff99f1d259a3" type="placeName">
+                        <placeName type="pref">Serbisch-Banater
+                            Wojwodschaft</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.756111 21.229444</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/400449-8</idno>
+                    </place>
+                <place xml:id="place_52d08ce39e6c067f42a0366f2239f7c8">
+                        <placeName>Novi Sad</placeName>
+                        <placeName type="pref">novi-sad</placeName>
+                        <placeName type="alt">Neusatz</placeName>
+                        <placeName type="alt">Neu-Satzer</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.25167 19.83694</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3194360/</idno>
+                    </place>
+                <place xml:id="place_7674e1c4e5c96d0fcb290e9fa130e6ed">
+                        <placeName>Osijek</placeName>
+                        <placeName type="pref">Esseg [Osijek]</placeName>
+                        <placeName type="alt">Esseg</placeName>
+                        <placeName type="alt">Essek</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.55111 18.69389</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/7840949-4</idno>
+                        <idno>http://sws.geonames.org/3193935/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

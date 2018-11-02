@@ -148,5 +148,127 @@
                 </div>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="radziwill-friedrich-wilhelm">
+                        <persName>
+                            <surname>Radziwill</surname>
+                            <forename>Friedrich Wilhelm</forename>
+                        </persName>
+                        <note>
+                            <p>Berlin 1797–1870 Berlin</p>
+                            <p>General der Infanterie</p>
+                            <p>http://d-nb.info/gnd/116323477</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116323477</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="cegielski-hipolit">
+                        <persName>
+                            <surname>Cegielski</surname>
+                            <forename>Hipolit</forename>
+                        </persName>
+                        <note>
+                            <p>Posen 1813–1868 Posen</p>
+                            <p>1840–1846 Lehrer für Latein am Gymnasium in Posen, 1848 Gründung des poln. Tagblattes "Dziennik Poznański" (Polnische Zeitung)</p>
+                            <p>http://d-nb.info/gnd/124113192</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/124113192</tei:idno>
+                    </person>
+                <person xml:id="prabucki-jakub">
+                        <persName>
+                            <surname>Prabucki</surname>
+                            <forename>Jakub</forename>
+                        </persName>
+                        <note>
+                            <p>1809–1880</p>
+                            <p>Priester, Lehrer und Direktor am Posener Maria-Magdalena Gymnasium, 1848 entlassen</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="bonitz-hermann">
+                        <persName>
+                            <surname>Bonitz</surname>
+                            <forename>Hermann</forename>
+                        </persName>
+                        <note>
+                            <p>Langensalza 1814–1888 Berlin</p>
+                            <p>1842–1849 Lehrer am Gymnasium in Stettin, 1849–1867 Prof. für klass. Philologie an der Universität Wien, ab 1867 Direktor des Gymnasiums zum Grauen Kloster und Direktor des Königlichen pädagogischen Seminars für gelehrte Schulen in Berlin</p>
+                            <p>http://d-nb.info/gnd/11905938X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11905938X</tei:idno>
+                    </person>
+                <person xml:id="pol-vincent">
+                        <persName>
+                            <surname>Pol</surname>
+                            <forename>Vincent</forename>
+                        </persName>
+                        <note>
+                            <p>Lublin 1807–1872</p>
+                            <p>Schriftsteller und Geograf, ab 1849 Prof. an der Universität Krakau, 1853 Entlassung wegen Illoyalität</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="brueggemann-theodor">
+                        <persName>
+                            <surname>Brüggemann</surname>
+                            <forename>Theodor</forename>
+                        </persName>
+                        <note>
+                            <p>Soest 1796–1866 Berlin</p>
+                            <p>ab 1814 Lehrer für alte Sprachen am Gymasnium in Düsseldorf, ab 1823 dort Direktor, ab 1841 Geheimer Regierungsrat, ab 1843 vortragender Rat für kath. Schulen und Universitäten, 1852 Geheimer Oberregierungsrat, ab 1850 Mitglied des Erfurter Parlaments</p>
+                            <p>http://d-nb.info/gnd/174039352</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/174039352</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_d35a02eb49149450fb2fffc6e467eb37">
+                        <placeName>Berlin</placeName>
+                        <placeName type="pref">berlin</placeName>
+                        <placeName type="alt">Berlino</placeName>
+                        <location>
+                            <geo decls="#LatLng">52.52437 13.41053</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2950159/</idno>
+                    </place>
+                <place xml:id="place_ccbee73cd81c7f42405e1920409247ec">
+                        <placeName>Paris</placeName>
+                        <placeName type="pref">paris</placeName>
+                        <placeName type="alt">Pariser</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.85341 2.3488</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2988507/</idno>
+                    </place>
+                <place xml:id="place_d55199956d521bfae14b87d631fe8ae8">
+                        <placeName>Posen</placeName>
+                        <placeName type="alt">Posen’schen</placeName>
+                        <placeName type="alt">Posnania</placeName>
+                        <location>
+                            <geo decls="#LatLng">52.40619 16.92341</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/7531836/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

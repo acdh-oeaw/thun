@@ -159,5 +159,97 @@
                 <p>Schemnitz, am 8. Februar 1860</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="szeberinyi-johann">
+                        <persName>
+                            <surname>Szeberinyi</surname>
+                            <forename>Johann Michael</forename>
+                        </persName>
+                        <note>
+                            <p>Schemnitz 1825–1915 Wien</p>
+                            <p>evang. Priester, ab 1849 Pfarrer in mehreren ungarischen Städten, ab 1863 Prof. für Praktische Theologie und Kirchenrecht an der evang.-theol. Fakultät der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/1033567744</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1033567744</tei:idno>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_792be515410368f1ac3c6e58ea01814c">
+                        <placeName>Banská Štiavnica</placeName>
+                        <placeName type="pref">Schemnitz [Banská Štiavnica]</placeName>
+                        <placeName type="alt">Schemnitz</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.44858 18.91003</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/500808-6</idno>
+                        <idno>http://sws.geonames.org/3061184/</idno>
+                    </place>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_55899fef2f0b2eba13eb1316b34b3694" type="placeName">
+                        <placeName type="pref">Europe</placeName>
+                        <placeName type="alt">Europa</placeName>
+                        <location>
+                            <geo decls="#LatLng">54.9 25.316667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4015701-5</idno>
+                    </place>
+                <place xml:id="place_c1a76f350bcfa4d0b1f71fc95e9a882b" type="placeName">
+                        <placeName type="pref">Wojwodschaft
+                            Serbien</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.395 20.034</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4066811-3</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

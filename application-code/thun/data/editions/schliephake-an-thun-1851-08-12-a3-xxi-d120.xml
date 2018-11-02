@@ -87,5 +87,65 @@
                 <p>Wiesbaden, den 12. August 1851</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="schliephake-theodor">
+                        <persName>
+                            <surname>Schliephake</surname>
+                            <forename>Theodor</forename>
+                        </persName>
+                        <note>
+                            <p>Dörnten 1808–1871 Heidelberg</p>
+                            <p>1837–1843 Prof. der Philosophie an der Universität Brüssel, anschließend Lehrer und Erzieher am herzoglichen Hof Nassau, 1856–1857 Direktor der nassauischen Staatsarchive, ab 1857 Prof. der Philosophie an der Universität Heidelberg</p>
+                            <p>http://d-nb.info/gnd/117328448</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117328448</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="pauline-von-wuerttemberg">
+                        <persName>
+                            <surname>Pauline von Württemberg</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Stuttgart 1810–1856 Wiesbaden</p>
+                            <p>Herzogin von Nassau, seit April 1829 Gattin von Herzog Wilhelm I. von Nassau</p>
+                            <p>http://d-nb.info/gnd/121571289</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/121571289</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_9974545279455eb03bf50b1b1b4d7fea">
+                        <placeName>Wiesbaden</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.08258 8.24932</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2809346/</idno>
+                    </place>
+                <place xml:id="place_361e734b7e9d674efb5e3ac441e2c149" type="placeName">
+                        <placeName type="pref">Belgien</placeName>
+                        <placeName type="alt">Belgique</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.533333 4.766667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4005406-8</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

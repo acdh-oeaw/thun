@@ -156,5 +156,88 @@
                 <p>Anton Szántófy<lb/>Probst Stadtpfarrer</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="fektor-joseph">
+                        <persName>
+                            <surname>k_A</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>k_A</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="ioczkovics-emma">
+                        <persName>
+                            <surname>Ioczkovics</surname>
+                            <forename>Emma</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Braut von Julius Iankovics</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="iankovics-julius">
+                        <persName>
+                            <surname>Iankovics</surname>
+                            <forename>Julius</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Offizier</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_fc3a4fb327706ca2220500871d60b94b">
+                        <placeName>Pest megye</placeName>
+                        <placeName type="pref">Pest</placeName>
+                        <placeName type="alt">Pesth</placeName>
+                        <placeName type="alt">Pesther</placeName>
+                        <placeName type="alt">Pester</placeName>
+                        <placeName type="alt">Pest</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.41667 19.33333</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3046431/</idno>
+                    </place>
+                <place xml:id="place_cde856980f41b5362c96273d9c84431d">
+                        <placeName>Esztergom</placeName>
+                        <placeName type="alt">Graner</placeName>
+                        <placeName type="alt">Gran</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.7928 18.74148</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3053163/</idno>
+                    </place>
+                <place xml:id="place_a2e898976534a8c4c23ffada0583eb4b">
+                        <placeName>Vác</placeName>
+                        <placeName type="pref">Waitzen [Vác]</placeName>
+                        <placeName type="alt">Waitzen</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.77591 19.13612</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3043293/</idno>
+                    </place>
+                <place xml:id="place_7674e1c4e5c96d0fcb290e9fa130e6ed">
+                        <placeName>Osijek</placeName>
+                        <placeName type="pref">Esseg [Osijek]</placeName>
+                        <placeName type="alt">Esseg</placeName>
+                        <placeName type="alt">Essek</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.55111 18.69389</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/7840949-4</idno>
+                        <idno>http://sws.geonames.org/3193935/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

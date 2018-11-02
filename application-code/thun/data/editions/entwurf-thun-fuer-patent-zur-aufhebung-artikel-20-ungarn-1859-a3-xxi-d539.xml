@@ -62,5 +62,33 @@
                 <p>Gegeben in etc.</p>
             </div>
         </body>
+    <back>
+            <listPlace>
+                <place xml:id="place_601df943a89d2ac73e0e43a5d37fc228">
+                        <placeName type="pref">Ungarn</placeName>
+                        <placeName type="alt">Ungarns</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.0 20.0</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/719819/</idno>
+                    </place>
+                <place xml:id="place_35d1161cc45f7c1d2b14ff99f1d259a3" type="placeName">
+                        <placeName type="pref">Serbisch-Banater
+                            Wojwodschaft</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.756111 21.229444</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/400449-8</idno>
+                    </place>
+                <place xml:id="place_6fe90dd680c4a571ed89e631ef2d48ed" type="placeName">
+                        <placeName type="pref">Kroatien und
+                            Slavonien</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.8 15.966667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4073841-3</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

@@ -79,5 +79,46 @@
                 <p>J. Simor<lb/>B. zu R.</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="simor-johann">
+                        <persName>
+                            <surname>Simor</surname>
+                            <forename>János</forename>
+                        </persName>
+                        <note>
+                            <p>Székesfehérvár 1813–1891 Balatonfüred</p>
+                            <p>Priester, ab 1846 Prof. für Dogmatik im Priesterseminar Esztergom, ab 1850 Prof. für Kirchenrecht an der Universität Wien, ab 1857 Bischof von Györ, ab 1867 Erzbischof von Esztergom und Primas von Ungarn, 1873 Kardinal</p>
+                            <p>http://d-nb.info/gnd/123271606</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/123271606</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_1cb537e833afd985097ccfaddffb2ef3">
+                        <placeName>Raab</placeName>
+                        <placeName type="pref">Raab [Győr]</placeName>
+                        <placeName type="alt">Raaber</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.68333 17.63512</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3052009/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

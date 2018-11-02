@@ -135,5 +135,160 @@
                 <p>Mit wahrer Verehrung</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="jelacic-joseph">
+                        <persName>
+                            <surname>Jelačič</surname>
+                            <forename>Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>Peterwardein 1801–1859 Agram</p>
+                            <p>ab 1848 Banus von Kroatien</p>
+                            <p>http://d-nb.info/gnd/118776088</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118776088</tei:idno>
+                    </person>
+                <person xml:id="jarc">
+                        <persName>
+                            <surname>Jarc</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>k_A</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="premru-joseph">
+                        <persName>
+                            <surname>Premru</surname>
+                            <forename>Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>bis 1852 Lehrer am Gymnasium in Görz, ab 1852 Direktor am Gymnasium in Agram, 1860 Direktor am Gymnasium in Cilli</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="weber-adolph">
+                        <persName>
+                            <surname>Weber</surname>
+                            <forename>Adolph</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Lehrer am Gymnasium in Agram</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="mesic-matthias">
+                        <persName>
+                            <surname>Mesić</surname>
+                            <forename>Matthias</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Gymnasiallehrer in Agram</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_104b5ac4af06263707f5418d171ffe3d">
+                        <placeName>Zagreb</placeName>
+                        <placeName type="pref">Agram [Zagreb]</placeName>
+                        <placeName type="alt">Agramer</placeName>
+                        <placeName type="alt">Agrams</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.81444 15.97798</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3186886/</idno>
+                        <idno>http://d-nb.info/gnd/4108914-5</idno>
+                    </place>
+                <place xml:id="place_1dcf667c86986e2bbadf65ed2de41e47">
+                        <placeName>Ljubljana</placeName>
+                        <placeName type="pref">laibach</placeName>
+                        <placeName type="alt">Laibach</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.05108 14.50513</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3196359/</idno>
+                    </place>
+                <place xml:id="place_fd3ebb9f41f9f036dba5791051bc5749" type="placeName">
+                        <placeName type="pref">Marburg (Lahn)</placeName>
+                        <placeName type="alt">Marburg</placeName>
+                    </place>
+                <place xml:id="place_494eccfffbfff4c93f6e601ab346a3cf">
+                        <placeName>Okres Bratislava I</placeName>
+                        <placeName type="pref">Preßburg [Bratislava]</placeName>
+                        <placeName type="alt">Preßburg</placeName>
+                        <placeName type="alt">Presburg</placeName>
+                        <placeName type="alt">Preßburger</placeName>
+                        <placeName type="alt">Presburger</placeName>
+                        <placeName type="alt">Pressburger</placeName>
+                        <placeName type="alt">Pressburg</placeName>
+                        <placeName type="alt">hiesigen</placeName>
+                        <placeName type="alt">Preßburgs</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.14653 17.10584</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/8986283/</idno>
+                    </place>
+                <place xml:id="place_8fa012f3d7caecd67c332e0f803e0a5c" type="placeName">
+                        <placeName type="pref">ofen</placeName>
+                        <placeName type="alt">Ofner</placeName>
+                        <placeName type="alt">Ofen</placeName>
+                    </place>
+                <place xml:id="place_acad4f96bf4d389851aa8bd268d57288">
+                        <placeName>Levoča</placeName>
+                        <placeName type="pref">Leutschau [Levoča]</placeName>
+                        <placeName type="alt">Leutschauer</placeName>
+                        <placeName type="alt">Leutschau</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.02173 20.59212</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/724294/</idno>
+                    </place>
+                <place xml:id="place_4edebf53d35796825850af5173be1198">
+                        <placeName>Varaždin</placeName>
+                        <placeName type="pref">varazdin</placeName>
+                        <placeName type="alt">Warasdin</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.30444 16.33778</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3188383/</idno>
+                    </place>
+                <place xml:id="place_7674e1c4e5c96d0fcb290e9fa130e6ed">
+                        <placeName>Osijek</placeName>
+                        <placeName type="pref">Esseg [Osijek]</placeName>
+                        <placeName type="alt">Esseg</placeName>
+                        <placeName type="alt">Essek</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.55111 18.69389</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/7840949-4</idno>
+                        <idno>http://sws.geonames.org/3193935/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

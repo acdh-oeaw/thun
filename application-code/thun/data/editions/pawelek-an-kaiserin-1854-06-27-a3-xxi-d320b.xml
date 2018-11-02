@@ -103,5 +103,87 @@
                 <p>Johann Pawelek<lb/>Pfarrer</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="pawelek-johann">
+                        <persName>
+                            <surname>Pawelek</surname>
+                            <forename>Johann</forename>
+                        </persName>
+                        <note>
+                            <p>*1801</p>
+                            <p>Priester, fürsterzbischöflicher Konsitorialrat</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="elisabeth">
+                        <persName>
+                            <surname>Elisabeth Amalie Eugenie</surname>
+                            <forename>Herzogin in Bayern</forename>
+                        </persName>
+                        <note>
+                            <p>München 1837–1898 Genf</p>
+                            <p>ab 1854 Gattin von Franz Joseph I. und damit Kaiserin von Österreich</p>
+                            <p>http://d-nb.info/gnd/1044019484</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1044019484</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_3dd7979c0440a3b55ff7b878051e9863">
+                        <placeName>Klimkovice</placeName>
+                        <placeName type="pref">koenigsberg</placeName>
+                        <placeName type="alt">Königsberg</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.78809 18.12585</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3073599/</idno>
+                    </place>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_033ae4ddfe8d381fa5ee82ab6aae2833" type="placeName">
+                        <placeName type="pref">Schlesien</placeName>
+                        <placeName type="alt">Schlesiens</placeName>
+                        <location>
+                            <geo decls="#LatLng">51 18</geo>
+                        </location>
+                        <idno>http://www.geonames.org/3066138</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

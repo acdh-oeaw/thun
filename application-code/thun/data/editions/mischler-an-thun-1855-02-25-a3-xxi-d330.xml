@@ -162,5 +162,144 @@
                 <p>Prag, 25. Februar 1855</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="mischler-peter">
+                        <persName>
+                            <surname>Mischler</surname>
+                            <forename>Peter</forename>
+                        </persName>
+                        <note>
+                            <p>Heppenheim 1821–1864 Prag</p>
+                            <p>1849–1853 Privatdozent für Staatswissenschaften an der Universität Freiburg i. Br., ab 1852 Prof. für politische Ökonomie an der Universität Prag</p>
+                            <p>http://d-nb.info/gnd/101607237</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/101607237</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="mecsery-von-tsoor-karl">
+                        <persName>
+                            <surname>Mecsery von Tsoor</surname>
+                            <forename>Karl</forename>
+                        </persName>
+                        <note>
+                            <p>Tabor 1804–1885 Graz</p>
+                            <p>1848 Vizepräsident des Guberniums in Prag, ab 1849 Landeschef und Statthalter von Böhmen, 1860–1865 Polizeiminister</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_e575530bd7a9cc03829dde0b8657f108">
+                        <placeName>Prag</placeName>
+                        <placeName type="alt">Prager</placeName>
+                        <placeName type="alt">Prahy</placeName>
+                        <placeName type="alt">Prags</placeName>
+                        <placeName type="alt">o. O. [Prag]</placeName>
+                        <placeName type="alt">hier</placeName>
+                        <placeName type="alt">Praze</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.08804 14.42076</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3067696/</idno>
+                    </place>
+                <place xml:id="place_ccbee73cd81c7f42405e1920409247ec">
+                        <placeName>Paris</placeName>
+                        <placeName type="pref">paris</placeName>
+                        <placeName type="alt">Pariser</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.85341 2.3488</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2988507/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+                <place xml:id="place_361e734b7e9d674efb5e3ac441e2c149" type="placeName">
+                        <placeName type="pref">Belgien</placeName>
+                        <placeName type="alt">Belgique</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.533333 4.766667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4005406-8</idno>
+                    </place>
+                <place xml:id="place_64f607906be7598a02d75dbc1e979662" type="placeName">
+                        <placeName type="pref">England</placeName>
+                        <location>
+                            <geo decls="#LatLng">52.16045 -0.703126</geo>
+                        </location>
+                        <idno>http://www.geonames.org/6269131</idno>
+                    </place>
+                <place xml:id="place_f1ead991a0ca32b465653b3071c5ea3e">
+                        <placeName>Munich</placeName>
+                        <placeName type="pref">muenchen</placeName>
+                        <placeName type="alt">München</placeName>
+                        <placeName type="alt">Münchner</placeName>
+                        <placeName type="alt">München</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.13743 11.57549</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2867714/</idno>
+                    </place>
+                <place xml:id="place_f2646aa02d03ac5a141ef404d919cd11">
+                        <placeName>Salzburg</placeName>
+                        <placeName type="pref">salzburg</placeName>
+                        <placeName type="alt">Salzburger</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.79941 13.04399</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2766824/</idno>
+                    </place>
+                <place xml:id="place_fc9c3a7e02f8a9d5ed9033b572285243" type="placeName">
+                        <placeName type="pref">Mähren</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.5 17</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/64402-X</idno>
+                    </place>
+                <place xml:id="place_867b530d8072e0e4d907aa82937d3e01" type="placeName">
+                        <placeName type="pref">Böhmen</placeName>
+                        <location>
+                            <geo decls="#LatLng">50 14.5</geo>
+                        </location>
+                        <idno>http://www.geonames.org/3078198</idno>
+                    </place>
+                <place xml:id="place_72ac53f7b58ea996114e510e7d524fb9" type="placeName">
+                        <placeName type="pref">Frankreichs</placeName>
+                        <placeName type="alt">Frankreich</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.316667 2.533333</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4018145-5</idno>
+                    </place>
+                <place xml:id="place_bc180dbc583491c00f8a1cd134f7517b">
+                        <placeName>London</placeName>
+                        <placeName type="pref">london</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.50853 -0.12574</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2643743/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

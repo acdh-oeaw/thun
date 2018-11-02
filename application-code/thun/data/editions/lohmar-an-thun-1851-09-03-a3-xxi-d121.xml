@@ -86,5 +86,54 @@
                 <p>Trier, den 3. September 1851</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="lohmar-wilhelm">
+                        <persName>
+                            <surname>Lohmar</surname>
+                            <forename>Wilhelm</forename>
+                        </persName>
+                        <note>
+                            <p>*Köln 1814</p>
+                            <p>1837–1845 Lehrer am Gymnasium in Köln, 1845–1852 Lehrer am Gymnasium in Trier</p>
+                            <p>http://d-nb.info/gnd/120685450</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/120685450</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_df9bd17ff7bdda0e80aa6e2f18bfeaf2">
+                        <placeName>Trier</placeName>
+                        <placeName type="pref">trier</placeName>
+                        <placeName type="alt">Trierer</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.75565 6.63935</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2821164/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

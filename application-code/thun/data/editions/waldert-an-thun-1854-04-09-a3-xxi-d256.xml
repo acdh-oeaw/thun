@@ -106,5 +106,68 @@
                 <p>Görkau, 9. April 1854</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="waldert-anton">
+                        <persName>
+                            <surname>Waldert</surname>
+                            <forename>Anton</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Pater und Kaplan in Görkau</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="weber">
+                        <persName>
+                            <surname>Weber</surname>
+                            <forename>Wenzel</forename>
+                        </persName>
+                        <note>
+                            <p>Dreihacken 1825–1888 Hohenelbe</p>
+                            <p>Priester und Gymnasiallehrer, zunächst Supplent am Gymnasium in Kaschau und Exhortator an der Rechtsakademie ebendort, 1858–1865 Direktor, ab 1865 Stadtdechant von Hohenelbe</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_6f7cc055d11cf2cbbaa605d5449eb44c">
+                        <placeName>Jirkov</placeName>
+                        <placeName type="pref">goerkau</placeName>
+                        <placeName type="alt">Görkau</placeName>
+                        <placeName type="alt">Görgau</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.49979 13.44769</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3074110/</idno>
+                    </place>
+                <place xml:id="place_dd51fef1ae0877c04e8b4e19eddbabd5">
+                        <placeName>Košice</placeName>
+                        <placeName type="pref">Kaschau</placeName>
+                        <placeName type="alt">Kaschau</placeName>
+                        <placeName type="alt">Kaschauer</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.71395 21.25808</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/724443/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

@@ -159,5 +159,67 @@
                 <p/>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="zaboysky-ladislaus">
+                        <persName>
+                            <surname>Zaboysky</surname>
+                            <forename>Ladislaus</forename>
+                        </persName>
+                        <note>
+                            <p>1793–1870</p>
+                            <p>1850–1870 Bischof von Zips</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_8726daccee33997f29c2bb8b4908ff3e">
+                        <placeName>Komitat Zips</placeName>
+                        <placeName type="pref">komitat-zips</placeName>
+                        <placeName type="alt">Zips</placeName>
+                        <placeName type="alt">Zipser</placeName>
+                        <placeName type="alt">Zipser Comitate</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.022778 20.590556</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4766317-0</idno>
+                    </place>
+                <place xml:id="place_acad4f96bf4d389851aa8bd268d57288">
+                        <placeName>Levoča</placeName>
+                        <placeName type="pref">Leutschau [Levoča]</placeName>
+                        <placeName type="alt">Leutschauer</placeName>
+                        <placeName type="alt">Leutschau</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.02173 20.59212</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/724294/</idno>
+                    </place>
+                <place xml:id="place_dd51fef1ae0877c04e8b4e19eddbabd5">
+                        <placeName>Košice</placeName>
+                        <placeName type="pref">Kaschau</placeName>
+                        <placeName type="alt">Kaschau</placeName>
+                        <placeName type="alt">Kaschauer</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.71395 21.25808</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/724443/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

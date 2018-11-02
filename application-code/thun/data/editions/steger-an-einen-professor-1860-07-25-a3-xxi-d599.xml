@@ -150,5 +150,114 @@
                         <rs type="person" ref="#buol-von-berenberg-franz">Boul</rs> [Buol]</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="steger-joseph">
+                        <persName>
+                            <surname>Steger</surname>
+                            <forename>Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>St. Moritzen/Südtirol 1827–1886 Salzburg</p>
+                            <p>Priester, zunächst prov. Präfekt am Theresianum in Wien, ab 1857 Lehrer für klassische Sprachen am Gymnasium in Marburg (Maribor), ab 1860 Lehrer am Gymnasium in Salzburg</p>
+                            <p>http://d-nb.info/gnd/102182116</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/102182116</tei:idno>
+                    </person>
+                <person xml:id="raic-bozidar">
+                        <persName>
+                            <surname>Raič</surname>
+                            <forename>Božidar (Matija)</forename>
+                        </persName>
+                        <note>
+                            <p>Žvab 1827–1886 Laibach</p>
+                            <p>Priester, ab 1851 Pfarrer in Marburg an der Drau, 1853–1860 Lehrer am Gymnasium ebendort, 1860–1886 Pfarrer in St. Barbara in der Unter-Steiermark, 1884–1886 Reichsratsabgeordneter</p>
+                            <p>http://d-nb.info/gnd/1027335667</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1027335667</tei:idno>
+                    </person>
+                <person xml:id="biohl">
+                        <persName>
+                            <surname>Biehl</surname>
+                            <forename>Wilhelm</forename>
+                        </persName>
+                        <note>
+                            <p>Hessen 1826–1898 Graz</p>
+                            <p>Gymnasiallehrer in Marburg an der Drau, ab 1860 in Salzburg, ab 1863 in Linz, ab 1864 nach Triest, ab 1869 Lehrer am neu errichteten Gymnasium in Graz, ab 1872 Direktor des Gymnasiums in Innsbruck, ab 1879 Direktor des Elisabeth-Gymnasium in Wien</p>
+                            <p>http://d-nb.info/gnd/1089307977</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1089307977</tei:idno>
+                    </person>
+                <person xml:id="biegeleben-ludwig">
+                        <persName>
+                            <surname>Biegeleben</surname>
+                            <forename>Ludwig</forename>
+                        </persName>
+                        <note>
+                            <p>Darmstadt 1812– 1872 Rohitsch-Sauerbrunn</p>
+                            <p>Gesandter des Großherzogtums Hessen in Wien, 1848 Unterstaatssekretär der provisorischen Zentralgewalt, ab 1850 Beamter im öster. Ministerium des Äußeren</p>
+                            <p>http://d-nb.info/gnd/119059363</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119059363</tei:idno>
+                    </person>
+                <person xml:id="buol-von-berenberg-franz">
+                        <persName>
+                            <surname>Buol von Berenberg</surname>
+                            <forename>Franz</forename>
+                        </persName>
+                        <note>
+                            <p>1794–1865</p>
+                            <p>Staatsmann und Beamter</p>
+                            <p>http://d-nb.info/gnd/135694582</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/135694582</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_fd3ebb9f41f9f036dba5791051bc5749" type="placeName">
+                        <placeName type="pref">Marburg (Lahn)</placeName>
+                        <placeName type="alt">Marburg</placeName>
+                    </place>
+                <place xml:id="place_1dcf667c86986e2bbadf65ed2de41e47">
+                        <placeName>Ljubljana</placeName>
+                        <placeName type="pref">laibach</placeName>
+                        <placeName type="alt">Laibach</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.05108 14.50513</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3196359/</idno>
+                    </place>
+                <place xml:id="place_19cb29505c294db5ca9190ea93447e98" type="placeName">
+                        <placeName type="pref">Italy</placeName>
+                        <placeName type="pref">Italien</placeName>
+                        <location>
+                            <geo decls="#LatLng">43 12</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4027833-5</idno>
+                    </place>
+                <place xml:id="place_601df943a89d2ac73e0e43a5d37fc228">
+                        <placeName type="pref">Ungarn</placeName>
+                        <placeName type="alt">Ungarns</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.0 20.0</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/719819/</idno>
+                    </place>
+                <place xml:id="place_f2646aa02d03ac5a141ef404d919cd11">
+                        <placeName>Salzburg</placeName>
+                        <placeName type="pref">salzburg</placeName>
+                        <placeName type="alt">Salzburger</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.79941 13.04399</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2766824/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

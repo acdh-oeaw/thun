@@ -455,5 +455,316 @@
                 <p>Wien, am 25. Oktober 1849</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="jelacic-joseph">
+                        <persName>
+                            <surname>Jelačič</surname>
+                            <forename>Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>Peterwardein 1801–1859 Agram</p>
+                            <p>ab 1848 Banus von Kroatien</p>
+                            <p>http://d-nb.info/gnd/118776088</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118776088</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+                <person xml:id="mamula-lazarus">
+                        <persName>
+                            <surname>Mamula</surname>
+                            <forename>Lazarus</forename>
+                        </persName>
+                        <note>
+                            <p>Gomirje 1795–1878 Wien</p>
+                            <p>General, 1852–1859 stellvertretender Militär- und Zivilgouverneur von Dalmatien, 1859–1865 Militär- und Zivilgouverneur und kommandierender General von Dalmatien</p>
+                            <p>http://d-nb.info/gnd/137099932</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/137099932</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+                <place xml:id="place_c1a76f350bcfa4d0b1f71fc95e9a882b" type="placeName">
+                        <placeName type="pref">Wojwodschaft
+                            Serbien</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.395 20.034</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4066811-3</idno>
+                    </place>
+                <place xml:id="place_601df943a89d2ac73e0e43a5d37fc228">
+                        <placeName type="pref">Ungarn</placeName>
+                        <placeName type="alt">Ungarns</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.0 20.0</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/719819/</idno>
+                    </place>
+                <place xml:id="place_001191dc08dccefed6b8e2a8dc6867cd">
+                        <placeName>Opština Sremski Karlovci</placeName>
+                        <placeName type="pref">Karlowitz [Sremski Karlovci]</placeName>
+                        <placeName type="alt">Karlowitz</placeName>
+                        <placeName type="alt">Karlstädter</placeName>
+                        <placeName type="alt">Carlowitz</placeName>
+                        <placeName type="alt">Carlovitzer</placeName>
+                        <placeName type="alt">Carlovicz</placeName>
+                        <placeName type="alt">Karlowicer</placeName>
+                        <placeName type="alt">Sremski Karlovci</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.20192 19.93351</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3343730/</idno>
+                    </place>
+                <place xml:id="place_e312cb5d08c9607b247a2bdd67f3eb88" type="placeName">
+                        <placeName type="pref">Syrmien</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.169528 19.288389</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4055149-0</idno>
+                    </place>
+                <place xml:id="place_f0254af497146c6f553a310dbc35e84e" type="placeName">
+                        <placeName type="pref">Batschka</placeName>
+                        <location>
+                            <geo decls="#LatLng">46 19.333333</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4004683-7</idno>
+                    </place>
+                <place xml:id="place_af8764c4b7d37536c29879e2a2d7a1db">
+                        <placeName>Komitat Baranya</placeName>
+                        <placeName type="alt">Baranyer</placeName>
+                        <placeName type="alt">Baranyáer Comitate</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.0765 18.2281</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4086363-3</idno>
+                    </place>
+                <place xml:id="place_67c8655646f02446cc1e4ecffd769f79">
+                        <placeName>Municipiul Timişoara</placeName>
+                        <placeName type="pref">temescher-banat</placeName>
+                        <placeName type="alt">Banater</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.75641 21.22974</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/400449-8</idno>
+                        <idno>http://sws.geonames.org/8334795/</idno>
+                    </place>
+                <place xml:id="place_ef6d1c7654009cfc1b61dfc613ce92bb" type="placeName">
+                        <placeName type="pref">Bacs</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.388611 19.235278</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4080288-7</idno>
+                    </place>
+                <place xml:id="place_042d8e300178616bacd5d3e72459543c">
+                        <placeName>Baja</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.17496 18.95639</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3055685/</idno>
+                    </place>
+                <place xml:id="place_c76c063c0b70f954b8c6e30e1783a2ff">
+                        <placeName>Opština Subotica</placeName>
+                        <placeName type="pref">Theresiopel [Subotica]</placeName>
+                        <placeName type="alt">Theresiopel</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.09871 19.66287</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3189594/</idno>
+                    </place>
+                <place xml:id="place_31697850dea7df9fc2c93d63dac15ddc">
+                        <placeName>Bezdan</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.85141 18.93021</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3204249/</idno>
+                    </place>
+                <place xml:id="place_5b86c776ddadb5e49844febfd40c212c">
+                        <placeName>Peterwardein</placeName>
+                        <placeName type="pref">peterwardein</placeName>
+                        <placeName type="alt">Peterwardeiner</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.24667 19.87944</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3193406/</idno>
+                    </place>
+                <place xml:id="place_6fe90dd680c4a571ed89e631ef2d48ed" type="placeName">
+                        <placeName type="pref">Kroatien und
+                            Slavonien</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.8 15.966667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4073841-3</idno>
+                    </place>
+                <place xml:id="place_15f10264a572e8ce0fe253bc889cdbf5" type="placeName">
+                        <placeName type="pref">Slavonien</placeName>
+                        <placeName type="alt">Slawonien</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.45 17.916667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4055289-5</idno>
+                    </place>
+                <place xml:id="place_a8f111991fc0d528f2c40e9f3d36f3a1">
+                        <placeName>Mohács</placeName>
+                        <placeName type="pref">Mohacs</placeName>
+                        <placeName type="alt">Mohacs</placeName>
+                        <placeName type="alt">Mohac</placeName>
+                        <placeName type="alt">Mohaier</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.99306 18.68306</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3047967/</idno>
+                    </place>
+                <place xml:id="place_245e5013ef9688ee0c661318f483cad0" type="placeName">
+                        <placeName type="pref">Baranyavarer</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.794 18.613</geo>
+                        </location>
+                        <idno>http://www.geonames.org/3203558</idno>
+                    </place>
+                <place xml:id="place_ccf81a321c9e3993635bb9ab6bad5186" type="placeName">
+                        <placeName type="pref">Sikloser</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.85499 18.29752</geo>
+                        </location>
+                        <idno>http://www.geonames.org/3045364</idno>
+                    </place>
+                <place xml:id="place_717976f66a4b7e6e24e6d182fbf0a00a">
+                        <placeName>Fünfkirchen</placeName>
+                        <placeName type="pref">fuenfkirchen</placeName>
+                        <placeName type="alt">Fünfkirchner</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.08333 18.23333</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3046526/</idno>
+                    </place>
+                <place xml:id="place_4de88ab3c00f9f3a5f07a167b330d664">
+                        <placeName>Pančevo</placeName>
+                        <placeName type="pref">Pančero</placeName>
+                        <placeName type="alt">Pančero</placeName>
+                        <location>
+                            <geo decls="#LatLng">44.87083 20.64028</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/787237/</idno>
+                    </place>
+                <place xml:id="place_47b310d8b5f008d89534174232a24556">
+                        <placeName>Bela Crkva</placeName>
+                        <placeName type="pref">weisskirchen</placeName>
+                        <placeName type="alt">Weißkirchen</placeName>
+                        <location>
+                            <geo decls="#LatLng">44.8975 21.41722</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/792794/</idno>
+                    </place>
+                <place xml:id="place_45e0bb0b029ff4919974c4717bb7a4b4" type="placeName">
+                        <placeName type="pref">Siebenbürgen</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.5 25</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4054835-1</idno>
+                    </place>
+                <place xml:id="place_2b57ca4e155b897b9eaa0d98e16dc0d4">
+                        <placeName>Fejér</placeName>
+                        <placeName type="pref">Komitat Stuhlweißenburg</placeName>
+                        <placeName type="alt">Stuhlweißenburger Comitate</placeName>
+                        <placeName type="alt">Stuhlweißenburger Comitate</placeName>
+                        <placeName type="alt">Stuhlweißenburg</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.16667 18.58333</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4511572-2</idno>
+                        <idno>http://sws.geonames.org/3053028/</idno>
+                    </place>
+                <place xml:id="place_fb3eccc7858600bed1edbf3a68835d18">
+                        <placeName>Tolna</placeName>
+                        <placeName type="pref">komitat-tolna</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.42677 18.78248</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3043849/</idno>
+                    </place>
+                <place xml:id="place_0ba55a743d1dac6de42ef57adf695bc7">
+                        <placeName>komitat-suemeg</placeName>
+                        <placeName type="alt">Sümegher</placeName>
+                        <placeName type="alt">Schimegher Comitate</placeName>
+                        <placeName type="alt">Schimegh</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.9775 17.281944</geo>
+                        </location>
+                    </place>
+                <place xml:id="place_adb17353f85f8070e245e813866657c4">
+                        <placeName>Komitat Zala</placeName>
+                        <placeName type="pref">komitat-zala</placeName>
+                        <placeName type="alt">Zalader</placeName>
+                        <placeName type="alt">Salader</placeName>
+                        <placeName type="alt">Zalaer Comitate</placeName>
+                        <placeName type="alt">Zalaer Comitate</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.66667 16.83333</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3042613/</idno>
+                    </place>
+                <place xml:id="place_a35d236f4c6a5b4c51f02561ac818b03">
+                        <placeName>Komitat Vas</placeName>
+                        <placeName type="pref">komitat-eisenburg</placeName>
+                        <placeName type="alt">Eisenburger</placeName>
+                        <placeName type="alt">Eisenburger Comitate</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.23 16.616667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4448195-0</idno>
+                    </place>
+                <place xml:id="place_6fed93d48adcd2d91703c14525ce72f3">
+                        <placeName>komitat-oedenburg</placeName>
+                        <placeName type="alt">Oedenburger</placeName>
+                        <placeName type="alt">Ödenburger Comitate</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.681667 16.591667</geo>
+                        </location>
+                    </place>
+                <place xml:id="place_6016afaa156d07d60efecd23921fa2b0">
+                        <placeName>Komitat Wieselburg</placeName>
+                        <placeName type="alt">Wieselburger</placeName>
+                        <placeName type="alt">Wieselburger Comitate</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.866667 17.266667</geo>
+                        </location>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

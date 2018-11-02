@@ -63,5 +63,22 @@
                 </p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="papiu-ilarian-alexandru">
+                        <persName>
+                            <surname>Papiu-Ilarian</surname>
+                            <forename>Alexandru</forename>
+                        </persName>
+                        <note>
+                            <p>Bezded 1827–1877 Hermannstadt</p>
+                            <p>Politiker und Jurist</p>
+                            <p>http://d-nb.info/gnd/1025028732</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1025028732</tei:idno>
+                    </person>
+            </listPerson>
+        </back>
     </text>
 </TEI>

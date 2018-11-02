@@ -114,5 +114,87 @@
                 <p>Innsbruck, den 24. October [1]860</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="stumpf-brentano-karl-friedrich">
+                        <persName>
+                            <surname>Stumpf-Brentano</surname>
+                            <forename>Karl Friedrich</forename>
+                        </persName>
+                        <note>
+                            <p>1829 Wien–1882 Innsbruck</p>
+                            <p>ab 1857 Prof. an der Rechtsakademie in Pressburg, ab 1861 Prof. für Geschichte an der Universität Innsbruck</p>
+                            <p>http://d-nb.info/gnd/117363545</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117363545</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="lexer-matthias">
+                        <persName>
+                            <surname>Lexer</surname>
+                            <forename>Matthias</forename>
+                        </persName>
+                        <note>
+                            <p>Liesing i. Lesachtal 1830–1892 Nürnberg</p>
+                            <p>1855–1857 Hilfslehrerstelle am Deutschen Gymnasium in Krakau, ab 1863 Prof. der deutschen Sprache und Literatur an der Universität Freiburg i. Breisgau, ab 1868 Prof. an der Universität Würzburg</p>
+                            <p>http://d-nb.info/gnd/119057328</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119057328</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_aaf49a1292fa1004fcffc4eebe9bdaa0">
+                        <placeName>Innsbruck</placeName>
+                        <placeName type="alt">Insbruck</placeName>
+                        <placeName type="alt">Insprucker</placeName>
+                        <placeName type="alt">Inspruck</placeName>
+                        <placeName type="alt">Innsbrucker</placeName>
+                        <placeName type="alt">hier</placeName>
+                        <placeName type="alt">o. O. [Innsbruck]</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.26266 11.39454</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2775220/</idno>
+                    </place>
+                <place xml:id="place_0d02faf704bd0c9d27ef4e5dc7980b02">
+                        <placeName>Nürnberg</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.45421 11.07752</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2861650/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+                <place xml:id="place_162b390989a8678640067963acb65109">
+                        <placeName>Deutschland</placeName>
+                        <placeName type="alt">Deutschlands</placeName>
+                        <placeName type="alt">Germany</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.5 10.5</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2921044/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

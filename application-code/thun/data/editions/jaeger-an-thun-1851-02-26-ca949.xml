@@ -138,5 +138,104 @@
                 </p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="jaeger-albert">
+                        <persName>
+                            <surname>Jäger</surname>
+                            <forename>Albert OSB</forename>
+                        </persName>
+                        <note>
+                            <p>Schwaz 1801–1891 Innsbruck</p>
+                            <p>ab 1829 Lehrer am Benediktinergymnasium in Meran, ab 1846 Prof. der Universal- und österr. Staatengeschichte an der Universität Innsbruck, ab 1849 Direktor am Benediktinergymnasium in Meran, ab 1851 Prof. für österr. Geschichte an der Universität Wien, 1854–1869 Direktor des Instituts für Österreichische Geschichtsforschung</p>
+                            <p>http://d-nb.info/gnd/117051845</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117051845</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="mayr-karl">
+                        <persName>
+                            <surname>Mayr</surname>
+                            <forename>Karl OSB</forename>
+                        </persName>
+                        <note>
+                            <p>Dorf Tirol 1774–1855 Marienberg</p>
+                            <p>1804–1807 Prof. am Benediktinergymnasium in Meran, 1807–1810 Prof. für Philosophie am Lyzeum in Trient, 1816–1855 Prälat des Stifts Marienberg</p>
+                            <p>http://d-nb.info/gnd/1020257628</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1020257628</tei:idno>
+                    </person>
+                <person xml:id="zingerle-pius">
+                        <persName>
+                            <surname>Zingerle</surname>
+                            <forename>Pius OSB</forename>
+                        </persName>
+                        <note>
+                            <p>Meran 1801–1881 Marienberg</p>
+                            <p>1818 Eintritt ins Benediktinerstift Marienberg, ab 1827 Lehrer am Benediktinergymnasium in Meran, 1851–1862 dessen Direktor, 1862–1866 Prof. der orientalischen Sprachen an der Sapienza in Rom</p>
+                            <p>http://d-nb.info/gnd/117004588</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117004588</tei:idno>
+                    </person>
+                <person xml:id="brandis-clemens">
+                        <persName>
+                            <surname>Brandis</surname>
+                            <forename>Clemens</forename>
+                        </persName>
+                        <note>
+                            <p>Gra7 1798–1863 Schleinitz</p>
+                            <p>1841–1848 Landeshauptmann von Tirol, schriftstellerische Tätigkeiten</p>
+                            <p>http://d-nb.info/gnd/116402369</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116402369</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_834e1bca2cb7d2238249e70860ed8ae8">
+                        <placeName>Meran</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.66817 11.15953</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3173577/</idno>
+                    </place>
+                <place xml:id="place_aaf49a1292fa1004fcffc4eebe9bdaa0">
+                        <placeName>Innsbruck</placeName>
+                        <placeName type="alt">Insbruck</placeName>
+                        <placeName type="alt">Insprucker</placeName>
+                        <placeName type="alt">Inspruck</placeName>
+                        <placeName type="alt">Innsbrucker</placeName>
+                        <placeName type="alt">hier</placeName>
+                        <placeName type="alt">o. O. [Innsbruck]</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.26266 11.39454</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2775220/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

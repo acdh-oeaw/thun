@@ -90,5 +90,83 @@
                 <p>Schemnitz, den 29.11.</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="szeberinyi-johann">
+                        <persName>
+                            <surname>Szeberinyi</surname>
+                            <forename>Johann Michael</forename>
+                        </persName>
+                        <note>
+                            <p>Schemnitz 1825–1915 Wien</p>
+                            <p>evang. Priester, ab 1849 Pfarrer in mehreren ungarischen Städten, ab 1863 Prof. für Praktische Theologie und Kirchenrecht an der evang.-theol. Fakultät der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/1033567744</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1033567744</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_792be515410368f1ac3c6e58ea01814c">
+                        <placeName>Banská Štiavnica</placeName>
+                        <placeName type="pref">Schemnitz [Banská Štiavnica]</placeName>
+                        <placeName type="alt">Schemnitz</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.44858 18.91003</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/500808-6</idno>
+                        <idno>http://sws.geonames.org/3061184/</idno>
+                    </place>
+                <place xml:id="place_fc3a4fb327706ca2220500871d60b94b">
+                        <placeName>Pest megye</placeName>
+                        <placeName type="pref">Pest</placeName>
+                        <placeName type="alt">Pesth</placeName>
+                        <placeName type="alt">Pesther</placeName>
+                        <placeName type="alt">Pester</placeName>
+                        <placeName type="alt">Pest</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.41667 19.33333</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3046431/</idno>
+                    </place>
+                <place xml:id="place_494eccfffbfff4c93f6e601ab346a3cf">
+                        <placeName>Okres Bratislava I</placeName>
+                        <placeName type="pref">Preßburg [Bratislava]</placeName>
+                        <placeName type="alt">Preßburg</placeName>
+                        <placeName type="alt">Presburg</placeName>
+                        <placeName type="alt">Preßburger</placeName>
+                        <placeName type="alt">Presburger</placeName>
+                        <placeName type="alt">Pressburger</placeName>
+                        <placeName type="alt">Pressburg</placeName>
+                        <placeName type="alt">hiesigen</placeName>
+                        <placeName type="alt">Preßburgs</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.14653 17.10584</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/8986283/</idno>
+                    </place>
+                <place xml:id="place_601df943a89d2ac73e0e43a5d37fc228">
+                        <placeName type="pref">Ungarn</placeName>
+                        <placeName type="alt">Ungarns</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.0 20.0</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/719819/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

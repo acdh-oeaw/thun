@@ -94,5 +94,115 @@
                 <p>Euer Excellenz gehorsamster Diener<lb/>J. v. Rauscher</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="rauscher-joseph">
+                        <persName>
+                            <surname>Rauscher</surname>
+                            <forename>Josef Othmar</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1797–1875 Wien</p>
+                            <p>ab 1825 Prof. für Kirchengeschichte und Kirchenrecht am Lyzeum Salzburg, ab 1832 Direktor der orientalischen Akademie in Wien, ab 1849 Fürstbischof von Seckau, ab März 1853 Erzbischof von Wien, ab 1855 Kardinal</p>
+                            <p>http://d-nb.info/gnd/118787977</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118787977</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="zenner-franz">
+                        <persName>
+                            <surname>Zenner</surname>
+                            <forename>Franz</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1794–1861 Wien</p>
+                            <p>1826–1833 Direktor des Seminars in Wien, ab 1828 Domherr bei St. Stephan, 1840–1849 Direktor der theol. Studien, 1851–1861 Titularbischof von Sarepta und Weihbischof der Erzdiözese Wien, 1851–1861 Generalvikar der Erzdiözese Wien</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="rudigier-franz-joseph">
+                        <persName>
+                            <surname>Rudigier</surname>
+                            <forename>Franz Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>Partenen 1811–1884 Linz</p>
+                            <p>kath. Priester, 1839 Prof. für Kirchengeschichte und Kirchenrecht, später auch für Moraltheologie und Erziehungslehre am Seminar in Brixen, 1845–1848 Spiritualdirektor am Frintaneum in Wien, 1850 Domherr und Seminarregens in Brixen, ab 1852 Bischof von Linz</p>
+                            <p>http://d-nb.info/gnd/118750135</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118750135</tei:idno>
+                    </person>
+                <person xml:id="ferdinand-maximilian-erzherzog">
+                        <persName>
+                            <surname>Ferdinand Maximilian</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1832–1867 Queretaro</p>
+                            <p>Erzherzog von Österreich, 1857–1859 Vizekönig von Lombardo-Venetien, 1864–1867 als Maximilian I. Kaiser von Mexiko, jüngerer Bruder von Kaiser Franz Joseph I.</p>
+                            <p>http://d-nb.info/gnd/118579363</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118579363</tei:idno>
+                    </person>
+                <person xml:id="fellner">
+                        <persName>
+                            <surname>Fellner</surname>
+                            <forename>Pfarrer</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>k_A</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_5f397a1e588cfe96b4aa4bab7a5b1d44">
+                        <placeName>Rom</placeName>
+                        <placeName type="alt">Rome</placeName>
+                        <placeName type="alt">Roms</placeName>
+                        <location>
+                            <geo decls="#LatLng">41.89193 12.51133</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3169070/</idno>
+                    </place>
+                <place xml:id="place_907e6aad95b11593946e28f6e29860aa">
+                        <placeName>Linz</placeName>
+                        <placeName type="pref">linz</placeName>
+                        <placeName type="alt">Linzer</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.30639 14.28611</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2772400/</idno>
+                    </place>
+                <place xml:id="place_2a4e63dc83d509fece21a7872f95a242">
+                        <placeName>Naples</placeName>
+                        <placeName type="pref">Neapel</placeName>
+                        <placeName type="alt">Neapels</placeName>
+                        <placeName type="alt">Neapel</placeName>
+                        <location>
+                            <geo decls="#LatLng">40.83333 14.25</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3172395/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

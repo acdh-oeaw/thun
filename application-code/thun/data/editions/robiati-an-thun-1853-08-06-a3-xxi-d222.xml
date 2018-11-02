@@ -138,5 +138,62 @@
                 <p>Milano 6 Agosto 1853</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="robiati-ambrogio">
+                        <persName>
+                            <surname>Robiati</surname>
+                            <forename>Ambrogio</forename>
+                        </persName>
+                        <note>
+                            <p>†1861</p>
+                            <p>Direktor des "Istituto ginnasiale, liceale, farmaceutico e commerciale-industriale" in Mailand</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-franz-anton">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Franz Anton</forename>
+                        </persName>
+                        <note>
+                            <p>Prag 1809–1870 Prag</p>
+                            <p>1850–1861 Kunstreferent im Ministerium für Kultus und Unterricht, Präsident der Gesellschaft patriotischer Kunstfreunde für Böhmen, Bruder von Leo Thun</p>
+                            <p>http://d-nb.info/gnd/12992816X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/12992816X</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_e30630933146ed8683482de23229fd6a">
+                        <placeName>Milan</placeName>
+                        <placeName type="pref">mailand</placeName>
+                        <placeName type="alt">Mailand</placeName>
+                        <placeName type="alt">Mailands</placeName>
+                        <placeName type="alt">Milano</placeName>
+                        <placeName type="alt">Mailand’s</placeName>
+                        <placeName type="alt">questa Città</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.46416 9.19199</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/6542283/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

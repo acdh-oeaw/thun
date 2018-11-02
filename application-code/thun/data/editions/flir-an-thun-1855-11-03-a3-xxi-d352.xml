@@ -94,5 +94,72 @@
                 <p>Rom den 3. November 1855</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="flir-alois">
+                        <persName>
+                            <surname>Flir</surname>
+                            <forename>Alois</forename>
+                        </persName>
+                        <note>
+                            <p>Landeck 1805–1859 Rom</p>
+                            <p>1835–1854 Prof. der klassischen Literatur und Ästhetik an der Universität Innsbruck, 1853–1859 Prediger und Rektor der Santa Maria dell’Anima in Rom, ab 1858 päpstlicher Hausprälat und Auditor der Sacra Rota Romana</p>
+                            <p>http://d-nb.info/gnd/116616121</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116616121</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="theiner-augustin">
+                        <persName>
+                            <surname>Theiner</surname>
+                            <forename>Augustin</forename>
+                        </persName>
+                        <note>
+                            <p>Breslau 1804–1874 Civitavecchia</p>
+                            <p>1829 Priesterweihe, 1840 Konsultor der Indexkongregation, ab 1851 Koadjutor des Präfekten des Vatikanischen Geheimarchivs, ab 1855 Präfekt</p>
+                            <p>http://d-nb.info/gnd/119442701</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119442701</tei:idno>
+                    </person>
+                <person xml:id="pius-IX">
+                        <persName>
+                            <surname>Pius IX.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Senigallia 1792–1878 Rom</p>
+                            <p>Papst von 1846–1878</p>
+                            <p>http://d-nb.info/gnd/118594729</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118594729</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_5f397a1e588cfe96b4aa4bab7a5b1d44">
+                        <placeName>Rom</placeName>
+                        <placeName type="alt">Rome</placeName>
+                        <placeName type="alt">Roms</placeName>
+                        <location>
+                            <geo decls="#LatLng">41.89193 12.51133</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3169070/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

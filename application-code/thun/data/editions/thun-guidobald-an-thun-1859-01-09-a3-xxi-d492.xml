@@ -184,5 +184,150 @@
                 <p>Trient, 9.1.59</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-guidobald-maria">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Guidobald</forename>
+                        </persName>
+                        <note>
+                            <p>Trient 1808–1865 Trient</p>
+                            <p>Vetter von Leo Thun, Besitzer der Grafschaft Castelfondo, Kämmerer und Erbland-Jägermeister in Tirol</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+                <person xml:id="joseph-II">
+                        <persName>
+                            <surname>Joseph II.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1741–1790 Wien</p>
+                            <p>1765–1790 Kaiser des HRR, ab 1780 König von Böhmen, Kroatien und Ungarn</p>
+                            <p>http://d-nb.info/gnd/118558404</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118558404</tei:idno>
+                    </person>
+                <person xml:id="metternich-klemens-wenzel-lothar">
+                        <persName>
+                            <surname>Metternich</surname>
+                            <forename>Clemens Wenzel</forename>
+                        </persName>
+                        <note>
+                            <p>Koblenz 1773–1859 Wien</p>
+                            <p>Politiker</p>
+                            <p>http://d-nb.info/gnd/118581465</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118581465</tei:idno>
+                    </person>
+                <person xml:id="bruck-karl-ludwig">
+                        <persName>
+                            <surname>Bruck</surname>
+                            <forename>Karl Ludwig</forename>
+                        </persName>
+                        <note>
+                            <p>Elberfeld 1798–1860 Wien</p>
+                            <p>1848 Mitglied der Frankfurter Nationalversammlung und Bevollmächtigter der österr. Regierung beim Reichsverweser, 1848–1851 Handelsminister, 1853–1855 österr. Internuntius in Konstantinopel, 1855–1860 Finanzminister, 1860 Selbstmord, Gründer des Österr. Lloyd</p>
+                            <p>http://d-nb.info/gnd/118857401</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118857401</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_8f37567814d3a88b7c487c48699476fa">
+                        <placeName>Trento</placeName>
+                        <placeName type="pref">Trient</placeName>
+                        <placeName type="alt">Trient.</placeName>
+                        <placeName type="alt">Trientiner</placeName>
+                        <placeName type="alt">Trienter</placeName>
+                        <placeName type="alt">Trient</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.06787 11.12108</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3165243/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+                <place xml:id="place_d3d8d213fb1fbd178f1c9c4aea35cbc6" type="placeName">
+                        <placeName type="pref">Tirol</placeName>
+                        <placeName type="alt">Tyrol</placeName>
+                        <placeName type="alt">Tirols</placeName>
+                        <location>
+                            <geo decls="#LatLng">47 11</geo>
+                        </location>
+                        <idno>http://www.geonames.org/2763587</idno>
+                    </place>
+                <place xml:id="place_dadee1a710a261e5c8c1e886fa3b87d9">
+                        <placeName type="pref">Lombardei</placeName>
+                        <placeName type="alt">Lombardie</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.66667 6.5</geo>
+                        </location>
+                    </place>
+                <place xml:id="place_80c239e539544aa459dc13996638cb2f">
+                        <placeName>Venedig</placeName>
+                        <placeName type="pref">venedig</placeName>
+                        <placeName type="alt">Venedigs</placeName>
+                        <placeName type="alt">Vendig</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.43713 12.33265</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3164603/</idno>
+                    </place>
+                <place xml:id="place_19cb29505c294db5ca9190ea93447e98" type="placeName">
+                        <placeName type="pref">Italy</placeName>
+                        <placeName type="pref">Italien</placeName>
+                        <location>
+                            <geo decls="#LatLng">43 12</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4027833-5</idno>
+                    </place>
+                <place xml:id="place_601df943a89d2ac73e0e43a5d37fc228">
+                        <placeName type="pref">Ungarn</placeName>
+                        <placeName type="alt">Ungarns</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.0 20.0</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/719819/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

@@ -140,5 +140,140 @@
                 <p>Pilsen, den 12. November 1853</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="effenberger-franz-ferdinand">
+                        <persName>
+                            <surname>Effenberger</surname>
+                            <forename>Franz Ferdinand</forename>
+                        </persName>
+                        <note>
+                            <p>1795–1880</p>
+                            <p>Priester, Direktor des Gymnasiums in Leitmeritz, ab 1850 Schulrat außerhalb der Landesbehörde, später Landesschulinspektor für Böhmen</p>
+                            <p>http://d-nb.info/gnd/11585309X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11585309X</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="waldert-anton">
+                        <persName>
+                            <surname>Waldert</surname>
+                            <forename>Anton</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Pater und Kaplan in Görkau</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="weber">
+                        <persName>
+                            <surname>Weber</surname>
+                            <forename>Wenzel</forename>
+                        </persName>
+                        <note>
+                            <p>Dreihacken 1825–1888 Hohenelbe</p>
+                            <p>Priester und Gymnasiallehrer, zunächst Supplent am Gymnasium in Kaschau und Exhortator an der Rechtsakademie ebendort, 1858–1865 Direktor, ab 1865 Stadtdechant von Hohenelbe</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="grus">
+                        <persName>
+                            <surname>Grus</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Supplent am Gymnasium in Eger</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="kawka-matthias">
+                        <persName>
+                            <surname>Kawka</surname>
+                            <forename>Matthias</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>bis 1853 Supplent am Gymnasium in Eger</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="mitteis-heinrich">
+                        <persName>
+                            <surname>Mitteis</surname>
+                            <forename>Heinrich</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>bis 1853 Supplent am Gymnasium in Eger</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_547ed8b517d6aa2705f2fd3b8eeae874">
+                        <placeName>Pilsen</placeName>
+                        <placeName type="alt">Pilsner</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.74747 13.37759</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3068160/</idno>
+                    </place>
+                <place xml:id="place_c0c864044f97c6e7d7af03ea5a182d70">
+                        <placeName>Eger</placeName>
+                        <placeName type="alt">Erlauer</placeName>
+                        <placeName type="alt">Erlau</placeName>
+                        <placeName type="alt">Egener</placeName>
+                        <placeName type="alt">Egerer</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.90265 20.37329</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/721239/</idno>
+                    </place>
+                <place xml:id="place_6f7cc055d11cf2cbbaa605d5449eb44c">
+                        <placeName>Jirkov</placeName>
+                        <placeName type="pref">goerkau</placeName>
+                        <placeName type="alt">Görkau</placeName>
+                        <placeName type="alt">Görgau</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.49979 13.44769</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3074110/</idno>
+                    </place>
+                <place xml:id="place_6e00929feb7fb02acaa548f47f67c61c">
+                        <placeName>Graz</placeName>
+                        <placeName type="pref">graz</placeName>
+                        <placeName type="alt">Gratz</placeName>
+                        <placeName type="alt">Grätz</placeName>
+                        <placeName type="alt">Graez</placeName>
+                        <placeName type="alt">o. O. [Graz]</placeName>
+                        <placeName type="alt">Grätzer</placeName>
+                        <placeName type="alt">Graz-Sekau</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.06667 15.45</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2778067/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

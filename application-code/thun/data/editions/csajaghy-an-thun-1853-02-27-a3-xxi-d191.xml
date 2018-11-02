@@ -187,5 +187,131 @@
                 <p>Temesvar, am 27. Februar 1853</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="csajaghy-alexander">
+                        <persName>
+                            <surname>Csajághy</surname>
+                            <forename>Sandor</forename>
+                        </persName>
+                        <note>
+                            <p>Batschka 1810–1860 Temesvár</p>
+                            <p>Studienpräfekt am Zentralseminar und Dozent für Theologie an der Universität Pest, 1844–1846 Prof. für Theologie in Kalocsa, 1851–1860 Bischof der Csanáder Diözese</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="makra-emerich">
+                        <persName>
+                            <surname>Makra</surname>
+                            <forename>Emerich</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Propst und Dechant</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+                <person xml:id="fabry-ignaz">
+                        <persName>
+                            <surname>Fábry</surname>
+                            <forename>Ignaz</forename>
+                        </persName>
+                        <note>
+                            <p>Sátoraljaujhelyi 1792–1867 Kosice</p>
+                            <p>1843–1852 Titularbischof von Boson, 1852–1867 Bischof von Kaschau</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="mihalovics-josef">
+                        <persName>
+                            <surname>Mihalović</surname>
+                            <forename>Josip</forename>
+                        </persName>
+                        <note>
+                            <p>Torda 1814–1891 Agram</p>
+                            <p>1836 Priesterweihe, 1848 Beteiligung an der Revolution, anschließend mehrere Jahre Gefängnishaft, 1852 begnadigt, ab 1856 Dekan in Neu-Beschenova, 1861 Kanonikus, ab 1870 Erzbischof von Agram, ab 1877 Kardinal</p>
+                            <p>http://d-nb.info/gnd/1023077167</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1023077167</tei:idno>
+                    </person>
+                <person xml:id="hopf-johann">
+                        <persName>
+                            <surname>Hopf</surname>
+                            <forename>Johann</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>k_A</p>
+                            <p>http://d-nb.info/gnd/1042456542</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1042456542</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_3b202c11c9eb9f8d289acdb678dbc975">
+                        <placeName>Temeswar</placeName>
+                        <placeName type="pref">Temeswar [Timișoara]</placeName>
+                        <placeName type="alt">Temeschwar</placeName>
+                        <placeName type="alt">Temesvar</placeName>
+                        <placeName type="alt">Temesvár</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.75372 21.22571</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/665087/</idno>
+                        <idno>http://d-nb.info/gnd/1015055-9</idno>
+                    </place>
+                <place xml:id="place_886905da5fa63f24df8274bffdfa3aca">
+                        <placeName>Cenad</placeName>
+                        <placeName type="pref">Csanád</placeName>
+                        <placeName type="alt">Csanád</placeName>
+                        <placeName type="alt">Csanader</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.13333 20.58333</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/682428/</idno>
+                    </place>
+                <place xml:id="place_dd51fef1ae0877c04e8b4e19eddbabd5">
+                        <placeName>Košice</placeName>
+                        <placeName type="pref">Kaschau</placeName>
+                        <placeName type="alt">Kaschau</placeName>
+                        <placeName type="alt">Kaschauer</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.71395 21.25808</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/724443/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

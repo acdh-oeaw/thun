@@ -127,5 +127,44 @@
                 </div>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="romilli-bartolomeo">
+                        <persName>
+                            <surname>Romilli</surname>
+                            <forename>Bartolomeo Carlo</forename>
+                        </persName>
+                        <note>
+                            <p>Bergamo 1795–1859 Mailand</p>
+                            <p>1847–1859 Erzbischof von Mailand</p>
+                            <p>http://d-nb.info/gnd/1028338430</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1028338430</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_e30630933146ed8683482de23229fd6a">
+                        <placeName>Milan</placeName>
+                        <placeName type="pref">mailand</placeName>
+                        <placeName type="alt">Mailand</placeName>
+                        <placeName type="alt">Mailands</placeName>
+                        <placeName type="alt">Milano</placeName>
+                        <placeName type="alt">Mailand’s</placeName>
+                        <placeName type="alt">questa Città</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.46416 9.19199</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/6542283/</idno>
+                    </place>
+                <place xml:id="place_b2114cc02aeee3cd3f80a773ca6597de">
+                        <placeName>Como</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.80819 9.0832</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3178229/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

@@ -89,5 +89,51 @@
                 <p>Euer Excellenz<lb/>unterthänigster<lb/>Dr. Oscar Schmidt</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="schmidt-oscar">
+                        <persName>
+                            <surname>Schmidt</surname>
+                            <forename>Oscar</forename>
+                        </persName>
+                        <note>
+                            <p>Torgau 1823–1886 Kappelrodeck</p>
+                            <p>ab 1847 Privatdozent in Jena, 1855 Prof. für Zoologie an der Universität Krakau, ab 1857 Prof. an der Universität Graz, ab 1872 Prof. an der Universität Strassburg</p>
+                            <p>http://d-nb.info/gnd/117515191</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117515191</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_6e00929feb7fb02acaa548f47f67c61c">
+                        <placeName>Graz</placeName>
+                        <placeName type="pref">graz</placeName>
+                        <placeName type="alt">Gratz</placeName>
+                        <placeName type="alt">Grätz</placeName>
+                        <placeName type="alt">Graez</placeName>
+                        <placeName type="alt">o. O. [Graz]</placeName>
+                        <placeName type="alt">Grätzer</placeName>
+                        <placeName type="alt">Graz-Sekau</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.06667 15.45</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2778067/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

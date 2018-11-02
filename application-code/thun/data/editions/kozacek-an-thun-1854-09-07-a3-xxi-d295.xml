@@ -197,5 +197,197 @@
                 <p>Preßburg, 7/9 1854</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="kozacek-josef">
+                        <persName>
+                            <surname>Kozáček</surname>
+                            <forename>Josef</forename>
+                        </persName>
+                        <note>
+                            <p>Zvolen 1807–1877 Oradea</p>
+                            <p>Schulinspektor für katholische Schulen im Bezirk Pressburg, ab 1852 Inhaber der Titular-Abtei Unsere Liebe Frau am Berge Güssing</p>
+                            <p>http://d-nb.info/gnd/1018217975</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1018217975</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="attems-heinrich">
+                        <persName>
+                            <surname>Attems</surname>
+                            <forename>Heinrich</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Ministerialkommissär in Pressburg</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="reiser">
+                        <persName>
+                            <surname>Reiser</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Unterrichtsreferent</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="czaban-andreas">
+                        <persName>
+                            <surname>Czaban</surname>
+                            <forename>Andreas</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Pfarrer von Komjath</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="scitovsky-jan">
+                        <persName>
+                            <surname>Scitovský</surname>
+                            <forename>Ján</forename>
+                        </persName>
+                        <note>
+                            <p>Košická Belá 1785–1866 Esztergom</p>
+                            <p>ab 1838 Bischof von Pécs, ab 1849 Erzbischof von Esztergom und Primas von Ungarn, seit 1853 Kardinal</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="krautmann-joseph">
+                        <persName>
+                            <surname>Krautmann</surname>
+                            <forename>Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>Beckó 1789–1855 Esztergom</p>
+                            <p>1852–1855 Weihbischof von Tinninien</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="uhlarik-johann">
+                        <persName>
+                            <surname>Uhlárik Johann</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Pfarrer</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_494eccfffbfff4c93f6e601ab346a3cf">
+                        <placeName>Okres Bratislava I</placeName>
+                        <placeName type="pref">Preßburg [Bratislava]</placeName>
+                        <placeName type="alt">Preßburg</placeName>
+                        <placeName type="alt">Presburg</placeName>
+                        <placeName type="alt">Preßburger</placeName>
+                        <placeName type="alt">Presburger</placeName>
+                        <placeName type="alt">Pressburger</placeName>
+                        <placeName type="alt">Pressburg</placeName>
+                        <placeName type="alt">hiesigen</placeName>
+                        <placeName type="alt">Preßburgs</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.14653 17.10584</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/8986283/</idno>
+                    </place>
+                <place xml:id="place_08bd6a48963166dcb32cb85847b072de">
+                        <placeName>Comeat</placeName>
+                        <placeName type="pref">Komjáth [Comeat]</placeName>
+                        <placeName type="alt">Komjath</placeName>
+                        <placeName type="alt">Komjat</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.96114 21.61618</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/681000/</idno>
+                    </place>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_facae5ac432fd5974d5bbd7d9e5d8ae0">
+                        <placeName>Trnava</placeName>
+                        <placeName type="pref">tyrnau</placeName>
+                        <placeName type="alt">Tyrnauer</placeName>
+                        <placeName type="alt">Tirnau</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.37741 17.58723</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3057124/</idno>
+                    </place>
+                <place xml:id="place_692b30368c6746d95f58143ae779351f">
+                        <placeName>Vráble</placeName>
+                        <placeName type="pref">Verebely</placeName>
+                        <placeName type="alt">Verebely</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.24371 18.30846</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3056711/</idno>
+                    </place>
+                <place xml:id="place_2c8d9a5d515501612f1248443de9bdfa">
+                        <placeName>Darova</placeName>
+                        <placeName type="pref">Istvanfalva</placeName>
+                        <placeName type="alt">Istvanfalva</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.642 21.77333</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/679716/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

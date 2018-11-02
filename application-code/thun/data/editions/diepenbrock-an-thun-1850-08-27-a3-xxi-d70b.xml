@@ -105,5 +105,128 @@
                 <p>Johannesberg bei Jauernig in österr. Schlesien, den 27. August 1850</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="diepenbrock-melchior">
+                        <persName>
+                            <surname>Diepenbrock</surname>
+                            <forename>Melchior</forename>
+                        </persName>
+                        <note>
+                            <p>Bocholt 1798–1853 Schloss Johannesberg/Schlesien</p>
+                            <p>1845–1853 Fürstbischof von Breslau</p>
+                            <p>http://d-nb.info/gnd/118678302</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118678302</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="capellmann-johann-aloys">
+                        <persName>
+                            <surname>Capellmann</surname>
+                            <forename>Johann Aloys</forename>
+                        </persName>
+                        <note>
+                            <p>Bardenberg b. Aachen 1806–1860 Wien</p>
+                            <p>ab 1831 Lehrer am Gymnasium in Düsseldorf, ab 1842 Lehrer am Gymnasium in Koblenz, ab 1850 Direktor des Theresianums, ab 1853 Direktor des Akademischen Gymnasiums in Wien</p>
+                            <p>http://d-nb.info/gnd/116447419</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116447419</tei:idno>
+                    </person>
+                <person xml:id="woringen-ferdinand">
+                        <persName>
+                            <surname>Woringen</surname>
+                            <forename>Theodor Franz Ferdinand</forename>
+                        </persName>
+                        <note>
+                            <p>Broekhuizen 1798–1851 Liegnitz</p>
+                            <p>ab 1837 Regierungsrat in Liegnitz, Gatte von Franziska Reijgers, der Nichtin von Melchior Diepenbrock</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="aulike-matthias">
+                        <persName>
+                            <surname>Aulike</surname>
+                            <forename>Matthias</forename>
+                        </persName>
+                        <note>
+                            <p>Münster 1807–1865 München</p>
+                            <p>1839 Regierungsrat im preuß. Kultusministerium, 1841 Geheimer Regierungsrat und Vortragender Rat für katholisch-kirchliche Angelegenheiten, seit 1846 Geheimer Oberregierungsrat, 1848/49 Mitglied der Frankfurter Nationalversammlung, 1855 Wirklicher Geheimer Oberregierungsrat, 1858 Ministerialdirektor</p>
+                            <p>http://d-nb.info/gnd/118651137</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118651137</tei:idno>
+                    </person>
+                <person xml:id="brueggemann-theodor">
+                        <persName>
+                            <surname>Brüggemann</surname>
+                            <forename>Theodor</forename>
+                        </persName>
+                        <note>
+                            <p>Soest 1796–1866 Berlin</p>
+                            <p>ab 1814 Lehrer für alte Sprachen am Gymasnium in Düsseldorf, ab 1823 dort Direktor, ab 1841 Geheimer Regierungsrat, ab 1843 vortragender Rat für kath. Schulen und Universitäten, 1852 Geheimer Oberregierungsrat, ab 1850 Mitglied des Erfurter Parlaments</p>
+                            <p>http://d-nb.info/gnd/174039352</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/174039352</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_8b000b8c3ddd9700b95cdddd2ef491bc">
+                        <placeName>Javorník</placeName>
+                        <placeName type="pref">Johannesberg bei Jauernig [Javorník]</placeName>
+                        <placeName type="alt">Johannesberg bei Jauernig</placeName>
+                        <placeName type="alt">Schloss Johannesberg</placeName>
+                        <placeName type="alt">Johannesberg</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.39077 17.00272</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3074398/</idno>
+                    </place>
+                <place xml:id="place_9fda856f8ba5f73b253666cfd8388f50">
+                        <placeName>Koblenz</placeName>
+                        <placeName type="alt">Coblenz</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.35357 7.57883</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2886946/</idno>
+                    </place>
+                <place xml:id="place_e575530bd7a9cc03829dde0b8657f108">
+                        <placeName>Prag</placeName>
+                        <placeName type="alt">Prager</placeName>
+                        <placeName type="alt">Prahy</placeName>
+                        <placeName type="alt">Prags</placeName>
+                        <placeName type="alt">o. O. [Prag]</placeName>
+                        <placeName type="alt">hier</placeName>
+                        <placeName type="alt">Praze</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.08804 14.42076</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3067696/</idno>
+                    </place>
+                <place xml:id="place_60960432acfa4972c8f13dd89a872920">
+                        <placeName>Breslau</placeName>
+                        <placeName type="alt">Breslauer</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.10773 17.03533</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/7531292/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

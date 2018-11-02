@@ -81,5 +81,75 @@
                 <p>Linz, den 31. März 1859</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="rudigier-franz-joseph">
+                        <persName>
+                            <surname>Rudigier</surname>
+                            <forename>Franz Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>Partenen 1811–1884 Linz</p>
+                            <p>kath. Priester, 1839 Prof. für Kirchengeschichte und Kirchenrecht, später auch für Moraltheologie und Erziehungslehre am Seminar in Brixen, 1845–1848 Spiritualdirektor am Frintaneum in Wien, 1850 Domherr und Seminarregens in Brixen, ab 1852 Bischof von Linz</p>
+                            <p>http://d-nb.info/gnd/118750135</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118750135</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="hagn-theoderich">
+                        <persName>
+                            <surname>Hagn</surname>
+                            <forename>Theodorich OSB</forename>
+                        </persName>
+                        <note>
+                            <p>Untergriesbach 1816–1872 Lambach</p>
+                            <p>Klosterarchivar im Stift Kremsmünster, ab 1850 Novizenmeister, ab 1859 Abt des Benediktinerstiftes Lambach</p>
+                            <p>http://d-nb.info/gnd/133711188</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/133711188</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_907e6aad95b11593946e28f6e29860aa">
+                        <placeName>Linz</placeName>
+                        <placeName type="pref">linz</placeName>
+                        <placeName type="alt">Linzer</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.30639 14.28611</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2772400/</idno>
+                    </place>
+                <place xml:id="place_5dbeb093dbe8e51cab45bae7d9ca4b96">
+                        <placeName>Lambach</placeName>
+                        <placeName type="pref">lambach</placeName>
+                        <placeName type="alt">Lambacher</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.09253 13.86954</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/7872188/</idno>
+                    </place>
+                <place xml:id="place_b42731b5da8a6e9c9d412d284b692f4f">
+                        <placeName>Metten</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.85512 12.91554</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2871573/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

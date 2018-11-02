@@ -101,5 +101,58 @@
                 <p>Euer Wohlgeboren<lb/>ergebener<lb/>Thun</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="celakovsky-frantisek-ladislav">
+                        <persName>
+                            <surname>Čelakovský</surname>
+                            <forename>František Ladislav</forename>
+                        </persName>
+                        <note>
+                            <p>Strakonice 1799–1852 Prag</p>
+                            <p>1841–1849 Prof. für slawische Sprachen an der Universität Breslau, ab 1849 Prof. an der Universität Prag</p>
+                            <p>http://d-nb.info/gnd/119409275</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119409275</tei:idno>
+                    </person>
+                <person xml:id="tempsky-friedrich">
+                        <persName>
+                            <surname>Tempsky</surname>
+                            <forename>Friedrich</forename>
+                        </persName>
+                        <note>
+                            <p>Prag 1821–1902 St. Wolfgang bei Ischl</p>
+                            <p>Verleger und Buchhändler</p>
+                            <p>http://d-nb.info/gnd/11761601X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11761601X</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_601df943a89d2ac73e0e43a5d37fc228">
+                        <placeName type="pref">Ungarn</placeName>
+                        <placeName type="alt">Ungarns</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.0 20.0</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/719819/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

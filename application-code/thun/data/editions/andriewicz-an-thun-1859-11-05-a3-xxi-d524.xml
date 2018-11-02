@@ -202,5 +202,162 @@
                 <p>Czahor im Kronlande Buccovina [Bukowina], am 5. November 1859</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="andriewicz-samuel">
+                        <persName>
+                            <surname>Andriewicz</surname>
+                            <forename>Samuel</forename>
+                        </persName>
+                        <note>
+                            <p>Suceava 1818–1895 Czernowitz</p>
+                            <p>1843–1862 griech.-orth. Pfarrer in Ceahor</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="mitrofanowicz-basil">
+                        <persName>
+                            <surname>Mitrofanowicz</surname>
+                            <forename>Basil</forename>
+                        </persName>
+                        <note>
+                            <p>Czernowitz 1831–1888 Czernowitz</p>
+                            <p>Priester, Prof. der Pastoraltheologie an der griech.-orthod. theologischen Lehranstalt in Czernowitz</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="kalinczuk-johann">
+                        <persName>
+                            <surname>Kalinczuk</surname>
+                            <forename>Johann</forename>
+                        </persName>
+                        <note>
+                            <p>griech.-orth. Priester, Prof. der Dogmatik an der griech.-orth. Lehranstalt in Czernowitz</p>
+                            <p>k_A</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="hackman-nikolaus">
+                        <persName>
+                            <surname>Hackman</surname>
+                            <forename>Nikolaus</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Priester, Prof. der Moraltheologie an der griech.-orient. Lehranstalt in Czernowitz</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="josefowicz">
+                        <persName>
+                            <surname>Jozefowicz</surname>
+                            <forename>Anton</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Statthaltereisekretär in Czernowitz</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="maschirevics-samuel">
+                        <persName>
+                            <surname>Maschirevics</surname>
+                            <forename>Samuel</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Patriarch der griech.-orient. Kirche und Metropolitanbischof von Karlowitz</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_ca4d7b4a2fab5db14fa1dda5af17776e">
+                        <placeName>Chagor</placeName>
+                        <placeName type="pref">Czahor</placeName>
+                        <placeName type="alt">Czahor</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2433 25.99392</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/710958/</idno>
+                    </place>
+                <place xml:id="place_e7593ca9352d7cff6f4c71eee48ebe2e">
+                        <placeName>Tschernowitz</placeName>
+                        <placeName type="pref">Czernowitz</placeName>
+                        <placeName type="alt">Czernowitzer</placeName>
+                        <placeName type="alt">Cernowic</placeName>
+                        <placeName type="alt">Cernovic</placeName>
+                        <placeName type="alt">Czernovitz</placeName>
+                        <placeName type="alt">Czernowitz</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.29149 25.94034</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/710719/</idno>
+                    </place>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_d63cd13be88168c3819396adfe7a8634">
+                        <placeName>Vicovu de Sus</placeName>
+                        <placeName type="pref">Ober Vicow</placeName>
+                        <placeName type="alt">Ober Vicow</placeName>
+                        <placeName type="alt">Ober-Vicow</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.93333 25.68333</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/662992/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

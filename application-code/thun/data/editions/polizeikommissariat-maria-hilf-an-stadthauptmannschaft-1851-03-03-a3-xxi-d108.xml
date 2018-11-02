@@ -74,5 +74,79 @@
                 </p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="contriner-leonhard">
+                        <persName>
+                            <surname>Contriner</surname>
+                            <forename>Leonhard</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Lehrer der Religionslehre am Schottengymnasium in Wien, Pfarrer in Gumpendorf</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="strehle-leopold">
+                        <persName>
+                            <surname>Strehle</surname>
+                            <forename>Leopold</forename>
+                        </persName>
+                        <note>
+                            <p>*Stronsdorf 1805</p>
+                            <p>1849–1861 Leiter des Polizeikommissariats Maria Hilf</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_9bb9483758fe5780cf4244971ccd4578">
+                        <placeName>Wien-Gumpendorf</placeName>
+                        <placeName type="pref">gumpendorf</placeName>
+                        <placeName type="alt">Gumpendf.</placeName>
+                        <placeName type="alt">Gumpendorf</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.191389 16.347778</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4136052-7</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

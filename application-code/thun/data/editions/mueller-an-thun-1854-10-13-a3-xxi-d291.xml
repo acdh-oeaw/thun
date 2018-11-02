@@ -161,5 +161,146 @@
                 </div>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="mueller-johann-georg">
+                        <persName>
+                            <surname>Müller</surname>
+                            <forename>Johann Georg</forename>
+                        </persName>
+                        <note>
+                            <p>Koblenz 1798–1870 Münster</p>
+                            <p>1847–1870 Bischof von Münster</p>
+                            <p>http://d-nb.info/gnd/118585045</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118585045</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="krahe-august">
+                        <persName>
+                            <surname>Krahé</surname>
+                            <forename>August</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Jurist, Auskultator in Münster, Vetter von Julius Ficker</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="pius-IX">
+                        <persName>
+                            <surname>Pius IX.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Senigallia 1792–1878 Rom</p>
+                            <p>Papst von 1846–1878</p>
+                            <p>http://d-nb.info/gnd/118594729</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118594729</tei:idno>
+                    </person>
+                <person xml:id="haza-radlitz-albert">
+                        <persName>
+                            <surname>Haza-Radlitz</surname>
+                            <forename>Albert Ludwig</forename>
+                        </persName>
+                        <note>
+                            <p>Lewitz bei Meseritz 1798–1872 Lewitz bei Meseritz</p>
+                            <p>Rittergutsbesitzer, ab 1829 Ritter des päpstlichen Ordens vom Goldenen Sporn, Übersetzer mehrerer religiöser Bücher vom Italienischen ins Deutsche</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="kolping-adolph">
+                        <persName>
+                            <surname>Kolping</surname>
+                            <forename>Adolph</forename>
+                        </persName>
+                        <note>
+                            <p>Kerpen 1813–1865 Köln</p>
+                            <p>katholischer Priester, 1849 Gründung des ersten Gesellenvereins</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_4dbe0ffdffa5c77b20027b8cf10de19d">
+                        <placeName>Hildesheim</placeName>
+                        <location>
+                            <geo decls="#LatLng">52.15077 9.95112</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2904789/</idno>
+                    </place>
+                <place xml:id="place_610dc3a15bda751de4d4c52373b2620f">
+                        <placeName>Münster</placeName>
+                        <placeName type="pref">muenster</placeName>
+                        <placeName type="alt">Munster</placeName>
+                        <placeName type="alt">meiner Vaterstadt</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.96236 7.62571</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2867543/</idno>
+                    </place>
+                <place xml:id="place_8a8d1245c99d9118acfeacd17d5e255e">
+                        <placeName>Düren</placeName>
+                        <placeName type="alt">Duren</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.80434 6.49299</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2934486/</idno>
+                    </place>
+                <place xml:id="place_6c1def5820cdde63de0c38dd673de4d6">
+                        <placeName>Bonn</placeName>
+                        <placeName type="alt">Bonna</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.73438 7.09549</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2946447/</idno>
+                    </place>
+                <place xml:id="place_d35a02eb49149450fb2fffc6e467eb37">
+                        <placeName>Berlin</placeName>
+                        <placeName type="pref">berlin</placeName>
+                        <placeName type="alt">Berlino</placeName>
+                        <location>
+                            <geo decls="#LatLng">52.52437 13.41053</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2950159/</idno>
+                    </place>
+                <place xml:id="place_d55199956d521bfae14b87d631fe8ae8">
+                        <placeName>Posen</placeName>
+                        <placeName type="alt">Posen’schen</placeName>
+                        <placeName type="alt">Posnania</placeName>
+                        <location>
+                            <geo decls="#LatLng">52.40619 16.92341</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/7531836/</idno>
+                    </place>
+                <place xml:id="place_f05bb634bb7db5dab69c443430ae9927">
+                        <placeName>Köln</placeName>
+                        <placeName type="alt">Colonia</placeName>
+                        <placeName type="alt">Cöln</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.93333 6.95</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2886242/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

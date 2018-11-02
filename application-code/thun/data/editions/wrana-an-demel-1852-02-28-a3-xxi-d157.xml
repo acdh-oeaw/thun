@@ -92,5 +92,55 @@
                 <p>Nikolsburg, den 28. Februar 1852</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="wrana-cajetan">
+                        <persName>
+                            <surname>Wrana</surname>
+                            <forename>Cajetan O.Praem.</forename>
+                        </persName>
+                        <note>
+                            <p>Litomyšl 1785–1855</p>
+                            <p>1836–1841 Rektor, 1844–1849 Direktor des Theresianums</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="demel-heinrich-johann">
+                        <persName>
+                            <surname>Demel</surname>
+                            <forename>Heinrich Johann</forename>
+                        </persName>
+                        <note>
+                            <p>Odry 1808–1867 Wien</p>
+                            <p>Astronom und Mathematiker, 1849–1866 Direktor des Theresianums</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="albrecht-benedikt">
+                        <persName>
+                            <surname>Albrecht</surname>
+                            <forename>Benedikt SP</forename>
+                        </persName>
+                        <note>
+                            <p>1817–1869</p>
+                            <p>1849–1853 Lehrer am Theresianum, Gymnasialdirektor in Prag</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_5b95fe248458e8e40898129bb087ae5a">
+                        <placeName>Nikolsburg</placeName>
+                        <placeName type="alt">Nikolsburger</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.80556 16.6378</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3070720/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

@@ -128,5 +128,134 @@
                 <p>Prag, 2. December 1853</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="hoefler-karl-adolf-constantin">
+                        <persName>
+                            <surname>Höfler</surname>
+                            <forename>Karl Adolf Constantin</forename>
+                        </persName>
+                        <note>
+                            <p>Memmingen 1811–1897 Prag</p>
+                            <p>ab 1836 Privatdozent für Geschichte an der Universität München, ab 1839 Prof. an der Universität München, 1847 Zwangspensionierung, ab 1847 Kreisarchivar in Bamberg, ab 1852 Prof. für allgemeine Geschichte an der Universität Prag</p>
+                            <p>http://d-nb.info/gnd/118774654</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118774654</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="wernberger">
+                        <persName>
+                            <surname>Wernberger</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Student des philologischen Seminars in München</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_2a355a5b0521435f8248f11b12db208a">
+                        <placeName>Bamberg</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.89873 10.90067</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2952984/</idno>
+                    </place>
+                <place xml:id="place_867b530d8072e0e4d907aa82937d3e01" type="placeName">
+                        <placeName type="pref">Böhmen</placeName>
+                        <location>
+                            <geo decls="#LatLng">50 14.5</geo>
+                        </location>
+                        <idno>http://www.geonames.org/3078198</idno>
+                    </place>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_f1ead991a0ca32b465653b3071c5ea3e">
+                        <placeName>Munich</placeName>
+                        <placeName type="pref">muenchen</placeName>
+                        <placeName type="alt">München</placeName>
+                        <placeName type="alt">Münchner</placeName>
+                        <placeName type="alt">München</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.13743 11.57549</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2867714/</idno>
+                    </place>
+                <place xml:id="place_bcde1f19377e162b380416de06ad183b">
+                        <placeName>Osmolice</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.11613 22.5006</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/762973/</idno>
+                    </place>
+                <place xml:id="place_f5b9b7d9f442d1b4d1e1314abf4df9d2">
+                        <placeName>Lublin</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.25 22.56667</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/765876/</idno>
+                    </place>
+                <place xml:id="place_4ff55ec41ee84a7b7a80b0b7734e5a6b">
+                        <placeName>Krakau</placeName>
+                        <placeName type="pref">krakau</placeName>
+                        <placeName type="alt">Krakauer</placeName>
+                        <placeName type="alt">Krakau’s</placeName>
+                        <placeName type="alt">hiesigen</placeName>
+                        <placeName type="alt">jener Stadt</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.06143 19.93658</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3094802/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

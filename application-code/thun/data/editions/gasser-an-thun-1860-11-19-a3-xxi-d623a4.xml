@@ -119,5 +119,123 @@
                 <p>Brixen, den 19. Nov. 1860 </p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="gasser-vinzenz">
+                        <persName>
+                            <surname>Gasser</surname>
+                            <forename>Vinzenz</forename>
+                        </persName>
+                        <note>
+                            <p>Inzing 1809–1879 Brixen</p>
+                            <p>1836–1855 Prof. der Theologie am Priesterseminar in Brixen, ab 1855 Domkapitular, ab 1856 Fürstbischof von Brixen</p>
+                            <p>http://d-nb.info/gnd/119237318</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119237318</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="vonbank-johannes-georg">
+                        <persName>
+                            <surname>Vonbank</surname>
+                            <forename>Johann Georg</forename>
+                        </persName>
+                        <note>
+                            <p>Braz 1824–1894 Strebersdorf</p>
+                            <p>Priester, Gymnasiallehrer in Zara, ab 1858 in Laibach, ab 1860 in Innsbruck, später Redakteur der "Tiroler Stimmen" und des "Vorarlberger Volksblatt"</p>
+                            <p>http://d-nb.info/gnd/131817310</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/131817310</tei:idno>
+                    </person>
+                <person xml:id="zingerle-ignaz-vinzenz">
+                        <persName>
+                            <surname>Zingerle</surname>
+                            <forename>Ignaz Vinzenz</forename>
+                        </persName>
+                        <note>
+                            <p>Meran 1825–1892 Innsbruck</p>
+                            <p>1848–1858 Lehrer am akademischen Gymnasium in Innsbruck, 1858 Leiter der Universitätsbibliothek Innsbruck, 1859–1890 Prof. für deutsche Sprache und Literatur an der Universität Innsbruck</p>
+                            <p>http://d-nb.info/gnd/11557039X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11557039X</tei:idno>
+                    </person>
+                <person xml:id="ficker-julius">
+                        <persName>
+                            <surname>Ficker</surname>
+                            <forename>Julius</forename>
+                        </persName>
+                        <note>
+                            <p>Paderborn 1826–1902 Innsbruck</p>
+                            <p>ab 1852 Prof. der Geschichte an der Universität Innsbruck, ab 1863 Prof. für deutsche Reichs- und Rechtsgeschichte an der Universität Innsbruck</p>
+                            <p>http://d-nb.info/gnd/118532863</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118532863</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_478686b5e2ebec6de738cf25710e7108">
+                        <placeName>Brixen</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.71503 11.65598</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3181550/</idno>
+                    </place>
+                <place xml:id="place_d3d8d213fb1fbd178f1c9c4aea35cbc6" type="placeName">
+                        <placeName type="pref">Tirol</placeName>
+                        <placeName type="alt">Tyrol</placeName>
+                        <placeName type="alt">Tirols</placeName>
+                        <location>
+                            <geo decls="#LatLng">47 11</geo>
+                        </location>
+                        <idno>http://www.geonames.org/2763587</idno>
+                    </place>
+                <place xml:id="place_1dcf667c86986e2bbadf65ed2de41e47">
+                        <placeName>Ljubljana</placeName>
+                        <placeName type="pref">laibach</placeName>
+                        <placeName type="alt">Laibach</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.05108 14.50513</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3196359/</idno>
+                    </place>
+                <place xml:id="place_aaf49a1292fa1004fcffc4eebe9bdaa0">
+                        <placeName>Innsbruck</placeName>
+                        <placeName type="alt">Insbruck</placeName>
+                        <placeName type="alt">Insprucker</placeName>
+                        <placeName type="alt">Inspruck</placeName>
+                        <placeName type="alt">Innsbrucker</placeName>
+                        <placeName type="alt">hier</placeName>
+                        <placeName type="alt">o. O. [Innsbruck]</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.26266 11.39454</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2775220/</idno>
+                    </place>
+                <place xml:id="place_271d9608b4f6e55e8f4ec78b040ead1a">
+                        <placeName>Zadar</placeName>
+                        <placeName type="pref">Zadar [Zara]</placeName>
+                        <placeName type="alt">Zara</placeName>
+                        <location>
+                            <geo decls="#LatLng">44.11972 15.24222</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3186952/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

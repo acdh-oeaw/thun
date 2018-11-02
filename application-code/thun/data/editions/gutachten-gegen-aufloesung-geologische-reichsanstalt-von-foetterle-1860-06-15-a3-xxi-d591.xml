@@ -224,5 +224,99 @@
                 </div>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="foetterle-franz">
+                        <persName>
+                            <surname>Foetterle</surname>
+                            <forename>Franz</forename>
+                        </persName>
+                        <note>
+                            <p>Mramotitz 1823–1876 Wien</p>
+                            <p>1847–1849 bergtechnischer Praktikant in Gmunden, ab 1849 bei der geologischen Reichsanstalt, ab 1856 Bergrat, ab 1867 erster Chefgeologe</p>
+                            <p>http://d-nb.info/gnd/179491075</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/179491075</tei:idno>
+                    </person>
+                <person xml:id="haidinger-wilhelm">
+                        <persName>
+                            <surname>Haidinger</surname>
+                            <forename>Wilhelm</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1795–1871 Dornbach b. Wien</p>
+                            <p>Mineraloge und Geologe, bis 1840 Leitung der Porzellanfabrik seiner Brüder in Elbogen a. d. Eger, ab 1840 Leiter der Mineraliensammlung der Hofkammer in Wien, 1849–1866 Direktor der Geologischen Reichsanstalt in Wien</p>
+                            <p>http://d-nb.info/gnd/119435810</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119435810</tei:idno>
+                    </person>
+                <person xml:id="geinitz-hans-bruno">
+                        <persName>
+                            <surname>Geinitz</surname>
+                            <forename>Hans Bruno</forename>
+                        </persName>
+                        <note>
+                            <p>Altenburg 1814–1900 Dresden</p>
+                            <p>ab 1838 Lehrer für Physik und Chemie an der Polytechnischen Lehranstalt in Dresden, ab 1850 Lehrer für Geognosie, Mineralogie und Naturgeschichte an der Polytechnischen Schule in Dresden, ab 1857 Direktor des Kgl. Mineralogischen und Geologischen Museums in Dresden</p>
+                            <p>http://d-nb.info/gnd/116499737</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116499737</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+                <place xml:id="place_19ed5f8ceab486afbee6b3ba5c88884d">
+                        <placeName>Dresden</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.05089 13.73832</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2935022/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

@@ -93,5 +93,97 @@
                     zur Disposition stehe.</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="hingenau-otto">
+                        <persName>
+                            <surname>Hingenau</surname>
+                            <forename>Otto Bernhard</forename>
+                        </persName>
+                        <note>
+                            <p>Triest 1818–1872 Wien</p>
+                            <p>Jurist, 1840–1843 an der Bergakademie in Schemnitz, ab 1843 am Berggericht in Kuttenberg, 1845 am Oberbergamt in Leoben, ab 1846 bei der Hofkammer in Münz- und Bergwesen in Wien, ab 1848 als Bergsubstitut in Brünn, ab 1850 prov. Berghauptmann in Brünn, 1850–1865 Prof. des Bergrechts und der Nationalökonomie an der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/116896736</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116896736</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="foetterle-franz">
+                        <persName>
+                            <surname>Foetterle</surname>
+                            <forename>Franz</forename>
+                        </persName>
+                        <note>
+                            <p>Mramotitz 1823–1876 Wien</p>
+                            <p>1847–1849 bergtechnischer Praktikant in Gmunden, ab 1849 bei der geologischen Reichsanstalt, ab 1856 Bergrat, ab 1867 erster Chefgeologe</p>
+                            <p>http://d-nb.info/gnd/179491075</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/179491075</tei:idno>
+                    </person>
+                <person xml:id="reyer-constantin">
+                        <persName>
+                            <surname>Reyer</surname>
+                            <forename>Constantin</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Mitglied des Reichsrates</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="mayr-von-melnhof-franz">
+                        <persName>
+                            <surname>Mayr von Melnhof</surname>
+                            <forename>Franz</forename>
+                        </persName>
+                        <note>
+                            <p>Leoben 1810–1889 Leoben</p>
+                            <p>Industrieller, Mitglied des Reichsrat</p>
+                            <p>http://d-nb.info/gnd/137125526</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/137125526</tei:idno>
+                    </person>
+                <person xml:id="schroetter-franz-ferdinand">
+                        <persName>
+                            <surname>Schrötter</surname>
+                            <forename>Franz Ferdinand</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1736–1780 Wien</p>
+                            <p>Jurist und Historiker, Prof. an der Universität Wien, Begründer der österreichischen Staatsrechtslehre</p>
+                            <p>http://d-nb.info/gnd/11709899X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11709899X</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_162b390989a8678640067963acb65109">
+                        <placeName>Deutschland</placeName>
+                        <placeName type="alt">Deutschlands</placeName>
+                        <placeName type="alt">Germany</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.5 10.5</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2921044/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

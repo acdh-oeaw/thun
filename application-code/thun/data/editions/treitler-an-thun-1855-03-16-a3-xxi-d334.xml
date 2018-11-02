@@ -412,5 +412,69 @@
                 <p>Lemberg den 16. März 1855</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="treitler-anton">
+                        <persName>
+                            <surname>Treitler</surname>
+                            <forename>Anton</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Adjunkt bei der Kammerprokuratur in Lemberg</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="baumgartner-andreas">
+                        <persName>
+                            <surname>Baumgartner</surname>
+                            <forename>Andreas</forename>
+                        </persName>
+                        <note>
+                            <p>Friedberg 1793–1865 Hietzing</p>
+                            <p>1823–1833 Prof. für Physik und Angewandte Mathematik an der Universität Wien, ab 1833 Direktor der k. k. Porzellanfabriken, 1842–1848 Direktor der k. k. Tabakregie, 1848 Minister für öffentliche Arbeiten und das Bergwesen, 1851–1855 Minister für Handel, Gewerbe und öffentliche Bauten und Finanzminister, 1851–1865 Präsident der Akademie der Wissenschaften in Wien</p>
+                            <p>http://d-nb.info/gnd/118653946</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118653946</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_3ff694e5c82611cda53341a9bae21735">
+                        <placeName>lemberg</placeName>
+                        <placeName type="alt">Lemberger</placeName>
+                        <placeName type="alt">Lemberg</placeName>
+                        <placeName type="alt">Leopol</placeName>
+                        <placeName type="alt">Lembergs</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.839444 24.032778</geo>
+                        </location>
+                    </place>
+                <place xml:id="place_4ec4d4015169a4209797da17b240c7c3">
+                        <placeName>Galicia</placeName>
+                        <placeName type="pref">Galizien</placeName>
+                        <placeName type="alt">Galicien</placeName>
+                        <placeName type="alt">Galizien</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.5 23.0</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/562153/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

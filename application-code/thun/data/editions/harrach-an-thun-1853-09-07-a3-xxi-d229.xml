@@ -108,5 +108,61 @@
                 <p>Schloß Hradek, 7.9.1853</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="harrach-franz">
+                        <persName>
+                            <surname>Harrach</surname>
+                            <forename>Franz Ernst</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1799–1884 Nice</p>
+                            <p>böhm. Adeliger</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_6633875670659003395962840531a602">
+                        <placeName>Hrádek</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.21856 15.67555</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3074948/</idno>
+                    </place>
+                <place xml:id="place_d87ecf2812221b35c14efd3de8dd844d">
+                        <placeName>Steger</placeName>
+                        <location>
+                            <geo decls="#LatLng"/>
+                        </location>
+                    </place>
+                <place xml:id="place_b19bff5a3b79c0971a99eefa36cc1670">
+                        <placeName>Hradec Králové</placeName>
+                        <placeName type="pref">koeniggraetz</placeName>
+                        <placeName type="alt">Königgrätz</placeName>
+                        <placeName type="alt">Königgraz</placeName>
+                        <placeName type="alt">Königingrätz</placeName>
+                        <placeName type="alt">Königgrätz</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.20923 15.83277</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3074967/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

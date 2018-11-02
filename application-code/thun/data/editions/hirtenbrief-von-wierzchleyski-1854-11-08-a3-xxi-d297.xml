@@ -52,5 +52,35 @@
                 </p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="wierzchlejski-franciszek">
+                        <persName>
+                            <surname>Wierzchlejski</surname>
+                            <forename>Franciszek Ksawery</forename>
+                        </persName>
+                        <note>
+                            <p>Poręba Mała/Novi Sad 1803–1884 Lemberg</p>
+                            <p>ab 1846 Bischof von Przemyśl, 1860–1884 Erzbischof von Lemberg</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_06929365a95f6fe8db033da195ee7498">
+                        <placeName>Przemyśl</placeName>
+                        <placeName type="alt">Przemysler</placeName>
+                        <placeName type="alt">Przemyśler</placeName>
+                        <placeName type="alt">Peremyschl</placeName>
+                        <placeName type="alt">Peremyszler</placeName>
+                        <placeName type="alt">Przemysl</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.78345 22.78424</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/7530748/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

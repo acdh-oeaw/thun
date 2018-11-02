@@ -147,5 +147,192 @@
                 </div>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="hartmann-franz">
+                        <persName>
+                            <surname>Hartmann</surname>
+                            <forename>Franz</forename>
+                        </persName>
+                        <note>
+                            <p>Würzburg 1808–1895 Graz</p>
+                            <p>Jurist, ab 1844 Landesgerichtsrat in Linz, ab 1847 Oberlandesgerichtsrat in Linz und Präses des Kreisgerichts in Wels, ab 1854 Mitglied des Staatsgerichtshofs in Wien</p>
+                            <p>http://d-nb.info/gnd/118546287</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118546287</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="mutzl-sebastian">
+                        <persName>
+                            <surname>Mutzl</surname>
+                            <forename>Sebastian</forename>
+                        </persName>
+                        <note>
+                            <p>1797–1863 Eichstätt</p>
+                            <p>Gymnasiallehrer und Künstler</p>
+                            <p>http://d-nb.info/gnd/10022508X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/10022508X</tei:idno>
+                    </person>
+                <person xml:id="kopp-josef">
+                        <persName>
+                            <surname>Kopp</surname>
+                            <forename>Josef Eutych</forename>
+                        </persName>
+                        <note>
+                            <p>Beromünster 1793–1866 Luzern</p>
+                            <p>1819–1866 Prof. für alte Sprachen am Lyzeum in Luzern</p>
+                            <p>http://d-nb.info/gnd/11871404X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11871404X</tei:idno>
+                    </person>
+                <person xml:id="mutzl-eduard">
+                        <persName>
+                            <surname>Mutzl</surname>
+                            <forename>Eduard</forename>
+                        </persName>
+                        <note>
+                            <p>1829–1882</p>
+                            <p>Gymnasiallehrer, Sohn von Sebastian Mutzl</p>
+                            <p>http://d-nb.info/gnd/154928062</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/154928062</tei:idno>
+                    </person>
+                <person xml:id="cruse">
+                        <persName>
+                            <surname>Cruse</surname>
+                            <forename>Friedrich</forename>
+                        </persName>
+                        <note>
+                            <p>1851–1857 kath. Pfarrer in Gotha</p>
+                            <p>k_A</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="oettl-georg">
+                        <persName>
+                            <surname>Oettl</surname>
+                            <forename>Georg</forename>
+                        </persName>
+                        <note>
+                            <p>Gengham 1794–1866 Eichstätt</p>
+                            <p>ab 1846 Bischof von Eichstätt</p>
+                            <p>http://d-nb.info/gnd/100315399</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/100315399</tei:idno>
+                    </person>
+                <person xml:id="ringelmann-friedrich">
+                        <persName>
+                            <surname>Ringelmann</surname>
+                            <forename>Friedrich</forename>
+                        </persName>
+                        <note>
+                            <p>Würzburg 1803–1870 München</p>
+                            <p>1849–1852 bayerischer Staatsminister des Innern für Kultus- und Schulangelegenheiten, 1854–1859 Minister der Justiz</p>
+                            <p>http://d-nb.info/gnd/116550597</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116550597</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_907e6aad95b11593946e28f6e29860aa">
+                        <placeName>Linz</placeName>
+                        <placeName type="pref">linz</placeName>
+                        <placeName type="alt">Linzer</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.30639 14.28611</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2772400/</idno>
+                    </place>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_064b3fb95f9ed52eb2b1da3d5e807b17" type="placeName">
+                        <placeName type="pref">oesterreich</placeName>
+                        <placeName type="alt">Vaterlande</placeName>
+                        <placeName type="alt">Österreichs</placeName>
+                        <placeName type="alt">Oesterreich</placeName>
+                        <placeName type="alt">Oestreich</placeName>
+                        <placeName type="alt">Österreich</placeName>
+                    </place>
+                <place xml:id="place_524d36ba3b19a3c6a8d156eac7db6c07">
+                        <placeName>Gotha</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.94823 10.70193</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2918752/</idno>
+                    </place>
+                <place xml:id="place_f1ead991a0ca32b465653b3071c5ea3e">
+                        <placeName>Munich</placeName>
+                        <placeName type="pref">muenchen</placeName>
+                        <placeName type="alt">München</placeName>
+                        <placeName type="alt">Münchner</placeName>
+                        <placeName type="alt">München</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.13743 11.57549</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2867714/</idno>
+                    </place>
+                <place xml:id="place_5cf6a77064d5d368e7bd500399dacfd2">
+                        <placeName>Eichstätt</placeName>
+                        <placeName type="pref">eichstaett</placeName>
+                        <placeName type="alt"/>
+                        <location>
+                            <geo decls="#LatLng">48.88854 11.19675</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2932069/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

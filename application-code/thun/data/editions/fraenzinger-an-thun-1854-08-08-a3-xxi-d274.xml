@@ -103,5 +103,110 @@
                 <p>von Hrn. Geh.Rath. Fränzinger in Freiburg</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="fraenzinger">
+                        <persName>
+                            <surname>Fränzinger</surname>
+                            <forename>Ignaz</forename>
+                        </persName>
+                        <note>
+                            <p>Bruchsal 1792–1856 Freiburg i. Br.</p>
+                            <p>Jurist, ab 1829 Legationsrat im Ministerium für Auswärtige Angelegenheiten in Karlsruhe, ab 1835 Geheimer Kriegsrat, ab 1844 Amtsvorstand des Bezirksamt Lahr, ab 1849 im Ruhestand</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="stintzing-roderich">
+                        <persName>
+                            <surname>Stintzing</surname>
+                            <forename>Roderich</forename>
+                        </persName>
+                        <note>
+                            <p>Altona 1825–1883 Oberstdorf</p>
+                            <p>Jurist, ab 1852 Privatdozent an der Universität Heidelberg, ab 1854 Prof. an der Universität Basel, ab 1857 Prof. an der Universität Erlangen</p>
+                            <p>http://d-nb.info/gnd/101275056</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/101275056</tei:idno>
+                    </person>
+                <person xml:id="schmidt-karl-adolf">
+                        <persName>
+                            <surname>Schmidt</surname>
+                            <forename>Karl Adolf</forename>
+                        </persName>
+                        <note>
+                            <p>Allstedt 1815–1903 Baden-Baden</p>
+                            <p>ab 1843 Prof. für Römisches Recht an der Universität Greifswald, ab 1850 Prof. an der Universität Freiburg i. Breisgau</p>
+                            <p>http://d-nb.info/gnd/104100982</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/104100982</tei:idno>
+                    </person>
+                <person xml:id="schmidt-adolf">
+                        <persName>
+                            <surname>Schmidt</surname>
+                            <forename>Adolf</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Lehrer am Lyzeum in Heidelberg</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="schmidt">
+                        <persName>
+                            <surname>Schmidt</surname>
+                            <forename>Karl Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>1820–1891</p>
+                            <p>ab 1852 Ministerialrat im Ministerium des Innern in Karlsruhe, Referent für Kirchenangelegenheiten, Bruder von Adolf Schmidt</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_84741e39bd2250054745bd841d851b05">
+                        <placeName>Freiburg im Breisgau</placeName>
+                        <placeName type="pref">Freiburg i. B.</placeName>
+                        <placeName type="alt">Freiburg i. B.</placeName>
+                        <placeName type="alt">Freiburg</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.9959 7.85222</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2925177/</idno>
+                    </place>
+                <place xml:id="place_bd2b145b873049a539012fea08bfa71a">
+                        <placeName>Mannheim</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.4891 8.46694</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2873891/</idno>
+                    </place>
+                <place xml:id="place_35ec7062379a5b1e1743de648e2f3809">
+                        <placeName>Heidelberg</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.40768 8.69079</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2907911/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

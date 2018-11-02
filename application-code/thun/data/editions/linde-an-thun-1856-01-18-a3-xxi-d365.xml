@@ -124,5 +124,130 @@
                 <p>Dr. Linde</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="linde-justin">
+                        <persName>
+                            <surname>Linde</surname>
+                            <forename>Justin Timotheus Balthasar</forename>
+                        </persName>
+                        <note>
+                            <p>Brilon 1797–1870 Bonn</p>
+                            <p>1824–1829 Prof. des deutschen Privatrechts und der röm. Rechtsgeschichte an der Universität Gießen, ab 1829 Geh. Regierungsrat im Ministerium des Innern und der Justiz in Darmstadt, ab 1832 Direktor des Oberstudienrats, 1836–1847 Geh. Staatsrat im Ministerium des Innern und der Justiz, 1848/49 Mitglied der Frankfurter Nationalversammlung, 1850–1866 österr. Gesandter beim deutschen Bundestag</p>
+                            <p>http://d-nb.info/gnd/119095645</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/119095645</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="blakert-georg">
+                        <persName>
+                            <surname>Blakert</surname>
+                            <forename>Georg</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>k_A</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="koett-christoph-florentinus">
+                        <persName>
+                            <surname>Kött</surname>
+                            <forename>Florentinus</forename>
+                        </persName>
+                        <note>
+                            <p>St. Martin, Elsass 1801–1873 Fulda</p>
+                            <p>1848–1873 Bischof von Fulda</p>
+                            <p>http://d-nb.info/gnd/116302054</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116302054</tei:idno>
+                    </person>
+                <person xml:id="roessler-emil">
+                        <persName>
+                            <surname>Rössler</surname>
+                            <forename>Emil Franz</forename>
+                        </persName>
+                        <note>
+                            <p>Brüx 1815–1863 Sigmaringen</p>
+                            <p>1846–1848 Dozent für Geschichte des Rechts in Österreich an der Universität Wien, 1848/49 Mitglied der Frankfurter Nationalversammlung, ab 1849 Privatdozent für deutsche Rechtsgeschichte an der Univ. Göttingen, ab 1858 Bibliothekar in Erlangen, ab 1863 Bibliothekar in Sigmaringen</p>
+                            <p>http://d-nb.info/gnd/118790927</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118790927</tei:idno>
+                    </person>
+                <person xml:id="schell-nikolaus">
+                        <persName>
+                            <surname>Schell</surname>
+                            <forename>Nikolaus</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Gymnasiallehrer in Hanau</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_e9cd6cbbbc3248f7a69252439ba3d6e6">
+                        <placeName>Frankfurt-Eckenheim</placeName>
+                        <placeName type="pref">Frankfurt a. M.</placeName>
+                        <placeName type="alt">Frankfurt a. M.</placeName>
+                        <placeName type="alt">Frankfurt am Main</placeName>
+                        <placeName type="alt">Francfurt a. M.</placeName>
+                        <placeName type="alt">Francfurt</placeName>
+                        <placeName type="alt">Francoforte</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.1497921 8.6662762</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4093156-0</idno>
+                    </place>
+                <place xml:id="place_bb924613631a24955ccdde82d6af5cc2">
+                        <placeName>Göttingen</placeName>
+                        <placeName type="pref">goettingen</placeName>
+                        <placeName type="alt">Göttinger</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.53443 9.93228</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2918632/</idno>
+                    </place>
+                <place xml:id="place_56379b3722203c9ce71d0191081d67f6">
+                        <placeName>Hanau</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.13423 8.91418</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2911007/</idno>
+                    </place>
+                <place xml:id="place_0fd179e1ec67f709e25dafb228e73d55">
+                        <placeName>Fulda</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.55162 9.67518</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2923822/</idno>
+                    </place>
+                <place xml:id="place_b1955bcdd57fab7b269abbb05a7abd51" type="placeName">
+                        <placeName type="pref">Hessen</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.599501 9.024946</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4024729-6</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

@@ -104,5 +104,55 @@
                 <p>Laucha, am 28. Juni 1854</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="elisabeth">
+                        <persName>
+                            <surname>Elisabeth Amalie Eugenie</surname>
+                            <forename>Herzogin in Bayern</forename>
+                        </persName>
+                        <note>
+                            <p>München 1837–1898 Genf</p>
+                            <p>ab 1854 Gattin von Franz Joseph I. und damit Kaiserin von Österreich</p>
+                            <p>http://d-nb.info/gnd/1044019484</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/1044019484</tei:idno>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_6674e988eca2870a152f640ea23af1b1">
+                        <placeName>Louchov</placeName>
+                        <placeName type="pref">Laucha</placeName>
+                        <placeName type="alt">Laucha</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.42696 13.19122</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3071570/</idno>
+                    </place>
+                <place xml:id="place_ba6ec62aba9016a406ea334f3e41beaf">
+                        <placeName>Mezilesí u Přísečnice</placeName>
+                        <placeName type="pref">pressnitz [Přísečnice]</placeName>
+                        <placeName type="alt">Preßnitz</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.44201 13.10541</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3070778/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

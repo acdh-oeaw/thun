@@ -79,5 +79,73 @@
                 <p>Dein herzlich ergebener<lb/>Appony</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="apponyi-rudolf">
+                        <persName>
+                            <surname>Apponyi</surname>
+                            <forename>Rudolf</forename>
+                        </persName>
+                        <note>
+                            <p>Karlsruhe 1812–1876 Venedig</p>
+                            <p>ab 1849 österr. Gesandter und bevollmächtigter Minister in Turin, 1854–1856 österr. Gesandter in München, ab 1856 österr. Gesandter in London, ab 1860 Botschafter</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="arndts-carl-ludwig">
+                        <persName>
+                            <surname>Arndts</surname>
+                            <forename>Carl Ludwig</forename>
+                        </persName>
+                        <note>
+                            <p>Arnsberg 1803–1878 Wien</p>
+                            <p>1836 Prof. für Römisches Recht an der Universität Bonn, ab 1838 Prof. für Zivilrecht an der Universität München, 1855–1873 Prof. an der Universität Wien, 1848/49 Mitglied der Frankfurter Nationalversammlung</p>
+                            <p>http://d-nb.info/gnd/100416993</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/100416993</tei:idno>
+                    </person>
+                <person xml:id="zwehl-theodor">
+                        <persName>
+                            <surname>Zwehl</surname>
+                            <forename>Theodor</forename>
+                        </persName>
+                        <note>
+                            <p>Vallendar 1800–1875 München</p>
+                            <p>1849–1864 bayerischer Staatsminister des Inneren, 1852–1864 Minister für Kultus- und Schulangelegenheiten, 1864–1868 Regierungspräsident von Oberfranken, 1870–1875 von Oberbayern</p>
+                            <p>http://d-nb.info/gnd/135932327</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/135932327</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_f1ead991a0ca32b465653b3071c5ea3e">
+                        <placeName>Munich</placeName>
+                        <placeName type="pref">muenchen</placeName>
+                        <placeName type="alt">München</placeName>
+                        <placeName type="alt">Münchner</placeName>
+                        <placeName type="alt">München</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.13743 11.57549</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2867714/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

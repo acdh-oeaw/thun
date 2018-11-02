@@ -117,5 +117,95 @@
                 <p>Lemberg, den 6. Oktober 1860</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="malinowski-michael">
+                        <persName>
+                            <surname>Malinowski</surname>
+                            <forename>Michael</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>rumän. griech.-kath. Priester, bis 1857 Religionslehrer am akademischen Gymnasium in Lemberg, ab 1858 Domherr und Dompfarrer in Lemberg</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="polanski-theodor">
+                        <persName>
+                            <surname>Polański</surname>
+                            <forename>Theodor</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Landesadvokat in Lemberg, ab 1860 außerordentlicher Reichsrat für Galizien und Lodomerien mit Krakau</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="goluchowski-agenor">
+                        <persName>
+                            <surname>Goluchowski</surname>
+                            <forename>Agenor</forename>
+                        </persName>
+                        <note>
+                            <p>Skala Podolska 1812–1875 Lemberg</p>
+                            <p>1849–1859 Statthalter von Galizien, 1859–1860 Minister des Innern</p>
+                            <p>http://d-nb.info/gnd/11676516X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11676516X</tei:idno>
+                    </person>
+                <person xml:id="polanski-tomasz">
+                        <persName>
+                            <surname>Polański</surname>
+                            <forename>Tomasz</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>1860–1867 Bischof von Przemysl</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="czerkawski-eusebius">
+                        <persName>
+                            <surname>Czerkawski</surname>
+                            <forename>Eusebius</forename>
+                        </persName>
+                        <note>
+                            <p>Tuczapy 1822–1896</p>
+                            <p>Lehrer für Humaniora an Gymnasien in Tarnow und Lemberg, ab 1850 Schulrat und Gymnasialinspektor für Ostgalizien und die Bukowina, ab 1860 für Westgalizien, 1859–1892 Prof. für Philosophie an der Universität Lemberg, 1864–1868 Schulinspektor für Steiermark und Kärnten, ab 1868 Landesschulinspektor für Galizien</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_3ff694e5c82611cda53341a9bae21735">
+                        <placeName>lemberg</placeName>
+                        <placeName type="alt">Lemberger</placeName>
+                        <placeName type="alt">Lemberg</placeName>
+                        <placeName type="alt">Leopol</placeName>
+                        <placeName type="alt">Lembergs</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.839444 24.032778</geo>
+                        </location>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

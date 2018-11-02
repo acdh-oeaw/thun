@@ -266,5 +266,163 @@
                 <p>den 22. December 1850 in Wien</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="pavissich-alois-caesar">
+                        <persName>
+                            <surname>Pavissich</surname>
+                            <forename>Alois Cäsar</forename>
+                        </persName>
+                        <note>
+                            <p>Makarska 1823–1905 Görz</p>
+                            <p>Priester, ab 1853 Schulinspektor für Volksschulen in Dalmatien, ab 1858 Schulinspektor für Kärnten, 1860 Volksschuloberaufseher von Triest, Krain, Görz, Gradisca und Istrien</p>
+                            <p>http://d-nb.info/gnd/116069996</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116069996</tei:idno>
+                    </person>
+                <person xml:id="marchich-georg">
+                        <persName>
+                            <surname>Marčić</surname>
+                            <forename>Georg</forename>
+                        </persName>
+                        <note>
+                            <p>Korčula 1815–1879 Kotor</p>
+                            <p>Prof. für Dogmatik in Zara, ab 1868 Bischof von Cattaro</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                        <placeName>Wien</placeName>
+                        <placeName type="alt">Wiener</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">Vienne</placeName>
+                        <placeName type="alt">Viennes</placeName>
+                        <placeName type="alt">Reichsresidenz</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <placeName type="alt">Metropole des Reichs</placeName>
+                        <placeName type="alt">Kaiserhauptstadt</placeName>
+                        <placeName type="alt">Residenz</placeName>
+                        <placeName type="alt">Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt des Reiches</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Hauptstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt Oesterreichs</placeName>
+                        <placeName type="alt">österreichischen Hauptstadt</placeName>
+                        <placeName type="alt">Hauptstadt Oesterreichs</placeName>
+                        <placeName type="alt">Haupt- und die Residenzstadt</placeName>
+                        <placeName type="alt">Haupt- und Residenzstadt der Monarchie</placeName>
+                        <placeName type="alt">Kaiserstadt</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">kaiserlichen Residenz</placeName>
+                        <placeName type="alt">o. O. [Wien]</placeName>
+                        <placeName type="alt">Hauptstadt des Reiches</placeName>
+                        <placeName type="alt">Wiens</placeName>
+                        <placeName type="alt">[Wien]</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.2082 16.37169</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2761367/</idno>
+                    </place>
+                <place xml:id="place_001331e8b2651f9f78991538c3a7e594" type="placeName">
+                        <placeName type="pref">Dalmazien</placeName>
+                        <placeName type="alt">Dalmatien</placeName>
+                        <location>
+                            <geo decls="#LatLng">43.812761 16.218756</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4070200-5</idno>
+                    </place>
+                <place xml:id="place_271d9608b4f6e55e8f4ec78b040ead1a">
+                        <placeName>Zadar</placeName>
+                        <placeName type="pref">Zadar [Zara]</placeName>
+                        <placeName type="alt">Zara</placeName>
+                        <location>
+                            <geo decls="#LatLng">44.11972 15.24222</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3186952/</idno>
+                    </place>
+                <place xml:id="place_709f3a6e556e54e97c8bcc39dade6c1d">
+                        <placeName>Split</placeName>
+                        <placeName type="pref">Spalato [Split]</placeName>
+                        <placeName type="alt">Spalatro</placeName>
+                        <placeName type="alt">Spalato</placeName>
+                        <location>
+                            <geo decls="#LatLng">43.50891 16.43915</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3190261/</idno>
+                    </place>
+                <place xml:id="place_5e257bfe3f70d446cb1b8076406b8992" type="placeName">
+                        <placeName type="pref">Ragusa</placeName>
+                        <placeName type="alt">Ragusa</placeName>
+                    </place>
+                <place xml:id="place_e87174ac7687f387967a32263087cbe6">
+                        <placeName>Kotor</placeName>
+                        <placeName type="pref">Kotor [Cattaro]</placeName>
+                        <placeName type="alt">Cattaro</placeName>
+                        <location>
+                            <geo decls="#LatLng">42.42067 18.76825</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3197538/</idno>
+                    </place>
+                <place xml:id="place_8a08157031453ab42b89526c9e2b33f9">
+                        <placeName>Šibenik [Sebenico]</placeName>
+                        <placeName type="alt">Šibenik</placeName>
+                        <placeName type="alt">Sebenico</placeName>
+                        <location>
+                            <geo decls="#LatLng">43.73573 15.88937</geo>
+                        </location>
+                    </place>
+                <place xml:id="place_921c209c9b5ebdcc9b57748e1811c478">
+                        <placeName>Trogir</placeName>
+                        <placeName type="pref">Trau</placeName>
+                        <placeName type="alt">Trau</placeName>
+                        <location>
+                            <geo decls="#LatLng">43.5125 16.25167</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3188763/</idno>
+                    </place>
+                <place xml:id="place_f06193f640e5297430adc2048009c0c9">
+                        <placeName>Makarska</placeName>
+                        <location>
+                            <geo decls="#LatLng">43.29694 17.01778</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3195890/</idno>
+                    </place>
+                <place xml:id="place_a11e92832204956e09f0ae9c44a3bcad">
+                        <placeName>Hvar</placeName>
+                        <placeName type="pref">Lesina</placeName>
+                        <placeName type="alt">Lesina</placeName>
+                        <location>
+                            <geo decls="#LatLng">43.1725 16.44278</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3199180/</idno>
+                    </place>
+                <place xml:id="place_15a0ef933a83bf985cf85fa23782b42d">
+                        <placeName>Korčula</placeName>
+                        <placeName type="pref">Eurzola</placeName>
+                        <placeName type="alt">Eurzola</placeName>
+                        <location>
+                            <geo decls="#LatLng">42.96038 17.13525</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3197710/</idno>
+                    </place>
+                <place xml:id="place_f7197ed66a15667400bf934725fd7c3c" type="placeName">
+                        <placeName type="pref">Lombardie und
+                            Venedig</placeName>
+                        <placeName type="alt">Lombardo-Venetien</placeName>
+                        <placeName type="alt">lombardisch-venezianischen
+                            Königreichs</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.4375 12.335833</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4215793-6</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

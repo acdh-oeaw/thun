@@ -83,5 +83,50 @@
                 <p>Innsbruck, am 16. November 1860</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="schenkl-karl">
+                        <persName>
+                            <surname>Schenkl</surname>
+                            <forename>Karl</forename>
+                        </persName>
+                        <note>
+                            <p>Brünn 1827–1900 Graz</p>
+                            <p>1851–1858 Lehrer am Gymnasium Prag-Kleinseite, 1858–1863 Prof. für klass. Philologie an der Universität Innsbruck, 1863–1875 Prof. an der Universität Graz, ab 1868 Mitglied der Akademie der Wissenschaften, ab 1875 Prof. an der Universität Wien</p>
+                            <p>http://d-nb.info/gnd/117229938</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117229938</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_aaf49a1292fa1004fcffc4eebe9bdaa0">
+                        <placeName>Innsbruck</placeName>
+                        <placeName type="alt">Insbruck</placeName>
+                        <placeName type="alt">Insprucker</placeName>
+                        <placeName type="alt">Inspruck</placeName>
+                        <placeName type="alt">Innsbrucker</placeName>
+                        <placeName type="alt">hier</placeName>
+                        <placeName type="alt">o. O. [Innsbruck]</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.26266 11.39454</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/2775220/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

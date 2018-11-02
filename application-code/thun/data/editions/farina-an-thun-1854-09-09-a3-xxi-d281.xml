@@ -85,5 +85,64 @@
                 </p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="farina-modesto">
+                        <persName>
+                            <surname>Farina</surname>
+                            <forename>Modesto</forename>
+                        </persName>
+                        <note>
+                            <p>1771–1856</p>
+                            <p>Bischof von Padua</p>
+                            <p>http://d-nb.info/gnd/161100171</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/161100171</tei:idno>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+                <person xml:id="scarpa-vincenzo">
+                        <persName>
+                            <surname>Scarpa</surname>
+                            <forename>Vincenzo</forename>
+                        </persName>
+                        <note>
+                            <p>†1854</p>
+                            <p>Erzpriester in Padua</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_48a09f4956b196a2489d69e3c117000d">
+                        <placeName>Padua</placeName>
+                        <placeName type="alt">Città</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.40797 11.88586</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3171728/</idno>
+                    </place>
+                <place xml:id="place_6379e443edb8331172ed971d4798ccaf">
+                        <placeName>Cittadella</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.64523 11.78453</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3178622/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

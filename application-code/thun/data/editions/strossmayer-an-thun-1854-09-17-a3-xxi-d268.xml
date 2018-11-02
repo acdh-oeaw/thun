@@ -85,5 +85,91 @@
                 <p>Diakovo, den 17. September 1854</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="strossmayer-joseph">
+                        <persName>
+                            <surname>Strossmayer</surname>
+                            <forename>Josip Juraj</forename>
+                        </persName>
+                        <note>
+                            <p>Osijek 1815–1905 Djakovo</p>
+                            <p>1849–1905 Bischof von Djakovo, Bosnien und Syrmien, 1851 apostolischer Administrator für Serbien, 1860–1873 Führer der kroatischen Volkspartei im ungarischen Landtag</p>
+                            <p>http://d-nb.info/gnd/118799185</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118799185</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="bozanic-bartol">
+                        <persName>
+                            <surname>Bozanich</surname>
+                            <forename>Bartholomäus</forename>
+                        </persName>
+                        <note>
+                            <p>Verbenico 1798–1854 Krk</p>
+                            <p>1839–1854 Bischof von Krk (Veglia)</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="soics-venzelaus">
+                        <persName>
+                            <surname>Soics</surname>
+                            <forename>Venceslaus</forename>
+                        </persName>
+                        <note>
+                            <p>k_A</p>
+                            <p>Priester</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="feigerle-ignaz">
+                        <persName>
+                            <surname>Feigerle</surname>
+                            <forename>Ignaz</forename>
+                        </persName>
+                        <note>
+                            <p>Biskupstwo b. Olmütz 1795–1863 Ochsenburg</p>
+                            <p>1828 erster Rektor der neuerrichteten Universität Olmütz, ab 1829 Prof. an der Universität Wien, 1847 Rektor der Universität Wien, ab 1840 Hof- und Burgpfarrer, Vorsteher des Augustineums, Beichtvater des Kaisers, 1851–1863 Bischof von St. Pölten</p>
+                            <p>http://d-nb.info/gnd/116436433</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/116436433</tei:idno>
+                    </person>
+                <person xml:id="widmer-bartolomaeus">
+                        <persName>
+                            <surname>Widmer</surname>
+                            <forename>Bartholomäus</forename>
+                        </persName>
+                        <note>
+                            <p>Krainburg 1802–1883 Laibach</p>
+                            <p>1827 zum Priester geweiht, ab 1838 dritter, später zweiter Studiendirektor im Höheren Weltpriesterinstitut St. Augustin in Wien (Frintaneum), 1859–1872 Bischof von Laibach</p>
+                            <p>http://d-nb.info/gnd/157919714</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/157919714</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_6f861448f4b387a81831495aed4acb74" type="placeName">
+                        <placeName type="pref">Đakovo</placeName>
+                        <placeName type="alt">Đakovo</placeName>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

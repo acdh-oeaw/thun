@@ -187,5 +187,112 @@
                 <p/>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="nadasdy-franz">
+                        <persName>
+                            <surname>Nádasdy</surname>
+                            <forename>Franz Seraphin</forename>
+                        </persName>
+                        <note>
+                            <p>1801–1883 Wien</p>
+                            <p>1857–1860 Justizminister, dann Präsident des Reichsrats, 1861–1865 Hofkanzler für Siebenbürgen</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="goluchowski-agenor">
+                        <persName>
+                            <surname>Goluchowski</surname>
+                            <forename>Agenor</forename>
+                        </persName>
+                        <note>
+                            <p>Skala Podolska 1812–1875 Lemberg</p>
+                            <p>1849–1859 Statthalter von Galizien, 1859–1860 Minister des Innern</p>
+                            <p>http://d-nb.info/gnd/11676516X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11676516X</tei:idno>
+                    </person>
+                <person xml:id="franz-joseph">
+                        <persName>
+                            <surname>Franz Joseph I.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1830–1916 Wien</p>
+                            <p>1848–1916 Kaiser von Österreich und Apostolischer König von Ungarn</p>
+                            <p>http://d-nb.info/gnd/118535013</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118535013</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_4ec4d4015169a4209797da17b240c7c3">
+                        <placeName>Galicia</placeName>
+                        <placeName type="pref">Galizien</placeName>
+                        <placeName type="alt">Galicien</placeName>
+                        <placeName type="alt">Galizien</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.5 23.0</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/562153/</idno>
+                    </place>
+                <place xml:id="place_601df943a89d2ac73e0e43a5d37fc228">
+                        <placeName type="pref">Ungarn</placeName>
+                        <placeName type="alt">Ungarns</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.0 20.0</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/719819/</idno>
+                    </place>
+                <place xml:id="place_45e0bb0b029ff4919974c4717bb7a4b4" type="placeName">
+                        <placeName type="pref">Siebenbürgen</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.5 25</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4054835-1</idno>
+                    </place>
+                <place xml:id="place_35d1161cc45f7c1d2b14ff99f1d259a3" type="placeName">
+                        <placeName type="pref">Serbisch-Banater
+                            Wojwodschaft</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.756111 21.229444</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/400449-8</idno>
+                    </place>
+                <place xml:id="place_67da62b6c19004082b6c987162d5c7d3" type="placeName">
+                        <placeName type="pref">Szeckler [Szekler]
+                            Land</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.533333 24.566667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4118933-4</idno>
+                    </place>
+                <place xml:id="place_6244fbb7edb0da394fbfed3800b4c36d">
+                        <placeName>Hermannstadt</placeName>
+                        <placeName type="pref">hermannstadt [Sibiu]</placeName>
+                        <placeName type="alt">Hermannstädter</placeName>
+                        <placeName type="alt">Hermanstadt</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.8 24.15</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/667268/</idno>
+                    </place>
+                <place xml:id="place_3b202c11c9eb9f8d289acdb678dbc975">
+                        <placeName>Temeswar</placeName>
+                        <placeName type="pref">Temeswar [Timișoara]</placeName>
+                        <placeName type="alt">Temeschwar</placeName>
+                        <placeName type="alt">Temesvar</placeName>
+                        <placeName type="alt">Temesvár</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.75372 21.22571</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/665087/</idno>
+                        <idno>http://d-nb.info/gnd/1015055-9</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

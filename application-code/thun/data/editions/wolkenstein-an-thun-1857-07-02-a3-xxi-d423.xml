@@ -173,5 +173,65 @@
                 <p>Brunnersdorf 2/7 1857</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="wolkenstein-karl">
+                        <persName>
+                            <surname>Wolkenstein-Trostburg</surname>
+                            <forename>Karl Friedrich Otto</forename>
+                        </persName>
+                        <note>
+                            <p>Passau 1802–1875 Teplitz</p>
+                            <p>bis 1848 Richter, zuletzt Präsident des Landrechts in Brünn, 1848 Rückzug ins Privatleben, 1860 Mitglied des verstärkten Reichsrats</p>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="lacordaire-jean-baptiste">
+                        <persName>
+                            <surname>Lacordaire</surname>
+                            <forename>Jean Baptiste Henri OP</forename>
+                        </persName>
+                        <note>
+                            <p>Recey-sur-Ource 1802–1861 Sorèze</p>
+                            <p>Priester, bekannter Prediger, ab 1850 Provinzial des Dominikanerordens in Frankreich</p>
+                            <p>http://d-nb.info/gnd/118974742</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118974742</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_856c6e6d864e89a9e54edf46d1f5a8b2">
+                        <placeName>Prunéřov</placeName>
+                        <placeName type="pref">Brunnersdorf [Prunéřov]</placeName>
+                        <placeName type="alt">Brunnersdorf</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.40067 13.27796</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3067382/</idno>
+                    </place>
+                <place xml:id="place_37a6d7a71c4f7c2469e4f01b70dd90c2">
+                        <placeName>Kadaň</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.38333 13.26667</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3074020/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>

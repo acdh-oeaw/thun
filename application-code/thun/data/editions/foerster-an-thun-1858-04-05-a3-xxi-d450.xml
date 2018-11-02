@@ -118,5 +118,149 @@
                 <p>Breslau, den 5. April 1858</p>
             </div>
         </body>
+    <back>
+            <listPerson>
+                <person xml:id="foerster-heinrich">
+                        <persName>
+                            <surname>Förster</surname>
+                            <forename>Heinrich</forename>
+                        </persName>
+                        <note>
+                            <p>Glogau 1799–1881 Johannesberg</p>
+                            <p>1853–1881 Fürstbischof von Breslau</p>
+                            <p>http://d-nb.info/gnd/11879826X</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/11879826X</tei:idno>
+                    </person>
+                <person xml:id="thun-hohenstein-leo">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Leo (Leopold)</forename>
+                        </persName>
+                        <note>
+                            <p>Tetschen 1811–1888 Wien</p>
+                            <p>1848 Gubernialpräsident von Böhmen, 1849–1860 Minister für Kultus und Unterricht, ab 1861 Mitglied des Herrenhauses, Herausgeber der Zeitung "Das Vaterland"</p>
+                            <p>http://d-nb.info/gnd/118757393</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118757393</tei:idno>
+                    </person>
+                <person xml:id="geisler">
+                        <persName>
+                            <surname>Geisler</surname>
+                            <forename>Julius</forename>
+                        </persName>
+                        <note>
+                            <p>Pastor und Schuldirektor.</p>
+                            <p/>
+                            <p>no gnd provided</p>
+                            <p>k_A</p>
+                        </note>
+                    </person>
+                <person xml:id="benedikt-XIV">
+                        <persName>
+                            <surname>Benedikt XIV.</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p>Bologna 1675–1758 Rom</p>
+                            <p>1740–1758 Papst</p>
+                            <p>http://d-nb.info/gnd/118655434</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/118655434</tei:idno>
+                    </person>
+                <person xml:id="fuerstenberg-friedrich-egon">
+                        <persName>
+                            <surname>Fürstenberg</surname>
+                            <forename>Friedrich Egon</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1813–1892 Hochwald</p>
+                            <p>1853–1892 Erzbischof von Olmütz, ab 1879 Kardinal</p>
+                            <p>http://d-nb.info/gnd/129767638</p>
+                            <p>k_A</p>
+                        </note>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/129767638</tei:idno>
+                    </person>
+            </listPerson>
+            <listPlace>
+                <place xml:id="place_60960432acfa4972c8f13dd89a872920">
+                        <placeName>Breslau</placeName>
+                        <placeName type="alt">Breslauer</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.10773 17.03533</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/7531292/</idno>
+                    </place>
+                <place xml:id="place_67eb2b8d0aab60ec69666532ff9527c9" type="placeName">
+                        <placeName type="pref">Holland</placeName>
+                        <location>
+                            <geo decls="#LatLng">52.25 4.667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4133959-9</idno>
+                    </place>
+                <place xml:id="place_033ae4ddfe8d381fa5ee82ab6aae2833" type="placeName">
+                        <placeName type="pref">Schlesien</placeName>
+                        <placeName type="alt">Schlesiens</placeName>
+                        <location>
+                            <geo decls="#LatLng">51 18</geo>
+                        </location>
+                        <idno>http://www.geonames.org/3066138</idno>
+                    </place>
+                <place xml:id="place_d4ec090cfd48a471d8eadbce16f43c0c">
+                        <placeName>Opava</placeName>
+                        <placeName type="pref">Troppau [Opava]</placeName>
+                        <placeName type="alt">Troppau</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.93866 17.90257</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/1028714-0</idno>
+                        <idno>http://sws.geonames.org/3068927/</idno>
+                    </place>
+                <place xml:id="place_eb98342f44d3c6fb447ad2a3264157f7">
+                        <placeName>Krnov</placeName>
+                        <placeName type="pref">jaegerndorf</placeName>
+                        <placeName type="alt">Jägerndorf</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.08967 17.70385</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3072656/</idno>
+                    </place>
+                <place xml:id="place_a711b0a299433d08b5b1118edfa2808a">
+                        <placeName>Cieszyn</placeName>
+                        <placeName type="pref">Teschen [Cieszyn]</placeName>
+                        <placeName type="alt">Teschens</placeName>
+                        <placeName type="alt">Teschner</placeName>
+                        <placeName type="alt">Teschen</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.74922 18.63178</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/5311974-5</idno>
+                        <idno>http://sws.geonames.org/7532301/</idno>
+                    </place>
+                <place xml:id="place_8b000b8c3ddd9700b95cdddd2ef491bc">
+                        <placeName>Javorník</placeName>
+                        <placeName type="pref">Johannesberg bei Jauernig [Javorník]</placeName>
+                        <placeName type="alt">Johannesberg bei Jauernig</placeName>
+                        <placeName type="alt">Schloss Johannesberg</placeName>
+                        <placeName type="alt">Johannesberg</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.39077 17.00272</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3074398/</idno>
+                    </place>
+                <place xml:id="place_163fb009e68a04dc0ef1d258ab53c4e3">
+                        <placeName>Zlaté Hory</placeName>
+                        <placeName type="pref">Zuckmantel [Zlaté Hory]</placeName>
+                        <placeName type="alt">Zuckmantel</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.2638 17.39602</geo>
+                        </location>
+                        <idno>http://sws.geonames.org/3061393/</idno>
+                    </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>
