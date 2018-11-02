@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns="http://www.w3.org/1999/xhtml" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="tei" version="2.0">
     <xsl:param name="entiyID"/>
-    <xsl:template match="/"><!-- Modal -->
+    <xsl:variable name="selflink">
+        <xsl:value-of select="string-join(('../../../../exist/restxq/thun/api/entities', $entiyID), '/')"/>
+    </xsl:variable>
+    <xsl:variable name="mentions">
+        <xsl:value-of select="string-join(('hits.html?searchkey', $entiyID), '=')"/>
+    </xsl:variable>
+    <xsl:template match="/">
         <div class="modal" id="myModal" role="dialog">
-            <div class="modal-dialog"><!-- Modal content-->
+            <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="modal-header">
                         <button type="button" class="close" data-dismiss="modal">
@@ -45,21 +51,11 @@
                                             </a>
                                         </td>
                                     </tr>
-                                    <tr>
-                                        <th>Erwähnt in weiteren Dokument</th>
-                                        <td>
-                                            <a>
-                                                <xsl:attribute name="href">
-                                                    <xsl:value-of select="concat('hits.html?searchkey=', $entiyID)"/>
-                                                </xsl:attribute>
-                                                <xsl:attribute name="target">_blank</xsl:attribute>
-                                                klicke hier
-                                            </a>
-                                        </td>
-                                    </tr>
                                 </xsl:when>
                             </xsl:choose>
                         </table>
+                        <a href="{$selflink}" class="btn btn-info" role="button">TEI</a>
+                        <a href="{$mentions}" class="btn btn-info" role="button">weitere Erwähnungen</a>
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>

@@ -7,6 +7,8 @@
     <xsl:param name="path2source"/>
     <xsl:param name="ref"/>
     <xsl:param name="searchkey"/>
+    <xsl:param name="prev"/>
+    <xsl:param name="next"/>
     <xsl:variable name="hashedSearchkey">
         <xsl:value-of select="concat('#',$searchkey)"/>
     </xsl:variable>
@@ -17,12 +19,41 @@
 -->
     <xsl:template match="/">
         <div class="page-header">
-            <h2 align="center">
-                <xsl:for-each select="//tei:fileDesc/tei:titleStmt/tei:title">
-                    <xsl:apply-templates/>
-                    <br/>
-                </xsl:for-each>
-            </h2>
+            <div class="row">
+                <div class="col-md-2">
+                    <xsl:if test="$prev">
+                        <h3>
+                            <a>
+                                <xsl:attribute name="href">
+                                    <xsl:value-of select="$prev"/>
+                                </xsl:attribute>
+                                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true" title="prev"/>
+                            </a>
+                        </h3>
+                    </xsl:if>
+                </div>
+                <div class="col-md-8">
+                    <h2 align="center">
+                        <xsl:for-each select="//tei:fileDesc/tei:titleStmt/tei:title">
+                            <xsl:apply-templates/>
+                            <br/>
+                        </xsl:for-each>
+                    </h2>
+                </div>
+                <div class="col-md-2" style="text-align:right">
+                    <xsl:if test="$next">
+                        <h3>
+                            <a>
+                                <xsl:attribute name="href">
+                                    <xsl:value-of select="$next"/>
+                                </xsl:attribute>
+                                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true" title="next"/>
+                            </a>
+                        </h3>
+                    </xsl:if>
+                </div>
+            </div>
+            
         </div>
         <div class="regest">
             <div class="panel panel-default">
@@ -116,7 +147,7 @@
                             </xsl:if>
                             <tr>
                                 <th>Transkription und Kodierung</th>
-                                <td>Dieses Dokument wurde von<a href="https://www.uibk.ac.at/geschichte-ethnologie/mitarbeiterinnen/projekt/aichner-christof/">Christof Aichner</a>und <a href="http://thun-korrespondenz.uibk.ac.at/?page_id=38">Tanja Kraler</a>transkribiert und nach XML/TEI kodiert.
+                                <td>Dieses Dokument wurde von <a href="https://www.uibk.ac.at/geschichte-ethnologie/mitarbeiterinnen/projekt/aichner-christof/">Christof Aichner</a> und <a href="http://thun-korrespondenz.uibk.ac.at/?page_id=38">Tanja Kraler</a> transkribiert und nach XML/TEI kodiert.
                                 </td>
                             </tr>
                             <xsl:if test="//tei:titleStmt/tei:respStmt">
@@ -221,7 +252,6 @@
                     </xsl:for-each>
                 </p>
             </div>
-            <script type="text/javascript">// creates a link to the xml version of the current docuemnt available via eXist-db's REST-API var params={}; window.location.search .replace(/[?&amp;]+([^=&amp;]+)=([^&amp;]*)/gi, function(str,key,value) { params[key] = value; } ); var path = window.location.origin+window.location.pathname; var replaced = path.replace("exist/apps/", "exist/rest/db/apps/"); current_html = window.location.pathname.substring(window.location.pathname.lastIndexOf("/") + 1) var source_dokument = replaced.replace("pages/"+current_html, "data/editions/"+params['document']); // console.log(source_dokument) $( "#link_to_source" ).attr('href',source_dokument); $( "#link_to_source" ).text(source_dokument);  </script>
         </div>
     </xsl:template>
     <!--

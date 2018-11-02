@@ -45,12 +45,36 @@ declare function functx:substring-after-last
    else ''
  } ;
  
- declare function functx:capitalize-first
+declare function functx:capitalize-first
   ( $arg as xs:string? )  as xs:string? {
 
    concat(upper-case(substring($arg,1,1)),
              substring($arg,2))
- } ;
+ };
+
+
+(:~
+ : returns the names of the previous, current and next document  
+:)
+
+declare function app:next-doc($collection as xs:string, $current as xs:string) {
+let $all := sort(xmldb:get-child-resources($collection))
+let $currentIx := index-of($all, $current)
+let $prev := if ($currentIx > 1) then $all[$currentIx - 1] else false()
+let $next := if ($currentIx < count($all)) then $all[$currentIx + 1] else false()
+return 
+    ($prev, $current, $next)
+};
+
+declare function app:doc-context($collection as xs:string, $current as xs:string) {
+let $all := sort(xmldb:get-child-resources($collection))
+let $currentIx := index-of($all, $current)
+let $prev := if ($currentIx > 1) then $all[$currentIx - 1] else false()
+let $next := if ($currentIx < count($all)) then $all[$currentIx + 1] else false()
+let $amount := count($all)
+return 
+    ($prev, $current, $next, $amount, $currentIx)
+};
 
 declare function app:fetchEntity($ref as xs:string){
     let $entity := collection($config:app-root||'/data/indices')//*[@xml:id=$ref]
@@ -330,12 +354,17 @@ let $xml := doc(replace(concat($config:app-root,'/data/', $xmlPath, $ref), '/exi
 let $xslPath := concat(xs:string(request:get-parameter("stylesheet", "xmlToHtml")), '.xsl')
 let $xsl := doc(replace(concat($config:app-root,'/resources/xslt/', $xslPath), '/exist/', '/db/'))
 let $collection := functx:substring-after-last(util:collection-name($xml), '/')
-let $path2source := string-join(('../../../../exist/restxq', 'thun-korrespondenz/api/collections', $collection, $ref), '/')
+let $neighbors := app:doc-context(util:collection-name($xml), $ref)
+let $prev := if($neighbors[1]) then 'show.html?document='||$neighbors[1]||'&amp;directory='||$collection else ()
+let $next := if($neighbors[3]) then 'show.html?document='||$neighbors[3]||'&amp;directory='||$collection else ()
+let $path2source := string-join(('../../../../exist/restxq', 'thun/api/collections', $collection, $ref), '/')
 let $params := 
 <parameters>
     <param name="app-name" value="{$config:app-name}"/>
     <param name="collection-name" value="{$collection}"/>
     <param name="path2source" value="{$path2source}"/>
+    <param name="prev" value="{$prev}"/>
+    <param name="next" value="{$next}"/>
    {for $p in request:get-parameter-names()
     let $val := request:get-parameter($p,())
    (: where  not($p = ("document","directory","stylesheet")):)
