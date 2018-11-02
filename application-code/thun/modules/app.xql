@@ -119,6 +119,9 @@ declare function app:nameOfIndexEntry($node as node(), $model as map (*)){
         else if (contains(node-name($hit), 'place'))
         then
             <a class="reference" data-type="listplace.xml" data-key="{$searchkey}">{normalize-space(string-join($hit/tei:placeName[1], ', '))}</a>
+        else if (contains(node-name($hit), 'org'))
+        then
+            <a class="reference" data-type="listorg.xml" data-key="{$searchkey}">{normalize-space(string-join($hit/tei:orgName[1], ', '))}</a>
         else
             functx:capitalize-first($searchkey)
     return
