@@ -34,7 +34,8 @@ let $RDF :=
                 let $collName := tokenize($collID, '/')[last()]
                 let $collection-uri := $app:data||'/'||$collName
                 let $document-names := xmldb:get-child-resources($collection-uri)
-                for $doc in $document-names
+                let $sample := subsequence($document-names, 1, 30)
+                for $doc in $sample
                 let $resID := string-join(($collection-uri, $doc), '/')
                 let $node := try {
                         doc($resID)
@@ -53,6 +54,41 @@ let $RDF :=
                
                let $description := if ($node//tei:msContents//text()) then
                     <acdh:hasDescription>{normalize-space(string-join($node//tei:msContents//text()))}</acdh:hasDescription>
+                    else ()
+               let $persons := if($collName = 'editions') then
+                    for $per in $node//tei:listPerson//tei:person[./tei:idno[@type="URL"]]
+                         let $pername := $per//tei:surname[1]/text()
+                         let $firstname := $per//tei:forename[1]/text()
+                         let $perID := $per//tei:idno[@type="URL"][1]
+                         return
+                             <acdh:hasActor>
+                                 <acdh:Person rdf:about="{$perID}">
+                                     <acdh:hasLastName>{$pername}</acdh:hasLastName>
+                                     <acdh:hasFirstName>{$firstname}</acdh:hasFirstName>
+                                 </acdh:Person>
+                             </acdh:hasActor>
+                    else ()
+                let $places := if($collName = 'editions') then
+                    for $item in $node//tei:listPlace//tei:place[./tei:idno]
+                         let $placename := $item//tei:placeName[1]/text()
+                         let $itemID := $item//tei:idno[1]
+                         return
+                             <acdh:hasSpatialCoverage>
+                                 <acdh:Place rdf:about="{$itemID}">
+                                     <acdh:hasTitle>{$placename}</acdh:hasTitle>
+                                 </acdh:Place>
+                             </acdh:hasSpatialCoverage>
+                    else ()
+                let $orgs := if($collName = 'editions') then
+                    for $item in $node//tei:listOrg//tei:org[./tei:idno[@subtype='GND']/text()]
+                         let $itemname := $item//tei:orgName[1]/text()
+                         let $itemID := $item//tei:idno[1]
+                         return
+                             <acdh:hasActor>
+                                 <acdh:Organisation rdf:about="{$itemID}">
+                                     <acdh:hasTitle>{$itemname}</acdh:hasTitle>
+                                 </acdh:Organisation>
+                             </acdh:hasActor>
                     else ()
                 let $author := 
                         if($collName = "editions") then 
@@ -107,6 +143,9 @@ let $RDF :=
                         {$title}
                         {$startDate}
                         {$description}
+                        {$persons}
+                        {$places}
+                        {$orgs}
                         {for $x in $author//acdh:hasAuthor return $x}
                         <acdh:isPartOf rdf:resource="{$collID}"/>
                     </acdh:Resource>

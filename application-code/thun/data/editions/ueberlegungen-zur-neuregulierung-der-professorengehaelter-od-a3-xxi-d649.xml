@@ -275,6 +275,60 @@
                     <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URL">http://d-nb.info/gnd/117051845</tei:idno>
                     </person>
             </listPerson>
+            <listOrg>
+                <org xml:id="org_0018">
+                        <orgName>Universität Wien</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2024703-5</idno>
+                    </org>
+                <org xml:id="org_0017">
+                        <orgName>Universität Prag</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/16149137-6</idno>
+                    </org>
+                <org xml:id="org_0021">
+                        <orgName>Universität Lemberg</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/66083-8</idno>
+                    </org>
+                <org xml:id="org_0023">
+                        <orgName>Universität Krakau</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1012007-5</idno>
+                    </org>
+                <org xml:id="org_0047">
+                        <orgName>Universität Olmütz</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1029776-5</idno>
+                    </org>
+                <org xml:id="org_0026">
+                        <orgName>Universität Graz</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/36157-4</idno>
+                    </org>
+                <org xml:id="org_0020">
+                        <orgName>Universität Innsbruck</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/36165-3</idno>
+                    </org>
+                <org xml:id="org_0008">
+                        <orgName>Universität Pest</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/83557-2</idno>
+                    </org>
+                <org xml:id="org_0085">
+                        <orgName>chirurgische Lehranstalt Lemberg</orgName>
+                        <idno type="URL" subtype="GND"/>
+                    </org>
+                <org xml:id="org_0086">
+                        <orgName>chirurgische Lehranstalt Olmütz</orgName>
+                        <idno type="URL" subtype="GND"/>
+                    </org>
+                <org xml:id="org_0087">
+                        <orgName>chirurgische Lehranstalt Gratz</orgName>
+                        <idno type="URL" subtype="GND"/>
+                    </org>
+                <org xml:id="org_0088">
+                        <orgName>chirurgische Lehranstalt Innsbruck</orgName>
+                        <idno type="URL" subtype="GND"/>
+                    </org>
+                <org xml:id="org_0077">
+                        <orgName>Medizinisch-chirurgische Lehranstalt Salzburg</orgName>
+                        <idno type="URL" subtype="GND"/>
+                    </org>
+            </listOrg>
         </back>
     </text>
 </TEI>

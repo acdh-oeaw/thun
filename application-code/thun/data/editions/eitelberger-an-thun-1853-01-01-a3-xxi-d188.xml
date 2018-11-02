@@ -814,6 +814,20 @@
                         <idno>http://d-nb.info/gnd/4027833-5</idno>
                     </place>
             </listPlace>
+            <listOrg>
+                <org xml:id="org_0069">
+                        <orgName>k.k. Akademie der bildenden Künste Wien</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2003761-2</idno>
+                    </org>
+                <org xml:id="org_0018">
+                        <orgName>Universität Wien</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2024703-5</idno>
+                    </org>
+                <org xml:id="org_0005">
+                        <orgName>k.k. Ministerium für Kultus und Unterricht</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1086824806</idno>
+                    </org>
+            </listOrg>
         </back>
     </text>
 </TEI>

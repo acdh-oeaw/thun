@@ -612,6 +612,20 @@
                         <idno>http://sws.geonames.org/3046431/</idno>
                     </place>
             </listPlace>
+            <listOrg>
+                <org xml:id="org_0001">
+                        <orgName>Rechtsakademie Hermannstadt</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/5029374-6</idno>
+                    </org>
+                <org xml:id="org_0056">
+                        <orgName>Universität Klausenburg</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/5058130-2</idno>
+                    </org>
+                <org xml:id="org_0018">
+                        <orgName>Universität Wien</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2024703-5</idno>
+                    </org>
+            </listOrg>
         </back>
     </text>
 </TEI>

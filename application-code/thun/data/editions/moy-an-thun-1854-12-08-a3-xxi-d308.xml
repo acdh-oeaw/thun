@@ -247,6 +247,20 @@
                         <placeName type="alt">Österreich</placeName>
                     </place>
             </listPlace>
+            <listOrg>
+                <org xml:id="org_0020">
+                        <orgName>Universität Innsbruck</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/36165-3</idno>
+                    </org>
+                <org xml:id="org_0003">
+                        <orgName>Universität Padua</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1011210-8</idno>
+                    </org>
+                <org xml:id="org_0002">
+                        <orgName>Universität Pavia</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/40464-0</idno>
+                    </org>
+            </listOrg>
         </back>
     </text>
 </TEI>

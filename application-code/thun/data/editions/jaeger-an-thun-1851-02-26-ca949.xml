@@ -236,6 +236,24 @@
                         <placeName type="alt">Österreich</placeName>
                     </place>
             </listPlace>
+            <listOrg>
+                <org xml:id="org_0020">
+                        <orgName>Universität Innsbruck</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/36165-3</idno>
+                    </org>
+                <org xml:id="org_0048">
+                        <orgName>Meraner Gymnasium</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/7521530-5</idno>
+                    </org>
+                <org xml:id="org_0015">
+                        <orgName>kaiserliche Akademie der Wissenschaften</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/110494894X</idno>
+                    </org>
+                <org xml:id="org_0050">
+                        <orgName>k. baierische Akademie der Wissenschaften</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2005521-3</idno>
+                    </org>
+            </listOrg>
         </back>
     </text>
 </TEI>

@@ -1238,6 +1238,24 @@
                         <idno>http://sws.geonames.org/3168854/</idno>
                     </place>
             </listPlace>
+            <listOrg>
+                <org xml:id="org_0003">
+                        <orgName>Universität Padua</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1011210-8</idno>
+                    </org>
+                <org xml:id="org_0071">
+                        <orgName>Seminario Principesco Vescovile</orgName>
+                        <idno type="URL" subtype="GND"/>
+                    </org>
+                <org xml:id="org_0005">
+                        <orgName>k.k. Ministerium für Kultus und Unterricht</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1086824806</idno>
+                    </org>
+                <org xml:id="org_0072">
+                        <orgName>Deutscher Bund</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/4011750-9</idno>
+                    </org>
+            </listOrg>
         </back>
     </text>
 </TEI>

@@ -333,6 +333,24 @@
                         <idno>http://sws.geonames.org/2775220/</idno>
                     </place>
             </listPlace>
+            <listOrg>
+                <org xml:id="org_0020">
+                        <orgName>Universität Innsbruck</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/36165-3</idno>
+                    </org>
+                <org xml:id="org_0018">
+                        <orgName>Universität Wien</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2024703-5</idno>
+                    </org>
+                <org xml:id="org_0048">
+                        <orgName>Meraner Gymnasium</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/7521530-5</idno>
+                    </org>
+                <org xml:id="org_0049">
+                        <orgName>Stift Marienberg</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2165566-2</idno>
+                    </org>
+            </listOrg>
         </back>
     </text>
 </TEI>

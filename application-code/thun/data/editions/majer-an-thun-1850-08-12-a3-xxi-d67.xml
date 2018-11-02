@@ -737,6 +737,24 @@
                         <idno>http://sws.geonames.org/7531836/</idno>
                     </place>
             </listPlace>
+            <listOrg>
+                <org xml:id="org_0023">
+                        <orgName>Universität Krakau</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1012007-5</idno>
+                    </org>
+                <org xml:id="org_0027">
+                        <orgName>Universität Berlin</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1016783-3</idno>
+                    </org>
+                <org xml:id="org_0025">
+                        <orgName>Universität Heidelberg</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2024349-2</idno>
+                    </org>
+                <org xml:id="org_0024">
+                        <orgName>Warschauer Realgymnasium</orgName>
+                        <idno type="URL" subtype="GND"/>
+                    </org>
+            </listOrg>
         </back>
     </text>
 </TEI>

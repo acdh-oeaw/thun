@@ -338,6 +338,20 @@
                         <idno>http://sws.geonames.org/2771277/</idno>
                     </place>
             </listPlace>
+            <listOrg>
+                <org xml:id="org_0102">
+                        <orgName>Cisterzienserstift Engelszell</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1224816-2</idno>
+                    </org>
+                <org xml:id="org_0103">
+                        <orgName>Gustav-Adolph-Verein</orgName>
+                        <idno type="URL" subtype="GND"/>
+                    </org>
+                <org xml:id="org_0104">
+                        <orgName>Stift Schlägl</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/2002080-6</idno>
+                    </org>
+            </listOrg>
         </back>
     </text>
 </TEI>

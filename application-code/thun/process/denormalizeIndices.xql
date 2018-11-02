@@ -44,7 +44,7 @@ for $x in collection($app:editions)//tei:TEI
     
     let $validlistperson := if ($listperson/tei:person) then $listperson else ()
     let $validlistplace := if ($listplace/tei:place) then $listplace else ()
-    let $validlistorg := if ($listorg/tei:place) then $listorg else ()
+    let $validlistorg := if ($listorg/tei:org) then $listorg else ()
 
     let $back := 
     <back xmlns="http://www.tei-c.org/ns/1.0">
