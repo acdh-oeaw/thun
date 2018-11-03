@@ -25,6 +25,8 @@ let $RDF :=
         xmlns:acdhi="https://id.acdh.oeaw.ac.at/"
         xmlns:foaf="http://xmlns.com/foaf/spec/#"
         xml:base="https://id.acdh.oeaw.ac.at/">
+        
+        
             {$project}
             {$topCollection}
             {$childCollections}
@@ -34,8 +36,8 @@ let $RDF :=
                 let $collName := tokenize($collID, '/')[last()]
                 let $collection-uri := $app:data||'/'||$collName
                 let $document-names := xmldb:get-child-resources($collection-uri)
-                let $sample := subsequence($document-names, 1, 30)
-                for $doc in $sample
+                let $sample := subsequence($document-names, 1, 10)
+                for $doc in $document-names
                 let $resID := string-join(($collection-uri, $doc), '/')
                 let $node := try {
                         doc($resID)
@@ -90,6 +92,20 @@ let $RDF :=
                                  </acdh:Organisation>
                              </acdh:hasActor>
                     else ()
+                
+                let $next :=
+                    if(data($node/tei:TEI/@prev)) then
+                        <acdh:continues rdf:resource="{data($node/tei:TEI/@next)}"/>
+                    else
+                        ()
+                
+                let $prev :=
+                    if(data($node/tei:TEI/@next)) then
+                        <acdh:isContinuedBy rdf:resource="{data($node/tei:TEI/@prev)}"/>
+                    else
+                        ()
+                    
+                
                 let $author := 
                         if($collName = "editions") then 
                         <acdh:authors>
@@ -147,6 +163,8 @@ let $RDF :=
                         {$places}
                         {$orgs}
                         {for $x in $author//acdh:hasAuthor return $x}
+                        {$prev}
+                        {$next}
                         <acdh:isPartOf rdf:resource="{$collID}"/>
                     </acdh:Resource>
         }
