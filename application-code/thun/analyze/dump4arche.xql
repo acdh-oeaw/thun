@@ -37,7 +37,7 @@ let $RDF :=
                 let $collection-uri := $app:data||'/'||$collName
                 let $document-names := xmldb:get-child-resources($collection-uri)
                 let $sample := subsequence($document-names, 1, 5)
-                for $doc in $sample
+                for $doc in $document-names
                 let $resID := string-join(($collection-uri, $doc), '/')
                 let $node := try {
                         doc($resID)
