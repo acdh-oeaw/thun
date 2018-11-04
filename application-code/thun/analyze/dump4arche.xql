@@ -36,8 +36,8 @@ let $RDF :=
                 let $collName := tokenize($collID, '/')[last()]
                 let $collection-uri := $app:data||'/'||$collName
                 let $document-names := xmldb:get-child-resources($collection-uri)
-                let $sample := subsequence($document-names, 1, 10)
-                for $doc in $document-names
+                let $sample := subsequence($document-names, 1, 5)
+                for $doc in $sample
                 let $resID := string-join(($collection-uri, $doc), '/')
                 let $node := try {
                         doc($resID)
@@ -94,14 +94,14 @@ let $RDF :=
                     else ()
                 
                 let $next :=
-                    if(data($node/tei:TEI/@prev)) then
-                        <acdh:continues rdf:resource="{data($node/tei:TEI/@next)}"/>
+                    if(exists($node/tei:TEI/@prev)) then
+                        <acdh:continues rdf:resource="{data($node/tei:TEI/@prev)}"/>
                     else
                         ()
                 
                 let $prev :=
-                    if(data($node/tei:TEI/@next)) then
-                        <acdh:isContinuedBy rdf:resource="{data($node/tei:TEI/@prev)}"/>
+                    if(exists($node/tei:TEI/@next)) then
+                        <acdh:isContinuedBy rdf:resource="{data($node/tei:TEI/@next)}"/>
                     else
                         ()
                     
