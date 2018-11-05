@@ -68,6 +68,7 @@
         <acdh:hasTitle>Thun Collection</acdh:hasTitle>
         <acdh:hasDescription>The "Thun Collection" contains all XML/TEI encoded data created in the project "Thun-Hohenstein´sche Bildungsreform in Österreich 1849-60"</acdh:hasDescription>
         <acdh:hasRelatedProject rdf:resource="https://id.acdh.oeaw.ac.at/thun/project"/>
+        <acdh:hasLicense rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
         <acdh:hasContact>
             <acdh:Person rdf:about="http://d-nb.info/gnd/129199176"/>
         </acdh:hasContact>
@@ -89,6 +90,7 @@
     </acdh:Collection>
     
     <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/thun/meta">
+        <acdh:hasLicense rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
         <acdh:hasTitle>Meta</acdh:hasTitle>
         <acdh:hasDescription>Contains information about thun</acdh:hasDescription>
         <acdh:hasCreator>
@@ -100,6 +102,7 @@
         <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/thun"/>
     </acdh:Collection>
     <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/thun/editions">
+        <acdh:hasLicense rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
         <acdh:hasTitle>Editions</acdh:hasTitle>
         <acdh:hasDescription>Collection of XML/TEI documents gathered in thun</acdh:hasDescription>
         <acdh:hasCreator>
@@ -114,6 +117,7 @@
         <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/thun"/>
     </acdh:Collection>
     <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/thun/indices">
+        <acdh:hasLicense rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
         <acdh:hasTitle>Indices</acdh:hasTitle>
         <acdh:hasDescription>Collection indices/register documents describing entities mentioned in thun</acdh:hasDescription>
         <acdh:hasCreator>
@@ -130,5 +134,21 @@
         </acdh:hasContributor>
         <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/thun"/>
     </acdh:Collection>
+    <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/thun/utils">
+        <acdh:hasLicense rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+        <acdh:hasTitle>Utility Files</acdh:hasTitle>
+        <acdh:hasDescription>XML-Schema and XSL-Stylesheets used to validate and transform XML/TEI documents stored in collection Editions</acdh:hasDescription>
+        <acdh:hasCreator>
+            <acdh:Person rdf:about="http://d-nb.info/gnd/1043833846"/>
+        </acdh:hasCreator>
+        <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/thun"/>
+    </acdh:Collection>
     
+    <acdh:Resource rdf="https://id.acdh.oeaw.ac.at/thun/utils/tei2html.xsl">
+        <acdh:hasTitle>XSL to transform XML/TEI to HTML</acdh:hasTitle>
+        <acdh:hasCreator>
+            <acdh:Person rdf:about="http://d-nb.info/gnd/1043833846"/>
+        </acdh:hasCreator>
+        <acdh:hasLicense rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+    </acdh:Resource>
 </rdf:RDF>

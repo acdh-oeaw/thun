@@ -14,6 +14,7 @@ let $about := doc($app:data||'/project.rdf')/rdf:RDF
 let $project := $about//acdh:Project[1]
 let $topCollection := $about//acdh:Collection[not(acdh:isPartOf)]
 let $childCollections := $about//acdh:Collection[acdh:isPartOf]
+let $customResources := $about//acdh:Resource
 
 
 let $baseID := 'https://id.acdh.oeaw.ac.at/'
@@ -37,7 +38,7 @@ let $RDF :=
                 let $collection-uri := $app:data||'/'||$collName
                 let $document-names := xmldb:get-child-resources($collection-uri)
                 let $sample := subsequence($document-names, 1, 5)
-                for $doc in $document-names
+                for $doc in $sample
                 let $resID := string-join(($collection-uri, $doc), '/')
                 let $node := try {
                         doc($resID)
@@ -154,7 +155,8 @@ let $RDF :=
                             </acdh:hasAuthor>
                         </acdh:authors>
                         
-                return
+                where $collName != 'utils'        
+                return 
                     <acdh:Resource rdf:about="{string-join(($collID, $doc), '/')}">
                         {$title}
                         {$startDate}
@@ -165,9 +167,14 @@ let $RDF :=
                         {for $x in $author//acdh:hasAuthor return $x}
                         {$prev}
                         {$next}
+                        <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
+                        <acdh:hasCustomXSL rdf:resource="https://id.acdh.oeaw.ac.at/thun/utils/tei2html.xsl"/>
+                        <acdh:hasSchema>https://www.tei-c.org/release/xml/tei/schema/relaxng/tei.rng</acdh:hasSchema>
+                        <acdh:hasLicense rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
                         <acdh:isPartOf rdf:resource="{$collID}"/>
                     </acdh:Resource>
         }
+        {$customResources}
 
     </rdf:RDF>
     
