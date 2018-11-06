@@ -110,49 +110,49 @@ let $RDF :=
                 let $author := 
                         if($collName = "editions") then 
                         <acdh:authors>
-                            <acdh:hasAuthor>
+                            <acdh:hasCreator>
                                 <acdh:Person rdf:about="http://d-nb.info/gnd/107360859X"/>
-                            </acdh:hasAuthor>
-                            <acdh:hasAuthor>
+                            </acdh:hasCreator>
+                            <acdh:hasCreator>
                                 <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/thun/kraler-tanja"/>
-                            </acdh:hasAuthor>
+                            </acdh:hasCreator>
                         </acdh:authors>
                          else if($collName = 'meta') then
                          <acdh:authors>
-                            <acdh:hasAuthor>
+                            <acdh:hasCreator>
                                 <acdh:Person rdf:about="http://d-nb.info/gnd/107360859X"/>
-                            </acdh:hasAuthor>
+                            </acdh:hasCreator>
                           </acdh:authors>
                           else if($doc = 'listorg.xml') then
                           <acdh:authors>
-                            <acdh:hasAuthor>
+                            <acdh:hasCreator>
                                 <acdh:Person rdf:about="https://orcid.org/0000-0001-7081-2280"/>
-                            </acdh:hasAuthor>
-                            <acdh:hasAuthor>
+                            </acdh:hasCreator>
+                            <acdh:hasCreator>
                                 <acdh:Person rdf:about="http://d-nb.info/gnd/1043833846"/>
-                            </acdh:hasAuthor>
+                            </acdh:hasCreator>
                           </acdh:authors>
                           else if($doc = 'cmfi.xml') then
                           <acdh:authors>
-                            <acdh:hasAuthor>
+                            <acdh:hasCreator>
                                 <acdh:Person rdf:about="http://d-nb.info/gnd/1043833846"/>
-                            </acdh:hasAuthor>
+                            </acdh:hasCreator>
                           </acdh:authors>
                           
                           else if($doc = 'listplace.xml') then
                           <acdh:authors>
-                            <acdh:hasAuthor>
+                            <acdh:hasCreator>
                                 <acdh:Person rdf:about="https://orcid.org/0000-0003-2388-1114"/>
-                            </acdh:hasAuthor>
+                            </acdh:hasCreator>
                           </acdh:authors>
                           else
                             <acdh:authors>
-                            <acdh:hasAuthor>
+                            <acdh:hasCreator>
                                 <acdh:Person rdf:about="http://d-nb.info/gnd/107360859X"/>
-                            </acdh:hasAuthor>
-                            <acdh:hasAuthor>
+                            </acdh:hasCreator>
+                            <acdh:hasCreator>
                                 <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/thun/kraler-tanja"/>
-                            </acdh:hasAuthor>
+                            </acdh:hasCreator>
                         </acdh:authors>
                         
                 where $collName != 'utils'        
@@ -164,7 +164,7 @@ let $RDF :=
                         {$persons}
                         {$places}
                         {$orgs}
-                        {for $x in $author//acdh:hasAuthor return $x}
+                        {for $x in $author//acdh:hasCreator return $x}
                         {$prev}
                         {$next}
                         <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
